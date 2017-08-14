@@ -1,0 +1,211 @@
+w: <<acathexis>>
+hyper: [[libidinal_energy]]
+dt: [[file:noun.act.org::psychoanalysis]]
+g: (psychoanalysis) a lack of cathexis; a condition in which significant objects or memories arouse no emotion in an individual
+
+w: <<cathexis>> drf [[file:adj.pert.org::cathectic]]
+w: <<charge>>
+hyper: [[libidinal_energy]]
+dt: [[file:noun.act.org::psychoanalysis]]
+g: (psychoanalysis) the libidinal energy invested in some idea or person or object; "Freud thought of cathexis as a psychic analog of an electrical charge"
+
+w: <<libidinal_energy>>
+hyper: [[psychic_energy]]
+dt: [[file:noun.act.org::psychoanalysis]]
+g: (psychoanalysis) psychic energy produced by the libido
+
+w: <<signal>>
+hyper: [[incitement]]
+g: any incitement to action; "he awaited the signal to start"; "the victory was a signal for wild celebration"
+
+w: <<incitement>> drf [[file:verb.contact.org::incite]]
+w: <<incitation>> drf [[file:verb.creation.org::incite]] drf [[file:verb.contact.org::incite]] drf [[file:verb.communication.org::incite]]
+w: <<provocation>> drf [[file:verb.emotion.org::provoke]] drf [[file:verb.creation.org::provoke]] drf [[file:verb.communication.org::provoke]]
+hyper: [[psychic_energy]]
+g: something that incites or provokes; a means of arousing or stirring to action
+
+w: <<psychic_energy>>
+w: <<mental_energy>>
+hyper: [[file:noun.Tops.org::motivation]]
+g: an actuating force or factor
+
+w: <<Inner_Light>>
+w: <<Light>>
+w: <<Light_Within>>
+w: <<Christ_Within>>
+hyper: [[ethical_motive]]
+g: a divine presence believed by Quakers to enlighten and guide the soul
+
+w: <<sense_of_shame>>
+w: <<sense_of_duty>>
+hyper: [[conscience]]
+g: a motivating awareness of ethical responsibility
+
+w: <<wee_small_voice>>
+w: <<small_voice>>
+w: <<voice_of_conscience>>
+hyper: [[conscience]]
+g: an inner voice that judges your behavior
+
+w: <<conscience>>
+w: <<scruples>>
+w: <<moral_sense>>
+w: <<sense_of_right_and_wrong>>
+hyper: [[ethical_motive]]
+g: motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions
+
+w: <<hedonism>> drf [[file:adj.all.org::hedonistic]] drf [[file:adj.all.org::hedonic]] drf [[file:noun.person.org::hedonist]]
+hyper: [[ethical_motive]]
+g: the pursuit of pleasure as a matter of ethical principle
+
+w: <<ethical_motive>>
+w: <<ethics>> drf [[file:adj.all.org::ethical]] drf [[file:adj.all.org::ethical]] drf [[file:noun.person.org::ethicist]] drf [[file:noun.person.org::ethician]]
+w: <<morals>>
+w: <<morality>> drf [[file:adj.all.org::moralistic]]
+hyper: [[file:noun.Tops.org::motivation]]
+g: motivation based on ideas of right and wrong
+
+w: <<onomatomania>>
+hyper: [[compulsion]]
+g: obsession with a particular word which the person uses repeatedly or which intrudes into consciousness
+
+w: <<compulsion>> drf [[file:adj.all.org::compulsive]] drf [[file:noun.person.org::compulsive]]
+w: <<obsession>> drf [[file:adj.all.org::obsessional]]
+hyper: [[irrational_motive]]
+g: an irrational motive for performing trivial or repetitive actions, even against your will; "her compulsion to wash her hands repeatedly"
+
+w: <<wanderlust>>
+w: <<itchy_feet>>
+hyper: [[urge]]
+g: very strong or irresistible impulse to travel
+
+w: <<trichotillomania>>
+hyper: [[mania]]
+g: an irresistible urge to pull out your own hair
+
+w: <<pyromania>>
+hyper: [[mania]]
+g: an uncontrollable desire to set fire to things
+
+w: <<phaneromania>>
+hyper: [[mania]]
+g: an irresistible desire to pick at superficial body parts (as in obsessive nail-biting)
+
+w: <<necrophilia>>
+w: <<necrophilism>>
+w: <<necromania>>
+hyper: [[mania]]
+g: an irresistible sexual attraction to dead bodies
+
+w: <<monomania>> drf [[file:adj.all.org::monomaniacal]]
+w: <<possession>>
+hyper: [[mania]]
+g: a mania restricted to one thing or idea
+
+w: <<logorrhea>>
+w: <<logomania>>
+hyper: [[mania]]
+g: pathologically excessive (and often incoherent) talking
+
+w: <<kleptomania>>
+hyper: [[mania]]
+g: an irresistible impulse to steal in the absence of any economic motive
+
+w: <<egomania>>
+hyper: [[mania]]
+g: an intense and irresistible love for yourself and concern for your own needs
+
+w: <<dipsomania>>
+w: <<alcoholism1>>
+w: <<potomania>>
+hyper: [[mania]]
+g: an intense persistent desire to drink alcoholic beverages to excess
+
+w: <<agromania>>
+hyper: [[mania]]
+g: an intense desire to be alone or out in the open
+
+w: <<mania>> drf [[file:adj.all.org::manic]]
+w: <<passion>>
+w: <<cacoethes>>
+hyper: [[irrational_motive]]
+g: an irrational but irresistible motive for a belief or action
+
+w: <<compulsion1>> drf [[file:adj.all.org::compulsive]]
+w: <<irresistible_impulse>>
+hyper: [[irrational_impulse]]
+g: an urge to do or say something that might be better left undone or unsaid; "he felt a compulsion to babble on about the accident"
+
+w: <<irrational_impulse>>
+hyper: [[irrational_motive]]
+g: a strong spontaneous and irrational motivation; "his first impulse was to denounce them"; "the urge to find out got him into trouble"
+
+w: <<death_instinct>>
+w: <<death_wish>>
+w: <<Thanatos>>
+hyper: [[urge]]
+dt: [[file:noun.act.org::psychoanalysis]]
+g: (psychoanalysis) an unconscious urge to die
+
+w: <<adience>> drf [[file:adj.pert.org::adient]] ant [[abience]]
+hyper: [[urge]]
+dt: [[file:noun.cognition.org::psychology]]
+g: (psychology) an urge to accept or approach a situation or an object
+
+w: <<abience>> drf [[file:adj.pert.org::abient]] ant [[adience]]
+hyper: [[urge]]
+dt: [[file:noun.cognition.org::psychology]]
+g: (psychology) an urge to withdraw or avoid a situation or an object
+
+w: <<urge>>
+w: <<impulse>>
+hyper: [[file:noun.Tops.org::motivation]]
+g: an instinctive motive; "profound religious impulses"
+
+w: <<irrational_motive>>
+hyper: [[file:noun.Tops.org::motivation]]
+g: a motivation that is inconsistent with reason or logic
+
+w: <<disincentive>> ant [[incentive]]
+w: <<deterrence>> drf [[file:adj.all.org::deterrent]]
+hyper: [[rational_motive]]
+g: a negative motivational influence
+
+w: <<moral_force>>
+w: <<dynamic>>
+hyper: [[incentive]]
+g: an efficient incentive; "they hoped it would act as a spiritual dynamic on all churches"
+
+w: <<incentive>> ant [[disincentive]]
+w: <<inducement>> drf [[file:verb.communication.org::induce]]
+w: <<motivator>> drf [[file:verb.creation.org::motivate]]
+hyper: [[rational_motive]]
+g: a positive motivational influence
+
+w: <<why>>
+w: <<wherefore>>
+hyper: [[reason]]
+g: the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'
+
+w: <<score>>
+w: <<account>>
+hyper: [[reason]]
+g: grounds; "don't do it on my account"; "the paper was rejected on account of its length"; "he tried to blame the victim but his success on that score was doubtful"
+
+w: <<occasion>> drf [[file:verb.creation.org::occasion]]
+hyper: [[reason]]
+g: reason; "there was no occasion for complaint"
+
+w: <<reason>> drf [[file:verb.cognition.org::reason1]]
+w: <<ground>> drf [[file:verb.cognition.org::ground]]
+hyper: [[rational_motive]]
+g: a rational motive for a belief or action; "the reason that war was declared"; "the grounds for their declaration"
+
+w: <<rational_motive>>
+hyper: [[file:noun.Tops.org::motivation]]
+g: a motive that can be defended by reasoning or logical argument
+
+w: <<life>>
+hyper: [[file:noun.Tops.org::motivation]]
+g: a motive for living; "pottery was his life"
+

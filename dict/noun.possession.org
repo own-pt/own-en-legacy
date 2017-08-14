@@ -1,0 +1,4956 @@
+w: <<bottom_line>>
+hyper: [[file:noun.communication.org::line2]]
+hp: [[audited_account]]
+g: the last line in an audit; the line that shows profit or loss
+
+w: <<matching_funds>>
+hyper: [[funds]]
+g: funds that will be supplied in an amount matching the funds available from other sources
+
+w: <<time_draft>>
+w: <<time_bill>>
+hyper: [[draft]]
+g: a draft payable at a specified future date
+
+w: <<sight_draft>>
+w: <<sight_bill>>
+hyper: [[draft]]
+g: a draft payable on presentation
+
+w: <<ready_cash>>
+w: <<cold_cash>>
+w: <<ready_money>>
+hyper: [[cash]]
+g: money in the form of cash that is readily available; "his wife was always a good source of ready cash"; "he paid cold cash for the TV set"
+
+w: <<pocket_money>>
+w: <<pin_money>>
+w: <<spending_money>>
+hyper: [[cash]]
+g: cash for day-to-day spending on incidental expenses
+
+w: <<petty_cash>>
+hyper: [[fund]]
+g: a small fund of cash that a firm keeps for the payment of incidental expenses
+
+w: <<operating_budget>>
+hyper: [[budget2]]
+g: a budget for current expenses as distinct from financial transactions or permanent improvements
+
+w: <<Civil_List>>
+hyper: [[budget2]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a sum of money voted by British Parliament each year for the expenses of the British royal family
+
+w: <<budget2>> drf [[file:adj.pert.org::budgetary]] drf [[file:verb.cognition.org::budget]]
+hyper: [[fund]]
+g: a sum of money allocated for a particular purpose; "the laboratory runs on a budget of a million a year"
+
+w: <<balanced_budget>>
+hyper: [[budget3]]
+g: a budget is balanced when current expenditures are equal to receipts
+
+w: <<budget3>> drf [[file:adj.pert.org::budgetary]] drf [[file:verb.cognition.org::budget]]
+hyper: [[file:noun.cognition.org::plan]]
+g: a summary of intended expenditures along with proposals for how to meet them; "the president submitted the annual budget to Congress"
+
+w: <<over_the_counter_stock>>
+w: <<OTC_stock>>
+w: <<unlisted_stock>>
+hyper: [[unlisted_security]]
+g: stock that is not listed and traded on an organized exchange
+
+w: <<unlisted_security>> ant [[listed_security]]
+w: <<over_the_counter_security>>
+w: <<OTC_security>>
+hyper: [[security4]]
+g: a security traded in the over-the-counter market
+
+w: <<listed_security>> ant [[unlisted_security]]
+hyper: [[security4]]
+g: a security that has been accepted for trading by one of the organized and registered securities exchanges in the US
+
+w: <<letter_bond>>
+hyper: [[letter_security]]
+g: a bond that has not been registered with the Securities and Exchange Commission and cannot be sold to the general public
+
+w: <<letter_stock>>
+hyper: [[letter_security]]
+g: stock that has not been registered with the Securities and Exchange Commission and cannot be sold to the general public
+
+w: <<watered_stock>>
+hyper: [[stock]]
+g: stock representing ownership of overvalued assets; stock of a corporation whose total worth is less than its invested capital
+
+w: <<voting_stock>>
+hyper: [[stock]]
+g: shares in a corporation that entitle the shareholder to voting and proxy rights
+
+w: <<treasury_stock>>
+w: <<treasury_shares>>
+w: <<reacquired_stock>>
+hyper: [[stock]]
+g: stock that has been bought back by the issuing corporation and is available for retirement or resale; it is issued but not outstanding; it cannot vote and pays no dividends
+
+w: <<investment_letter>>
+hyper: [[file:noun.communication.org::letter_of_intent]]
+g: a letter of intent saying that a letter security is being bought for investment and not for resale; avoids need for SEC registration
+
+w: <<letter_security>>
+hyper: [[security4]]
+g: a stock or bond that is not registered with the Securities and Exchange Commission and cannot be sold in the public market
+
+w: <<convertible>>
+w: <<convertible_security>>
+hyper: [[security4]]
+g: a corporate security (usually bonds or preferred stock) that can be exchanged for another form of security (usually common stock)
+
+w: <<proprietorship_certificate>>
+hyper: [[security4]]
+g: a certificate showing who is responsible in an individually owned business
+
+w: <<partnership_certificate>>
+hyper: [[security4]]
+g: a certificate showing the interests of all parties in a business partnership
+
+w: <<zero-coupon_security>>
+w: <<zero_coupon_security>>
+hyper: [[security4]]
+g: a security that makes no interest payments but instead is sold at a deep discount from its face value
+
+w: <<subscription_warrant>>
+hyper: [[warrant]]
+g: a warrant that expires on a stipulated date
+
+w: <<perpetual_warrant>>
+hyper: [[warrant]]
+g: a warrant with no expiration date
+
+w: <<warrant>>
+w: <<stock_warrant>>
+w: <<stock-purchase_warrant>>
+hyper: [[security]]
+g: a type of security issued by a corporation (usually together with a bond or preferred stock) that gives the holder the right to purchase a certain amount of common stock at a stated price; "as a sweetener they offered warrants along with the fixed-income securities"
+
+w: <<Premium_Bond>>
+hyper: [[bond2]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a government bond that bears no interest or capital gains but enters the holder into lotteries
+
+w: <<bond2>> drf [[file:verb.possession.org::bond]]
+w: <<bond_certificate>>
+hyper: [[debt_instrument]]
+hyper: [[security4]]
+g: a certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal
+
+w: <<tax-exempt_security>>
+w: <<tax-exempt>>
+hyper: [[security4]]
+g: a security that is not subject to taxation
+
+w: <<stock_certificate>>
+w: <<stock2>>
+hyper: [[security4]]
+g: a certificate documenting the shareholder's ownership in the corporation; "the value of his stocks doubled during the past year"
+
+w: <<scrip>>
+hyper: [[security4]]
+g: a certificate whose value is recognized by the payer and payee; scrip is not currency but may be convertible into currency
+
+w: <<security4>>
+w: <<certificate>> drf [[file:verb.possession.org::certify2]] drf [[file:verb.possession.org::certificate]] drf [[file:verb.communication.org::certificate]]
+hyper: [[file:noun.communication.org::legal_document]]
+g: a formal declaration that documents a fact of relevance to finance and investment; the holder has a right to receive interest or dividends; "he held several valuable securities"
+
+w: <<devise2>> drf [[file:verb.possession.org::devise]]
+hyper: [[file:noun.communication.org::will]]
+g: a will disposing of real property
+
+w: <<European_plan>>
+w: <<continental_plan>>
+hyper: [[hotel_plan]]
+g: a hotel plan that provides a continental breakfast daily
+
+w: <<Bermuda_plan>>
+hyper: [[hotel_plan]]
+g: a hotel plan that provides a full breakfast daily
+
+w: <<modified_American_plan>>
+hyper: [[American_plan]]
+g: a hotel plan that includes breakfast and dinner (but not lunch)
+
+w: <<American_plan>>
+hyper: [[hotel_plan]]
+g: a hotel plan that includes three meals daily
+
+w: <<hotel_plan>>
+w: <<meal_plan>>
+hyper: [[file:noun.cognition.org::design1]]
+g: a plan and a room rate for providing a room and meals to guests at a hotel
+
+w: <<floater>>
+hyper: [[debt_instrument]]
+g: a debt instrument with a variable interest rate tied to some other interest rate (e.g. the rate paid by T-bills)
+
+w: <<time_note>>
+hyper: [[note]]
+g: a note that specifies the time (or times) of repayment
+
+w: <<IOU>>
+hyper: [[note]]
+g: an informal debt instrument; representing `I owe you'
+
+w: <<municipal_note>>
+hyper: [[note]]
+g: a municipal debt instrument with a maturity of less than 2 years
+
+w: <<commercial_paper>>
+hyper: [[cash_equivalent]]
+g: an unsecured and unregistered short-term obligation issued by an institutional borrower to investors who have temporarily idle cash
+
+w: <<escrow_funds>>
+hyper: [[funds]]
+g: funds held in escrow
+
+w: <<escrow>>
+hyper: [[file:noun.communication.org::written_agreement]]
+g: a written agreement (or property or money) delivered to a third party or put in trust by one party to a contract to be returned after fulfillment of some condition
+
+w: <<pawn_ticket>>
+hyper: [[file:noun.communication.org::receipt]]
+g: a pawnbroker's receipt for articles taken as security
+
+w: <<checkbook>>
+w: <<chequebook>>
+hyper: [[record]]
+g: a book issued to holders of checking accounts
+
+w: <<bankbook>>
+w: <<passbook>>
+hyper: [[record]]
+g: a record of deposits and withdrawals and interest held by depositors at certain banks
+
+w: <<premium>>
+hyper: [[value]]
+g: the amount that something in scarce supply is valued above its nominal value; "they paid a premium for access to water"
+
+w: <<mess_of_pottage>>
+hyper: [[value]]
+g: anything of trivial value; "Esau sold his birthright to Jacob for a mess of pottage"
+
+w: <<value>> drf [[file:verb.cognition.org::value]] drf [[file:verb.cognition.org::value3]] drf [[file:verb.cognition.org::evaluate]] drf [[file:verb.cognition.org::valuate]]
+w: <<economic_value>>
+hyper: [[file:noun.Tops.org::measure]]
+g: the amount (of money or goods or services) that is considered to be a fair equivalent for something else; "he tried to estimate the value of the produce at normal prices"
+
+w: <<purse1>>
+hyper: [[sum]]
+g: a sum of money spoken of as the contents of a money purse; "he made the contribution out of his own purse"; "he and his wife shared a common purse"
+
+w: <<purse>>
+hyper: [[sum]]
+g: a sum of money offered as a prize; "the purse barely covered the winner's expenses"
+
+w: <<peanuts>>
+hyper: [[sum]]
+g: an insignificant sum of money; a trifling amount; "her salary is peanuts compared to his"
+
+w: <<payroll2>>
+w: <<paysheet2>>
+hyper: [[sum]]
+g: the total amount of money paid in wages; "the company had a large payroll"
+
+w: <<payroll>>
+w: <<paysheet>>
+hyper: [[register]]
+g: a list of employees and their salaries; "the company had a long payroll"
+
+w: <<inventory>>
+hyper: [[register]]
+dt: [[file:noun.cognition.org::accounting]]
+g: (accounting) the value of a firm's current assets including raw materials and work in progress and finished goods
+
+w: <<register>> drf [[file:verb.social.org::register5]] drf [[file:verb.communication.org::register3]] drf [[file:verb.social.org::register]]
+hyper: [[record]]
+g: a book in which names and transactions are listed
+
+w: <<payslip>>
+hyper: [[record]]
+g: a slip of paper included with your pay that records how much money you have earned and how much tax or insurance etc. has been taken out
+
+w: <<expense_account>>
+w: <<travel_and_entertainment_account>>
+hyper: [[account2]]
+g: an account to which salespersons or executives can charge travel and entertainment expenses
+
+w: <<analytical_review>>
+hyper: [[review]]
+g: an auditing procedure based on ratios among accounts and tries to identify significant changes
+
+w: <<review>>
+w: <<limited_review>>
+hyper: [[accounting1]]
+dt: [[file:noun.cognition.org::accounting]]
+g: (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data
+
+w: <<limited_audit>>
+hyper: [[audited_account]]
+g: an audit of limited scope (limited in time span or confined to particular accounts etc.)
+
+w: <<audited_account>>
+w: <<audit>> drf [[file:verb.cognition.org::audit1]]
+hyper: [[accounting1]]
+g: an inspection of the accounting procedures and records by a trained accountant or CPA
+
+w: <<trial_balance>>
+hyper: [[balance]]
+g: a balance of debits and credits in double-entry bookkeeping; drawn up to test their equality
+
+w: <<current_account>>
+hyper: [[file:noun.cognition.org::accounting]]
+hp: [[balance_of_payments]]
+g: that part of the balance of payments recording a nation's exports and imports of goods and services and transfer payments
+
+w: <<balance_of_payments>>
+w: <<balance_of_international_payments>>
+hyper: [[file:noun.cognition.org::accounting]]
+g: a system of recording all of a country's economic transactions with the rest of the world over a period of one year; "a favorable balance of payments exists when more payments are coming in than going out"
+
+w: <<invisible_balance>>
+hyper: [[balance1]]
+g: the difference in value over a period of time of a country's imports and exports of services and payments of property incomes
+
+w: <<compensating_balance>>
+w: <<offsetting_balance>>
+hyper: [[balance1]]
+g: a minimum credit balance that a bank may require a borrower to keep on deposit as a condition for granting a loan; a common requirement for establishing a line of credit at a bank; "the compensating balance increases the effective interest rate to the bank since the net amount loaned is reduced but the interest paid is unchanged"
+
+w: <<carry-over>>
+w: <<carry-forward>>
+hyper: [[balance1]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: the accumulated and undivided profits of a corporation after provision has been made for dividends and reserves
+
+w: <<balance_of_trade>>
+w: <<trade_balance>>
+w: <<visible_balance>>
+w: <<trade_gap>>
+hyper: [[balance1]]
+g: the difference in value over a period of time of a country's imports and exports of merchandise; "a nation's balance of trade is favorable when its exports exceed its imports"
+
+w: <<balance1>>
+hyper: [[file:noun.quantity.org::remainder]]
+g: the difference between the totals of the credit and debit sides of an account
+
+w: <<balance>> drf [[file:verb.possession.org::balance]]
+hyper: [[file:noun.attribute.org::equality]]
+hp: [[account2]]
+g: equality between the totals of the credit and debit sides of an account
+
+w: <<suspense_account>>
+hyper: [[account2]]
+g: an account used temporarily to carry doubtful receipts and disbursements or discrepancies pending their analysis and permanent classification
+
+w: <<divvy>>
+hyper: [[dividend]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: short for dividend; especially one paid by a cooperative society
+
+w: <<equalizing_dividend>>
+hyper: [[dividend]]
+g: a dividend paid to compensate shareholders for losses resulting from a change in the dividend schedule
+
+w: <<extra_dividend>>
+hyper: [[dividend]]
+g: a dividend paid in addition to the regular dividend
+
+w: <<stock_dividend>>
+hyper: [[dividend]]
+g: a dividend paid in stock rather than in cash
+
+w: <<dividend>>
+hyper: [[net_income]]
+g: that part of the earnings of a corporation that is distributed to its shareholders; usually paid quarterly
+
+w: <<profit_and_loss>>
+w: <<profit_and_loss_account>>
+hyper: [[account2]]
+g: an account compiled at the end of an accounting period to show gross and net profit or loss
+
+w: <<note_payable>>
+hyper: [[note]]
+g: a note promising to pay a certain amount of money at a certain time
+
+w: <<accounts_payable>>
+hyper: [[liabilities]]
+g: a debtor's accounts of money he owes; normally arise from the purchase of products or services
+
+w: <<note_receivable>>
+hyper: [[note]]
+g: your right in a promissory note in which the maker promises to pay a certain amount of money at a certain time
+
+w: <<accounts_receivable>>
+hyper: [[assets]]
+du: [[file:noun.communication.org::plural]]
+g: a creditor's accounts of money owed to him; normally arise from the sale of products or services
+
+w: <<pooling_of_interest>>
+hyper: [[accounting1]]
+g: an accounting method used in the merging of companies; the balance sheets are added together item by item; this method is tax-free
+
+w: <<cash_basis>> ant [[accrual_basis]]
+hyper: [[accounting1]]
+g: a method of accounting in which each item is entered as payments are received or made
+
+w: <<accrual_basis>> ant [[cash_basis]]
+hyper: [[accounting1]]
+g: a method of accounting in which each item is entered as it is earned or incurred regardless of when actual payments are received or made
+
+w: <<debit_side>>
+hyper: [[accounting1]]
+g: account of payments owed; usually the left side of a financial statement
+
+w: <<credit_side>>
+hyper: [[accounting1]]
+g: account of payments received; usually the right side of a financial statement
+
+w: <<accounting1>> drf [[file:verb.possession.org::account]]
+w: <<accounting_system>>
+w: <<method_of_accounting>>
+hyper: [[register]]
+hm: [[ledger]]
+g: a bookkeeper's chronological list of related debits and credits of a business; forms part of a ledger of accounts
+
+w: <<debit1>> drf [[file:verb.possession.org::debit]] ant [[credit1]]
+w: <<debit_entry>>
+hyper: [[entry]]
+g: an accounting entry acknowledging sums that are owing
+
+w: <<credit1>> drf [[file:verb.possession.org::credit]] ant [[debit1]]
+w: <<credit_entry>>
+hyper: [[entry]]
+g: an accounting entry acknowledging income or capital items
+
+w: <<adjusting_entry>>
+hyper: [[entry]]
+g: an accounting entry made at the end of an accounting period to allocate items between accounting periods
+
+w: <<entry>>
+w: <<accounting_entry>>
+w: <<ledger_entry>>
+hyper: [[accounting1]]
+g: a written record of a commercial transaction
+
+w: <<daybook>>
+w: <<journal>>
+hyper: [[ledger]]
+g: a ledger in which transactions have been recorded as they occurred
+
+w: <<control_account>>
+hyper: [[accounting1]]
+hp: [[general_ledger]]
+g: an account that shows totals of amounts entered in a subsidiary ledger
+
+w: <<subsidiary_ledger>>
+hyper: [[ledger]]
+g: details of an account supporting the amount stated in the general ledger
+
+w: <<general_ledger>>
+hyper: [[ledger]]
+g: the ledger that contains all of the financial accounts of a business; contains offsetting debit and credit accounts (including control accounts)
+
+w: <<cost_ledger>>
+hyper: [[ledger]]
+g: ledger showing the accumulated costs classified in various ways
+
+w: <<ledger>>
+w: <<leger>>
+w: <<account_book>>
+w: <<book_of_account>>
+w: <<book>>
+hyper: [[record]]
+g: a record in which commercial accounts are recorded; "they got a subpoena to examine our books"
+
+w: <<expense_record>>
+hyper: [[record]]
+g: a written record of money spent
+
+w: <<balance_sheet>>
+hyper: [[record]]
+g: a record of the financial situation of an institution on a particular date by listing its assets and the claims against those assets
+
+w: <<record>> drf [[file:verb.communication.org::record]]
+hyper: [[document]]
+dt: [[file:noun.group.org::law]]
+g: a document that can serve as legal evidence of a transaction; "they could find no record of the purchase"
+
+w: <<quittance1>>
+hyper: [[document]]
+g: a document or receipt certifying release from an obligation or debt
+
+w: <<document>> drf [[file:adj.pert.org::documentary]]
+hyper: [[file:noun.Tops.org::communication]]
+g: a written account of ownership or obligation
+
+w: <<assessment>> drf [[file:verb.possession.org::assess1]] drf [[file:verb.possession.org::assess]]
+hyper: [[charge1]]
+g: an amount determined as payable; "the assessment for repairs outraged the club's membership"
+
+w: <<encumbrance>>
+w: <<incumbrance>>
+hyper: [[charge1]]
+g: a charge against property (as a lien or mortgage)
+
+w: <<warehouseman's_lien>>
+hyper: [[lien]]
+g: right of a warehouseman to retain goods until all storage charges have been paid
+
+w: <<tax_lien>>
+hyper: [[lien]]
+g: lien of which a tax collector may avail himself in default of taxes (analogous to a judgment lien)
+
+w: <<state_tax_lien>>
+hyper: [[tax_lien]]
+g: a lien on the property of a taxpayer that the tax collector can use upon default of payment of taxes
+
+w: <<garageman's_lien>>
+hyper: [[mechanic's_lien]]
+g: the extension of a mechanic's lien to include payment for work on automobiles
+
+w: <<mechanic's_lien>>
+hyper: [[lien]]
+g: lien to secure payment for work and materials in erecting or repairing a building or other structure
+
+w: <<landlord's_lien>>
+hyper: [[lien]]
+g: lien on a tenant's property for the satisfaction of unpaid rent or property damage; the landlord is given the status of a preferred creditor with regard to the tenant's property
+
+w: <<judgment_lien>>
+hyper: [[lien]]
+g: lien on a debtor's property that is granted to a creditor by court judgment; lien may be enforced by having the sheriff seize the property and hold a sheriff's sale
+
+w: <<general_lien>>
+hyper: [[lien]]
+g: a lien on all the property owned by a debtor and not just a specific property
+
+w: <<federal_tax_lien>>
+hyper: [[tax_lien]]
+g: lien of the United States on all property of a taxpayer who fails to pay the federal government the taxes for which he or she is liable
+
+w: <<artisan's_lien>>
+hyper: [[lien]]
+g: lien permitting an artisan to retain possession of a piece of work until has been paid for
+
+w: <<lien>>
+hyper: [[security_interest]]
+g: the right to take another's property if an obligation is not discharged
+
+w: <<charge1>> drf [[file:verb.possession.org::charge2]]
+hyper: [[liabilities]]
+dt: [[tax]]
+g: financial liabilities (such as a tax); "the charges against the estate"
+
+w: <<principal1>>
+hyper: [[debt]]
+hp: [[loan]]
+g: the original amount of a debt on which interest is calculated
+
+w: <<demand_note>>
+hyper: [[note]]
+g: a note payable on demand
+
+w: <<time_loan>>
+hyper: [[loan]]
+g: a loan that is payable on or before a specified date
+
+w: <<real_estate_loan>>
+w: <<mortgage_loan>>
+hyper: [[loan]]
+g: a loan on real estate that is usually secured by a mortgage
+
+w: <<point>>
+hyper: [[loan]]
+g: one percent of the total principal of a loan; it is paid at the time the loan is made and is independent of the interest on the loan
+
+w: <<automobile_loan>>
+w: <<auto_loan>>
+w: <<car_loan>>
+hyper: [[personal_loan]]
+g: a personal loan to purchase an automobile
+
+w: <<personal_loan>>
+w: <<consumer_loan>>
+hyper: [[loan]]
+g: a loan that establishes consumer credit that is granted for personal use; usually unsecured and based on the borrower's integrity and ability to pay
+
+w: <<participation_loan>>
+w: <<loan_participation>>
+w: <<participation_financing>>
+hyper: [[loan]]
+g: a loan that is shared by a group of banks that join to make a loan too big for any one of them alone
+
+w: <<direct_loan>>
+hyper: [[loan]]
+g: a loan by a lender to a customer without the use of a third party; direct lending gives the lender greater discretion in making loans
+
+w: <<call_loan>>
+w: <<demand_loan>>
+hyper: [[loan]]
+g: a loan that is repayable on demand
+
+w: <<loan>> drf [[file:verb.possession.org::loan]]
+hyper: [[debt]]
+g: the temporary provision of money (usually at interest)
+
+w: <<installment_debt>>
+hyper: [[debt]]
+g: debt to be paid by installments
+
+w: <<bad_debt>>
+hyper: [[debt]]
+g: a debt that is unlikely to be repaid
+
+w: <<note>>
+w: <<promissory_note>>
+w: <<note_of_hand>>
+hyper: [[debt_instrument]]
+g: a promise to pay a specified amount on demand or at a certain time; "I had to co-sign his note at the bank"
+
+w: <<debt_instrument>>
+w: <<obligation>>
+w: <<certificate_of_indebtedness>>
+hyper: [[document]]
+g: a written promise to repay a debt
+
+w: <<national_debt_ceiling>>
+hyper: [[debt_limit]]
+g: a limit set by Congress beyond which the national debt cannot rise; periodically raised by Congress
+
+w: <<debt_limit>>
+w: <<debt_ceiling>>
+hyper: [[debt]]
+g: the maximum borrowing power of a governmental entity
+
+w: <<public_debt>>
+hyper: [[debt]]
+g: the total of the nation's debts: debts of local and state and national governments; an indicator of how much public spending is financed by borrowing instead of taxation
+
+w: <<national_debt>>
+hyper: [[debt]]
+g: the debt of the national government (as distinguished from the debts of individuals and businesses and political subdivisions)
+
+w: <<arrears>>
+hyper: [[debt]]
+g: an unpaid overdue debt
+
+w: <<debt>>
+hyper: [[liabilities]]
+g: money or goods or services owed by one person to another
+
+w: <<limited_liability>>
+hyper: [[file:noun.state.org::indebtedness]]
+g: the liability of a firm's owners for no more than the capital they have invested in the firm
+
+w: <<due>>
+hyper: [[fixed_charge]]
+g: a payment that is due (e.g., as the price of membership); "the society dropped him for non-payment of dues"
+
+w: <<trade_deficit>>
+hyper: [[deficit]]
+g: an excess of imports over exports
+
+w: <<federal_deficit>>
+hyper: [[budget_deficit]]
+g: an excess of the federal government's spending over its revenue; "federal deficits can cause inflation"
+
+w: <<budget_deficit>>
+hyper: [[deficit]]
+g: an excess of expenditures over revenues
+
+w: <<deficit>>
+hyper: [[liabilities]]
+g: an excess of liabilities over assets (usually over a certain period); "last year there was a serious budgetary deficit"
+
+w: <<liabilities>>
+hyper: [[file:noun.Tops.org::possession]]
+du: [[file:noun.communication.org::plural]]
+g: anything that is owed to someone else
+
+w: <<dollar>>
+w: <<dollar_bill>>
+w: <<one_dollar_bill>>
+w: <<buck>>
+w: <<clam>>
+hyper: [[bill]]
+dr: [[file:noun.location.org::United_States]]
+g: a piece of paper money worth one dollar
+
+w: <<two_dollar_bill>>
+hyper: [[bill]]
+g: a United States bill worth 2 dollars
+
+w: <<nickel1>>
+w: <<nickel_note>>
+hyper: [[fiver]]
+g: five dollars worth of a drug; "a nickel bag of drugs"; "a nickel deck of heroin"
+
+w: <<fiver>>
+w: <<five-spot>>
+w: <<five_dollar_bill>>
+hyper: [[bill]]
+g: a United States bill worth 5 dollars
+
+w: <<tenner>>
+w: <<ten_dollar_bill>>
+hyper: [[bill]]
+g: a United States bill worth 10 dollars
+
+w: <<twenty_dollar_bill>>
+w: <<twenty>>
+hyper: [[bill]]
+g: a United States bill worth 20 dollars
+
+w: <<fifty_dollar_bill>>
+w: <<fifty>>
+hyper: [[bill]]
+g: a United States bill worth 50 dollars
+
+w: <<hundred_dollar_bill>>
+w: <<c-note>>
+hyper: [[bill]]
+g: a United States bill worth 100 dollars
+
+w: <<Treasury_note>>
+hyper: [[Treasury1]]
+g: securities with maturities of 1 to 10 years; sold for cash or in exchange for maturing issues or at auction
+
+w: <<Treasury_bond>>
+hyper: [[Treasury1]]
+g: a debt instrument with maturities of 10 years or longer
+
+w: <<Treasury_bill>>
+w: <<T-bill>>
+hyper: [[Treasury1]]
+g: a short-term obligation that is not interest-bearing (it is purchased at a discount); can be traded on a discount basis for 91 days
+
+w: <<Treasury1>>
+w: <<Treasury_obligations>>
+hyper: [[government_bond]]
+g: negotiable debt obligations of the United States government which guarantees that interest and principal payments will be paid on time
+
+w: <<silver_certificate>>
+hyper: [[bill]]
+g: formerly a bank note issued by the United States Treasury and redeemable in silver
+
+w: <<bill>>
+w: <<note1>>
+w: <<government_note>>
+w: <<bank_bill>>
+w: <<banker's_bill>>
+w: <<bank_note>>
+w: <<banknote>>
+w: <<Federal_Reserve_note>>
+w: <<greenback1>>
+hyper: [[paper_money]]
+g: a piece of paper money (especially one issued by a central bank); "he peeled off five one-thousand-zloty notes"
+
+w: <<fiat_money>>
+hyper: [[paper_money]]
+g: money that the government declares to be legal tender although it cannot be converted into standard specie
+
+w: <<Maundy_money>>
+hyper: [[coin2]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: specially minted silver coins that are distributed by the British sovereign on Maundy Thursday
+
+w: <<sou>>
+hyper: [[coin2]]
+g: a former French coin of low denomination; often used of any small amount of money; "he hasn't a sou to his name"
+
+w: <<stater>>
+hyper: [[coin2]]
+g: any of the various silver or gold coins of ancient Greece
+
+w: <<medallion>>
+hyper: [[coin2]]
+g: any of various large ancient Greek coins
+
+w: <<louis_d'or>>
+hyper: [[coin2]]
+g: a former French gold coin
+
+w: <<doubloon>>
+hyper: [[coin2]]
+g: a former Spanish gold coin
+
+w: <<farthing>>
+hyper: [[coin2]]
+g: a former British bronze coin worth a quarter of a penny
+
+w: <<guinea>>
+hyper: [[coin2]]
+g: a former British gold coin worth 21 shillings
+
+w: <<half_eagle>>
+hyper: [[coin2]]
+g: a former gold coin in United States worth 5 dollars
+
+w: <<eagle>>
+hyper: [[coin2]]
+g: a former gold coin in the United States worth 10 dollars
+
+w: <<double_eagle>>
+hyper: [[coin2]]
+g: a former gold coin in the United States worth 20 dollars
+
+w: <<silver_dollar>>
+w: <<cartwheel>>
+hyper: [[dollar1]]
+g: a dollar made of silver
+
+w: <<Susan_B_Anthony_dollar>>
+hyper: [[dollar1]]
+g: a United States coin worth one dollar
+
+w: <<dollar1>>
+hyper: [[coin2]]
+g: a United States coin worth one dollar; "the dollar coin has never been popular in the United States"
+
+w: <<new_penny>>
+hyper: [[penny]]
+g: a coin used in Great Britain since 1971 worth one hundredth of a pound
+
+w: <<copper>>
+hyper: [[penny]]
+g: a copper penny
+
+w: <<ninepence>>
+hyper: [[coin2]]
+g: a coin worth nine pennies
+
+w: <<eightpence>>
+hyper: [[coin2]]
+g: a coin worth eight pennies
+
+w: <<sixpence>>
+w: <<tanner>>
+hyper: [[coin2]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a small coin of the United Kingdom worth six pennies; not minted since 1970
+
+w: <<fivepence>>
+hyper: [[coin2]]
+g: a coin worth five cents
+
+w: <<fourpence>>
+w: <<groat>>
+hyper: [[coin2]]
+g: a former English silver coin worth four pennies
+
+w: <<threepence>>
+hyper: [[coin2]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: former cupronickel coin of the United Kingdom equal to three pennies
+
+w: <<twopence>>
+w: <<tuppence>>
+hyper: [[coin2]]
+g: a former United Kingdom silver coin; United Kingdom bronze decimal coin worth two pennies
+
+w: <<tenpence>>
+hyper: [[coin2]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a decimal coin worth ten pennies
+
+w: <<slug>>
+hyper: [[coin2]]
+g: a counterfeit coin
+
+w: <<penny>>
+w: <<cent>>
+w: <<centime>>
+hyper: [[coin2]]
+g: a coin worth one-hundredth of the value of the basic unit
+
+w: <<halfpenny>>
+w: <<ha'penny>>
+hyper: [[coin2]]
+g: an English coin worth half a penny
+
+w: <<half_dollar>>
+w: <<fifty-cent_piece>>
+hyper: [[coin2]]
+g: a United States coin worth half of a dollar
+
+w: <<quarter>>
+hyper: [[coin2]]
+g: a United States or Canadian coin worth one fourth of a dollar; "he fed four quarters into the slot machine"
+
+w: <<nickel>>
+hyper: [[coin2]]
+g: a United States coin worth one twentieth of a dollar
+
+w: <<dime>>
+hyper: [[coin2]]
+g: a United States coin worth one tenth of a dollar
+
+w: <<half_crown>>
+hyper: [[coin2]]
+g: an English coin worth half a crown
+
+w: <<crown>>
+hyper: [[coin2]]
+g: an English coin worth 5 shillings
+
+w: <<shilling>>
+hyper: [[coin2]]
+g: an English coin worth one twentieth of a pound
+
+w: <<piece_of_eight>>
+hyper: [[coin2]]
+g: an old silver Spanish coin; worth 8 reales
+
+w: <<real>>
+hyper: [[coin2]]
+g: an old small silver Spanish coin
+
+w: <<ducat>>
+hyper: [[coin2]]
+g: formerly a gold coin of various European countries
+
+w: <<denier>>
+hyper: [[coin2]]
+g: any of various former European coins of different denominations
+
+w: <<bezant>>
+w: <<bezzant>>
+w: <<byzant>>
+w: <<solidus>>
+hyper: [[coin2]]
+g: a gold coin of the Byzantine Empire; widely circulated in Europe in the Middle Ages
+
+w: <<bawbee>>
+hyper: [[coin2]]
+g: an old Scottish coin of little value
+
+w: <<coin2>> drf [[file:verb.creation.org::coin]]
+hyper: [[coinage]]
+g: a flat metal piece (usually a disc) used as money
+
+w: <<change1>>
+hyper: [[coin2]]
+g: coins of small denomination regarded collectively; "he had a pocketful of change"
+
+w: <<small_change>>
+w: <<chickenfeed>>
+w: <<chump_change>>
+hyper: [[cash]]
+g: a trifling sum of money
+
+w: <<coinage>>
+w: <<mintage>>
+w: <<specie>>
+w: <<metal_money>>
+hyper: [[currency]]
+g: coins collectively
+
+w: <<change2>>
+hyper: [[cash]]
+g: the balance of money received when the amount you tender is greater than the amount due; "I paid with a twenty and pocketed the change"
+
+w: <<change3>>
+hyper: [[cash]]
+g: money received in return for its equivalent in a larger denomination or a different currency; "he got change for a twenty and used it to pay the taxi driver"
+
+w: <<paper_money>>
+w: <<folding_money>>
+w: <<paper_currency>>
+hyper: [[currency]]
+g: currency issued by a government or central bank and consisting of printed paper that can circulate as a substitute for specie
+
+w: <<hard_currency1>>
+hyper: [[currency]]
+g: a currency that is not likely to depreciate suddenly in value; "the countries agreed to conduct their bilateral trade in hard currency, replacing previous barter arrangements"; "Germany once had a solid economy, good fiscal and monetary policies, and a hard currency"
+
+w: <<cash>> drf [[file:verb.possession.org::cash]]
+w: <<hard_cash>>
+w: <<hard_currency>>
+hyper: [[currency]]
+g: money in the form of bills or coins; "there is a desperate shortage of hard cash"
+
+w: <<cash2>> ant [[credit]]
+w: <<immediate_payment>>
+hyper: [[payment]]
+g: prompt payment for goods or services in currency or by check
+
+w: <<fractional_currency>>
+hyper: [[paper_money]]
+g: paper currency in denominations less than the basic monetary unit
+
+w: <<Eurocurrency>>
+hyper: [[currency]]
+g: currency of the major financial and industrial countries held in those countries for the purpose of lending and borrowing
+
+w: <<currency>>
+hyper: [[medium_of_exchange]]
+g: the metal or paper medium of exchange that is presently used
+
+w: <<token_money>>
+hyper: [[money]]
+g: coins of regular issue whose face value is greater than their intrinsic value
+
+w: <<subsidization>> drf [[file:verb.possession.org::subsidize1]] drf [[file:verb.possession.org::subsidize]]
+w: <<subsidisation>> drf [[file:verb.possession.org::subsidise1]] drf [[file:verb.possession.org::subsidise]]
+hyper: [[money]]
+g: money (or other benefits) obtained as a subsidy
+
+w: <<shinplaster>>
+hyper: [[money]]
+g: paper money of little value issued on insufficient security
+
+w: <<boodle>>
+w: <<bread>>
+w: <<cabbage>> drf [[file:verb.possession.org::cabbage]]
+w: <<clams>>
+w: <<dinero>>
+w: <<dough>>
+w: <<gelt>>
+w: <<kale>>
+w: <<lettuce>>
+w: <<lolly>>
+w: <<lucre2>>
+w: <<loot1>>
+w: <<moolah>>
+w: <<pelf>>
+w: <<scratch>>
+w: <<shekels>>
+w: <<simoleons>>
+w: <<sugar>>
+w: <<wampum>>
+hyper: [[money]]
+g: informal terms for money
+
+w: <<sterling>>
+hyper: [[money1]]
+g: British money; especially the pound sterling as the basic monetary unit of the UK
+
+w: <<money1>> drf [[file:adj.pert.org::monetary]] drf [[file:noun.person.org::moneyer]]
+hyper: [[currency]]
+g: the official currency issued by a government or national bank; "he changed his money into francs"
+
+w: <<money>> drf [[file:adj.pert.org::monetary]] drf [[file:noun.person.org::moneyer]]
+hyper: [[medium_of_exchange]]
+hp: [[money_supply]]
+g: the most common medium of exchange; functions as legal tender; "we tried to collect the money he owed us"
+
+w: <<old-age_pension>>
+w: <<retirement_pension>>
+w: <<retirement_check>>
+w: <<retirement_benefit>>
+w: <<retirement_fund>>
+w: <<superannuation>>
+hyper: [[pension]]
+g: a monthly payment made to someone who is retired from work
+
+w: <<pension>> drf [[file:verb.possession.org::pension]]
+hyper: [[regular_payment]]
+g: a regular payment to a person that is intended to allow them to subsist without working
+
+w: <<medicare_check>>
+w: <<medicare_payment>>
+hyper: [[check]]
+g: a check reimbursing an aged person for the expenses of health care
+
+w: <<disability_check>>
+w: <<disability_payment>>
+hyper: [[regular_payment]]
+g: a monthly payment made to someone who has become disabled and is unable to work
+
+w: <<blank_check>>
+w: <<blank_cheque>>
+hyper: [[check]]
+hm: [[checkbook]]
+g: a check that has been signed but with the amount payable left blank
+
+w: <<cashier's_check>>
+w: <<treasurer's_check>>
+w: <<cashier's_cheque>>
+w: <<treasurer's_cheque>>
+hyper: [[check]]
+g: a check issued by the officer of a bank on the banks own account (not that of a private person); "cashier's checks are as good as cash"
+
+w: <<personal_check>>
+w: <<personal_cheque>>
+hyper: [[check]]
+g: a check drawn against funds deposited in your personal checking account
+
+w: <<certified_check>>
+w: <<certified_cheque>>
+hyper: [[check]]
+g: a check containing certification that the person who issued the check has sufficient funds on deposit to cover payment
+
+w: <<paycheck>>
+w: <<payroll_check>>
+hyper: [[check]]
+g: a check issued in payment of wages or salary
+
+w: <<giro>>
+w: <<giro_cheque>>
+hyper: [[check]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a check given by the British government to someone who is unemployed; it can be cashed either at a bank or at the post office
+
+w: <<counter_check>>
+hyper: [[check]]
+g: a blank check provided by a bank for the convenience of customers who are making withdrawals
+
+w: <<kite1>> drf [[file:verb.possession.org::kite1]]
+hyper: [[check]]
+g: a bank check that has been fraudulently altered to increase its face value
+
+w: <<kite>> drf [[file:verb.possession.org::kite]]
+hyper: [[check]]
+g: a bank check drawn on insufficient funds at another bank in order to take advantage of the float
+
+w: <<bad_check>>
+w: <<bad_cheque>>
+hyper: [[check]]
+g: a check that is dishonored on presentation because of insufficient funds; "issuing a bad check is a form of larceny"
+
+w: <<check>> drf [[file:verb.communication.org::check7]]
+w: <<bank_check>>
+w: <<cheque>> drf [[file:verb.possession.org::cheque]]
+hyper: [[draft]]
+g: a written order directing a bank to pay money; "he paid all his bills by check"
+
+w: <<acceptance>>
+w: <<banker's_acceptance>>
+hyper: [[draft]]
+g: banking: a time draft drawn on and accepted by a bank
+
+w: <<time_deposit>>
+hyper: [[certificate_of_deposit]]
+g: a certificate of deposit from which withdrawals can be made only after advance notice or at a specified future date
+
+w: <<demand_deposit>>
+hyper: [[deposit1]]
+g: a bank deposit from which withdrawals can be made without notice
+
+w: <<deposit1>> drf [[file:verb.possession.org::deposit]]
+w: <<bank_deposit>>
+hyper: [[fund]]
+g: money deposited in a bank or some similar institution
+
+w: <<overdraft_credit>>
+w: <<check_overdraft_credit>>
+hyper: [[open-end_credit]]
+g: credit provided by a bank in honoring a customer's overdrafts
+
+w: <<money_order>>
+w: <<postal_order>>
+hyper: [[draft]]
+g: a written order for the payment of a sum to a named individual; obtainable and payable at a post office
+
+w: <<dividend_warrant>>
+hyper: [[draft]]
+g: an order of payment (such as a check payable to a shareholder) in which a dividend is paid
+
+w: <<bank_draft>>
+w: <<banker's_draft>>
+hyper: [[draft]]
+g: a draft drawn by a bank against funds deposited in another bank
+
+w: <<traveler's_check>>
+w: <<traveller's_check>>
+w: <<banker's_check>>
+hyper: [[traveler's_letter_of_credit]]
+g: a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer
+
+w: <<traveler's_letter_of_credit>>
+w: <<traveller's_letter_of_credit>>
+hyper: [[letter_of_credit]]
+g: a letter of credit given to a traveler
+
+w: <<commercial_letter_of_credit>>
+hyper: [[letter_of_credit]]
+g: a letter of credit given to a business concern for commercial purposes
+
+w: <<letter_of_credit>>
+hyper: [[document]]
+hyper: [[credit2]]
+g: a document issued by a bank that guarantees the payment of a customer's draft; substitutes the bank's credit for the customer's credit
+
+w: <<commercial_credit>>
+hyper: [[credit2]]
+g: credit granted by a bank to a business concern for commercial purposes
+
+w: <<credit_line>>
+w: <<line_of_credit>>
+w: <<bank_line>>
+w: <<line>>
+w: <<personal_credit_line>>
+w: <<personal_line_of_credit>>
+hyper: [[credit2]]
+g: the maximum credit that a customer is allowed
+
+w: <<import_credit>>
+hyper: [[credit2]]
+g: credit opened by an importer at a bank in his own country upon which an exporter may draw
+
+w: <<export_credit>>
+hyper: [[credit2]]
+g: a credit opened by an importer with a bank in an exporter's country to finance an export operation
+
+w: <<tax_credit>>
+hyper: [[file:noun.act.org::decrease]]
+g: a direct reduction in tax liability (not dependent on the taxpayer's tax bracket)
+
+w: <<overage>>
+hyper: [[assets]]
+g: a surplus or excess of money or merchandise that is actually on hand and that exceeds expectations
+
+w: <<cheap_money>>
+hyper: [[credit2]]
+g: credit available at low rates of interest
+
+w: <<credit2>>
+hyper: [[assets]]
+g: money available for a client to borrow
+
+w: <<foreign_exchange>>
+hyper: [[file:noun.act.org::exchange]]
+g: the system by which one currency is exchanged for another; enables international transactions to take place
+
+w: <<trade_acceptance>>
+hyper: [[draft]]
+g: a bill of exchange for a specific purchase; drawn on the buyer by the seller and bearing the buyer's acceptance
+
+w: <<redraft>>
+hyper: [[draft]]
+g: a draft for the amount of a dishonored draft plus the costs and charges of drafting again
+
+w: <<inland_bill>>
+hyper: [[draft]]
+g: a bill of exchange that is both drawn and made payable in the same country
+
+w: <<foreign_bill>>
+w: <<foreign_draft>>
+hyper: [[draft]]
+g: a bill of exchange that is drawn in one country and made payable in another
+
+w: <<overdraft>>
+hyper: [[draft]]
+g: a draft in excess of the credit balance
+
+w: <<draft>>
+w: <<bill_of_exchange>>
+w: <<order_of_payment>>
+hyper: [[file:noun.communication.org::negotiable_instrument]]
+g: a document ordering the payment of money; drawn by one person or bank on another
+
+w: <<smart_card>>
+hyper: [[open-end_credit]]
+hyper: [[file:noun.communication.org::positive_identification]]
+g: a plastic card containing a microprocessor that enables the holder to perform operations requiring data that is stored in the microprocessor; typically used to perform financial transactions
+
+w: <<debit_card>>
+hyper: [[open-end_credit]]
+hyper: [[file:noun.communication.org::positive_identification]]
+g: a card (usually plastic) that enables the holder to withdraw money or to have the cost of purchases charged directly to the holder's bank account
+
+w: <<cash_card>>
+w: <<cashcard>>
+hyper: [[credit_card]]
+g: a credit card that entitles the holder to receive cash
+
+w: <<calling_card>>
+w: <<phone_card>>
+hyper: [[credit_card]]
+g: a card that is used instead of cash to make telephone calls
+
+w: <<bank_card>>
+hyper: [[credit_card]]
+g: a credit card issued by a bank
+
+w: <<credit_card>>
+w: <<charge_card>>
+w: <<charge_plate>>
+w: <<plastic>>
+hyper: [[open-end_credit]]
+hyper: [[file:noun.communication.org::positive_identification]]
+g: a card (usually plastic) that assures a seller that the person using it has a satisfactory credit rating and that the issuer will see to it that the seller receives payment for the merchandise delivered; "do you take plastic?"
+
+w: <<advance>> drf [[file:verb.possession.org::advance]]
+w: <<cash_advance>>
+hyper: [[sum]]
+g: an amount paid before it is earned
+
+w: <<revolving_charge_account>>
+hyper: [[credit_account]]
+g: a charge account that does not have to be paid to zero balance
+
+w: <<credit_account>>
+w: <<charge_account>>
+w: <<open_account>>
+hyper: [[open-end_credit]]
+g: credit extended by a business to a customer
+
+w: <<open-end_credit>>
+w: <<revolving_credit>>
+w: <<charge_account_credit>>
+hyper: [[consumer_credit]]
+g: a consumer credit line that can be used up to a certain limit or paid down at any time
+
+w: <<installment_credit>>
+w: <<installment_loan>>
+hyper: [[consumer_credit]]
+hyper: [[loan]]
+g: a loan repaid with interest in equal periodic payments
+
+w: <<home_loan>>
+w: <<home_equity_credit>>
+w: <<home_equity_loan>>
+w: <<equity_credit_line>>
+hyper: [[consumer_credit]]
+hyper: [[loan]]
+g: a loan secured by equity value in the borrower's home
+
+w: <<interbank_loan>>
+hyper: [[bank_loan]]
+g: a loan from one bank to another
+
+w: <<business_loan>>
+w: <<commercial_loan>>
+hyper: [[bank_loan]]
+g: a bank loan granted for the use of a business
+
+w: <<bank_loan>>
+hyper: [[loan]]
+g: a loan made by a bank; to be repaid with interest on or before a fixed date
+
+w: <<consumer_credit>>
+hyper: [[credit_line]]
+g: a line of credit extended for personal or household use
+
+w: <<credit>> ant [[cash2]]
+w: <<deferred_payment>>
+hyper: [[payment]]
+g: arrangement for deferred payment for goods and services
+
+w: <<food_stamp>>
+hyper: [[tender]]
+g: a government-issued stamp that can be used in exchange for food
+
+w: <<tender>>
+w: <<legal_tender>>
+w: <<stamp>>
+hyper: [[medium_of_exchange]]
+g: something that can be used as an official medium of payment
+
+w: <<bimetallism>> drf [[file:adj.pert.org::bimetallistic]] drf [[file:noun.person.org::bimetallist]]
+hyper: [[standard]]
+g: a monetary standard under which the basic unit of currency is defined by stated amounts of two metals (usually gold and silver) with values set at a predetermined ratio
+
+w: <<silver_standard>>
+hyper: [[standard]]
+g: a monetary standard under which the basic unit of currency is defined by a stated quantity of silver
+
+w: <<gold_standard>>
+hyper: [[standard]]
+g: a monetary standard under which the basic unit of currency is defined by a stated quantity of gold
+
+w: <<standard>> drf [[file:verb.change.org::standardize]] drf [[file:verb.change.org::standardise]]
+w: <<monetary_standard>>
+hyper: [[file:noun.attribute.org::value]]
+g: the value behind the money in a monetary system
+
+w: <<medium_of_exchange>>
+w: <<monetary_system>>
+hyper: [[file:noun.communication.org::standard]]
+g: anything that is generally accepted as a standard of value and a measure of wealth in a particular country or region
+
+w: <<sapphire>>
+hyper: [[file:noun.artifact.org::jewel]]
+g: a transparent piece of sapphire that has been cut and polished and is valued as a precious gem
+
+w: <<emerald>>
+hyper: [[file:noun.artifact.org::jewel]]
+g: a transparent piece of emerald that has been cut and polished and is valued as a precious gem
+
+w: <<seed_pearl>>
+hyper: [[pearl]]
+g: a small imperfect pearl
+
+w: <<pearl>> drf [[file:verb.contact.org::pearl]]
+hyper: [[file:noun.artifact.org::jewel]]
+g: a smooth lustrous round structure inside the shell of a clam or oyster; much valued as a jewel
+
+w: <<ruby>>
+hyper: [[file:noun.artifact.org::jewel]]
+g: a transparent piece of ruby that has been cut and polished and is valued as a precious gem
+
+w: <<ice>>
+w: <<sparkler>> drf [[file:verb.weather.org::sparkle]]
+hyper: [[diamond]]
+du: [[file:noun.communication.org::colloquialism]]
+g: diamonds; "look at the ice on that dame!"
+
+w: <<diamond>>
+hyper: [[file:noun.artifact.org::jewel]]
+g: a transparent piece of diamond that has been cut and polished and is valued as a precious gem
+
+w: <<silver>>
+hyper: [[precious_metal]]
+g: coins made of silver
+
+w: <<gold>> drf [[file:adj.all.org::gold]]
+hyper: [[precious_metal]]
+g: coins made of gold
+
+w: <<bullion>>
+hyper: [[precious_metal]]
+g: a mass of precious metal
+
+w: <<precious_metal>>
+hyper: [[valuable]]
+g: any of the less common and valuable metals often used to make coins or jewelry
+
+w: <<treasure_trove>>
+w: <<trove>>
+hyper: [[treasure]]
+g: treasure of unknown ownership found hidden (usually in the earth)
+
+w: <<king's_ransom>>
+hyper: [[treasure]]
+g: a very large treasure
+
+w: <<swag1>>
+hyper: [[valuable]]
+du: [[file:noun.communication.org::colloquialism]]
+g: valuable goods
+
+w: <<valuable>> drf [[file:adj.all.org::valuable]]
+hyper: [[treasure]]
+g: something of value; "all our valuables were stolen"
+
+w: <<fortune>>
+hyper: [[treasure]]
+g: a large amount of wealth or prosperity
+
+w: <<treasure>>
+w: <<hoarded_wealth>>
+hyper: [[wealth2]]
+g: accumulated wealth in the form of money or jewels etc.; "the pirates hid their treasure on a small island in the West Indies"
+
+w: <<treasure1>> drf [[file:verb.emotion.org::treasure]] drf [[file:verb.possession.org::treasure]]
+hyper: [[file:noun.Tops.org::possession]]
+g: any possession that is highly valued by its owner; "the children returned from the seashore with their shells and other treasures"
+
+w: <<valuation_reserve>>
+w: <<valuation_account>>
+w: <<allowance3>>
+w: <<allowance_account>>
+hyper: [[reserve_account]]
+g: a reserve fund created by a charge against profits in order to provide for changes in the value of a company's assets
+
+w: <<reserve_account>>
+w: <<reserve_fund>>
+hyper: [[reserve]]
+g: funds taken out of earnings to provide for anticipated future payments
+
+w: <<pool>> drf [[file:verb.possession.org::pool]]
+hyper: [[reserve_account]]
+g: any communal combination of funds; "everyone contributed to the pool"
+
+w: <<cookie_jar_reserve>>
+hyper: [[hidden_reserve]]
+g: a hidden reserve that can be used to adjust quarterly earning reports
+
+w: <<hidden_reserve>>
+hyper: [[reserve_account]]
+g: reserves that do not show up on the balance sheet (as by understating values)
+
+w: <<pool1>>
+w: <<kitty>>
+hyper: [[stake]]
+g: the combined stakes of the betters
+
+w: <<soil_bank>>
+hyper: [[bank]]
+g: land retired from crop cultivation and planted with soil-building crops; government subsidies are paid to farmers for their retired land
+
+w: <<hole_card>>
+hyper: [[assets]]
+g: any assets that are concealed until they can be used advantageously
+
+w: <<fuel_level>>
+hyper: [[reserve]]
+g: the amount of fuel remaining
+
+w: <<food_bank>>
+hyper: [[bank]]
+g: a place where food is contributed and made available to those in need; "they set up a food bank for the flood victims"
+
+w: <<eye_bank>>
+hyper: [[bank]]
+g: a place for storing and preserving corneas that are obtained from human corpses immediately after death; used for corneal transplantation to patients with corneal defects
+
+w: <<blood_bank>>
+hyper: [[bank]]
+g: a place for storing whole blood or blood plasma; "the Red Cross created a blood bank for emergencies"
+
+w: <<bank>>
+hyper: [[reserve]]
+g: a supply or stock held in reserve for future use (especially in emergencies)
+
+w: <<reserve>> drf [[file:verb.cognition.org::reserve]] drf [[file:verb.possession.org::reserve3]]
+w: <<backlog>> drf [[file:verb.change.org::backlog]]
+w: <<stockpile>> drf [[file:verb.possession.org::stockpile]]
+hyper: [[accumulation]]
+g: something kept back or saved for future use or a special purpose
+
+w: <<seed_corn>>
+w: <<seed_grain>>
+hyper: [[seed_stock]]
+g: good quality seeds (as kernels of corn) that are reserved for planting
+
+w: <<seed_stock>>
+hyper: [[store]]
+g: a supply of seeds (or tubers) reserved for planting
+
+w: <<issue1>> drf [[file:verb.social.org::issue]]
+w: <<military_issue>>
+w: <<government_issue>>
+hyper: [[store]]
+dt: [[file:noun.group.org::military]]
+g: supplies (as food or clothing or ammunition) issued by the government
+
+w: <<provision>> drf [[file:verb.possession.org::provision]]
+hyper: [[store]]
+g: a store or supply of something (especially of food or clothing or arms)
+
+w: <<store>> drf [[file:verb.possession.org::store]]
+w: <<stock1>> drf [[file:noun.person.org::stockist]] drf [[file:noun.animal.org::stocker]] drf [[file:verb.possession.org::stock6]] drf [[file:verb.possession.org::stock2]] drf [[file:verb.possession.org::stock1]] drf [[file:verb.possession.org::stock]]
+w: <<fund1>>
+hyper: [[accumulation]]
+g: a supply of something available for future use; "he brought back a large store of Cuban cigars"
+
+w: <<hoard>> drf [[file:verb.possession.org::hoard1]]
+w: <<cache>> drf [[file:verb.possession.org::cache]]
+w: <<stash>> drf [[file:verb.possession.org::stash]]
+hyper: [[store]]
+g: a secret store of valuables or money
+
+w: <<accumulation>>
+hyper: [[net_income]]
+dt: [[file:noun.cognition.org::finance]]
+g: (finance) profits that are not paid out as dividends but are added to the capital base of the corporation
+
+w: <<subsistence>>
+hyper: [[support]]
+g: minimal (or marginal) resources for subsisting; "social security provided only a bare subsistence"
+
+w: <<meal_ticket>>
+hyper: [[support]]
+du: [[file:noun.communication.org::colloquialism]]
+g: a source of income or livelihood
+
+w: <<maintenance>> drf [[file:verb.consumption.org::maintain]]
+hyper: [[support]]
+g: means of maintenance of a family or group
+
+w: <<comforts>>
+w: <<creature_comforts>>
+w: <<amenities>>
+w: <<conveniences>>
+hyper: [[support]]
+g: things that make you comfortable and at ease; "all the comforts of home"
+
+w: <<ways_and_means>>
+hyper: [[resource]]
+g: resources available to meet expenses (especially legislation for raising revenue for a government)
+
+w: <<support1>> drf [[file:verb.possession.org::support]]
+w: <<financial_support>>
+w: <<funding>> drf [[file:verb.possession.org::fund]]
+w: <<backing>> drf [[file:verb.possession.org::back]]
+w: <<financial_backing>>
+hyper: [[resource]]
+g: financial resources provided to make some project possible; "the foundation provided support for the experiment"
+
+w: <<support>> drf [[file:verb.possession.org::support]]
+w: <<keep>> drf [[file:verb.consumption.org::keep]]
+w: <<livelihood>>
+w: <<living>>
+w: <<bread_and_butter>>
+w: <<sustenance>> drf [[file:verb.consumption.org::sustain]]
+hyper: [[resource]]
+g: the financial means whereby one lives; "each child was expected to pay for their keep"; "he applied to the state for support"; "he could no longer earn his own livelihood"
+
+w: <<certificate_of_deposit>>
+w: <<CD>>
+hyper: [[debt_instrument]]
+g: a debt instrument issued by a bank; usually pays interest
+
+w: <<cash_equivalent>>
+hyper: [[debt_instrument]]
+g: a highly liquid debt instrument with maturities of less than three months
+
+w: <<passbook_savings_account>>
+hyper: [[savings_account]]
+g: a savings account in which deposits and withdrawals are recorded in the depositor's passbook
+
+w: <<dormant_account>>
+hyper: [[savings_account]]
+g: a savings account showing no activity (other than posting interest) for some specified period; "the dormant account reverted to the state under escheat laws"
+
+w: <<time_deposit_account>>
+w: <<deposit_account>>
+hyper: [[savings_account]]
+g: a savings account in which the deposit is held for a fixed term or in which withdrawals can be made only after giving notice or with loss of interest
+
+w: <<savings_account>>
+hyper: [[bank_account]]
+g: a bank account that accumulates interest
+
+w: <<checking_account>> dr [[file:noun.location.org::United_States]]
+w: <<chequing_account>> dr [[file:noun.location.org::Canada]]
+w: <<current_account1>> dr [[file:noun.location.org::Britain]]
+hyper: [[bank_account]]
+g: a bank account against which the depositor can draw checks that are payable on demand
+
+w: <<trust_fund>>
+hyper: [[fund]]
+g: a fund held in trust
+
+w: <<voting_trust>>
+hyper: [[trust3]]
+g: an agreement whereby persons owning stock with voting powers retain ownership while transferring the voting rights to the trustees
+
+w: <<savings_account_trust>>
+w: <<savings_bank_trust>>
+w: <<trust_account>>
+w: <<trustee_account>>
+w: <<Totten_trust>>
+hyper: [[trust3]]
+g: a savings account deposited by someone who makes themselves the trustee for a beneficiary and who controls it during their lifetime; afterward the balance is payable to the previously named beneficiary
+
+w: <<testamentary_trust>>
+hyper: [[trust3]]
+g: a trust that is created under a will and that becomes active after the grantor dies
+
+w: <<spendthrift_trust>>
+hyper: [[trust3]]
+g: a trust created to maintain a beneficiary but to be secure against the beneficiary's improvidence
+
+w: <<living_trust>>
+w: <<inter_vivos_trust>>
+hyper: [[trust3]]
+g: a trust created and operating during the grantor's lifetime
+
+w: <<nondiscretionary_trust>>
+w: <<fixed_investment_trust>>
+hyper: [[file:noun.group.org::investment_company]]
+g: an investment trust that can buy only those securities listed when the trust was organized
+
+w: <<discretionary_trust>>
+hyper: [[trust3]]
+g: a trust that gives the trustee discretion to pay the beneficiary as much of the trust income as the trustee believes appropriate
+
+w: <<direct_trust>>
+w: <<express_trust>>
+hyper: [[trust3]]
+g: a trust created by the free and deliberate act of the parties involved (usually on the basis of written documentation)
+
+w: <<resulting_trust>>
+hyper: [[implied_trust]]
+g: a trust created by a court when it is judged that it was the intention of the parties to create a trust
+
+w: <<constructive_trust>>
+w: <<involuntary_trust>>
+hyper: [[implied_trust]]
+g: a trust created by a court (regardless of the intent of the parties) to benefit a party that has been wrongfully deprived of its rights
+
+w: <<implied_trust>>
+hyper: [[trust3]]
+g: a trust inferred by operation of law
+
+w: <<Clifford_trust>>
+w: <<grantor_trust>>
+hyper: [[trust3]]
+g: a trust established to shift the income to someone who is taxed at a lower rate than the grantor for a period of 10 years or more
+
+w: <<charitable_trust>>
+w: <<public_trust>>
+hyper: [[trust3]]
+g: a trust created for charitable or religious or educational or scientific purposes
+
+w: <<passive_trust>> ant [[active_trust]]
+hyper: [[trust3]]
+g: a trust in which the trustee performs no active duties
+
+w: <<blind_trust>>
+hyper: [[trust3]]
+g: a trust that enables a person to avoid possible conflict of interest by transferring assets to a fiduciary; the person establishing the trust gives up the right to information about the assets
+
+w: <<active_trust>> ant [[passive_trust]]
+hyper: [[trust3]]
+g: a trust in which the trustee must perform certain duties
+
+w: <<trust3>>
+hyper: [[property]]
+g: something (as property) held by one party (the trustee) for the benefit of another (the beneficiary); "he is the beneficiary of a generous trust set up by his father"
+
+w: <<slush_fund>>
+hyper: [[fund]]
+g: a fund for buying votes or bribing public officials
+
+w: <<war_chest>>
+hyper: [[fund]]
+dt: [[file:noun.cognition.org::politics]]
+g: a fund accumulated to finance a war (or a political campaign)
+
+w: <<pension_fund>>
+w: <<superannuation_fund>>
+hyper: [[fund]]
+g: a fund reserved to pay workers' pensions when they retire from service
+
+w: <<giro_account>>
+hyper: [[bank_account]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: an account at a post office that can be used in similar ways to an account at a bank
+
+w: <<bank_account>>
+hyper: [[file:noun.state.org::account]]
+g: a fund that a customer has entrusted to a bank and from which the customer can make withdrawals; "he moved his bank account to a new bank"
+
+w: <<savings>> drf [[file:verb.possession.org::save1]]
+w: <<nest_egg>>
+hyper: [[fund]]
+g: a fund of money put by as a reserve
+
+w: <<sinking_fund>>
+hyper: [[fund]]
+g: a fund accumulated regularly in a separate account and used to redeem debt securities
+
+w: <<revolving_fund>>
+hyper: [[fund]]
+g: a fund which, if borrowed or used, is intended to be replenished so it may be loaned or spent repeatedly
+
+w: <<index_fund>>
+hyper: [[mutual_fund]]
+g: a mutual fund whose assets are stocks on a given list
+
+w: <<exchange_traded_fund>>
+w: <<ETF>>
+hyper: [[mutual_fund]]
+g: a mutual fund that is traded on a stock exchange
+
+w: <<mutual_fund>>
+hyper: [[fund]]
+g: the pooled money that is invested in assets
+
+w: <<fund>> drf [[file:verb.possession.org::fund]] drf [[file:verb.possession.org::fund1]]
+w: <<monetary_fund>>
+hyper: [[money]]
+g: a reserve of money set aside for some purpose
+
+w: <<fisc>> drf [[file:adj.pert.org::fiscal]]
+hyper: [[treasury]]
+g: a state treasury or exchequer or a royal treasury; originally the public treasury of Rome or the emperor's private purse
+
+w: <<subtreasury>>
+hyper: [[treasury]]
+g: a subordinate treasury or place of deposit
+
+w: <<bursary>>
+hyper: [[treasury]]
+g: the treasury of a public institution or religious order
+
+w: <<pork_barrel>>
+w: <<pork>>
+hyper: [[appropriation]]
+g: a legislative appropriation designed to ingratiate legislators with their constituents
+
+w: <<public_treasury>>
+w: <<trough>>
+w: <<till>>
+hyper: [[treasury]]
+g: a treasury for government funds
+
+w: <<M3>>
+hyper: [[money_supply]]
+g: a measure of the money supply; M2 plus deposits at institutions that are not banks (such as savings and loan associations)
+
+w: <<M2>>
+hyper: [[money_supply]]
+g: a measure of the money supply; M1 plus net time deposits (other than large certificates of deposit)
+
+w: <<M1>>
+hyper: [[money_supply]]
+g: a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances
+
+w: <<money_supply>>
+hyper: [[funds]]
+g: the total stock of money in the economy; currency held by the public plus money in accounts in banks
+
+w: <<treasury>>
+w: <<exchequer>>
+hyper: [[funds]]
+g: the funds of a government or institution or individual
+
+w: <<Medicaid_funds>>
+hyper: [[funds]]
+g: public funds used to pay for Medicaid
+
+w: <<pocket>>
+hyper: [[funds]]
+g: a supply of money; "they dipped into the taxpayers' pockets"
+
+w: <<bankroll>>
+w: <<roll>>
+hyper: [[funds]]
+dt: [[file:noun.act.org::commercial_enterprise]]
+g: a roll of currency notes (often taken as the resources of a person or business etc.); "he shot his roll on a bob-tailed nag"
+
+w: <<bank1>>
+hyper: [[funds]]
+g: the funds held by a gambling house or the dealer in some gambling games; "he tried to break the bank at Monte Carlo"
+
+w: <<funds>>
+w: <<finances>>
+w: <<monetary_resource>>
+w: <<cash_in_hand>>
+w: <<pecuniary_resource>>
+hyper: [[assets]]
+g: assets in the form of money
+
+w: <<seed_money>>
+hyper: [[capital1]]
+g: capital needed to set up a new business or enterprise
+
+w: <<principal2>>
+w: <<corpus>>
+w: <<principal_sum>>
+hyper: [[capital]]
+g: capital as contrasted with the income derived from it
+
+w: <<capital_account2>>
+hyper: [[account2]]
+hp: [[balance_of_payments]]
+dt: [[file:noun.cognition.org::economics]]
+g: (economics) that part of the balance of payments recording a nation's outflow and inflow of financial securities
+
+w: <<capital_account1>>
+hyper: [[account2]]
+dt: [[file:noun.cognition.org::finance]]
+g: (finance) an account of the net value of a business at a specified date
+
+w: <<income_statement>>
+w: <<earnings_report>>
+w: <<operating_statement>>
+w: <<profit-and-loss_statement>>
+hyper: [[file:noun.communication.org::statement1]]
+g: a financial statement that gives operating results for a specific period
+
+w: <<account2>>
+w: <<accounting>> drf [[file:verb.possession.org::account]]
+w: <<account_statement>>
+hyper: [[file:noun.communication.org::statement1]]
+g: a statement of recent transactions and the resulting balance; "they send me an accounting every month"
+
+w: <<operating_capital>>
+hyper: [[capital1]]
+g: capital available for the operations of a firm (e.g. manufacturing or transportation) as distinct from financial transactions and long-term improvements
+
+w: <<capital1>> drf [[file:noun.person.org::capitalist]] drf [[file:verb.cognition.org::capitalize1]] drf [[file:verb.change.org::capitalize]] drf [[file:verb.possession.org::capitalise2]] drf [[file:verb.cognition.org::capitalise1]] drf [[file:verb.cognition.org::capitalise]] drf [[file:verb.change.org::capitalise]]
+w: <<working_capital>>
+hyper: [[assets]]
+g: assets available for use in the production of further assets
+
+w: <<venture_capital>> drf [[file:noun.person.org::venture_capitalist]]
+w: <<risk_capital>>
+hyper: [[capital1]]
+g: wealth available for investment in new or speculative enterprises
+
+w: <<wherewithal>>
+hyper: [[means]]
+g: the necessary means (especially financial means)
+
+w: <<pocketbook>>
+hyper: [[means]]
+g: your personal financial means; "that car is too expensive for my pocketbook"
+
+w: <<means>>
+w: <<substance>>
+hyper: [[capital]]
+g: considerable capital (wealth or income); "he is a man of means"
+
+w: <<capital>> drf [[file:noun.person.org::capitalist]] drf [[file:verb.cognition.org::capitalise1]]
+hyper: [[assets]]
+g: wealth in the form of money or property owned by a person or business and human resources of economic value
+
+w: <<gold1>>
+hyper: [[wealth2]]
+g: great wealth; "Whilst that for which all virtue now is sold, and almost every vice--almighty gold"--Ben Jonson
+
+w: <<wealth2>> drf [[file:adj.all.org::wealthy]]
+w: <<riches>>
+hyper: [[material_resource]]
+g: an abundance of material possessions and resources
+
+w: <<material_resource>>
+hyper: [[assets]]
+g: assets in the form of material possessions
+
+w: <<guarantee3>>
+w: <<guaranty>>
+hyper: [[collateral]]
+g: a collateral agreement to answer for the debt of another in case that person defaults
+
+w: <<collateral>> drf [[file:adj.all.org::collateral]]
+hyper: [[security_interest]]
+g: a security pledged for the repayment of a loan
+
+w: <<chattel_mortgage>>
+hyper: [[mortgage]]
+g: a loan to buy some personal item; the item (or chattel) is security for the loan
+
+w: <<second_mortgage>>
+hyper: [[mortgage]]
+g: a mortgage that is subordinate to a first mortgage
+
+w: <<first_mortgage>>
+hyper: [[mortgage]]
+g: a mortgage that has priority over all mortgages and liens except those imposed by law
+
+w: <<conditional_sale>>
+hyper: [[security_interest]]
+g: a security interest taken by the seller in return for credit
+
+w: <<mortgage>> drf [[file:verb.possession.org::mortgage]]
+hyper: [[security_interest]]
+g: a conditional conveyance of property as security for the repayment of a loan
+
+w: <<margin_account>> ant [[cash_account]]
+hyper: [[brokerage_account]]
+g: an account with a securities brokerage in which the broker extends credit
+
+w: <<custodial_account>>
+hyper: [[cash_account]]
+g: a brokerage firm account that parents have created for a minor
+
+w: <<cash_account>> ant [[margin_account]]
+hyper: [[brokerage_account]]
+g: an account with a securities brokerage whose transactions are settled on a cash basis
+
+w: <<brokerage_account>>
+hyper: [[file:noun.state.org::account]]
+g: a fund that a customer has entrusted to a securities brokerage; "you can't get a brokerage account unless you have $20,000"
+
+w: <<margin1>>
+w: <<security_deposit>>
+hyper: [[down_payment]]
+g: the amount of collateral a customer deposits with a broker when borrowing from the broker to buy securities
+
+w: <<bail>> drf [[file:verb.social.org::bail]]
+w: <<bail_bond>>
+w: <<bond3>>
+hyper: [[recognizance]]
+dt: [[file:noun.communication.org::criminal_law]]
+g: (criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial; "the judge set bail at $10,000"; "a $10,000 bond was furnished by an alderman"
+
+w: <<pawn>> drf [[file:verb.possession.org::pawn]]
+hyper: [[pledge2]]
+g: an article deposited as security
+
+w: <<pledge2>> drf [[file:verb.communication.org::pledge2]]
+hyper: [[security_interest]]
+g: a deposit of personal property as security for a debt; "his saxophone was in pledge"
+
+w: <<recognizance>>
+w: <<recognisance>>
+hyper: [[security]]
+dt: [[file:noun.group.org::law]]
+g: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited
+
+w: <<earnest_money>>
+w: <<arles>>
+hyper: [[earnest]]
+g: money given by a buyer to a seller to bind a contract
+
+w: <<earnest>>
+hyper: [[security]]
+g: something of value given by one person to another to bind a contract
+
+w: <<satisfaction1>>
+hyper: [[payment]]
+dt: [[file:noun.group.org::law]]
+g: (law) the payment of a debt or fulfillment of an obligation; "the full and final satisfaction of the claim"
+
+w: <<down_payment>>
+w: <<deposit>>
+hyper: [[payment]]
+g: a partial payment made at the time of purchase; the balance to be paid later
+
+w: <<deposit2>>
+hyper: [[security]]
+g: money given as security for an article acquired for temporary use; "his deposit was refunded when he returned the car"
+
+w: <<security>>
+w: <<surety>>
+hyper: [[transferred_property]]
+g: property that your creditor can claim in case you default on your obligation; "bankers are reluctant to lend without good security"
+
+w: <<health_maintenance_organization>>
+w: <<HMO>>
+hyper: [[health_insurance]]
+g: group insurance that entitles members to services of participating hospitals and clinics and physicians
+
+w: <<term_insurance>>
+hyper: [[insurance2]]
+g: low-cost insurance that is valid only for a stated period of time and has no cash surrender value or loan value; "term insurance is most often associated with life insurance policies"
+
+w: <<self-insurance>>
+hyper: [[insurance2]]
+g: insuring yourself by setting aside money to cover possible losses rather than by purchasing an insurance policy
+
+w: <<reinsurance>> drf [[file:verb.communication.org::reinsure]]
+hyper: [[insurance2]]
+g: sharing the risk by insurance companies; part or all of the insurer's risk is assumed by other companies in return for part of the premium paid by the insured; "reinsurance enables a client to get coverage that would be too great for any one company to assume"
+
+w: <<malpractice_insurance>>
+hyper: [[insurance2]]
+g: insurance purchased by physicians and hospitals to cover the cost of being sued for malpractice; "obstetricians have to pay high rates for malpractice insurance"
+
+w: <<whole_life_insurance>>
+w: <<ordinary_life_insurance>>
+w: <<straight_life_insurance>>
+hyper: [[life_insurance]]
+g: insurance on the life of the insured for a fixed amount at a definite premium that is paid each year in the same amount during the entire lifetime of the insured
+
+w: <<tontine2>>
+w: <<tontine_insurance>>
+hyper: [[life_insurance]]
+g: a form of life insurance whereby on the death or default of a participant his share is distributed to the remaining members
+
+w: <<endowment_insurance>>
+hyper: [[life_insurance]]
+g: life insurance for a specified amount which is payable to the insured person at the expiration of a certain period of time or to a designated beneficiary immediately upon the death of the insured
+
+w: <<life_insurance>>
+w: <<life_assurance>>
+hyper: [[insurance2]]
+g: insurance paid to named beneficiaries when the insured person dies; "in England they call life insurance life assurance"
+
+w: <<liability_insurance>>
+hyper: [[insurance2]]
+g: insurance that provides protection from claims arising from injuries or damage to other people or property
+
+w: <<hospitalization_insurance>>
+w: <<hospitalization>>
+hyper: [[health_insurance]]
+g: insurance that pays all or part of a patient's hospital expense
+
+w: <<health_insurance>>
+hyper: [[insurance2]]
+g: insurance against loss due to ill health
+
+w: <<hazard_insurance>>
+hyper: [[insurance2]]
+g: insurance that provides protection against certain risks such as storms or fires
+
+w: <<group_insurance>>
+hyper: [[insurance2]]
+g: insurance that is purchased by a group (such as the employees of a company) usually at a reduced rate to individual members of the group
+
+w: <<fire_insurance>>
+hyper: [[insurance2]]
+g: insurance against loss due to fire
+
+w: <<coinsurance>> drf [[file:verb.possession.org::coinsure]]
+hyper: [[insurance2]]
+g: insurance issued jointly by two or more underwriters
+
+w: <<business_interruption_insurance>>
+hyper: [[insurance2]]
+g: insurance that provides protection for the loss of profits and continuing fixed expenses resulting from a break in commercial activities due to the occurrence of a peril
+
+w: <<no_fault_insurance>>
+w: <<no_fault_automobile_insurance>>
+hyper: [[automobile_insurance]]
+g: a system of automobile insurance where a party who is injured in an automobile accident recovers damages up to a specific amount against his own insurance company regardless of who was responsible for the accident; "the amount of litigation resulting from minor accidents is reduced by no fault insurance"
+
+w: <<automobile_insurance>>
+w: <<car_insurance>>
+hyper: [[insurance2]]
+g: insurance against loss due to theft or traffic accidents
+
+w: <<assurance2>>
+hyper: [[insurance2]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a British term for some kinds of insurance
+
+w: <<insurance2>> drf [[file:verb.communication.org::insure]]
+hyper: [[security1]]
+g: promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company
+
+w: <<coverage>> drf [[file:verb.communication.org::cover]]
+w: <<insurance_coverage>>
+hyper: [[sum]]
+g: the total amount and type of insurance carried
+
+w: <<hedge>>
+w: <<hedging>>
+hyper: [[security1]]
+g: any technique designed to reduce or eliminate financial risk; for example, taking two positions that will offset each other if prices change
+
+w: <<easy_street>>
+hyper: [[security1]]
+g: financial security
+
+w: <<security1>> drf [[file:adj.all.org::secure]]
+w: <<protection>>
+hyper: [[assets]]
+g: defense against financial failure; financial independence; "his pension gave him security in his old age"; "insurance provided protection against loss of wages due to illness"
+
+w: <<ante>> drf [[file:verb.competition.org::ante]]
+hyper: [[stake]]
+dt: [[file:noun.act.org::poker]]
+g: (poker) the initial contribution that each player makes to the pot
+
+w: <<pot>>
+w: <<jackpot>>
+w: <<kitty1>>
+hyper: [[stake]]
+dt: [[file:noun.act.org::poker]]
+g: the cumulative amount involved in a game (such as poker)
+
+w: <<stake>> drf [[file:verb.competition.org::stake]] drf [[file:verb.social.org::stake]]
+w: <<stakes>>
+w: <<bet>> drf [[file:verb.competition.org::bet]]
+w: <<wager>> drf [[file:verb.competition.org::wager]]
+hyper: [[gamble]]
+hp: [[pool]]
+g: the money risked on a gamble
+
+w: <<pyramid>>
+hyper: [[speculation]]
+dt: [[file:noun.artifact.org::stock_exchange]]
+g: (stock market) a series of transactions in which the speculator increases his holdings by using the rising market value of those holdings as margin for further purchases
+
+w: <<smart_money>>
+hyper: [[speculation]]
+g: money bet or invested by experienced gamblers or investors (especially if they have inside information)
+
+w: <<gamble>> drf [[file:verb.competition.org::gamble]]
+hyper: [[speculation]]
+g: money that is risked for possible monetary gain
+
+w: <<speculation>> drf [[file:verb.possession.org::speculate]]
+w: <<venture>> drf [[file:adj.all.org::venturous]] drf [[file:verb.social.org::venture]]
+hyper: [[investment]]
+g: an investment that is very risky but could yield great profits; "he knew the stock was a speculation when he bought it"
+
+w: <<quarter_stock>>
+hyper: [[stock]]
+g: stock with a par value of $25/share
+
+w: <<authorized_shares>>
+w: <<authorized_stock>>
+w: <<capital_stock>>
+hyper: [[stock]]
+g: the maximum number of shares authorized under the terms of a corporation's articles of incorporation
+
+w: <<share1>>
+hyper: [[stock_certificate]]
+hp: [[stock]]
+g: any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate; "he bought 100 shares of IBM at the market price"
+
+w: <<accession1>>
+hyper: [[property_right]]
+dt: [[file:noun.group.org::civil_law]]
+g: (civil law) the right to all of that which your property produces whether by growth or improvement
+
+w: <<right>> drf [[file:verb.social.org::right]]
+hyper: [[interest3]]
+du: [[file:noun.communication.org::plural]]
+g: (frequently plural) the interest possessed by law or custom in some intangible thing; "mineral rights"; "film rights"
+
+w: <<escheat>>
+hyper: [[reversion]]
+dt: [[file:noun.group.org::law]]
+g: a reversion to the state (as the ultimate owner of property) in the absence of legal heirs
+
+w: <<reversion>> drf [[file:adj.pert.org::reversionary]]
+hyper: [[interest3]]
+dt: [[file:noun.group.org::law]]
+g: (law) an interest in an estate that reverts to the grantor (or his heirs) at the end of some period (e.g., the death of the grantee)
+
+w: <<zero_coupon_bond>>
+w: <<zero-coupon_bond>>
+hyper: [[zero-coupon_security]]
+hyper: [[bond2]]
+dt: [[file:noun.group.org::corporation]]
+dt: [[file:noun.act.org::government]]
+g: a bond that is issued at a deep discount from its value at maturity and pays no interest during the life of the bond; the commonest form of zero-coupon security
+
+w: <<utility_bond>>
+w: <<utility_revenue_bond>>
+hyper: [[municipal_bond]]
+g: a bond issued to finance the construction of public utility services
+
+w: <<savings_bond>>
+hyper: [[government_bond]]
+g: non-negotiable government bond; cannot be bought and sold once the original purchase is made
+
+w: <<registered_security>>
+hyper: [[security4]]
+g: a security whose owner's name is recorded on the books of the issuer (or issuer's agent)
+
+w: <<mortgage-backed_security>>
+hyper: [[security4]]
+g: a security created when a group of mortgages are gathered together and bonds are sold to other institutions or the public; investors receive a portion of the interest payments on the mortgages as well as the principal payments; usually guaranteed by the government
+
+w: <<government_security>>
+w: <<agency_security>>
+hyper: [[security4]]
+g: a security issued by United States government agencies or the Farm Credit System
+
+w: <<unsecured_bond>> ant [[secured_bond]]
+w: <<debenture>>
+w: <<debenture_bond>>
+hyper: [[bond2]]
+g: the ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future
+
+w: <<secured_bond>> ant [[unsecured_bond]]
+hyper: [[bond2]]
+g: a bond that is back by collateral
+
+w: <<revenue_bond>>
+hyper: [[bond2]]
+g: a bond issued by an agency that is commissioned to finance public works; revenue from the public property is used to pay off the bond
+
+w: <<registered_bond>>
+hyper: [[bond2]]
+hyper: [[registered_security]]
+g: a bond whose owner is recorded on the books of the issuer; can be transferred to another owner only when endorsed by the registered owner
+
+w: <<post-obit_bond>>
+hyper: [[bond2]]
+g: a bond made by a reversioner to secure a loan; payable out of his reversion
+
+w: <<performance_bond>>
+w: <<surety_bond>>
+hyper: [[bond2]]
+g: a bond given to protect the recipient against loss in case the terms of a contract are not filled; a surety company assumes liability for nonperformance
+
+w: <<noncallable_bond>>
+hyper: [[bond2]]
+g: a bond containing a provision that the holder cannot redeem the security before a specific date (usually at maturity)
+
+w: <<municipal_bond>>
+hyper: [[bond2]]
+g: a bond issued by a state or local government
+
+w: <<junk_bond>>
+w: <<high-yield_bond>>
+hyper: [[bond2]]
+g: a (speculative) bond with a credit rating of BB or lower; issued for leveraged buyouts and other takeovers by companies with questionable credit
+
+w: <<government_bond>>
+hyper: [[bond2]]
+g: a bond that is an IOU of the United States Treasury; considered the safest security in the investment world
+
+w: <<coupon_bond>>
+w: <<bearer_bond>>
+hyper: [[bond2]]
+g: a bond issued with detachable coupons that must be presented to the issuer for interest payments
+
+w: <<corporate_bond>>
+hyper: [[bond2]]
+g: a bond issued by a corporation; carries no claim to ownership and pays no dividends but payments to bondholders have priority over payments to stockholders; "a corporate bond is a safer investment than common stock in the same company"
+
+w: <<convertible_bond>>
+hyper: [[bond2]]
+g: a bond that can be converted to other securities under certain conditions
+
+w: <<bond_issue>>
+hyper: [[bond2]]
+g: bonds sold by a corporation or government agency at a particular time and identifiable by date of maturity
+
+w: <<market_value>>
+w: <<market_price>>
+hyper: [[file:noun.attribute.org::value]]
+g: the price at which buyers and sellers trade the item in an open marketplace
+
+w: <<book_value>>
+hyper: [[file:noun.attribute.org::value]]
+g: the value at which an asset is carried on a balance sheet; equals cost minus accumulated depreciation
+
+w: <<penny_stock>>
+hyper: [[over_the_counter_stock]]
+g: a stock selling for less that $1/share
+
+w: <<hot_stock>>
+w: <<hot_issue>>
+hyper: [[stock]]
+g: newly issued stock that is in great public demand
+
+w: <<growth_stock>>
+hyper: [[stock]]
+g: stock of a corporation that has had faster than average gains in earnings and is expected to continue to
+
+w: <<control_stock>>
+hyper: [[stock]]
+g: shares owned by shareholders who have a controlling interest
+
+w: <<common_stock_equivalent>>
+hyper: [[stock]]
+g: preferred stock or convertible bonds or warrants that can be converted into common stock
+
+w: <<float>>
+hyper: [[stock]]
+g: the number of shares outstanding and available for trading by the public
+
+w: <<cumulative_preferred>>
+w: <<cumulative_preferred_stock>>
+hyper: [[preferred_stock]]
+g: preferred stock whose dividends if omitted accumulate until paid out
+
+w: <<preferred_stock>>
+w: <<preferred_shares>>
+w: <<preference_shares>>
+hyper: [[stock]]
+g: stock whose holders are guaranteed priority in the payment of dividends but whose holders have no voting rights
+
+w: <<no-par-value_stock>>
+w: <<no-par_stock>>
+hyper: [[stock]]
+g: stock with no par value specified in the corporate charter or on the stock certificate
+
+w: <<par_value>>
+w: <<face_value>>
+w: <<nominal_value>>
+hyper: [[file:noun.attribute.org::value]]
+g: the value of a security that is set by the company issuing it; unrelated to market value
+
+w: <<stock_of_record>>
+hyper: [[common_stock]]
+g: stock held by stockholders of record on a given date
+
+w: <<common_stock>>
+w: <<common_shares>>
+w: <<ordinary_shares>>
+hyper: [[stock]]
+g: stock other than preferred stock; entitles the owner to a share of the corporation's profits and a share of the voting power in shareholder elections; "over 40 million Americans invest in common stocks"
+
+w: <<classified_stock>>
+hyper: [[common_stock]]
+g: common stock classified as A or B where A has certain advantages (e.g., voting power) that B does not
+
+w: <<blue_chip>>
+w: <<blue-chip_stock>>
+hyper: [[common_stock]]
+g: a common stock of a nationally known company whose value and dividends are reliable; typically have high price and low yield; "blue chips are usually safe investments"
+
+w: <<capital_stock1>>
+hyper: [[book_value]]
+g: the book value of the outstanding shares of a corporation
+
+w: <<stockholding2>>
+w: <<stockholdings>>
+hyper: [[property]]
+g: a specific number of stocks or shares owned; "sell holdings he has in corporations"
+
+w: <<stockholding1>>
+hyper: [[ownership]]
+g: ownership of stocks; the state or fact of holding stock; "prohibition of unrestricted intercorporate stockholding"- W.Z.Ripley
+
+w: <<stock>>
+hyper: [[capital1]]
+g: the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity); "he owns a controlling share of the company's stock"
+
+w: <<equity1>>
+hyper: [[assets]]
+g: the difference between the market value of a property and the claims held against it
+
+w: <<sweat_equity>>
+hyper: [[equity]]
+g: interest in a building that a tenant earns by contributing to its renovation or maintenance
+
+w: <<equity>>
+hyper: [[interest3]]
+g: the ownership interest of shareholders in a corporation
+
+w: <<investment>> drf [[file:verb.possession.org::invest]]
+w: <<investment_funds>>
+hyper: [[assets]]
+g: money that is invested with an expectation of profit
+
+w: <<liquid_assets>>
+w: <<current_assets>>
+w: <<quick_assets>>
+hyper: [[assets]]
+hm: [[capital1]]
+du: [[file:noun.communication.org::plural]]
+g: assets in the form of cash (or easily convertible into cash)
+
+w: <<good_will>>
+w: <<goodwill>>
+hyper: [[intangible]]
+dt: [[file:noun.cognition.org::accounting]]
+g: (accounting) an intangible asset valued according to the advantage or reputation a business has acquired (over and above its tangible assets)
+
+w: <<intangible>>
+w: <<intangible_asset>>
+hyper: [[assets]]
+g: assets that are saleable though not material or physical
+
+w: <<renewable_resource>>
+hyper: [[natural_resource]]
+g: any natural resource (as wood or solar energy) that can be replenished naturally with the passage of time
+
+w: <<mineral_resources>>
+hyper: [[natural_resource]]
+g: natural resources in the form of minerals
+
+w: <<land_resources>>
+hyper: [[natural_resource]]
+g: natural resources in the form of arable land
+
+w: <<labor_resources>>
+hyper: [[resource]]
+g: resources of available manpower
+
+w: <<natural_resource>>
+w: <<natural_resources>>
+hyper: [[resource]]
+g: resources (actual and potential) supplied by nature
+
+w: <<resource>>
+hyper: [[assets]]
+g: available source of wealth; a new or reserve supply that can be drawn upon when needed
+
+w: <<figure>> drf [[file:verb.cognition.org::figure]]
+hyper: [[sum]]
+g: an amount of money expressed numerically; "a figure of $17 was suggested"
+
+w: <<sum>>
+w: <<sum_of_money>>
+w: <<amount>>
+w: <<amount_of_money>>
+hyper: [[assets]]
+g: a quantity of money; "he borrowed a large sum"; "the amount he had in cash was insufficient"
+
+w: <<special_drawing_rights>>
+w: <<paper_gold>>
+hyper: [[reserve_assets]]
+g: reserve assets in the International Monetary Fund; designed to supplement reserves of gold and convertible currencies used to maintain stability in the foreign exchange market
+
+w: <<reserve_assets>>
+hyper: [[assets]]
+du: [[file:noun.communication.org::plural]]
+g: capital held back from investment in order to meet probable or possible demands
+
+w: <<deep_pocket>>
+hyper: [[assets]]
+du: [[file:noun.communication.org::plural]]
+g: a source of substantial wealth (usually plural); "a patron of the arts should have deep pockets"
+
+w: <<crown_jewel>>
+hyper: [[assets]]
+g: the most desirable assets of a corporation; "their crown jewels figured prominently in the takeover attempt"
+
+w: <<receivables>>
+hyper: [[assets]]
+du: [[file:noun.communication.org::plural]]
+g: money that you currently expect to receive from notes or accounts
+
+w: <<payables>>
+hyper: [[liabilities]]
+g: money that you currently expect to pay on notes and accounts
+
+w: <<assets>>
+hyper: [[file:noun.Tops.org::possession]]
+du: [[file:noun.communication.org::plural]]
+g: anything of material value or usefulness that is owned by a person or company
+
+w: <<circumstances>>
+hyper: [[file:noun.Tops.org::possession]]
+g: a person's financial situation (good or bad); "he found himself in straitened circumstances"
+
+w: <<losings>> drf [[file:verb.possession.org::lose6]] drf [[file:verb.possession.org::lose1]] ant [[winnings]]
+w: <<losses>>
+hyper: [[financial_loss]]
+g: something lost (especially money lost at gambling)
+
+w: <<tax_write-off>>
+w: <<tax_deduction>>
+w: <<deduction1>>
+hyper: [[write-off]]
+g: a reduction in the gross amount on which a tax is calculated; reduces taxes by the percentage fixed for the taxpayer's income bracket
+
+w: <<write-off>> drf [[file:verb.change.org::write_off]]
+w: <<write-down>> drf [[file:verb.change.org::write_down10]]
+hyper: [[depreciation]]
+dt: [[file:noun.cognition.org::accounting]]
+g: (accounting) reduction in the book value of an asset
+
+w: <<straight-line_method>>
+w: <<straight-line_method_of_depreciation>>
+hyper: [[depreciation]]
+dt: [[file:noun.cognition.org::accounting]]
+g: (accounting) a method of calculating depreciation by taking an equal amount of the asset's cost as an expense for each year of the asset's useful life
+
+w: <<depreciation>> drf [[file:verb.change.org::depreciate1]] drf [[file:verb.change.org::depreciate]]
+w: <<wear_and_tear>>
+hyper: [[financial_loss]]
+hyper: [[non-cash_expense]]
+g: decrease in value of an asset due to obsolescence or use
+
+w: <<wastage>>
+hyper: [[loss1]]
+g: anything lost by wear or waste
+
+w: <<sacrifice>> drf [[file:verb.possession.org::sacrifice2]]
+hyper: [[loss1]]
+g: a loss entailed by giving up or selling something at less than its value; "he had to sell his car at a considerable sacrifice"
+
+w: <<financial_loss>>
+hyper: [[loss1]]
+g: loss of money or decrease in financial value
+
+w: <<loss1>>
+hyper: [[transferred_property]]
+g: something that is lost; "the car was a total loss"; "loss of livestock left the rancher bankrupt"
+
+w: <<squeeze>>
+hyper: [[loss]]
+g: a situation in which increased costs cannot be passed on to the customer; "increased expenses put a squeeze on profits"
+
+w: <<loss>> ant [[gain]]
+w: <<red_ink>>
+w: <<red>>
+hyper: [[sum]]
+g: the amount by which the cost of a business exceeds its revenue; "the company operated at a loss last year"; "the company operated in the red last year"
+
+w: <<room_rate>>
+hyper: [[rate]]
+g: the rate charged daily for a hotel room
+
+w: <<linage>>
+w: <<lineage>>
+hyper: [[rate]]
+g: a rate of payment for written material that is measured according to the number of lines submitted
+
+w: <<footage>>
+hyper: [[rate]]
+g: a rate of charging by the linear foot of work done
+
+w: <<excursion_rate>>
+hyper: [[rate]]
+g: a reduced rate for a round-trip ticket
+
+w: <<rate_of_exchange>>
+w: <<exchange_rate>>
+hyper: [[rate]]
+g: the charge for exchanging currency of one country for currency of another
+
+w: <<rate_of_depreciation>>
+w: <<depreciation_rate>>
+hyper: [[rate]]
+g: the rate at which the value of property is reduced; used to calculate tax deduction
+
+w: <<freight>> drf [[file:verb.motion.org::freight]]
+w: <<freightage>> drf [[file:verb.motion.org::freight]] drf [[file:verb.contact.org::freight]]
+w: <<freight_rate>>
+hyper: [[rate]]
+g: the charge for transporting something by common carrier; "we pay the freight"; "the freight rate is usually cheaper"
+
+w: <<tankage>>
+hyper: [[charge2]]
+g: the charge for storing something in tanks
+
+w: <<stowage>>
+hyper: [[charge2]]
+g: the charge for stowing goods
+
+w: <<service_charge>>
+w: <<service_fee>>
+hyper: [[charge2]]
+g: a percentage of a bill (as at a hotel or restaurant) added in payment for service
+
+w: <<single_supplement>>
+hyper: [[surcharge]]
+g: a surcharge added to the cost per person when traveling alone
+
+w: <<surcharge>> drf [[file:verb.possession.org::surcharge1]]
+hyper: [[charge2]]
+g: an additional charge (as for items previously omitted or as a penalty for failure to exercise common caution or common skill)
+
+w: <<water-rate>>
+hyper: [[charge2]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: rate per quarter for water from a public supply
+
+w: <<rate>>
+w: <<charge_per_unit>>
+hyper: [[charge2]]
+g: amount of a charge or payment relative to some basis; "a 10-minute phone call at that rate would cost $5"
+
+w: <<poundage1>>
+hyper: [[charge2]]
+g: a charge based on weight measured in pounds
+
+w: <<postage>>
+hyper: [[charge2]]
+g: the charge for mailing something
+
+w: <<porterage>> drf [[file:verb.contact.org::porter]]
+hyper: [[charge2]]
+g: the charge for carrying burdens by porters
+
+w: <<installation_charge>>
+hyper: [[charge2]]
+g: the charge for installing something
+
+w: <<demurrage>>
+hyper: [[charge2]]
+g: a charge required as compensation for the delay of a ship or freight car or other cargo beyond its scheduled time of departure
+
+w: <<agio>>
+w: <<agiotage>>
+w: <<premium3>>
+w: <<exchange_premium>>
+hyper: [[charge2]]
+g: a fee charged for exchanging currencies
+
+w: <<wharfage>>
+w: <<quayage>>
+hyper: [[fee]]
+g: a fee charged for the use of a wharf or quay
+
+w: <<tuition>>
+w: <<tuition_fee>>
+hyper: [[fee]]
+dt: [[file:noun.act.org::education]]
+g: a fee paid for instruction (especially for higher education); "tuition and room and board were more than $25,000"
+
+w: <<truckage>>
+hyper: [[fee]]
+g: a fee charged for transporting goods by truckage
+
+w: <<toll>> drf [[file:verb.possession.org::toll]]
+hyper: [[fee]]
+g: a fee levied for the use of roads or bridges (used for maintenance)
+
+w: <<seigniorage>>
+hyper: [[fee]]
+g: charged by a government for coining bullion
+
+w: <<quid_pro_quo>>
+w: <<quid>>
+hyper: [[retainer]]
+g: something for something; that which a party receives (or is promised) in return for something he does or gives or promises
+
+w: <<retainer>>
+w: <<consideration>>
+hyper: [[fee]]
+g: a fee charged in advance to retain the services of someone
+
+w: <<poundage>>
+hyper: [[fee]]
+g: a fee charged for the recovery of impounded animals
+
+w: <<pipage>> drf [[file:verb.motion.org::pipe]]
+hyper: [[fee]]
+g: a fee charged for the use of pipes
+
+w: <<origination_fee>>
+hyper: [[fee]]
+g: a fee charged to a borrower (especially for a mortgage loan) to cover the costs of initiating the loan
+
+w: <<moorage>>
+hyper: [[fee]]
+g: a fee for mooring
+
+w: <<mintage1>>
+hyper: [[fee]]
+g: fee paid to a mint by the government for minting a coin
+
+w: <<lockage>>
+hyper: [[fee]]
+g: a fee charged for passage through a lock in a canal or waterway
+
+w: <<lighterage>> drf [[file:verb.motion.org::lighter]]
+hyper: [[fee]]
+g: the fee charged for carrying goods in lighters
+
+w: <<refresher>>
+hyper: [[legal_fee]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a fee (in addition to that marked on the brief) paid to counsel in a case that lasts more than one day
+
+w: <<licensing_fee>>
+w: <<license_fee>>
+w: <<license_tax>>
+hyper: [[fee]]
+dt: [[file:noun.cognition.org::medicine]]
+g: a fee paid to the government for the privilege of being licensed to do something (as selling liquor or practicing medicine)
+
+w: <<legal_fee>>
+hyper: [[fee]]
+dt: [[file:noun.group.org::law]]
+g: a fee paid for legal service
+
+w: <<finder's_fee>>
+hyper: [[fee]]
+g: a fee that is paid to someone who finds a source of financial backing or to someone who brings people together for business purposes; "the agency got a finder's fee when their candidate was hired as the new CEO"
+
+w: <<entrance_fee>>
+w: <<admission>> drf [[file:verb.stative.org::admit3]] drf [[file:verb.social.org::admit1]]
+w: <<admission_charge>>
+w: <<admission_fee>>
+w: <<admission_price>>
+w: <<price_of_admission>>
+w: <<entrance_money>>
+hyper: [[fee]]
+g: the fee charged for admission
+
+w: <<drop-off_charge>>
+hyper: [[fee]]
+g: a fee added for returning a rented car to a location different from the one where it was rented
+
+w: <<dockage>>
+w: <<docking_fee>>
+hyper: [[fee]]
+g: a fee charged for a vessel to use a dock
+
+w: <<contingency_fee>>
+hyper: [[fee]]
+g: a fee that is payable only if the outcome is successful (as for an attorney's services)
+
+w: <<commission>>
+hyper: [[fee]]
+g: a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary); "he works on commission"
+
+w: <<cellarage>>
+hyper: [[fee]]
+g: a charge for storing goods in a cellar
+
+w: <<anchorage>>
+hyper: [[fee]]
+g: a fee for anchoring
+
+w: <<fee>>
+hyper: [[fixed_charge]]
+g: a fixed charge for a privilege or for professional services
+
+w: <<usury1>> drf [[file:adj.all.org::usurious]]
+w: <<vigorish>>
+hyper: [[interest_rate]]
+g: an exorbitant or unlawful rate of interest
+
+w: <<prime_interest_rate>>
+hyper: [[interest_rate]]
+g: the interest rate on short-term loans that banks charge their commercial customers with high credit ratings
+
+w: <<base_rate>>
+hyper: [[interest_rate]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: the interest rate set by the Bank of England for lending to other banks
+
+w: <<discount_rate1>>
+hyper: [[interest_rate]]
+dr: [[file:noun.location.org::United_States]]
+g: the rate of interest set by the Federal Reserve that member banks are charged when they borrow money through the Federal Reserve System
+
+w: <<bank_rate>>
+hyper: [[discount_rate]]
+g: the discount rate fixed by a central bank
+
+w: <<discount_rate>>
+w: <<discount1>>
+w: <<bank_discount>>
+hyper: [[interest_rate]]
+g: interest on an annual basis deducted in advance on a loan
+
+w: <<interest_rate>>
+w: <<rate_of_interest>>
+hyper: [[rate]]
+g: the percentage of a sum of money charged for its use
+
+w: <<simple_interest>>
+hyper: [[interest]]
+g: interest paid on the principal alone
+
+w: <<compound_interest>>
+hyper: [[interest]]
+g: interest calculated on both the principal and the accrued interest
+
+w: <<interest>>
+hyper: [[fixed_charge]]
+g: a fixed charge for borrowing money; usually a percentage of the amount borrowed; "how much interest do you pay on your mortgage?"
+
+w: <<cover_charge>>
+w: <<cover>> drf [[file:verb.possession.org::cover]]
+hyper: [[fixed_charge]]
+g: a fixed charge by a restaurant or nightclub over and above the charge for food and drink
+
+w: <<fixed_charge>>
+w: <<fixed_cost>>
+w: <<fixed_costs>>
+hyper: [[charge2]]
+g: a periodic charge that does not vary with business volume (as insurance or rent or mortgage payments etc.)
+
+w: <<countervailing_duty>>
+hyper: [[duty]]
+g: a duty imposed to offset subsidies by foreign governments
+
+w: <<export_duty>>
+hyper: [[duty]]
+g: a duty imposed on exports
+
+w: <<import_duty>>
+hyper: [[duty]]
+g: a duty imposed on imports
+
+w: <<anti-dumping_duty>>
+hyper: [[protective_tariff]]
+g: a tariff imposed to prevent dumping
+
+w: <<protective_tariff>>
+hyper: [[duty]]
+g: a tariff imposed to protect domestic firms from import competition
+
+w: <<revenue_tariff>>
+hyper: [[duty]]
+g: a tariff imposed to raise revenue
+
+w: <<octroi>>
+hyper: [[duty]]
+g: a tax on various goods brought into a town
+
+w: <<tonnage>>
+w: <<tunnage>>
+w: <<tonnage_duty>>
+hyper: [[duty]]
+g: a tax imposed on ships that enter the US; based on the tonnage of the ship
+
+w: <<ship_money>>
+hyper: [[customs]]
+g: an impost levied in England to provide money for ships for national defense
+
+w: <<customs>>
+w: <<customs_duty>>
+w: <<custom>>
+w: <<impost>>
+hyper: [[duty]]
+g: money collected under a tariff
+
+w: <<gasoline_tax>>
+hyper: [[excise]]
+g: a tax on every gallon of gasoline sold
+
+w: <<VAT>>
+w: <<value-added_tax>>
+w: <<ad_valorem_tax>>
+hyper: [[excise]]
+g: a tax levied on the difference between a commodity's price before taxes and its cost of production
+
+w: <<sales_tax>>
+w: <<nuisance_tax>>
+hyper: [[excise]]
+g: a tax based on the cost of the item purchased and collected directly from the buyer
+
+w: <<excise>> drf [[file:verb.possession.org::excise]]
+w: <<excise_tax>>
+hyper: [[indirect_tax]]
+g: a tax that is measured by the amount of business done (not on property or income from real estate)
+
+w: <<duty>>
+w: <<tariff>> drf [[file:verb.possession.org::tariff]]
+hyper: [[indirect_tax]]
+g: a government tax on imports or exports; "they signed a treaty to lower duties on trade between their countries"
+
+w: <<special_assessment>>
+hyper: [[tax]]
+g: an additional tax levied on private property for public improvements that enhance the value of the property
+
+w: <<tithe2>>
+hyper: [[levy]]
+g: a levy of one tenth of something
+
+w: <<transfer_tax>>
+hyper: [[tax]]
+g: any tax levied on the passing of title to property
+
+w: <<pavage>> drf [[file:verb.contact.org::pave]]
+hyper: [[tax]]
+g: a tax toward paving streets
+
+w: <<surtax>> drf [[file:verb.possession.org::surtax]]
+w: <<supertax>>
+hyper: [[income_tax]]
+g: an additional tax on certain kinds of income that has already been taxed
+
+w: <<stamp_tax>>
+w: <<stamp_duty>>
+hyper: [[tax]]
+g: a tax collected by requiring a stamp to be purchased and attached (usually on documents or publications)
+
+w: <<poor_rates>>
+hyper: [[rates]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a local tax for the relief of the poor
+
+w: <<rates>>
+hyper: [[tax]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a local tax on property (usually used in the plural)
+
+w: <<degressive_tax>>
+hyper: [[tax]]
+g: any tax in which the rate decreases as the amount subject to taxation increases
+
+w: <<proportional_tax>>
+hyper: [[tax]]
+g: any tax in which the rate is constant as the amount subject to taxation increases
+
+w: <<progressive_tax>>
+w: <<graduated_tax>>
+hyper: [[tax]]
+g: any tax in which the rate increases as the amount subject to taxation increases
+
+w: <<poll_tax>>
+hyper: [[capitation]]
+g: a tax of a fixed amount per person and payable as a requirement for the right to vote
+
+w: <<capitation>>
+hyper: [[tax]]
+g: a tax levied on the basis of a fixed amount per person
+
+w: <<hidden_tax>>
+hyper: [[indirect_tax]]
+dt: [[tax]]
+g: a tax paid unwittingly by the consumer (such as ad valorem taxes)
+
+w: <<indirect_tax>>
+hyper: [[tax]]
+g: a tax levied on goods or services rather than on persons or organizations
+
+w: <<tax_shelter>>
+w: <<shelter>> drf [[file:verb.stative.org::shelter]]
+hyper: [[file:noun.act.org::decrease]]
+g: a way of organizing business to reduce the taxes it must pay on current earnings
+
+w: <<tax_advantage>>
+hyper: [[file:noun.attribute.org::advantage]]
+g: an advantage bestowed by legislation that reduces a tax on some preferred activity
+
+w: <<direct_tax>>
+hyper: [[tax]]
+g: a tax paid directly by the person or organization on whom it is levied
+
+w: <<inheritance_tax>>
+w: <<estate_tax>>
+w: <<death_tax>>
+w: <<death_duty>>
+hyper: [[transfer_tax]]
+g: a tax on the estate of the deceased person
+
+w: <<gift_tax>>
+hyper: [[tax]]
+g: a tax imposed on transfers of property by gift during the lifetime of the giver
+
+w: <<franchise_tax>>
+hyper: [[tax]]
+g: a tax that is imposed by states on corporations; it depends both on the net worth of the corporation and on its net income attributable to activities within the state
+
+w: <<council_tax>>
+hyper: [[property_tax]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a tax levied on households by local authorities; based on the estimated value of the property and the number of people living in it
+
+w: <<property_tax>>
+w: <<land_tax>>
+hyper: [[capital_levy]]
+g: a capital tax on property imposed by municipalities; based on the estimated value of the property
+
+w: <<departure_tax>>
+hyper: [[tax]]
+g: a tax that is levied when you are departing a country by land or sea or air
+
+w: <<capital_levy>>
+hyper: [[tax]]
+g: a tax on capital or property
+
+w: <<capital_gains_tax>>
+hyper: [[tax]]
+g: a tax on capital gains; "he avoided the capital gains tax by short selling"
+
+w: <<capital_loss>>
+hyper: [[financial_loss]]
+g: the amount by which the purchase price of an asset exceeds the selling price; the loss is realized when the asset is sold
+
+w: <<capital_gain>>
+hyper: [[financial_gain]]
+g: the amount by which the selling price of an asset exceeds the purchase price; the gain is realized when the asset is sold
+
+w: <<unearned_increment>>
+hyper: [[financial_gain]]
+g: an unearned rise in the market value of property resulting from general market factors
+
+w: <<PAYE>>
+w: <<pay_as_you_earn>>
+hyper: [[withholding_tax]]
+g: the British system of withholding tax
+
+w: <<withholding_tax>>
+w: <<withholding>> drf [[file:verb.possession.org::withhold1]]
+hyper: [[income_tax]]
+g: income tax withheld from employees' wages and paid directly to the government by the employer
+
+w: <<entertainment_deduction>>
+hyper: [[business_deduction]]
+g: deduction allowed for some (limited) kinds of entertainment for business purposes
+
+w: <<exemption>>
+hyper: [[tax_write-off]]
+g: a deduction allowed to a taxpayer because of his status (having certain dependents or being blind or being over 65 etc.); "additional exemptions are allowed for each dependent"
+
+w: <<business_deduction>>
+hyper: [[tax_write-off]]
+g: tax write-off for expenses of doing business
+
+w: <<FICA>>
+hyper: [[income_tax]]
+g: a tax on employees and employers that is used to fund the Social Security system
+
+w: <<estimated_tax>>
+hyper: [[income_tax]]
+g: income tax paid periodically on income that is not subject to withholding taxes; based on the taxpayer's predicted tax liability
+
+w: <<bracket_creep>>
+hyper: [[income_tax]]
+g: a movement into a higher tax bracket as taxable income increases
+
+w: <<income_tax>>
+hyper: [[tax]]
+g: a personal tax levied on annual income
+
+w: <<single_tax>>
+hyper: [[tax]]
+g: a system of taxation in which a tax is levied on a single commodity (usually land)
+
+w: <<tax_liability>>
+hyper: [[liabilities]]
+g: the amount of tax owed; calculated by applying the tax rate to the tax base
+
+w: <<tax_rate>>
+hyper: [[rate]]
+g: rate used to calculate tax liability
+
+w: <<tax_base>>
+hyper: [[assets]]
+g: collective value of taxable assets
+
+w: <<tax>> drf [[file:verb.possession.org::tax]]
+w: <<taxation>> drf [[file:verb.possession.org::tax]]
+w: <<revenue_enhancement>>
+hyper: [[levy]]
+g: charge against a citizen's person or property or activity for the support of government
+
+w: <<levy>> drf [[file:verb.possession.org::levy]]
+hyper: [[charge1]]
+g: a charge imposed and collected
+
+w: <<train_fare>>
+hyper: [[fare]]
+g: the fare charged for traveling by train
+
+w: <<subway_fare>>
+hyper: [[train_fare]]
+g: the fare charged for riding a subway train
+
+w: <<cab_fare>>
+w: <<taxi_fare>>
+hyper: [[fare]]
+g: the fare charged for riding in a taxicab
+
+w: <<bus_fare>>
+w: <<carfare>>
+hyper: [[fare]]
+g: the fare charged for riding a bus or streetcar
+
+w: <<airfare>>
+hyper: [[fare]]
+g: the fare charged for traveling by airplane
+
+w: <<fare>>
+w: <<transportation>>
+hyper: [[charge2]]
+g: the sum charged for riding in a public conveyance
+
+w: <<corkage>>
+hyper: [[service_charge]]
+g: a charge added at a restaurant for every bottle of wine served that was not bought on the premises
+
+w: <<extortion>> drf [[file:verb.possession.org::extort]]
+hyper: [[overcharge]]
+g: an exorbitant charge
+
+w: <<overcharge>> drf [[file:verb.possession.org::overcharge]]
+hyper: [[charge2]]
+g: a price that is too high
+
+w: <<undercharge>> drf [[file:verb.possession.org::undercharge]]
+hyper: [[charge2]]
+g: a price that is too low
+
+w: <<depreciation_charge>>
+hyper: [[charge2]]
+g: an amount periodically charged to expense or against revenue in compensation for depreciation of property
+
+w: <<carrying_charge>>
+hyper: [[charge2]]
+g: charge made for carrying an account or for merchandise sold on an installment plan
+
+w: <<charge2>> drf [[file:verb.possession.org::charge3]] drf [[file:verb.possession.org::charge2]] drf [[file:verb.cognition.org::charge12]]
+hyper: [[cost]]
+g: the price charged for some article or service; "the admission charge"
+
+w: <<travel_expense>>
+hyper: [[expense1]]
+du: [[file:noun.communication.org::plural]]
+g: (frequently plural) expenses incurred by an employee in the performance of the job and usually reimbursed by the employer
+
+w: <<incidental_expense>>
+w: <<incidental>>
+w: <<minor_expense>>
+hyper: [[expense1]]
+du: [[file:noun.communication.org::plural]]
+g: (frequently plural) an expense not budgeted or not specified; "he requested reimbursement of $7 for incidental expenses"
+
+w: <<portage>>
+hyper: [[cost]]
+g: the cost of carrying or transporting
+
+w: <<carrying_cost>>
+w: <<carrying_charge2>>
+hyper: [[opportunity_cost]]
+g: the opportunity cost of unproductive assets; the expense incurred by ownership
+
+w: <<cost_of_capital>>
+w: <<capital_cost>>
+hyper: [[opportunity_cost]]
+g: the opportunity cost of the funds employed as the result of an investment decision; the rate of return that a business could earn if it chose another investment with equivalent risk
+
+w: <<opportunity_cost>>
+hyper: [[cost]]
+g: cost in terms of foregoing alternatives
+
+w: <<valuation>>
+hyper: [[price]]
+g: assessed price; "the valuation of this property is much too high"
+
+w: <<support_level>>
+hyper: [[price]]
+dt: [[file:noun.artifact.org::stock_exchange]]
+g: (stock market) the price at which a certain security becomes attractive to investors
+
+w: <<spot_price>>
+w: <<cash_price>>
+hyper: [[price]]
+g: the current delivery price of a commodity traded in the spot market
+
+w: <<purchase_price>>
+hyper: [[price]]
+g: the price at which something is actually purchased
+
+w: <<list_price>>
+hyper: [[asking_price]]
+g: the selling price of something as stated in a catalogue or price list; often subject to discounts; "I got it at 30% off the list price"
+
+w: <<highway_robbery>>
+hyper: [[price]]
+g: an exorbitant price; "what they are asking for gas these days is highway robbery"
+
+w: <<factory_price>>
+hyper: [[price]]
+g: price charged for goods picked up at the factory
+
+w: <<upset_price>>
+hyper: [[asking_price]]
+dt: [[file:noun.act.org::auction]]
+g: (auction) the minimum price at which a seller of property will entertain bids
+
+w: <<offer_price>>
+hyper: [[asking_price]]
+dt: [[file:noun.artifact.org::stock_exchange]]
+g: (stock market) the price at which a broker is willing to sell a certain security
+
+w: <<closing_price>>
+hyper: [[price]]
+dt: [[file:noun.artifact.org::stock_exchange]]
+g: (stock market) the price of the last transaction completed during a day's trading session
+
+w: <<bid_price>>
+hyper: [[price]]
+dt: [[file:noun.artifact.org::stock_exchange]]
+g: (stock market) the price at which a broker is willing to buy a certain security
+
+w: <<asking_price>>
+w: <<selling_price>>
+hyper: [[price]]
+g: the price at which something is offered for sale
+
+w: <<markup>> drf [[file:verb.possession.org::mark_up]]
+hyper: [[net_income]]
+g: the amount added to the cost to determine the asking price
+
+w: <<price2>>
+hyper: [[cost]]
+g: cost of bribing someone; "they say that every politician has a price"
+
+w: <<price>> drf [[file:adj.all.org::pricy]] drf [[file:adj.all.org::pricey]] drf [[file:verb.cognition.org::price]] drf [[file:verb.possession.org::price]]
+w: <<terms>>
+w: <<damage>>
+hyper: [[cost]]
+g: the amount of money needed to purchase something; "the price of gasoline"; "he got his new car on excellent terms"; "how much is the damage?"
+
+w: <<unit_cost>>
+hyper: [[cost]]
+g: calculated cost for a given unit of a product
+
+w: <<reproduction_cost>>
+w: <<physical_value>>
+hyper: [[cost]]
+g: cost of reproducing physical property minus various allowances (especially depreciation)
+
+w: <<replacement_cost>>
+hyper: [[cost]]
+g: current cost of replacing a fixed asset with a new one of equal effectiveness
+
+w: <<production_cost>>
+hyper: [[cost]]
+g: combined costs of raw material and labor incurred in producing goods
+
+w: <<marketing_cost>>
+hyper: [[cost]]
+g: the cost of marketing (e.g., the cost of transferring title and moving goods to the customer)
+
+w: <<handling_cost>>
+w: <<handling_charge>>
+hyper: [[cost]]
+g: the cost of handling (especially the cost of packaging and mailing an order)
+
+w: <<distribution_cost>>
+hyper: [[cost]]
+g: any cost incurred by a producer or wholesaler or retailer or distributor (as for advertising and shipping etc)
+
+w: <<borrowing_cost>>
+hyper: [[cost]]
+g: the cost of borrowing something
+
+w: <<cost_of_living>>
+hyper: [[cost]]
+g: average cost of basic necessities of life (as food and shelter and clothing); "a rise in the cost of living reflects the rate of inflation"
+
+w: <<cost_overrun>>
+hyper: [[cost]]
+g: excess of cost over budget; "the cost overrun necessitated an additional allocation of funds in the budget"
+
+w: <<installment>>
+hyper: [[payment]]
+g: a payment of part of a debt; usually paid at regular intervals
+
+w: <<premium2>>
+w: <<insurance_premium>>
+hyper: [[payment]]
+g: payment for insurance
+
+w: <<library_fine>>
+hyper: [[fine]]
+g: fine imposed by a library on books that overdue when returned
+
+w: <<fine>> drf [[file:verb.social.org::fine]]
+w: <<mulct>> drf [[file:verb.possession.org::mulct]]
+w: <<amercement>> drf [[file:verb.social.org::amerce1]]
+hyper: [[penalty]]
+g: money extracted as a penalty
+
+w: <<forfeit1>> drf [[file:verb.possession.org::forfeit]]
+w: <<forfeiture1>> drf [[file:verb.possession.org::forfeit]]
+hyper: [[loss1]]
+g: something that is lost or surrendered as a penalty;
+
+w: <<forfeit>> drf [[file:verb.possession.org::forfeit]]
+w: <<forfeiture>> drf [[file:verb.possession.org::forfeit]]
+hyper: [[penalty]]
+g: a penalty for a fault or mistake that involves losing or giving up something; "the contract specified forfeits if the work was not completed on time"
+
+w: <<retribution>>
+w: <<requital>>
+hyper: [[penalty]]
+g: a justly deserved penalty
+
+w: <<pittance>>
+hyper: [[payment]]
+g: an inadequate payment; "they work all day for a mere pittance"
+
+w: <<penalty>>
+hyper: [[payment]]
+g: a payment required for not fulfilling a contract
+
+w: <<default2>> drf [[file:verb.possession.org::default]]
+w: <<nonpayment2>>
+w: <<nonremittal2>>
+hyper: [[file:noun.act.org::failure]]
+g: act of failing to meet a financial obligation
+
+w: <<delinquency>>
+hyper: [[nonpayment]]
+g: nonpayment of a debt when due
+
+w: <<nonpayment>> ant [[payment]]
+w: <<default>> drf [[file:verb.possession.org::default]]
+w: <<nonremittal>>
+hyper: [[financial_loss]]
+g: loss resulting from failure of a debt to be paid
+
+w: <<token_payment>>
+hyper: [[payment]]
+g: a small payment made in acknowledgement of an obligation
+
+w: <<redemption>> drf [[file:verb.possession.org::redeem1]]
+hyper: [[repayment]]
+dt: [[file:noun.group.org::corporation]]
+g: repayment of the principal amount of a debt or security at or before maturity (as when a corporation repurchases its own stock)
+
+w: <<repayment>> drf [[file:verb.possession.org::repay1]] drf [[file:verb.possession.org::repay]]
+w: <<quittance>>
+hyper: [[payment]]
+g: payment of a debt or obligation
+
+w: <<remittance>> drf [[file:verb.possession.org::remit]]
+w: <<remittal>> drf [[file:verb.possession.org::remit]]
+w: <<remission>>
+w: <<remitment>> drf [[file:verb.possession.org::remit]]
+hyper: [[payment]]
+g: a payment of money sent to a person in another place
+
+w: <<payoff>>
+w: <<final_payment>>
+hyper: [[payment]]
+g: the final payment of a debt
+
+w: <<lump_sum>>
+hyper: [[payment]]
+g: a complete payment consisting of a single sum of money
+
+w: <<child_support>>
+hyper: [[support_payment]]
+g: court-ordered support paid by one spouse to the other who has custody of the children after the parents are separated
+
+w: <<Christmas_box>>
+hyper: [[gratuity]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a present given at Christmas for services during the year
+
+w: <<gratuity>>
+w: <<tip>> drf [[file:verb.possession.org::tip]]
+w: <<pourboire>>
+w: <<baksheesh>>
+w: <<bakshish>>
+w: <<bakshis>>
+w: <<backsheesh>>
+hyper: [[fringe_benefit]]
+g: a relatively small amount of money given for services rendered (as by a waiter)
+
+w: <<tax_benefit>>
+w: <<tax_break>>
+hyper: [[tax_write-off]]
+g: a tax deduction that is granted in order to encourage a particular type of commercial activity
+
+w: <<appanage1>>
+w: <<apanage1>>
+hyper: [[fringe_benefit]]
+g: any customary and rightful perquisite appropriate to your station in life; "for thousands of years the chair was an appanage of state and dignity rather than an article of ordinary use"
+
+w: <<fringe_benefit>>
+w: <<perquisite>>
+w: <<perk>>
+hyper: [[benefit]]
+g: an incidental benefit awarded for certain types of employment (especially if it is regarded as a right); "a limousine is one of the fringe benefits of the job"
+
+w: <<sick_benefit>>
+w: <<sickness_benefit>>
+hyper: [[benefit]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: money paid (by the government) to someone who is too ill to work
+
+w: <<disability_benefit>>
+hyper: [[benefit]]
+g: insurance benefits paid in case of disability
+
+w: <<viatical_settlement2>>
+hyper: [[advance_death_benefit]]
+g: cash derived from sale of an insurance policy by a terminally ill policy holder
+
+w: <<advance_death_benefit>>
+hyper: [[death_benefit]]
+g: a percentage of death benefits paid directly to policy holders having a short life expectancy (usually 6 months)
+
+w: <<death_benefit>>
+hyper: [[benefit]]
+g: insurance or pension money payable to a beneficiary of a deceased
+
+w: <<cost-of-living_benefit>>
+hyper: [[benefit]]
+g: a benefit that goes to anyone whose money receipts increase automatically as prices rise
+
+w: <<benefit>>
+hyper: [[payment]]
+g: financial assistance in time of need
+
+w: <<hire-purchase>>
+w: <<never-never>>
+hyper: [[installment_plan]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: installment plan; "we bought a car on the never-never"
+
+w: <<installment_plan>>
+w: <<installment_buying>>
+w: <<time_plan>>
+hyper: [[regular_payment]]
+g: a system for paying for goods by installments
+
+w: <<payback>>
+hyper: [[return]]
+g: financial return or reward (especially returns equal to the initial investment)
+
+w: <<economic_rent>>
+w: <<rent1>>
+hyper: [[return]]
+g: the return derived from cultivated land in excess of that derived from the poorest land cultivated under similar conditions
+
+w: <<rack_rent>>
+hyper: [[rent]]
+g: an extortionate rent
+
+w: <<peppercorn_rent>>
+hyper: [[rent]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: very low or nominal rent
+
+w: <<ground_rent>>
+hyper: [[rent]]
+g: payment for the right to occupy and improve a piece of land
+
+w: <<rent>> drf [[file:adj.pert.org::rental]] drf [[file:verb.social.org::rent]] drf [[file:verb.possession.org::rent]] drf [[file:verb.possession.org::rent1]] drf [[file:verb.social.org::rent1]]
+hyper: [[annuity_in_advance]]
+g: a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service
+
+w: <<tontine>>
+hyper: [[annuity]]
+g: an annuity scheme wherein participants share certain benefits and on the death of any participant his benefits are redistributed among the remaining participants; can run for a fixed period of time or until the death of all but one participant
+
+w: <<reversionary_annuity>>
+w: <<survivorship_annuity>>
+hyper: [[annuity]]
+g: an annuity payable to one person in the event that someone else is unable to receive it
+
+w: <<ordinary_annuity>>
+hyper: [[annuity]]
+g: an annuity paid in a series of more or less equal payments at the end of equally spaced periods
+
+w: <<annuity_in_advance>>
+hyper: [[annuity]]
+g: an annuity paid in a series of more or less equal payments at the beginning of equally spaced periods; "rent payable in advance constitutes an annuity in advance for the landlord"
+
+w: <<annuity>>
+w: <<rente1>>
+hyper: [[regular_payment]]
+g: income from capital investment paid in a series of regular payments; "his retirement fund was set up to be paid as an annuity"
+
+w: <<prebend>>
+hyper: [[stipend]]
+g: the stipend assigned by a cathedral to a canon
+
+w: <<privy_purse>>
+hyper: [[allowance]]
+g: allowance for a monarch's personal expenses
+
+w: <<stipend>> drf [[file:adj.pert.org::stipendiary]]
+hyper: [[regular_payment]]
+g: a sum of money allotted on a regular basis; usually for some specific purpose
+
+w: <<mileage>>
+hyper: [[travel_allowance]]
+g: a travel allowance at a given rate per mile traveled
+
+w: <<travel_allowance>>
+w: <<travel_reimbursement>>
+hyper: [[allowance2]]
+g: a sum allowed for travel
+
+w: <<per_diem>>
+hyper: [[allowance2]]
+g: a daily allowance for living expenses (especially while traveling in connection with your job)
+
+w: <<costs>>
+hyper: [[reimbursement]]
+g: pecuniary reimbursement to the winning party for the expenses of litigation
+
+w: <<breakage>>
+hyper: [[reimbursement]]
+g: reimbursement for goods damaged while in transit or in use
+
+w: <<allowance2>>
+hyper: [[reimbursement]]
+g: a sum granted as reimbursement for expenses
+
+w: <<poverty_line>>
+w: <<poverty_level>>
+hyper: [[personal_income]]
+g: a level of personal income defining the state of poverty
+
+w: <<residual>>
+hyper: [[payment]]
+du: [[file:noun.communication.org::plural]]
+g: (often plural) a payment that is made to a performer or writer or director of a television show or commercial that is paid for every repeat showing; "he could retire on his residuals"
+
+w: <<atonement>> drf [[file:verb.social.org::atone12]]
+w: <<expiation>> drf [[file:verb.social.org::expiate]]
+w: <<satisfaction>>
+hyper: [[damages]]
+g: compensation for a wrong; "we were unable to get satisfaction from the local store"
+
+w: <<reparation1>> drf [[file:verb.possession.org::repair]]
+hyper: [[compensation]]
+g: compensation (given or received) for an insult or injury; "an act for which there is no reparation"
+
+w: <<reparation>>
+hyper: [[compensation]]
+du: [[file:noun.communication.org::plural]]
+g: (usually plural) compensation exacted from a defeated nation by the victors; "Germany was unable to pay the reparations demanded after World War I"
+
+w: <<treble_damages>>
+hyper: [[punitive_damages]]
+g: three times the amount that a court would normally find the injured party entitled to
+
+w: <<double_damages>>
+hyper: [[punitive_damages]]
+g: twice the amount that a court would normally find the injured party entitled to
+
+w: <<punitive_damages>>
+w: <<exemplary_damages>>
+w: <<smart_money1>>
+hyper: [[damages]]
+dt: [[file:noun.group.org::law]]
+g: (law) compensation in excess of actual damages (a form of punishment awarded in cases of malicious or willful misconduct)
+
+w: <<nominal_damages>>
+hyper: [[damages]]
+dt: [[file:noun.group.org::law]]
+g: (law) a trivial sum (usually $1.00) awarded as recognition that a legal injury was sustained (as for technical violations of a contract)
+
+w: <<actual_damages>>
+w: <<compensatory_damages>>
+w: <<general_damages>>
+hyper: [[damages]]
+dt: [[file:noun.group.org::law]]
+g: (law) compensation for losses that can readily be proven to have occurred and for which the injured party has the right to be compensated
+
+w: <<counterbalance>> drf [[file:verb.social.org::counterbalance]] drf [[file:verb.stative.org::counterbalance1]]
+w: <<offset>> drf [[file:verb.stative.org::offset]] drf [[file:verb.stative.org::offset1]]
+hyper: [[compensation]]
+g: a compensating equivalent
+
+w: <<relief>>
+hyper: [[damages]]
+dt: [[file:noun.group.org::law]]
+g: (law) redress awarded by a court; "was the relief supposed to be protection from future harm or compensation for past injury?"
+
+w: <<damages>>
+w: <<amends>>
+w: <<indemnity>> drf [[file:verb.possession.org::indemnify]]
+w: <<indemnification>> drf [[file:verb.possession.org::indemnify]]
+w: <<restitution>>
+w: <<redress>> drf [[file:verb.social.org::redress]]
+hyper: [[compensation]]
+g: a sum of money paid in compensation for loss or injury
+
+w: <<blood_money1>>
+hyper: [[compensation]]
+g: compensation paid to the family of a murdered person
+
+w: <<emolument>>
+hyper: [[compensation]]
+g: compensation received by virtue of holding an office or having employment (usually in the form of wages or fees); "a clause in the U.S. constitution prevents sitting legislators from receiving emoluments from their own votes"
+
+w: <<reimbursement>> drf [[file:verb.possession.org::reimburse1]] drf [[file:verb.possession.org::reimburse]]
+hyper: [[compensation]]
+g: compensation paid (to someone) for damages or losses or money already spent etc.; "he received reimbursement for his travel expenses"
+
+w: <<appropriation>>
+hyper: [[money]]
+dt: [[file:noun.group.org::legislature]]
+g: money set aside (as by a legislature) for a specific purpose
+
+w: <<quota>>
+hyper: [[allotment]]
+g: a proportional share assigned to each participant
+
+w: <<reallocation>> drf [[file:verb.possession.org::reallocate]]
+hyper: [[allotment]]
+g: a share that has been allocated again
+
+w: <<allotment>>
+w: <<allocation>> drf [[file:verb.possession.org::allocate]]
+hyper: [[share]]
+g: a share set aside for a specific purpose
+
+w: <<rake-off>> drf [[file:verb.possession.org::rake_off]]
+w: <<vigorish1>>
+hyper: [[cut]]
+g: a percentage (of winnings or loot or profit) taken by an operator or gangster
+
+w: <<cut>>
+hyper: [[share]]
+hp: [[loot]]
+g: a share of the profits; "everyone got a cut of the earnings"
+
+w: <<profit_sharing>>
+hyper: [[share]]
+g: a system in which employees receive a share of the net profits of the business
+
+w: <<entail>>
+hyper: [[estate1]]
+g: land received by fee tail
+
+w: <<fee_tail>>
+hyper: [[fee1]]
+g: a fee limited to a particular line of heirs; they are not free to sell it or give it away
+
+w: <<fee_simple>>
+hyper: [[fee1]]
+g: a fee without limitation to any class of heirs; they can sell it or give it away
+
+w: <<fee1>>
+hyper: [[interest3]]
+g: an interest in land capable of being inherited
+
+w: <<undivided_interest>>
+w: <<undivided_right>>
+hyper: [[interest3]]
+g: the interest in property owned by tenants whereby each tenant has an equal right to enjoy the entire property
+
+w: <<terminable_interest>>
+hyper: [[interest3]]
+g: an interest in property that terminates under specific conditions
+
+w: <<security_interest>>
+hyper: [[interest3]]
+g: any interest in a property that secures the payment of an obligation
+
+w: <<vested_interest>>
+hyper: [[interest3]]
+dt: [[file:noun.group.org::law]]
+g: (law) an interest in which there is a fixed right to present or future enjoyment and that can be conveyed to another
+
+w: <<insurable_interest>>
+hyper: [[interest3]]
+g: an interest in a person or thing that will support the issuance of an insurance policy; an interest in the survival of the insured or in the preservation of the thing that is insured
+
+w: <<controlling_interest>>
+hyper: [[interest3]]
+g: ownership of more than 50% of a corporation's voting shares
+
+w: <<grubstake>> drf [[file:verb.possession.org::grubstake]]
+hyper: [[interest3]]
+g: funds advanced to a prospector or to someone starting a business in return for a share of the profits
+
+w: <<interest3>>
+w: <<stake2>>
+hyper: [[share]]
+dt: [[file:noun.group.org::law]]
+g: (law) a right or legal share of something; a financial involvement with something; "they have interests all over the world"; "a stake in the company's future"
+
+w: <<split>> drf [[file:verb.social.org::split3]]
+hyper: [[share]]
+g: a promised or claimed share of loot or money; "he demanded his split before they disbanded"
+
+w: <<slice>>
+w: <<piece>>
+hyper: [[share]]
+g: a share of something; "a slice of the company's revenue"
+
+w: <<allowance>> drf [[file:verb.possession.org::allowance]] drf [[file:verb.cognition.org::allow1]]
+hyper: [[share]]
+g: an amount allowed or granted (as during a given period); "travel allowance"; "my weekly allowance of two eggs"; "a child's allowance should not be too generous"
+
+w: <<ration>> drf [[file:verb.possession.org::ration]] drf [[file:verb.possession.org::ration1]]
+hyper: [[share]]
+g: a fixed portion that is allotted (especially in times of scarcity)
+
+w: <<way>>
+hyper: [[share]]
+g: a portion of something divided into shares; "they split the loot three ways"
+
+w: <<dole>>
+hyper: [[share]]
+g: a share of money or food or clothing that has been charitably given
+
+w: <<dispensation>> drf [[file:verb.possession.org::dispense]] drf [[file:verb.body.org::dispense]]
+hyper: [[share]]
+g: a share that has been dispensed or distributed
+
+w: <<tranche>>
+hyper: [[share]]
+g: a portion of something (especially money)
+
+w: <<share>> drf [[file:verb.possession.org::share1]]
+w: <<portion>>
+w: <<part>>
+w: <<percentage>>
+hyper: [[assets]]
+hp: [[net_income]]
+g: assets belonging to or due to or contributed by an individual person or group; "he wanted his share in cash"
+
+w: <<soap>>
+hyper: [[bribe]]
+g: money offered as a bribe
+
+w: <<payola>>
+hyper: [[bribe]]
+g: a bribe given to a disc jockey to induce him to promote a particular record
+
+w: <<kickback>> drf [[file:verb.possession.org::kick_back]]
+hyper: [[bribe]]
+g: a commercial bribe paid by a seller to a purchasing agent in order to induce the agent to enter into the transaction
+
+w: <<bribe>> drf [[file:verb.possession.org::bribe]]
+w: <<payoff1>>
+hyper: [[payment]]
+g: payment made to a person in a position of trust to corrupt his judgment
+
+w: <<hush_money>>
+hyper: [[bribe]]
+g: a bribe paid to someone to insure that something is kept secret
+
+w: <<meed>>
+hyper: [[reward]]
+du: [[file:noun.communication.org::archaism]]
+g: a fitting reward
+
+w: <<guerdon>>
+hyper: [[reward]]
+g: a reward or payment
+
+w: <<blood_money2>>
+hyper: [[reward]]
+g: a reward for information about a murderer
+
+w: <<ransom>> drf [[file:verb.possession.org::ransom]]
+w: <<ransom_money>>
+hyper: [[cost]]
+g: money demanded for the return of a captured person
+
+w: <<honorarium>>
+hyper: [[reward]]
+g: a fee paid for a nominally free service
+
+w: <<reward>>
+hyper: [[payment]]
+g: payment made in return for a service rendered
+
+w: <<alimony>>
+w: <<maintenance1>>
+hyper: [[support_payment]]
+g: court-ordered support paid by one spouse to another after they are separated
+
+w: <<palimony>>
+hyper: [[support_payment]]
+g: support paid by one half of an unmarried partnership after the relationship ends
+
+w: <<support_payment>>
+hyper: [[payment]]
+g: a payment made by one person for the support of another
+
+w: <<conscience_money>>
+hyper: [[payment]]
+g: payment made voluntarily to reduce guilt over dishonest dealings
+
+w: <<workmen's_compensation>>
+hyper: [[compensation]]
+g: compensation for death or injury suffered by a worker in the course of his employment
+
+w: <<overcompensation>>
+hyper: [[compensation]]
+g: excessive compensation
+
+w: <<compensation>> drf [[file:verb.social.org::compensate]] drf [[file:verb.possession.org::compensate2]] drf [[file:verb.possession.org::compensate1]] drf [[file:verb.possession.org::compensate]]
+hyper: [[recompense]]
+g: something (such as money) given or received as payment or reparation (as for a service or loss or injury)
+
+w: <<rent-rebate>>
+hyper: [[rebate]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a rebate on rent given by a local government authority
+
+w: <<rebate>> drf [[file:verb.possession.org::rebate]]
+w: <<discount2>>
+hyper: [[refund]]
+g: a refund of some fraction of the amount paid
+
+w: <<refund>> drf [[file:verb.possession.org::refund]]
+hyper: [[payment]]
+g: money returned to a payer
+
+w: <<recompense>> drf [[file:verb.possession.org::recompense]]
+hyper: [[payment]]
+g: payment or reward (as for service rendered)
+
+w: <<blood_money3>>
+hyper: [[payment]]
+g: paid to a hired murderer
+
+w: <<payment_rate>>
+w: <<rate_of_payment>>
+w: <<repayment_rate>>
+w: <<installment_rate>>
+hyper: [[rate]]
+g: the amount of money paid out per unit time
+
+w: <<time_and_a_half>>
+hyper: [[pay_rate]]
+g: a rate of pay that is 1.5 times the regular rate; for overtime work
+
+w: <<pay_rate>>
+w: <<rate_of_pay>>
+hyper: [[rate]]
+g: amount of money received per unit time; "women's pay rate is lower than men's"
+
+w: <<regular_payment>>
+hyper: [[payment]]
+g: a payment made at regular times
+
+w: <<subscription>>
+hyper: [[payment]]
+g: a payment for consecutive issues of a newspaper or magazine for a given period of time
+
+w: <<take-home_pay>>
+hyper: [[wage]]
+g: what is left of your pay after deductions for taxes and dues and insurance etc
+
+w: <<strike_pay>>
+hyper: [[wage]]
+g: money paid to strikers from union funds
+
+w: <<sick_pay>>
+hyper: [[wage]]
+g: wages paid to an employee who is on sick leave
+
+w: <<pay_envelope>>
+w: <<pay_packet>>
+hyper: [[wage]]
+g: wages enclosed in an envelope for distribution to the wage earner
+
+w: <<minimum_wage>>
+hyper: [[wage]]
+g: the lowest wage that an employer is allowed to pay; determined by contract or by law
+
+w: <<merit_pay>>
+hyper: [[wage]]
+g: extra pay awarded to an employee on the basis of merit (especially to school teachers)
+
+w: <<living_wage>>
+hyper: [[wage]]
+g: a wage sufficient for a worker and family to subsist comfortably
+
+w: <<half-pay>>
+hyper: [[wage]]
+g: reduced wage paid to someone who is not working full time
+
+w: <<found>>
+hyper: [[wage]]
+g: food and lodging provided in addition to money; "they worked for $30 and found"
+
+w: <<double_time>>
+hyper: [[wage]]
+g: a doubled wage (for working overtime)
+
+w: <<combat_pay>>
+hyper: [[wage]]
+g: extra pay for soldiers engaged in active combat
+
+w: <<wage>>
+w: <<pay1>> drf [[file:verb.possession.org::pay1]] drf [[file:verb.possession.org::pay4]] drf [[file:verb.possession.org::pay2]] drf [[file:verb.possession.org::pay]]
+w: <<earnings>> drf [[file:verb.possession.org::earn3]]
+w: <<remuneration>> drf [[file:verb.possession.org::remunerate]]
+w: <<salary>>
+hyper: [[regular_payment]]
+hp: [[payroll]]
+g: something that remunerates; "wages were paid by check"; "he wasted his pay on drink"; "they saved a quarter of all their earnings"
+
+w: <<underpayment>>
+hyper: [[payment]]
+g: a payment smaller than needed or expected
+
+w: <<overpayment>> drf [[file:verb.possession.org::overpay]]
+hyper: [[payment]]
+g: a payment larger than needed or expected
+
+w: <<payment>> drf [[file:verb.possession.org::pay14]] drf [[file:verb.possession.org::pay4]] drf [[file:verb.possession.org::pay]] ant [[nonpayment]]
+hyper: [[cost]]
+g: a sum of money paid or a claim discharged
+
+w: <<capital_expenditure>>
+hyper: [[cost]]
+g: the cost of long-term improvements
+
+w: <<transfer_payment>>
+hyper: [[outgo]]
+g: a public expenditure (as for unemployment compensation or veteran's benefits) that is not for goods and services
+
+w: <<expense1>>
+hyper: [[outgo]]
+g: money spent to perform work and usually reimbursed by an employer; "he kept a careful record of his expenses at the meeting"
+
+w: <<promotional_expense>>
+hyper: [[business_expense]]
+g: the cost of promoting a product
+
+w: <<personal_expense>>
+hyper: [[expense]]
+g: the cost of personal or family living; "some personal expenses are tax deductible"
+
+w: <<organization_expense>>
+hyper: [[business_expense]]
+g: the cost (over a period of five years) of organizing a new corporation or partnership
+
+w: <<operating_expense>>
+w: <<operating_cost>>
+w: <<overhead>>
+w: <<budget_items>>
+hyper: [[expense]]
+hp: [[operating_budget]]
+dt: [[tax]]
+g: the expense of maintaining property (e.g., paying property taxes and utilities and insurance); it does not include depreciation or the cost of financing or income taxes
+
+w: <<moving_expense>>
+hyper: [[expense]]
+g: the cost of moving your residence from one location to another
+
+w: <<non-cash_expense>>
+hyper: [[expense]]
+g: an expense (such as depreciation) that is not paid for in cash
+
+w: <<medical_expense>>
+hyper: [[expense]]
+g: amount spent for diagnosis or treatment or prevention of medical problems
+
+w: <<lobbying_expense>>
+hyper: [[expense]]
+g: expenses incurred in promoting or evaluating legislation; "many lobbying expenses are deductible by a taxpayer"
+
+w: <<interest_expense>>
+hyper: [[expense]]
+g: interest paid on loans
+
+w: <<business_expense>>
+w: <<trade_expense>>
+hyper: [[expense]]
+g: ordinary and necessary expenses incurred in a taxpayer's business or trade
+
+w: <<cost>> drf [[file:verb.stative.org::cost]]
+hyper: [[outgo]]
+g: the total spent for goods or services including money and time and labor
+
+w: <<expense>>
+w: <<disbursal>>
+w: <<disbursement>> drf [[file:verb.possession.org::disburse]]
+hyper: [[cost]]
+g: amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)
+
+w: <<outgo>> ant [[income]]
+w: <<spending>>
+w: <<expenditure>> drf [[file:verb.possession.org::expend]]
+w: <<outlay1>>
+hyper: [[transferred_property]]
+g: money paid out; an amount spent
+
+w: <<tare>>
+hyper: [[allowance1]]
+g: an adjustment made for the weight of the packaging in order to determine the net weight of the goods
+
+w: <<seasonal_adjustment>>
+hyper: [[allowance1]]
+g: a statistical adjustment made to accommodate predictable fluctuations as a function of the season of the year; "seasonal adjustments for housing starts must be made in mid-winter"
+
+w: <<trade_discount>>
+hyper: [[deduction]]
+g: a discount from the list price of a commodity allowed by a manufacturer or wholesaler to a merchant
+
+w: <<deduction>>
+w: <<discount>> drf [[file:verb.possession.org::discount]]
+hyper: [[allowance1]]
+g: an amount or percentage deducted
+
+w: <<depreciation_allowance>>
+hyper: [[allowance1]]
+g: an allowance for loss due to depreciation
+
+w: <<cost-of-living_allowance>>
+hyper: [[allowance1]]
+g: an allowance for changes in the consumer price index
+
+w: <<allowance1>>
+w: <<adjustment>> drf [[file:verb.cognition.org::adjust]]
+hyper: [[recompense]]
+g: an amount added or deducted on the basis of qualifying circumstances; "an allowance for profit"
+
+w: <<sales_incentive>>
+hyper: [[bonus]]
+g: remuneration offered to a salesperson for exceeding some predetermined sales goal
+
+w: <<dividend1>>
+hyper: [[bonus]]
+g: a bonus; something extra (especially a share of a surplus)
+
+w: <<defalcation>>
+hyper: [[sum]]
+g: the sum of money that is misappropriated
+
+w: <<deductible>> drf [[file:adj.all.org::deductible]]
+hyper: [[sum]]
+dt: [[tax]]
+g: (taxes) an amount that can be deducted (especially for the purposes of calculating income tax)
+
+w: <<incentive_program>>
+w: <<incentive_scheme>>
+hyper: [[file:noun.cognition.org::scheme]]
+g: a formal scheme for inducing someone (as employees) to do something
+
+w: <<bonus>>
+w: <<incentive>>
+hyper: [[payment]]
+hp: [[incentive_program]]
+g: an additional payment (or other remuneration) to employees as a means of increasing output
+
+w: <<thank_offering>>
+hyper: [[offering]]
+g: an offering made as an expression of thanks
+
+w: <<gift_horse>>
+hyper: [[gift]]
+g: a gift (usually of inferior quality) that should be accepted uncritically; "it wasn't much, but don't look a gift horse in the mouth"
+
+w: <<giveaway>>
+hyper: [[gift]]
+du: [[file:noun.communication.org::colloquialism]]
+g: a gift of public land or resources for the private gain of a limited group
+
+w: <<freebie>>
+w: <<freebee>>
+hyper: [[gift]]
+g: something that is free (usually provided as part of a promotional scheme); "the road map was a freebie"
+
+w: <<premium4>>
+hyper: [[bonus]]
+hyper: [[prize]]
+g: a prize, bonus, or award given as an inducement to purchase products, enter competitions initiated by business interests, etc.; "they encouraged customers with a premium for loyal patronage"
+
+w: <<bounty>>
+w: <<premium1>>
+hyper: [[reward]]
+dt: [[file:noun.act.org::government]]
+g: payment or reward (especially from a government) for acts such as catching criminals or killing predatory animals or enlisting in the military
+
+w: <<bestowal>>
+w: <<bestowment>> drf [[file:verb.possession.org::bestow2]]
+hyper: [[gift]]
+g: a gift that is bestowed or conferred
+
+w: <<lagniappe>>
+hyper: [[gift]]
+g: a small gift (especially one given by a merchant to a customer who makes a purchase)
+
+w: <<chantry>>
+hyper: [[endowment]]
+g: an endowment for the singing of Masses
+
+w: <<patrimony2>>
+hyper: [[endowment]]
+g: a church endowment
+
+w: <<enrichment>> drf [[file:verb.possession.org::enrich]]
+hyper: [[gift]]
+g: a gift that significantly increases the recipient's wealth
+
+w: <<endowment>> drf [[file:verb.possession.org::endow]]
+w: <<endowment_fund>>
+hyper: [[capital]]
+g: the capital that provides income for an institution
+
+w: <<soft_money>>
+hyper: [[political_contribution]]
+g: political contributions made in such a way as to avoid the United States regulations for federal election campaigns (as by contributions to a political action committee)
+
+w: <<political_contribution>>
+w: <<political_donation>>
+hyper: [[contribution]]
+g: a contribution made to a politician or a political campaign or a political party
+
+w: <<hearth_money>>
+w: <<Peter's_pence>>
+hyper: [[offering]]
+g: an annual contribution made by Roman Catholics to support the papal see
+
+w: <<offertory>>
+hyper: [[offering]]
+g: the offerings of the congregation at a religious service
+
+w: <<tithe1>>
+hyper: [[offering]]
+g: an offering of a tenth part of some personal income
+
+w: <<offering>>
+hyper: [[contribution]]
+g: money contributed to a religious organization
+
+w: <<benefaction>> drf [[file:verb.social.org::benefact]]
+hyper: [[contribution]]
+g: a contribution of money or assistance
+
+w: <<contribution>>
+w: <<donation>> drf [[file:verb.possession.org::donate]]
+hyper: [[gift]]
+g: a voluntary gift (as of money or service or ideas) made to some worthwhile cause
+
+w: <<contribution1>>
+hyper: [[sum]]
+g: an amount of money contributed; "he expected his contribution to be repaid with interest"
+
+w: <<cash_surrender_value>>
+hyper: [[sum]]
+g: the amount that the insurance company will pay on a given life insurance policy if the policy is cancelled prior to the death of the insured
+
+w: <<bride-gift>>
+hyper: [[wedding_present]]
+g: a wedding present to the bride
+
+w: <<wedding_present>>
+w: <<wedding_gift>>
+hyper: [[present]]
+g: a present given to someone getting married
+
+w: <<stocking_filler>>
+w: <<stocking_stuffer>>
+hyper: [[Christmas_present]]
+g: a small Christmas present included in the Christmas stocking
+
+w: <<Christmas_present>>
+w: <<Christmas_gift>>
+hyper: [[present]]
+g: a present given at Christmas time
+
+w: <<birthday_present>>
+w: <<birthday_gift>>
+hyper: [[present]]
+g: a present given in celebration of a person's birthday
+
+w: <<present>> drf [[file:adj.all.org::present2]] drf [[file:verb.possession.org::present1]]
+hyper: [[gift]]
+g: something presented as a gift; "his tie was a present from his wife"
+
+w: <<prize_money>>
+hyper: [[prize]]
+g: any money given as a prize
+
+w: <<jackpot1>>
+hyper: [[prize]]
+g: any outstanding award
+
+w: <<door_prize>>
+hyper: [[prize]]
+g: tickets are passed out at the entrance to a dance or party or other social function and a prize is awarded to the holder of the winning ticket
+
+w: <<prize>>
+w: <<award>> drf [[file:verb.possession.org::award]]
+hyper: [[gift]]
+g: something given for victory or superiority in a contest or competition or for winning a lottery; "the prize was a free trip to Europe"
+
+w: <<gratuity1>>
+hyper: [[prize]]
+g: an award (as for meritorious service) given without claim or obligation
+
+w: <<traineeship>> drf [[file:noun.person.org::trainee]]
+hyper: [[aid]]
+g: financial aid that enables you to get trained for a specified job; "the bill provided traineeships in vocational rehabilitation"
+
+w: <<postdoctoral>>
+w: <<postdoc>>
+w: <<post_doc>>
+hyper: [[grant-in-aid]]
+g: a grant that funds postdoctoral study or research
+
+w: <<grant-in-aid>>
+hyper: [[grant]]
+hyper: [[aid]]
+g: a grant to a person or school for some educational project
+
+w: <<price_support>>
+hyper: [[subsidy]]
+g: a government subsidy used to maintain prices at a certain level
+
+w: <<subvention>> drf [[file:verb.communication.org::subvent]]
+hyper: [[subsidy]]
+g: grant of financial aid as from a government to an educational institution
+
+w: <<subsidy>> drf [[file:verb.possession.org::subsidize]] drf [[file:verb.possession.org::subsidise]]
+hyper: [[grant]]
+g: a grant paid by a government to an enterprise that benefits the public; "a subsidy for research in artificial intelligence"
+
+w: <<grant>> drf [[file:verb.possession.org::grant3]]
+hyper: [[aid]]
+g: any monetary aid
+
+w: <<Marshall_Plan>>
+w: <<European_Recovery_Program>>
+ihyper: [[foreign_aid]]
+g: a United States program of economic aid for the reconstruction of Europe (1948-1952); named after George Marshall
+
+w: <<foreign_aid>>
+hyper: [[aid]]
+dt: [[file:noun.group.org::military]]
+g: aid (such as economic or military assistance) provided to one nation by another
+
+w: <<fellowship>>
+hyper: [[aid]]
+hyper: [[prize]]
+g: money granted (by a university or foundation or other agency) for advanced study or research
+
+w: <<scholarship>> drf [[file:noun.person.org::scholar2]] drf [[file:noun.person.org::scholar1]]
+hyper: [[aid]]
+hyper: [[prize]]
+g: financial aid provided to a student on the basis of academic merit
+
+w: <<aid>>
+w: <<economic_aid>>
+w: <<financial_aid>>
+hyper: [[gift]]
+g: money to support a worthy person or cause
+
+w: <<largess>>
+w: <<largesse>>
+hyper: [[gift]]
+g: a gift or money given (as for service or out of benevolence); usually given ostentatiously
+
+w: <<bride_price>>
+hyper: [[gift]]
+g: money or property given (in some societies) by the bridegroom to the family of his bride
+
+w: <<dowry>>
+w: <<dowery>> drf [[file:verb.possession.org::dower]]
+w: <<dower1>> drf [[file:verb.possession.org::dower]]
+w: <<portion1>>
+hyper: [[gift]]
+g: money or property brought by a woman to her husband at marriage
+
+w: <<gift>> drf [[file:verb.possession.org::gift]] drf [[file:verb.social.org::gift]]
+hyper: [[acquisition]]
+g: something acquired without compensation
+
+w: <<heirloom1>>
+hyper: [[property]]
+hp: [[inheritance]]
+dt: [[file:noun.group.org::law]]
+g: (law) any property that is considered by law or custom as inseparable from an inheritance is inherited with that inheritance
+
+w: <<heirloom>>
+hyper: [[inheritance]]
+g: something that has been in a family for generations
+
+w: <<free_lunch>>
+hyper: [[gift]]
+g: something acquired without effort or payment or obligation; "there is no free lunch in politics or Hollywood"
+
+w: <<jointure>>
+w: <<legal_jointure>>
+hyper: [[estate2]]
+dt: [[file:noun.group.org::law]]
+g: (law) an estate secured to a prospective wife as a marriage settlement in lieu of a dower
+
+w: <<dower>> drf [[file:verb.possession.org::dower]]
+hyper: [[life_estate]]
+g: a life estate to which a wife is entitled on the death of her husband
+
+w: <<devise1>>
+hyper: [[gift]]
+hyper: [[inheritance]]
+dt: [[file:noun.group.org::law]]
+g: (law) a gift of real property by will
+
+w: <<birthright>>
+w: <<patrimony1>> drf [[file:adj.all.org::patrimonial]]
+hyper: [[inheritance]]
+g: an inheritance coming by right of birth (especially by primogeniture)
+
+w: <<bequest>>
+w: <<legacy>>
+hyper: [[gift]]
+hyper: [[inheritance]]
+dt: [[file:noun.group.org::law]]
+g: (law) a gift of personal property by will
+
+w: <<accretion>> drf [[file:adj.all.org::accretionary]]
+hyper: [[inheritance]]
+dt: [[file:noun.group.org::law]]
+g: (law) an increase in a beneficiary's share in an estate (as when a co-beneficiary dies or fails to meet some condition or rejects the inheritance)
+
+w: <<borough_English>>
+hyper: [[inheritance]]
+g: a former English custom by which the youngest son inherited land to the exclusion of his older brothers
+
+w: <<primogeniture>>
+hyper: [[inheritance]]
+g: right of inheritance belongs exclusively to the eldest son
+
+w: <<inheritance>>
+w: <<heritage2>>
+hyper: [[transferred_property]]
+dt: [[file:noun.group.org::law]]
+g: that which is inherited; a title or property or estate that passes by law to the heir on the death of the owner
+
+w: <<loot>> drf [[file:verb.possession.org::loot]]
+w: <<booty>>
+w: <<pillage>> drf [[file:verb.possession.org::pillage]]
+w: <<plunder>> drf [[file:verb.possession.org::plunder2]] drf [[file:verb.possession.org::plunder1]] drf [[file:verb.possession.org::plunder]]
+w: <<prize1>>
+w: <<swag>>
+w: <<dirty_money>>
+hyper: [[stolen_property]]
+g: goods or money obtained illegally
+
+w: <<spoil>> drf [[file:verb.contact.org::spoil]]
+hyper: [[stolen_property]]
+du: [[file:noun.communication.org::plural]]
+g: (usually plural) valuables taken by violence (especially in war); "to the victor belong the spoils of the enemy"
+
+w: <<stolen_property>>
+hyper: [[transferred_property]]
+g: property that has been stolen
+
+w: <<per_capita_income>>
+hyper: [[income]]
+g: the total national income divided by the number of people in the nation
+
+w: <<internal_revenue>>
+hyper: [[tax_income]]
+g: government revenue from domestic sources (excluding customs)
+
+w: <<tax_income>>
+w: <<taxation1>> drf [[file:verb.possession.org::tax]]
+w: <<tax_revenue>>
+w: <<revenue2>>
+hyper: [[government_income]]
+g: government income due to taxation
+
+w: <<government_income>>
+w: <<government_revenue>>
+hyper: [[income]]
+g: income available to the government
+
+w: <<unearned_income1>>
+w: <<unearned_revenue1>>
+hyper: [[income]]
+dt: [[tax]]
+g: personal income that you did not earn (e.g., dividends or interest or rent income)
+
+w: <<unearned_income>>
+w: <<unearned_revenue>>
+hyper: [[income]]
+dt: [[file:noun.cognition.org::accounting]]
+g: (accounting) income received but not yet earned (usually considered a current liability on a company's balance sheet)
+
+w: <<margin_of_profit>>
+w: <<profit_margin>>
+w: <<gross_margin>>
+hyper: [[file:noun.relation.org::ratio1]]
+g: the ratio gross profits divided by net sales
+
+w: <<net_sales>>
+hyper: [[income]]
+g: gross sales reduced by customer discounts, returns, freight out, and allowances
+
+w: <<gross_sales>>
+w: <<gross_revenue>>
+w: <<sales>>
+hyper: [[income]]
+g: income (at invoice values) received for goods and services over some given period of time
+
+w: <<gross_profit>>
+w: <<gross_profit_margin>>
+w: <<margin2>>
+hyper: [[net_income]]
+dt: [[file:noun.act.org::corporate_finance]]
+g: (finance) the net sales minus the cost of goods and services sold
+
+w: <<filthy_lucre>>
+hyper: [[net_income]]
+g: shameful profit; "he would sell his soul for filthy lucre"
+
+w: <<fast_buck>>
+w: <<quick_buck>>
+hyper: [[net_income]]
+g: quick or easy earnings, "they are traders out to make a fast buck"
+
+w: <<return>> drf [[file:verb.creation.org::return]]
+w: <<issue>>
+w: <<take>> drf [[file:verb.possession.org::take4]]
+w: <<takings>>
+w: <<proceeds>>
+w: <<yield>> drf [[file:verb.creation.org::yield]]
+w: <<payoff2>>
+hyper: [[income]]
+g: the income or profit arising from such transactions as the sale of land or other property; "the average return was about 5%"
+
+w: <<rental_income>>
+hyper: [[income]]
+g: income received from rental properties
+
+w: <<winnings>> drf [[file:verb.possession.org::win]] drf [[file:verb.competition.org::win]] ant [[losings]]
+w: <<win>> drf [[file:verb.possession.org::win]]
+w: <<profits2>>
+hyper: [[financial_gain]]
+g: something won (especially money)
+
+w: <<killing>>
+w: <<cleanup>> drf [[file:verb.possession.org::clean_up4]]
+hyper: [[net_income]]
+du: [[file:noun.communication.org::colloquialism]]
+g: a very large profit
+
+w: <<windfall_profit>>
+hyper: [[net_income]]
+g: profit that occurs unexpectedly as a consequence of some event not controlled by those who profit from it
+
+w: <<earning_per_share>>
+hyper: [[net_income]]
+g: the portion of a company's profit allocated to each outstanding share of common stock
+
+w: <<personal_income>>
+hyper: [[income]]
+g: the income received by a single individual
+
+w: <<cash_flow>>
+hyper: [[income]]
+g: the excess of cash revenues over cash outlays in a give period of time (not including non-cash expenses)
+
+w: <<paper_loss>> ant [[paper_profit]]
+hyper: [[loss]]
+g: an unrealized loss on an investment calculated by subtracting the current market price from the investor's cost
+
+w: <<paper_profit>> ant [[paper_loss]]
+hyper: [[gain]]
+g: an unrealized gain on an investment calculated by subtracting the investor's cost from the current market price
+
+w: <<net_income>>
+w: <<net>> drf [[file:verb.possession.org::net1]]
+w: <<net_profit>>
+w: <<lucre1>>
+w: <<profit>> drf [[file:noun.person.org::profiteer]] drf [[file:verb.possession.org::profit]]
+w: <<profits1>>
+w: <<earnings1>>
+hyper: [[income]]
+g: the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)
+
+w: <<gate>>
+hyper: [[gross]]
+g: total admission receipts at a sports event
+
+w: <<box_office>>
+hyper: [[gross]]
+g: total admission receipts for an entertainment
+
+w: <<royalty>>
+hyper: [[payment]]
+g: payment to the holder of a patent or copyright or resource for the right to use their property; "he received royalties on his book"
+
+w: <<deflator>> drf [[file:verb.communication.org::deflate]]
+hyper: [[file:noun.quantity.org::factor1]]
+g: a statistical factor designed to remove the effect of inflation; inflation adjusted variables are in constant dollars
+
+w: <<gross_domestic_product>>
+w: <<GDP>>
+hyper: [[file:noun.attribute.org::value]]
+g: the measure of an economy adopted by the United States in 1991; the total market values of goods and services produced by workers and capital within a nation's borders during a given period (usually 1 year)
+
+w: <<real_gross_national_product>>
+w: <<real_GNP>>
+hyper: [[gross_national_product]]
+g: a version of the GNP that has been adjusted for the effects of inflation
+
+w: <<gross_national_product>>
+w: <<GNP>>
+hyper: [[file:noun.attribute.org::value]]
+g: former measure of the United States economy; the total market value of goods and services produced by all citizens and capital during a given period (usually 1 yr)
+
+w: <<national_income>>
+hyper: [[file:noun.attribute.org::value]]
+g: the total value of all income in a nation (wages and profits and interest and rents and pension payments) during a given period (usually 1 yr)
+
+w: <<gross>> drf [[file:adj.all.org::gross]] drf [[file:verb.possession.org::gross]]
+w: <<revenue1>>
+w: <<receipts>>
+hyper: [[sum]]
+g: the entire amount of income before any deductions are made
+
+w: <<escheat1>>
+hyper: [[transferred_property]]
+g: the property that reverts to the state
+
+w: <<tight_money>> ant [[easy_money1]]
+hyper: [[file:noun.state.org::financial_condition]]
+g: the economic condition in which credit is difficult to secure and interest rates are high
+
+w: <<easy_money1>> ant [[tight_money]]
+hyper: [[file:noun.state.org::financial_condition]]
+g: the economic condition in which credit is easy to secure
+
+w: <<EBITDA>>
+w: <<Earnings_Before_Interest_Taxes_Depreciation_and_Amortization>>
+hyper: [[income]]
+g: income before interest and taxes and depreciation and amortization have been subtracted; an indicator of a company's profitability that is watched by investors (especially in leveraged buyouts)
+
+w: <<easy_money>>
+w: <<gravy_train>>
+hyper: [[income]]
+g: income obtained with a minimum of effort
+
+w: <<double_dipping>>
+hyper: [[income]]
+g: two incomes received from the same source (as by holding a government job and receiving a government pension)
+
+w: <<disposable_income>>
+hyper: [[income]]
+dt: [[tax]]
+g: income (after taxes) that is available to you for saving or spending
+
+w: <<income>> ant [[outgo]]
+hyper: [[financial_gain]]
+g: the financial gain (earned or unearned) accruing over a given period of time
+
+w: <<financial_gain>>
+hyper: [[gain]]
+g: the amount of monetary gain
+
+w: <<gain>> ant [[loss]]
+hyper: [[sum]]
+g: the amount by which the revenue of a business exceeds its cost of operating
+
+w: <<land_grant>>
+hyper: [[grant2]]
+g: a grant of public land (as to a railway or college)
+
+w: <<appanage>>
+w: <<apanage>>
+hyper: [[grant2]]
+g: a grant (by a sovereign or a legislative body) of resources to maintain a dependent member of a ruling family; "bishoprics were received as appanages for the younger sons of great families"
+
+w: <<grant2>> drf [[file:verb.possession.org::grant2]]
+w: <<assignment2>> drf [[file:verb.possession.org::assign]]
+hyper: [[transferred_property]]
+dt: [[file:noun.group.org::law]]
+g: (law) a transfer of property by deed of conveyance
+
+w: <<travel_bargain>>
+hyper: [[bargain1]]
+g: a bargain rate for travellers on commercial routes (usually air routes)
+
+w: <<song>>
+hyper: [[bargain1]]
+g: a very small sum; "he bought it for a song"
+
+w: <<bargain1>> drf [[file:verb.possession.org::bargain]]
+w: <<buy>> drf [[file:verb.stative.org::buy]] drf [[file:verb.possession.org::buy]]
+w: <<steal>>
+hyper: [[purchase]]
+g: an advantageous purchase; "she got a bargain at the auction"; "the stock was a real buy at that price"
+
+w: <<purchase>> drf [[file:verb.possession.org::purchase]]
+hyper: [[acquisition]]
+g: something acquired by purchase
+
+w: <<accession>>
+w: <<addition>>
+hyper: [[acquisition]]
+g: something added to what you already have; "the librarian shelved the new accessions"; "he was a new addition to the staff"
+
+w: <<acquisition>>
+hyper: [[transferred_property]]
+g: something acquired; "a recent acquisition by the museum"
+
+w: <<transferred_property>>
+w: <<transferred_possession>>
+hyper: [[file:noun.Tops.org::possession]]
+g: a possession whose ownership changes or lapses
+
+w: <<white_elephant>>
+hyper: [[file:noun.Tops.org::possession]]
+g: a valuable possession whose upkeep is excessively expensive
+
+w: <<orangery>>
+hyper: [[plantation]]
+hyper: [[file:noun.artifact.org::greenhouse]]
+g: a place where oranges are grown; a plantation of orange trees in warm climes or a greenhouse in cooler areas
+
+w: <<plantation>>
+hyper: [[estate1]]
+g: an estate where cash crops are grown on a large scale (especially in tropical areas)
+
+w: <<hacienda>>
+hyper: [[estate1]]
+g: a large estate in Spanish-speaking countries
+
+w: <<seigneury>>
+w: <<seigniory>>
+w: <<signory>>
+hyper: [[estate1]]
+g: the estate of a seigneur
+
+w: <<manor>> drf [[file:adj.pert.org::manorial]]
+hyper: [[estate1]]
+g: the landed estate of a lord (including the house on it)
+
+w: <<Crown_land>>
+hyper: [[estate1]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: land that belongs to the Crown
+
+w: <<countryseat>>
+hyper: [[estate1]]
+g: an estate in the country
+
+w: <<barony>>
+hyper: [[estate1]]
+g: the estate of a baron
+
+w: <<life_estate>>
+w: <<estate_for_life>>
+hyper: [[estate2]]
+dt: [[file:noun.group.org::law]]
+g: (law) an estate whose duration is limited to the life of the person holding it
+
+w: <<net_estate>>
+hyper: [[estate2]]
+dt: [[tax]]
+g: the estate remaining after debts and funeral expenses and administrative expenses have been deducted from the gross estate; the estate then left to be distributed (and subject to federal and state inheritance taxes)
+
+w: <<gross_estate>>
+hyper: [[estate2]]
+g: the total valuation of the estate's assets at the time of the person's death
+
+w: <<stuff>>
+w: <<clobber>>
+hyper: [[personal_property]]
+g: informal terms for personal possessions; "did you take all your clobber?"
+
+w: <<estate2>>
+hyper: [[property]]
+g: everything you own; all of your assets (whether real property or personal property) and liabilities
+
+w: <<pile>>
+w: <<bundle>>
+w: <<big_bucks>>
+w: <<megabucks>>
+w: <<big_money>>
+hyper: [[money2]]
+du: [[file:noun.communication.org::slang]]
+g: a large sum of money (especially as pay or profit); "she made a bundle selling real estate"; "they sank megabucks into their new house"
+
+w: <<money2>>
+hyper: [[wealth]]
+g: wealth reckoned in terms of money; "all his money is in real estate"
+
+w: <<wealth>>
+hyper: [[property]]
+g: property that has economic utility: a monetary value or an exchange value
+
+w: <<mortmain>>
+w: <<dead_hand>>
+hyper: [[real_property]]
+dt: [[file:noun.group.org::corporation]]
+g: real property held inalienably (as by an ecclesiastical corporation)
+
+w: <<land1>>
+hyper: [[real_property]]
+g: the land on which real estate is located; "he built the house on land leased from the city"
+
+w: <<fief>> drf [[file:noun.location.org::fiefdom]]
+w: <<feoff>>
+hyper: [[estate1]]
+g: a piece of land held under the feudal system
+
+w: <<no_man's_land>>
+hyper: [[land1]]
+g: land that is unowned and uninhabited (and usually undesirable)
+
+w: <<homestead>>
+hyper: [[land1]]
+g: the home and adjacent grounds occupied by a family
+
+w: <<farmstead>>
+hyper: [[land1]]
+g: the buildings and adjacent grounds of a farm
+
+w: <<homestead1>> drf [[file:verb.change.org::homestead]]
+hyper: [[estate1]]
+g: land acquired from the United States public lands by filing a record and living on and cultivating it under the homestead law
+
+w: <<smallholding>>
+hyper: [[estate1]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: a piece of land under 50 acres that is sold or let to someone for cultivation
+
+w: <<leasehold>>
+hyper: [[estate1]]
+g: land or property held under a lease
+
+w: <<public_property>>
+hyper: [[property]]
+g: property owned by a government
+
+w: <<sublease>> drf [[file:verb.possession.org::sublease]]
+w: <<sublet>> drf [[file:verb.possession.org::sublet]]
+hyper: [[lease]]
+g: a lease from one lessee to another
+
+w: <<trade-in>> drf [[file:verb.possession.org::trade_in]]
+hyper: [[property]]
+g: an item of property that is given in part payment for a new one
+
+w: <<car_rental>>
+w: <<hire_car>>
+w: <<rent-a-car>>
+w: <<self-drive>>
+w: <<u-drive>>
+w: <<you-drive>>
+hyper: [[lease]]
+g: a rented car; "she picked up a hire car at the airport and drove to her hotel"
+
+w: <<lease>> drf [[file:verb.possession.org::lease1]] drf [[file:verb.social.org::lease]]
+w: <<rental>> drf [[file:adj.pert.org::rental1]]
+w: <<letting>>
+hyper: [[property]]
+g: property that is leased or rented out or let
+
+w: <<sinecure>>
+hyper: [[benefice]]
+g: a benefice to which no spiritual or pastoral duties are attached
+
+w: <<benefice>> drf [[file:adj.pert.org::beneficiary]] drf [[file:verb.possession.org::benefice]]
+w: <<ecclesiastical_benefice>>
+hyper: [[spiritualty]]
+g: an endowed church office giving income to its holder
+
+w: <<temporalty>>
+w: <<temporality>>
+hyper: [[spiritualty]]
+g: the worldly possessions of a church
+
+w: <<spiritualty>>
+w: <<spirituality>>
+w: <<church_property>>
+hyper: [[property]]
+g: property or income owned by a church
+
+w: <<shareholding>>
+hyper: [[property]]
+g: a holding in the form of shares of corporations
+
+w: <<salvage>> drf [[file:verb.social.org::salvage]] drf [[file:verb.social.org::salve]]
+hyper: [[property]]
+hyper: [[file:noun.artifact.org::commodity]]
+g: property or goods saved from damage or destruction
+
+w: <<landholding1>>
+hyper: [[ownership]]
+g: ownership of land; the state or fact of owning land
+
+w: <<landholding>>
+hyper: [[property]]
+g: a holding in the form of land
+
+w: <<glebe>>
+hyper: [[estate1]]
+g: plot of land belonging to an English parish church or an ecclesiastical office
+
+w: <<commonage>>
+hyper: [[property]]
+g: property held in common
+
+w: <<estate1>>
+w: <<land>>
+w: <<landed_estate>>
+w: <<acres>>
+w: <<demesne>>
+hyper: [[real_property]]
+g: extensive landed property (especially in the country) retained by the owner for his own use; "the family owned a large estate on Long Island"
+
+w: <<real_property>>
+w: <<real_estate>>
+w: <<realty>>
+w: <<immovable>>
+hyper: [[property]]
+g: property consisting of houses and land
+
+w: <<things>>
+hyper: [[property]]
+g: any movable possession (especially articles of clothing); "she packed her things and left"
+
+w: <<effects>>
+w: <<personal_effects>>
+hyper: [[personal_property]]
+g: property of a personal character that is portable but not used in business; "she left some of her personal effects in the house"; "I watched over their effects until they returned"
+
+w: <<chattel>>
+w: <<personal_chattel>>
+w: <<movable>>
+hyper: [[personal_property]]
+dt: [[file:noun.artifact.org::furniture]]
+dt: [[file:noun.artifact.org::car]]
+g: personal as opposed to real property; any tangible movable property (furniture or domestic animals or a car etc)
+
+w: <<personal_property>>
+w: <<personal_estate>>
+w: <<personalty>>
+w: <<private_property>>
+hyper: [[property]]
+g: movable property (as distinguished from real estate)
+
+w: <<community_property>>
+hyper: [[property]]
+g: property and income belonging jointly to a married couple
+
+w: <<intellectual_property>>
+hyper: [[property]]
+g: intangible property that is the result of creativity (such as patents or trademarks or copyrights)
+
+w: <<hereditament>>
+hyper: [[property]]
+g: any property (real or personal or mixed) that can be inherited
+
+w: <<ratables>>
+w: <<rateables>>
+hyper: [[property]]
+dr: [[file:noun.location.org::United_Kingdom]]
+g: property that provides tax income for local governments
+
+w: <<worldly_possessions>>
+w: <<worldly_belongings>>
+w: <<worldly_goods>>
+hyper: [[property]]
+g: all the property that someone possess; "he left all his worldly possessions to his daughter"
+
+w: <<tangible_possession>>
+w: <<material_possession>>
+hyper: [[property]]
+g: property or belongings that are tangible
+
+w: <<property>>
+w: <<belongings>> drf [[file:verb.possession.org::belong]]
+w: <<holding>> drf [[file:verb.possession.org::hold]]
+hyper: [[file:noun.Tops.org::possession]]
+g: something owned; any tangible or intangible possession that is owned by someone; "that hat is my property"; "he is a man of property";
+
+w: <<employee_ownership>>
+hyper: [[ownership]]
+g: ownership of a business by the people who work for it
+
+w: <<proprietorship>> drf [[file:noun.person.org::proprietor]]
+w: <<proprietary>>
+hyper: [[ownership]]
+g: an unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits
+
+w: <<public_domain>>
+hyper: [[property_right]]
+g: property rights that are held by the public at large
+
+w: <<stock_buyback>>
+hyper: [[purchase]]
+g: a corporation's purchase of its own outstanding stock; increases earnings/share so stock price rises (which can discourage a takeover attempt)
+
+w: <<villeinage>>
+hyper: [[tenure]]
+g: tenure by which a villein held land
+
+w: <<freehold1>> drf [[file:noun.person.org::freeholder]]
+hyper: [[estate1]]
+g: an estate held in fee simple or for life
+
+w: <<freehold>> drf [[file:noun.person.org::freeholder]]
+hyper: [[tenure]]
+g: tenure by which land is held in fee simple or for life
+
+w: <<copyhold>>
+hyper: [[tenure]]
+g: a medieval form of land tenure in England; a copyhold was a parcel of land granted to a peasant by the lord of the manor in return for agricultural services
+
+w: <<tenure>>
+w: <<land_tenure>>
+hyper: [[file:noun.attribute.org::legal_right]]
+g: the right to hold property; part of an ancient hierarchical system of holding lands
+
+w: <<lock-up_option>>
+hyper: [[option]]
+g: an option to buy the crown jewels offered to a white knight in order to forestall a hostile takeover
+
+w: <<put_option>>
+hyper: [[stock_option]]
+g: an option to sell
+
+w: <<call_option>>
+hyper: [[stock_option]]
+g: an option to buy
+
+w: <<stock_option>>
+hyper: [[option]]
+g: the right to buy or sell a stock at a specified price within a stated period
+
+w: <<stock_option1>>
+hyper: [[benefit]]
+g: a benefit given by a company to an employee in the form of an option to buy stock in the company at a discount or at a fixed price; "stock options are not much use as an incentive if the price at which they can be exercised is out of reach"
+
+w: <<option>>
+hyper: [[file:noun.communication.org::derivative_instrument]]
+g: the right to buy or sell property at an agreed price; the right is purchased and if it is not exercised by a stated date the money is forfeited
+
+w: <<subscription_right>>
+hyper: [[file:noun.attribute.org::preemption]]
+g: the right of a shareholder in a company to subscribe to shares of a new issue of common stock before it is offered to the public
+
+w: <<preemptive_right>>
+hyper: [[file:noun.attribute.org::preemption]]
+g: the right granting to shareholders the first opportunity to buy a new issue of stock; provides protection against dilution of the shareholder's ownership interest
+
+w: <<property_right>>
+hyper: [[ownership]]
+g: the legal right of ownership
+
+w: <<severalty>>
+hyper: [[ownership]]
+g: exclusive individual ownership
+
+w: <<community>> drf [[file:adj.all.org::communal]]
+hyper: [[ownership]]
+g: common ownership; "they shared a community of possessions"
+
+w: <<ownership>> drf [[file:noun.person.org::owner2]] drf [[file:noun.person.org::owner]]
+hyper: [[file:noun.Tops.org::relation]]
+g: the relation of an owner to the thing possessed; possession with the right to transfer possession to others
+
