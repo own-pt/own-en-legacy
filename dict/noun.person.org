@@ -32395,8 +32395,9 @@ hyper: [[driver]]
 g: someone who drives (or travels in) an automobile
 
 w: <<motorcyclist>>
+w: biker
 hyper: [[traveler]]
-g: a traveler who rides a motorcycle
+g: A traveler who rides a motorcycle.
 
 w: <<motorcycle_cop>>
 w: <<motorcycle_policeman>>
@@ -42744,8 +42745,9 @@ w: <<cyclist>> drf [[file:noun.artifact.org::cycle]] drf [[file:verb.motion.org:
 w: <<bicyclist>> drf [[file:noun.artifact.org::bicycle]] drf [[file:verb.motion.org::bicycle]]
 w: <<bicycler>> drf [[file:verb.motion.org::bicycle]]
 w: <<wheeler1>> drf [[file:verb.motion.org::wheel6]]
+w: biker
 hyper: [[pedaler]]
-g: a person who rides a bicycle
+g: A person who rides a bicycle.
 
 w: <<cyborg>>
 w: <<bionic_man>>
