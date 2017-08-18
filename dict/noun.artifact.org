@@ -29527,6 +29527,8 @@ g: a car suitable for traveling over rough terrain
 
 w: <<jean3>>
 w: <<blue_jean>>
+w: jeans
+w: blue_jeans
 w: <<denim3>>
 hyper: [[trouser]]
 hyper: [[workwear]]

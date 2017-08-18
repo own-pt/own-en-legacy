@@ -4115,7 +4115,8 @@ g: fail to keep informed or aware; "She has so many books, she just lost track a
 w: <<keep_track>> ant [[lose_track]]
 hyper: [[know1]]
 fr: 2 22
-g: keep informed of fully aware; "I keep track of the stock market developments"
+g: keep informed or fully aware.
+e: I keep track of the stock market developments.
 
 w: <<know1>> agent [[file:noun.person.org::knower]] drf [[file:adj.all.org::knowable]] drf [[file:noun.person.org::knower]] drf [[file:noun.cognition.org::knowing]] ant [[ignore1]]
 w: <<cognize>> state [[file:noun.cognition.org::cognizance]] drf [[file:adj.pert.org::cognitive]] drf [[file:adj.all.org::cognizant]] drf [[file:noun.cognition.org::cognizance]]

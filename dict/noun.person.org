@@ -22660,7 +22660,7 @@ g: a person who engages freely in promiscuous sex
 w: <<swineherd>>
 w: <<pigman>>
 hyper: [[herder]]
-g: a herder or swine
+g: A herder of swine.
 
 w: <<swimmer>> drf [[file:verb.motion.org::swim]]
 hyper: [[athlete]]

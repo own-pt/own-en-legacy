@@ -5425,7 +5425,9 @@ w: <<get_together>>
 vg: [[collaborate1]]
 hyper: [[work2]]
 fr: 2 22
-g: work together on a common enterprise of project; "The soprano and the pianist did not get together very well"; "We joined forces with another research group"
+g: Work together on a common enterprise or project.
+e: The soprano and the pianist did not get together very well.
+e: We joined forces with another research group.
 
 w: <<dabble1>> agent [[file:noun.person.org::dabbler]] drf [[file:noun.person.org::dabbler]] fr 2
 w: <<smatter>>
