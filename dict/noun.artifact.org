@@ -1551,6 +1551,7 @@ hyper: [[skin2]]
 g: a container of skin for holding water
 
 w: <<water_ski>> drf [[file:verb.motion.org::water_ski]]
+w: waterski
 hyper: [[ski]]
 g: broad ski for skimming over water towed by a speedboat
 
