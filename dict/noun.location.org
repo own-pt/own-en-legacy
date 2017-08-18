@@ -15035,7 +15035,8 @@ g: where the air is unconfined; "he wanted to get outdoors a little"; "the conce
 w: <<outside1>> ant [[inside1]]
 w: <<exterior1>>
 hyper: [[region]]
-g: the region that is outside of something
+g: The region that is outside of something.
+e: The kids were playing outside.
 
 w: <<outside>> ant [[inside]]
 w: <<exterior>>

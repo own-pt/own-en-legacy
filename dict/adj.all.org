@@ -8277,7 +8277,8 @@ g: (of a batter) without a hit; "he went hitless for three innings"
 w: <<empty-handed>>
 w: <<unrewarded>>
 sim: [[unsuccessful]]
-g: having acquired or gained nothing; "the returned from the negotiations empty-handed"
+g: having acquired or gained nothing
+e: they returned from the negotiations empty-handed
 
 w: <<down-and-out>> drf [[file:noun.person.org::down-and-out]]
 sim: [[unsuccessful]]
