@@ -6140,6 +6140,12 @@ dt: [[file:noun.act.org::sport]]
 fr: 2
 g: engage in a boxing match
 
+w: <<kickbox>>
+hyper: file:verb.contact.org::box1
+fr: 2
+g: Engage in a kickboxing match.
+e: Two people are kickboxing and spectators are not watching.
+
 w: <<muddle>>
 w: <<puddle1>>
 hyper: [[roil]]
