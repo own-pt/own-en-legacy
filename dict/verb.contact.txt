@@ -5764,6 +5764,12 @@ hyper: verb.motion:raise
 fr: 8
 g: cause to rise by kicking; "kick up dust"
 
+w: kickbox
+hyper: box1
+fr: 2
+g: Engage in a kickboxing match.
+e: Two people are kickboxing and spectators are not watching.
+
 w: kidnap agent noun.person:kidnapper drf noun.person:kidnapper drf noun.act:kidnapping drf noun.person:kidnaper
 w: nobble
 w: abduct2 event noun.act:abduction agent noun.person:abductor drf noun.act:abduction drf noun.person:abductor
