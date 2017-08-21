@@ -1,376 +1,171 @@
+w: <<absentee_rate>>
+hyper: [[percentage]]
+g: the percentage of workers who do not report to work
+
+w: <<abundance1>>
+hyper: [[ratio1]]
+dt: [[file:noun.cognition.org::physics]]
+g: (physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present
+
+w: <<abundance>>
+hyper: [[ratio1]]
+dt: [[file:noun.cognition.org::chemistry]]
+g: (chemistry) the ratio of the total mass of an element in the earth's crust to the total mass of the earth's crust; expressed as a percentage or in parts per million
+
+w: <<academic_relation>>
+hyper: [[professional_relation]]
+g: a professional relation between instructors and those they instruct
+
+w: <<active_voice>> ant [[passive_voice]]
+w: <<active>>
+hyper: [[voice]]
+g: the voice used to indicate that the grammatical subject of the verb is performing the action or causing the happening denoted by the verb; "`The boy threw the ball' uses the active voice"
+
+w: <<additive_inverse>>
+hyper: [[inverse2]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) one of a pair of numbers whose sum is zero; the additive inverse of -5 is +5
+
+w: <<adult_intelligence>>
+hyper: [[intelligence_quotient]]
+g: the average IQ of the adults in a given population
+
+w: <<adversative_conjunction>>
+hyper: [[conjunction2]]
+g: the conjunctive relation of units that expresses the opposition of their meanings
+
+w: <<affine_transformation>>
+hyper: [[transformation]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) a transformation that is a combination of single transformations such as translation or rotation or reflection on an axis
+
+w: <<affinity1>> drf [[file:adjs.all.org::affine]] ant [[consanguinity]]
+hyper: [[kinship]]
+dt: [[file:noun.cognition.org::anthropology]]
+g: (anthropology) kinship by marriage or adoption; not a blood relationship
+
+w: <<affinity3>>
+w: <<kinship2>>
+hyper: [[file:noun.Tops.org::relation]]
+g: a close connection marked by community of interests or similarity in nature or character; "found a natural affinity with the immigrants"; "felt a deep kinship with the other students"; "anthropology's kinship with the humanities"
+
+w: <<affinity2>>
+w: <<phylogenetic_relation>>
+hyper: [[kinship]]
+dt: [[file:noun.cognition.org::biology]]
+g: (biology) state of relationship between organisms or groups of organisms resulting in resemblance in structure or structural parts; "in anatomical structure prehistoric man shows close affinity with modern humans"
+
+w: <<agreement3>> drf [[file:verb.stative.org::agree3]]
+w: <<concord>> drf [[file:verb.contact.org::concord]]
+hyper: [[grammatical_relation]]
+g: the determination of grammatical inflection on the basis of word relations
+
+w: <<albedo>>
+w: <<reflective_power>>
+hyper: [[ratio1]]
+g: the ratio of reflected to incident light
+
+w: <<alliance>>
+w: <<bond>> drf [[file:verb.social.org::bond13]] drf [[file:verb.contact.org::bond1]]
+hyper: [[connection]]
+g: a connection based on kinship or marriage or common interest; "the shifting alliances within a large family"; "their friendship constitutes a powerful bond between them"
+
+w: <<anaphoric_relation>>
+hyper: [[grammatical_relation]]
+g: the relation between an anaphor and its antecedent
+
+w: <<angular_position>>
+hyper: [[file:noun.attribute.org::position]]
+g: relation by which any position with respect to any other position is established
+
 w: <<antagonism>> drf [[file:adjs.all.org::antagonistic]] drf [[file:adjs.all.org::antagonistic]] drf [[file:noun.person.org::antagonist]] drf [[file:verb.social.org::antagonise]]
 hyper: [[opposition2]]
 g: the relation between opposing principles or forces or factors; "the inherent antagonism of capitalism and socialism"
 
-w: <<implication1>> drf [[file:adj.pert.org::implicational]] drf [[file:verb.communication.org::imply1]] drf [[file:verb.stative.org::implicate]]
-w: <<logical_implication>>
-w: <<conditional_relation>>
-hyper: [[logical_relation]]
-g: a logical relation between propositions p and q of the form `if p then q'; if p is true then q cannot be false
+w: <<antecedent>> drf [[file:adj.all.org::antecedent]]
+w: <<forerunner>>
+hyper: [[temporal_relation]]
+g: anything that precedes something similar in time; "phrenology was an antecedent of modern neuroscience"
 
-w: <<temperature_gradient>>
-hyper: [[gradient]]
-g: change in temperature as a function of distance (especially altitude)
-
-w: <<gravity_gradient>>
-hyper: [[gradient]]
-g: a gradient in the gravitational forces acting on different parts of a nonspherical object; "the gravity gradient of the moon causes the ocean tides on Earth"
-
-w: <<concentration_gradient>>
-hyper: [[gradient]]
-g: a gradient in concentration of a solute as a function of distance through a solution; "the movement of a solute down its concentration gradient is called diffusion"
-
-w: <<gradient>>
-hyper: [[change]]
-g: a graded change in the magnitude of some physical quantity or dimension
-
-w: <<difference>> drf [[file:adj.pert.org::differential]] drf [[file:verb.change.org::differentiate1]] drf [[file:verb.change.org::differentiate]]
-hyper: [[change]]
-g: a significant change; "the difference in her is amazing"; "his support made a real difference"
-
-w: <<change>> drf [[file:verb.change.org::change2]] drf [[file:verb.change.org::change1]]
-hyper: [[file:noun.Tops.org::relation]]
-g: a relational difference between states; especially between states before and after some event; "he attributed the change to their marriage"
-
-w: <<inverse2>>
-w: <<opposite4>>
-hyper: [[opposition2]]
-g: something inverted in sequence or character or effect; "when the direct approach failed he tried the inverse"
-
-w: <<reverse>> drf [[file:adjs.all.org::reverse2]] drf [[file:verb.communication.org::reverse]] drf [[file:verb.change.org::reverse]]
-w: <<contrary1>>
-w: <<opposite3>>
-hyper: [[opposition2]]
-g: a relation of direct opposition; "we thought Sue was older than Bill but just the reverse was true"
-
-w: <<tertium_quid>>
-hyper: [[opposition2]]
-g: some third thing similar to two opposites but distinct from both
-
-w: <<contrariety>>
-hyper: [[opposition2]]
-g: the relation between contraries
-
-w: <<contrary>>
-hyper: [[opposition2]]
-g: exact opposition; "public opinion to the contrary he is not guilty"
-
-w: <<incompatibility2>> drf [[file:adjs.all.org::incompatible]]
-w: <<mutual_exclusiveness>>
-w: <<inconsistency>>
-w: <<repugnance>> drf [[file:verb.communication.org::repugn]]
-hyper: [[contradictoriness]]
-g: the relation between propositions that cannot both be true at the same time
-
-w: <<dialectic>> drf [[file:adj.pert.org::dialectical]] drf [[file:noun.person.org::dialectician]]
-hyper: [[contradiction]]
-g: a contradiction of ideas that serves as the determining factor in their interaction; "this situation created the inner dialectic of American history"
-
-w: <<contradiction>>
-hyper: [[opposition2]]
-g: opposition between two conflicting forces or ideas
-
-w: <<contradictoriness>> drf [[file:adjs.all.org::contradictory]] drf [[file:adjs.all.org::contradictory]] drf [[file:adjs.all.org::contradictory]]
-hyper: [[opposition2]]
-g: the relation that exists when opposites cannot coexist
-
-w: <<complementarity1>> drf [[file:adjs.all.org::complementary]]
-hyper: [[ungradable_opposition]]
-g: a relation between two opposite states or principles that together exhaust the possibilities
-
-w: <<ungradable_opposition>>
-hyper: [[opposition2]]
-g: an opposition that has no intermediate grade; either one or the other
-
-w: <<negativity>> ant [[positivity]]
-w: <<negativeness>> ant [[positiveness]]
-hyper: [[polarity]]
-g: the character of the negative electric pole
-
-w: <<positivity>> ant [[negativity]]
-w: <<positiveness>> ant [[negativeness]]
-hyper: [[polarity]]
-g: the character of the positive electric pole
-
-w: <<polarity>> drf [[file:adjs.all.org::polar]]
-w: <<sign>>
-hyper: [[opposition2]]
-g: having an indicated pole (as the distinction between positive and negative electric charges); "he got the polarity of the battery reversed"; "charges of opposite sign"
-
-w: <<polar_opposition>>
-hyper: [[gradable_opposition]]
-g: an opposition that can be graded between two extremes or poles
-
-w: <<gradable_opposition>>
-hyper: [[opposition2]]
-g: an opposition that is capable of being graded
-
-w: <<mutual_opposition>>
-w: <<polarity1>> drf [[file:adjs.all.org::polar]]
-hyper: [[opposition2]]
-g: a relation between two opposite attributes or tendencies; "he viewed it as a balanced polarity between good and evil"
-
-w: <<flip_side>>
-hyper: [[opposition2]]
-du: [[file:noun.communication.org::trope]]
-g: a different aspect of something (especially the opposite aspect); "the flip side of your positive qualities sometimes get out of control"; "on the flip side of partnerships he talked about their competition"
-
-w: <<contrast>> drf [[file:verb.stative.org::contrast]] drf [[file:verb.cognition.org::contrast]]
-w: <<direct_contrast>>
-hyper: [[opposition2]]
-g: the opposition or dissimilarity of things that are compared; "in contrast to", "by contrast"
-
-w: <<conflict>>
-hyper: [[opposition2]]
-g: opposition in a work of drama or fiction between characters or forces (especially an opposition that motivates the development of the plot); "this form of conflict is essential to Mann's writing"
-
-w: <<antithesis>> drf [[file:adjs.all.org::antithetic]] drf [[file:adjs.all.org::antithetical]]
-hyper: [[opposition2]]
-g: exact opposite; "his theory is the antithesis of mine"
+w: <<antipodal>> drf [[file:adj.pert.org::antipodal]]
+w: <<antipodal_opposition>>
+w: <<diametrical_opposition>>
+hyper: [[opposition]]
+g: the relation of opposition along a diameter
 
 w: <<antipode>> drf [[file:adj.pert.org::antipodean]]
 hyper: [[opposition2]]
 g: direct opposite; "quiet: an antipode to focused busyness"
 
-w: <<opposition2>>
-w: <<oppositeness>> drf [[file:adjs.all.org::opposite2]] drf [[file:adjs.all.org::opposite]]
+w: <<antithesis>> drf [[file:adjs.all.org::antithetic]] drf [[file:adjs.all.org::antithetical]]
+hyper: [[opposition2]]
+g: exact opposite; "his theory is the antithesis of mine"
+
+w: <<antonymy>>
+hyper: [[semantic_relation]]
+g: the semantic relation that holds between two words that can (in a given context) express opposite meanings
+
+w: <<applicability>> drf [[file:adjs.all.org::applicable]] ant [[inapplicability]]
+w: <<pertinence>> drf [[file:adjs.all.org::pertinent]] drf [[file:adjs.all.org::pertinent]] drf [[file:verb.stative.org::pertain1]]
+w: <<pertinency>> drf [[file:adjs.all.org::pertinent]] drf [[file:adjs.all.org::pertinent]] drf [[file:verb.stative.org::pertain1]]
+hyper: [[relevance]]
+g: relevance by virtue of being applicable to the matter at hand
+
+w: <<apposition>> drf [[file:adj.pert.org::appositional]]
+hyper: [[modification]]
+g: a grammatical relation between a word and a noun phrase that follows; "`Rudolph the red-nosed reindeer' is an example of apposition"
+
+w: <<arc_cosecant>>
+w: <<arccosecant>>
+w: <<inverse_cosecant>>
+hyper: [[trigonometric_function]]
+g: the angle that has a cosecant equal to a given number
+
+w: <<arc_cosine>>
+w: <<arccosine>>
+w: <<arccos>>
+w: <<inverse_cosine>>
+hyper: [[trigonometric_function]]
+g: the inverse function of the cosine; the angle that has a cosine equal to a given number
+
+w: <<arc_cotangent>>
+w: <<arccotangent>>
+w: <<inverse_cotangent>>
+hyper: [[trigonometric_function]]
+g: the inverse function of the cotangent; the angle that has a cotangent equal to a given number
+
+w: <<arc_secant>>
+w: <<arcsecant>>
+w: <<arcsec>>
+w: <<inverse_secant>>
+hyper: [[trigonometric_function]]
+g: the inverse function of the secant; the angle that has a secant equal to a given number
+
+w: <<arc_sine>>
+w: <<arcsine>>
+w: <<arcsin>>
+w: <<inverse_sine>>
+hyper: [[trigonometric_function]]
+g: the inverse function of the sine; the angle that has a sine equal to a given number
+
+w: <<arc_tangent>>
+w: <<arctangent>>
+w: <<arctan>>
+w: <<inverse_tangent>>
+hyper: [[trigonometric_function]]
+g: the inverse function of the tangent; the angle that has a tangent equal to a given number
+
+w: <<aspect>> drf [[file:adj.pert.org::aspectual]]
+hyper: [[grammatical_relation]]
+g: the beginning or duration or completion or repetition of the action of a verb
+
+w: <<aspect_ratio>>
+hyper: [[ratio1]]
+g: the ratio of the width to the height of a tv picture
+
+w: <<association>> drf [[file:verb.social.org::associate]]
 hyper: [[file:noun.Tops.org::relation]]
-g: the relation between opposed entities
-
-w: <<norm>>
-hyper: [[file:noun.communication.org::standard]]
-g: a standard or model or pattern regarded as typical; "the current middle-class norm of two children per family"
-
-w: <<baseline>>
-hyper: [[file:noun.communication.org::standard]]
-g: an imaginary line or standard by which things are measured or compared; "the established a baseline for the budget"
-
-w: <<gauge>> drf [[file:verb.change.org::gauge]]
-w: <<standard_of_measurement>>
-hyper: [[file:noun.communication.org::standard]]
-g: accepted or approved instance or example of a quantity or quality against which others are judged or measured or compared
-
-w: <<imaginative_comparison>>
-hyper: [[comparison]]
-g: the kind of mental comparison that is expressed in similes or metaphors or allegories
-
-w: <<comparison>> drf [[file:verb.cognition.org::compare]]
-hyper: [[file:noun.Tops.org::relation]]
-g: relation based on similarities and differences
-
-w: <<sliding_scale>>
-hyper: [[wage_scale]]
-g: a wage scale that fluctuates in response to the cost-of-living index
-
-w: <<wage_scale>>
-w: <<wage_schedule>>
-hyper: [[scale3]]
-g: a schedule of wages paid for different jobs
-
-w: <<Reaumur_scale>>
-hyper: [[temperature_scale]]
-g: a temperature scale on which water freezes at 0 degrees and boils at 80 degrees
-
-w: <<Rankine_scale>>
-hyper: [[temperature_scale]]
-g: a scale of absolute temperature in Fahrenheit degrees; the freezing point of water is 491.69 degrees and the boiling point of water is 671.69 degrees
-
-w: <<Kelvin_scale>>
-w: <<absolute_scale>>
-hyper: [[temperature_scale]]
-g: a temperature scale that defines absolute zero as 0 degrees; water freezes at 273.16 degrees and boils at 373.16 degrees
-
-w: <<Fahrenheit_scale>>
-hyper: [[temperature_scale]]
-g: a temperature scale that defines the freezing point of water as 32 degrees and the boiling point of water a 212 degrees
-
-w: <<Celsius_scale>>
-w: <<international_scale>>
-w: <<centigrade_scale>>
-hyper: [[temperature_scale]]
-g: a temperature scale that defines the freezing point of water as 0 degrees and the boiling point of water as 100 degrees
-
-w: <<temperature_scale>>
-hyper: [[scale3]]
-hyper: [[file:noun.quantity.org::system_of_measurement]]
-g: a system of measuring temperature
-
-w: <<moment_magnitude_scale>>
-hyper: [[scale3]]
-dt: [[file:noun.cognition.org::geology]]
-g: a logarithmic scale of 1 to 10 (a successor to the Richter scale) that enables seismologists to compare the energy released by different earthquakes on the basis of the area of the geological fault that ruptured in the quake
-
-w: <<Richter_scale>>
-hyper: [[scale3]]
-dt: [[file:noun.cognition.org::geology]]
-g: a logarithmic scale of 1 to 10 formerly used to express the magnitude of an earthquake on the basis of the size of seismograph oscillations
-
-w: <<Mohs_scale>>
-hyper: [[scale3]]
-g: a scale of hardness of solids; talc is 0 and diamond is 10; ordering is determined by which substance can scratch another substance
-
-w: <<Mercalli_scale>>
-hyper: [[scale3]]
-dt: [[file:noun.cognition.org::geology]]
-g: a scale formerly used to describe the magnitude of an earthquake; an earthquake detected only by seismographs is a I and an earthquake that destroys all buildings is a XII
-
-w: <<logarithmic_scale>>
-hyper: [[scale3]]
-g: scale on which actual distances from the origin are proportional to the logarithms of the corresponding scale numbers
-
-w: <<index>> drf [[file:verb.cognition.org::index]]
-hyper: [[scale3]]
-g: a numerical scale used to compare variables with one another or with some reference number
-
-w: <<Beaufort_scale>>
-w: <<wind_scale>>
-hyper: [[scale3]]
-g: an international scale of wind force from 0 (calm air) to 12 (hurricane)
-
-w: <<scale3>> drf [[file:verb.change.org::scale1]] drf [[file:verb.creation.org::scale]]
-w: <<scale_of_measurement>>
-w: <<graduated_table>>
-w: <<ordered_series>>
-hyper: [[file:noun.communication.org::standard]]
-g: an ordered reference standard; "judging on a scale of 1 to 10"
-
-w: <<last>>
-hyper: [[file:noun.state.org::rank]]
-g: the last or lowest in an ordering or series; "he was the last to leave"; "he finished an inglorious last"
-
-w: <<billionth>>
-hyper: [[file:noun.state.org::rank]]
-dr: [[file:noun.location.org::United_States]]
-g: position 1,000,000,000 in a countable series of things
-
-w: <<millionth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 1,000,000 in a countable series of things
-
-w: <<thousandth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 1,000 in a countable series of things
-
-w: <<hundredth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 100 in a countable series of things
-
-w: <<ninetieth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 90 in a countable series of things
-
-w: <<eightieth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 80 in a countable series of things
-
-w: <<seventieth>> drf [[file:adjs.all.org::seventieth]]
-hyper: [[file:noun.state.org::rank]]
-g: position 70 in a countable series of things
-
-w: <<sixtieth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 60 in a countable series of things
-
-w: <<fiftieth>> drf [[file:adjs.all.org::fiftieth]]
-hyper: [[file:noun.state.org::rank]]
-g: position 50 in a countable series of things
-
-w: <<fortieth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 40 in a countable series of things
-
-w: <<thirtieth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 30 in a countable series of things
-
-w: <<twentieth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 20 in a countable series of things
-
-w: <<nineteenth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 19 in a countable series of things
-
-w: <<eighteenth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 18 in a countable series of things
-
-w: <<seventeenth>> drf [[file:adjs.all.org::seventeenth]]
-hyper: [[file:noun.state.org::rank]]
-g: position 17 in a countable series of things
-
-w: <<sixteenth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 16 in a countable series of things
-
-w: <<fifteenth>> drf [[file:adjs.all.org::fifteenth]]
-hyper: [[file:noun.state.org::rank]]
-g: position 15 in a countable series of things
-
-w: <<fourteenth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 14 in a countable series of things
-
-w: <<thirteenth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 13 in a countable series of things
-
-w: <<twelfth>>
-hyper: [[file:noun.state.org::rank]]
-g: position 12 in a countable series of things
-
-w: <<eleventh>>
-hyper: [[file:noun.state.org::rank]]
-g: position 11 in a countable series of things
-
-w: <<tenth>>
-hyper: [[file:noun.state.org::rank]]
-g: position ten in a countable series of things
-
-w: <<ninth>>
-hyper: [[file:noun.state.org::rank]]
-g: position nine in a countable series of things; "going into the ninth they were a run ahead"
-
-w: <<eighth>>
-hyper: [[file:noun.state.org::rank]]
-g: position eight in a countable series of things
-
-w: <<seventh>> drf [[file:adjs.all.org::seventh]]
-hyper: [[file:noun.state.org::rank]]
-g: position seven in a countable series of things
-
-w: <<sixth>>
-hyper: [[file:noun.state.org::rank]]
-g: position six in a countable series of things
-
-w: <<fifth>> drf [[file:adjs.all.org::fifth]]
-hyper: [[file:noun.state.org::rank]]
-g: position five in a countable series of things; "he was fifth out of several hundred runners"
-
-w: <<fourth>>
-hyper: [[file:noun.state.org::rank]]
-g: following the third position; number four in a countable series
-
-w: <<third>>
-hyper: [[file:noun.state.org::rank]]
-g: following the second position in an ordering or series; "a distant third"; "he answered the first question willingly, the second reluctantly, and the third with resentment"
-
-w: <<latter>> ant [[former]]
-hyper: [[second]]
-g: the second of two or the second mentioned of two; "Tom and Dick were both heroes but only the latter is remembered today"
-
-w: <<second>> drf [[file:adjs.all.org::second]]
-hyper: [[file:noun.state.org::rank]]
-g: following the first in an ordering or series; "he came in a close second"
-
-w: <<former>> ant [[latter]]
-hyper: [[first]]
-g: the first of two or the first mentioned of two; "Tom and Dick were both heroes but only the former is remembered today"
-
-w: <<first>>
-w: <<number_one>>
-hyper: [[file:noun.state.org::rank]]
-g: the first or highest in an ordering or series; "He wanted to be the first"
+g: a relation resulting from interaction or dependence; "flints were found in association with the prehistoric remains of the bear"; "the host is not always injured by association with a parasite"
 
 w: <<asynchronism>> ant [[synchronism]]
 w: <<asynchrony>>
@@ -380,36 +175,742 @@ w: <<desynchronizing>> drf [[file:verb.change.org::desynchronize]] ant [[synchro
 hyper: [[temporal_relation]]
 g: the relation that exists when things occur at unrelated times; "the stimulus produced a desynchronizing of the brain waves"
 
-w: <<synchronism>> ant [[asynchronism]]
-w: <<synchrony>> drf [[file:adj.all.org::synchronic4]] drf [[file:adj.all.org::synchronous]] drf [[file:verb.stative.org::synchronize]] drf [[file:verb.communication.org::synchronize]] drf [[file:verb.cognition.org::synchronize]] drf [[file:verb.change.org::synchronize]] drf [[file:verb.stative.org::synchronise]] drf [[file:verb.cognition.org::synchronise]] drf [[file:verb.change.org::synchronise]]
-w: <<synchronicity>> drf [[file:adjs.all.org::synchronic2]] drf [[file:adj.all.org::synchronic4]]
-w: <<synchroneity>> drf [[file:adj.all.org::synchronous]]
-w: <<synchronization>> drf [[file:verb.stative.org::synchronize]] ant [[desynchronization]]
-w: <<synchronisation>> drf [[file:verb.stative.org::synchronise]]
-w: <<synchronizing>> drf [[file:verb.stative.org::synchronize]] ant [[desynchronizing]]
-hyper: [[temporal_relation]]
-g: the relation that exists when things occur at the same time; "the drug produces an increased synchrony of the brain waves"
+w: <<attitude>>
+hyper: [[orientation]]
+g: position of aircraft or spacecraft relative to a frame of reference (the horizon or direction of motion)
+
+w: <<average>>
+hyper: [[ratio1]]
+dt: [[file:noun.act.org::sport]]
+g: (sports) the ratio of successful performances to opportunities
+
+w: <<bank-depositor_relation>>
+hyper: [[fiduciary_relation]]
+dt: [[file:noun.group.org::law]]
+g: the responsibility of a bank to act in the best interests of the depositors
+
+w: <<baseline>>
+hyper: [[file:noun.communication.org::standard]]
+g: an imaginary line or standard by which things are measured or compared; "the established a baseline for the budget"
+
+w: <<basis1>>
+w: <<base>>
+hyper: [[part]]
+g: the most important or necessary part of something; "the basis of this drink is orange juice"
+
+w: <<batting_average1>>
+hyper: [[proportion]]
+dt: [[file:noun.act.org::baseball]]
+g: (an extension of the baseball term) the proportion of times some effort succeeds; "the salesman's batting average was 7 out of 12"
+
+w: <<batting_average>>
+w: <<hitting_average>>
+hyper: [[average]]
+dt: [[file:noun.act.org::baseball]]
+g: (baseball) a measure of a batter's performance; the number of base hits divided by the number of official times at bat; "Ted Williams once had a batting average above .400"
+
+w: <<bearing1>>
+hyper: [[relatedness]]
+g: relevant relation or interconnection; "those issues have no bearing on our situation"
+
+w: <<Beaufort_scale>>
+w: <<wind_scale>>
+hyper: [[scale3]]
+g: an international scale of wind force from 0 (calm air) to 12 (hurricane)
+
+w: <<bilateral_descent>>
+hyper: [[descent]]
+g: line of descent traced through both the maternal and paternal sides of the family
+
+w: <<billionth>>
+hyper: [[file:noun.state.org::rank]]
+dr: [[file:noun.location.org::United_States]]
+g: position 1,000,000,000 in a countable series of things
+
+w: <<bonding>>
+hyper: [[personal_relation]]
+g: a close personal relationship that forms between people (as between husband and wife or parent and child)
+
+w: <<borderline_intelligence>>
+hyper: [[intelligence_quotient]]
+g: the minimal IQ required for someone to function normally and independently in the world (without some form of institutional assistance)
+
+w: <<bridge>> drf [[file:verb.stative.org::bridge]]
+hyper: [[connection]]
+g: something resembling a bridge in form or function; "his letters provided a bridge across the centuries"
+
+w: <<brotherhood>>
+hyper: [[kinship]]
+g: the kinship relation between a male offspring and the siblings
+
+w: <<business_relation>>
+hyper: [[file:noun.Tops.org::relation]]
+g: a relation between different business enterprises
+
+w: <<cardinal_compass_point>>
+hyper: [[compass_point]]
+g: one of the four main compass points
+
+w: <<case-fatality_proportion>>
+hyper: [[proportion]]
+g: the number of cases of a disease ending in death divided by the number of cases of the disease; usually expressed as a percentage or as the number of deaths per 1000 cases
+
+w: <<case-to-infection_proportion>>
+w: <<case-to-infection_ratio>>
+hyper: [[proportion]]
+g: the number of cases of a disease divided by the number of infections with the agent that causes the disease
+
+w: <<case_agreement>>
+hyper: [[agreement3]]
+g: agreement in grammatical case between words in the same construction
+
+w: <<causality>> drf [[file:adjs.all.org::causal]]
+hyper: [[file:noun.Tops.org::relation]]
+g: the relation between causes and effects
+
+w: <<Celsius_scale>>
+w: <<international_scale>>
+w: <<centigrade_scale>>
+hyper: [[temperature_scale]]
+g: a temperature scale that defines the freezing point of water as 0 degrees and the boiling point of water as 100 degrees
+
+w: <<cephalic_index>>
+w: <<breadth_index>>
+w: <<cranial_index>>
+hyper: [[ratio1]]
+g: ratio (in percent) of the maximum breadth to the maximum length of a skull
+
+w: <<change>> drf [[file:verb.change.org::change2]] drf [[file:verb.change.org::change1]]
+hyper: [[file:noun.Tops.org::relation]]
+g: a relational difference between states; especially between states before and after some event; "he attributed the change to their marriage"
+
+w: <<chemistry>>
+w: <<interpersonal_chemistry>>
+w: <<alchemy>>
+hyper: [[file:noun.Tops.org::social_relation]]
+g: the way two individuals relate to each other; "their chemistry was wrong from the beginning -- they hated each other"; "a mysterious alchemy brought them together"
 
 w: <<chronology>> drf [[file:adj.pert.org::chronological]] drf [[file:verb.change.org::chronologize]]
 hyper: [[temporal_relation]]
 g: an arrangement of events in time
 
-w: <<antecedent>> drf [[file:adj.all.org::antecedent]]
-w: <<forerunner>>
-hyper: [[temporal_relation]]
-g: anything that precedes something similar in time; "phrenology was an antecedent of modern neuroscience"
+w: <<clientage>>
+hyper: [[business_relation]]
+g: relation of a client to a patron
 
-w: <<temporal_relation>>
+w: <<cogency>> drf [[file:adjs.all.org::cogent]]
+hyper: [[relevance]]
+g: persuasive relevance
+
+w: <<commensalism>>
+hyper: [[mutuality]]
+g: the relation between two different kinds of organisms when one receives benefits from the other without damaging it
+
+w: <<commensurateness>> drf [[file:adj.all.org::commensurate]]
+w: <<correspondence1>> drf [[file:adjs.all.org::correspondent]]
+w: <<proportionateness>> drf [[file:adjs.all.org::proportionate]] drf [[file:adjs.all.org::proportionate]] drf [[file:adj.all.org::proportionate]]
+hyper: [[proportionality]]
+g: the relation of corresponding in degree or size or amount
+
+w: <<common_ground>>
+hyper: [[footing]]
+g: a basis agreed to by all parties for reaching a mutual understanding
+
+w: <<communication>> drf [[file:verb.contact.org::communicate]] drf [[file:verb.communication.org::communicate1]]
+hyper: [[connection]]
+g: a connection allowing access between persons or places; "how many lines of communication can there be among four people?"; "a secret passageway provided communication between the two rooms"
+
+w: <<comparison>> drf [[file:verb.cognition.org::compare]]
 hyper: [[file:noun.Tops.org::relation]]
-attr: [[file:adj.all.org::preceding]]
-attr: [[file:adj.all.org::succeeding]]
-attr: [[file:adj.all.org::retrograde]]
-attr: [[file:adj.all.org::anterograde]]
-g: a relation involving time
+g: relation based on similarities and differences
 
-w: <<psychodynamics>>
-hyper: [[interrelation]]
-g: the interrelation of conscious and unconscious processes and emotions that determine personality and motivation
+w: <<compass_point>>
+w: <<point>>
+hyper: [[direction]]
+g: any of 32 horizontal directions indicated on the card of a compass; "he checked the point on his compass"
+
+w: <<competition1>>
+hyper: [[business_relation]]
+g: a business relation in which two parties compete to gain customers; "business competition can be fiendish at times"
+
+w: <<complementarity1>> drf [[file:adjs.all.org::complementary]]
+hyper: [[ungradable_opposition]]
+g: a relation between two opposite states or principles that together exhaust the possibilities
+
+w: <<complementarity2>>
+hyper: [[reciprocality]]
+g: the interrelation of reciprocity whereby one thing supplements or depends on the other; "the complementarity of the sexes"
+
+w: <<complementation>>
+hyper: [[grammatical_relation]]
+g: the grammatical relation of a word or phrase to a predicate
+
+w: <<concatenation>>
+hyper: [[connection]]
+g: the linking together of a consecutive series of symbols or events or ideas etc; "it was caused by an improbable concatenation of circumstances"
+
+w: <<concentration_gradient>>
+hyper: [[gradient]]
+g: a gradient in concentration of a solute as a function of distance through a solution; "the movement of a solute down its concentration gradient is called diffusion"
+
+w: <<confidential_adviser-advisee_relation>>
+hyper: [[fiduciary_relation]]
+dt: [[file:noun.group.org::law]]
+g: the responsibility of a confidential adviser to act in the best interest of the advisee
+
+w: <<conflict>>
+hyper: [[opposition2]]
+g: opposition in a work of drama or fiction between characters or forces (especially an opposition that motivates the development of the plot); "this form of conflict is essential to Mann's writing"
+
+w: <<conjugation>> drf [[file:verb.communication.org::conjugate]]
+hyper: [[inflection]]
+g: the inflection of verbs
+
+w: <<conjunction2>>
+hyper: [[grammatical_relation]]
+g: the grammatical relation between linguistic units (words or phrases or clauses) that are connected by a conjunction
+
+w: <<connection>>
+w: <<connexion>>
+w: <<connectedness>> drf [[file:adjs.all.org::connected2]] drf [[file:adjs.all.org::connected]] ant [[unconnectedness]]
+hyper: [[file:noun.Tops.org::relation]]
+attr: [[file:adj.all.org::connected]]
+attr: [[file:adj.all.org::unconnected]]
+g: a relation between things or events (as in the case of one causing the other or sharing features with it); "there was a connection between eating that pickle and having that nightmare"
+
+w: <<consanguinity>> drf [[file:adjs.all.org::consanguine]] ant [[affinity1]]
+w: <<blood_kinship>>
+w: <<cognation>>
+hyper: [[kinship]]
+dt: [[file:noun.cognition.org::anthropology]]
+g: (anthropology) related by blood
+
+w: <<conservator-ward_relation>>
+hyper: [[fiduciary_relation]]
+dt: [[file:noun.group.org::law]]
+g: the responsibility of a conservator to act in the best interests of the ward
+
+w: <<content>>
+hyper: [[proportion]]
+g: the proportion of a substance that is contained in a mixture or alloy etc.
+
+w: <<contradiction>>
+hyper: [[opposition2]]
+g: opposition between two conflicting forces or ideas
+
+w: <<contradictoriness>> drf [[file:adjs.all.org::contradictory]] drf [[file:adjs.all.org::contradictory]] drf [[file:adjs.all.org::contradictory]]
+hyper: [[opposition2]]
+g: the relation that exists when opposites cannot coexist
+
+w: <<contradictory>>
+hyper: [[logical_relation]]
+g: two propositions are contradictories if both cannot be true (or both cannot be false) at the same time
+
+w: <<contrariety>>
+hyper: [[opposition2]]
+g: the relation between contraries
+
+w: <<contrary>>
+hyper: [[opposition2]]
+g: exact opposition; "public opinion to the contrary he is not guilty"
+
+w: <<contrary2>>
+hyper: [[logical_relation]]
+g: a logical relation such that two propositions are contraries if both cannot be true but both can be false
+
+w: <<contrast>> drf [[file:verb.stative.org::contrast]] drf [[file:verb.cognition.org::contrast]]
+w: <<direct_contrast>>
+hyper: [[opposition2]]
+g: the opposition or dissimilarity of things that are compared; "in contrast to", "by contrast"
+
+w: <<control>>
+hyper: [[file:noun.Tops.org::relation]]
+g: a relation of constraint of one entity (thing or person or group) by another; "measures for the control of disease"; "they instituted controls over drinking on campus"
+
+w: <<coordinating_conjunction>>
+hyper: [[conjunction2]]
+g: the coordination by conjunction of linguistic units of the same status
+
+w: <<coordination>>
+hyper: [[grammatical_relation]]
+g: the grammatical relation of two constituents having the same grammatical form
+
+w: <<copulative_conjunction>>
+hyper: [[conjunction2]]
+g: the conjunctive relation of units that expresses the addition of their meanings
+
+w: <<coreference>> drf [[file:adj.pert.org::coreferential]] drf [[file:adjs.all.org::coreferent]]
+hyper: [[grammatical_relation]]
+g: the grammatical relation between two words that have a common referent
+
+w: <<correlation>> drf [[file:adj.pert.org::correlational]] drf [[file:verb.stative.org::correlate]] drf [[file:verb.cognition.org::correlate]]
+w: <<correlativity>> drf [[file:adjs.all.org::correlative]] drf [[file:adjs.all.org::correlative]]
+hyper: [[reciprocality]]
+g: a reciprocal relation between two or more things
+
+w: <<cosecant>>
+w: <<cosec>>
+hyper: [[trigonometric_function]]
+g: ratio of the hypotenuse to the opposite side of a right-angled triangle
+
+w: <<cosine>>
+w: <<cos>>
+hyper: [[trigonometric_function]]
+g: ratio of the adjacent side to the hypotenuse of a right-angled triangle
+
+w: <<cotangent>>
+w: <<cotan>>
+hyper: [[trigonometric_function]]
+g: ratio of the adjacent to the opposite side of a right-angled triangle
+
+w: <<declension>> drf [[file:verb.communication.org::decline1]]
+hyper: [[inflection]]
+g: the inflection of nouns and pronouns and adjectives in Indo-European languages
+
+w: <<depression>>
+hyper: [[angular_position]]
+g: angular distance below the horizon (especially of a celestial object)
+
+w: <<descent>> drf [[file:verb.stative.org::descend]]
+w: <<line_of_descent>>
+w: <<lineage>>
+w: <<filiation>> drf [[file:verb.cognition.org::filiate]]
+hyper: [[kinship]]
+g: the kinship relation between an individual and the individual's progenitors
+
+w: <<detail>> drf [[file:verb.communication.org::detail]]
+w: <<particular>>
+w: <<item>> drf [[file:verb.communication.org::itemize]]
+hyper: [[part]]
+g: a small part that can be considered separately from the whole; "it was perfect in all details"
+
+w: <<dialectic>> drf [[file:adj.pert.org::dialectical]] drf [[file:noun.person.org::dialectician]]
+hyper: [[contradiction]]
+g: a contradiction of ideas that serves as the determining factor in their interaction; "this situation created the inner dialectic of American history"
+
+w: <<difference>> drf [[file:adj.pert.org::differential]] drf [[file:verb.change.org::differentiate1]] drf [[file:verb.change.org::differentiate]]
+hyper: [[change]]
+g: a significant change; "the difference in her is amazing"; "his support made a real difference"
+
+w: <<direction>>
+hyper: [[file:noun.attribute.org::position]]
+attr: [[file:adj.all.org::incoming]]
+attr: [[file:adj.all.org::outgoing]]
+g: the spatial relation between something and the course along which it points or moves; "he checked the direction and velocity of the wind"
+
+w: <<director-stockholder_relation>>
+hyper: [[fiduciary_relation]]
+dt: [[file:noun.group.org::law]]
+g: the responsibility of corporate directors to act in the best interests of stockholders
+
+w: <<disjunctive_conjunction>>
+hyper: [[conjunction2]]
+g: the conjunctive relation of units that expresses the disjunction of their meanings
+
+w: <<doctor-patient_relation>>
+hyper: [[medical_relation]]
+g: the responsibility of a physician to act in the best interests of the patient
+
+w: <<durative>>
+w: <<durative_aspect>>
+hyper: [[aspect]]
+g: the aspect of a verb that expresses its duration
+
+w: <<east2>>
+hyper: [[direction]]
+g: the direction corresponding to the eastward cardinal compass point
+
+w: <<east_by_north>>
+w: <<EbN>>
+hyper: [[compass_point]]
+g: the compass point that is one point north of due east
+
+w: <<east_by_south>>
+w: <<EbS>>
+hyper: [[compass_point]]
+g: the compass point that is one point south of due east
+
+w: <<east_northeast>>
+w: <<ENE>>
+hyper: [[compass_point]]
+g: the compass point midway between northeast and east
+
+w: <<east_southeast>>
+w: <<ESE>>
+hyper: [[compass_point]]
+g: the compass point midway between east and southeast
+
+w: <<east>>
+w: <<due_east>>
+w: <<eastward>>
+w: <<E>>
+hyper: [[cardinal_compass_point]]
+g: the cardinal compass point that is at 90 degrees
+
+w: <<efficiency>>
+hyper: [[ratio1]]
+g: the ratio of the output to the input of any system
+
+w: <<eighteenth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 18 in a countable series of things
+
+w: <<eighth>>
+hyper: [[file:noun.state.org::rank]]
+g: position eight in a countable series of things
+
+w: <<eightieth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 80 in a countable series of things
+
+w: <<elevation>>
+w: <<EL>>
+w: <<altitude>> drf [[file:adj.pert.org::altitudinal]]
+w: <<ALT>>
+hyper: [[angular_position]]
+g: angular distance above the horizon (especially of a celestial object)
+
+w: <<eleventh>>
+hyper: [[file:noun.state.org::rank]]
+g: position 11 in a countable series of things
+
+w: <<employee_turnover>>
+w: <<turnover_rate>>
+w: <<turnover>>
+hyper: [[ratio1]]
+g: the ratio of the number of workers that had to be replaced in a given time period to the average number of workers
+
+w: <<enantiomorphism>>
+w: <<mirror-image_relation>>
+hyper: [[opposition]]
+g: the relation of opposition between crystals or molecules that are reflections of one another
+
+w: <<evenness>>
+hyper: [[parity]]
+g: the parity of even numbers (divisible by two)
+
+w: <<executor-heir_relation>>
+hyper: [[fiduciary_relation]]
+dt: [[file:noun.group.org::law]]
+g: the responsibility of an executor (or administrator) of an estate to act in the best interests of the heir
+
+w: <<expansion>>
+hyper: [[function]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: a function expressed as a sum or product of terms; "the expansion of (a+b)^2 is a^2 + 2ab + b^2"
+
+w: <<exponential_curve>>
+hyper: [[file:noun.communication.org::graph]]
+g: a graph of an exponential function
+
+w: <<exponential_equation>>
+hyper: [[file:noun.communication.org::equation]]
+g: an equation involving exponential functions of a variable
+
+w: <<exponential_expression>>
+hyper: [[file:noun.communication.org::formula]]
+g: a mathematical expression consisting of a constant (especially e) raised to some power
+
+w: <<exponential_series>>
+hyper: [[file:noun.cognition.org::series]]
+g: a series derived from the expansion of an exponential expression
+
+w: <<exponential>> drf [[file:adj.pert.org::exponential]]
+w: <<exponential_function>>
+hyper: [[function]]
+g: a function in which an independent variable appears as an exponent
+
+w: <<extraneousness>> drf [[file:adjs.all.org::extraneous2]] drf [[file:adjs.all.org::extraneous1]] drf [[file:adjs.all.org::extraneous]] drf [[file:adjs.all.org::extraneous]]
+hyper: [[unrelatedness]]
+g: unrelatedness by virtue of falling outside the matter at hand
+
+w: <<facial_index>>
+hyper: [[ratio1]]
+g: the ratio (in percent) of the maximum width to the maximum height of the face
+
+w: <<Fahrenheit_scale>>
+hyper: [[temperature_scale]]
+g: a temperature scale that defines the freezing point of water as 32 degrees and the boiling point of water a 212 degrees
+
+w: <<fatherhood>>
+w: <<paternity>> drf [[file:adjs.all.org::paternal]]
+hyper: [[kinship]]
+g: the kinship relation between an offspring and the father
+
+w: <<female_bonding>>
+hyper: [[bonding]]
+g: the formation of a close personal relationship between women
+
+w: <<fiduciary_relation>>
+hyper: [[legal_relation]]
+dt: [[file:noun.group.org::law]]
+g: the legal relation that exists when one person justifiably places reliance on another whose aid or protection is sought in some matter
+
+w: <<fielding_average>>
+hyper: [[average]]
+dt: [[file:noun.act.org::baseball]]
+g: (baseball) a measure of a fielder's performance; the number of assists and putouts divided by the number of chances
+
+w: <<fifteenth>> drf [[file:adjs.all.org::fifteenth]]
+hyper: [[file:noun.state.org::rank]]
+g: position 15 in a countable series of things
+
+w: <<fifth>> drf [[file:adjs.all.org::fifth]]
+hyper: [[file:noun.state.org::rank]]
+g: position five in a countable series of things; "he was fifth out of several hundred runners"
+
+w: <<fiftieth>> drf [[file:adjs.all.org::fiftieth]]
+hyper: [[file:noun.state.org::rank]]
+g: position 50 in a countable series of things
+
+w: <<figure_of_merit>>
+hyper: [[efficiency]]
+g: a numerical expression representing the efficiency of a given system, material, or procedure
+
+w: <<first>>
+w: <<number_one>>
+hyper: [[file:noun.state.org::rank]]
+g: the first or highest in an ordering or series; "He wanted to be the first"
+
+w: <<flip_side>>
+hyper: [[opposition2]]
+du: [[file:noun.communication.org::trope]]
+g: a different aspect of something (especially the opposite aspect); "the flip side of your positive qualities sometimes get out of control"; "on the flip side of partnerships he talked about their competition"
+
+w: <<focal_ratio>>
+w: <<f_number>>
+w: <<stop_number>>
+w: <<speed>>
+hyper: [[ratio1]]
+g: the ratio of the focal length to the diameter of a (camera) lens system
+
+w: <<footing>>
+w: <<basis>>
+w: <<ground>>
+hyper: [[foundation]]
+g: a relation that provides the foundation for something; "they were on a friendly footing"; "he worked on an interim basis"
+
+w: <<former>> ant [[latter]]
+hyper: [[first]]
+g: the first of two or the first mentioned of two; "Tom and Dick were both heroes but only the former is remembered today"
+
+w: <<fortieth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 40 in a countable series of things
+
+w: <<foundation>> drf [[file:verb.cognition.org::found]]
+hyper: [[file:noun.Tops.org::relation]]
+g: the basis on which something is grounded; "there is little foundation for his objections"
+
+w: <<fourteenth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 14 in a countable series of things
+
+w: <<fourth>>
+hyper: [[file:noun.state.org::rank]]
+g: following the third position; number four in a countable series
+
+w: <<frequency>>
+w: <<relative_frequency>>
+hyper: [[ratio1]]
+g: the ratio of the number of observations in a statistical category to the total number of observations
+
+w: <<frontage>> drf [[file:verb.stative.org::front]]
+hyper: [[direction]]
+g: the direction in which something (such as a building) faces
+
+w: <<function1>>
+hyper: [[file:noun.Tops.org::relation]]
+g: a relation such that one thing is dependent on another; "height is a function of age"; "price is a function of supply and demand"
+
+w: <<function>>
+w: <<mathematical_function>>
+w: <<single-valued_function>>
+w: <<map>> drf [[file:verb.change.org::map]]
+w: <<mapping>> drf [[file:verb.change.org::map]]
+hyper: [[mathematical_relation]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)
+
+w: <<future_perfect>>
+w: <<future_perfect_tense>>
+hyper: [[perfective1]]
+g: a perfective tense used to describe action that will be completed in the future; "`I will have finished' is an example of the future perfect"
+
+w: <<future_progressive>>
+w: <<future_progressive_tense>>
+hyper: [[progressive]]
+g: a progressive tense used to express action that will be on-going in the future; "`I will be running' is an example of the future progressive"
+
+w: <<gauge>> drf [[file:verb.change.org::gauge]]
+w: <<standard_of_measurement>>
+hyper: [[file:noun.communication.org::standard]]
+g: accepted or approved instance or example of a quantity or quality against which others are judged or measured or compared
+
+w: <<gender_agreement>>
+hyper: [[agreement3]]
+g: agreement in grammatical gender between words in the same construction
+
+w: <<germaneness>> drf [[file:adjs.all.org::germane]]
+hyper: [[applicability]]
+g: pertinence by virtue of a close relation to the matter at hand
+
+w: <<golden_section>>
+w: <<golden_mean>>
+hyper: [[proportion]]
+g: the proportional relation between two divisions of line or two dimension of a plane figure such that short : long :: long : (short + long)
+
+w: <<gradable_opposition>>
+hyper: [[opposition2]]
+g: an opposition that is capable of being graded
+
+w: <<gradient>>
+hyper: [[change]]
+g: a graded change in the magnitude of some physical quantity or dimension
+
+w: <<grammatical_relation>>
+hyper: [[linguistic_relation]]
+g: a linguistic relation established by grammar
+
+w: <<grass_roots>>
+hyper: [[foundation]]
+g: the essential foundation or source; "the problem was attacked at the grass roots"
+
+w: <<gravity_gradient>>
+hyper: [[gradient]]
+g: a gradient in the gravitational forces acting on different parts of a nonspherical object; "the gravity gradient of the moon causes the ocean tides on Earth"
+
+w: <<hematocrit>>
+w: <<haematocrit>>
+w: <<packed_cell_volume>>
+hyper: [[ratio1]]
+g: the ratio of the volume occupied by packed red blood cells to the volume of the whole blood as measured by a hematocrit
+
+w: <<highlight>> drf [[file:verb.change.org::highlight]]
+w: <<high_spot>>
+hyper: [[detail]]
+g: the most interesting or memorable part; "the highlight of the tour was our visit to the Vatican"
+
+w: <<holonymy>>
+w: <<whole_to_part_relation>>
+hyper: [[semantic_relation]]
+g: the semantic relation that holds between a whole and its parts
+
+w: <<homonymy>>
+hyper: [[linguistic_relation]]
+g: the relation between two words that are spelled the same way but differ in meaning or the relation between two words that are pronounced the same way but differ in meaning
+
+w: <<horizontal>> drf [[file:adj.all.org::horizontal]]
+hyper: [[orientation]]
+g: something that is oriented horizontally
+
+w: <<hospital_occupancy>>
+hyper: [[occupancy_rate]]
+g: occupancy rate for hospitals
+
+w: <<hotel_occupancy>>
+hyper: [[occupancy_rate]]
+g: occupancy rate for hotels
+
+w: <<hundredth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 100 in a countable series of things
+
+w: <<hypernymy>>
+w: <<superordination>>
+hyper: [[semantic_relation]]
+g: the semantic relation of being superordinate or belonging to a higher rank or class
+
+w: <<hyponymy>>
+w: <<subordination2>>
+hyper: [[semantic_relation]]
+g: the semantic relation of being subordinate or belonging to a lower rank or class
+
+w: <<identity1>>
+w: <<identity_element>>
+w: <<identity_operator>>
+hyper: [[operator]]
+g: an operator that leaves unchanged the element on which it operates; "the identity under numerical multiplication is 1"
+
+w: <<imaginative_comparison>>
+hyper: [[comparison]]
+g: the kind of mental comparison that is expressed in similes or metaphors or allegories
+
+w: <<immateriality>> drf [[file:adjs.all.org::immaterial]] drf [[file:adjs.all.org::immaterial]] drf [[file:adj.all.org::immaterial2]] ant [[materiality]]
+hyper: [[irrelevance]]
+g: complete irrelevance requiring no further consideration
+
+w: <<imperative_mood>>
+w: <<imperative>>
+w: <<jussive_mood>>
+w: <<imperative_form>>
+hyper: [[mood]]
+g: a mood that expresses an intention to influence the listener's behavior
+
+w: <<imperfective>>
+w: <<imperfective_aspect>>
+hyper: [[durative]]
+g: aspect without regard to the beginning or completion of the action of the verb
+
+w: <<implication>> drf [[file:verb.stative.org::imply2]] drf [[file:verb.stative.org::implicate1]]
+hyper: [[involvement]]
+g: a relation implicated by virtue of involvement or close connection (especially an incriminating involvement); "he was suspected of implication in several robberies"
+
+w: <<implication1>> drf [[file:adj.pert.org::implicational]] drf [[file:verb.communication.org::imply1]] drf [[file:verb.stative.org::implicate]]
+w: <<logical_implication>>
+w: <<conditional_relation>>
+hyper: [[logical_relation]]
+g: a logical relation between propositions p and q of the form `if p then q'; if p is true then q cannot be false
+
+w: <<inapplicability>> drf [[file:adjs.all.org::inapplicable]] ant [[applicability]]
+hyper: [[irrelevance]]
+g: irrelevance by virtue of being inapplicable to the matter at hand
+
+w: <<inchoative>>
+w: <<inchoative_aspect>>
+hyper: [[aspect]]
+g: aspect with regard to the beginning of the action of the verb
+
+w: <<incidence>>
+w: <<relative_incidence>>
+hyper: [[frequency]]
+g: the relative frequency of occurrence of something
+
+w: <<inclusion>>
+w: <<comprehension>> drf [[file:verb.stative.org::comprehend]]
+hyper: [[involvement]]
+g: the relation of comprising something; "he admired the inclusion of so many ideas in such a short work"
+
+w: <<incompatibility2>> drf [[file:adjs.all.org::incompatible]]
+w: <<mutual_exclusiveness>>
+w: <<inconsistency>>
+w: <<repugnance>> drf [[file:verb.communication.org::repugn]]
+hyper: [[contradictoriness]]
+g: the relation between propositions that cannot both be true at the same time
+
+w: <<index>> drf [[file:verb.cognition.org::index]]
+hyper: [[scale3]]
+g: a numerical scale used to compare variables with one another or with some reference number
+
+w: <<indicative_mood>>
+w: <<indicative>>
+w: <<declarative_mood>>
+w: <<declarative>> drf [[file:adj.pert.org::declarative]]
+w: <<common_mood>>
+w: <<fact_mood>>
+hyper: [[mood]]
+g: a mood (grammatically unmarked) that represents the act or state as an objective fact
+
+w: <<inflection>> drf [[file:adj.all.org::inflectional]] drf [[file:verb.communication.org::inflect1]]
+w: <<inflexion>> drf [[file:verb.communication.org::inflect1]]
+hyper: [[grammatical_relation]]
+g: a change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function
+
+w: <<intelligence_quotient>>
+w: <<IQ>>
+w: <<I.Q.>>
+hyper: [[ratio1]]
+g: a measure of a person's intelligence as indicated by an intelligence test; the ratio of a person's mental age to their chronological age (multiplied by 100)
 
 w: <<interrelation>> drf [[interrelationship]] drf [[file:verb.stative.org::interrelate]] drf [[file:verb.cognition.org::interrelate]]
 w: <<interrelationship>> drf [[interrelation]]
@@ -417,10 +918,803 @@ w: <<interrelatedness>> drf [[file:adjs.all.org::interrelated]]
 hyper: [[file:noun.Tops.org::relation]]
 g: mutual or reciprocal relation or relatedness; "interrelationships of animal structure and function"
 
-w: <<time_sharing>>
-hyper: [[sharing1]]
-dt: [[file:noun.cognition.org::computer_science]]
-g: (computer science) the use of a central computer by many users simultaneously
+w: <<interrogative_mood>>
+w: <<interrogative>>
+hyper: [[mood]]
+g: some linguists consider interrogative sentences to constitute a mood
+
+w: <<intransitivity>> drf [[file:adj.all.org::intransitive]] ant [[transitivity]]
+w: <<intransitiveness>> drf [[file:adj.all.org::intransitive]]
+hyper: [[grammatical_relation]]
+g: the grammatical relation created by an intransitive verb
+
+w: <<inverse_function>>
+hyper: [[function]]
+g: a function obtained by expressing the dependent variable of one function as the independent variable of another; f and g are inverse functions if f(x)=y and g(y)=x
+
+w: <<inverse2>>
+w: <<opposite4>>
+hyper: [[opposition2]]
+g: something inverted in sequence or character or effect; "when the direct approach failed he tried the inverse"
+
+w: <<involvement>> drf [[file:verb.stative.org::involve1]] drf [[file:verb.stative.org::involve]]
+hyper: [[connection]]
+g: a connection of inclusion or containment; "he escaped involvement in the accident"; "there was additional involvement of the liver and spleen"
+
+w: <<irrelevance>> drf [[file:adj.all.org::irrelevant]] ant [[relevance]]
+w: <<irrelevancy>> drf [[file:adj.all.org::irrelevant]]
+hyper: [[unconnectedness]]
+g: the lack of a relation of something to the matter at hand
+
+w: <<isometry>> drf [[file:adj.pert.org::isometric]]
+hyper: [[function]]
+g: a one-to-one mapping of one metric space into another metric space that preserves the distances between each pair of points; "the isometries of the cube"
+
+w: <<iterative>>
+w: <<iterative_aspect>>
+hyper: [[aspect]]
+g: the aspect of the verb that expresses the repetition of an action
+
+w: <<Kelvin_scale>>
+w: <<absolute_scale>>
+hyper: [[temperature_scale]]
+g: a temperature scale that defines absolute zero as 0 degrees; water freezes at 273.16 degrees and boils at 373.16 degrees
+
+w: <<kinship>> drf [[file:noun.person.org::kin]] drf [[file:noun.group.org::kin]]
+w: <<family_relationship>>
+w: <<relationship1>> drf [[file:noun.person.org::relation]] drf [[file:noun.Tops.org::relation]]
+hyper: [[file:noun.Tops.org::relation]]
+dt: [[file:noun.cognition.org::anthropology]]
+g: (anthropology) relatedness or connection by blood or marriage or adoption
+
+w: <<Kronecker_delta>>
+hyper: [[function]]
+g: a function of two variables i and j that equals 1 when i=j and equals 0 otherwise
+
+w: <<last>>
+hyper: [[file:noun.state.org::rank]]
+g: the last or lowest in an ordering or series; "he was the last to leave"; "he finished an inglorious last"
+
+w: <<latter>> ant [[former]]
+hyper: [[second]]
+g: the second of two or the second mentioned of two; "Tom and Dick were both heroes but only the latter is remembered today"
+
+w: <<lawyer-client_relation>>
+w: <<attorney-client_relation>>
+hyper: [[fiduciary_relation]]
+dt: [[file:noun.group.org::law]]
+g: the responsibility of a lawyer to act in the best interests of the client
+
+w: <<leeward>> ant [[windward]]
+hyper: [[direction]]
+g: the direction in which the wind is blowing
+
+w: <<leftover>>
+w: <<remnant>> drf [[file:verb.stative.org::remain5]]
+hyper: [[remainder]]
+g: a small part or portion that remains after the main part no longer exists
+
+w: <<legal_relation>>
+hyper: [[professional_relation]]
+dt: [[file:noun.group.org::law]]
+g: a professional relation that is regulated by law (as between a lawyer and a client)
+
+w: <<linear_operator>>
+hyper: [[operator]]
+g: an operator that obeys the distributive law: A(f+g) = Af + Ag (where f and g are functions)
+
+w: <<linguistic_relation>>
+hyper: [[file:noun.Tops.org::relation]]
+g: a relation between linguistic forms or constituents
+
+w: <<linkage>> drf [[file:verb.cognition.org::link]]
+hyper: [[connection]]
+g: an associative relation
+
+w: <<link>> drf [[file:verb.contact.org::link2]] drf [[file:verb.contact.org::link]]
+w: <<nexus>>
+hyper: [[linkage]]
+g: the means of connection between things linked in series
+
+w: <<load_factor>>
+hyper: [[ratio1]]
+dt: [[file:noun.cognition.org::aeronautics]]
+g: (aeronautics) the ratio of an external load to the weight of the aircraft (measured in g)
+
+w: <<loading>>
+hyper: [[ratio1]]
+g: the ratio of the gross weight of an airplane to some factor determining its lift
+
+w: <<logarithmic_scale>>
+hyper: [[scale3]]
+g: scale on which actual distances from the origin are proportional to the logarithms of the corresponding scale numbers
+
+w: <<logical_relation>>
+hyper: [[file:noun.Tops.org::relation]]
+dt: [[file:noun.cognition.org::logic]]
+g: a relation between propositions
+
+w: <<loss_ratio>>
+hyper: [[ratio1]]
+g: the ratio of the annual claims paid by an insurance company to the premiums received
+
+w: <<Mach_number>>
+hyper: [[ratio1]]
+g: the ratio of the speed of a moving body to the speed of sound
+
+w: <<magnification>> drf [[file:verb.change.org::magnify1]] drf [[file:verb.change.org::magnify]]
+hyper: [[ratio1]]
+g: the ratio of the size of an image to the size of the object
+
+w: <<magnitude_relation>>
+w: <<quantitative_relation>>
+hyper: [[file:noun.Tops.org::relation]]
+g: a relation between magnitudes
+
+w: <<male_bonding>>
+hyper: [[bonding]]
+g: the formation of a close personal relationship between men; "the rituals known as male bonding do not necessarily involve drinking beer together"
+
+w: <<marital_relationship>>
+w: <<marital_bed>>
+hyper: [[kinship]]
+g: the relationship between wife and husband
+
+w: <<materiality>> drf [[file:adj.all.org::material2]] ant [[immateriality]]
+hyper: [[relevance]]
+g: relevance requiring careful consideration
+
+w: <<maternal-infant_bonding>>
+hyper: [[bonding]]
+g: the attachment that forms between an infant and its mother beginning at birth; "maternal-infant bonding influences the child's psychological and physical development"
+
+w: <<mathematical_relation>>
+hyper: [[file:noun.Tops.org::relation]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: a relation between mathematical expressions (such as equality or inequality)
+
+w: <<matrilineage>>
+w: <<enation>>
+w: <<cognation1>>
+hyper: [[unilateral_descent]]
+g: line of descent traced through the maternal side of the family
+
+w: <<mechanical_advantage>>
+hyper: [[ratio1]]
+g: the ratio of the force exerted by a machine to the force applied to it
+
+w: <<medical_relation>>
+hyper: [[professional_relation]]
+g: the professional relation between a health care professional and a patient
+
+w: <<member>> drf [[file:noun.state.org::membership]] drf [[file:noun.group.org::membership]]
+hyper: [[part]]
+g: anything that belongs to a set or class; "snakes are members of the class Reptilia"; "members of the opposite sex"
+
+w: <<Mercalli_scale>>
+hyper: [[scale3]]
+dt: [[file:noun.cognition.org::geology]]
+g: a scale formerly used to describe the magnitude of an earthquake; an earthquake detected only by seismographs is a I and an earthquake that destroys all buildings is a XII
+
+w: <<meronymy>>
+w: <<part_to_whole_relation>>
+hyper: [[semantic_relation]]
+g: the semantic relation that holds between a part and the whole
+
+w: <<metric_function>>
+w: <<metric>>
+hyper: [[function]]
+dt: [[file:noun.cognition.org::mathematics]]
+dt: [[file:noun.cognition.org::physics]]
+g: a function of a topological space that gives, for any two points in the space, a value equal to the distance between them
+
+w: <<mileage>>
+w: <<fuel_consumption_rate>>
+w: <<gasoline_mileage>>
+w: <<gas_mileage>>
+hyper: [[ratio1]]
+g: the ratio of the number of miles traveled to the number of gallons of gasoline burned
+
+w: <<millionth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 1,000,000 in a countable series of things
+
+w: <<modality>>
+w: <<mode>>
+hyper: [[logical_relation]]
+g: a classification of propositions on the basis of whether they claim necessity or possibility or impossibility
+
+w: <<modification>> drf [[file:verb.change.org::modify1]]
+w: <<qualifying>> drf [[file:verb.change.org::qualify1]]
+w: <<limiting>>
+hyper: [[grammatical_relation]]
+g: the grammatical relation that exists when a word qualifies the meaning of the phrase
+
+w: <<Mohs_scale>>
+hyper: [[scale3]]
+g: a scale of hardness of solids; talc is 0 and diamond is 10; ordering is determined by which substance can scratch another substance
+
+w: <<moment_magnitude_scale>>
+hyper: [[scale3]]
+dt: [[file:noun.cognition.org::geology]]
+g: a logarithmic scale of 1 to 10 (a successor to the Richter scale) that enables seismologists to compare the energy released by different earthquakes on the basis of the area of the geological fault that ruptured in the quake
+
+w: <<mood>>
+w: <<mode2>> drf [[file:adj.pert.org::modal]]
+w: <<modality1>> drf [[file:adj.pert.org::modal]]
+hyper: [[grammatical_relation]]
+g: verb inflections that express how the action or state is conceived by the speaker
+
+w: <<morbidity>>
+hyper: [[incidence]]
+g: the relative incidence of a particular disease
+
+w: <<motherhood>> drf [[file:noun.person.org::mother]]
+w: <<maternity>>
+hyper: [[kinship]]
+g: the kinship relation between an offspring and the mother
+
+w: <<multiplicative_inverse>>
+w: <<reciprocal>>
+hyper: [[inverse2]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) one of a pair of numbers whose product is 1: the reciprocal of 2/3 is 3/2; the multiplicative inverse of 7 is 1/7
+
+w: <<mutual_opposition>>
+w: <<polarity1>> drf [[file:adjs.all.org::polar]]
+hyper: [[opposition2]]
+g: a relation between two opposite attributes or tendencies; "he viewed it as a balanced polarity between good and evil"
+
+w: <<mutual_understanding>>
+w: <<mutual_affection>>
+hyper: [[sympathy]]
+g: sympathy of each person for the other
+
+w: <<mutuality>> drf [[file:adjs.all.org::mutual]] drf [[file:adj.all.org::mutual]]
+w: <<interdependence>> drf [[file:adjs.all.org::interdependent]] drf [[file:verb.stative.org::interdepend]]
+w: <<interdependency>> drf [[file:adjs.all.org::interdependent]] drf [[file:verb.stative.org::interdepend]]
+hyper: [[reciprocality]]
+g: a reciprocal relation between interdependent entities (objects or individuals or groups)
+
+w: <<mutuality1>> drf [[file:adjs.all.org::mutual]] drf [[file:adj.all.org::mutual]]
+w: <<mutualness>> drf [[file:adjs.all.org::mutual]]
+hyper: [[reciprocality]]
+g: a reciprocality of sentiments; "the mutuality of their affection was obvious"
+
+w: <<negativity>> ant [[positivity]]
+w: <<negativeness>> ant [[positiveness]]
+hyper: [[polarity]]
+g: the character of the negative electric pole
+
+w: <<nineteenth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 19 in a countable series of things
+
+w: <<ninetieth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 90 in a countable series of things
+
+w: <<ninth>>
+hyper: [[file:noun.state.org::rank]]
+g: position nine in a countable series of things; "going into the ninth they were a run ahead"
+
+w: <<norm>>
+hyper: [[file:noun.communication.org::standard]]
+g: a standard or model or pattern regarded as typical; "the current middle-class norm of two children per family"
+
+w: <<north2>>
+hyper: [[direction]]
+g: the direction corresponding to the northward cardinal compass point
+
+w: <<north_by_east>>
+w: <<NbE>>
+hyper: [[compass_point]]
+g: the compass point that is one point east (clockwise) of due north
+
+w: <<north_by_west>>
+w: <<NbW>>
+hyper: [[compass_point]]
+g: the compass point that is one point west of due north
+
+w: <<north_northeast>>
+w: <<nor'-nor'-east>>
+w: <<NNE>>
+hyper: [[compass_point]]
+g: the compass point that is midway between north and northeast
+
+w: <<north_northwest>>
+w: <<nor'-nor'-west>>
+w: <<NNW>>
+hyper: [[compass_point]]
+g: the compass point that is midway between north and northwest
+
+w: <<north>>
+w: <<due_north>>
+w: <<northward>>
+w: <<N>>
+hyper: [[cardinal_compass_point]]
+g: the cardinal compass point that is at 0 or 360 degrees
+
+w: <<northeast2>>
+hyper: [[direction]]
+g: the direction corresponding to the northeastward compass point
+
+w: <<northeast_by_east>>
+w: <<NEbE>>
+hyper: [[compass_point]]
+g: the compass point that is one point east of northeast
+
+w: <<northeast_by_north>>
+w: <<NEbN>>
+hyper: [[compass_point]]
+g: the compass point that is one point north of northeast
+
+w: <<northeast>>
+w: <<nor'-east>>
+w: <<northeastward>>
+w: <<NE>>
+hyper: [[compass_point]]
+g: the compass point midway between north and east; at 45 degrees
+
+w: <<north1>>
+w: <<magnetic_north>>
+w: <<compass_north>>
+hyper: [[direction]]
+g: the direction in which a compass needle points
+
+w: <<northwest2>>
+hyper: [[direction]]
+g: the direction corresponding to the northwestward compass point
+
+w: <<northwest_by_north>>
+w: <<NWbN>>
+hyper: [[compass_point]]
+g: the compass point that is one point north of northwest
+
+w: <<northwest_by_west>>
+w: <<NWbW>>
+hyper: [[compass_point]]
+g: the compass point that is one point west of northwest
+
+w: <<northwest>>
+w: <<nor'-west>>
+w: <<northwestward>>
+w: <<NW>>
+hyper: [[compass_point]]
+g: the compass point midway between north and west; at 315 degrees
+
+w: <<number_agreement>>
+hyper: [[agreement3]]
+g: agreement in number between words in the same grammatical construction (e.g., between adjectives and the nouns they modify)
+
+w: <<nurse-patient_relation>>
+hyper: [[medical_relation]]
+g: the responsibility of a nurse to act in the best interests of the patient
+
+w: <<obligation>> drf [[file:verb.communication.org::oblige1]]
+w: <<indebtedness>> drf [[file:adjs.all.org::indebted1]]
+hyper: [[personal_relation]]
+g: a personal relation in which one is indebted for a service or favor
+
+w: <<occupancy_rate>>
+hyper: [[percentage]]
+g: the percentage of all rental units (as in hotels) are occupied or rented at a given time
+
+w: <<oddness>> drf [[file:adj.all.org::odd]]
+hyper: [[parity]]
+g: the parity of odd numbers (not divisible by two)
+
+w: <<odds>>
+w: <<betting_odds>>
+hyper: [[ratio1]]
+g: the ratio by which one better's wager is greater than that of another; "he offered odds of two to one"
+
+w: <<operator>>
+hyper: [[function]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) a symbol or function representing a mathematical operation
+
+w: <<opposition>>
+hyper: [[direction]]
+g: a direction opposite to another
+
+w: <<opposition2>>
+w: <<oppositeness>> drf [[file:adjs.all.org::opposite2]] drf [[file:adjs.all.org::opposite]]
+hyper: [[file:noun.Tops.org::relation]]
+g: the relation between opposed entities
+
+w: <<optative_mood>>
+w: <<optative>>
+hyper: [[mood]]
+dr: [[file:noun.location.org::Greece]]
+dt: [[file:noun.communication.org::Sanskrit]]
+g: a mood (as in Greek or Sanskrit) that expresses a wish or hope; expressed in English by modal verbs
+
+w: <<order_of_magnitude>>
+w: <<magnitude>>
+hyper: [[ratio1]]
+g: a number assigned to the ratio of two quantities; two quantities are of the same order of magnitude if one is less than 10 times as large as the other; the number of magnitudes that the quantities differ is specified to within a power of 10
+
+w: <<orientation>>
+hyper: [[direction]]
+attr: [[file:adj.all.org::horizontal]]
+attr: [[file:adj.all.org::vertical]]
+attr: [[file:adj.all.org::inclined1]]
+g: position or alignment relative to points of the compass or other specific directions
+
+w: <<orthogonality>>
+w: <<perpendicularity>> drf [[file:adj.all.org::perpendicular4]] drf [[file:adj.all.org::perpendicular]]
+w: <<orthogonal_opposition>>
+hyper: [[opposition]]
+g: the relation of opposition between things at right angles
+
+w: <<output-to-input_ratio>>
+hyper: [[ratio1]]
+hp: [[file:noun.attribute.org::frequency_response]]
+g: the output power of a transducer divided by the input power
+
+w: <<paradigm>> drf [[file:adj.pert.org::paradigmatic1]]
+hyper: [[inflection]]
+g: systematic arrangement of all the inflected forms of a word
+
+w: <<parasitism>>
+hyper: [[mutuality]]
+g: the relation between two different kinds of organisms in which one receives benefits from the other by causing damage to it (usually not fatal damage)
+
+w: <<parentage>> drf [[file:verb.social.org::parent]]
+w: <<birth>>
+hyper: [[kinship]]
+g: the kinship relation of an offspring to the parents
+
+w: <<parity>>
+hyper: [[mathematical_relation]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) a relation between a pair of integers: if both integers are odd or both are even they have the same parity; if one is odd and the other is even they have different parity; "parity is often used to check the integrity of transmitted data"
+
+w: <<partner_relation>>
+hyper: [[fiduciary_relation]]
+dt: [[file:noun.group.org::law]]
+g: the responsibility of partners to act in one another's best interests
+
+w: <<partnership>>
+hyper: [[relationship]]
+g: a cooperative relationship between people or groups who agree to share responsibility for achieving some specific goal; "effective language learning is a partnership between school, teacher and student"; "the action teams worked in partnership with the government"
+
+w: <<part>> drf [[file:adjs.all.org::partial]]
+w: <<portion>>
+w: <<component_part>>
+w: <<component>>
+w: <<constituent>>
+hyper: [[file:noun.Tops.org::relation]]
+hp: [[meronymy]]
+g: something determined in relation to something that includes it; "he wanted to feel a part of something bigger than himself"; "I read a portion of the manuscript"; "the smaller component is hard to reach"; "the animal constituent of plankton"
+
+w: <<passive_voice>> ant [[active_voice]]
+w: <<passive>> drf [[file:adj.all.org::passive2]]
+hyper: [[voice]]
+g: the voice used to indicate that the grammatical subject of the verb is the recipient (not the source) of the action denoted by the verb; "`The ball was thrown by the boy' uses the passive voice"; "`The ball was thrown' is an abbreviated passive"
+
+w: <<past_perfect>>
+w: <<past_perfect_tense>>
+w: <<pluperfect>>
+w: <<pluperfect_tense>>
+hyper: [[perfective1]]
+g: a perfective tense used to express action completed in the past; "`I had finished' is an example of the past perfect"
+
+w: <<past_progressive>>
+w: <<past_progressive_tense>>
+hyper: [[progressive]]
+g: a progressive tense used to describe on-going action in the past; "`I had been running' is an example of the past progressive"
+
+w: <<patrilineage>>
+w: <<agnation>>
+hyper: [[unilateral_descent]]
+g: line of descent traced through the paternal side of the family
+
+w: <<percentage>>
+w: <<percent>>
+w: <<per_centum>>
+w: <<pct>>
+hyper: [[proportion]]
+g: a proportion in relation to a whole (which is usually the amount per hundred)
+
+w: <<perfective>>
+w: <<perfective_aspect>>
+hyper: [[aspect]]
+g: the aspect of a verb that expresses a completed action
+
+w: <<perfective1>>
+w: <<perfective_tense>>
+w: <<perfect>>
+w: <<perfect_tense>>
+hyper: [[file:noun.communication.org::tense]]
+g: a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)
+
+w: <<person_agreement>>
+hyper: [[agreement3]]
+g: agreement in person between pronouns and verbs
+
+w: <<personal_relation>>
+w: <<personal_relationship>>
+hyper: [[relationship]]
+g: a relation between persons
+
+w: <<pluralization>> drf [[file:verb.communication.org::pluralize]]
+w: <<pluralisation>> drf [[file:verb.communication.org::pluralise]]
+hyper: [[inflection]]
+g: the act of pluralizing or attributing plurality to
+
+w: <<point4>>
+hyper: [[relevance]]
+g: a style in speech or writing that arrests attention and has a penetrating or convincing quality or effect
+
+w: <<polar_opposition>>
+hyper: [[gradable_opposition]]
+g: an opposition that can be graded between two extremes or poles
+
+w: <<polarity>> drf [[file:adjs.all.org::polar]]
+w: <<sign>>
+hyper: [[opposition2]]
+g: having an indicated pole (as the distinction between positive and negative electric charges); "he got the polarity of the battery reversed"; "charges of opposite sign"
+
+w: <<politics>> drf [[file:noun.person.org::politician1]] drf [[file:noun.person.org::politician]]
+w: <<political_relation>>
+hyper: [[file:noun.Tops.org::social_relation]]
+g: social relations involving intrigue to gain authority or power; "office politics is often counterproductive"
+
+w: <<positivity>> ant [[negativity]]
+w: <<positiveness>> ant [[negativeness]]
+hyper: [[polarity]]
+g: the character of the positive electric pole
+
+w: <<power_loading>>
+hyper: [[loading]]
+g: the ratio of the weight of an airplane to its engine power
+
+w: <<present_perfect>>
+w: <<present_perfect_tense>>
+hyper: [[perfective1]]
+g: a perfective tense used to express action completed in the present; "`I have finished' is an example of the present perfect"
+
+w: <<present_progressive>>
+w: <<present_progressive_tense>>
+hyper: [[progressive]]
+g: a tense used to express action that is on-going at the time of utterance
+
+w: <<preterit>>
+w: <<preterite>>
+hyper: [[file:noun.communication.org::past]]
+g: a term formerly used to refer to the simple past tense
+
+w: <<prevalence>>
+hyper: [[ratio1]]
+dt: [[file:noun.cognition.org::epidemiology]]
+g: (epidemiology) the ratio (for a given time period) of the number of occurrences of a disease or event to the number of units at risk in the population
+
+w: <<price-to-earnings_ratio>>
+w: <<P/E_ratio>>
+hyper: [[ratio1]]
+dt: [[file:noun.artifact.org::stock_exchange]]
+g: (stock market) the price of a stock divided by its earnings
+
+w: <<price_war>>
+w: <<price_competition>>
+hyper: [[competition1]]
+g: intense competition in which competitors cut retail prices to gain business
+
+w: <<productivity>>
+hyper: [[ratio1]]
+dt: [[file:noun.cognition.org::economics]]
+g: (economics) the ratio of the quantity and quality of units produced to the labor per unit of time
+
+w: <<professional_relation>>
+hyper: [[file:noun.Tops.org::social_relation]]
+g: the relation that exists when one person requests and is granted professional help from a qualified source
+
+w: <<progressive_aspect>>
+hyper: [[durative]]
+g: the aspect of a verb that expresses its on-going action
+
+w: <<progressive>>
+w: <<progressive_tense>>
+w: <<imperfect>>
+w: <<imperfect_tense>>
+w: <<continuous_tense>>
+hyper: [[file:noun.communication.org::tense]]
+g: a tense of verbs used in describing action that is on-going
+
+w: <<proportion>> drf [[file:verb.change.org::proportion]]
+hyper: [[quotient]]
+g: the quotient obtained when the magnitude of a part is divided by the magnitude of the whole
+
+w: <<proportionality>> drf [[file:adjs.all.org::proportional1]]
+hyper: [[ratio1]]
+g: a ratio of two quantities that is constant
+
+w: <<proportion1>>
+w: <<ratio>>
+hyper: [[magnitude_relation]]
+g: the relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree; "an inordinate proportion of the book is given over to quotations"; "a dry martini has a large proportion of gin"
+
+w: <<psychodynamics>>
+hyper: [[interrelation]]
+g: the interrelation of conscious and unconscious processes and emotions that determine personality and motivation
+
+w: <<quarter>>
+hyper: [[orientation]]
+g: one of the four major division of the compass; "the wind is coming from that quarter"
+
+w: <<quotient>>
+hyper: [[ratio1]]
+g: the ratio of two quantities to be divided
+
+w: <<Rankine_scale>>
+hyper: [[temperature_scale]]
+g: a scale of absolute temperature in Fahrenheit degrees; the freezing point of water is 491.69 degrees and the boiling point of water is 671.69 degrees
+
+w: <<rapport>>
+w: <<resonance>> drf [[file:verb.cognition.org::resonate]]
+hyper: [[affinity3]]
+g: a relationship of mutual understanding or trust and agreement between people
+
+w: <<rate>>
+hyper: [[proportion]]
+g: a quantity or amount or measure considered as a proportion of another quantity or amount or measure; "the literacy rate"; "the retention rate"; "the dropout rate"
+
+w: <<ratio1>>
+hyper: [[magnitude_relation]]
+g: the relative magnitudes of two quantities (usually expressed as a quotient)
+
+w: <<Reaumur_scale>>
+hyper: [[temperature_scale]]
+g: a temperature scale on which water freezes at 0 degrees and boils at 80 degrees
+
+w: <<receiver-creditor_relation>>
+hyper: [[fiduciary_relation]]
+dt: [[file:noun.group.org::law]]
+g: the responsibility of receiver or trustee in bankruptcy to act in the best interests of the creditor
+
+w: <<reciprocal1>>
+hyper: [[reciprocality]]
+g: something (a term or expression or concept) that has a reciprocal relation to something else; "risk is the reciprocal of safety"
+
+w: <<reciprocality>> drf [[file:adj.all.org::reciprocal]]
+w: <<reciprocity>> drf [[file:adj.all.org::reciprocal]]
+hyper: [[file:noun.Tops.org::relation]]
+g: a relation of mutual dependence or action or influence
+
+w: <<reflection>>
+hyper: [[transformation]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) a transformation in which the direction of one axis is reversed
+
+w: <<reflexivity>>
+w: <<reflexiveness>>
+hyper: [[coreference]]
+g: the coreferential relation between a reflexive pronoun and its antecedent
+
+w: <<reflexivity1>> drf [[file:adjs.all.org::reflexive]]
+w: <<reflexiveness1>> drf [[file:adjs.all.org::reflexive]]
+hyper: [[logical_relation]]
+hyper: [[mathematical_relation]]
+dt: [[file:noun.cognition.org::logic]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (logic and mathematics) a relation such that it holds between an element and itself
+
+w: <<refractive_index>>
+w: <<index_of_refraction>>
+hyper: [[ratio1]]
+g: the ratio of the velocity of light in a vacuum to that in a medium
+
+w: <<relatedness>> drf [[file:adj.all.org::related2]] drf [[file:adj.all.org::related1]] ant [[unrelatedness]]
+hyper: [[connection]]
+g: a particular manner of connectedness; "the relatedness of all living things"
+
+w: <<relations>>
+w: <<dealings>> drf [[file:verb.social.org::deal4]]
+hyper: [[file:noun.Tops.org::social_relation]]
+g: mutual dealings or connections or communications among persons or groups
+
+w: <<relationship>> drf [[file:noun.person.org::relation]] drf [[file:noun.Tops.org::relation]]
+w: <<human_relationship>>
+hyper: [[file:noun.Tops.org::relation]]
+g: a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness); "the relationship between mothers and their children"
+
+w: <<relative_humidity>>
+hyper: [[ratio1]]
+g: the ratio of the amount of water in the air at a give temperature to the maximum amount it could hold at that temperature; expressed as a percentage
+
+w: <<relevance>> drf [[file:adj.all.org::relevant]] ant [[irrelevance]]
+w: <<relevancy>> drf [[file:adj.all.org::relevant]]
+hyper: [[connection]]
+g: the relation of something to the matter at hand
+
+w: <<remainder>> drf [[file:verb.possession.org::remainder]] drf [[file:verb.stative.org::remain5]]
+w: <<balance>>
+w: <<residual>> drf [[file:adj.pert.org::residual]]
+w: <<residue>> drf [[file:adj.pert.org::residuary]] drf [[file:adj.pert.org::residual]]
+w: <<residuum>>
+w: <<rest>>
+hyper: [[part]]
+g: something left after other parts have been taken away; "there was no remainder"; "he threw away the rest"; "he took what he wanted and I got the balance"
+
+w: <<respiratory_quotient>>
+hyper: [[ratio1]]
+g: the ratio of the volume of carbon dioxide expired to the volume of oxygen consumed by an organism or cell in a given period of time
+
+w: <<restrictiveness>>
+hyper: [[modification]]
+g: a grammatical qualification that makes the meaning more specific (`red hat' has a more specific meaning than `hat')
+
+w: <<reverse>> drf [[file:adjs.all.org::reverse2]] drf [[file:verb.communication.org::reverse]] drf [[file:verb.change.org::reverse]]
+w: <<contrary1>>
+w: <<opposite3>>
+hyper: [[opposition2]]
+g: a relation of direct opposition; "we thought Sue was older than Bill but just the reverse was true"
+
+w: <<Richter_scale>>
+hyper: [[scale3]]
+dt: [[file:noun.cognition.org::geology]]
+g: a logarithmic scale of 1 to 10 formerly used to express the magnitude of an earthquake on the basis of the size of seismograph oscillations
+
+w: <<rotation>>
+hyper: [[transformation]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) a transformation in which the coordinate axes are rotated by a fixed angle about the origin
+
+w: <<safety_factor>>
+w: <<factor_of_safety>>
+hyper: [[ratio1]]
+g: the ratio of the breaking stress of a structure to the estimated maximum stress in ordinary use
+
+w: <<scale1>> drf [[file:verb.change.org::scale1]] drf [[file:verb.creation.org::scale]]
+hyper: [[proportion]]
+g: the ratio between the size of something and a representation of it; "the scale of the map"; "the scale of the model"
+
+w: <<scale>>
+hyper: [[magnitude_relation]]
+g: relative magnitude; "they entertained on a grand scale"
+
+w: <<scale3>> drf [[file:verb.change.org::scale1]] drf [[file:verb.creation.org::scale]]
+w: <<scale_of_measurement>>
+w: <<graduated_table>>
+w: <<ordered_series>>
+hyper: [[file:noun.communication.org::standard]]
+g: an ordered reference standard; "judging on a scale of 1 to 10"
+
+w: <<seaward>>
+hyper: [[direction]]
+g: the direction toward the sea
+
+w: <<secant>>
+w: <<sec>>
+hyper: [[trigonometric_function]]
+g: ratio of the hypotenuse to the adjacent side of a right-angled triangle
+
+w: <<second>> drf [[file:adjs.all.org::second]]
+hyper: [[file:noun.state.org::rank]]
+g: following the first in an ordering or series; "he came in a close second"
+
+w: <<semantic_relation>>
+hyper: [[linguistic_relation]]
+g: a relation between meanings
+
+w: <<series>> drf [[file:adjs.all.org::serial]]
+hyper: [[connection]]
+dt: [[file:noun.cognition.org::electronics]]
+g: (electronics) connection of components in such a manner that current flows first through one and then through the other; "the voltage divider consisted of a series of fixed resistors"
+
+w: <<seventeenth>> drf [[file:adjs.all.org::seventeenth]]
+hyper: [[file:noun.state.org::rank]]
+g: position 17 in a countable series of things
+
+w: <<seventh>> drf [[file:adjs.all.org::seventh]]
+hyper: [[file:noun.state.org::rank]]
+g: position seven in a countable series of things
+
+w: <<seventieth>> drf [[file:adjs.all.org::seventieth]]
+hyper: [[file:noun.state.org::rank]]
+g: position 70 in a countable series of things
 
 w: <<sharing1>> drf [[file:verb.possession.org::share2]]
 hyper: [[mutuality]]
@@ -430,300 +1724,69 @@ w: <<sharing>> drf [[file:verb.stative.org::share]]
 hyper: [[mutuality]]
 g: having in common; "the sharing of electrons creates molecules"
 
-w: <<reciprocal1>>
-hyper: [[reciprocality]]
-g: something (a term or expression or concept) that has a reciprocal relation to something else; "risk is the reciprocal of safety"
+w: <<signal-to-noise_ratio>>
+w: <<signal-to-noise>>
+w: <<signal/noise_ratio>>
+w: <<signal/noise>>
+w: <<S/N>>
+hyper: [[ratio1]]
+g: the ratio of signal intensity to noise intensity
 
-w: <<mutuality1>> drf [[file:adjs.all.org::mutual]] drf [[file:adj.all.org::mutual]]
-w: <<mutualness>> drf [[file:adjs.all.org::mutual]]
-hyper: [[reciprocality]]
-g: a reciprocality of sentiments; "the mutuality of their affection was obvious"
+w: <<silver_cord>>
+hyper: [[alliance]]
+g: the emotional bond between a mother and her offspring
 
-w: <<multiplicative_inverse>>
-w: <<reciprocal>>
-hyper: [[inverse2]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) one of a pair of numbers whose product is 1: the reciprocal of 2/3 is 3/2; the multiplicative inverse of 7 is 1/7
+w: <<sine>>
+w: <<sin>>
+hyper: [[trigonometric_function]]
+g: ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle
 
-w: <<additive_inverse>>
-hyper: [[inverse2]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) one of a pair of numbers whose sum is zero; the additive inverse of -5 is +5
+w: <<sisterhood>> drf [[file:noun.person.org::sister]]
+w: <<sistership>>
+hyper: [[kinship]]
+g: the kinship relation between a female offspring and the siblings
 
-w: <<trophobiosis>>
-hyper: [[symbiosis]]
-g: a symbiotic relation in which one organism protects the other in return for some kind of food product
+w: <<sixteenth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 16 in a countable series of things
 
-w: <<symbiosis>> drf [[file:adjs.all.org::symbiotic]]
-w: <<mutualism>>
-hyper: [[mutuality]]
-g: the relation between two different species of organisms that are interdependent; each gains benefits from the other
+w: <<sixth>>
+hyper: [[file:noun.state.org::rank]]
+g: position six in a countable series of things
 
-w: <<parasitism>>
-hyper: [[mutuality]]
-g: the relation between two different kinds of organisms in which one receives benefits from the other by causing damage to it (usually not fatal damage)
+w: <<sixtieth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 60 in a countable series of things
 
-w: <<commensalism>>
-hyper: [[mutuality]]
-g: the relation between two different kinds of organisms when one receives benefits from the other without damaging it
-
-w: <<mutuality>> drf [[file:adjs.all.org::mutual]] drf [[file:adj.all.org::mutual]]
-w: <<interdependence>> drf [[file:adjs.all.org::interdependent]] drf [[file:verb.stative.org::interdepend]]
-w: <<interdependency>> drf [[file:adjs.all.org::interdependent]] drf [[file:verb.stative.org::interdepend]]
-hyper: [[reciprocality]]
-g: a reciprocal relation between interdependent entities (objects or individuals or groups)
-
-w: <<correlation>> drf [[file:adj.pert.org::correlational]] drf [[file:verb.stative.org::correlate]] drf [[file:verb.cognition.org::correlate]]
-w: <<correlativity>> drf [[file:adjs.all.org::correlative]] drf [[file:adjs.all.org::correlative]]
-hyper: [[reciprocality]]
-g: a reciprocal relation between two or more things
-
-w: <<complementarity2>>
-hyper: [[reciprocality]]
-g: the interrelation of reciprocity whereby one thing supplements or depends on the other; "the complementarity of the sexes"
-
-w: <<reciprocality>> drf [[file:adj.all.org::reciprocal]]
-w: <<reciprocity>> drf [[file:adj.all.org::reciprocal]]
-hyper: [[file:noun.Tops.org::relation]]
-g: a relation of mutual dependence or action or influence
-
-w: <<chemistry>>
-w: <<interpersonal_chemistry>>
-w: <<alchemy>>
-hyper: [[file:noun.Tops.org::social_relation]]
-g: the way two individuals relate to each other; "their chemistry was wrong from the beginning -- they hated each other"; "a mysterious alchemy brought them together"
-
-w: <<politics>> drf [[file:noun.person.org::politician1]] drf [[file:noun.person.org::politician]]
-w: <<political_relation>>
-hyper: [[file:noun.Tops.org::social_relation]]
-g: social relations involving intrigue to gain authority or power; "office politics is often counterproductive"
-
-w: <<teacher-student_relation>>
-hyper: [[academic_relation]]
-g: the academic relation between teachers and their students
-
-w: <<academic_relation>>
-hyper: [[professional_relation]]
-g: a professional relation between instructors and those they instruct
-
-w: <<trustee-beneficiary_relation>>
-hyper: [[fiduciary_relation]]
-dt: [[file:noun.group.org::law]]
-g: the responsibility of a trustee to act in the best interests of the beneficiary
-
-w: <<receiver-creditor_relation>>
-hyper: [[fiduciary_relation]]
-dt: [[file:noun.group.org::law]]
-g: the responsibility of receiver or trustee in bankruptcy to act in the best interests of the creditor
-
-w: <<partner_relation>>
-hyper: [[fiduciary_relation]]
-dt: [[file:noun.group.org::law]]
-g: the responsibility of partners to act in one another's best interests
-
-w: <<lawyer-client_relation>>
-w: <<attorney-client_relation>>
-hyper: [[fiduciary_relation]]
-dt: [[file:noun.group.org::law]]
-g: the responsibility of a lawyer to act in the best interests of the client
-
-w: <<executor-heir_relation>>
-hyper: [[fiduciary_relation]]
-dt: [[file:noun.group.org::law]]
-g: the responsibility of an executor (or administrator) of an estate to act in the best interests of the heir
-
-w: <<director-stockholder_relation>>
-hyper: [[fiduciary_relation]]
-dt: [[file:noun.group.org::law]]
-g: the responsibility of corporate directors to act in the best interests of stockholders
-
-w: <<conservator-ward_relation>>
-hyper: [[fiduciary_relation]]
-dt: [[file:noun.group.org::law]]
-g: the responsibility of a conservator to act in the best interests of the ward
-
-w: <<confidential_adviser-advisee_relation>>
-hyper: [[fiduciary_relation]]
-dt: [[file:noun.group.org::law]]
-g: the responsibility of a confidential adviser to act in the best interest of the advisee
-
-w: <<bank-depositor_relation>>
-hyper: [[fiduciary_relation]]
-dt: [[file:noun.group.org::law]]
-g: the responsibility of a bank to act in the best interests of the depositors
-
-w: <<fiduciary_relation>>
-hyper: [[legal_relation]]
-dt: [[file:noun.group.org::law]]
-g: the legal relation that exists when one person justifiably places reliance on another whose aid or protection is sought in some matter
-
-w: <<legal_relation>>
-hyper: [[professional_relation]]
-dt: [[file:noun.group.org::law]]
-g: a professional relation that is regulated by law (as between a lawyer and a client)
-
-w: <<nurse-patient_relation>>
-hyper: [[medical_relation]]
-g: the responsibility of a nurse to act in the best interests of the patient
-
-w: <<doctor-patient_relation>>
-hyper: [[medical_relation]]
-g: the responsibility of a physician to act in the best interests of the patient
-
-w: <<medical_relation>>
-hyper: [[professional_relation]]
-g: the professional relation between a health care professional and a patient
-
-w: <<professional_relation>>
-hyper: [[file:noun.Tops.org::social_relation]]
-g: the relation that exists when one person requests and is granted professional help from a qualified source
-
-w: <<clientage>>
-hyper: [[business_relation]]
-g: relation of a client to a patron
-
-w: <<price_war>>
-w: <<price_competition>>
-hyper: [[competition1]]
-g: intense competition in which competitors cut retail prices to gain business
-
-w: <<competition1>>
-hyper: [[business_relation]]
-g: a business relation in which two parties compete to gain customers; "business competition can be fiendish at times"
-
-w: <<business_relation>>
-hyper: [[file:noun.Tops.org::relation]]
-g: a relation between different business enterprises
-
-w: <<depression>>
-hyper: [[angular_position]]
-g: angular distance below the horizon (especially of a celestial object)
-
-w: <<elevation>>
-w: <<EL>>
-w: <<altitude>> drf [[file:adj.pert.org::altitudinal]]
-w: <<ALT>>
-hyper: [[angular_position]]
-g: angular distance above the horizon (especially of a celestial object)
-
-w: <<angular_position>>
-hyper: [[file:noun.attribute.org::position]]
-g: relation by which any position with respect to any other position is established
-
-w: <<northwest2>>
-hyper: [[direction]]
-g: the direction corresponding to the northwestward compass point
-
-w: <<west2>>
-hyper: [[direction]]
-g: the direction corresponding to the westward cardinal compass point
-
-w: <<southwest2>>
-hyper: [[direction]]
-g: the direction corresponding to the southwestward compass point
+w: <<sliding_scale>>
+hyper: [[wage_scale]]
+g: a wage scale that fluctuates in response to the cost-of-living index
 
 w: <<south2>>
 hyper: [[direction]]
 g: the direction corresponding to the southward cardinal compass point
 
-w: <<southeast2>>
-hyper: [[direction]]
-g: the direction corresponding to the southeastward compass point
-
-w: <<east2>>
-hyper: [[direction]]
-g: the direction corresponding to the eastward cardinal compass point
-
-w: <<northeast2>>
-hyper: [[direction]]
-g: the direction corresponding to the northeastward compass point
-
-w: <<north2>>
-hyper: [[direction]]
-g: the direction corresponding to the northward cardinal compass point
-
-w: <<north_by_west>>
-w: <<NbW>>
+w: <<south_by_east>>
+w: <<SbE>>
 hyper: [[compass_point]]
-g: the compass point that is one point west of due north
+g: the compass point that is one point east of due south
 
-w: <<north_northwest>>
-w: <<nor'-nor'-west>>
-w: <<NNW>>
+w: <<south_by_west>>
+w: <<SbW>>
 hyper: [[compass_point]]
-g: the compass point that is midway between north and northwest
+g: the compass point that is one point west of due south
 
-w: <<northwest_by_north>>
-w: <<NWbN>>
+w: <<south_southeast>>
+w: <<sou'-sou'-east>>
+w: <<SSE>>
 hyper: [[compass_point]]
-g: the compass point that is one point north of northwest
-
-w: <<northwest>>
-w: <<nor'-west>>
-w: <<northwestward>>
-w: <<NW>>
-hyper: [[compass_point]]
-g: the compass point midway between north and west; at 315 degrees
-
-w: <<northwest_by_west>>
-w: <<NWbW>>
-hyper: [[compass_point]]
-g: the compass point that is one point west of northwest
-
-w: <<west_northwest>>
-w: <<WNW>>
-hyper: [[compass_point]]
-g: the compass point midway between west and northwest
-
-w: <<west_by_north>>
-w: <<WbN>>
-hyper: [[compass_point]]
-g: the compass point that is one point north of due west
-
-w: <<west>>
-w: <<due_west>>
-w: <<westward>>
-w: <<W>>
-hyper: [[cardinal_compass_point]]
-g: the cardinal compass point that is a 270 degrees
-
-w: <<west_by_south>>
-w: <<WbS>>
-hyper: [[compass_point]]
-g: the compass point that is one point south of due west
-
-w: <<west_southwest>>
-w: <<WSW>>
-hyper: [[compass_point]]
-g: the compass point midway between west and southwest
-
-w: <<southwest_by_west>>
-w: <<SWbW>>
-hyper: [[compass_point]]
-g: the compass point that is one point west of southwest
-
-w: <<southwest>>
-w: <<sou'-west>>
-w: <<southwestward>>
-w: <<SW>>
-hyper: [[compass_point]]
-g: the compass point midway between south and west; at 225 degrees
-
-w: <<southwest_by_south>>
-w: <<SWbS>>
-hyper: [[compass_point]]
-g: the compass point that is one point south of southwest
+g: the compass point midway between south and southeast
 
 w: <<south_southwest>>
 w: <<sou'-sou'-west>>
 w: <<SSW>>
 hyper: [[compass_point]]
 g: the compass point midway between south and southwest
-
-w: <<south_by_west>>
-w: <<SbW>>
-hyper: [[compass_point]]
-g: the compass point that is one point west of due south
 
 w: <<south>>
 w: <<due_south>>
@@ -732,16 +1795,14 @@ w: <<S>>
 hyper: [[cardinal_compass_point]]
 g: the cardinal compass point that is at 180 degrees
 
-w: <<south_by_east>>
-w: <<SbE>>
-hyper: [[compass_point]]
-g: the compass point that is one point east of due south
+w: <<southeast2>>
+hyper: [[direction]]
+g: the direction corresponding to the southeastward compass point
 
-w: <<south_southeast>>
-w: <<sou'-sou'-east>>
-w: <<SSE>>
+w: <<southeast_by_east>>
+w: <<SEbE>>
 hyper: [[compass_point]]
-g: the compass point midway between south and southeast
+g: the compass point that is one point east of southeast
 
 w: <<southeast_by_south>>
 w: <<SEbS>>
@@ -755,104 +1816,149 @@ w: <<SE>>
 hyper: [[compass_point]]
 g: the compass point midway between south and east; at 135 degrees
 
-w: <<southeast_by_east>>
-w: <<SEbE>>
-hyper: [[compass_point]]
-g: the compass point that is one point east of southeast
-
-w: <<east_southeast>>
-w: <<ESE>>
-hyper: [[compass_point]]
-g: the compass point midway between east and southeast
-
-w: <<east_by_south>>
-w: <<EbS>>
-hyper: [[compass_point]]
-g: the compass point that is one point south of due east
-
-w: <<east>>
-w: <<due_east>>
-w: <<eastward>>
-w: <<E>>
-hyper: [[cardinal_compass_point]]
-g: the cardinal compass point that is at 90 degrees
-
-w: <<east_by_north>>
-w: <<EbN>>
-hyper: [[compass_point]]
-g: the compass point that is one point north of due east
-
-w: <<east_northeast>>
-w: <<ENE>>
-hyper: [[compass_point]]
-g: the compass point midway between northeast and east
-
-w: <<northeast_by_east>>
-w: <<NEbE>>
-hyper: [[compass_point]]
-g: the compass point that is one point east of northeast
-
-w: <<northeast>>
-w: <<nor'-east>>
-w: <<northeastward>>
-w: <<NE>>
-hyper: [[compass_point]]
-g: the compass point midway between north and east; at 45 degrees
-
-w: <<northeast_by_north>>
-w: <<NEbN>>
-hyper: [[compass_point]]
-g: the compass point that is one point north of northeast
-
-w: <<north_northeast>>
-w: <<nor'-nor'-east>>
-w: <<NNE>>
-hyper: [[compass_point]]
-g: the compass point that is midway between north and northeast
-
-w: <<north1>>
-w: <<magnetic_north>>
-w: <<compass_north>>
+w: <<southwest2>>
 hyper: [[direction]]
-g: the direction in which a compass needle points
+g: the direction corresponding to the southwestward compass point
 
-w: <<north_by_east>>
-w: <<NbE>>
+w: <<southwest_by_south>>
+w: <<SWbS>>
 hyper: [[compass_point]]
-g: the compass point that is one point east (clockwise) of due north
+g: the compass point that is one point south of southwest
 
-w: <<north>>
-w: <<due_north>>
-w: <<northward>>
-w: <<N>>
-hyper: [[cardinal_compass_point]]
-g: the cardinal compass point that is at 0 or 360 degrees
-
-w: <<cardinal_compass_point>>
+w: <<southwest_by_west>>
+w: <<SWbW>>
 hyper: [[compass_point]]
-g: one of the four main compass points
+g: the compass point that is one point west of southwest
 
-w: <<compass_point>>
-w: <<point>>
-hyper: [[direction]]
-g: any of 32 horizontal directions indicated on the card of a compass; "he checked the point on his compass"
+w: <<southwest>>
+w: <<sou'-west>>
+w: <<southwestward>>
+w: <<SW>>
+hyper: [[compass_point]]
+g: the compass point midway between south and west; at 225 degrees
 
-w: <<quarter>>
-hyper: [[orientation]]
-g: one of the four major division of the compass; "the wind is coming from that quarter"
+w: <<span_loading>>
+hyper: [[loading]]
+g: the ratio of the weight of an airplane to its wingspan
 
-w: <<seaward>>
-hyper: [[direction]]
-g: the direction toward the sea
+w: <<steprelationship>>
+hyper: [[affinity1]]
+g: a family relationship by virtue of remarriage
+
+w: <<stoichiometry>> drf [[file:adj.pert.org::stoichiometric]]
+hyper: [[ratio1]]
+dt: [[file:noun.cognition.org::chemistry]]
+g: (chemistry) the relation between the quantities of substances that take part in a reaction or form a compound (typically a ratio of whole integers)
+
+w: <<subjunctive_mood>>
+w: <<subjunctive>>
+hyper: [[mood]]
+g: a mood that represents an act or state (not as a fact but) as contingent or possible
+
+w: <<subordinating_conjunction>>
+hyper: [[conjunction2]]
+g: the subordination that occurs when a conjunction makes one linguistic unit a constituent of another
+
+w: <<subordination1>>
+hyper: [[grammatical_relation]]
+g: the grammatical relation of a modifying word or phrase to its head
+
+w: <<subpart>>
+hyper: [[part]]
+g: a part of a part
+
+w: <<symbiosis>> drf [[file:adjs.all.org::symbiotic]]
+w: <<mutualism>>
+hyper: [[mutuality]]
+g: the relation between two different species of organisms that are interdependent; each gains benefits from the other
+
+w: <<sympathy>> drf [[file:verb.emotion.org::sympathize1]] drf [[file:verb.emotion.org::sympathise1]] drf [[file:adjs.all.org::sympathetic]]
+hyper: [[affinity3]]
+g: a relation of affinity or harmony between people; whatever affects one correspondingly affects the other; "the two of them were in close sympathy"
+
+w: <<synchronism>> ant [[asynchronism]]
+w: <<synchrony>> drf [[file:adj.all.org::synchronic4]] drf [[file:adj.all.org::synchronous]] drf [[file:verb.stative.org::synchronize]] drf [[file:verb.communication.org::synchronize]] drf [[file:verb.cognition.org::synchronize]] drf [[file:verb.change.org::synchronize]] drf [[file:verb.stative.org::synchronise]] drf [[file:verb.cognition.org::synchronise]] drf [[file:verb.change.org::synchronise]]
+w: <<synchronicity>> drf [[file:adjs.all.org::synchronic2]] drf [[file:adj.all.org::synchronic4]]
+w: <<synchroneity>> drf [[file:adj.all.org::synchronous]]
+w: <<synchronization>> drf [[file:verb.stative.org::synchronize]] ant [[desynchronization]]
+w: <<synchronisation>> drf [[file:verb.stative.org::synchronise]]
+w: <<synchronizing>> drf [[file:verb.stative.org::synchronize]] ant [[desynchronizing]]
+hyper: [[temporal_relation]]
+g: the relation that exists when things occur at the same time; "the drug produces an increased synchrony of the brain waves"
+
+w: <<synonymy>> drf [[file:noun.person.org::synonymist]]
+w: <<synonymity>> drf [[file:adj.all.org::synonymous]]
+w: <<synonymousness>> drf [[file:adj.all.org::synonymous]]
+hyper: [[semantic_relation]]
+g: the semantic relation that holds between two words that can (in a given context) express the same meaning
+
+w: <<tangent>> drf [[file:adj.pert.org::tangential]]
+w: <<tan>>
+hyper: [[trigonometric_function]]
+g: ratio of the opposite to the adjacent side of a right-angled triangle
+
+w: <<teacher-student_relation>>
+hyper: [[academic_relation]]
+g: the academic relation between teachers and their students
+
+w: <<temperature_gradient>>
+hyper: [[gradient]]
+g: change in temperature as a function of distance (especially altitude)
+
+w: <<temperature_scale>>
+hyper: [[scale3]]
+hyper: [[file:noun.quantity.org::system_of_measurement]]
+g: a system of measuring temperature
+
+w: <<temporal_relation>>
+hyper: [[file:noun.Tops.org::relation]]
+attr: [[file:adj.all.org::preceding]]
+attr: [[file:adj.all.org::succeeding]]
+attr: [[file:adj.all.org::retrograde]]
+attr: [[file:adj.all.org::anterograde]]
+g: a relation involving time
+
+w: <<tenth>>
+hyper: [[file:noun.state.org::rank]]
+g: position ten in a countable series of things
+
+w: <<tertium_quid>>
+hyper: [[opposition2]]
+g: some third thing similar to two opposites but distinct from both
+
+w: <<third>>
+hyper: [[file:noun.state.org::rank]]
+g: following the second position in an ordering or series; "a distant third"; "he answered the first question willingly, the second reluctantly, and the third with resentment"
+
+w: <<thirteenth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 13 in a countable series of things
+
+w: <<thirtieth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 30 in a countable series of things
+
+w: <<thousandth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 1,000 in a countable series of things
+
+w: <<threshold_function>>
+hyper: [[function]]
+g: a function that takes the value 1 if a specified function of the arguments exceeds a given threshold and 0 otherwise
+
+w: <<time_constant>>
+hyper: [[ratio1]]
+g: the ratio of the inductance of a circuit in henries to its resistance in ohms
+
+w: <<time_sharing>>
+hyper: [[sharing1]]
+dt: [[file:noun.cognition.org::computer_science]]
+g: (computer science) the use of a central computer by many users simultaneously
 
 w: <<to_leeward>>
 w: <<leeward_side>>
 hyper: [[leeward]]
 g: the side sheltered from the wind
-
-w: <<leeward>> ant [[windward]]
-hyper: [[direction]]
-g: the direction in which the wind is blowing
 
 w: <<to_windward>>
 w: <<windward_side>>
@@ -861,808 +1967,10 @@ w: <<weather_side>>
 hyper: [[windward]]
 g: the side toward the wind
 
-w: <<windward>> ant [[leeward]]
-hyper: [[direction]]
-g: the direction from which the wind is coming
-
-w: <<enantiomorphism>>
-w: <<mirror-image_relation>>
-hyper: [[opposition]]
-g: the relation of opposition between crystals or molecules that are reflections of one another
-
-w: <<antipodal>> drf [[file:adj.pert.org::antipodal]]
-w: <<antipodal_opposition>>
-w: <<diametrical_opposition>>
-hyper: [[opposition]]
-g: the relation of opposition along a diameter
-
-w: <<orthogonality>>
-w: <<perpendicularity>> drf [[file:adj.all.org::perpendicular4]] drf [[file:adj.all.org::perpendicular]]
-w: <<orthogonal_opposition>>
-hyper: [[opposition]]
-g: the relation of opposition between things at right angles
-
-w: <<opposition>>
-hyper: [[direction]]
-g: a direction opposite to another
-
-w: <<vertical>> drf [[file:adj.all.org::vertical]]
-hyper: [[orientation]]
-g: something that is oriented vertically
-
-w: <<horizontal>> drf [[file:adj.all.org::horizontal]]
-hyper: [[orientation]]
-g: something that is oriented horizontally
-
-w: <<trim>> drf [[file:verb.stative.org::trim5]] drf [[file:verb.stative.org::trim6]]
-hyper: [[attitude]]
-g: attitude of an aircraft in flight when allowed to take its own orientation
-
-w: <<attitude>>
-hyper: [[orientation]]
-g: position of aircraft or spacecraft relative to a frame of reference (the horizon or direction of motion)
-
-w: <<orientation>>
-hyper: [[direction]]
-attr: [[file:adj.all.org::horizontal]]
-attr: [[file:adj.all.org::vertical]]
-attr: [[file:adj.all.org::inclined1]]
-g: position or alignment relative to points of the compass or other specific directions
-
-w: <<frontage>> drf [[file:verb.stative.org::front]]
-hyper: [[direction]]
-g: the direction in which something (such as a building) faces
-
-w: <<direction>>
-hyper: [[file:noun.attribute.org::position]]
-attr: [[file:adj.all.org::incoming]]
-attr: [[file:adj.all.org::outgoing]]
-g: the spatial relation between something and the course along which it points or moves; "he checked the direction and velocity of the wind"
-
-w: <<control>>
-hyper: [[file:noun.Tops.org::relation]]
-g: a relation of constraint of one entity (thing or person or group) by another; "measures for the control of disease"; "they instituted controls over drinking on campus"
-
-w: <<morbidity>>
-hyper: [[incidence]]
-g: the relative incidence of a particular disease
-
-w: <<incidence>>
-w: <<relative_incidence>>
-hyper: [[frequency]]
-g: the relative frequency of occurrence of something
-
-w: <<wing_loading>>
-hyper: [[loading]]
-g: the ratio of the weight of an airplane to its wing area
-
-w: <<span_loading>>
-hyper: [[loading]]
-g: the ratio of the weight of an airplane to its wingspan
-
-w: <<power_loading>>
-hyper: [[loading]]
-g: the ratio of the weight of an airplane to its engine power
-
-w: <<loading>>
-hyper: [[ratio1]]
-g: the ratio of the gross weight of an airplane to some factor determining its lift
-
-w: <<employee_turnover>>
-w: <<turnover_rate>>
-w: <<turnover>>
-hyper: [[ratio1]]
-g: the ratio of the number of workers that had to be replaced in a given time period to the average number of workers
-
-w: <<time_constant>>
-hyper: [[ratio1]]
-g: the ratio of the inductance of a circuit in henries to its resistance in ohms
-
-w: <<stoichiometry>> drf [[file:adj.pert.org::stoichiometric]]
-hyper: [[ratio1]]
-dt: [[file:noun.cognition.org::chemistry]]
-g: (chemistry) the relation between the quantities of substances that take part in a reaction or form a compound (typically a ratio of whole integers)
-
-w: <<signal-to-noise_ratio>>
-w: <<signal-to-noise>>
-w: <<signal/noise_ratio>>
-w: <<signal/noise>>
-w: <<S/N>>
-hyper: [[ratio1]]
-g: the ratio of signal intensity to noise intensity
-
-w: <<safety_factor>>
-w: <<factor_of_safety>>
-hyper: [[ratio1]]
-g: the ratio of the breaking stress of a structure to the estimated maximum stress in ordinary use
-
-w: <<respiratory_quotient>>
-hyper: [[ratio1]]
-g: the ratio of the volume of carbon dioxide expired to the volume of oxygen consumed by an organism or cell in a given period of time
-
-w: <<relative_humidity>>
-hyper: [[ratio1]]
-g: the ratio of the amount of water in the air at a give temperature to the maximum amount it could hold at that temperature; expressed as a percentage
-
-w: <<refractive_index>>
-w: <<index_of_refraction>>
-hyper: [[ratio1]]
-g: the ratio of the velocity of light in a vacuum to that in a medium
-
-w: <<quotient>>
-hyper: [[ratio1]]
-g: the ratio of two quantities to be divided
-
-w: <<proportionality>> drf [[file:adjs.all.org::proportional1]]
-hyper: [[ratio1]]
-g: a ratio of two quantities that is constant
-
-w: <<productivity>>
-hyper: [[ratio1]]
-dt: [[file:noun.cognition.org::economics]]
-g: (economics) the ratio of the quantity and quality of units produced to the labor per unit of time
-
-w: <<price-to-earnings_ratio>>
-w: <<P/E_ratio>>
-hyper: [[ratio1]]
-dt: [[file:noun.artifact.org::stock_exchange]]
-g: (stock market) the price of a stock divided by its earnings
-
-w: <<prevalence>>
-hyper: [[ratio1]]
-dt: [[file:noun.cognition.org::epidemiology]]
-g: (epidemiology) the ratio (for a given time period) of the number of occurrences of a disease or event to the number of units at risk in the population
-
-w: <<output-to-input_ratio>>
-hyper: [[ratio1]]
-hp: [[file:noun.attribute.org::frequency_response]]
-g: the output power of a transducer divided by the input power
-
-w: <<order_of_magnitude>>
-w: <<magnitude>>
-hyper: [[ratio1]]
-g: a number assigned to the ratio of two quantities; two quantities are of the same order of magnitude if one is less than 10 times as large as the other; the number of magnitudes that the quantities differ is specified to within a power of 10
-
-w: <<odds>>
-w: <<betting_odds>>
-hyper: [[ratio1]]
-g: the ratio by which one better's wager is greater than that of another; "he offered odds of two to one"
-
-w: <<mileage>>
-w: <<fuel_consumption_rate>>
-w: <<gasoline_mileage>>
-w: <<gas_mileage>>
-hyper: [[ratio1]]
-g: the ratio of the number of miles traveled to the number of gallons of gasoline burned
-
-w: <<mechanical_advantage>>
-hyper: [[ratio1]]
-g: the ratio of the force exerted by a machine to the force applied to it
-
-w: <<magnification>> drf [[file:verb.change.org::magnify1]] drf [[file:verb.change.org::magnify]]
-hyper: [[ratio1]]
-g: the ratio of the size of an image to the size of the object
-
-w: <<Mach_number>>
-hyper: [[ratio1]]
-g: the ratio of the speed of a moving body to the speed of sound
-
-w: <<loss_ratio>>
-hyper: [[ratio1]]
-g: the ratio of the annual claims paid by an insurance company to the premiums received
-
-w: <<load_factor>>
-hyper: [[ratio1]]
-dt: [[file:noun.cognition.org::aeronautics]]
-g: (aeronautics) the ratio of an external load to the weight of the aircraft (measured in g)
-
-w: <<borderline_intelligence>>
-hyper: [[intelligence_quotient]]
-g: the minimal IQ required for someone to function normally and independently in the world (without some form of institutional assistance)
-
-w: <<adult_intelligence>>
-hyper: [[intelligence_quotient]]
-g: the average IQ of the adults in a given population
-
-w: <<intelligence_quotient>>
-w: <<IQ>>
-w: <<I.Q.>>
-hyper: [[ratio1]]
-g: a measure of a person's intelligence as indicated by an intelligence test; the ratio of a person's mental age to their chronological age (multiplied by 100)
-
-w: <<hematocrit>>
-w: <<haematocrit>>
-w: <<packed_cell_volume>>
-hyper: [[ratio1]]
-g: the ratio of the volume occupied by packed red blood cells to the volume of the whole blood as measured by a hematocrit
-
-w: <<frequency>>
-w: <<relative_frequency>>
-hyper: [[ratio1]]
-g: the ratio of the number of observations in a statistical category to the total number of observations
-
-w: <<focal_ratio>>
-w: <<f_number>>
-w: <<stop_number>>
-w: <<speed>>
-hyper: [[ratio1]]
-g: the ratio of the focal length to the diameter of a (camera) lens system
-
-w: <<facial_index>>
-hyper: [[ratio1]]
-g: the ratio (in percent) of the maximum width to the maximum height of the face
-
-w: <<figure_of_merit>>
-hyper: [[efficiency]]
-g: a numerical expression representing the efficiency of a given system, material, or procedure
-
-w: <<efficiency>>
-hyper: [[ratio1]]
-g: the ratio of the output to the input of any system
-
-w: <<cephalic_index>>
-w: <<breadth_index>>
-w: <<cranial_index>>
-hyper: [[ratio1]]
-g: ratio (in percent) of the maximum breadth to the maximum length of a skull
-
-w: <<average>>
-hyper: [[ratio1]]
-dt: [[file:noun.act.org::sport]]
-g: (sports) the ratio of successful performances to opportunities
-
-w: <<aspect_ratio>>
-hyper: [[ratio1]]
-g: the ratio of the width to the height of a tv picture
-
-w: <<albedo>>
-w: <<reflective_power>>
-hyper: [[ratio1]]
-g: the ratio of reflected to incident light
-
-w: <<abundance1>>
-hyper: [[ratio1]]
-dt: [[file:noun.cognition.org::physics]]
-g: (physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present
-
-w: <<abundance>>
-hyper: [[ratio1]]
-dt: [[file:noun.cognition.org::chemistry]]
-g: (chemistry) the ratio of the total mass of an element in the earth's crust to the total mass of the earth's crust; expressed as a percentage or in parts per million
-
-w: <<ratio1>>
-hyper: [[magnitude_relation]]
-g: the relative magnitudes of two quantities (usually expressed as a quotient)
-
-w: <<unemployment_rate>>
-hyper: [[percentage]]
-g: the percentage of the work force that is unemployed at any given date
-
-w: <<vacancy_rate>>
-hyper: [[percentage]]
-g: the percentage of all rental units (as in hotels) that are unoccupied or not rented at a given time
-
-w: <<hotel_occupancy>>
-hyper: [[occupancy_rate]]
-g: occupancy rate for hotels
-
-w: <<hospital_occupancy>>
-hyper: [[occupancy_rate]]
-g: occupancy rate for hospitals
-
-w: <<occupancy_rate>>
-hyper: [[percentage]]
-g: the percentage of all rental units (as in hotels) are occupied or rented at a given time
-
-w: <<fielding_average>>
-hyper: [[average]]
-dt: [[file:noun.act.org::baseball]]
-g: (baseball) a measure of a fielder's performance; the number of assists and putouts divided by the number of chances
-
-w: <<batting_average1>>
-hyper: [[proportion]]
-dt: [[file:noun.act.org::baseball]]
-g: (an extension of the baseball term) the proportion of times some effort succeeds; "the salesman's batting average was 7 out of 12"
-
-w: <<batting_average>>
-w: <<hitting_average>>
-hyper: [[average]]
-dt: [[file:noun.act.org::baseball]]
-g: (baseball) a measure of a batter's performance; the number of base hits divided by the number of official times at bat; "Ted Williams once had a batting average above .400"
-
-w: <<absentee_rate>>
-hyper: [[percentage]]
-g: the percentage of workers who do not report to work
-
-w: <<percentage>>
-w: <<percent>>
-w: <<per_centum>>
-w: <<pct>>
-hyper: [[proportion]]
-g: a proportion in relation to a whole (which is usually the amount per hundred)
-
-w: <<commensurateness>> drf [[file:adj.all.org::commensurate]]
-w: <<correspondence1>> drf [[file:adjs.all.org::correspondent]]
-w: <<proportionateness>> drf [[file:adjs.all.org::proportionate]] drf [[file:adjs.all.org::proportionate]] drf [[file:adj.all.org::proportionate]]
-hyper: [[proportionality]]
-g: the relation of corresponding in degree or size or amount
-
-w: <<golden_section>>
-w: <<golden_mean>>
-hyper: [[proportion]]
-g: the proportional relation between two divisions of line or two dimension of a plane figure such that short : long :: long : (short + long)
-
-w: <<scale1>> drf [[file:verb.change.org::scale1]] drf [[file:verb.creation.org::scale]]
-hyper: [[proportion]]
-g: the ratio between the size of something and a representation of it; "the scale of the map"; "the scale of the model"
-
-w: <<rate>>
-hyper: [[proportion]]
-g: a quantity or amount or measure considered as a proportion of another quantity or amount or measure; "the literacy rate"; "the retention rate"; "the dropout rate"
-
-w: <<content>>
-hyper: [[proportion]]
-g: the proportion of a substance that is contained in a mixture or alloy etc.
-
-w: <<case-to-infection_proportion>>
-w: <<case-to-infection_ratio>>
-hyper: [[proportion]]
-g: the number of cases of a disease divided by the number of infections with the agent that causes the disease
-
-w: <<case-fatality_proportion>>
-hyper: [[proportion]]
-g: the number of cases of a disease ending in death divided by the number of cases of the disease; usually expressed as a percentage or as the number of deaths per 1000 cases
-
-w: <<proportion>> drf [[file:verb.change.org::proportion]]
-hyper: [[quotient]]
-g: the quotient obtained when the magnitude of a part is divided by the magnitude of the whole
-
-w: <<proportion1>>
-w: <<ratio>>
-hyper: [[magnitude_relation]]
-g: the relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree; "an inordinate proportion of the book is given over to quotations"; "a dry martini has a large proportion of gin"
-
-w: <<scale>>
-hyper: [[magnitude_relation]]
-g: relative magnitude; "they entertained on a grand scale"
-
-w: <<magnitude_relation>>
-w: <<quantitative_relation>>
-hyper: [[file:noun.Tops.org::relation]]
-g: a relation between magnitudes
-
-w: <<marital_relationship>>
-w: <<marital_bed>>
-hyper: [[kinship]]
-g: the relationship between wife and husband
-
-w: <<patrilineage>>
-w: <<agnation>>
-hyper: [[unilateral_descent]]
-g: line of descent traced through the paternal side of the family
-
-w: <<matrilineage>>
-w: <<enation>>
-w: <<cognation1>>
-hyper: [[unilateral_descent]]
-g: line of descent traced through the maternal side of the family
-
-w: <<unilateral_descent>>
-hyper: [[descent]]
-g: line of descent traced through one side of the family
-
-w: <<bilateral_descent>>
-hyper: [[descent]]
-g: line of descent traced through both the maternal and paternal sides of the family
-
-w: <<brotherhood>>
-hyper: [[kinship]]
-g: the kinship relation between a male offspring and the siblings
-
-w: <<sisterhood>> drf [[file:noun.person.org::sister]]
-w: <<sistership>>
-hyper: [[kinship]]
-g: the kinship relation between a female offspring and the siblings
-
-w: <<motherhood>> drf [[file:noun.person.org::mother]]
-w: <<maternity>>
-hyper: [[kinship]]
-g: the kinship relation between an offspring and the mother
-
-w: <<fatherhood>>
-w: <<paternity>> drf [[file:adjs.all.org::paternal]]
-hyper: [[kinship]]
-g: the kinship relation between an offspring and the father
-
-w: <<parentage>> drf [[file:verb.social.org::parent]]
-w: <<birth>>
-hyper: [[kinship]]
-g: the kinship relation of an offspring to the parents
-
-w: <<consanguinity>> drf [[file:adjs.all.org::consanguine]] ant [[affinity1]]
-w: <<blood_kinship>>
-w: <<cognation>>
-hyper: [[kinship]]
-dt: [[file:noun.cognition.org::anthropology]]
-g: (anthropology) related by blood
-
-w: <<steprelationship>>
-hyper: [[affinity1]]
-g: a family relationship by virtue of remarriage
-
-w: <<affinity1>> drf [[file:adjs.all.org::affine]] ant [[consanguinity]]
-hyper: [[kinship]]
-dt: [[file:noun.cognition.org::anthropology]]
-g: (anthropology) kinship by marriage or adoption; not a blood relationship
-
-w: <<descent>> drf [[file:verb.stative.org::descend]]
-w: <<line_of_descent>>
-w: <<lineage>>
-w: <<filiation>> drf [[file:verb.cognition.org::filiate]]
-hyper: [[kinship]]
-g: the kinship relation between an individual and the individual's progenitors
-
-w: <<kinship>> drf [[file:noun.person.org::kin]] drf [[file:noun.group.org::kin]]
-w: <<family_relationship>>
-w: <<relationship1>> drf [[file:noun.person.org::relation]] drf [[file:noun.Tops.org::relation]]
-hyper: [[file:noun.Tops.org::relation]]
-dt: [[file:noun.cognition.org::anthropology]]
-g: (anthropology) relatedness or connection by blood or marriage or adoption
-
-w: <<affinity2>>
-w: <<phylogenetic_relation>>
-hyper: [[kinship]]
-dt: [[file:noun.cognition.org::biology]]
-g: (biology) state of relationship between organisms or groups of organisms resulting in resemblance in structure or structural parts; "in anatomical structure prehistoric man shows close affinity with modern humans"
-
-w: <<mutual_understanding>>
-w: <<mutual_affection>>
-hyper: [[sympathy]]
-g: sympathy of each person for the other
-
-w: <<sympathy>> drf [[file:verb.emotion.org::sympathize1]] drf [[file:verb.emotion.org::sympathise1]] drf [[file:adjs.all.org::sympathetic]]
-hyper: [[affinity3]]
-g: a relation of affinity or harmony between people; whatever affects one correspondingly affects the other; "the two of them were in close sympathy"
-
-w: <<rapport>>
-w: <<resonance>> drf [[file:verb.cognition.org::resonate]]
-hyper: [[affinity3]]
-g: a relationship of mutual understanding or trust and agreement between people
-
-w: <<affinity3>>
-w: <<kinship2>>
-hyper: [[file:noun.Tops.org::relation]]
-g: a close connection marked by community of interests or similarity in nature or character; "found a natural affinity with the immigrants"; "felt a deep kinship with the other students"; "anthropology's kinship with the humanities"
-
-w: <<subpart>>
-hyper: [[part]]
-g: a part of a part
-
-w: <<leftover>>
-w: <<remnant>> drf [[file:verb.stative.org::remain5]]
-hyper: [[remainder]]
-g: a small part or portion that remains after the main part no longer exists
-
-w: <<remainder>> drf [[file:verb.possession.org::remainder]] drf [[file:verb.stative.org::remain5]]
-w: <<balance>>
-w: <<residual>> drf [[file:adj.pert.org::residual]]
-w: <<residue>> drf [[file:adj.pert.org::residuary]] drf [[file:adj.pert.org::residual]]
-w: <<residuum>>
-w: <<rest>>
-hyper: [[part]]
-g: something left after other parts have been taken away; "there was no remainder"; "he threw away the rest"; "he took what he wanted and I got the balance"
-
-w: <<member>> drf [[file:noun.state.org::membership]] drf [[file:noun.group.org::membership]]
-hyper: [[part]]
-g: anything that belongs to a set or class; "snakes are members of the class Reptilia"; "members of the opposite sex"
-
-w: <<unit>> drf [[file:verb.social.org::unitize]] drf [[file:verb.change.org::unitize]]
-hyper: [[part]]
-g: an individual or group or structure or other entity regarded as a structural or functional constituent of a whole; "the reduced the number of units and installations"; "the word is a basic linguistic unit"
-
-w: <<highlight>> drf [[file:verb.change.org::highlight]]
-w: <<high_spot>>
-hyper: [[detail]]
-g: the most interesting or memorable part; "the highlight of the tour was our visit to the Vatican"
-
-w: <<detail>> drf [[file:verb.communication.org::detail]]
-w: <<particular>>
-w: <<item>> drf [[file:verb.communication.org::itemize]]
-hyper: [[part]]
-g: a small part that can be considered separately from the whole; "it was perfect in all details"
-
-w: <<basis1>>
-w: <<base>>
-hyper: [[part]]
-g: the most important or necessary part of something; "the basis of this drink is orange juice"
-
-w: <<part>> drf [[file:adjs.all.org::partial]]
-w: <<portion>>
-w: <<component_part>>
-w: <<component>>
-w: <<constituent>>
-hyper: [[file:noun.Tops.org::relation]]
-hp: [[meronymy]]
-g: something determined in relation to something that includes it; "he wanted to feel a part of something bigger than himself"; "I read a portion of the manuscript"; "the smaller component is hard to reach"; "the animal constituent of plankton"
-
-w: <<homonymy>>
-hyper: [[linguistic_relation]]
-g: the relation between two words that are spelled the same way but differ in meaning or the relation between two words that are pronounced the same way but differ in meaning
-
-w: <<troponymy>>
-hyper: [[semantic_relation]]
-g: the semantic relation of being a manner of does something
-
-w: <<meronymy>>
-w: <<part_to_whole_relation>>
-hyper: [[semantic_relation]]
-g: the semantic relation that holds between a part and the whole
-
-w: <<holonymy>>
-w: <<whole_to_part_relation>>
-hyper: [[semantic_relation]]
-g: the semantic relation that holds between a whole and its parts
-
-w: <<antonymy>>
-hyper: [[semantic_relation]]
-g: the semantic relation that holds between two words that can (in a given context) express opposite meanings
-
-w: <<synonymy>> drf [[file:noun.person.org::synonymist]]
-w: <<synonymity>> drf [[file:adj.all.org::synonymous]]
-w: <<synonymousness>> drf [[file:adj.all.org::synonymous]]
-hyper: [[semantic_relation]]
-g: the semantic relation that holds between two words that can (in a given context) express the same meaning
-
-w: <<hypernymy>>
-w: <<superordination>>
-hyper: [[semantic_relation]]
-g: the semantic relation of being superordinate or belonging to a higher rank or class
-
-w: <<hyponymy>>
-w: <<subordination2>>
-hyper: [[semantic_relation]]
-g: the semantic relation of being subordinate or belonging to a lower rank or class
-
-w: <<semantic_relation>>
-hyper: [[linguistic_relation]]
-g: a relation between meanings
-
-w: <<future_progressive>>
-w: <<future_progressive_tense>>
-hyper: [[progressive]]
-g: a progressive tense used to express action that will be on-going in the future; "`I will be running' is an example of the future progressive"
-
-w: <<future_perfect>>
-w: <<future_perfect_tense>>
-hyper: [[perfective1]]
-g: a perfective tense used to describe action that will be completed in the future; "`I will have finished' is an example of the future perfect"
-
-w: <<past_progressive>>
-w: <<past_progressive_tense>>
-hyper: [[progressive]]
-g: a progressive tense used to describe on-going action in the past; "`I had been running' is an example of the past progressive"
-
-w: <<past_perfect>>
-w: <<past_perfect_tense>>
-w: <<pluperfect>>
-w: <<pluperfect_tense>>
-hyper: [[perfective1]]
-g: a perfective tense used to express action completed in the past; "`I had finished' is an example of the past perfect"
-
-w: <<preterit>>
-w: <<preterite>>
-hyper: [[file:noun.communication.org::past]]
-g: a term formerly used to refer to the simple past tense
-
-w: <<present_perfect>>
-w: <<present_perfect_tense>>
-hyper: [[perfective1]]
-g: a perfective tense used to express action completed in the present; "`I have finished' is an example of the present perfect"
-
-w: <<perfective1>>
-w: <<perfective_tense>>
-w: <<perfect>>
-w: <<perfect_tense>>
-hyper: [[file:noun.communication.org::tense]]
-g: a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)
-
-w: <<present_progressive>>
-w: <<present_progressive_tense>>
-hyper: [[progressive]]
-g: a tense used to express action that is on-going at the time of utterance
-
-w: <<progressive>>
-w: <<progressive_tense>>
-w: <<imperfect>>
-w: <<imperfect_tense>>
-w: <<continuous_tense>>
-hyper: [[file:noun.communication.org::tense]]
-g: a tense of verbs used in describing action that is on-going
-
-w: <<iterative>>
-w: <<iterative_aspect>>
-hyper: [[aspect]]
-g: the aspect of the verb that expresses the repetition of an action
-
-w: <<inchoative>>
-w: <<inchoative_aspect>>
-hyper: [[aspect]]
-g: aspect with regard to the beginning of the action of the verb
-
-w: <<progressive_aspect>>
-hyper: [[durative]]
-g: the aspect of a verb that expresses its on-going action
-
-w: <<durative>>
-w: <<durative_aspect>>
-hyper: [[aspect]]
-g: the aspect of a verb that expresses its duration
-
-w: <<imperfective>>
-w: <<imperfective_aspect>>
-hyper: [[durative]]
-g: aspect without regard to the beginning or completion of the action of the verb
-
-w: <<perfective>>
-w: <<perfective_aspect>>
-hyper: [[aspect]]
-g: the aspect of a verb that expresses a completed action
-
-w: <<aspect>> drf [[file:adj.pert.org::aspectual]]
-hyper: [[grammatical_relation]]
-g: the beginning or duration or completion or repetition of the action of a verb
-
-w: <<pluralization>> drf [[file:verb.communication.org::pluralize]]
-w: <<pluralisation>> drf [[file:verb.communication.org::pluralise]]
-hyper: [[inflection]]
-g: the act of pluralizing or attributing plurality to
-
-w: <<paradigm>> drf [[file:adj.pert.org::paradigmatic1]]
-hyper: [[inflection]]
-g: systematic arrangement of all the inflected forms of a word
-
-w: <<declension>> drf [[file:verb.communication.org::decline1]]
-hyper: [[inflection]]
-g: the inflection of nouns and pronouns and adjectives in Indo-European languages
-
-w: <<conjugation>> drf [[file:verb.communication.org::conjugate]]
-hyper: [[inflection]]
-g: the inflection of verbs
-
-w: <<inflection>> drf [[file:adj.all.org::inflectional]] drf [[file:verb.communication.org::inflect1]]
-w: <<inflexion>> drf [[file:verb.communication.org::inflect1]]
-hyper: [[grammatical_relation]]
-g: a change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function
-
-w: <<passive_voice>> ant [[active_voice]]
-w: <<passive>> drf [[file:adj.all.org::passive2]]
-hyper: [[voice]]
-g: the voice used to indicate that the grammatical subject of the verb is the recipient (not the source) of the action denoted by the verb; "`The ball was thrown by the boy' uses the passive voice"; "`The ball was thrown' is an abbreviated passive"
-
-w: <<active_voice>> ant [[passive_voice]]
-w: <<active>>
-hyper: [[voice]]
-g: the voice used to indicate that the grammatical subject of the verb is performing the action or causing the happening denoted by the verb; "`The boy threw the ball' uses the active voice"
-
-w: <<voice>>
-hyper: [[grammatical_relation]]
-dt: [[file:noun.cognition.org::linguistics]]
-g: (linguistics) the grammatical relation (active or passive) of the grammatical subject of a verb to the action that the verb denotes
-
-w: <<anaphoric_relation>>
-hyper: [[grammatical_relation]]
-g: the relation between an anaphor and its antecedent
-
-w: <<modality>>
-w: <<mode>>
-hyper: [[logical_relation]]
-g: a classification of propositions on the basis of whether they claim necessity or possibility or impossibility
-
-w: <<interrogative_mood>>
-w: <<interrogative>>
-hyper: [[mood]]
-g: some linguists consider interrogative sentences to constitute a mood
-
-w: <<imperative_mood>>
-w: <<imperative>>
-w: <<jussive_mood>>
-w: <<imperative_form>>
-hyper: [[mood]]
-g: a mood that expresses an intention to influence the listener's behavior
-
-w: <<optative_mood>>
-w: <<optative>>
-hyper: [[mood]]
-dr: [[file:noun.location.org::Greece]]
-dt: [[file:noun.communication.org::Sanskrit]]
-g: a mood (as in Greek or Sanskrit) that expresses a wish or hope; expressed in English by modal verbs
-
-w: <<subjunctive_mood>>
-w: <<subjunctive>>
-hyper: [[mood]]
-g: a mood that represents an act or state (not as a fact but) as contingent or possible
-
-w: <<indicative_mood>>
-w: <<indicative>>
-w: <<declarative_mood>>
-w: <<declarative>> drf [[file:adj.pert.org::declarative]]
-w: <<common_mood>>
-w: <<fact_mood>>
-hyper: [[mood]]
-g: a mood (grammatically unmarked) that represents the act or state as an objective fact
-
-w: <<mood>>
-w: <<mode2>> drf [[file:adj.pert.org::modal]]
-w: <<modality1>> drf [[file:adj.pert.org::modal]]
-hyper: [[grammatical_relation]]
-g: verb inflections that express how the action or state is conceived by the speaker
-
-w: <<apposition>> drf [[file:adj.pert.org::appositional]]
-hyper: [[modification]]
-g: a grammatical relation between a word and a noun phrase that follows; "`Rudolph the red-nosed reindeer' is an example of apposition"
-
-w: <<restrictiveness>>
-hyper: [[modification]]
-g: a grammatical qualification that makes the meaning more specific (`red hat' has a more specific meaning than `hat')
-
-w: <<modification>> drf [[file:verb.change.org::modify1]]
-w: <<qualifying>> drf [[file:verb.change.org::qualify1]]
-w: <<limiting>>
-hyper: [[grammatical_relation]]
-g: the grammatical relation that exists when a word qualifies the meaning of the phrase
-
-w: <<subordination1>>
-hyper: [[grammatical_relation]]
-g: the grammatical relation of a modifying word or phrase to its head
-
-w: <<coordination>>
-hyper: [[grammatical_relation]]
-g: the grammatical relation of two constituents having the same grammatical form
-
-w: <<complementation>>
-hyper: [[grammatical_relation]]
-g: the grammatical relation of a word or phrase to a predicate
-
-w: <<adversative_conjunction>>
-hyper: [[conjunction2]]
-g: the conjunctive relation of units that expresses the opposition of their meanings
-
-w: <<disjunctive_conjunction>>
-hyper: [[conjunction2]]
-g: the conjunctive relation of units that expresses the disjunction of their meanings
-
-w: <<copulative_conjunction>>
-hyper: [[conjunction2]]
-g: the conjunctive relation of units that expresses the addition of their meanings
-
-w: <<subordinating_conjunction>>
-hyper: [[conjunction2]]
-g: the subordination that occurs when a conjunction makes one linguistic unit a constituent of another
-
-w: <<coordinating_conjunction>>
-hyper: [[conjunction2]]
-g: the coordination by conjunction of linguistic units of the same status
-
-w: <<conjunction2>>
-hyper: [[grammatical_relation]]
-g: the grammatical relation between linguistic units (words or phrases or clauses) that are connected by a conjunction
-
-w: <<reflexivity>>
-w: <<reflexiveness>>
-hyper: [[coreference]]
-g: the coreferential relation between a reflexive pronoun and its antecedent
-
-w: <<coreference>> drf [[file:adj.pert.org::coreferential]] drf [[file:adjs.all.org::coreferent]]
-hyper: [[grammatical_relation]]
-g: the grammatical relation between two words that have a common referent
-
-w: <<reflexivity1>> drf [[file:adjs.all.org::reflexive]]
-w: <<reflexiveness1>> drf [[file:adjs.all.org::reflexive]]
-hyper: [[logical_relation]]
-hyper: [[mathematical_relation]]
-dt: [[file:noun.cognition.org::logic]]
+w: <<transformation>> drf [[file:verb.change.org::transform2]]
+hyper: [[function]]
 dt: [[file:noun.cognition.org::mathematics]]
-g: (logic and mathematics) a relation such that it holds between an element and itself
+g: (mathematics) a function that changes the position or direction of the axes of a coordinate system
 
 w: <<transitivity1>>
 hyper: [[logical_relation]]
@@ -1671,432 +1979,124 @@ dt: [[file:noun.cognition.org::logic]]
 dt: [[file:noun.cognition.org::mathematics]]
 g: (logic and mathematics) a relation between three elements such that if it holds between the first and second and it also holds between the second and third it must necessarily hold between the first and third
 
-w: <<intransitivity>> drf [[file:adj.all.org::intransitive]] ant [[transitivity]]
-w: <<intransitiveness>> drf [[file:adj.all.org::intransitive]]
-hyper: [[grammatical_relation]]
-g: the grammatical relation created by an intransitive verb
-
 w: <<transitivity>> drf [[file:adj.all.org::transitive]] ant [[intransitivity]]
 w: <<transitiveness>> drf [[file:adj.all.org::transitive]]
 hyper: [[grammatical_relation]]
 g: the grammatical relation created by a transitive verb
-
-w: <<gender_agreement>>
-hyper: [[agreement3]]
-g: agreement in grammatical gender between words in the same construction
-
-w: <<case_agreement>>
-hyper: [[agreement3]]
-g: agreement in grammatical case between words in the same construction
-
-w: <<person_agreement>>
-hyper: [[agreement3]]
-g: agreement in person between pronouns and verbs
-
-w: <<number_agreement>>
-hyper: [[agreement3]]
-g: agreement in number between words in the same grammatical construction (e.g., between adjectives and the nouns they modify)
-
-w: <<agreement3>> drf [[file:verb.stative.org::agree3]]
-w: <<concord>> drf [[file:verb.contact.org::concord]]
-hyper: [[grammatical_relation]]
-g: the determination of grammatical inflection on the basis of word relations
-
-w: <<linguistic_relation>>
-hyper: [[file:noun.Tops.org::relation]]
-g: a relation between linguistic forms or constituents
-
-w: <<grammatical_relation>>
-hyper: [[linguistic_relation]]
-g: a linguistic relation established by grammar
-
-w: <<extraneousness>> drf [[file:adjs.all.org::extraneous2]] drf [[file:adjs.all.org::extraneous1]] drf [[file:adjs.all.org::extraneous]] drf [[file:adjs.all.org::extraneous]]
-hyper: [[unrelatedness]]
-g: unrelatedness by virtue of falling outside the matter at hand
-
-w: <<unrelatedness>> drf [[file:adj.all.org::unrelated2]] drf [[file:adj.all.org::unrelated1]] ant [[relatedness]]
-hyper: [[unconnectedness]]
-g: the lack of any particular manner of connectedness
-
-w: <<immateriality>> drf [[file:adjs.all.org::immaterial]] drf [[file:adjs.all.org::immaterial]] drf [[file:adj.all.org::immaterial2]] ant [[materiality]]
-hyper: [[irrelevance]]
-g: complete irrelevance requiring no further consideration
-
-w: <<inapplicability>> drf [[file:adjs.all.org::inapplicable]] ant [[applicability]]
-hyper: [[irrelevance]]
-g: irrelevance by virtue of being inapplicable to the matter at hand
-
-w: <<irrelevance>> drf [[file:adj.all.org::irrelevant]] ant [[relevance]]
-w: <<irrelevancy>> drf [[file:adj.all.org::irrelevant]]
-hyper: [[unconnectedness]]
-g: the lack of a relation of something to the matter at hand
-
-w: <<bearing1>>
-hyper: [[relatedness]]
-g: relevant relation or interconnection; "those issues have no bearing on our situation"
-
-w: <<relatedness>> drf [[file:adj.all.org::related2]] drf [[file:adj.all.org::related1]] ant [[unrelatedness]]
-hyper: [[connection]]
-g: a particular manner of connectedness; "the relatedness of all living things"
-
-w: <<applicability>> drf [[file:adjs.all.org::applicable]] ant [[inapplicability]]
-w: <<pertinence>> drf [[file:adjs.all.org::pertinent]] drf [[file:adjs.all.org::pertinent]] drf [[file:verb.stative.org::pertain1]]
-w: <<pertinency>> drf [[file:adjs.all.org::pertinent]] drf [[file:adjs.all.org::pertinent]] drf [[file:verb.stative.org::pertain1]]
-hyper: [[relevance]]
-g: relevance by virtue of being applicable to the matter at hand
-
-w: <<germaneness>> drf [[file:adjs.all.org::germane]]
-hyper: [[applicability]]
-g: pertinence by virtue of a close relation to the matter at hand
-
-w: <<point4>>
-hyper: [[relevance]]
-g: a style in speech or writing that arrests attention and has a penetrating or convincing quality or effect
-
-w: <<cogency>> drf [[file:adjs.all.org::cogent]]
-hyper: [[relevance]]
-g: persuasive relevance
-
-w: <<materiality>> drf [[file:adj.all.org::material2]] ant [[immateriality]]
-hyper: [[relevance]]
-g: relevance requiring careful consideration
-
-w: <<relevance>> drf [[file:adj.all.org::relevant]] ant [[irrelevance]]
-w: <<relevancy>> drf [[file:adj.all.org::relevant]]
-hyper: [[connection]]
-g: the relation of something to the matter at hand
-
-w: <<unconnectedness>> drf [[file:adjs.all.org::unconnected]] drf [[file:adj.all.org::unconnected]] ant [[connectedness]]
-hyper: [[file:noun.Tops.org::relation]]
-g: the lack of a connection between things
-
-w: <<inclusion>>
-w: <<comprehension>> drf [[file:verb.stative.org::comprehend]]
-hyper: [[involvement]]
-g: the relation of comprising something; "he admired the inclusion of so many ideas in such a short work"
-
-w: <<implication>> drf [[file:verb.stative.org::imply2]] drf [[file:verb.stative.org::implicate1]]
-hyper: [[involvement]]
-g: a relation implicated by virtue of involvement or close connection (especially an incriminating involvement); "he was suspected of implication in several robberies"
-
-w: <<involvement>> drf [[file:verb.stative.org::involve1]] drf [[file:verb.stative.org::involve]]
-hyper: [[connection]]
-g: a connection of inclusion or containment; "he escaped involvement in the accident"; "there was additional involvement of the liver and spleen"
-
-w: <<bridge>> drf [[file:verb.stative.org::bridge]]
-hyper: [[connection]]
-g: something resembling a bridge in form or function; "his letters provided a bridge across the centuries"
-
-w: <<concatenation>>
-hyper: [[connection]]
-g: the linking together of a consecutive series of symbols or events or ideas etc; "it was caused by an improbable concatenation of circumstances"
-
-w: <<communication>> drf [[file:verb.contact.org::communicate]] drf [[file:verb.communication.org::communicate1]]
-hyper: [[connection]]
-g: a connection allowing access between persons or places; "how many lines of communication can there be among four people?"; "a secret passageway provided communication between the two rooms"
-
-w: <<link>> drf [[file:verb.contact.org::link2]] drf [[file:verb.contact.org::link]]
-w: <<nexus>>
-hyper: [[linkage]]
-g: the means of connection between things linked in series
-
-w: <<linkage>> drf [[file:verb.cognition.org::link]]
-hyper: [[connection]]
-g: an associative relation
-
-w: <<silver_cord>>
-hyper: [[alliance]]
-g: the emotional bond between a mother and her offspring
-
-w: <<alliance>>
-w: <<bond>> drf [[file:verb.social.org::bond13]] drf [[file:verb.contact.org::bond1]]
-hyper: [[connection]]
-g: a connection based on kinship or marriage or common interest; "the shifting alliances within a large family"; "their friendship constitutes a powerful bond between them"
-
-w: <<series>> drf [[file:adjs.all.org::serial]]
-hyper: [[connection]]
-dt: [[file:noun.cognition.org::electronics]]
-g: (electronics) connection of components in such a manner that current flows first through one and then through the other; "the voltage divider consisted of a series of fixed resistors"
-
-w: <<connection>>
-w: <<connexion>>
-w: <<connectedness>> drf [[file:adjs.all.org::connected2]] drf [[file:adjs.all.org::connected]] ant [[unconnectedness]]
-hyper: [[file:noun.Tops.org::relation]]
-attr: [[file:adj.all.org::connected]]
-attr: [[file:adj.all.org::unconnected]]
-g: a relation between things or events (as in the case of one causing the other or sharing features with it); "there was a connection between eating that pickle and having that nightmare"
-
-w: <<grass_roots>>
-hyper: [[foundation]]
-g: the essential foundation or source; "the problem was attacked at the grass roots"
-
-w: <<common_ground>>
-hyper: [[footing]]
-g: a basis agreed to by all parties for reaching a mutual understanding
-
-w: <<footing>>
-w: <<basis>>
-w: <<ground>>
-hyper: [[foundation]]
-g: a relation that provides the foundation for something; "they were on a friendly footing"; "he worked on an interim basis"
-
-w: <<foundation>> drf [[file:verb.cognition.org::found]]
-hyper: [[file:noun.Tops.org::relation]]
-g: the basis on which something is grounded; "there is little foundation for his objections"
-
-w: <<oddness>> drf [[file:adj.all.org::odd]]
-hyper: [[parity]]
-g: the parity of odd numbers (not divisible by two)
-
-w: <<evenness>>
-hyper: [[parity]]
-g: the parity of even numbers (divisible by two)
-
-w: <<parity>>
-hyper: [[mathematical_relation]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) a relation between a pair of integers: if both integers are odd or both are even they have the same parity; if one is odd and the other is even they have different parity; "parity is often used to check the integrity of transmitted data"
-
-w: <<exponential_series>>
-hyper: [[file:noun.cognition.org::series]]
-g: a series derived from the expansion of an exponential expression
-
-w: <<exponential_expression>>
-hyper: [[file:noun.communication.org::formula]]
-g: a mathematical expression consisting of a constant (especially e) raised to some power
-
-w: <<exponential_curve>>
-hyper: [[file:noun.communication.org::graph]]
-g: a graph of an exponential function
-
-w: <<exponential_equation>>
-hyper: [[file:noun.communication.org::equation]]
-g: an equation involving exponential functions of a variable
-
-w: <<exponential>> drf [[file:adj.pert.org::exponential]]
-w: <<exponential_function>>
-hyper: [[function]]
-g: a function in which an independent variable appears as an exponent
-
-w: <<threshold_function>>
-hyper: [[function]]
-g: a function that takes the value 1 if a specified function of the arguments exceeds a given threshold and 0 otherwise
-
-w: <<arc_cosecant>>
-w: <<arccosecant>>
-w: <<inverse_cosecant>>
-hyper: [[trigonometric_function]]
-g: the angle that has a cosecant equal to a given number
-
-w: <<cosecant>>
-w: <<cosec>>
-hyper: [[trigonometric_function]]
-g: ratio of the hypotenuse to the opposite side of a right-angled triangle
-
-w: <<arc_secant>>
-w: <<arcsecant>>
-w: <<arcsec>>
-w: <<inverse_secant>>
-hyper: [[trigonometric_function]]
-g: the inverse function of the secant; the angle that has a secant equal to a given number
-
-w: <<secant>>
-w: <<sec>>
-hyper: [[trigonometric_function]]
-g: ratio of the hypotenuse to the adjacent side of a right-angled triangle
-
-w: <<arc_cotangent>>
-w: <<arccotangent>>
-w: <<inverse_cotangent>>
-hyper: [[trigonometric_function]]
-g: the inverse function of the cotangent; the angle that has a cotangent equal to a given number
-
-w: <<cotangent>>
-w: <<cotan>>
-hyper: [[trigonometric_function]]
-g: ratio of the adjacent to the opposite side of a right-angled triangle
-
-w: <<arc_tangent>>
-w: <<arctangent>>
-w: <<arctan>>
-w: <<inverse_tangent>>
-hyper: [[trigonometric_function]]
-g: the inverse function of the tangent; the angle that has a tangent equal to a given number
-
-w: <<tangent>> drf [[file:adj.pert.org::tangential]]
-w: <<tan>>
-hyper: [[trigonometric_function]]
-g: ratio of the opposite to the adjacent side of a right-angled triangle
-
-w: <<arc_cosine>>
-w: <<arccosine>>
-w: <<arccos>>
-w: <<inverse_cosine>>
-hyper: [[trigonometric_function]]
-g: the inverse function of the cosine; the angle that has a cosine equal to a given number
-
-w: <<cosine>>
-w: <<cos>>
-hyper: [[trigonometric_function]]
-g: ratio of the adjacent side to the hypotenuse of a right-angled triangle
-
-w: <<arc_sine>>
-w: <<arcsine>>
-w: <<arcsin>>
-w: <<inverse_sine>>
-hyper: [[trigonometric_function]]
-g: the inverse function of the sine; the angle that has a sine equal to a given number
-
-w: <<sine>>
-w: <<sin>>
-hyper: [[trigonometric_function]]
-g: ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle
-
-w: <<trigonometric_function>>
-w: <<circular_function>>
-hyper: [[function]]
-g: function of an angle expressed as a ratio of the length of the sides of right-angled triangle containing the angle
-
-w: <<identity1>>
-w: <<identity_element>>
-w: <<identity_operator>>
-hyper: [[operator]]
-g: an operator that leaves unchanged the element on which it operates; "the identity under numerical multiplication is 1"
-
-w: <<linear_operator>>
-hyper: [[operator]]
-g: an operator that obeys the distributive law: A(f+g) = Af + Ag (where f and g are functions)
-
-w: <<operator>>
-hyper: [[function]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) a symbol or function representing a mathematical operation
-
-w: <<isometry>> drf [[file:adj.pert.org::isometric]]
-hyper: [[function]]
-g: a one-to-one mapping of one metric space into another metric space that preserves the distances between each pair of points; "the isometries of the cube"
-
-w: <<affine_transformation>>
-hyper: [[transformation]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) a transformation that is a combination of single transformations such as translation or rotation or reflection on an axis
 
 w: <<translation>>
 hyper: [[transformation]]
 dt: [[file:noun.cognition.org::mathematics]]
 g: (mathematics) a transformation in which the origin of the coordinate system is moved to another position but the direction of each axis remains the same
 
-w: <<rotation>>
-hyper: [[transformation]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) a transformation in which the coordinate axes are rotated by a fixed angle about the origin
-
-w: <<reflection>>
-hyper: [[transformation]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) a transformation in which the direction of one axis is reversed
-
-w: <<transformation>> drf [[file:verb.change.org::transform2]]
+w: <<trigonometric_function>>
+w: <<circular_function>>
 hyper: [[function]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) a function that changes the position or direction of the axes of a coordinate system
+g: function of an angle expressed as a ratio of the length of the sides of right-angled triangle containing the angle
 
-w: <<metric_function>>
-w: <<metric>>
-hyper: [[function]]
-dt: [[file:noun.cognition.org::mathematics]]
-dt: [[file:noun.cognition.org::physics]]
-g: a function of a topological space that gives, for any two points in the space, a value equal to the distance between them
+w: <<trim>> drf [[file:verb.stative.org::trim5]] drf [[file:verb.stative.org::trim6]]
+hyper: [[attitude]]
+g: attitude of an aircraft in flight when allowed to take its own orientation
 
-w: <<Kronecker_delta>>
-hyper: [[function]]
-g: a function of two variables i and j that equals 1 when i=j and equals 0 otherwise
+w: <<trophobiosis>>
+hyper: [[symbiosis]]
+g: a symbiotic relation in which one organism protects the other in return for some kind of food product
 
-w: <<inverse_function>>
-hyper: [[function]]
-g: a function obtained by expressing the dependent variable of one function as the independent variable of another; f and g are inverse functions if f(x)=y and g(y)=x
+w: <<troponymy>>
+hyper: [[semantic_relation]]
+g: the semantic relation of being a manner of does something
 
-w: <<expansion>>
-hyper: [[function]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: a function expressed as a sum or product of terms; "the expansion of (a+b)^2 is a^2 + 2ab + b^2"
+w: <<trustee-beneficiary_relation>>
+hyper: [[fiduciary_relation]]
+dt: [[file:noun.group.org::law]]
+g: the responsibility of a trustee to act in the best interests of the beneficiary
 
-w: <<function>>
-w: <<mathematical_function>>
-w: <<single-valued_function>>
-w: <<map>> drf [[file:verb.change.org::map]]
-w: <<mapping>> drf [[file:verb.change.org::map]]
-hyper: [[mathematical_relation]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)
+w: <<twelfth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 12 in a countable series of things
 
-w: <<mathematical_relation>>
+w: <<twentieth>>
+hyper: [[file:noun.state.org::rank]]
+g: position 20 in a countable series of things
+
+w: <<unconnectedness>> drf [[file:adjs.all.org::unconnected]] drf [[file:adj.all.org::unconnected]] ant [[connectedness]]
 hyper: [[file:noun.Tops.org::relation]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: a relation between mathematical expressions (such as equality or inequality)
+g: the lack of a connection between things
 
-w: <<contrary2>>
-hyper: [[logical_relation]]
-g: a logical relation such that two propositions are contraries if both cannot be true but both can be false
+w: <<unemployment_rate>>
+hyper: [[percentage]]
+g: the percentage of the work force that is unemployed at any given date
 
-w: <<contradictory>>
-hyper: [[logical_relation]]
-g: two propositions are contradictories if both cannot be true (or both cannot be false) at the same time
+w: <<ungradable_opposition>>
+hyper: [[opposition2]]
+g: an opposition that has no intermediate grade; either one or the other
 
-w: <<logical_relation>>
-hyper: [[file:noun.Tops.org::relation]]
-dt: [[file:noun.cognition.org::logic]]
-g: a relation between propositions
+w: <<unilateral_descent>>
+hyper: [[descent]]
+g: line of descent traced through one side of the family
 
-w: <<association>> drf [[file:verb.social.org::associate]]
-hyper: [[file:noun.Tops.org::relation]]
-g: a relation resulting from interaction or dependence; "flints were found in association with the prehistoric remains of the bear"; "the host is not always injured by association with a parasite"
+w: <<unit>> drf [[file:verb.social.org::unitize]] drf [[file:verb.change.org::unitize]]
+hyper: [[part]]
+g: an individual or group or structure or other entity regarded as a structural or functional constituent of a whole; "the reduced the number of units and installations"; "the word is a basic linguistic unit"
 
-w: <<maternal-infant_bonding>>
-hyper: [[bonding]]
-g: the attachment that forms between an infant and its mother beginning at birth; "maternal-infant bonding influences the child's psychological and physical development"
+w: <<unrelatedness>> drf [[file:adj.all.org::unrelated2]] drf [[file:adj.all.org::unrelated1]] ant [[relatedness]]
+hyper: [[unconnectedness]]
+g: the lack of any particular manner of connectedness
 
-w: <<male_bonding>>
-hyper: [[bonding]]
-g: the formation of a close personal relationship between men; "the rituals known as male bonding do not necessarily involve drinking beer together"
+w: <<vacancy_rate>>
+hyper: [[percentage]]
+g: the percentage of all rental units (as in hotels) that are unoccupied or not rented at a given time
 
-w: <<female_bonding>>
-hyper: [[bonding]]
-g: the formation of a close personal relationship between women
+w: <<vertical>> drf [[file:adj.all.org::vertical]]
+hyper: [[orientation]]
+g: something that is oriented vertically
 
-w: <<obligation>> drf [[file:verb.communication.org::oblige1]]
-w: <<indebtedness>> drf [[file:adjs.all.org::indebted1]]
-hyper: [[personal_relation]]
-g: a personal relation in which one is indebted for a service or favor
+w: <<voice>>
+hyper: [[grammatical_relation]]
+dt: [[file:noun.cognition.org::linguistics]]
+g: (linguistics) the grammatical relation (active or passive) of the grammatical subject of a verb to the action that the verb denotes
 
-w: <<bonding>>
-hyper: [[personal_relation]]
-g: a close personal relationship that forms between people (as between husband and wife or parent and child)
+w: <<wage_scale>>
+w: <<wage_schedule>>
+hyper: [[scale3]]
+g: a schedule of wages paid for different jobs
 
-w: <<personal_relation>>
-w: <<personal_relationship>>
-hyper: [[relationship]]
-g: a relation between persons
+w: <<west2>>
+hyper: [[direction]]
+g: the direction corresponding to the westward cardinal compass point
 
-w: <<partnership>>
-hyper: [[relationship]]
-g: a cooperative relationship between people or groups who agree to share responsibility for achieving some specific goal; "effective language learning is a partnership between school, teacher and student"; "the action teams worked in partnership with the government"
+w: <<west_by_north>>
+w: <<WbN>>
+hyper: [[compass_point]]
+g: the compass point that is one point north of due west
 
-w: <<function1>>
-hyper: [[file:noun.Tops.org::relation]]
-g: a relation such that one thing is dependent on another; "height is a function of age"; "price is a function of supply and demand"
+w: <<west_by_south>>
+w: <<WbS>>
+hyper: [[compass_point]]
+g: the compass point that is one point south of due west
 
-w: <<relationship>> drf [[file:noun.person.org::relation]] drf [[file:noun.Tops.org::relation]]
-w: <<human_relationship>>
-hyper: [[file:noun.Tops.org::relation]]
-g: a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness); "the relationship between mothers and their children"
+w: <<west_northwest>>
+w: <<WNW>>
+hyper: [[compass_point]]
+g: the compass point midway between west and northwest
 
-w: <<causality>> drf [[file:adjs.all.org::causal]]
-hyper: [[file:noun.Tops.org::relation]]
-g: the relation between causes and effects
+w: <<west_southwest>>
+w: <<WSW>>
+hyper: [[compass_point]]
+g: the compass point midway between west and southwest
 
-w: <<relations>>
-w: <<dealings>> drf [[file:verb.social.org::deal4]]
-hyper: [[file:noun.Tops.org::social_relation]]
-g: mutual dealings or connections or communications among persons or groups
+w: <<west>>
+w: <<due_west>>
+w: <<westward>>
+w: <<W>>
+hyper: [[cardinal_compass_point]]
+g: the cardinal compass point that is a 270 degrees
+
+w: <<windward>> ant [[leeward]]
+hyper: [[direction]]
+g: the direction from which the wind is coming
+
+w: <<wing_loading>>
+hyper: [[loading]]
+g: the ratio of the weight of an airplane to its wing area
 

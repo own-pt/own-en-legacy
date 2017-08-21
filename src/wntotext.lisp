@@ -1,8 +1,9 @@
+(ql:quickload :alexandria)
 (ql:quickload :cl-ppcre)
 (ql:quickload :fare-csv)
 
 (defpackage :wntotext
-  (:use :cl))
+  (:use :cl :alexandria))
 
 (in-package :wntotext)
 
@@ -469,6 +470,11 @@ applies to all the senses in the synset."
         (format nil "~a:~a" lf (getf sense :lemma))
         (format nil "~a:~a~a" lf (getf sense :lemma) lexid))))
 
+(defun order-synsets (synset-ids)
+  (flet ((synset-key (id)
+           (format nil "~{~a~}" (mapcar #'string-downcase (mapcar #'first (synset-words (gethash id *synsets*)))))))
+   (sort synset-ids #'string< :key #'synset-key)))
+
 (defun load-en (dict-dir)
   (setf *synsets* (make-hash-table :test #'equal))
 
@@ -484,6 +490,10 @@ applies to all the senses in the synset."
   (let ((namespaces (make-hash-table :test #'equal)))
     (maphash (lambda (k v)
                (push k (gethash (lexfile-name (synset-lnum v)) namespaces))) *synsets*)
+
+    (mapc (lambda (k)
+            (setf (gethash k namespaces) (order-synsets (gethash k namespaces))))
+          (hash-table-keys namespaces))
 
     (maphash (lambda (k v)
                (with-open-file (out (format nil "~a.~a" k (if *org-mode* "org" "txt")) :direction :output :if-exists :supersede)

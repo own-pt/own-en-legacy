@@ -1,179 +1,175 @@
-w: <<keel>>
-hyper: [[projection]]
-g: a projection or ridge that suggests a keel
+w: <<acute_angle>>
+hyper: [[oblique_angle]]
+g: an angle less than 90 degrees but more than 0 degrees
 
-w: <<projection>>
-hyper: [[convex_shape]]
-g: any solid convex shape that juts out from something
-
-w: <<wedge>> drf [[file:verb.contact.org::wedge]]
-w: <<wedge_shape>>
-w: <<cuneus>>
+w: <<acute_triangle>>
+w: <<acute-angled_triangle>>
 hyper: [[triangle]]
-g: any shape that is triangular in cross section
+g: a triangle whose interior angles are all acute
 
-w: <<wave_angle>>
+w: <<altitude>> drf [[file:adj.pert.org::altitudinal]]
+hyper: [[file:noun.attribute.org::distance1]]
+g: the perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel)
+
+w: <<amorphous_shape>>
+hyper: [[file:noun.Tops.org::shape]]
+g: an ill-defined or arbitrary shape
+
+w: <<angle>> drf [[file:adj.pert.org::angular]] drf [[file:adj.all.org::angular]] drf [[file:verb.change.org::angulate]] drf [[file:verb.motion.org::angle1]] drf [[file:verb.motion.org::angle]] drf [[file:adj.all.org::angulate]]
+hyper: [[space]]
+g: the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians
+
+w: <<angle_of_attack>>
+hyper: [[angle_of_incidence]]
+g: the acute angle between the direction of the undisturbed relative wind and the chord of an airfoil
+
+w: <<angle_of_extinction>>
+w: <<extinction_angle>>
 hyper: [[angle]]
-g: the angle of arrival (or departure) of a radio wave with respect to the axis of an antenna array
+g: the angle from its axis that a crystal must be rotated before appearing maximally dark when viewed in polarized light
 
-w: <<washout>>
-hyper: [[groove]]
-g: the channel or break produced by erosion of relatively soft soil by water; "it was several days after the storm before they could repair the washout and open the road"
-
-w: <<view_angle>>
-w: <<angle_of_view>>
+w: <<angle_of_incidence>>
+w: <<incidence_angle>>
 hyper: [[angle]]
-g: the angle included by a photographic lens
+g: the angle that a line makes with a line perpendicular to the surface at the point of incidence
 
-w: <<verticil>>
-hyper: [[coil]]
-g: a whorl of leaves growing around a stem
-
-w: <<vertical_angle>>
+w: <<angle_of_reflection>>
 hyper: [[angle]]
-g: either of two equal and opposite angles formed by the intersection of two straight lines
+g: the angle between a reflected ray and a line perpendicular to the reflecting surface at the point of incidence
 
-w: <<trapezohedron>>
-hyper: [[polyhedron]]
-g: a polyhedron whose faces are trapeziums
-
-w: <<tilt_angle>>
+w: <<angle_of_refraction>>
 hyper: [[angle]]
-g: the angle a rocket makes with the vertical as it curves along its trajectory
+g: the angle between a refracted ray and a line perpendicular to the surface between the two media at the point of refraction
 
-w: <<tongue>>
-w: <<knife>>
-hyper: [[projection]]
-g: any long thin projection that is transient; "tongues of flame licked at the walls"; "rifles exploded quick knives of fire into the dark"
-
-w: <<tail>>
-w: <<tail_end>>
-hyper: [[projection]]
-g: any projection that resembles the tail of an animal
-
-w: <<prismoid>>
-hyper: [[prismatoid]]
-g: a prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms
-
-w: <<prismatoid>>
-hyper: [[polyhedron]]
-g: a polyhedron whose vertices all lie in one or the other of two parallel planes; the faces that lie in those planes are the bases of the prismatoid
-
-w: <<truncated_cone>>
-hyper: [[frustum]]
-g: a frustum formed from a cone
-
-w: <<truncated_pyramid>>
-hyper: [[frustum]]
-g: a frustum formed from a pyramid
-
-w: <<frustum>>
-hyper: [[solid]]
-g: a truncated cone or pyramid; the part that is left when a cone or pyramid is cut by a plane parallel to the base and the apical part is removed
-
-w: <<regular_icosahedron>>
-hyper: [[regular_polyhedron]]
-g: an icosahedron with twenty equilateral triangles as faces
-
-w: <<regular_octahedron>>
-hyper: [[regular_polyhedron]]
-g: an octahedron with eight equilateral triangles as faces
-
-w: <<regular_dodecahedron>>
-hyper: [[regular_polyhedron]]
-g: a dodecahedron with twelve regular pentagons as faces
-
-w: <<quadrate2>>
-hyper: [[cube]]
-g: a cubelike object
-
-w: <<tesseract>>
-hyper: [[cube]]
-g: the four-dimensional analogue of a cube
-
-w: <<cube>> drf [[file:adjs.all.org::cuboidal]] drf [[file:adjs.all.org::cubical]] drf [[file:verb.contact.org::cube]]
-w: <<regular_hexahedron>>
-hyper: [[regular_polyhedron]]
-g: a hexahedron with six equal squares as faces
-
-w: <<regular_tetrahedron>>
-hyper: [[regular_polyhedron]]
-g: a tetrahedron with four equilateral triangular faces
-
-w: <<face_angle>>
+w: <<angular_distance>>
 hyper: [[angle]]
-g: the angle formed by two edges of a polyhedral angle
+g: the angular separation between two objects as perceived by an observer; "he recorded angular distances between the stars"
 
-w: <<polyhedral_angle>>
+w: <<angular_shape>>
+w: <<angularity>> drf [[file:adj.all.org::angular]]
+hyper: [[file:noun.Tops.org::shape]]
+g: a shape having one or more sharp angles
+
+w: <<arc>> drf [[file:verb.motion.org::arc]] drf [[file:adjs.all.org::arcuate]]
+hyper: [[curve]]
+hp: [[circle]]
+hp: [[sector]]
+g: a continuous portion of a circle
+
+w: <<arch>> drf [[file:verb.motion.org::arch]]
+hyper: [[curve]]
+g: a curved shape in the vertical plane that spans an opening
+
+w: <<articulation>> drf [[file:verb.possession.org::articulate]]
+w: <<join>>
+w: <<joint>> drf [[file:verb.contact.org::joint]] drf [[file:verb.possession.org::joint]] drf [[file:verb.stative.org::joint]]
+w: <<juncture>> drf [[file:verb.stative.org::join1]]
+w: <<junction>>
+hyper: [[connection]]
+g: the shape or manner in which things come together and a connection is made
+
+w: <<asterism>>
+hyper: [[star]]
+dt: [[file:noun.cognition.org::mineralogy]]
+g: (mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light
+
+w: <<asymptote>> drf [[file:adj.pert.org::asymptotic]]
+hyper: [[straight_line]]
+g: a straight line that is the limiting value of a curve; can be considered as tangent at infinity; "the asymptote of the curve"
+
+w: <<azimuth>> drf [[file:adj.pert.org::azimuthal]]
+w: <<AZ>>
 hyper: [[angle]]
-g: the space enclosed by three or more planes that intersect in a vertex
+g: the azimuth of a celestial body is the angle between the vertical plane containing it and the plane of the meridian
 
-w: <<regular_polyhedron>>
-w: <<regular_convex_solid>>
-w: <<regular_convex_polyhedron>>
-w: <<Platonic_body>>
-w: <<Platonic_solid>>
-w: <<ideal_solid>>
-hyper: [[polyhedron]]
-g: any one of five solids whose faces are congruent regular polygons and whose polyhedral angles are all congruent
+w: <<balance>>
+w: <<equilibrium>> drf [[file:verb.stative.org::equilibrate]] drf [[file:verb.change.org::equilibrate]] drf [[file:verb.stative.org::equilibrize]]
+w: <<equipoise>>
+w: <<counterbalance>>
+hyper: [[file:noun.artifact.org::structure]]
+g: equality of distribution
 
-w: <<icosahedron>> drf [[file:adj.pert.org::icosahedral]]
-hyper: [[polyhedron]]
-g: any polyhedron having twenty plane faces
+w: <<ball>>
+w: <<globe>> drf [[file:adjs.all.org::globular]] drf [[file:adjs.all.org::global]] drf [[file:verb.change.org::conglobate]]
+w: <<orb>>
+hyper: [[sphere]]
+g: an object with a spherical shape; "a ball of fire"
 
-w: <<dodecahedron>>
-hyper: [[polyhedron]]
-g: any polyhedron having twelve plane faces
+w: <<barrel>>
+w: <<drum>>
+hyper: [[cylinder]]
+g: a bulging cylindrical shape; hollow with flat ends
 
-w: <<decahedron>>
-hyper: [[polyhedron]]
-g: any polyhedron having ten plane faces
+w: <<base>>
+hyper: [[flank]]
+g: the bottom side of a geometric figure from which the altitude can be constructed; "the base of the triangle"
 
-w: <<octahedron>>
-hyper: [[polyhedron]]
-g: any polyhedron having eight plane faces
+w: <<bell>>
+w: <<bell_shape>>
+w: <<campana>> drf [[file:adj.pert.org::campanular]]
+hyper: [[curve]]
+g: the shape of a bell
 
-w: <<rhombohedron>> drf [[file:adjs.all.org::rhombohedral]]
-hyper: [[parallelepiped]]
-hyper: [[hexahedron]]
-g: a parallelepiped bounded by six similar faces (either rhombuses or parallelograms)
+w: <<belly>>
+hyper: [[bulge]]
+g: a part that bulges deeply; "the belly of a sail"
 
-w: <<hexahedron>>
-hyper: [[polyhedron]]
-g: any polyhedron having six plane faces
+w: <<bend2>> drf [[file:verb.motion.org::bend1]] drf [[file:verb.motion.org::bend]]
+w: <<crook>> drf [[file:verb.motion.org::crook]]
+w: <<twist1>>
+w: <<turn>>
+hyper: [[curve]]
+g: a circular segment of a curve; "a bend in the road"; "a crook in the path"
 
-w: <<pentahedron>>
-hyper: [[polyhedron]]
-g: any polyhedron having five plane faces
+w: <<bifurcation1>> drf [[file:verb.stative.org::bifurcate]] drf [[file:verb.change.org::bifurcate]]
+hyper: [[branch]]
+hp: [[bifurcation]]
+g: a bifurcating branch (one or both of them)
 
-w: <<tetrahedron>>
-hyper: [[polyhedron]]
-g: any polyhedron having four plane faces
+w: <<bifurcation>> drf [[file:verb.change.org::bifurcate]]
+hyper: [[furcation]]
+g: the place where something divides into two branches
 
-w: <<ovoid>> drf [[file:adjs.all.org::ovoid]]
-hyper: [[solid]]
-g: an egg-shaped object
+w: <<bight1>> drf [[file:verb.contact.org::bight]]
+hyper: [[loop]]
+g: a loop in a rope
 
-w: <<pyramid>> drf [[file:adjs.all.org::pyramidal]] drf [[file:adjs.all.org::pyramidical]] drf [[file:verb.contact.org::pyramid]]
-hyper: [[polyhedron]]
-g: a polyhedron having a polygonal base and triangular sides with a common vertex
+w: <<bight>>
+hyper: [[bend2]]
+g: a bend or curve (especially in a coastline)
+
+w: <<blob>> drf [[file:verb.contact.org::blob]]
+hyper: [[amorphous_shape]]
+g: an indistinct shapeless form
 
 w: <<block1>> drf [[file:adjs.all.org::blocky]] drf [[file:verb.change.org::block1]]
 w: <<cube1>> drf [[file:adjs.all.org::cuboidal]] drf [[file:adjs.all.org::cubical]] drf [[file:verb.contact.org::cube]]
 hyper: [[solid]]
 g: a three-dimensional shape with six square or rectangular sides
 
-w: <<pouch>>
-w: <<sac>>
-w: <<sack>>
-w: <<pocket>>
-hyper: [[cavity]]
-g: an enclosed space; "the trapped miners found a pocket of air"
+w: <<bolus>>
+hyper: [[ball]]
+g: a small round soft mass (as of chewed food)
 
-w: <<fork>> drf [[file:verb.change.org::fork1]]
-w: <<crotch>>
-hyper: [[branch]]
-g: the region of the angle formed by the junction of two branches; "they took the south fork"; "he climbed into the crotch of a tree"
+w: <<boundary>> drf [[file:verb.stative.org::bound]]
+w: <<edge>> drf [[file:verb.contact.org::edge]]
+w: <<bound>> drf [[file:verb.stative.org::bound]] drf [[file:verb.change.org::bound]]
+hyper: [[line]]
+g: a line determining the limits of an area
+
+w: <<bow>>
+w: <<arc1>> drf [[file:verb.motion.org::arc]]
+hyper: [[curve]]
+g: something curved in shape
+
+w: <<bowl>>
+w: <<trough>>
+hyper: [[concave_shape]]
+g: a concave shape with an open top
+
+w: <<box>>
+hyper: [[rectangle]]
+g: a rectangular drawing; "the flowchart contained many boxes"
 
 w: <<brachium>>
 hyper: [[branch]]
@@ -187,6 +183,47 @@ hyper: [[subfigure]]
 hp: [[furcation]]
 g: a part of a forked or branching shape; "he broke off one of the branches"
 
+w: <<brink>>
+w: <<threshold>>
+w: <<verge>> drf [[file:verb.stative.org::verge1]]
+hyper: [[boundary]]
+g: a region marking a boundary
+
+w: <<bulb>> drf [[file:adjs.all.org::bulblike]]
+hyper: [[round_shape]]
+g: anything with a round shape resembling a teardrop
+
+w: <<bulge>> drf [[file:adjs.all.org::bulgy]] drf [[file:verb.stative.org::bulge]] drf [[file:verb.motion.org::bulge]] drf [[file:verb.change.org::bulge1]] drf [[file:verb.change.org::bulge]]
+w: <<bump>>
+w: <<hump>> drf [[file:verb.motion.org::hump]]
+w: <<swelling>>
+w: <<gibbosity>> drf [[file:adjs.all.org::gibbous]]
+w: <<gibbousness>> drf [[file:adjs.all.org::gibbous]]
+w: <<jut>>
+w: <<prominence>>
+w: <<protuberance>> drf [[file:adjs.all.org::protuberant]] drf [[file:verb.stative.org::protuberate1]]
+w: <<protrusion>> drf [[file:verb.motion.org::protrude]] drf [[file:verb.change.org::protrude]]
+w: <<extrusion>>
+w: <<excrescence>> drf [[file:adj.pert.org::excrescent]]
+hyper: [[projection]]
+g: something that bulges out or is protuberant or projects from its surroundings; "the gun in his pocket made an obvious bulge"; "the hump of a camel"; "he stood on the rocky prominence"; "the occipital protuberance was well developed"; "the bony excrescence between its horns"
+
+w: <<camber>> drf [[file:verb.motion.org::camber]]
+hyper: [[convex_shape]]
+g: a slight convexity (as of the surface of a road)
+
+w: <<caput>>
+hyper: [[bulge]]
+g: a headlike protuberance on an organ or structure; "the caput humeri is the head of the humerus which fits into a cavity in the scapula"
+
+w: <<cardioid>>
+hyper: [[epicycloid]]
+g: an epicycloid in which the rolling circle equals the fixed circle
+
+w: <<Cartesian_plane>>
+hyper: [[plane]]
+g: a plane in which all points can be described in Cartesian coordinates
+
 w: <<cast>> drf [[file:verb.communication.org::cast]]
 w: <<mold>> drf [[file:verb.creation.org::mold1]] drf [[file:verb.creation.org::mold]] drf [[file:verb.creation.org::mold2]]
 w: <<mould>>
@@ -194,18 +231,114 @@ w: <<stamp>> drf [[file:verb.creation.org::stamp]] drf [[file:verb.perception.or
 hyper: [[solid]]
 g: the distinctive form in which a thing is made; "pottery of this cast was found throughout the region"
 
-w: <<ray>> drf [[file:verb.stative.org::ray]]
-hyper: [[vector]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) a straight line extending from a point
+w: <<catenary>>
+hyper: [[curve]]
+g: the curve theoretically assumed by a perfectly flexible and inextensible cord of uniform density and cross section hanging freely from two fixed points
 
-w: <<vector>>
+w: <<cavity>>
+w: <<enclosed_space>>
+hyper: [[space]]
+g: space that is surrounded by something
+
+w: <<centerline>>
+w: <<center_line>>
+hyper: [[line]]
+g: a line that bisects a plane figure
+
+w: <<chord>>
 hyper: [[straight_line]]
-g: a straight line segment whose length is magnitude and whose orientation in space is direction
+g: a straight line connecting two points on a curve
 
-w: <<facet>>
-hyper: [[subfigure]]
-g: a smooth surface (as of a bone or cut gemstone)
+w: <<circle1>> drf [[file:verb.contact.org::circle12]]
+hyper: [[file:noun.Tops.org::shape]]
+g: something approximating the shape of a circle; "the chairs were arranged in a circle"
+
+w: <<circle>> drf [[file:adj.all.org::circular]]
+hyper: [[ellipse]]
+g: ellipse in which the two axes are of equal length; a plane curve generated by one point moving at a constant distance from a fixed point; "he calculated the circumference of the circle"
+
+w: <<circlet>>
+hyper: [[circle]]
+g: a small circle
+
+w: <<cladogram>>
+hyper: [[tree]]
+g: a tree diagram used to illustrate phylogenetic relationships
+
+w: <<cleft>> drf [[file:verb.contact.org::cleave]] drf [[file:verb.contact.org::cleave1]]
+hyper: [[indentation]]
+g: a split or indentation in something (as the palate or chin)
+
+w: <<closed_curve>>
+hyper: [[curve]]
+g: a curve (such as a circle) having no endpoints
+
+w: <<coil>> drf [[file:verb.motion.org::coil]] drf [[file:verb.contact.org::coil]]
+w: <<whorl>>
+w: <<roll>> drf [[file:verb.change.org::roll10]] drf [[file:verb.contact.org::roll5]] drf [[file:verb.stative.org::roll]]
+w: <<curl>> drf [[file:verb.contact.org::curl1]] drf [[file:verb.motion.org::curl]] drf [[file:verb.change.org::curl]]
+w: <<curlicue>>
+w: <<ringlet>>
+w: <<gyre>>
+w: <<scroll>>
+hyper: [[round_shape]]
+g: a round shape formed by a series of concentric circles (as formed by leaves or flower petals)
+
+w: <<columella>>
+hyper: [[column2]]
+g: a small column (or structure resembling a column) that is a part of a plant or animal
+
+w: <<column2>> drf [[file:adjs.all.org::columnar2]]
+w: <<tower>> drf [[file:verb.stative.org::tower]]
+w: <<pillar>>
+hyper: [[file:noun.Tops.org::shape]]
+g: anything that approximates the shape of a column or tower; "the test tube held a column of white powder"; "a tower of dust rose above the horizon"; "a thin pillar of smoke betrayed their campsite"
+
+w: <<complementary_angles>>
+hyper: [[angle]]
+g: two angles whose sum is a right angle
+
+w: <<concave_polygon>> ant [[convex_polygon]]
+hyper: [[polygon]]
+g: a polygon such that there is a straight line that cuts it in four or more points
+
+w: <<concave_polyhedron>>
+hyper: [[polyhedron]]
+g: a polyhedron some of whose plane sections are concave polygons
+
+w: <<concave_shape>>
+w: <<concavity>> drf [[file:adj.all.org::concave]]
+w: <<incurvation>> drf [[file:verb.contact.org::incurvate]] drf [[file:verb.motion.org::incurvate]]
+w: <<incurvature>>
+hyper: [[solid]]
+g: a shape that curves or bends inward
+
+w: <<cone>> drf [[file:adj.pert.org::conic]] drf [[file:adj.pert.org::conical]] drf [[file:verb.contact.org::cone]]
+w: <<conoid>>
+w: <<cone_shape>>
+hyper: [[round_shape]]
+g: a shape whose base is a circle and whose sides taper up to a point
+
+w: <<conformation>>
+hyper: [[balance]]
+g: a symmetrical arrangement of the parts of a thing
+
+w: <<conglomeration>>
+w: <<conglobation>> drf [[file:verb.change.org::conglobate]]
+hyper: [[sphere]]
+g: a rounded spherical form
+
+w: <<conic_section>>
+w: <<conic>> drf [[file:adj.pert.org::conic]]
+hyper: [[plane_figure]]
+dt: [[file:noun.cognition.org::geometry]]
+g: (geometry) a curve generated by the intersection of a plane and a circular cone
+
+w: <<connection>>
+w: <<connexion>>
+w: <<link>>
+hyper: [[file:noun.Tops.org::shape]]
+g: a connecting shape
 
 w: <<constriction>> drf [[file:verb.change.org::constrict]]
 w: <<bottleneck>> drf [[file:verb.change.org::bottleneck]]
@@ -213,144 +346,275 @@ w: <<chokepoint>>
 hyper: [[file:noun.attribute.org::narrowing]]
 g: a narrowing that reduces the flow through a channel
 
-w: <<spur>> drf [[file:verb.contact.org::spur2]]
-w: <<spine>> drf [[file:adjs.all.org::spinous]]
-w: <<acantha>> drf [[file:adjs.all.org::acanthous]]
-hyper: [[projection]]
-g: any sharply pointed projection
+w: <<convex_polygon>> ant [[concave_polygon]]
+hyper: [[polygon]]
+g: a polygon such that no side extended cuts any other side or vertex; it can be cut by a straight line in at most two points
 
-w: <<thalweg>>
-hyper: [[boundary]]
-g: the middle of the chief navigable channel of a waterway that forms the boundary line between states
+w: <<convex_polyhedron>>
+hyper: [[polyhedron]]
+g: a polyhedron any plane section of which is a convex polygon
 
-w: <<stemma>>
-hyper: [[tree]]
-g: a tree diagram showing a reconstruction of the transmission of manuscripts of a literary work
+w: <<convex_shape>>
+w: <<convexity>> drf [[file:adj.all.org::convex]]
+hyper: [[solid]]
+g: a shape that curves or bulges outward
 
-w: <<cladogram>>
-hyper: [[tree]]
-g: a tree diagram used to illustrate phylogenetic relationships
+w: <<corrugation>> drf [[file:verb.contact.org::corrugate]]
+hyper: [[ridge]]
+g: a ridge on a corrugated surface
 
-w: <<tree>>
-w: <<tree_diagram>>
-hyper: [[plane_figure]]
-g: a figure that branches from a single root; "genealogical tree"
+w: <<crescent>> drf [[file:adjs.all.org::crescent]]
+hyper: [[curve]]
+g: any shape resembling the curved shape of the moon in its first or last quarters
 
-w: <<pore>> drf [[file:adjs.all.org::porous]] drf [[file:adj.all.org::poriferous]]
-hyper: [[hole]]
-g: any tiny hole admitting passage of a liquid (fluid or gas)
+w: <<crevice>>
+w: <<cranny1>>
+w: <<crack>>
+w: <<fissure>> drf [[file:verb.change.org::fissure]]
+w: <<chap>>
+hyper: [[depression]]
+g: a long narrow depression in a surface
 
-w: <<point2>> drf [[file:verb.contact.org::point12]] drf [[file:verb.contact.org::point11]] drf [[file:verb.contact.org::point13]]
-w: <<dot>> drf [[file:verb.change.org::dot]] drf [[file:verb.communication.org::dot]] drf [[file:verb.stative.org::dot]]
-hyper: [[disk]]
-g: a very small circular shape; "a row of points"; "draw lines between the dots"
+w: <<critical_angle>>
+hyper: [[angle_of_incidence]]
+g: the smallest angle of incidence for which light is totally reflected
 
-w: <<pocket2>>
-hyper: [[space]]
-dt: [[file:noun.act.org::bowling]]
-g: (bowling) the space between the headpin and the pins behind it on the right or left; "the ball hit the pocket and gave him a perfect strike"
+w: <<crow's_foot>>
+w: <<crow's_feet>>
+w: <<laugh_line>>
+hyper: [[wrinkle]]
+g: a wrinkle in the skin at the outer corner of your eyes
 
-w: <<cavity>>
-w: <<enclosed_space>>
-hyper: [[space]]
-g: space that is surrounded by something
+w: <<cube>> drf [[file:adjs.all.org::cuboidal]] drf [[file:adjs.all.org::cubical]] drf [[file:verb.contact.org::cube]]
+w: <<regular_hexahedron>>
+hyper: [[regular_polyhedron]]
+g: a hexahedron with six equal squares as faces
 
-w: <<hole>>
-hyper: [[space]]
-g: an unoccupied space
+w: <<cuboid>>
+hyper: [[parallelepiped]]
+g: a rectangular parallelepiped
 
-w: <<articulation>> drf [[file:verb.possession.org::articulate]]
-w: <<join>>
-w: <<joint>> drf [[file:verb.contact.org::joint]] drf [[file:verb.possession.org::joint]] drf [[file:verb.stative.org::joint]]
-w: <<juncture>> drf [[file:verb.stative.org::join1]]
-w: <<junction>>
-hyper: [[connection]]
-g: the shape or manner in which things come together and a connection is made
+w: <<cup>>
+hyper: [[concave_shape]]
+g: any cup-shaped concavity; "bees filled the waxen cups with honey"; "he wore a jock strap with a metal cup"; "the cup of her bra"
 
-w: <<node2>>
-hyper: [[connection]]
-g: a connecting point at which several lines come together
-
-w: <<hollow2>> drf [[file:adj.all.org::hollow]]
-hyper: [[cavity]]
-g: a cavity or space in something; "hunger had caused the hollows in their cheeks"
-
-w: <<space>> drf [[file:verb.motion.org::space]]
-hyper: [[amorphous_shape]]
-hyper: [[file:noun.Tops.org::location]]
-g: an empty area (usually bounded in some way between things); "the architect left space in front of the building"; "they stopped at an open space in the jungle"; "the space between his teeth"
-
-w: <<void>> drf [[file:adjs.all.org::void]] drf [[file:verb.change.org::void4]]
-w: <<vacancy>> drf [[file:adjs.all.org::vacant1]]
-w: <<emptiness>>
-w: <<vacuum>>
-hyper: [[space]]
-g: an empty area or space; "the huge desert voids"; "the emptiness of outer space"; "without their support he'll be ruling in a vacuum"
-
-w: <<blob>> drf [[file:verb.contact.org::blob]]
-hyper: [[amorphous_shape]]
-g: an indistinct shapeless form
-
-w: <<shapelessness>> drf [[file:adjs.all.org::shapeless]]
-hyper: [[amorphous_shape]]
-g: an amorphous or indefinite shape; "a shapeless mass"
-
-w: <<hypocycloid>>
-hyper: [[roulette]]
-g: a line generated by a point on a circle that rolls around inside another circle
-
-w: <<cardioid>>
-hyper: [[epicycloid]]
-g: an epicycloid in which the rolling circle equals the fixed circle
-
-w: <<epicycloid>>
-hyper: [[roulette]]
-g: a line generated by a point on a circle rolling around another circle
-
-w: <<epicycle>> drf [[file:adj.pert.org::epicyclic]] drf [[file:adj.pert.org::epicyclical]]
-hyper: [[circle]]
-g: a circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid
-
-w: <<sine_curve>>
-w: <<sinusoid>> drf [[file:adjs.all.org::sinusoidal]]
-hyper: [[wave]]
-g: the curve of y=sin x
-
-w: <<prolate_cycloid>>
-hyper: [[cycloid]]
-g: a cycloid generated by a point outside the rolling circle
+w: <<Cupid's_bow>>
+hyper: [[curve]]
+g: the double curve of the upper lip when considered to resemble Cupid's bow
 
 w: <<curate_cycloid>>
 hyper: [[cycloid]]
 g: a cycloid generated by a point inside the rolling circle
 
+w: <<curve>> drf [[file:verb.motion.org::curve]] ant [[straight_line]]
+w: <<curved_shape>>
+hyper: [[line]]
+g: the trace of a point whose direction of motion changes
+
+w: <<cutting_angle>>
+hyper: [[angle]]
+g: the angle between the face of a cutting tool and the surface of the work
+
 w: <<cycloid>> drf [[file:adjs.all.org::cycloidal]]
 hyper: [[roulette]]
 g: a line generated by a point on a circle rolling along a straight line
 
-w: <<roulette>>
-w: <<line_roulette>>
-hyper: [[curve]]
-g: a line generated by a point on one figure rolling around a second figure
+w: <<cylinder>> drf [[file:adjs.all.org::cylindric]]
+hyper: [[round_shape]]
+g: a surface generated by rotating a parallel line around a fixed line
 
-w: <<stria>> drf [[file:verb.change.org::striate]]
-w: <<striation>> drf [[file:verb.change.org::striate]]
-hyper: [[groove]]
-g: any of a number of tiny parallel grooves such as: the scratches left by a glacier on rocks or the streaks or ridges in muscle tissue
+w: <<cylinder2>> drf [[file:adjs.all.org::cylindric]]
+hyper: [[solid]]
+g: a solid bounded by a cylindrical surface and two parallel planes (the bases)
 
-w: <<cleft>> drf [[file:verb.contact.org::cleave]] drf [[file:verb.contact.org::cleave1]]
-hyper: [[indentation]]
-g: a split or indentation in something (as the palate or chin)
+w: <<decagon>>
+hyper: [[polygon]]
+g: a polygon with 10 sides and 10 angles
 
-w: <<indentation>>
-w: <<indenture>>
+w: <<decahedron>>
+hyper: [[polyhedron]]
+g: any polyhedron having ten plane faces
+
+w: <<delta>>
+hyper: [[equilateral_triangle]]
+g: an object shaped like an equilateral triangle
+
+w: <<depression>>
+w: <<impression>>
+w: <<imprint>>
 hyper: [[concave_shape]]
-g: a concave cut into a surface or edge (as in a coastline)
+g: a concavity in a surface produced by pressing; "he left the impression of his fingers in the soft mud"
 
-w: <<pucker>> drf [[file:verb.contact.org::pucker2]] drf [[file:verb.contact.org::pucker1]]
-w: <<ruck>> drf [[file:verb.contact.org::ruck]]
-hyper: [[fold]]
-g: an irregular fold in an otherwise even surface (as in cloth)
+w: <<dermatoglyphic>>
+hyper: [[wrinkle]]
+g: the lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet)
+
+w: <<dewdrop>>
+hyper: [[drop]]
+g: a drop of dew
+
+w: <<diagonal1>> drf [[file:adjs.all.org::diagonal2]]
+hyper: [[straight_line]]
+dt: [[file:noun.cognition.org::geometry]]
+g: (geometry) a straight line connecting any two vertices of a polygon that are not adjacent
+
+w: <<diagonal>> drf [[file:adjs.all.org::diagonal]]
+w: <<bias>>
+hyper: [[straight_line]]
+g: a line or cut across a fabric that is not at right angles to a side of the fabric
+
+w: <<diameter>> drf [[file:adj.pert.org::diametral]] drf [[file:adj.pert.org::diametric]] drf [[file:adj.pert.org::diametrical]]
+hyper: [[straight_line]]
+g: a straight line connecting the center of a circle with two points on its perimeter (or the center of a sphere with two points on its surface)
+
+w: <<dimple>> drf [[file:verb.change.org::dimple]]
+hyper: [[depression]]
+g: any slight depression in a surface; "there are approximately 336 dimples on a golf ball"
+
+w: <<dip1>> drf [[file:verb.motion.org::dip2]] drf [[file:verb.change.org::dip1]]
+hyper: [[depression]]
+g: a depression in an otherwise level surface; "there was a dip in the road"
+
+w: <<dip>>
+w: <<angle_of_dip>>
+w: <<magnetic_dip>>
+w: <<magnetic_inclination>>
+w: <<inclination>> drf [[file:verb.motion.org::incline]]
+hyper: [[angle]]
+dt: [[file:noun.cognition.org::physics]]
+g: (physics) the angle that a magnetic needle makes with the plane of the horizon
+
+w: <<disk>>
+w: <<disc>>
+w: <<saucer>>
+hyper: [[round_shape]]
+g: something with a round shape resembling a flat circular plate; "the moon's disk hung in a cloudless sky"
+
+w: <<disproportion>> ant [[proportion]]
+hyper: [[file:noun.attribute.org::disparity]]
+g: lack of proportion; imbalance among the parts of something
+
+w: <<distorted_shape>>
+w: <<distortion>> drf [[file:noun.person.org::distortionist]] drf [[file:verb.contact.org::distort1]] drf [[file:verb.contact.org::distort]]
+hyper: [[file:noun.Tops.org::shape]]
+g: a shape resulting from distortion
+
+w: <<dodecagon>>
+hyper: [[polygon]]
+g: a twelve-sided polygon
+
+w: <<dodecahedron>>
+hyper: [[polyhedron]]
+g: any polyhedron having twelve plane faces
+
+w: <<dogleg>>
+hyper: [[angle]]
+g: angle that resembles the hind leg of a dog
+
+w: <<dome>>
+hyper: [[concave_shape]]
+g: a concave shape whose distinguishing characteristic is that the concavity faces downward
+
+w: <<double_helix>>
+hyper: [[helix]]
+g: a pair of parallel helices intertwined about a common axis; "the shape of the DNA molecule is a double helix"
+
+w: <<drop>> drf [[file:noun.quantity.org::droplet]]
+w: <<bead>> drf [[file:adjs.all.org::beady]] drf [[file:verb.stative.org::bead]]
+w: <<pearl>>
+hyper: [[sphere]]
+g: a shape that is spherical and small; "he studied the shapes of low-viscosity drops"; "beads of sweat on his forehead"
+
+w: <<eccentricity>> drf [[file:adj.all.org::eccentric]]
+hyper: [[file:noun.relation.org::ratio1]]
+dt: [[file:noun.cognition.org::geometry]]
+g: (geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis; "a circle is an ellipse with zero eccentricity"
+
+w: <<element>>
+hyper: [[straight_line]]
+g: a straight line that generates a cylinder or cone
+
+w: <<element_of_a_cone>>
+hyper: [[element]]
+g: a straight line joining the apex and a point on the base
+
+w: <<element_of_a_cylinder>>
+hyper: [[element]]
+g: a straight line running the length of the cylinder
+
+w: <<ellipse>> drf [[file:adjs.all.org::elliptic]] drf [[file:adjs.all.org::elliptical]]
+w: <<oval>> drf [[file:adjs.all.org::oval]]
+hyper: [[conic_section]]
+g: a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it; "the sums of the distances from the foci to any point on an ellipse is constant"
+
+w: <<ellipsoid>> drf [[file:adjs.all.org::ellipsoid]] drf [[file:adjs.all.org::ellipsoidal]]
+hyper: [[plane_figure]]
+g: a surface whose plane sections are all ellipses or circles; "the Earth is an ellipsoid"
+
+w: <<entasis>>
+hyper: [[convex_shape]]
+hp: [[file:noun.artifact.org::column]]
+g: a slight convexity in the shaft of a column; compensates for the illusion of concavity that viewers experience when the sides are perfectly straight
+
+w: <<envelope>>
+hyper: [[curve]]
+g: a curve that is tangent to each of a family of curves
+
+w: <<epicycle>> drf [[file:adj.pert.org::epicyclic]] drf [[file:adj.pert.org::epicyclical]]
+hyper: [[circle]]
+g: a circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid
+
+w: <<epicycloid>>
+hyper: [[roulette]]
+g: a line generated by a point on a circle rolling around another circle
+
+w: <<equator>> drf [[file:adj.pert.org::equatorial2]] drf [[file:verb.change.org::equate]]
+hyper: [[circle]]
+g: a circle dividing a sphere or other surface into two usually equal and symmetrical parts
+
+w: <<equilateral>>
+hyper: [[figure]]
+g: a figure whose sides are all equal
+
+w: <<equilateral_triangle>>
+w: <<equiangular_triangle>>
+hyper: [[triangle]]
+hyper: [[regular_polygon]]
+g: a three-sided regular polygon
+
+w: <<exterior_angle>>
+w: <<external_angle>>
+hyper: [[angle]]
+g: the supplement of an interior angle of a polygon
+
+w: <<extrados>>
+hyper: [[curve]]
+g: the exterior curve of an arch
+
+w: <<face_angle>>
+hyper: [[angle]]
+g: the angle formed by two edges of a polyhedral angle
+
+w: <<facet>>
+hyper: [[subfigure]]
+g: a smooth surface (as of a bone or cut gemstone)
+
+w: <<facet_plane>>
+hyper: [[plane]]
+g: the plane of a facet of an object (as of a cube)
+
+w: <<figure>>
+hyper: [[file:noun.Tops.org::shape]]
+g: a combination of points and lines and planes that form a visible palpable shape
+
+w: <<flank>> drf [[file:verb.stative.org::flank]]
+hyper: [[subfigure]]
+g: a subfigure consisting of a side of something
+
+w: <<flare>> drf [[file:verb.change.org::flare]]
+w: <<flair>>
+hyper: [[file:noun.Tops.org::shape]]
+g: a shape that spreads outward; "the skirt had a wide flare"
 
 w: <<fold>> drf [[file:verb.contact.org::fold]]
 w: <<crease2>>
@@ -361,13 +625,212 @@ w: <<bend1>> drf [[file:verb.motion.org::bend]] drf [[file:verb.contact.org::ben
 hyper: [[angular_shape]]
 g: an angular or rounded shape made by folding; "a fold in the napkin"; "a crease in his trousers"; "a plication on her blouse"; "a flexure of the colon"; "a bend of his elbow"
 
-w: <<crevice>>
-w: <<cranny1>>
-w: <<crack>>
-w: <<fissure>> drf [[file:verb.change.org::fissure]]
-w: <<chap>>
+w: <<fork>> drf [[file:verb.change.org::fork1]]
+w: <<crotch>>
+hyper: [[branch]]
+g: the region of the angle formed by the junction of two branches; "they took the south fork"; "he climbed into the crotch of a tree"
+
+w: <<frown_line>>
+hyper: [[wrinkle]]
+g: a facial wrinkle associated with frowning
+
+w: <<frustum>>
+hyper: [[solid]]
+g: a truncated cone or pyramid; the part that is left when a cone or pyramid is cut by a plane parallel to the base and the apical part is removed
+
+w: <<funnel>> drf [[file:verb.contact.org::funnel]]
+w: <<funnel_shape>>
+hyper: [[cone]]
+g: a conical shape with a wider and a narrower opening at the two ends
+
+w: <<furcation>> drf [[file:verb.change.org::furcate]]
+w: <<forking>> drf [[file:verb.change.org::fork]]
+hyper: [[angular_shape]]
+g: the place where something divides into branches
+
+w: <<geodesic>> drf [[file:adj.pert.org::geodesic]]
+w: <<geodesic_line>>
+hyper: [[line]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) the shortest line between two points on a mathematically defined surface (as a straight line on a plane or an arc of a great circle on a sphere)
+
+w: <<gooseneck>>
+hyper: [[curve]]
+g: something in a thin curved form (like the neck of a goose)
+
+w: <<groove>> drf [[file:verb.contact.org::groove]] drf [[file:verb.contact.org::groove2]]
+w: <<channel>>
 hyper: [[depression]]
-g: a long narrow depression in a surface
+g: a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)
+
+w: <<heart>>
+hyper: [[plane_figure]]
+g: a plane figure with rounded sides curving inward at the top and intersecting at the bottom; conventionally used on playing cards and valentines; "he drew a heart and called it a valentine"
+
+w: <<helix_angle>>
+hyper: [[angle]]
+g: the constant angle at which a helix cuts the elements of a cylinder or cone
+
+w: <<helix>>
+w: <<spiral1>> drf [[file:verb.stative.org::spiral]]
+hyper: [[curve]]
+g: a curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle
+
+w: <<hemisphere>> drf [[file:adj.pert.org::hemispherical]]
+hyper: [[subfigure]]
+g: half of a sphere
+
+w: <<heptagon>>
+hyper: [[polygon]]
+g: a seven-sided polygon
+
+w: <<hexagon>> drf [[file:adj.pert.org::hexagonal]]
+hyper: [[polygon]]
+g: a six-sided polygon
+
+w: <<hexagram>>
+hyper: [[star]]
+g: a regular polygon formed by extending each of the sides of a regular hexagon to form two equilateral triangles
+
+w: <<hexahedron>>
+hyper: [[polyhedron]]
+g: any polyhedron having six plane faces
+
+w: <<hip>>
+hyper: [[exterior_angle]]
+hp: [[file:noun.artifact.org::hip_roof]]
+dt: [[file:noun.cognition.org::architecture]]
+g: (architecture) the exterior angle formed by the junction of a sloping side and a sloping end of a roof
+
+w: <<hole>>
+hyper: [[space]]
+g: an unoccupied space
+
+w: <<hollow2>> drf [[file:adj.all.org::hollow]]
+hyper: [[cavity]]
+g: a cavity or space in something; "hunger had caused the hollows in their cheeks"
+
+w: <<hoodoo>>
+hyper: [[column2]]
+dt: [[file:noun.cognition.org::geology]]
+g: (geology) a column of weathered and unusually shaped rock; "a tall sandstone hoodoo"
+
+w: <<hook>>
+w: <<crotchet>>
+hyper: [[curve]]
+g: a sharp curve or crook; a shape resembling a hook
+
+w: <<hour_angle>>
+w: <<HA>>
+hyper: [[angular_distance]]
+dt: [[file:noun.cognition.org::astronomy]]
+g: (astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day
+
+w: <<hyperbola>> drf [[file:adj.pert.org::hyperbolic]]
+hyper: [[conic_section]]
+g: an open curve formed by a plane that cuts the base of a right circular cone
+
+w: <<hyperboloid>> drf [[file:adjs.all.org::hyperboloidal]]
+hyper: [[quadric]]
+g: a quadric surface generated by rotating a hyperbola around its main axis
+
+w: <<hypocycloid>>
+hyper: [[roulette]]
+g: a line generated by a point on a circle that rolls around inside another circle
+
+w: <<hypotenuse>>
+hyper: [[flank]]
+hp: [[right_triangle]]
+g: the side of a right triangle opposite the right angle
+
+w: <<icosahedron>> drf [[file:adj.pert.org::icosahedral]]
+hyper: [[polyhedron]]
+g: any polyhedron having twenty plane faces
+
+w: <<incision>> drf [[file:adjs.all.org::incisive]] drf [[file:verb.contact.org::incise]]
+w: <<scratch>> drf [[file:verb.contact.org::scratch]]
+w: <<prick>> drf [[file:verb.contact.org::prick]]
+w: <<slit>> drf [[file:verb.contact.org::slit]] drf [[file:verb.contact.org::slit1]]
+w: <<dent>> drf [[file:verb.contact.org::dent]]
+hyper: [[depression]]
+g: a depression scratched or carved into a surface
+
+w: <<incisure>> drf [[file:verb.contact.org::incise]]
+w: <<incisura>>
+hyper: [[notch]]
+dt: [[file:noun.cognition.org::anatomy]]
+g: (anatomy) a notch or small hollow
+
+w: <<inclination1>> drf [[file:verb.motion.org::incline]]
+w: <<angle_of_inclination>>
+hyper: [[angle]]
+dt: [[file:noun.cognition.org::geometry]]
+g: (geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)
+
+w: <<inclination2>> drf [[file:verb.motion.org::incline]]
+w: <<inclination_of_an_orbit>>
+hyper: [[angle]]
+dt: [[file:noun.cognition.org::astronomy]]
+g: (astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees
+
+w: <<indentation>>
+w: <<indenture>>
+hyper: [[concave_shape]]
+g: a concave cut into a surface or edge (as in a coastline)
+
+w: <<interior_angle>>
+w: <<internal_angle>>
+hyper: [[angle]]
+g: the angle inside two adjacent sides of a polygon
+
+w: <<intersection>>
+hyper: [[file:noun.group.org::set2]]
+g: a point or set of points common to two or more geometric configurations
+
+w: <<intrados>>
+hyper: [[curve]]
+g: the interior curve of an arch
+
+w: <<isogon>> drf [[file:adjs.all.org::isogonic]]
+hyper: [[polygon]]
+g: an equiangular polygon
+
+w: <<isosceles_triangle>>
+hyper: [[triangle]]
+g: a triangle with two equal sides
+
+w: <<jog>>
+hyper: [[angular_shape]]
+g: a sharp change in direction; "there was a jog in the road"
+
+w: <<keel>>
+hyper: [[projection]]
+g: a projection or ridge that suggests a keel
+
+w: <<kink>> drf [[file:verb.change.org::kink]] drf [[file:verb.contact.org::kink]]
+w: <<twist>> drf [[file:verb.contact.org::twist1]]
+w: <<twirl>>
+hyper: [[fold]]
+g: a sharp bend in a line produced when a line having a loop is pulled tight
+
+w: <<knot>> drf [[file:adjs.all.org::knotty]] drf [[file:verb.contact.org::knot2]] drf [[file:verb.creation.org::knot]]
+w: <<gnarl>> drf [[file:adjs.all.org::gnarly]] drf [[file:verb.contact.org::gnarl]]
+hyper: [[distorted_shape]]
+g: something twisted and tight and swollen; "their muscles stood out in knots"; "the old man's fists were two great gnarls"; "his stomach was in knots"
+
+w: <<lead>>
+hyper: [[angle]]
+g: the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)
+
+w: <<leaf_shape>>
+w: <<leaf_form>>
+hyper: [[natural_shape]]
+hp: [[file:noun.plant.org::leaf]]
+g: any of the various shape that leaves of plants can assume
+
+w: <<line>>
+hyper: [[file:noun.Tops.org::shape]]
+g: a length (straight or curved) without breadth or thickness; the trace of a moving point
 
 w: <<line_of_fate>>
 w: <<line_of_destiny>>
@@ -388,97 +851,20 @@ w: <<lifeline>>
 hyper: [[wrinkle]]
 g: a crease on the palm; its length is said by palmists to indicate how long you will live
 
-w: <<frown_line>>
-hyper: [[wrinkle]]
-g: a facial wrinkle associated with frowning
-
-w: <<dermatoglyphic>>
-hyper: [[wrinkle]]
-g: the lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet)
-
-w: <<crow's_foot>>
-w: <<crow's_feet>>
-w: <<laugh_line>>
-hyper: [[wrinkle]]
-g: a wrinkle in the skin at the outer corner of your eyes
-
-w: <<wrinkle>> drf [[file:verb.contact.org::wrinkle2]] drf [[file:verb.contact.org::wrinkle1]] drf [[file:verb.contact.org::wrinkle]] drf [[file:verb.change.org::wrinkle10]]
-w: <<furrow>> drf [[file:verb.contact.org::furrow1]]
-w: <<crease1>> drf [[file:verb.change.org::crease10]] drf [[file:verb.contact.org::crease1]] drf [[file:verb.contact.org::crease]]
-w: <<crinkle>> drf [[file:adjs.all.org::crinkly]] drf [[file:verb.change.org::crinkle10]] drf [[file:verb.contact.org::crinkle]]
-w: <<seam1>>
-w: <<line1>> drf [[file:verb.contact.org::line2]]
-hyper: [[depression]]
-hp: [[file:noun.body.org::skin]]
-g: a slight depression in the smoothness of a surface; "his face has many lines"; "ironing gets rid of most wrinkles"
-
-w: <<sag>> drf [[file:verb.motion.org::sag1]] drf [[file:verb.motion.org::sag]]
-w: <<droop>> drf [[file:adjs.all.org::droopy]] drf [[file:verb.change.org::droop]] drf [[file:verb.stative.org::droop]] drf [[file:verb.motion.org::droop]]
-hyper: [[depression]]
-g: a shape that sags; "there was a sag in the chair seat"
-
-w: <<score>> drf [[file:verb.contact.org::score]]
-w: <<scotch>> drf [[file:verb.contact.org::scotch]]
-hyper: [[incision]]
-g: a slight surface cut (especially a notch that is made to keep a tally)
-
-w: <<notch>> drf [[file:verb.contact.org::notch]]
-hyper: [[indentation]]
-g: a V-shaped indentation; "mandibular notch"
-
-w: <<incisure>> drf [[file:verb.contact.org::incise]]
-w: <<incisura>>
-hyper: [[notch]]
-dt: [[file:noun.cognition.org::anatomy]]
-g: (anatomy) a notch or small hollow
-
-w: <<incision>> drf [[file:adjs.all.org::incisive]] drf [[file:verb.contact.org::incise]]
-w: <<scratch>> drf [[file:verb.contact.org::scratch]]
-w: <<prick>> drf [[file:verb.contact.org::prick]]
-w: <<slit>> drf [[file:verb.contact.org::slit]] drf [[file:verb.contact.org::slit1]]
-w: <<dent>> drf [[file:verb.contact.org::dent]]
-hyper: [[depression]]
-g: a depression scratched or carved into a surface
-
-w: <<cup>>
-hyper: [[concave_shape]]
-g: any cup-shaped concavity; "bees filled the waxen cups with honey"; "he wore a jock strap with a metal cup"; "the cup of her bra"
-
-w: <<dip1>> drf [[file:verb.motion.org::dip2]] drf [[file:verb.change.org::dip1]]
-hyper: [[depression]]
-g: a depression in an otherwise level surface; "there was a dip in the road"
-
-w: <<diagonal1>> drf [[file:adjs.all.org::diagonal2]]
-hyper: [[straight_line]]
-dt: [[file:noun.cognition.org::geometry]]
-g: (geometry) a straight line connecting any two vertices of a polygon that are not adjacent
-
-w: <<diagonal>> drf [[file:adjs.all.org::diagonal]]
-w: <<bias>>
-hyper: [[straight_line]]
-g: a line or cut across a fabric that is not at right angles to a side of the fabric
+w: <<loop>> drf [[file:adj.pert.org::loopy]] drf [[file:verb.contact.org::loop]] drf [[file:verb.creation.org::loop]]
+hyper: [[simple_closed_curve]]
+g: anything with a round or oval shape (formed by a curve that is closed and does not intersect itself)
 
 w: <<lower_bound>>
 hyper: [[boundary]]
 dt: [[file:noun.cognition.org::mathematics]]
 g: (mathematics) a number equal to or less than any other number in a given set
 
-w: <<upper_bound>>
-hyper: [[boundary]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) a number equal to or greater than any other number in a given set
-
-w: <<brink>>
-w: <<threshold>>
-w: <<verge>> drf [[file:verb.stative.org::verge1]]
-hyper: [[boundary]]
-g: a region marking a boundary
-
-w: <<periphery>> drf [[file:adj.all.org::peripheral]]
-w: <<fringe>> drf [[file:adjs.all.org::fringy]]
-w: <<outer_boundary>>
-hyper: [[boundary]]
-g: the outside boundary or surface of something
+w: <<magnetic_declination>>
+w: <<magnetic_variation>>
+w: <<variation>> drf [[file:verb.stative.org::vary1]]
+hyper: [[angle]]
+g: the angle (at a particular location) between magnetic north and true north
 
 w: <<margin>> drf [[file:adjs.all.org::marginal]]
 w: <<border>> drf [[file:verb.stative.org::border]]
@@ -486,20 +872,195 @@ w: <<perimeter>>
 hyper: [[boundary]]
 g: the boundary line or the area immediately inside the boundary
 
-w: <<boundary>> drf [[file:verb.stative.org::bound]]
-w: <<edge>> drf [[file:verb.contact.org::edge]]
-w: <<bound>> drf [[file:verb.stative.org::bound]] drf [[file:verb.change.org::bound]]
-hyper: [[line]]
-g: a line determining the limits of an area
+w: <<midplane>>
+w: <<midline>>
+hyper: [[plane]]
+g: the median plane of the body (or some part of the body)
 
-w: <<quadric>>
-w: <<quadric_surface>>
-hyper: [[curve]]
-g: a curve or surface whose equation (in Cartesian coordinates) is of the second degree
+w: <<mogul>>
+hyper: [[bulge]]
+g: a bump on a ski slope
 
-w: <<taper>> drf [[file:verb.change.org::taper]]
+w: <<natural_shape>>
+hyper: [[file:noun.Tops.org::shape]]
+g: a shape created by natural forces; not man-made
+
+w: <<node2>>
+hyper: [[connection]]
+g: a connecting point at which several lines come together
+
+w: <<node1>>
+w: <<knob>> drf [[file:adjs.all.org::knobby]]
+w: <<thickening>>
 hyper: [[convex_shape]]
-g: a convex shape that narrows toward a point
+g: any thickened enlargement
+
+w: <<nonagon>>
+hyper: [[polygon]]
+g: a nine-sided polygon
+
+w: <<notch>> drf [[file:verb.contact.org::notch]]
+hyper: [[indentation]]
+g: a V-shaped indentation; "mandibular notch"
+
+w: <<nub>> drf [[file:adjs.all.org::nubby]]
+w: <<nubble>> drf [[file:adjs.all.org::nubbly]]
+hyper: [[bulge]]
+g: a small lump or protuberance
+
+w: <<oblique_angle>> ant [[right_angle]]
+hyper: [[angle]]
+g: an angle that is not a right angle or a multiple of a right angle
+
+w: <<oblique_triangle>> ant [[right_triangle]]
+hyper: [[triangle]]
+g: a triangle that contains no right angle
+
+w: <<oblong>> drf [[file:adjs.all.org::oblong]]
+hyper: [[plane_figure]]
+g: a plane figure that deviates from a square or circle due to elongation
+
+w: <<obtuse_angle>>
+hyper: [[oblique_angle]]
+g: an angle between 90 and 180 degrees
+
+w: <<obtuse_triangle>>
+w: <<obtuse-angled_triangle>>
+hyper: [[triangle]]
+g: a triangle that contains an obtuse interior angle
+
+w: <<octagon>>
+hyper: [[polygon]]
+g: an eight-sided polygon
+
+w: <<octahedron>>
+hyper: [[polyhedron]]
+g: any polyhedron having eight plane faces
+
+w: <<orbital_plane>>
+hyper: [[plane]]
+dt: [[file:noun.cognition.org::astronomy]]
+g: (astronomy) the plane on which a body is orbiting
+
+w: <<ovoid>> drf [[file:adjs.all.org::ovoid]]
+hyper: [[solid]]
+g: an egg-shaped object
+
+w: <<parabola>> drf [[file:adjs.all.org::parabolic]] drf [[file:adjs.all.org::parabolical]]
+hyper: [[conic_section]]
+g: a plane curve formed by the intersection of a right circular cone and a plane parallel to an element of the curve
+
+w: <<paraboloid>> drf [[file:adjs.all.org::paraboloidal]]
+hyper: [[plane_figure]]
+g: a surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis
+
+w: <<parallel>>
+hyper: [[figure]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) one of a set of parallel geometric figures (parallel lines or planes); "parallels never meet"
+
+w: <<parallelepiped>>
+w: <<parallelopiped>>
+w: <<parallelepipedon>>
+w: <<parallelopipedon>>
+hyper: [[prism]]
+g: a prism whose bases are parallelograms
+
+w: <<parallelogram>> ant [[trapezium]]
+hyper: [[quadrilateral]]
+g: a quadrilateral whose opposite sides are both parallel and equal in length
+
+w: <<pellet>>
+hyper: [[ball]]
+g: a small sphere
+
+w: <<pencil>>
+hyper: [[figure]]
+dt: [[file:noun.cognition.org::physics]]
+dt: [[file:noun.cognition.org::geometry]]
+g: a figure formed by a set of straight lines or light rays meeting at a point
+
+w: <<pentacle>>
+w: <<pentagram>>
+w: <<pentangle>>
+hyper: [[star]]
+g: a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon
+
+w: <<pentagon>>
+hyper: [[polygon]]
+g: a five-sided polygon
+
+w: <<pentahedron>>
+hyper: [[polyhedron]]
+g: any polyhedron having five plane faces
+
+w: <<perigon>>
+w: <<round_angle>>
+hyper: [[angle]]
+g: an angle of 360 degrees
+
+w: <<perimeter1>>
+hyper: [[line]]
+g: a line enclosing a plane areas
+
+w: <<periphery>> drf [[file:adj.all.org::peripheral]]
+w: <<fringe>> drf [[file:adjs.all.org::fringy]]
+w: <<outer_boundary>>
+hyper: [[boundary]]
+g: the outside boundary or surface of something
+
+w: <<perpendicular>> drf [[file:adj.all.org::perpendicular]]
+hyper: [[straight_line]]
+g: a straight line at right angles to another line
+
+w: <<perversion>>
+hyper: [[curve]]
+g: a curve that reverses the direction of something; "the tendrils of the plant exhibited perversion"; "perversion also shows up in kinky telephone cords"
+
+w: <<picture_plane>>
+hyper: [[plane]]
+hp: [[file:noun.attribute.org::perspective]]
+g: the plane that is in the foreground of a drawing or painting; coextensive with but different from the objective surface of the work
+
+w: <<pipe>>
+w: <<tube>> drf [[file:verb.contact.org::tube]]
+hyper: [[cylinder]]
+g: a hollow cylindrical shape
+
+w: <<pit>> drf [[file:verb.contact.org::pit]]
+w: <<fossa>>
+hyper: [[concave_shape]]
+hyper: [[file:noun.body.org::cavity]]
+g: a concavity in a surface (especially an anatomical depression)
+
+w: <<plane_angle>>
+hyper: [[angle]]
+g: an angle formed by two straight lines (in the same plane)
+
+w: <<plane_figure>>
+w: <<two-dimensional_figure>>
+hyper: [[figure]]
+g: a two-dimensional shape
+
+w: <<plane>> drf [[file:adjs.all.org::plane]] drf [[file:adj.all.org::planar]]
+w: <<sheet>>
+hyper: [[file:noun.Tops.org::shape]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) an unbounded two-dimensional shape; "we will refer to the plane of the graph as the X-Y plane"; "any line joining two points on a plane lies wholly on that plane"
+
+w: <<plume>>
+hyper: [[file:noun.Tops.org::shape]]
+g: anything that resembles a feather in shape or lightness; "a plume of smoke"; "grass with large plumes"
+
+w: <<pocket2>>
+hyper: [[space]]
+dt: [[file:noun.act.org::bowling]]
+g: (bowling) the space between the headpin and the pins behind it on the right or left; "the ball hit the pocket and gave him a perfect strike"
+
+w: <<point2>> drf [[file:verb.contact.org::point12]] drf [[file:verb.contact.org::point11]] drf [[file:verb.contact.org::point13]]
+w: <<dot>> drf [[file:verb.change.org::dot]] drf [[file:verb.communication.org::dot]] drf [[file:verb.stative.org::dot]]
+hyper: [[disk]]
+g: a very small circular shape; "a row of points"; "draw lines between the dots"
 
 w: <<point>> drf [[file:verb.change.org::point]]
 w: <<tip>>
@@ -513,513 +1074,153 @@ hp: [[file:noun.artifact.org::arrowhead]]
 hp: [[file:noun.artifact.org::knife1]]
 g: a V shape; "the cannibal's teeth were filed to sharp points"
 
-w: <<rim>> drf [[file:verb.possession.org::rim]]
-hyper: [[boundary]]
-hyper: [[round_shape]]
-g: the shape of a raised edge of a more or less circular object
+w: <<polygon>>
+w: <<polygonal_shape>>
+hyper: [[plane_figure]]
+g: a closed plane figure bounded by straight sides
 
-w: <<corrugation>> drf [[file:verb.contact.org::corrugate]]
-hyper: [[ridge]]
-g: a ridge on a corrugated surface
+w: <<polyhedral_angle>>
+hyper: [[angle]]
+g: the space enclosed by three or more planes that intersect in a vertex
 
-w: <<ridge>> drf [[file:verb.change.org::ridge]] drf [[file:verb.contact.org::ridge]] drf [[file:verb.contact.org::ridge1]] drf [[file:verb.creation.org::ridge]]
-hyper: [[convex_shape]]
-g: any long raised strip
-
-w: <<teardrop>>
-hyper: [[drop]]
-g: anything shaped like a falling drop (as a pendant gem on an earring)
-
-w: <<dewdrop>>
-hyper: [[drop]]
-g: a drop of dew
-
-w: <<drop>> drf [[file:noun.quantity.org::droplet]]
-w: <<bead>> drf [[file:adjs.all.org::beady]] drf [[file:verb.stative.org::bead]]
-w: <<pearl>>
-hyper: [[sphere]]
-g: a shape that is spherical and small; "he studied the shapes of low-viscosity drops"; "beads of sweat on his forehead"
-
-w: <<bolus>>
-hyper: [[ball]]
-g: a small round soft mass (as of chewed food)
-
-w: <<pellet>>
-hyper: [[ball]]
-g: a small sphere
-
-w: <<pipe>>
-w: <<tube>> drf [[file:verb.contact.org::tube]]
-hyper: [[cylinder]]
-g: a hollow cylindrical shape
-
-w: <<barrel>>
-w: <<drum>>
-hyper: [[cylinder]]
-g: a bulging cylindrical shape; hollow with flat ends
-
-w: <<hoodoo>>
-hyper: [[column2]]
-dt: [[file:noun.cognition.org::geology]]
-g: (geology) a column of weathered and unusually shaped rock; "a tall sandstone hoodoo"
-
-w: <<columella>>
-hyper: [[column2]]
-g: a small column (or structure resembling a column) that is a part of a plant or animal
-
-w: <<plume>>
-hyper: [[file:noun.Tops.org::shape]]
-g: anything that resembles a feather in shape or lightness; "a plume of smoke"; "grass with large plumes"
-
-w: <<column2>> drf [[file:adjs.all.org::columnar2]]
-w: <<tower>> drf [[file:verb.stative.org::tower]]
-w: <<pillar>>
-hyper: [[file:noun.Tops.org::shape]]
-g: anything that approximates the shape of a column or tower; "the test tube held a column of white powder"; "a tower of dust rose above the horizon"; "a thin pillar of smoke betrayed their campsite"
-
-w: <<toroid1>> drf [[file:adj.pert.org::toroidal]]
+w: <<polyhedron>> drf [[file:adj.pert.org::polyhedral]]
 hyper: [[solid]]
-g: the doughnut-shaped object enclosed by a torus
+g: a solid figure bounded by plane polygons or faces
 
-w: <<torus>>
-w: <<toroid>> drf [[file:adj.pert.org::toroidal]]
-hyper: [[round_shape]]
-g: a ring-shaped surface generated by rotating a circle around an axis that does not intersect the circle
+w: <<pore>> drf [[file:adjs.all.org::porous]] drf [[file:adj.all.org::poriferous]]
+hyper: [[hole]]
+g: any tiny hole admitting passage of a liquid (fluid or gas)
 
-w: <<cylinder>> drf [[file:adjs.all.org::cylindric]]
-hyper: [[round_shape]]
-g: a surface generated by rotating a parallel line around a fixed line
+w: <<pouch>>
+w: <<sac>>
+w: <<sack>>
+w: <<pocket>>
+hyper: [[cavity]]
+g: an enclosed space; "the trapped miners found a pocket of air"
 
-w: <<spherule>>
-hyper: [[ball]]
-g: a small sphere
+w: <<prism>> drf [[file:adj.pert.org::prismatic]]
+hyper: [[polyhedron]]
+g: a polyhedron with two congruent and parallel faces (the bases) and whose lateral faces are parallelograms
 
-w: <<ball>>
-w: <<globe>> drf [[file:adjs.all.org::globular]] drf [[file:adjs.all.org::global]] drf [[file:verb.change.org::conglobate]]
-w: <<orb>>
-hyper: [[sphere]]
-g: an object with a spherical shape; "a ball of fire"
+w: <<prismatoid>>
+hyper: [[polyhedron]]
+g: a polyhedron whose vertices all lie in one or the other of two parallel planes; the faces that lie in those planes are the bases of the prismatoid
 
-w: <<sphere>> drf [[file:adjs.all.org::spheric]]
-hyper: [[round_shape]]
-g: a solid figure bounded by a spherical surface (including the space it encloses)
+w: <<prismoid>>
+hyper: [[prismatoid]]
+g: a prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms
 
-w: <<hemisphere>> drf [[file:adj.pert.org::hemispherical]]
-hyper: [[subfigure]]
-g: half of a sphere
-
-w: <<sphere1>> drf [[file:adjs.all.org::spherical]] drf [[file:adjs.all.org::spheric]]
-hyper: [[round_shape]]
-g: a three-dimensional closed surface such that every point on the surface is equidistant from the center
-
-w: <<spheroid>> drf [[file:adjs.all.org::spheroidal]]
-w: <<ellipsoid_of_revolution>>
-hyper: [[round_shape]]
-g: a shape that is generated by rotating an ellipse around one of its axes; "it looked like a sphere but on closer examination I saw it was really a spheroid"
-
-w: <<disproportion>> ant [[proportion]]
-hyper: [[file:noun.attribute.org::disparity]]
-g: lack of proportion; imbalance among the parts of something
-
-w: <<symmetry>> drf [[file:adj.all.org::symmetric]] drf [[file:verb.change.org::symmetrize]] drf [[file:verb.change.org::symmetrise]]
-w: <<proportion>> drf [[file:verb.change.org::proportion1]] ant [[disproportion]]
-hyper: [[balance]]
-g: balance among the parts of something
-
-w: <<conformation>>
-hyper: [[balance]]
-g: a symmetrical arrangement of the parts of a thing
-
-w: <<balance>>
-w: <<equilibrium>> drf [[file:verb.stative.org::equilibrate]] drf [[file:verb.change.org::equilibrate]] drf [[file:verb.stative.org::equilibrize]]
-w: <<equipoise>>
-w: <<counterbalance>>
-hyper: [[file:noun.artifact.org::structure]]
-g: equality of distribution
-
-w: <<base>>
-hyper: [[flank]]
-g: the bottom side of a geometric figure from which the altitude can be constructed; "the base of the triangle"
-
-w: <<altitude>> drf [[file:adj.pert.org::altitudinal]]
-hyper: [[file:noun.attribute.org::distance1]]
-g: the perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel)
-
-w: <<hypotenuse>>
-hyper: [[flank]]
-hp: [[right_triangle]]
-g: the side of a right triangle opposite the right angle
-
-w: <<flank>> drf [[file:verb.stative.org::flank]]
-hyper: [[subfigure]]
-g: a subfigure consisting of a side of something
-
-w: <<ellipsoid>> drf [[file:adjs.all.org::ellipsoid]] drf [[file:adjs.all.org::ellipsoidal]]
-hyper: [[plane_figure]]
-g: a surface whose plane sections are all ellipses or circles; "the Earth is an ellipsoid"
-
-w: <<paraboloid>> drf [[file:adjs.all.org::paraboloidal]]
-hyper: [[plane_figure]]
-g: a surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis
-
-w: <<hyperboloid>> drf [[file:adjs.all.org::hyperboloidal]]
-hyper: [[quadric]]
-g: a quadric surface generated by rotating a hyperbola around its main axis
-
-w: <<dimple>> drf [[file:verb.change.org::dimple]]
-hyper: [[depression]]
-g: any slight depression in a surface; "there are approximately 336 dimples on a golf ball"
-
-w: <<depression>>
-w: <<impression>>
-w: <<imprint>>
-hyper: [[concave_shape]]
-g: a concavity in a surface produced by pressing; "he left the impression of his fingers in the soft mud"
-
-w: <<crescent>> drf [[file:adjs.all.org::crescent]]
-hyper: [[curve]]
-g: any shape resembling the curved shape of the moon in its first or last quarters
-
-w: <<bow>>
-w: <<arc1>> drf [[file:verb.motion.org::arc]]
-hyper: [[curve]]
-g: something curved in shape
-
-w: <<node1>>
-w: <<knob>> drf [[file:adjs.all.org::knobby]]
-w: <<thickening>>
+w: <<projection>>
 hyper: [[convex_shape]]
-g: any thickened enlargement
+g: any solid convex shape that juts out from something
 
-w: <<wart>>
-hyper: [[bulge]]
-dt: [[file:noun.Tops.org::animal]]
-g: any small rounded protuberance (as on certain plants or animals)
+w: <<prolate_cycloid>>
+hyper: [[cycloid]]
+g: a cycloid generated by a point outside the rolling circle
 
-w: <<snag>> drf [[file:verb.contact.org::snag1]] drf [[file:verb.contact.org::snag]]
-hyper: [[bulge]]
-g: a sharp protuberance
+w: <<pucker>> drf [[file:verb.contact.org::pucker2]] drf [[file:verb.contact.org::pucker1]]
+w: <<ruck>> drf [[file:verb.contact.org::ruck]]
+hyper: [[fold]]
+g: an irregular fold in an otherwise even surface (as in cloth)
 
-w: <<nub>> drf [[file:adjs.all.org::nubby]]
-w: <<nubble>> drf [[file:adjs.all.org::nubbly]]
-hyper: [[bulge]]
-g: a small lump or protuberance
+w: <<pyramid>> drf [[file:adjs.all.org::pyramidal]] drf [[file:adjs.all.org::pyramidical]] drf [[file:verb.contact.org::pyramid]]
+hyper: [[polyhedron]]
+g: a polyhedron having a polygonal base and triangular sides with a common vertex
 
-w: <<mogul>>
-hyper: [[bulge]]
-g: a bump on a ski slope
+w: <<quadrangular_prism>>
+hyper: [[prism]]
+g: a prism whose bases are quadrangles
 
-w: <<caput>>
-hyper: [[bulge]]
-g: a headlike protuberance on an organ or structure; "the caput humeri is the head of the humerus which fits into a cavity in the scapula"
+w: <<quadrate2>>
+hyper: [[cube]]
+g: a cubelike object
 
-w: <<belly>>
-hyper: [[bulge]]
-g: a part that bulges deeply; "the belly of a sail"
+w: <<quadrate1>>
+hyper: [[square]]
+g: a square-shaped object
 
-w: <<bulge>> drf [[file:adjs.all.org::bulgy]] drf [[file:verb.stative.org::bulge]] drf [[file:verb.motion.org::bulge]] drf [[file:verb.change.org::bulge1]] drf [[file:verb.change.org::bulge]]
-w: <<bump>>
-w: <<hump>> drf [[file:verb.motion.org::hump]]
-w: <<swelling>>
-w: <<gibbosity>> drf [[file:adjs.all.org::gibbous]]
-w: <<gibbousness>> drf [[file:adjs.all.org::gibbous]]
-w: <<jut>>
-w: <<prominence>>
-w: <<protuberance>> drf [[file:adjs.all.org::protuberant]] drf [[file:verb.stative.org::protuberate1]]
-w: <<protrusion>> drf [[file:verb.motion.org::protrude]] drf [[file:verb.change.org::protrude]]
-w: <<extrusion>>
-w: <<excrescence>> drf [[file:adj.pert.org::excrescent]]
-hyper: [[projection]]
-g: something that bulges out or is protuberant or projects from its surroundings; "the gun in his pocket made an obvious bulge"; "the hump of a camel"; "he stood on the rocky prominence"; "the occipital protuberance was well developed"; "the bony excrescence between its horns"
+w: <<quadric>>
+w: <<quadric_surface>>
+hyper: [[curve]]
+g: a curve or surface whose equation (in Cartesian coordinates) is of the second degree
 
-w: <<scoop>> drf [[file:verb.contact.org::scoop1]]
-w: <<pocket1>>
+w: <<quadrilateral>>
+w: <<quadrangle>> drf [[file:adj.pert.org::quadrangular]]
+w: <<tetragon>> drf [[file:adj.pert.org::tetragonal]]
+hyper: [[polygon]]
+g: a four-sided polygon
+
+w: <<radius>> drf [[file:adj.pert.org::radial]]
+hyper: [[straight_line]]
+g: a straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere)
+
+w: <<ray>> drf [[file:verb.stative.org::ray]]
+hyper: [[vector]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) a straight line extending from a point
+
+w: <<recess>> drf [[file:verb.contact.org::recess]] drf [[file:verb.contact.org::recess1]]
+w: <<recession>>
+w: <<niche>>
+w: <<corner>> drf [[file:verb.motion.org::corner1]]
 hyper: [[concave_shape]]
-g: a hollow concave shape made by removing something
+g: a small concavity
 
-w: <<rut>> drf [[file:adjs.all.org::rutty]] drf [[file:verb.contact.org::rut]]
-hyper: [[groove]]
-g: a groove or furrow (especially one in soft earth caused by wheels)
-
-w: <<groove>> drf [[file:verb.contact.org::groove]] drf [[file:verb.contact.org::groove2]]
-w: <<channel>>
-hyper: [[depression]]
-g: a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)
-
-w: <<bowl>>
-w: <<trough>>
-hyper: [[concave_shape]]
-g: a concave shape with an open top
-
-w: <<azimuth>> drf [[file:adj.pert.org::azimuthal]]
-w: <<AZ>>
-hyper: [[angle]]
-g: the azimuth of a celestial body is the angle between the vertical plane containing it and the plane of the meridian
-
-w: <<magnetic_declination>>
-w: <<magnetic_variation>>
-w: <<variation>> drf [[file:verb.stative.org::vary1]]
-hyper: [[angle]]
-g: the angle (at a particular location) between magnetic north and true north
-
-w: <<lead>>
-hyper: [[angle]]
-g: the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)
-
-w: <<dip>>
-w: <<angle_of_dip>>
-w: <<magnetic_dip>>
-w: <<magnetic_inclination>>
-w: <<inclination>> drf [[file:verb.motion.org::incline]]
-hyper: [[angle]]
-dt: [[file:noun.cognition.org::physics]]
-g: (physics) the angle that a magnetic needle makes with the plane of the horizon
-
-w: <<cutting_angle>>
-hyper: [[angle]]
-g: the angle between the face of a cutting tool and the surface of the work
-
-w: <<perigon>>
-w: <<round_angle>>
-hyper: [[angle]]
-g: an angle of 360 degrees
-
-w: <<reflex_angle>>
-hyper: [[angle]]
-g: an angle greater than 180 degrees (but less than 360)
-
-w: <<oblique_angle>> ant [[right_angle]]
-hyper: [[angle]]
-g: an angle that is not a right angle or a multiple of a right angle
-
-w: <<right_angle>> ant [[oblique_angle]]
-hyper: [[angle]]
-g: the 90 degree angle between two perpendicular lines
-
-w: <<dogleg>>
-hyper: [[angle]]
-g: angle that resembles the hind leg of a dog
-
-w: <<obtuse_angle>>
-hyper: [[oblique_angle]]
-g: an angle between 90 and 180 degrees
-
-w: <<acute_angle>>
-hyper: [[oblique_angle]]
-g: an angle less than 90 degrees but more than 0 degrees
-
-w: <<angle_of_extinction>>
-w: <<extinction_angle>>
-hyper: [[angle]]
-g: the angle from its axis that a crystal must be rotated before appearing maximally dark when viewed in polarized light
-
-w: <<angle_of_refraction>>
-hyper: [[angle]]
-g: the angle between a refracted ray and a line perpendicular to the surface between the two media at the point of refraction
-
-w: <<angle_of_reflection>>
-hyper: [[angle]]
-g: the angle between a reflected ray and a line perpendicular to the reflecting surface at the point of incidence
-
-w: <<critical_angle>>
-hyper: [[angle_of_incidence]]
-g: the smallest angle of incidence for which light is totally reflected
-
-w: <<angle_of_attack>>
-hyper: [[angle_of_incidence]]
-g: the acute angle between the direction of the undisturbed relative wind and the chord of an airfoil
-
-w: <<angle_of_incidence>>
-w: <<incidence_angle>>
-hyper: [[angle]]
-g: the angle that a line makes with a line perpendicular to the surface at the point of incidence
-
-w: <<hip>>
-hyper: [[exterior_angle]]
-hp: [[file:noun.artifact.org::hip_roof]]
-dt: [[file:noun.cognition.org::architecture]]
-g: (architecture) the exterior angle formed by the junction of a sloping side and a sloping end of a roof
-
-w: <<exterior_angle>>
-w: <<external_angle>>
-hyper: [[angle]]
-g: the supplement of an interior angle of a polygon
-
-w: <<interior_angle>>
-w: <<internal_angle>>
-hyper: [[angle]]
-g: the angle inside two adjacent sides of a polygon
-
-w: <<salient_angle>> ant [[reentrant_angle]]
-hyper: [[angle]]
-g: an angle pointing outward; an interior angle of a polygon that is less than 180 degrees
+w: <<rectangle>> drf [[file:adjs.all.org::rectangular]]
+hyper: [[parallelogram]]
+g: a parallelogram with four right angles
 
 w: <<reentrant_angle>> ant [[salient_angle]]
 w: <<reentering_angle>>
 hyper: [[interior_angle]]
 g: an interior angle of a polygon that is greater than 180 degrees
 
-w: <<inclination2>> drf [[file:verb.motion.org::incline]]
-w: <<inclination_of_an_orbit>>
+w: <<reentrant_polygon>>
+w: <<reentering_polygon>>
+hyper: [[concave_polygon]]
+g: a polygon with one or more reentrant angles
+
+w: <<reflex_angle>>
 hyper: [[angle]]
-dt: [[file:noun.cognition.org::astronomy]]
-g: (astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees
+g: an angle greater than 180 degrees (but less than 360)
 
-w: <<inclination1>> drf [[file:verb.motion.org::incline]]
-w: <<angle_of_inclination>>
-hyper: [[angle]]
-dt: [[file:noun.cognition.org::geometry]]
-g: (geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)
+w: <<regular_dodecahedron>>
+hyper: [[regular_polyhedron]]
+g: a dodecahedron with twelve regular pentagons as faces
 
-w: <<solid_angle>>
-hyper: [[angle]]
-g: an angle formed by three or more planes intersecting at a common point (the vertex)
+w: <<regular_hexagon>>
+hyper: [[hexagon]]
+g: a hexagon with six sides of equal length
 
-w: <<spherical_angle>>
-hyper: [[angle]]
-g: an angle formed at the intersection of the arcs of two great circles
+w: <<regular_icosahedron>>
+hyper: [[regular_polyhedron]]
+g: an icosahedron with twenty equilateral triangles as faces
 
-w: <<plane_angle>>
-hyper: [[angle]]
-g: an angle formed by two straight lines (in the same plane)
+w: <<regular_octahedron>>
+hyper: [[regular_polyhedron]]
+g: an octahedron with eight equilateral triangles as faces
 
-w: <<true_anomaly>>
-hyper: [[angular_distance]]
-g: the angular distance of a point in an orbit past the point of periapsis measured in degrees
+w: <<regular_polygon>>
+hyper: [[isogon]]
+g: a polygon with all sides and all angles equal
 
-w: <<hour_angle>>
-w: <<HA>>
-hyper: [[angular_distance]]
-dt: [[file:noun.cognition.org::astronomy]]
-g: (astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day
+w: <<regular_polyhedron>>
+w: <<regular_convex_solid>>
+w: <<regular_convex_polyhedron>>
+w: <<Platonic_body>>
+w: <<Platonic_solid>>
+w: <<ideal_solid>>
+hyper: [[polyhedron]]
+g: any one of five solids whose faces are congruent regular polygons and whose polyhedral angles are all congruent
 
-w: <<angular_distance>>
-hyper: [[angle]]
-g: the angular separation between two objects as perceived by an observer; "he recorded angular distances between the stars"
+w: <<regular_tetrahedron>>
+hyper: [[regular_polyhedron]]
+g: a tetrahedron with four equilateral triangular faces
 
-w: <<complementary_angles>>
-hyper: [[angle]]
-g: two angles whose sum is a right angle
-
-w: <<angle>> drf [[file:adj.pert.org::angular]] drf [[file:adj.all.org::angular]] drf [[file:verb.change.org::angulate]] drf [[file:verb.motion.org::angle1]] drf [[file:verb.motion.org::angle]] drf [[file:adj.all.org::angulate]]
-hyper: [[space]]
-g: the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians
-
-w: <<zigzag>> drf [[file:adjs.all.org::zigzag]] drf [[file:verb.motion.org::zigzag]] drf [[file:adjs.all.org::zig-zag]]
-w: <<zig>>
-w: <<zag>>
-hyper: [[angular_shape]]
-g: an angular shape characterized by sharp turns in alternating directions
-
-w: <<jog>>
-hyper: [[angular_shape]]
-g: a sharp change in direction; "there was a jog in the road"
-
-w: <<bifurcation1>> drf [[file:verb.stative.org::bifurcate]] drf [[file:verb.change.org::bifurcate]]
-hyper: [[branch]]
-hp: [[bifurcation]]
-g: a bifurcating branch (one or both of them)
-
-w: <<bifurcation>> drf [[file:verb.change.org::bifurcate]]
-hyper: [[furcation]]
-g: the place where something divides into two branches
-
-w: <<furcation>> drf [[file:verb.change.org::furcate]]
-w: <<forking>> drf [[file:verb.change.org::fork]]
-hyper: [[angular_shape]]
-g: the place where something divides into branches
-
-w: <<hyperbola>> drf [[file:adj.pert.org::hyperbolic]]
-hyper: [[conic_section]]
-g: an open curve formed by a plane that cuts the base of a right circular cone
-
-w: <<parabola>> drf [[file:adjs.all.org::parabolic]] drf [[file:adjs.all.org::parabolical]]
-hyper: [[conic_section]]
-g: a plane curve formed by the intersection of a right circular cone and a plane parallel to an element of the curve
-
-w: <<bell>>
-w: <<bell_shape>>
-w: <<campana>> drf [[file:adj.pert.org::campanular]]
-hyper: [[curve]]
-g: the shape of a bell
-
-w: <<arch>> drf [[file:verb.motion.org::arch]]
-hyper: [[curve]]
-g: a curved shape in the vertical plane that spans an opening
-
-w: <<knot>> drf [[file:adjs.all.org::knotty]] drf [[file:verb.contact.org::knot2]] drf [[file:verb.creation.org::knot]]
-w: <<gnarl>> drf [[file:adjs.all.org::gnarly]] drf [[file:verb.contact.org::gnarl]]
-hyper: [[distorted_shape]]
-g: something twisted and tight and swollen; "their muscles stood out in knots"; "the old man's fists were two great gnarls"; "his stomach was in knots"
-
-w: <<warp>> drf [[file:verb.change.org::warp]]
-w: <<buckle>> drf [[file:verb.change.org::buckle]]
-hyper: [[distorted_shape]]
-g: a shape distorted by twisting or folding
-
-w: <<tortuosity>> drf [[file:adjs.all.org::tortuous]]
-w: <<tortuousness>> drf [[file:adjs.all.org::tortuous]]
-w: <<torsion>>
-w: <<contortion>> drf [[file:noun.person.org::contortionist]] drf [[file:verb.contact.org::contort]]
-w: <<crookedness>>
-hyper: [[distorted_shape]]
-g: a tortuous and twisted shape or position; "they built a tree house in the tortuosities of its boughs"; "the acrobat performed incredible contortions"
-
-w: <<sinuosity>> drf [[file:adjs.all.org::sinuous]]
-w: <<sinuousness>> drf [[file:adjs.all.org::sinuous]]
-hyper: [[curve]]
-g: having curves; "he hated the sinuosity of mountain roads"
-
-w: <<triangular_prism>>
-hyper: [[prism]]
-g: a prism whose bases are triangles
-
-w: <<quadrangular_prism>>
-hyper: [[prism]]
-g: a prism whose bases are quadrangles
-
-w: <<cuboid>>
+w: <<rhombohedron>> drf [[file:adjs.all.org::rhombohedral]]
 hyper: [[parallelepiped]]
-g: a rectangular parallelepiped
-
-w: <<parallelepiped>>
-w: <<parallelopiped>>
-w: <<parallelepipedon>>
-w: <<parallelopipedon>>
-hyper: [[prism]]
-g: a prism whose bases are parallelograms
-
-w: <<prism>> drf [[file:adj.pert.org::prismatic]]
-hyper: [[polyhedron]]
-g: a polyhedron with two congruent and parallel faces (the bases) and whose lateral faces are parallelograms
-
-w: <<concave_polyhedron>>
-hyper: [[polyhedron]]
-g: a polyhedron some of whose plane sections are concave polygons
-
-w: <<convex_polyhedron>>
-hyper: [[polyhedron]]
-g: a polyhedron any plane section of which is a convex polygon
-
-w: <<polyhedron>> drf [[file:adj.pert.org::polyhedral]]
-hyper: [[solid]]
-g: a solid figure bounded by plane polygons or faces
-
-w: <<spherical_triangle>>
-hyper: [[spherical_polygon]]
-g: a spherical polygon formed by the arcs of 3 great circles
-
-w: <<spherical_polygon>>
-hyper: [[polygon]]
-g: a figure on the surface of a sphere bounded by arcs of 3 or more great circles
-
-w: <<box>>
-hyper: [[rectangle]]
-g: a rectangular drawing; "the flowchart contained many boxes"
-
-w: <<rectangle>> drf [[file:adjs.all.org::rectangular]]
-hyper: [[parallelogram]]
-g: a parallelogram with four right angles
+hyper: [[hexahedron]]
+g: a parallelepiped bounded by six similar faces (either rhombuses or parallelograms)
 
 w: <<rhomboid>> drf [[file:adj.pert.org::rhomboid]] drf [[file:adj.pert.org::rhomboidal]]
 hyper: [[parallelogram]]
@@ -1031,136 +1232,172 @@ w: <<diamond>>
 hyper: [[parallelogram]]
 g: a parallelogram with four equal sides; an oblique-angled equilateral parallelogram
 
-w: <<dodecagon>>
-hyper: [[polygon]]
-g: a twelve-sided polygon
+w: <<ridge>> drf [[file:verb.change.org::ridge]] drf [[file:verb.contact.org::ridge]] drf [[file:verb.contact.org::ridge1]] drf [[file:verb.creation.org::ridge]]
+hyper: [[convex_shape]]
+g: any long raised strip
 
-w: <<undecagon>>
-hyper: [[polygon]]
-g: an eleven-sided polygon
-
-w: <<decagon>>
-hyper: [[polygon]]
-g: a polygon with 10 sides and 10 angles
-
-w: <<nonagon>>
-hyper: [[polygon]]
-g: a nine-sided polygon
-
-w: <<octagon>>
-hyper: [[polygon]]
-g: an eight-sided polygon
-
-w: <<heptagon>>
-hyper: [[polygon]]
-g: a seven-sided polygon
-
-w: <<regular_hexagon>>
-hyper: [[hexagon]]
-g: a hexagon with six sides of equal length
-
-w: <<hexagon>> drf [[file:adj.pert.org::hexagonal]]
-hyper: [[polygon]]
-g: a six-sided polygon
-
-w: <<pentagon>>
-hyper: [[polygon]]
-g: a five-sided polygon
-
-w: <<pentacle>>
-w: <<pentagram>>
-w: <<pentangle>>
-hyper: [[star]]
-g: a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon
-
-w: <<asterism>>
-hyper: [[star]]
-dt: [[file:noun.cognition.org::mineralogy]]
-g: (mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light
-
-w: <<star>>
-hyper: [[plane_figure]]
-g: a plane figure with 5 or more points; often used as an emblem
-
-w: <<trapezoid>> drf [[file:adj.pert.org::trapezoidal]]
-hyper: [[quadrilateral]]
-dr: [[file:noun.location.org::United_States]]
-g: a quadrilateral with two parallel sides
-
-w: <<trapezium>> ant [[parallelogram]]
-hyper: [[quadrilateral]]
-dr: [[file:noun.location.org::United_States]]
-g: a quadrilateral with no parallel sides
-
-w: <<parallelogram>> ant [[trapezium]]
-hyper: [[quadrilateral]]
-g: a quadrilateral whose opposite sides are both parallel and equal in length
-
-w: <<parallel>>
-hyper: [[figure]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) one of a set of parallel geometric figures (parallel lines or planes); "parallels never meet"
-
-w: <<hexagram>>
-hyper: [[star]]
-g: a regular polygon formed by extending each of the sides of a regular hexagon to form two equilateral triangles
-
-w: <<scalene_triangle>>
-hyper: [[triangle]]
-g: a triangle with no two sides of equal length
+w: <<right_angle>> ant [[oblique_angle]]
+hyper: [[angle]]
+g: the 90 degree angle between two perpendicular lines
 
 w: <<right_triangle>> ant [[oblique_triangle]]
 w: <<right-angled_triangle>>
 hyper: [[triangle]]
 g: a triangle with one right angle
 
-w: <<obtuse_triangle>>
-w: <<obtuse-angled_triangle>>
-hyper: [[triangle]]
-g: a triangle that contains an obtuse interior angle
+w: <<rim>> drf [[file:verb.possession.org::rim]]
+hyper: [[boundary]]
+hyper: [[round_shape]]
+g: the shape of a raised edge of a more or less circular object
 
-w: <<oblique_triangle>> ant [[right_triangle]]
-hyper: [[triangle]]
-g: a triangle that contains no right angle
+w: <<ring>>
+w: <<halo>>
+w: <<annulus>>
+w: <<doughnut>>
+w: <<anchor_ring>>
+hyper: [[toroid1]]
+g: a toroidal shape; "a ring of ships in the harbor"; "a halo of smoke"
 
-w: <<isosceles_triangle>>
-hyper: [[triangle]]
-g: a triangle with two equal sides
+w: <<roulette>>
+w: <<line_roulette>>
+hyper: [[curve]]
+g: a line generated by a point on one figure rolling around a second figure
 
-w: <<delta>>
-hyper: [[equilateral_triangle]]
-g: an object shaped like an equilateral triangle
-
-w: <<equilateral_triangle>>
-w: <<equiangular_triangle>>
-hyper: [[triangle]]
-hyper: [[regular_polygon]]
-g: a three-sided regular polygon
-
-w: <<acute_triangle>>
-w: <<acute-angled_triangle>>
-hyper: [[triangle]]
-g: a triangle whose interior angles are all acute
-
-w: <<triangle1>>
+w: <<round_shape>>
 hyper: [[file:noun.Tops.org::shape]]
-g: something approximating the shape of a triangle; "the coastline of Chile and Argentina and Brazil forms two legs of a triangle"
+g: a shape that is curved and without sharp angles
 
-w: <<triangle>> drf [[file:adjs.all.org::triangular]] drf [[file:adjs.all.org::triangular]] drf [[file:verb.social.org::triangulate]] drf [[file:verb.cognition.org::triangulate]]
-w: <<trigon>>
-w: <<trilateral>>
+w: <<rut>> drf [[file:adjs.all.org::rutty]] drf [[file:verb.contact.org::rut]]
+hyper: [[groove]]
+g: a groove or furrow (especially one in soft earth caused by wheels)
+
+w: <<S-shape>>
+hyper: [[curve]]
+g: a double curve resembling the letter S
+
+w: <<sag>> drf [[file:verb.motion.org::sag1]] drf [[file:verb.motion.org::sag]]
+w: <<droop>> drf [[file:adjs.all.org::droopy]] drf [[file:verb.change.org::droop]] drf [[file:verb.stative.org::droop]] drf [[file:verb.motion.org::droop]]
+hyper: [[depression]]
+g: a shape that sags; "there was a sag in the chair seat"
+
+w: <<salient_angle>> ant [[reentrant_angle]]
+hyper: [[angle]]
+g: an angle pointing outward; an interior angle of a polygon that is less than 180 degrees
+
+w: <<scalene_triangle>>
+hyper: [[triangle]]
+g: a triangle with no two sides of equal length
+
+w: <<scallop>> drf [[file:verb.change.org::scallop]] drf [[file:verb.creation.org::scallop]]
+w: <<crenation>>
+w: <<crenature>>
+w: <<crenel>>
+w: <<crenelle>>
+hyper: [[curve]]
+g: one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.)
+
+w: <<scoop>> drf [[file:verb.contact.org::scoop1]]
+w: <<pocket1>>
+hyper: [[concave_shape]]
+g: a hollow concave shape made by removing something
+
+w: <<score>> drf [[file:verb.contact.org::score]]
+w: <<scotch>> drf [[file:verb.contact.org::scotch]]
+hyper: [[incision]]
+g: a slight surface cut (especially a notch that is made to keep a tally)
+
+w: <<secant>>
+hyper: [[straight_line]]
+g: a straight line that intersects a curve at two or more points
+
+w: <<sector>> drf [[file:adj.pert.org::sectorial]]
+hyper: [[plane_figure]]
+g: a plane figure bounded by two radii and the included arc of a circle
+
+w: <<semicircle>> drf [[file:adjs.all.org::semicircular]]
+w: <<hemicycle>>
+hyper: [[plane_figure]]
+g: a plane figure with the shape of half a circle
+
+w: <<shapelessness>> drf [[file:adjs.all.org::shapeless]]
+hyper: [[amorphous_shape]]
+g: an amorphous or indefinite shape; "a shapeless mass"
+
+w: <<simple_closed_curve>>
+w: <<Jordan_curve>>
+hyper: [[closed_curve]]
+g: a closed curve that does not intersect itself
+
+w: <<sine_curve>>
+w: <<sinusoid>> drf [[file:adjs.all.org::sinusoidal]]
+hyper: [[wave]]
+g: the curve of y=sin x
+
+w: <<sinuosity>> drf [[file:adjs.all.org::sinuous]]
+w: <<sinuousness>> drf [[file:adjs.all.org::sinuous]]
+hyper: [[curve]]
+g: having curves; "he hated the sinuosity of mountain roads"
+
+w: <<snag>> drf [[file:verb.contact.org::snag1]] drf [[file:verb.contact.org::snag]]
+hyper: [[bulge]]
+g: a sharp protuberance
+
+w: <<solid>> drf [[file:verb.change.org::solidify]]
+hyper: [[file:noun.Tops.org::shape]]
+g: a three-dimensional shape
+
+w: <<solid_angle>>
+hyper: [[angle]]
+g: an angle formed by three or more planes intersecting at a common point (the vertex)
+
+w: <<solid_figure>>
+w: <<three-dimensional_figure>>
+hyper: [[figure]]
+g: a three-dimensional shape
+
+w: <<space>> drf [[file:verb.motion.org::space]]
+hyper: [[amorphous_shape]]
+hyper: [[file:noun.Tops.org::location]]
+g: an empty area (usually bounded in some way between things); "the architect left space in front of the building"; "they stopped at an open space in the jungle"; "the space between his teeth"
+
+w: <<sphere>> drf [[file:adjs.all.org::spheric]]
+hyper: [[round_shape]]
+g: a solid figure bounded by a spherical surface (including the space it encloses)
+
+w: <<sphere1>> drf [[file:adjs.all.org::spherical]] drf [[file:adjs.all.org::spheric]]
+hyper: [[round_shape]]
+g: a three-dimensional closed surface such that every point on the surface is equidistant from the center
+
+w: <<spherical_angle>>
+hyper: [[angle]]
+g: an angle formed at the intersection of the arcs of two great circles
+
+w: <<spherical_polygon>>
 hyper: [[polygon]]
-g: a three-sided polygon
+g: a figure on the surface of a sphere bounded by arcs of 3 or more great circles
 
-w: <<quadrilateral>>
-w: <<quadrangle>> drf [[file:adj.pert.org::quadrangular]]
-w: <<tetragon>> drf [[file:adj.pert.org::tetragonal]]
-hyper: [[polygon]]
-g: a four-sided polygon
+w: <<spherical_triangle>>
+hyper: [[spherical_polygon]]
+g: a spherical polygon formed by the arcs of 3 great circles
 
-w: <<quadrate1>>
-hyper: [[square]]
-g: a square-shaped object
+w: <<spheroid>> drf [[file:adjs.all.org::spheroidal]]
+w: <<ellipsoid_of_revolution>>
+hyper: [[round_shape]]
+g: a shape that is generated by rotating an ellipse around one of its axes; "it looked like a sphere but on closer examination I saw it was really a spheroid"
+
+w: <<spherule>>
+hyper: [[ball]]
+g: a small sphere
+
+w: <<spiral>> drf [[file:verb.stative.org::spiral]] drf [[file:verb.motion.org::spiral]]
+hyper: [[curve]]
+g: a plane curve traced by a point circling about the center but at increasing distances from the center
+
+w: <<spur>> drf [[file:verb.contact.org::spur2]]
+w: <<spine>> drf [[file:adjs.all.org::spinous]]
+w: <<acantha>> drf [[file:adjs.all.org::acanthous]]
+hyper: [[projection]]
+g: any sharply pointed projection
 
 w: <<square1>>
 hyper: [[file:noun.Tops.org::shape]]
@@ -1173,10 +1410,202 @@ hyper: [[regular_polygon]]
 dt: [[file:noun.cognition.org::geometry]]
 g: (geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon; "you can compute the area of a square if you know the length of its sides"
 
-w: <<ellipse>> drf [[file:adjs.all.org::elliptic]] drf [[file:adjs.all.org::elliptical]]
-w: <<oval>> drf [[file:adjs.all.org::oval]]
-hyper: [[conic_section]]
-g: a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it; "the sums of the distances from the foci to any point on an ellipse is constant"
+w: <<star>>
+hyper: [[plane_figure]]
+g: a plane figure with 5 or more points; often used as an emblem
+
+w: <<stemma>>
+hyper: [[tree]]
+g: a tree diagram showing a reconstruction of the transmission of manuscripts of a literary work
+
+w: <<straight_line>> ant [[curve]]
+hyper: [[line]]
+g: a line traced by a point traveling in a constant direction; a line of zero curvature; "the shortest distance between two points is a straight line"
+
+w: <<stria>> drf [[file:verb.change.org::striate]]
+w: <<striation>> drf [[file:verb.change.org::striate]]
+hyper: [[groove]]
+g: any of a number of tiny parallel grooves such as: the scratches left by a glacier on rocks or the streaks or ridges in muscle tissue
+
+w: <<subfigure>>
+hyper: [[figure]]
+g: a figure that is a part of another figure
+
+w: <<symmetry>> drf [[file:adj.all.org::symmetric]] drf [[file:verb.change.org::symmetrize]] drf [[file:verb.change.org::symmetrise]]
+w: <<proportion>> drf [[file:verb.change.org::proportion1]] ant [[disproportion]]
+hyper: [[balance]]
+g: balance among the parts of something
+
+w: <<tail>>
+w: <<tail_end>>
+hyper: [[projection]]
+g: any projection that resembles the tail of an animal
+
+w: <<tangent>> drf [[file:adj.pert.org::tangential]] drf [[file:noun.state.org::tangency]]
+hyper: [[straight_line]]
+g: a straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point
+
+w: <<tangent_plane>>
+hyper: [[plane]]
+g: the plane that contains all the lines tangent to a specific point on a surface
+
+w: <<taper>> drf [[file:verb.change.org::taper]]
+hyper: [[convex_shape]]
+g: a convex shape that narrows toward a point
+
+w: <<teardrop>>
+hyper: [[drop]]
+g: anything shaped like a falling drop (as a pendant gem on an earring)
+
+w: <<tesseract>>
+hyper: [[cube]]
+g: the four-dimensional analogue of a cube
+
+w: <<tetrahedron>>
+hyper: [[polyhedron]]
+g: any polyhedron having four plane faces
+
+w: <<thalweg>>
+hyper: [[boundary]]
+g: the middle of the chief navigable channel of a waterway that forms the boundary line between states
+
+w: <<tilt_angle>>
+hyper: [[angle]]
+g: the angle a rocket makes with the vertical as it curves along its trajectory
+
+w: <<tongue>>
+w: <<knife>>
+hyper: [[projection]]
+g: any long thin projection that is transient; "tongues of flame licked at the walls"; "rifles exploded quick knives of fire into the dark"
+
+w: <<toroid1>> drf [[file:adj.pert.org::toroidal]]
+hyper: [[solid]]
+g: the doughnut-shaped object enclosed by a torus
+
+w: <<tortuosity>> drf [[file:adjs.all.org::tortuous]]
+w: <<tortuousness>> drf [[file:adjs.all.org::tortuous]]
+w: <<torsion>>
+w: <<contortion>> drf [[file:noun.person.org::contortionist]] drf [[file:verb.contact.org::contort]]
+w: <<crookedness>>
+hyper: [[distorted_shape]]
+g: a tortuous and twisted shape or position; "they built a tree house in the tortuosities of its boughs"; "the acrobat performed incredible contortions"
+
+w: <<torus>>
+w: <<toroid>> drf [[file:adj.pert.org::toroidal]]
+hyper: [[round_shape]]
+g: a ring-shaped surface generated by rotating a circle around an axis that does not intersect the circle
+
+w: <<trapezium>> ant [[parallelogram]]
+hyper: [[quadrilateral]]
+dr: [[file:noun.location.org::United_States]]
+g: a quadrilateral with no parallel sides
+
+w: <<trapezohedron>>
+hyper: [[polyhedron]]
+g: a polyhedron whose faces are trapeziums
+
+w: <<trapezoid>> drf [[file:adj.pert.org::trapezoidal]]
+hyper: [[quadrilateral]]
+dr: [[file:noun.location.org::United_States]]
+g: a quadrilateral with two parallel sides
+
+w: <<tree>>
+w: <<tree_diagram>>
+hyper: [[plane_figure]]
+g: a figure that branches from a single root; "genealogical tree"
+
+w: <<triangle1>>
+hyper: [[file:noun.Tops.org::shape]]
+g: something approximating the shape of a triangle; "the coastline of Chile and Argentina and Brazil forms two legs of a triangle"
+
+w: <<triangle>> drf [[file:adjs.all.org::triangular]] drf [[file:adjs.all.org::triangular]] drf [[file:verb.social.org::triangulate]] drf [[file:verb.cognition.org::triangulate]]
+w: <<trigon>>
+w: <<trilateral>>
+hyper: [[polygon]]
+g: a three-sided polygon
+
+w: <<triangular_prism>>
+hyper: [[prism]]
+g: a prism whose bases are triangles
+
+w: <<true_anomaly>>
+hyper: [[angular_distance]]
+g: the angular distance of a point in an orbit past the point of periapsis measured in degrees
+
+w: <<truncated_cone>>
+hyper: [[frustum]]
+g: a frustum formed from a cone
+
+w: <<truncated_pyramid>>
+hyper: [[frustum]]
+g: a frustum formed from a pyramid
+
+w: <<uncus>>
+hyper: [[hook]]
+dt: [[file:noun.cognition.org::biology]]
+g: (biology) any hook-shaped process or part
+
+w: <<undecagon>>
+hyper: [[polygon]]
+g: an eleven-sided polygon
+
+w: <<upper_bound>>
+hyper: [[boundary]]
+dt: [[file:noun.cognition.org::mathematics]]
+g: (mathematics) a number equal to or greater than any other number in a given set
+
+w: <<vector>>
+hyper: [[straight_line]]
+g: a straight line segment whose length is magnitude and whose orientation in space is direction
+
+w: <<vertical_angle>>
+hyper: [[angle]]
+g: either of two equal and opposite angles formed by the intersection of two straight lines
+
+w: <<verticil>>
+hyper: [[coil]]
+g: a whorl of leaves growing around a stem
+
+w: <<view_angle>>
+w: <<angle_of_view>>
+hyper: [[angle]]
+g: the angle included by a photographic lens
+
+w: <<void>> drf [[file:adjs.all.org::void]] drf [[file:verb.change.org::void4]]
+w: <<vacancy>> drf [[file:adjs.all.org::vacant1]]
+w: <<emptiness>>
+w: <<vacuum>>
+hyper: [[space]]
+g: an empty area or space; "the huge desert voids"; "the emptiness of outer space"; "without their support he'll be ruling in a vacuum"
+
+w: <<warp>> drf [[file:verb.change.org::warp]]
+w: <<buckle>> drf [[file:verb.change.org::buckle]]
+hyper: [[distorted_shape]]
+g: a shape distorted by twisting or folding
+
+w: <<wart>>
+hyper: [[bulge]]
+dt: [[file:noun.Tops.org::animal]]
+g: any small rounded protuberance (as on certain plants or animals)
+
+w: <<washout>>
+hyper: [[groove]]
+g: the channel or break produced by erosion of relatively soft soil by water; "it was several days after the storm before they could repair the washout and open the road"
+
+w: <<wave_angle>>
+hyper: [[angle]]
+g: the angle of arrival (or departure) of a radio wave with respect to the axis of an antenna array
+
+w: <<wave>>
+w: <<undulation>>
+hyper: [[curve]]
+g: an undulating curve
+
+w: <<wedge>> drf [[file:verb.contact.org::wedge]]
+w: <<wedge_shape>>
+w: <<cuneus>>
+hyper: [[triangle]]
+g: any shape that is triangular in cross section
 
 w: <<whirl>> drf [[file:verb.motion.org::whirl4]] drf [[file:verb.motion.org::whirl2]]
 w: <<swirl>> drf [[file:verb.motion.org::swirl]] drf [[file:verb.motion.org::swirl1]]
@@ -1185,448 +1614,19 @@ w: <<convolution>>
 hyper: [[round_shape]]
 g: the shape of something rotating rapidly
 
-w: <<kink>> drf [[file:verb.change.org::kink]] drf [[file:verb.contact.org::kink]]
-w: <<twist>> drf [[file:verb.contact.org::twist1]]
-w: <<twirl>>
-hyper: [[fold]]
-g: a sharp bend in a line produced when a line having a loop is pulled tight
-
-w: <<helix_angle>>
-hyper: [[angle]]
-g: the constant angle at which a helix cuts the elements of a cylinder or cone
-
-w: <<element_of_a_cylinder>>
-hyper: [[element]]
-g: a straight line running the length of the cylinder
-
-w: <<element_of_a_cone>>
-hyper: [[element]]
-g: a straight line joining the apex and a point on the base
-
-w: <<element>>
-hyper: [[straight_line]]
-g: a straight line that generates a cylinder or cone
-
-w: <<eccentricity>> drf [[file:adj.all.org::eccentric]]
-hyper: [[file:noun.relation.org::ratio1]]
-dt: [[file:noun.cognition.org::geometry]]
-g: (geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis; "a circle is an ellipse with zero eccentricity"
-
-w: <<perversion>>
-hyper: [[curve]]
-g: a curve that reverses the direction of something; "the tendrils of the plant exhibited perversion"; "perversion also shows up in kinky telephone cords"
-
-w: <<double_helix>>
-hyper: [[helix]]
-g: a pair of parallel helices intertwined about a common axis; "the shape of the DNA molecule is a double helix"
-
-w: <<helix>>
-w: <<spiral1>> drf [[file:verb.stative.org::spiral]]
-hyper: [[curve]]
-g: a curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle
-
-w: <<spiral>> drf [[file:verb.stative.org::spiral]] drf [[file:verb.motion.org::spiral]]
-hyper: [[curve]]
-g: a plane curve traced by a point circling about the center but at increasing distances from the center
-
-w: <<coil>> drf [[file:verb.motion.org::coil]] drf [[file:verb.contact.org::coil]]
-w: <<whorl>>
-w: <<roll>> drf [[file:verb.change.org::roll10]] drf [[file:verb.contact.org::roll5]] drf [[file:verb.stative.org::roll]]
-w: <<curl>> drf [[file:verb.contact.org::curl1]] drf [[file:verb.motion.org::curl]] drf [[file:verb.change.org::curl]]
-w: <<curlicue>>
-w: <<ringlet>>
-w: <<gyre>>
-w: <<scroll>>
-hyper: [[round_shape]]
-g: a round shape formed by a series of concentric circles (as formed by leaves or flower petals)
-
-w: <<bight1>> drf [[file:verb.contact.org::bight]]
-hyper: [[loop]]
-g: a loop in a rope
-
-w: <<loop>> drf [[file:adj.pert.org::loopy]] drf [[file:verb.contact.org::loop]] drf [[file:verb.creation.org::loop]]
-hyper: [[simple_closed_curve]]
-g: anything with a round or oval shape (formed by a curve that is closed and does not intersect itself)
-
-w: <<ring>>
-w: <<halo>>
-w: <<annulus>>
-w: <<doughnut>>
-w: <<anchor_ring>>
-hyper: [[toroid1]]
-g: a toroidal shape; "a ring of ships in the harbor"; "a halo of smoke"
-
-w: <<disk>>
-w: <<disc>>
-w: <<saucer>>
-hyper: [[round_shape]]
-g: something with a round shape resembling a flat circular plate; "the moon's disk hung in a cloudless sky"
-
-w: <<sector>> drf [[file:adj.pert.org::sectorial]]
-hyper: [[plane_figure]]
-g: a plane figure bounded by two radii and the included arc of a circle
-
-w: <<chord>>
-hyper: [[straight_line]]
-g: a straight line connecting two points on a curve
-
-w: <<scallop>> drf [[file:verb.change.org::scallop]] drf [[file:verb.creation.org::scallop]]
-w: <<crenation>>
-w: <<crenature>>
-w: <<crenel>>
-w: <<crenelle>>
-hyper: [[curve]]
-g: one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.)
-
-w: <<arc>> drf [[file:verb.motion.org::arc]] drf [[file:adjs.all.org::arcuate]]
-hyper: [[curve]]
-hp: [[circle]]
-hp: [[sector]]
-g: a continuous portion of a circle
-
-w: <<semicircle>> drf [[file:adjs.all.org::semicircular]]
-w: <<hemicycle>>
-hyper: [[plane_figure]]
-g: a plane figure with the shape of half a circle
-
-w: <<equator>> drf [[file:adj.pert.org::equatorial2]] drf [[file:verb.change.org::equate]]
-hyper: [[circle]]
-g: a circle dividing a sphere or other surface into two usually equal and symmetrical parts
-
-w: <<circle1>> drf [[file:verb.contact.org::circle12]]
-hyper: [[file:noun.Tops.org::shape]]
-g: something approximating the shape of a circle; "the chairs were arranged in a circle"
-
-w: <<circlet>>
-hyper: [[circle]]
-g: a small circle
-
-w: <<circle>> drf [[file:adj.all.org::circular]]
-hyper: [[ellipse]]
-g: ellipse in which the two axes are of equal length; a plane curve generated by one point moving at a constant distance from a fixed point; "he calculated the circumference of the circle"
-
-w: <<oblong>> drf [[file:adjs.all.org::oblong]]
-hyper: [[plane_figure]]
-g: a plane figure that deviates from a square or circle due to elongation
-
-w: <<intersection>>
-hyper: [[file:noun.group.org::set2]]
-g: a point or set of points common to two or more geometric configurations
-
-w: <<conic_section>>
-w: <<conic>> drf [[file:adj.pert.org::conic]]
-hyper: [[plane_figure]]
-dt: [[file:noun.cognition.org::geometry]]
-g: (geometry) a curve generated by the intersection of a plane and a circular cone
-
-w: <<funnel>> drf [[file:verb.contact.org::funnel]]
-w: <<funnel_shape>>
-hyper: [[cone]]
-g: a conical shape with a wider and a narrower opening at the two ends
-
-w: <<cone>> drf [[file:adj.pert.org::conic]] drf [[file:adj.pert.org::conical]] drf [[file:verb.contact.org::cone]]
-w: <<conoid>>
-w: <<cone_shape>>
-hyper: [[round_shape]]
-g: a shape whose base is a circle and whose sides taper up to a point
-
-w: <<recess>> drf [[file:verb.contact.org::recess]] drf [[file:verb.contact.org::recess1]]
-w: <<recession>>
-w: <<niche>>
-w: <<corner>> drf [[file:verb.motion.org::corner1]]
-hyper: [[concave_shape]]
-g: a small concavity
-
-w: <<pit>> drf [[file:verb.contact.org::pit]]
-w: <<fossa>>
-hyper: [[concave_shape]]
-hyper: [[file:noun.body.org::cavity]]
-g: a concavity in a surface (especially an anatomical depression)
-
-w: <<dome>>
-hyper: [[concave_shape]]
-g: a concave shape whose distinguishing characteristic is that the concavity faces downward
-
-w: <<centerline>>
-w: <<center_line>>
-hyper: [[line]]
-g: a line that bisects a plane figure
-
-w: <<diameter>> drf [[file:adj.pert.org::diametral]] drf [[file:adj.pert.org::diametric]] drf [[file:adj.pert.org::diametrical]]
-hyper: [[straight_line]]
-g: a straight line connecting the center of a circle with two points on its perimeter (or the center of a sphere with two points on its surface)
-
-w: <<radius>> drf [[file:adj.pert.org::radial]]
-hyper: [[straight_line]]
-g: a straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere)
-
-w: <<perimeter1>>
-hyper: [[line]]
-g: a line enclosing a plane areas
-
-w: <<secant>>
-hyper: [[straight_line]]
-g: a straight line that intersects a curve at two or more points
-
-w: <<tangent>> drf [[file:adj.pert.org::tangential]] drf [[file:noun.state.org::tangency]]
-hyper: [[straight_line]]
-g: a straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point
-
-w: <<asymptote>> drf [[file:adj.pert.org::asymptotic]]
-hyper: [[straight_line]]
-g: a straight line that is the limiting value of a curve; can be considered as tangent at infinity; "the asymptote of the curve"
-
-w: <<connection>>
-w: <<connexion>>
-w: <<link>>
-hyper: [[file:noun.Tops.org::shape]]
-g: a connecting shape
-
-w: <<perpendicular>> drf [[file:adj.all.org::perpendicular]]
-hyper: [[straight_line]]
-g: a straight line at right angles to another line
-
-w: <<geodesic>> drf [[file:adj.pert.org::geodesic]]
-w: <<geodesic_line>>
-hyper: [[line]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) the shortest line between two points on a mathematically defined surface (as a straight line on a plane or an arc of a great circle on a sphere)
-
-w: <<straight_line>> ant [[curve]]
-hyper: [[line]]
-g: a line traced by a point traveling in a constant direction; a line of zero curvature; "the shortest distance between two points is a straight line"
-
-w: <<bight>>
-hyper: [[bend2]]
-g: a bend or curve (especially in a coastline)
-
-w: <<envelope>>
-hyper: [[curve]]
-g: a curve that is tangent to each of a family of curves
-
-w: <<uncus>>
-hyper: [[hook]]
-dt: [[file:noun.cognition.org::biology]]
-g: (biology) any hook-shaped process or part
-
-w: <<hook>>
-w: <<crotchet>>
-hyper: [[curve]]
-g: a sharp curve or crook; a shape resembling a hook
-
-w: <<bend2>> drf [[file:verb.motion.org::bend1]] drf [[file:verb.motion.org::bend]]
-w: <<crook>> drf [[file:verb.motion.org::crook]]
-w: <<twist1>>
-w: <<turn>>
-hyper: [[curve]]
-g: a circular segment of a curve; "a bend in the road"; "a crook in the path"
-
-w: <<intrados>>
-hyper: [[curve]]
-g: the interior curve of an arch
-
-w: <<gooseneck>>
-hyper: [[curve]]
-g: something in a thin curved form (like the neck of a goose)
-
-w: <<extrados>>
-hyper: [[curve]]
-g: the exterior curve of an arch
-
-w: <<wave>>
-w: <<undulation>>
-hyper: [[curve]]
-g: an undulating curve
-
-w: <<Cupid's_bow>>
-hyper: [[curve]]
-g: the double curve of the upper lip when considered to resemble Cupid's bow
-
-w: <<catenary>>
-hyper: [[curve]]
-g: the curve theoretically assumed by a perfectly flexible and inextensible cord of uniform density and cross section hanging freely from two fixed points
-
-w: <<S-shape>>
-hyper: [[curve]]
-g: a double curve resembling the letter S
-
-w: <<simple_closed_curve>>
-w: <<Jordan_curve>>
-hyper: [[closed_curve]]
-g: a closed curve that does not intersect itself
-
-w: <<closed_curve>>
-hyper: [[curve]]
-g: a curve (such as a circle) having no endpoints
-
-w: <<curve>> drf [[file:verb.motion.org::curve]] ant [[straight_line]]
-w: <<curved_shape>>
-hyper: [[line]]
-g: the trace of a point whose direction of motion changes
-
-w: <<amorphous_shape>>
-hyper: [[file:noun.Tops.org::shape]]
-g: an ill-defined or arbitrary shape
-
-w: <<distorted_shape>>
-w: <<distortion>> drf [[file:noun.person.org::distortionist]] drf [[file:verb.contact.org::distort1]] drf [[file:verb.contact.org::distort]]
-hyper: [[file:noun.Tops.org::shape]]
-g: a shape resulting from distortion
-
-w: <<regular_polygon>>
-hyper: [[isogon]]
-g: a polygon with all sides and all angles equal
-
-w: <<reentrant_polygon>>
-w: <<reentering_polygon>>
-hyper: [[concave_polygon]]
-g: a polygon with one or more reentrant angles
-
-w: <<concave_polygon>> ant [[convex_polygon]]
-hyper: [[polygon]]
-g: a polygon such that there is a straight line that cuts it in four or more points
-
-w: <<convex_polygon>> ant [[concave_polygon]]
-hyper: [[polygon]]
-g: a polygon such that no side extended cuts any other side or vertex; it can be cut by a straight line in at most two points
-
-w: <<isogon>> drf [[file:adjs.all.org::isogonic]]
-hyper: [[polygon]]
-g: an equiangular polygon
-
-w: <<polygon>>
-w: <<polygonal_shape>>
-hyper: [[plane_figure]]
-g: a closed plane figure bounded by straight sides
-
-w: <<heart>>
-hyper: [[plane_figure]]
-g: a plane figure with rounded sides curving inward at the top and intersecting at the bottom; conventionally used on playing cards and valentines; "he drew a heart and called it a valentine"
-
-w: <<conglomeration>>
-w: <<conglobation>> drf [[file:verb.change.org::conglobate]]
-hyper: [[sphere]]
-g: a rounded spherical form
-
-w: <<round_shape>>
-hyper: [[file:noun.Tops.org::shape]]
-g: a shape that is curved and without sharp angles
-
-w: <<cylinder2>> drf [[file:adjs.all.org::cylindric]]
-hyper: [[solid]]
-g: a solid bounded by a cylindrical surface and two parallel planes (the bases)
-
-w: <<concave_shape>>
-w: <<concavity>> drf [[file:adj.all.org::concave]]
-w: <<incurvation>> drf [[file:verb.contact.org::incurvate]] drf [[file:verb.motion.org::incurvate]]
-w: <<incurvature>>
-hyper: [[solid]]
-g: a shape that curves or bends inward
-
-w: <<angular_shape>>
-w: <<angularity>> drf [[file:adj.all.org::angular]]
-hyper: [[file:noun.Tops.org::shape]]
-g: a shape having one or more sharp angles
-
-w: <<entasis>>
-hyper: [[convex_shape]]
-hp: [[file:noun.artifact.org::column]]
-g: a slight convexity in the shaft of a column; compensates for the illusion of concavity that viewers experience when the sides are perfectly straight
-
-w: <<camber>> drf [[file:verb.motion.org::camber]]
-hyper: [[convex_shape]]
-g: a slight convexity (as of the surface of a road)
-
-w: <<convex_shape>>
-w: <<convexity>> drf [[file:adj.all.org::convex]]
-hyper: [[solid]]
-g: a shape that curves or bulges outward
-
-w: <<bulb>> drf [[file:adjs.all.org::bulblike]]
-hyper: [[round_shape]]
-g: anything with a round shape resembling a teardrop
-
-w: <<line>>
-hyper: [[file:noun.Tops.org::shape]]
-g: a length (straight or curved) without breadth or thickness; the trace of a moving point
-
-w: <<subfigure>>
-hyper: [[figure]]
-g: a figure that is a part of another figure
-
-w: <<solid_figure>>
-w: <<three-dimensional_figure>>
-hyper: [[figure]]
-g: a three-dimensional shape
-
-w: <<plane_figure>>
-w: <<two-dimensional_figure>>
-hyper: [[figure]]
-g: a two-dimensional shape
-
-w: <<pencil>>
-hyper: [[figure]]
-dt: [[file:noun.cognition.org::physics]]
-dt: [[file:noun.cognition.org::geometry]]
-g: a figure formed by a set of straight lines or light rays meeting at a point
-
-w: <<figure>>
-hyper: [[file:noun.Tops.org::shape]]
-g: a combination of points and lines and planes that form a visible palpable shape
-
-w: <<flare>> drf [[file:verb.change.org::flare]]
-w: <<flair>>
-hyper: [[file:noun.Tops.org::shape]]
-g: a shape that spreads outward; "the skirt had a wide flare"
-
-w: <<equilateral>>
-hyper: [[figure]]
-g: a figure whose sides are all equal
-
-w: <<leaf_shape>>
-w: <<leaf_form>>
-hyper: [[natural_shape]]
-hp: [[file:noun.plant.org::leaf]]
-g: any of the various shape that leaves of plants can assume
-
-w: <<natural_shape>>
-hyper: [[file:noun.Tops.org::shape]]
-g: a shape created by natural forces; not man-made
-
-w: <<tangent_plane>>
-hyper: [[plane]]
-g: the plane that contains all the lines tangent to a specific point on a surface
-
-w: <<picture_plane>>
-hyper: [[plane]]
-hp: [[file:noun.attribute.org::perspective]]
-g: the plane that is in the foreground of a drawing or painting; coextensive with but different from the objective surface of the work
-
-w: <<orbital_plane>>
-hyper: [[plane]]
-dt: [[file:noun.cognition.org::astronomy]]
-g: (astronomy) the plane on which a body is orbiting
-
-w: <<midplane>>
-w: <<midline>>
-hyper: [[plane]]
-g: the median plane of the body (or some part of the body)
-
-w: <<facet_plane>>
-hyper: [[plane]]
-g: the plane of a facet of an object (as of a cube)
-
-w: <<Cartesian_plane>>
-hyper: [[plane]]
-g: a plane in which all points can be described in Cartesian coordinates
-
-w: <<plane>> drf [[file:adjs.all.org::plane]] drf [[file:adj.all.org::planar]]
-w: <<sheet>>
-hyper: [[file:noun.Tops.org::shape]]
-dt: [[file:noun.cognition.org::mathematics]]
-g: (mathematics) an unbounded two-dimensional shape; "we will refer to the plane of the graph as the X-Y plane"; "any line joining two points on a plane lies wholly on that plane"
-
-w: <<solid>> drf [[file:verb.change.org::solidify]]
-hyper: [[file:noun.Tops.org::shape]]
-g: a three-dimensional shape
+w: <<wrinkle>> drf [[file:verb.contact.org::wrinkle2]] drf [[file:verb.contact.org::wrinkle1]] drf [[file:verb.contact.org::wrinkle]] drf [[file:verb.change.org::wrinkle10]]
+w: <<furrow>> drf [[file:verb.contact.org::furrow1]]
+w: <<crease1>> drf [[file:verb.change.org::crease10]] drf [[file:verb.contact.org::crease1]] drf [[file:verb.contact.org::crease]]
+w: <<crinkle>> drf [[file:adjs.all.org::crinkly]] drf [[file:verb.change.org::crinkle10]] drf [[file:verb.contact.org::crinkle]]
+w: <<seam1>>
+w: <<line1>> drf [[file:verb.contact.org::line2]]
+hyper: [[depression]]
+hp: [[file:noun.body.org::skin]]
+g: a slight depression in the smoothness of a surface; "his face has many lines"; "ironing gets rid of most wrinkles"
+
+w: <<zigzag>> drf [[file:adjs.all.org::zigzag]] drf [[file:verb.motion.org::zigzag]] drf [[file:adjs.all.org::zig-zag]]
+w: <<zig>>
+w: <<zag>>
+hyper: [[angular_shape]]
+g: an angular shape characterized by sharp turns in alternating directions
 
