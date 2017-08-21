@@ -106,7 +106,7 @@ hyper: [[dress1]]
 fr: 9
 g: dress in a gown
 
-w: <<suffocate3>> drf [[file:adj.all.org::suffocative]]
+w: <<suffocate3>> drf [[file:adjs.all.org::suffocative]]
 hyper: [[feel]]
 fr: 8
 g: feel uncomfortable for lack of fresh air; "The room was hot and stuffy and we were suffocating"
@@ -535,7 +535,7 @@ hyper: [[file:verb.change.org::revert]]
 fr: 2
 g: go back to bad behavior; "Those who recidivate are often minor criminals"
 
-w: <<recuperate1>> event [[file:noun.process.org::recuperation]] drf [[file:adj.all.org::recuperative]] drf [[file:noun.process.org::recuperation]]
+w: <<recuperate1>> event [[file:noun.process.org::recuperation]] drf [[file:adjs.all.org::recuperative]] drf [[file:noun.process.org::recuperation]]
 vg: [[recuperate]]
 hyper: [[bring_around1]]
 fr: 9 10
@@ -546,9 +546,9 @@ hyper: [[recuperate]]
 fr: 2
 g: recover quickly; "After the surgery, the patient snapped back in a few days"
 
-w: <<recuperate>> event [[file:noun.process.org::recuperation]] drf [[file:adj.all.org::recuperative]] drf [[file:noun.process.org::recuperation]] ant [[deteriorate]]
+w: <<recuperate>> event [[file:noun.process.org::recuperation]] drf [[file:adjs.all.org::recuperative]] drf [[file:noun.process.org::recuperation]] ant [[deteriorate]]
 w: <<recover>> drf [[file:noun.process.org::recovery]]
-w: <<convalesce>> event [[file:noun.process.org::convalescence]] drf [[file:adj.all.org::convalescent]] drf [[file:noun.person.org::convalescent]] drf [[file:noun.process.org::convalescence]]
+w: <<convalesce>> event [[file:noun.process.org::convalescence]] drf [[file:adjs.all.org::convalescent]] drf [[file:noun.person.org::convalescent]] drf [[file:noun.process.org::convalescence]]
 hyper: [[file:verb.change.org::better]]
 vg: [[recuperate1]]
 fr: 2
@@ -557,7 +557,7 @@ g: get over an illness or shock; "The patient is recuperating"
 w: <<devolve>>
 w: <<deteriorate>> event [[file:noun.state.org::deterioration]] event [[file:noun.process.org::deterioration]] drf [[file:noun.state.org::deterioration]] drf [[file:noun.process.org::deterioration]] ant [[recuperate]]
 w: <<drop1>>
-w: <<degenerate>> state [[file:noun.state.org::degeneration]] event [[file:noun.process.org::degeneration]] drf [[file:adj.all.org::degenerative]] drf [[file:noun.state.org::degeneration]] drf [[file:noun.process.org::degeneration]]
+w: <<degenerate>> state [[file:noun.state.org::degeneration]] event [[file:noun.process.org::degeneration]] drf [[file:adjs.all.org::degenerative]] drf [[file:noun.state.org::degeneration]] drf [[file:noun.process.org::degeneration]]
 hyper: [[file:verb.change.org::worsen]]
 fr: 1 2
 g: grow worse; "Her condition deteriorated"; "Conditions in the slums degenerated"; "The discussion devolved into a shouting match"
@@ -640,7 +640,7 @@ hyper: [[infect1]]
 fr: 11
 g: infect with a canker
 
-w: <<infect1>> event [[file:noun.event.org::infection]] drf [[file:adj.all.org::infective]] drf [[file:adj.all.org::infective]] drf [[file:noun.event.org::infection]]
+w: <<infect1>> event [[file:noun.event.org::infection]] drf [[file:adjs.all.org::infective]] drf [[file:adjs.all.org::infective]] drf [[file:noun.event.org::infection]]
 hyper: [[file:verb.possession.org::give3]]
 fr: 9 17
 g: communicate a disease to; "Your children have infected you with this head cold"
@@ -650,7 +650,7 @@ hyper: [[disinfect]]
 fr: 8
 g: disinfect with chlorine; "chlorinate a pool"
 
-w: <<disinfect>> event [[file:noun.act.org::disinfection]] drf [[file:adj.all.org::disinfectant]] drf [[file:noun.act.org::disinfection]] drf [[file:noun.artifact.org::disinfectant]] ant [[infect]]
+w: <<disinfect>> event [[file:noun.act.org::disinfection]] drf [[file:adjs.all.org::disinfectant]] drf [[file:noun.act.org::disinfection]] drf [[file:noun.artifact.org::disinfectant]] ant [[infect]]
 hyper: [[file:verb.contact.org::clean]]
 fr: 8 9 10
 g: destroy microorganisms or pathogens by cleansing; "disinfect a wound"
@@ -666,13 +666,13 @@ hyper: [[infect]]
 fr: 8 11
 g: infect (an infected cell) further or infect a cell already containing similar organisms
 
-w: <<infect>> state [[file:noun.state.org::infection]] event [[file:noun.process.org::infection]] drf [[file:adj.all.org::infective]] drf [[file:adj.all.org::infective]] drf [[file:noun.process.org::infection]] drf [[file:noun.state.org::infection]] ant [[disinfect]]
+w: <<infect>> state [[file:noun.state.org::infection]] event [[file:noun.process.org::infection]] drf [[file:adjs.all.org::infective]] drf [[file:adjs.all.org::infective]] drf [[file:noun.process.org::infection]] drf [[file:noun.state.org::infection]] ant [[disinfect]]
 w: <<taint>> event [[file:noun.state.org::taint]] drf [[file:noun.state.org::taint]]
 hyper: [[file:verb.change.org::pollute]]
 fr: 9
 g: contaminate with a disease or microorganism
 
-w: <<intoxicate>> state [[file:noun.state.org::intoxication1]] state [[file:noun.state.org::intoxication]] drf [[file:adj.all.org::intoxicant]] drf [[file:noun.state.org::intoxication1]] drf [[file:noun.state.org::intoxication]] drf [[file:noun.artifact.org::intoxicant]]
+w: <<intoxicate>> state [[file:noun.state.org::intoxication1]] state [[file:noun.state.org::intoxication]] drf [[file:adjs.all.org::intoxicant]] drf [[file:noun.state.org::intoxication1]] drf [[file:noun.state.org::intoxication]] drf [[file:noun.artifact.org::intoxicant]]
 hyper: [[poison]]
 fr: 10
 g: have an intoxicating effect on, of a drug
@@ -804,13 +804,13 @@ dt: [[file:noun.act.org::medicine]]
 fr: 9
 g: administer a drug to; "They drugged the kidnapped tourist"
 
-w: <<medicate1>> event [[file:noun.act.org::medication]] drf [[file:adj.all.org::medicative]] drf [[file:noun.artifact.org::medicine]] drf [[file:noun.act.org::medication]]
+w: <<medicate1>> event [[file:noun.act.org::medication]] drf [[file:adjs.all.org::medicative]] drf [[file:noun.artifact.org::medicine]] drf [[file:noun.act.org::medication]]
 hyper: [[file:verb.change.org::impregnate]]
 dt: [[file:noun.act.org::medicine]]
 fr: 8
 g: impregnate with a medicinal substance
 
-w: <<medicate>> event [[file:noun.act.org::medication]] by-means-of [[file:noun.artifact.org::medication]] drf [[file:adj.all.org::medicative]] drf [[file:noun.cognition.org::medicine]] drf [[file:noun.artifact.org::medicine]] drf [[file:noun.act.org::medicine]] drf [[file:noun.artifact.org::medication]] drf [[file:noun.act.org::medication]]
+w: <<medicate>> event [[file:noun.act.org::medication]] by-means-of [[file:noun.artifact.org::medication]] drf [[file:adjs.all.org::medicative]] drf [[file:noun.cognition.org::medicine]] drf [[file:noun.artifact.org::medicine]] drf [[file:noun.act.org::medicine]] drf [[file:noun.artifact.org::medication]] drf [[file:noun.act.org::medication]]
 w: <<medicine>> event [[file:noun.cognition.org::medicine]] event [[file:noun.act.org::medicine]] by-means-of [[file:noun.artifact.org::medicine]] drf [[file:noun.act.org::medicine]] drf [[file:noun.artifact.org::medicine]] drf [[file:noun.cognition.org::medicine]]
 dt: [[file:noun.act.org::medicine]]
 hyper: [[treat]]
@@ -887,7 +887,7 @@ fr: 9 10
 g: improve the condition of; "These pills will help the patient"
 
 w: <<bring_around1>>
-w: <<cure>> uses [[file:noun.artifact.org::cure]] drf [[file:adj.all.org::curable]] drf [[file:adj.all.org::curative]] drf [[file:noun.artifact.org::cure]]
+w: <<cure>> uses [[file:noun.artifact.org::cure]] drf [[file:adj.all.org::curable]] drf [[file:adjs.all.org::curative]] drf [[file:noun.artifact.org::cure]]
 w: <<heal1>> agent [[file:noun.person.org::healer]] drf [[file:noun.person.org::healer]]
 entail: [[treat]]
 hyper: [[help]]
@@ -967,7 +967,7 @@ hyper: [[treat]]
 fr: 8
 g: treat by blowing a powder or vapor into a bodily cavity
 
-w: <<correct4>> drf [[file:adj.all.org::corrective]]
+w: <<correct4>> drf [[file:adjs.all.org::corrective]]
 hyper: [[treat]]
 fr: 4 11
 g: treat a defect; "The new contact lenses will correct for his myopia"
@@ -1012,7 +1012,7 @@ g: constrict (someone's) throat and keep from breathing
 w: <<gag>>
 w: <<choke3>> drf [[file:noun.state.org::choking]]
 w: <<strangle3>>
-w: <<suffocate1>> state [[file:noun.state.org::suffocation]] drf [[file:adj.all.org::suffocative]] drf [[file:noun.state.org::suffocation]]
+w: <<suffocate1>> state [[file:noun.state.org::suffocation]] drf [[file:adjs.all.org::suffocative]] drf [[file:noun.state.org::suffocation]]
 hyper: [[suffer]]
 fr: 2 13 22
 g: struggle for breath; have insufficient oxygen intake; "he swallowed a fishbone and gagged"
@@ -1151,7 +1151,7 @@ vg: [[make1]]
 fr: 1 2
 g: have a bowel movement; "The dog had made in the flower beds"
 
-w: <<purge>> event [[file:noun.act.org::purgation]] drf [[file:adj.all.org::purgative]] drf [[file:noun.act.org::purgation]]
+w: <<purge>> event [[file:noun.act.org::purgation]] drf [[file:adjs.all.org::purgative]] drf [[file:noun.act.org::purgation]]
 cause: [[evacuate]]
 hyper: [[treat]]
 fr: 2 9
@@ -1164,7 +1164,7 @@ vg: [[file:verb.motion.org::suction]]
 fr: 8
 g: empty or clean (a body cavity) by the force of suction; "suction the uterus in an abortion"
 
-w: <<evacuate>> event [[file:noun.process.org::evacuation]] event [[file:noun.act.org::evacuation]] drf [[file:adj.all.org::evacuant]] drf [[file:noun.process.org::evacuation]] drf [[file:noun.act.org::evacuation]]
+w: <<evacuate>> event [[file:noun.process.org::evacuation]] event [[file:noun.act.org::evacuation]] drf [[file:adjs.all.org::evacuant]] drf [[file:noun.process.org::evacuation]] drf [[file:noun.act.org::evacuation]]
 w: <<void>> event [[file:noun.act.org::voidance]] agent [[file:noun.person.org::voider1]] drf [[file:noun.person.org::voider1]] drf [[file:noun.process.org::voiding]] drf [[file:noun.act.org::voidance]]
 w: <<empty>>
 hyper: [[excrete]]
@@ -1431,8 +1431,8 @@ fr: 8 9
 g: give a massage to; "She massaged his sore back"
 
 w: <<relieve>>
-w: <<alleviate>> result [[file:noun.feeling.org::alleviation]] instrument [[file:noun.artifact.org::alleviator]] event [[file:noun.act.org::alleviation]] agent [[file:noun.person.org::alleviator]] drf [[file:adj.all.org::alleviatory]] drf [[file:adj.all.org::alleviative]] drf [[file:noun.feeling.org::alleviation]] drf [[file:noun.act.org::alleviation]] drf [[file:noun.person.org::alleviator]] drf [[file:noun.artifact.org::alleviator]] drf [[file:noun.artifact.org::alleviant]]
-w: <<palliate>> event [[file:noun.act.org::palliation]] drf [[file:adj.all.org::palliative]] drf [[file:noun.act.org::palliation]]
+w: <<alleviate>> result [[file:noun.feeling.org::alleviation]] instrument [[file:noun.artifact.org::alleviator]] event [[file:noun.act.org::alleviation]] agent [[file:noun.person.org::alleviator]] drf [[file:adjs.all.org::alleviatory]] drf [[file:adjs.all.org::alleviative]] drf [[file:noun.feeling.org::alleviation]] drf [[file:noun.act.org::alleviation]] drf [[file:noun.person.org::alleviator]] drf [[file:noun.artifact.org::alleviator]] drf [[file:noun.artifact.org::alleviant]]
+w: <<palliate>> event [[file:noun.act.org::palliation]] drf [[file:adjs.all.org::palliative]] drf [[file:noun.act.org::palliation]]
 w: <<assuage>> state [[file:noun.feeling.org::assuagement]] drf [[file:noun.feeling.org::assuagement]]
 hyper: [[file:verb.change.org::better1]]
 fr: 11
@@ -1443,19 +1443,19 @@ hyper: [[relieve]]
 fr: 8 9 10 11
 g: cause to feel better; "the medicine soothes the pain of the inflammation"
 
-w: <<inflame1>> event [[file:noun.state.org::inflammation]] drf [[file:adj.all.org::inflammatory]] drf [[file:noun.state.org::inflammation]]
+w: <<inflame1>> event [[file:noun.state.org::inflammation]] drf [[file:adjs.all.org::inflammatory]] drf [[file:noun.state.org::inflammation]]
 hyper: [[file:verb.change.org::worsen1]]
 vg: [[inflame]]
 fr: 10 11
 g: cause inflammation in; "The repetitive motion inflamed her joint"
 
-w: <<inflame>> event [[file:noun.state.org::inflammation]] drf [[file:adj.all.org::inflammatory]] drf [[file:noun.state.org::inflammation]]
+w: <<inflame>> event [[file:noun.state.org::inflammation]] drf [[file:adjs.all.org::inflammatory]] drf [[file:noun.state.org::inflammation]]
 vg: [[inflame1]]
 hyper: [[file:verb.change.org::worsen]]
 fr: 1
 g: become inflamed; get sore; "His throat inflamed"
 
-w: <<irritate>> result [[file:noun.feeling.org::irritation]] event [[file:noun.state.org::irritation2]] drf [[file:adj.all.org::irritative]] drf [[file:noun.state.org::irritation2]] drf [[file:noun.feeling.org::irritation]] ant [[soothe]]
+w: <<irritate>> result [[file:noun.feeling.org::irritation]] event [[file:noun.state.org::irritation2]] drf [[file:adjs.all.org::irritative]] drf [[file:noun.state.org::irritation2]] drf [[file:noun.feeling.org::irritation]] ant [[soothe]]
 hyper: [[file:verb.change.org::worsen1]]
 fr: 10 11
 g: excite to an abnormal condition, or chafe or inflame; "Aspirin irritates my stomach"
@@ -1588,7 +1588,7 @@ entail: [[have_a_bun_in_the_oven]]
 fr: 2 9
 g: carry out a pregnancy; "She decided to carry the child to term, even though the foetus was shown to be defective"
 
-w: <<expect2>> event [[file:noun.state.org::expectation]] drf [[file:adj.all.org::expectant]] drf [[file:noun.state.org::expectation]]
+w: <<expect2>> event [[file:noun.state.org::expectation]] drf [[file:adjs.all.org::expectant]] drf [[file:noun.state.org::expectation]]
 vg: [[have_a_bun_in_the_oven]]
 hyper: [[file:verb.cognition.org::expect1]]
 fr: 2
@@ -1598,7 +1598,7 @@ w: <<have_a_bun_in_the_oven>>
 w: <<bear>>
 w: <<carry>>
 w: <<gestate>> state [[file:noun.state.org::gestation]] event [[file:noun.time.org::gestation]] drf [[file:noun.time.org::gestation]] drf [[file:noun.state.org::gestation]]
-w: <<expect>> state [[file:noun.feeling.org::expectation]] drf [[file:adj.all.org::expectant]] drf [[file:noun.feeling.org::expectation]]
+w: <<expect>> state [[file:noun.feeling.org::expectation]] drf [[file:adjs.all.org::expectant]] drf [[file:noun.feeling.org::expectation]]
 vg: [[give_birth]]
 entail: [[conceive]]
 hyper: [[give_birth]]
@@ -1726,7 +1726,7 @@ dt: [[file:noun.Tops.org::plant]]
 fr: 8
 g: cause to propagate, as by grafting or layering
 
-w: <<vegetate1>> drf [[file:adj.all.org::vegetative]]
+w: <<vegetate1>> drf [[file:adjs.all.org::vegetative]]
 hyper: [[propagate]]
 dt: [[file:noun.cognition.org::biology]]
 fr: 1
@@ -1738,8 +1738,8 @@ dt: [[file:noun.cognition.org::biology]]
 fr: 1
 g: multiply sexually or asexually
 
-w: <<reproduce>> event [[file:noun.process.org::reproduction]] event [[file:noun.act.org::reproduction]] drf [[file:adj.all.org::reproductive]] drf [[file:noun.process.org::reproduction]] drf [[file:noun.act.org::reproduction]]
-w: <<procreate>> event [[file:noun.act.org::procreation]] drf [[file:adj.all.org::procreative]] drf [[file:noun.act.org::procreation]]
+w: <<reproduce>> event [[file:noun.process.org::reproduction]] event [[file:noun.act.org::reproduction]] drf [[file:adjs.all.org::reproductive]] drf [[file:noun.process.org::reproduction]] drf [[file:noun.act.org::reproduction]]
+w: <<procreate>> event [[file:noun.act.org::procreation]] drf [[file:adjs.all.org::procreative]] drf [[file:noun.act.org::procreation]]
 w: <<multiply1>> event [[file:noun.act.org::multiplication1]] drf [[file:noun.act.org::multiplication1]]
 hyper: [[file:verb.creation.org::make]]
 dt: [[file:noun.cognition.org::biology]]
@@ -1757,7 +1757,7 @@ w: <<engender>>
 w: <<father>> agent [[file:noun.person.org::father]] drf [[file:noun.person.org::father]]
 w: <<mother>> by-means-of [[file:noun.person.org::mother]] agent [[file:noun.person.org::mother]] drf [[file:noun.person.org::mother]]
 w: <<sire>> agent [[file:noun.person.org::sire]] agent [[file:noun.animal.org::sire]] drf [[file:noun.animal.org::sire]] drf [[file:noun.person.org::sire]]
-w: <<generate>> event [[file:noun.group.org::generation]] event [[file:noun.event.org::generation]] event [[file:noun.act.org::generation]] drf [[file:adj.all.org::generative]] drf [[file:noun.group.org::generation]] drf [[file:noun.event.org::generation]] drf [[file:noun.act.org::generation]]
+w: <<generate>> event [[file:noun.group.org::generation]] event [[file:noun.event.org::generation]] event [[file:noun.act.org::generation]] drf [[file:adjs.all.org::generative]] drf [[file:noun.group.org::generation]] drf [[file:noun.event.org::generation]] drf [[file:noun.act.org::generation]]
 w: <<bring_forth>>
 hyper: [[file:verb.creation.org::make]]
 fr: 9
@@ -1768,7 +1768,7 @@ hyper: [[file:verb.contact.org::copulate]]
 fr: 1
 g: mate successfully; of livestock
 
-w: <<conceive>> event [[file:noun.act.org::conception1]] drf [[file:adj.all.org::conceptive]] drf [[file:noun.act.org::conception1]]
+w: <<conceive>> event [[file:noun.act.org::conception1]] drf [[file:adjs.all.org::conceptive]] drf [[file:noun.act.org::conception1]]
 entail: [[file:verb.contact.org::copulate]]
 hyper: [[file:verb.change.org::change_state]]
 fr: 2 8
@@ -2338,7 +2338,7 @@ fr: 8
 g: shave with a razor
 
 w: <<epilate>>
-w: <<depilate>> material [[file:noun.artifact.org::depilator]] event [[file:noun.act.org::depilation]] drf [[file:adj.all.org::depilatory]] drf [[file:noun.artifact.org::depilator]] drf [[file:noun.act.org::depilation]]
+w: <<depilate>> material [[file:noun.artifact.org::depilator]] event [[file:noun.act.org::depilation]] drf [[file:adjs.all.org::depilatory]] drf [[file:noun.artifact.org::depilator]] drf [[file:noun.act.org::depilation]]
 hyper: [[file:verb.change.org::remove]]
 fr: 8
 g: remove body hair; "epilate her legs"
@@ -2493,12 +2493,12 @@ hyper: [[laugh]]
 fr: 2
 g: laugh loudly and in an unrestrained way
 
-w: <<convulse>> drf [[file:adj.all.org::convulsive]]
+w: <<convulse>> drf [[file:adjs.all.org::convulsive]]
 hyper: [[laugh]]
 fr: 2 22
 g: be overcome with laughter
 
-w: <<laugh>> event [[file:noun.communication.org::laugh2]] event [[file:noun.communication.org::laugh]] by-means-of [[file:noun.communication.org::laugh1]] agent [[file:noun.person.org::laugher]] drf [[file:adj.all.org::laughable]] drf [[file:noun.communication.org::laugh1]] drf [[file:noun.communication.org::laugh2]] drf [[file:noun.communication.org::laugh]] drf [[file:noun.person.org::laugher]] ant [[cry]] see [[file:verb.communication.org::laugh_off]] see [[file:verb.communication.org::laugh_away]] see [[file:verb.communication.org::laugh_at]]
+w: <<laugh>> event [[file:noun.communication.org::laugh2]] event [[file:noun.communication.org::laugh]] by-means-of [[file:noun.communication.org::laugh1]] agent [[file:noun.person.org::laugher]] drf [[file:adjs.all.org::laughable]] drf [[file:noun.communication.org::laugh1]] drf [[file:noun.communication.org::laugh2]] drf [[file:noun.communication.org::laugh]] drf [[file:noun.person.org::laugher]] ant [[cry]] see [[file:verb.communication.org::laugh_off]] see [[file:verb.communication.org::laugh_away]] see [[file:verb.communication.org::laugh_at]]
 w: <<express_joy>>
 w: <<express_mirth>>
 hyper: [[file:verb.emotion.org::express_emotion]]
@@ -2640,7 +2640,7 @@ g: extend a joint beyond its normal range; "Don't hyperextend your elbow"
 w: <<exsert>>
 w: <<stretch_out1>>
 w: <<put_out1>>
-w: <<extend1>> body-part [[file:noun.body.org::extensor]] drf [[file:adj.all.org::extensible]] drf [[file:adj.all.org::extendible]] drf [[file:noun.body.org::extensor]]
+w: <<extend1>> body-part [[file:noun.body.org::extensor]] drf [[file:adj.all.org::extensible]] drf [[file:adjs.all.org::extendible]] drf [[file:noun.body.org::extensor]]
 w: <<hold_out>>
 w: <<stretch_forth>>
 hyper: [[file:verb.communication.org::gesticulate]]
@@ -2677,7 +2677,7 @@ hyper: [[relax]]
 fr: 2
 g: engage in passive relaxation; "After a hard day's work, I vegetate in front of the television"
 
-w: <<relax>> event [[file:noun.process.org::relaxation1]] event [[file:noun.act.org::relaxation]] drf [[file:adj.all.org::relaxant]] drf [[file:noun.process.org::relaxation1]] drf [[file:noun.act.org::relaxation]] ant [[tense1]]
+w: <<relax>> event [[file:noun.process.org::relaxation1]] event [[file:noun.act.org::relaxation]] drf [[file:adjs.all.org::relaxant]] drf [[file:noun.process.org::relaxation1]] drf [[file:noun.act.org::relaxation]] ant [[tense1]]
 w: <<loosen_up>>
 w: <<unbend1>>
 w: <<unwind>>
@@ -2698,7 +2698,7 @@ hyper: [[relax1]]
 fr: 8
 g: release from mental strain, tension, or formality; "unbend the mind from absorbing too much information"
 
-w: <<relax1>> state [[file:noun.feeling.org::relaxation]] by-means-of [[file:noun.object.org::relaxer]] drf [[file:adj.all.org::relaxant]] drf [[file:noun.feeling.org::relaxation]] drf [[file:noun.object.org::relaxer]] drf [[file:noun.artifact.org::relaxant]] ant [[tense]]
+w: <<relax1>> state [[file:noun.feeling.org::relaxation]] by-means-of [[file:noun.object.org::relaxer]] drf [[file:adjs.all.org::relaxant]] drf [[file:noun.feeling.org::relaxation]] drf [[file:noun.object.org::relaxer]] drf [[file:noun.artifact.org::relaxant]] ant [[tense]]
 w: <<unstrain>> ant [[strain]]
 w: <<unlax1>>
 w: <<loosen_up1>>
@@ -2811,7 +2811,7 @@ hyper: [[affect]]
 fr: 2 8 9 10 11
 g: cause to be alert and energetic; "Coffee and tea stimulate me"; "This herbal infusion doesn't stimulate"
 
-w: <<sedate>> event [[file:noun.act.org::sedation]] drf [[file:adj.all.org::sedative]] drf [[file:noun.act.org::sedation]] ant [[stimulate]]
+w: <<sedate>> event [[file:noun.act.org::sedation]] drf [[file:adjs.all.org::sedative]] drf [[file:noun.act.org::sedation]] ant [[stimulate]]
 w: <<calm>> state [[file:noun.attribute.org::calm]] drf [[file:noun.attribute.org::calm]]
 w: <<tranquilize>> by-means-of [[file:noun.artifact.org::tranquilizer]] drf [[file:noun.artifact.org::tranquilizer]]
 w: <<tranquillize>> by-means-of [[file:noun.artifact.org::tranquillizer]] drf [[file:noun.artifact.org::tranquillizer]]
@@ -3168,7 +3168,7 @@ hyper: [[act]]
 fr: 2
 g: act as an optimist and take a sunny view of the world
 
-w: <<vulgarize>> drf [[file:adj.all.org::vulgar]]
+w: <<vulgarize>> drf [[file:adjs.all.org::vulgar]]
 w: <<vulgarise>>
 hyper: [[act]]
 fr: 2

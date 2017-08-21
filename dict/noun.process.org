@@ -266,8 +266,8 @@ hyper: [[organic_process]]
 hp: [[prophase2]]
 g: the contraction of chromatin towards one side of the nucleus during the prophase of meiosis
 
-w: <<synergy>> drf [[file:adj.all.org::synergetic]]
-w: <<synergism>> drf [[file:adj.all.org::synergistic]] drf [[file:adj.all.org::synergistic]] drf [[file:noun.artifact.org::synergist]]
+w: <<synergy>> drf [[file:adjs.all.org::synergetic]]
+w: <<synergism>> drf [[file:adjs.all.org::synergistic]] drf [[file:adj.all.org::synergistic]] drf [[file:noun.artifact.org::synergist]]
 hyper: [[natural_process]]
 g: the working together of two things (muscles or drugs for example) to produce an effect greater than the sum of their individual effects
 
@@ -318,7 +318,7 @@ hyper: [[deposition]]
 dt: [[file:noun.cognition.org::geology]]
 g: (geology) the deposition of one geological stratum on another
 
-w: <<summation>> drf [[file:adj.all.org::summational]]
+w: <<summation>> drf [[file:adjs.all.org::summational]]
 hyper: [[organic_process]]
 dt: [[file:noun.cognition.org::physiology]]
 g: (physiology) the process whereby multiple stimuli can produce a response (in a muscle or nerve or other part) that one stimulus alone does not produce
@@ -1063,7 +1063,7 @@ w: <<virgin_birth>>
 hyper: [[asexual_reproduction]]
 g: human conception without fertilization by a man
 
-w: <<parthenogenesis>> drf [[file:adj.all.org::parthenogenetic]]
+w: <<parthenogenesis>> drf [[file:adjs.all.org::parthenogenetic]]
 w: <<parthenogeny>>
 hyper: [[apomixis]]
 g: process in which an unfertilized egg develops into a new individual; common among insects and some other arthropods
@@ -1141,12 +1141,12 @@ hyper: [[compensation]]
 dt: [[file:noun.cognition.org::psychiatry]]
 g: (psychiatry) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite
 
-w: <<overactivity>> drf [[file:adj.all.org::overactive]]
+w: <<overactivity>> drf [[file:adjs.all.org::overactive]]
 hyper: [[bodily_process]]
 g: excessive activity; "overactivity of the sebaceous glands causes the skin to become oily"
 
 w: <<outflow>> ant [[inflow]]
-w: <<effluence>> drf [[file:adj.all.org::effluent]]
+w: <<effluence>> drf [[file:adjs.all.org::effluent]]
 w: <<efflux>> ant [[influx]]
 hyper: [[flow]]
 g: the process of flowing out
@@ -1237,11 +1237,11 @@ w: <<oligomenorrhea>>
 hyper: [[menstruation]]
 g: abnormally light or infrequent menstruation
 
-w: <<obsolescence>> drf [[file:adj.all.org::obsolescent]] drf [[file:verb.change.org::obsolesce]]
+w: <<obsolescence>> drf [[file:adjs.all.org::obsolescent]] drf [[file:verb.change.org::obsolesce]]
 hyper: [[degeneration]]
 g: the process of becoming obsolete; falling into disuse or becoming out of date; "a policy of planned obsolescence"
 
-w: <<nutrition>> drf [[file:adj.pert.org::nutritionary]] drf [[file:adj.all.org::nutritious]] drf [[file:adj.pert.org::nutritional]] drf [[file:noun.person.org::nutritionist]] drf [[file:verb.consumption.org::nutrify]]
+w: <<nutrition>> drf [[file:adj.pert.org::nutritionary]] drf [[file:adjs.all.org::nutritious]] drf [[file:adj.pert.org::nutritional]] drf [[file:noun.person.org::nutritionist]] drf [[file:verb.consumption.org::nutrify]]
 hyper: [[organic_process]]
 dt: [[file:noun.cognition.org::physiology]]
 g: (physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance
@@ -1636,7 +1636,7 @@ w: <<Leboyer_method>>
 hyper: [[natural_childbirth]]
 g: a method of childbirth that tries to minimize the trauma for the newborn; delivery occurs in a quiet dimly lit room and the infant's head is not pulled and immediate bonding between mother and child is encouraged
 
-w: <<leak>> drf [[file:adj.all.org::leaky]]
+w: <<leak>> drf [[file:adjs.all.org::leaky]]
 w: <<wetting>>
 w: <<making_water>>
 w: <<passing_water>>
@@ -1874,7 +1874,7 @@ hyper: [[formation]]
 g: the formation of a crust
 
 w: <<increase>> drf [[file:verb.change.org::increase2]] drf [[file:verb.change.org::increase]] ant [[decrease]]
-w: <<increment>> ant [[decrement]] drf [[file:adj.all.org::incremental]]
+w: <<increment>> ant [[decrement]] drf [[file:adjs.all.org::incremental]]
 w: <<growth2>> drf [[file:verb.change.org::grow]]
 hyper: [[file:noun.Tops.org::process]]
 g: a process of becoming larger or longer or more numerous or more important; "the increase in unemployment"; "the growth of population"
@@ -1966,8 +1966,8 @@ w: <<homospory>> drf [[file:adj.pert.org::homosporous]]
 hyper: [[monogenesis]]
 g: the development of a single kind of asexual spores
 
-w: <<holometabolism>> drf [[file:adj.all.org::holometabolic]] drf [[file:adj.all.org::holometabolous]]
-w: <<holometaboly>> drf [[file:adj.all.org::holometabolous]]
+w: <<holometabolism>> drf [[file:adjs.all.org::holometabolic]] drf [[file:adjs.all.org::holometabolous]]
+w: <<holometaboly>> drf [[file:adjs.all.org::holometabolous]]
 hyper: [[metamorphosis]]
 dt: [[file:noun.animal.org::insect]]
 g: complete metamorphosis in insects
@@ -1976,7 +1976,7 @@ w: <<heterospory>> drf [[file:adj.pert.org::heterosporous]]
 hyper: [[monogenesis]]
 g: the development of both microspores and megaspores
 
-w: <<heredity>> drf [[file:adj.all.org::hereditary1]]
+w: <<heredity>> drf [[file:adjs.all.org::hereditary1]]
 hyper: [[organic_process]]
 g: the biological process whereby genetic factors are transmitted from one generation to the next
 
@@ -1987,14 +1987,14 @@ w: <<haematolysis>>
 hyper: [[lysis]]
 g: lysis of erythrocytes with the release of hemoglobin
 
-w: <<heterometabolism>> drf [[file:adj.all.org::heterometabolic]]
-w: <<heterometaboly>> drf [[file:adj.all.org::heterometabolic]]
+w: <<heterometabolism>> drf [[file:adjs.all.org::heterometabolic]]
+w: <<heterometaboly>> drf [[file:adjs.all.org::heterometabolic]]
 hyper: [[metamorphosis]]
 g: development of insects with incomplete metamorphosis in which no pupal stage precedes maturity
 
-w: <<hemimetamorphosis>> drf [[file:adj.all.org::hemimetamorphous]]
-w: <<hemimetabolism>> drf [[file:adj.all.org::hemimetabolic]] drf [[file:adj.all.org::hemimetabolous]]
-w: <<hemimetaboly>> drf [[file:adj.all.org::hemimetabolic]]
+w: <<hemimetamorphosis>> drf [[file:adjs.all.org::hemimetamorphous]]
+w: <<hemimetabolism>> drf [[file:adjs.all.org::hemimetabolic]] drf [[file:adjs.all.org::hemimetabolous]]
+w: <<hemimetaboly>> drf [[file:adjs.all.org::hemimetabolic]]
 hyper: [[metamorphosis]]
 g: incomplete or partial metamorphosis in insects
 
@@ -2167,7 +2167,7 @@ w: <<fructification>> drf [[file:verb.change.org::fructify]] drf [[file:verb.bod
 hyper: [[growth]]
 g: the bearing of fruit
 
-w: <<frost1>> drf [[file:adj.all.org::frosty2]] drf [[file:verb.contact.org::frost4]]
+w: <<frost1>> drf [[file:adjs.all.org::frosty2]] drf [[file:verb.contact.org::frost4]]
 w: <<icing>>
 hyper: [[freeze1]]
 g: the formation of frost or ice on a surface
@@ -2272,7 +2272,7 @@ w: <<nuclear_fission>>
 hyper: [[nuclear_reaction]]
 g: a nuclear reaction in which a massive nucleus splits into smaller nuclei with the simultaneous release of energy
 
-w: <<fire>> drf [[file:adj.all.org::fiery]] drf [[file:verb.possession.org::fire]] drf [[file:verb.change.org::fire1]] drf [[file:verb.change.org::fire]]
+w: <<fire>> drf [[file:adjs.all.org::fiery]] drf [[file:verb.possession.org::fire]] drf [[file:verb.change.org::fire1]] drf [[file:verb.change.org::fire]]
 w: <<flame>> drf [[file:verb.weather.org::flame]]
 w: <<flaming>> drf [[file:verb.weather.org::flame]]
 hyper: [[combustion]]
@@ -2954,7 +2954,7 @@ w: <<convection1>>
 hyper: [[temperature_change]]
 g: the transfer of heat through a fluid (liquid or gas) caused by molecular motion
 
-w: <<convalescence>> drf [[file:adj.all.org::convalescent]] drf [[file:verb.body.org::convalesce]]
+w: <<convalescence>> drf [[file:adjs.all.org::convalescent]] drf [[file:verb.body.org::convalesce]]
 w: <<recuperation>> drf [[file:verb.body.org::recuperate1]] drf [[file:verb.body.org::recuperate]]
 w: <<recovery>> drf [[file:verb.body.org::recover]]
 hyper: [[healing]]
@@ -3130,7 +3130,7 @@ hyper: [[organic_process]]
 g: the process in reproduction and growth by which a cell divides to form daughter cells
 
 w: <<cavity>>
-w: <<caries>> drf [[file:adj.all.org::carious]]
+w: <<caries>> drf [[file:adjs.all.org::carious]]
 w: <<dental_caries>>
 w: <<tooth_decay>>
 hyper: [[decay2]]
@@ -3255,7 +3255,7 @@ w: <<flowering>> drf [[file:verb.change.org::flower]]
 w: <<florescence>>
 w: <<inflorescence>>
 w: <<anthesis>>
-w: <<efflorescence>> drf [[file:adj.all.org::efflorescent]] drf [[file:verb.change.org::effloresce]]
+w: <<efflorescence>> drf [[file:adjs.all.org::efflorescent]] drf [[file:verb.change.org::effloresce]]
 hyper: [[growth]]
 g: the time and process of budding and unfolding of blossoms
 
@@ -3403,7 +3403,7 @@ hyper: [[development2]]
 g: the development of a consonant phoneme into a sibilant
 
 w: <<asexual_reproduction>>
-w: <<agamogenesis>> drf [[file:adj.all.org::agamogenetic]]
+w: <<agamogenesis>> drf [[file:adjs.all.org::agamogenetic]]
 hyper: [[reproduction]]
 g: reproduction without the fusion of gametes
 
@@ -3412,7 +3412,7 @@ hyper: [[growth]]
 dt: [[file:noun.cognition.org::biology]]
 g: (biology) growth in the thickness of a cell wall by the deposit of successive layers of material
 
-w: <<apomixis>> drf [[file:adj.all.org::apomictic]] drf [[file:adj.pert.org::apomictic]] drf [[file:adj.pert.org::apomictical]]
+w: <<apomixis>> drf [[file:adjs.all.org::apomictic]] drf [[file:adj.pert.org::apomictic]] drf [[file:adj.pert.org::apomictical]]
 hyper: [[asexual_reproduction]]
 g: any of several kinds of reproduction without fertilization
 
@@ -3432,7 +3432,7 @@ dt: [[file:noun.cognition.org::linguistics]]
 g: (linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until'
 
 w: <<antisepsis>>
-w: <<asepsis>> drf [[file:adj.all.org::aseptic]]
+w: <<asepsis>> drf [[file:adjs.all.org::aseptic]]
 hyper: [[organic_process]]
 g: the process of inhibiting the growth and multiplication of microorganisms
 
@@ -3536,7 +3536,7 @@ g: a reaction of aldehydes resulting in an aldol
 
 w: <<aging>>
 w: <<ageing>>
-w: <<senescence>> drf [[file:adj.all.org::senescent]]
+w: <<senescence>> drf [[file:adjs.all.org::senescent]]
 hyper: [[organic_process]]
 g: the organic process of growing older and showing the effects of increasing age
 
@@ -3627,22 +3627,22 @@ w: <<acetylation>> drf [[file:verb.change.org::acetylate]] drf [[file:verb.chang
 hyper: [[acylation]]
 g: the process of introducing an acetyl group into a compound; "the acetylation of cyclooxygenase-2 by aspirin"
 
-w: <<accretion3>> drf [[file:adj.all.org::accretionary]]
+w: <<accretion3>> drf [[file:adjs.all.org::accretionary]]
 hyper: [[increase]]
 dt: [[file:noun.cognition.org::astronomy]]
 g: (astronomy) the formation of a celestial object by the effect of gravity pulling together surrounding objects and gases
 
-w: <<accretion2>> drf [[file:adj.all.org::accretionary]] drf [[file:verb.change.org::accrete1]]
+w: <<accretion2>> drf [[file:adjs.all.org::accretionary]] drf [[file:verb.change.org::accrete1]]
 hyper: [[increase]]
 dt: [[file:noun.cognition.org::biology]]
 g: (biology) growth by addition as by the adhesion of parts or particles
 
-w: <<accretion1>> drf [[file:adj.all.org::accretionary]]
+w: <<accretion1>> drf [[file:adjs.all.org::accretionary]]
 hyper: [[increase]]
 dt: [[file:noun.cognition.org::geology]]
 g: (geology) an increase in land resulting from alluvial deposits or waterborne sediment
 
-w: <<accretion>> drf [[file:adj.all.org::accretionary]] drf [[file:verb.change.org::accrete1]]
+w: <<accretion>> drf [[file:adjs.all.org::accretionary]] drf [[file:verb.change.org::accrete1]]
 w: <<accumulation>>
 hyper: [[increase]]
 g: an increase by natural growth or addition

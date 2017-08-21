@@ -110,12 +110,12 @@ g: take revenge or even out a score; "I cannot accept the defeat--I want to get 
 
 w: <<revenge>> event [[file:noun.act.org::revenge]] drf [[file:noun.act.org::revenge]]
 w: <<avenge>> agent [[file:noun.person.org::avenger]] drf [[file:noun.person.org::avenger]]
-w: <<retaliate1>> event [[file:noun.act.org::retaliation]] agent [[file:noun.person.org::retaliator]] drf [[file:adj.all.org::retaliatory]] drf [[file:noun.act.org::retaliation]] drf [[file:noun.person.org::retaliator]]
+w: <<retaliate1>> event [[file:noun.act.org::retaliation]] agent [[file:noun.person.org::retaliator]] drf [[file:adjs.all.org::retaliatory]] drf [[file:noun.act.org::retaliation]] drf [[file:noun.person.org::retaliator]]
 hyper: [[file:verb.social.org::punish]]
 fr: 8
 g: take revenge for a perceived wrong; "He wants to avenge the murder of his brother"
 
-w: <<retaliate>> event [[file:noun.act.org::retaliation]] drf [[file:adj.all.org::retaliatory]] drf [[file:noun.act.org::retaliation]]
+w: <<retaliate>> event [[file:noun.act.org::retaliation]] drf [[file:adjs.all.org::retaliatory]] drf [[file:noun.act.org::retaliation]]
 w: <<strike_back4>>
 hyper: [[strike]]
 fr: 2 22
@@ -240,7 +240,7 @@ fr: 8
 g: place troops or weapons in battle formation
 
 w: <<champion>> agent [[file:noun.person.org::champion2]] agent [[file:noun.person.org::champion]] drf [[file:noun.person.org::champion2]] drf [[file:noun.person.org::champion]]
-w: <<defend4>> agent [[file:noun.person.org::defender]] drf [[file:adj.all.org::defensible]] drf [[file:noun.person.org::defender]]
+w: <<defend4>> agent [[file:noun.person.org::defender]] drf [[file:adjs.all.org::defensible]] drf [[file:noun.person.org::defender]]
 hyper: [[file:verb.social.org::back]]
 fr: 8 9
 g: protect or fight for as a champion
@@ -914,7 +914,7 @@ hyper: [[protect]]
 fr: 8 9 10 11
 g: protect, hide, or conceal from danger or harm
 
-w: <<defend2>> agent [[file:noun.person.org::defender]] agent [[file:noun.group.org::defence3]] drf [[file:adj.all.org::defensible]] drf [[file:adj.all.org::defensive]] drf [[file:noun.person.org::defender]] drf [[file:noun.group.org::defence3]]
+w: <<defend2>> agent [[file:noun.person.org::defender]] agent [[file:noun.group.org::defence3]] drf [[file:adjs.all.org::defensible]] drf [[file:adj.all.org::defensive]] drf [[file:noun.person.org::defender]] drf [[file:noun.group.org::defence3]]
 w: <<guard3>>
 w: <<hold5>>
 hyper: [[protect]]
@@ -971,7 +971,7 @@ hyper: [[defend]]
 fr: 8
 g: defend with a bulwark
 
-w: <<defend>> agent [[file:noun.group.org::defence1]] drf [[file:adj.all.org::defensible]] drf [[file:adj.all.org::defensive]] drf [[file:noun.group.org::defence1]] ant [[attack]]
+w: <<defend>> agent [[file:noun.group.org::defence1]] drf [[file:adjs.all.org::defensible]] drf [[file:adj.all.org::defensive]] drf [[file:noun.group.org::defence1]] ant [[attack]]
 entail: [[contend1]]
 hyper: [[file:verb.social.org::prevent]]
 fr: 8 9
@@ -1020,7 +1020,7 @@ hyper: [[assail]]
 fr: 9 10
 g: assail or attack on all sides: "The zebra was beset by leopards"
 
-w: <<invade>> event [[file:noun.act.org::invasion]] agent [[file:noun.person.org::invader]] drf [[file:adj.all.org::invasive]] drf [[file:noun.act.org::invasion]] drf [[file:noun.person.org::invader]]
+w: <<invade>> event [[file:noun.act.org::invasion]] agent [[file:noun.person.org::invader]] drf [[file:adjs.all.org::invasive]] drf [[file:noun.act.org::invasion]] drf [[file:noun.person.org::invader]]
 w: <<occupy>> event [[file:noun.act.org::occupation2]] agent [[file:noun.person.org::occupier1]] drf [[file:noun.person.org::occupier1]] drf [[file:noun.act.org::occupation2]]
 hyper: [[attack]]
 fr: 8 11
@@ -1226,7 +1226,7 @@ fr: 9
 g: attack or hit on or from the side where the attacked person's view is obstructed
 
 w: <<assail>> drf [[file:noun.person.org::assailant]]
-w: <<assault>> event [[file:noun.act.org::assault2]] event [[file:noun.act.org::assault1]] agent [[file:noun.person.org::assaulter]] drf [[file:adj.all.org::assaultive]] drf [[file:noun.act.org::assault2]] drf [[file:noun.act.org::assault1]] drf [[file:noun.person.org::assaulter]]
+w: <<assault>> event [[file:noun.act.org::assault2]] event [[file:noun.act.org::assault1]] agent [[file:noun.person.org::assaulter]] drf [[file:adjs.all.org::assaultive]] drf [[file:noun.act.org::assault2]] drf [[file:noun.act.org::assault1]] drf [[file:noun.person.org::assaulter]]
 w: <<set_on>>
 w: <<attack2>> event [[file:noun.act.org::attack2]] agent [[file:noun.person.org::attacker]] drf [[file:noun.act.org::attack2]] drf [[file:noun.person.org::attacker]]
 fr: 8 9 10
@@ -1243,7 +1243,7 @@ fr: 2 8 9 11
 g: attack by submarine; "The Germans submarined the Allies"
 
 w: <<attack>> event [[file:noun.act.org::attack]] agent [[file:noun.person.org::attacker]] drf [[file:noun.act.org::attack]] drf [[file:noun.person.org::attacker]] ant [[defend]]
-w: <<assail1>> drf [[file:adj.all.org::assailable]] drf [[file:noun.person.org::assailant]]
+w: <<assail1>> drf [[file:adjs.all.org::assailable]] drf [[file:noun.person.org::assailant]]
 vg: [[attack1]]
 hyper: [[contend1]]
 fr: 8 9
@@ -1261,7 +1261,7 @@ fr: 8
 g: place under attack with one's own pieces, of two enemy pieces
 
 w: <<attack1>> event [[file:noun.act.org::attack]] agent [[file:noun.person.org::attacker]] drf [[file:noun.act.org::attack]] drf [[file:noun.person.org::attacker]] fr 8 9
-w: <<aggress>> event [[file:noun.act.org::aggression2]] event [[file:noun.act.org::aggression]] agent [[file:noun.person.org::aggressor]] drf [[file:adj.all.org::aggressive]] drf [[file:noun.act.org::aggression2]] drf [[file:noun.act.org::aggression]] drf [[file:noun.person.org::aggressor]]
+w: <<aggress>> event [[file:noun.act.org::aggression2]] event [[file:noun.act.org::aggression]] agent [[file:noun.person.org::aggressor]] drf [[file:adjs.all.org::aggressive]] drf [[file:noun.act.org::aggression2]] drf [[file:noun.act.org::aggression]] drf [[file:noun.person.org::aggressor]]
 hyper: [[file:verb.social.org::act]]
 vg: [[attack]]
 fr: 1 2
@@ -1272,7 +1272,7 @@ hyper: [[submit]]
 fr: 9
 g: make accountable for; "He did not want to subject himself to the judgments of his superiors"
 
-w: <<submit>> state [[file:noun.state.org::submission]] event [[file:noun.act.org::submission1]] agent [[file:noun.person.org::submitter1]] drf [[file:adj.all.org::submissive]] drf [[file:adj.all.org::submissive]] drf [[file:noun.state.org::submission]] drf [[file:noun.act.org::submission1]] drf [[file:noun.person.org::submitter1]]
+w: <<submit>> state [[file:noun.state.org::submission]] event [[file:noun.act.org::submission1]] agent [[file:noun.person.org::submitter1]] drf [[file:adjs.all.org::submissive]] drf [[file:adj.all.org::submissive]] drf [[file:noun.state.org::submission]] drf [[file:noun.act.org::submission1]] drf [[file:noun.person.org::submitter1]]
 entail: [[surrender]]
 fr: 2 22
 g: yield to the control of another
@@ -1320,7 +1320,7 @@ hyper: [[resist]]
 fr: 2
 g: be stubborn in resolution or resistance
 
-w: <<resist>> event [[file:noun.act.org::resistance1]] drf [[file:adj.all.org::resistive]] drf [[file:adj.all.org::resistant]] drf [[file:noun.act.org::resistance1]] ant [[surrender]]
+w: <<resist>> event [[file:noun.act.org::resistance1]] drf [[file:adjs.all.org::resistive]] drf [[file:adjs.all.org::resistant]] drf [[file:noun.act.org::resistance1]] ant [[surrender]]
 w: <<hold_out>> drf [[file:noun.person.org::holdout]] drf [[file:noun.communication.org::holdout]]
 w: <<withstand>> agent [[file:noun.person.org::withstander1]] drf [[file:noun.person.org::withstander1]]
 w: <<stand_firm>>
@@ -1337,7 +1337,7 @@ hyper: [[surrender]]
 fr: 8 15
 g: surrender (power or a position); "The King abnegated his power to the ministers"
 
-w: <<resist1>> drf [[file:adj.all.org::resistant]]
+w: <<resist1>> drf [[file:adjs.all.org::resistant]]
 w: <<stand>> by-means-of [[file:noun.act.org::stand]] drf [[file:noun.act.org::stand]]
 w: <<fend>> instrument [[file:noun.artifact.org::fender3]] instrument [[file:noun.artifact.org::fender2]] instrument [[file:noun.artifact.org::fender1]] instrument [[file:noun.artifact.org::fender]] drf [[file:noun.artifact.org::fender3]] drf [[file:noun.artifact.org::fender2]] drf [[file:noun.artifact.org::fender1]] drf [[file:noun.artifact.org::fender]]
 hyper: [[fight1]]
@@ -1664,7 +1664,7 @@ w: <<surpass>>
 w: <<outstrip>>
 w: <<outmatch>>
 w: <<outgo>>
-w: <<exceed>> drf [[file:adj.all.org::excessive]]
+w: <<exceed>> drf [[file:adjs.all.org::excessive]]
 w: <<outdo>>
 w: <<surmount1>>
 w: <<outperform>>
@@ -1702,7 +1702,7 @@ w: <<outwit>>
 w: <<overreach>>
 w: <<outsmart>>
 w: <<outfox1>>
-w: <<beat14>> drf [[file:adj.all.org::beatable]]
+w: <<beat14>> drf [[file:adjs.all.org::beatable]]
 w: <<circumvent>>
 vg: [[beat]]
 hyper: [[surpass]]
@@ -1798,12 +1798,12 @@ hyper: [[beat]]
 fr: 8 9
 g: beat easily; "The local team walked over their old rivals for the championship"
 
-w: <<beat>> drf [[file:adj.all.org::beatable]] drf [[file:noun.act.org::beating1]]
+w: <<beat>> drf [[file:adjs.all.org::beatable]] drf [[file:noun.act.org::beating1]]
 w: <<beat_out>>
 w: <<crush>>
 w: <<shell3>>
 w: <<trounce>> drf [[file:noun.event.org::trouncing]]
-w: <<vanquish>> agent [[file:noun.person.org::vanquisher]] drf [[file:adj.all.org::vanquishable]] drf [[file:noun.person.org::vanquisher]]
+w: <<vanquish>> agent [[file:noun.person.org::vanquisher]] drf [[file:adjs.all.org::vanquishable]] drf [[file:noun.person.org::vanquisher]]
 entail: [[win]]
 hyper: [[get_the_better_of]]
 vg: [[outwit]]
@@ -1811,7 +1811,7 @@ fr: 8 9 10
 g: come out better in a competition, race, or conflict; "Agassi beat Becker in the tennis championship"; "We beat the competition"; "Harvard defeated Yale in the last football game"
 
 w: <<prevail>>
-w: <<triumph>> event [[file:noun.event.org::triumph]] drf [[file:adj.all.org::triumphant]] drf [[file:noun.event.org::triumph]]
+w: <<triumph>> event [[file:noun.event.org::triumph]] drf [[file:adjs.all.org::triumphant]] drf [[file:noun.event.org::triumph]]
 hyper: [[win]]
 fr: 2
 g: prove superior; "The champion prevailed, though it was a hard fight"
@@ -2085,7 +2085,7 @@ fr: 2
 g: engage in an aerial battle with another fighter plane
 
 w: <<battle>> event [[file:noun.act.org::battle2]] event [[file:noun.act.org::battle]] agent [[file:noun.person.org::battler]] drf [[file:noun.act.org::battle2]] drf [[file:noun.act.org::battle]] drf [[file:noun.person.org::battler]]
-w: <<combat>> event [[file:noun.act.org::combat1]] event [[file:noun.act.org::combat]] drf [[file:adj.all.org::combative]] drf [[file:adj.all.org::combatant]] drf [[file:noun.act.org::combat1]] drf [[file:noun.act.org::combat]] drf [[file:noun.person.org::combatant]]
+w: <<combat>> event [[file:noun.act.org::combat1]] event [[file:noun.act.org::combat]] drf [[file:adjs.all.org::combative]] drf [[file:adjs.all.org::combatant]] drf [[file:noun.act.org::combat1]] drf [[file:noun.act.org::combat]] drf [[file:noun.person.org::combatant]]
 hyper: [[contend1]]
 fr: 2 8 9
 g: battle or contend against in or as if in a battle; "The Kurds are combating Iraqi troops in Northern Iraq"; "We must combat the prejudices against other races"; "they battled over the budget"
@@ -2107,10 +2107,10 @@ fr: 22
 g: show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient; "The Democratic senators recalcitrated against every proposal from the Republican side"
 
 w: <<fight1>> vehicle [[file:noun.artifact.org::fighter]] event [[file:noun.communication.org::fight]] agent [[file:noun.person.org::fighter]] drf [[file:noun.communication.org::fight]] drf [[file:noun.person.org::fighter]] drf [[file:noun.artifact.org::fighter]]
-w: <<oppose1>> event [[file:noun.act.org::opposition]] agent [[file:noun.person.org::opposer]] drf [[file:adj.all.org::opponent]] drf [[file:noun.act.org::opposition]] drf [[file:noun.person.org::opposer]]
+w: <<oppose1>> event [[file:noun.act.org::opposition]] agent [[file:noun.person.org::opposer]] drf [[file:adjs.all.org::opponent]] drf [[file:noun.act.org::opposition]] drf [[file:noun.person.org::opposer]]
 w: <<fight_back>>
 w: <<fight_down>>
-w: <<defend5>> drf [[file:adj.all.org::defensive]]
+w: <<defend5>> drf [[file:adjs.all.org::defensive]]
 hyper: [[contend1]]
 fr: 2 8 9
 g: fight against or resist strongly; "The senator said he would oppose the bill"; "Don't fight it!"
@@ -2381,7 +2381,7 @@ fr: 22
 g: enter eagerly into; "He jumped into the game"
 
 w: <<enter>> drf [[file:noun.person.org::entrant]] ant [[drop_out]]
-w: <<participate>> state [[file:noun.state.org::participation]] event [[file:noun.act.org::participation]] drf [[file:adj.all.org::participatory]] drf [[file:noun.state.org::participation]] drf [[file:noun.act.org::participation]] drf [[file:noun.person.org::participant]]
+w: <<participate>> state [[file:noun.state.org::participation]] event [[file:noun.act.org::participation]] drf [[file:adjs.all.org::participatory]] drf [[file:noun.state.org::participation]] drf [[file:noun.act.org::participation]] drf [[file:noun.person.org::participant]]
 fr: 2 8 22
 g: become a participant; be involved in; "enter a race"; "enter an agreement"; "enter a drug treatment program"; "enter negotiations"
 
@@ -2428,7 +2428,7 @@ fr: 8
 g: decide (a contest or competition) by a runoff
 
 w: <<pit>>
-w: <<oppose>> drf [[file:adj.all.org::opponent]] drf [[file:noun.person.org::opponent2]]
+w: <<oppose>> drf [[file:adjs.all.org::opponent]] drf [[file:noun.person.org::opponent2]]
 w: <<match>> event [[file:noun.event.org::match]] drf [[file:noun.event.org::match]]
 w: <<play_off>> drf [[file:noun.event.org::playoff]]
 hyper: [[confront]]

@@ -154,7 +154,7 @@ w: <<transcript1>>
 hyper: [[writing]]
 g: something that has been transcribed; a written record (usually typewritten) of dictated or recorded speech; "he read a transcript of the interrogation"; "you can obtain a transcript of this radio program by sending a self-addressed envelope to the station"
 
-w: <<plagiarism>> drf [[file:adj.all.org::plagiaristic]] drf [[file:noun.person.org::plagiarist]] drf [[file:verb.possession.org::plagiarize]] drf [[file:verb.possession.org::plagiarise]]
+w: <<plagiarism>> drf [[file:adjs.all.org::plagiaristic]] drf [[file:noun.person.org::plagiarist]] drf [[file:verb.possession.org::plagiarize]] drf [[file:verb.possession.org::plagiarise]]
 hyper: [[writing]]
 g: a piece of writing that has been copied from someone else and is presented as being your own work
 
@@ -639,7 +639,7 @@ hyper: [[standard]]
 g: a standard by which something can be measured or judged; "his painting sets the benchmark of quality"
 
 w: <<standard>> drf [[file:verb.change.org::standardize]] drf [[file:verb.change.org::standardise]]
-w: <<criterion>> drf [[file:adj.all.org::criterial]] drf [[file:adj.all.org::criterional]]
+w: <<criterion>> drf [[file:adjs.all.org::criterial]] drf [[file:adjs.all.org::criterional]]
 w: <<measure3>>
 w: <<touchstone>>
 hyper: [[file:noun.quantity.org::system_of_measurement]]
@@ -749,7 +749,7 @@ hp: [[file:noun.group.org::seance]]
 g: alleged form of communication with spirits of the dead
 
 w: <<telekinesis>>
-w: <<psychokinesis>> drf [[file:adj.all.org::psychokinetic]]
+w: <<psychokinesis>> drf [[file:adjs.all.org::psychokinetic]]
 hyper: [[psychic_phenomena]]
 g: the power to move something by thinking about it without the application of physical force
 
@@ -758,7 +758,7 @@ w: <<foreknowledge>>
 hyper: [[clairvoyance]]
 g: knowledge of an event before it occurs
 
-w: <<clairvoyance>> drf [[file:adj.all.org::clairvoyant]] drf [[file:adj.all.org::clairvoyant]]
+w: <<clairvoyance>> drf [[file:adjs.all.org::clairvoyant]] drf [[file:adjs.all.org::clairvoyant]]
 w: <<second_sight>>
 w: <<extrasensory_perception>>
 w: <<E.S.P.>>
@@ -768,15 +768,15 @@ g: apparent power to perceive things that are not present to the senses
 
 w: <<psychic_phenomena>>
 w: <<psychic_phenomenon>>
-w: <<parapsychology>> drf [[file:adj.all.org::parapsychological]] drf [[file:noun.person.org::parapsychologist]]
+w: <<parapsychology>> drf [[file:adjs.all.org::parapsychological]] drf [[file:noun.person.org::parapsychologist]]
 hyper: [[psychic_communication]]
 g: phenomena that appear to contradict physical laws and suggest the possibility of causation by mental processes
 
-w: <<telegnosis>> drf [[file:adj.all.org::telegnostic]]
+w: <<telegnosis>> drf [[file:adjs.all.org::telegnostic]]
 hyper: [[psychic_communication]]
 g: apparent knowledge of distant events without using sensory perceptions
 
-w: <<telepathy>> drf [[file:adj.all.org::telepathic]] drf [[file:noun.person.org::telepathist1]] drf [[file:noun.person.org::telepathist]] drf [[file:verb.communication.org::telepathize]]
+w: <<telepathy>> drf [[file:adjs.all.org::telepathic]] drf [[file:noun.person.org::telepathist1]] drf [[file:noun.person.org::telepathist]] drf [[file:verb.communication.org::telepathize]]
 w: <<thought_transference>>
 hyper: [[psychic_communication]]
 g: apparent communication from one mind to another without using sensory perceptions
@@ -1012,7 +1012,7 @@ w: <<shocker>> drf [[file:verb.emotion.org::shock]]
 hyper: [[message]]
 g: a sensational message (in a film or play or novel)
 
-w: <<sensationalism1>> drf [[file:adj.all.org::sensationalistic]] drf [[file:noun.person.org::sensationalist]]
+w: <<sensationalism1>> drf [[file:adjs.all.org::sensationalistic]] drf [[file:noun.person.org::sensationalist]]
 hyper: [[message]]
 attr: [[file:adj.all.org::sensational]]
 attr: [[file:adj.all.org::unsensational]]
@@ -1121,7 +1121,7 @@ g: an address of a religious nature (usually delivered during a church service)
 w: <<valediction>>
 w: <<valedictory_address>>
 w: <<valedictory_oration>>
-w: <<valedictory>> drf [[file:adj.all.org::valedictory]] drf [[file:adj.pert.org::valedictory]]
+w: <<valedictory>> drf [[file:adjs.all.org::valedictory]] drf [[file:adj.pert.org::valedictory]]
 hyper: [[oratory]]
 g: a farewell oration (especially one delivered during graduation exercises by an outstanding member of a graduating class)
 
@@ -1182,7 +1182,7 @@ w: <<oration>>
 hyper: [[oratory]]
 g: an instance of oratory; "he delivered an oration on the decline of family values"
 
-w: <<oratory>> drf [[file:adj.all.org::oratorical]]
+w: <<oratory>> drf [[file:adjs.all.org::oratorical]]
 hyper: [[address]]
 g: addressing an audience formally (usually a long and rhetorical address and often pompous); "he loved the sound of his own oratory"
 
@@ -1491,7 +1491,7 @@ w: <<rhodomontade>>
 hyper: [[boast]]
 g: vain and empty boasting
 
-w: <<brag>> drf [[file:adj.all.org::braggy]] drf [[file:verb.communication.org::brag]]
+w: <<brag>> drf [[file:adjs.all.org::braggy]] drf [[file:verb.communication.org::brag]]
 w: <<bragging>>
 w: <<crow>> drf [[file:verb.communication.org::crow]]
 w: <<crowing>> drf [[file:verb.communication.org::crow1]] drf [[file:verb.communication.org::crow]]
@@ -1626,7 +1626,7 @@ w: <<false_alarm>>
 hyper: [[warning]]
 g: a warning that is given about something that fails to occur
 
-w: <<caution>> drf [[file:adj.all.org::cautionary]] drf [[file:verb.communication.org::caution]]
+w: <<caution>> drf [[file:adjs.all.org::cautionary]] drf [[file:verb.communication.org::caution]]
 w: <<caveat1>>
 hyper: [[warning]]
 g: a warning against certain acts; "a caveat against unfair practices"
@@ -1653,7 +1653,7 @@ w: <<warning>> drf [[file:verb.communication.org::warn]]
 hyper: [[informing]]
 g: a message informing of danger; "a warning that still more bombs could explode"
 
-w: <<talk1>> drf [[file:adj.all.org::talky]] drf [[file:verb.communication.org::talk6]]
+w: <<talk1>> drf [[file:adjs.all.org::talky]] drf [[file:verb.communication.org::talk6]]
 w: <<talk_of_the_town>>
 hyper: [[gossip1]]
 g: idle gossip or rumor; "there has been talk about you lately"
@@ -1744,7 +1744,7 @@ w: <<yarn>> drf [[file:verb.communication.org::yarn]]
 hyper: [[report1]]
 g: the act of giving an account describing incidents or a course of events; "his narration was hesitant"
 
-w: <<anecdote>> drf [[file:adj.all.org::anecdotic]] drf [[file:adj.pert.org::anecdotal]] drf [[file:noun.person.org::anecdotist]] drf [[file:adj.all.org::anecdotical]]
+w: <<anecdote>> drf [[file:adjs.all.org::anecdotic]] drf [[file:adj.pert.org::anecdotal]] drf [[file:noun.person.org::anecdotist]] drf [[file:adjs.all.org::anecdotical]]
 hyper: [[report1]]
 g: short account of an incident (especially a biographical one)
 
@@ -1885,7 +1885,7 @@ w: <<exposure>> drf [[file:verb.communication.org::expose1]]
 hyper: [[disclosure]]
 g: the disclosure of something secret; "they feared exposure of their campaign plans"
 
-w: <<leak>> drf [[file:adj.all.org::leaky]] drf [[file:verb.communication.org::leak1]] drf [[file:verb.communication.org::leak]]
+w: <<leak>> drf [[file:adjs.all.org::leaky]] drf [[file:verb.communication.org::leak1]] drf [[file:verb.communication.org::leak]]
 w: <<news_leak>>
 hyper: [[disclosure]]
 g: unauthorized (especially deliberate) disclosure of confidential information
@@ -1973,7 +1973,7 @@ hyper: [[complaint2]]
 g: a cry of sorrow and grief; "their pitiful laments could be heard throughout the ward"
 
 w: <<whimper>> drf [[file:verb.body.org::whimper]]
-w: <<whine>> drf [[file:adj.all.org::whiny]] drf [[file:adj.all.org::whiney]] drf [[file:verb.communication.org::whine1]] drf [[file:verb.communication.org::whine]]
+w: <<whine>> drf [[file:adjs.all.org::whiny]] drf [[file:adjs.all.org::whiney]] drf [[file:verb.communication.org::whine1]] drf [[file:verb.communication.org::whine]]
 hyper: [[complaint]]
 g: a complaint uttered in a plaintive whining way
 
@@ -2019,7 +2019,7 @@ g: a formal and solemn declaration of objection; "they finished the game under p
 w: <<gripe>> drf [[file:verb.communication.org::gripe]]
 w: <<kick>> drf [[file:verb.communication.org::kick]]
 w: <<beef>> drf [[file:verb.communication.org::beef]]
-w: <<bitch>> drf [[file:adj.all.org::bitchy]] drf [[file:verb.communication.org::bitch]]
+w: <<bitch>> drf [[file:adjs.all.org::bitchy]] drf [[file:verb.communication.org::bitch]]
 w: <<squawk>> drf [[file:verb.communication.org::squawk]]
 hyper: [[objection]]
 g: informal terms for objecting; "I have a gripe about the service here"
@@ -2028,7 +2028,7 @@ w: <<exclamation2>>
 hyper: [[complaint2]]
 g: a loud complaint or protest or reproach
 
-w: <<caption2>> drf [[file:adj.all.org::captious]]
+w: <<caption2>> drf [[file:adjs.all.org::captious]]
 hyper: [[exception]]
 g: taking exception; especially a quibble based on a captious argument; "a mere caption unworthy of a reply"
 
@@ -2036,7 +2036,7 @@ w: <<exception>> drf [[file:verb.communication.org::except]]
 hyper: [[objection]]
 g: grounds for adverse criticism; "his authority is beyond exception"
 
-w: <<dissent2>> drf [[file:adj.all.org::dissentious]] drf [[file:verb.communication.org::dissent1]]
+w: <<dissent2>> drf [[file:adjs.all.org::dissentious]] drf [[file:verb.communication.org::dissent1]]
 hyper: [[objection]]
 dt: [[file:noun.group.org::law]]
 g: (law) the difference of one judge's opinion from that of the majority; "he expressed his dissent in a contrary opinion"
@@ -2322,7 +2322,7 @@ w: <<prelim>>
 hyper: [[examination]]
 g: an examination taken by graduate students to determine their fitness to continue
 
-w: <<oral>> drf [[file:adj.all.org::oral]]
+w: <<oral>> drf [[file:adjs.all.org::oral]]
 w: <<oral_exam>>
 w: <<oral_examination>>
 w: <<viva_voce>>
@@ -2346,7 +2346,7 @@ g: a test that relies on a single indicator; "her litmus test for good breeding 
 
 w: <<final_examination>>
 w: <<final_exam>>
-w: <<final>> drf [[file:adj.all.org::final]]
+w: <<final>> drf [[file:adjs.all.org::final]]
 hyper: [[examination]]
 g: an examination administered at the end of an academic term
 
@@ -2495,7 +2495,7 @@ w: <<purism>> drf [[file:noun.person.org::purist]]
 hyper: [[insistence]]
 g: scrupulous or exaggerated insistence on purity or correctness (especially in language); "linguistic purisms"
 
-w: <<insistence>> drf [[file:adj.all.org::insistent]] drf [[file:verb.communication.org::insist]]
+w: <<insistence>> drf [[file:adjs.all.org::insistent]] drf [[file:verb.communication.org::insist]]
 w: <<insisting>> drf [[file:verb.communication.org::insist3]]
 hyper: [[demand]]
 g: continual and persistent demands
@@ -2607,7 +2607,7 @@ g: the act of soliciting money (as a gift or loan); "he watched the beggar tryin
 
 w: <<beggary>> drf [[file:verb.possession.org::beg]] drf [[file:verb.communication.org::beg1]] drf [[file:verb.communication.org::beg]]
 w: <<begging>>
-w: <<mendicancy>> drf [[file:adj.all.org::mendicant]]
+w: <<mendicancy>> drf [[file:adjs.all.org::mendicant]]
 hyper: [[solicitation]]
 g: a solicitation for money or food (especially in the street by an apparently penniless person)
 
@@ -2621,7 +2621,7 @@ hyper: [[entreaty]]
 g: a humble request for help from someone in authority
 
 w: <<flag_waving>>
-w: <<jingoism>> drf [[file:adj.all.org::jingoistic]] drf [[file:noun.person.org::jingoist]]
+w: <<jingoism>> drf [[file:adjs.all.org::jingoistic]] drf [[file:noun.person.org::jingoist]]
 hyper: [[demagoguery]]
 g: an appeal intended to arouse patriotic emotions
 
@@ -2684,7 +2684,7 @@ w: <<spat>> drf [[file:verb.communication.org::spat]]
 w: <<tiff>>
 w: <<squabble>> drf [[file:verb.communication.org::squabble]]
 w: <<pettifoggery>> drf [[file:verb.communication.org::pettifog]]
-w: <<fuss>> drf [[file:adj.all.org::fussy1]]
+w: <<fuss>> drf [[file:adjs.all.org::fussy1]]
 hyper: [[quarrel]]
 g: a quarrel about petty points
 
@@ -2719,12 +2719,12 @@ w: <<gap>>
 hyper: [[dispute]]
 g: a difference (especially an unfortunate difference) between two opinions or two views or two situations
 
-w: <<polemic>> drf [[file:adj.all.org::polemic]] drf [[file:adj.all.org::polemical]] drf [[file:verb.communication.org::polemize]] drf [[file:verb.communication.org::polemicize]] drf [[file:verb.communication.org::polemicise]]
+w: <<polemic>> drf [[file:adjs.all.org::polemic]] drf [[file:adjs.all.org::polemical]] drf [[file:verb.communication.org::polemize]] drf [[file:verb.communication.org::polemicize]] drf [[file:verb.communication.org::polemicise]]
 hyper: [[controversy]]
 g: a controversy (especially over a belief or dogma)
 
 w: <<controversy>> drf [[file:adj.all.org::controversial]]
-w: <<contention>> drf [[file:adj.all.org::contentious]] drf [[file:adj.all.org::contentious]] drf [[file:verb.communication.org::contend1]] drf [[file:verb.communication.org::contend]]
+w: <<contention>> drf [[file:adjs.all.org::contentious]] drf [[file:adjs.all.org::contentious]] drf [[file:verb.communication.org::contend1]] drf [[file:verb.communication.org::contend]]
 w: <<contestation>> drf [[file:verb.communication.org::contest]]
 w: <<disputation1>> drf [[file:verb.communication.org::dispute1]] drf [[file:verb.communication.org::dispute]]
 w: <<disceptation>>
@@ -2761,7 +2761,7 @@ w: <<strawman>>
 hyper: [[specious_argument]]
 g: a weak or sham argument set up to be easily refuted
 
-w: <<dispute>> drf [[file:adj.all.org::disputatious]] drf [[file:verb.communication.org::dispute1]] drf [[file:verb.communication.org::dispute]]
+w: <<dispute>> drf [[file:adjs.all.org::disputatious]] drf [[file:verb.communication.org::dispute1]] drf [[file:verb.communication.org::dispute]]
 w: <<difference>> drf [[file:verb.communication.org::differ]]
 w: <<difference_of_opinion>>
 w: <<conflict>>
@@ -2790,7 +2790,7 @@ w: <<dissent3>> drf [[file:verb.communication.org::dissent1]]
 hyper: [[disagreement]]
 g: a difference of opinion
 
-w: <<dissidence>> drf [[file:adj.all.org::dissident]] drf [[file:adj.all.org::dissident]]
+w: <<dissidence>> drf [[file:adjs.all.org::dissident]] drf [[file:adjs.all.org::dissident]]
 hyper: [[disagreement]]
 g: disagreement; especially disagreement with the government
 
@@ -2817,9 +2817,9 @@ w: <<indorsement2>> drf [[file:verb.social.org::indorse2]]
 hyper: [[agreement]]
 g: a speech seconding a motion; "do I hear a second?"
 
-w: <<harmony>> drf [[file:adj.all.org::harmonical]]
+w: <<harmony>> drf [[file:adjs.all.org::harmonical]]
 w: <<concord>> drf [[file:verb.communication.org::concord]] drf [[file:verb.creation.org::concord]]
-w: <<concordance2>> drf [[file:adj.all.org::concordant]] drf [[file:verb.communication.org::concord]]
+w: <<concordance2>> drf [[file:adjs.all.org::concordant]] drf [[file:verb.communication.org::concord]]
 hyper: [[agreement]]
 g: agreement of opinions
 
@@ -2931,7 +2931,7 @@ hyper: [[consent]]
 g: consent by a patient to undergo a medical or surgical treatment or to participate in an experiment after the patient understands the risks involved
 
 w: <<assent>> drf [[file:verb.communication.org::assent]]
-w: <<acquiescence>> drf [[file:adj.all.org::acquiescent]] drf [[file:verb.communication.org::acquiesce]]
+w: <<acquiescence>> drf [[file:adjs.all.org::acquiescent]] drf [[file:verb.communication.org::acquiesce]]
 hyper: [[agreement]]
 g: agreement with a statement or proposal to do something; "he gave his assent eagerly"; "a murmur of acquiescence from the assembly"
 
@@ -3052,7 +3052,7 @@ w: <<Presidential_Directive>>
 hyper: [[directive]]
 g: a directive issued by the President of the United States; usually addressed to all heads of departments and agencies
 
-w: <<directive>> drf [[file:adj.all.org::directive]] drf [[file:verb.communication.org::direct]]
+w: <<directive>> drf [[file:adjs.all.org::directive]] drf [[file:verb.communication.org::direct]]
 hyper: [[pronouncement]]
 g: a pronouncement encouraging or banning some activity; "the boss loves to send us directives"
 
@@ -3306,7 +3306,7 @@ w: <<charm>> drf [[file:verb.social.org::charm]] drf [[file:verb.competition.org
 hyper: [[speech]]
 g: a verbal formula believed to have magical force; "he whispered a spell as he moved his hands"; "inscribed around its base is a charm in Balinese"
 
-w: <<slang1>> drf [[file:adj.all.org::slangy]] drf [[file:verb.communication.org::slang]] drf [[file:verb.communication.org::slang2]]
+w: <<slang1>> drf [[file:adjs.all.org::slangy]] drf [[file:verb.communication.org::slang]] drf [[file:verb.communication.org::slang2]]
 w: <<slang_expression>>
 w: <<slang_term>>
 hyper: [[non-standard_speech]]
@@ -3316,7 +3316,7 @@ w: <<rhyming_slang>>
 hyper: [[slang]]
 g: slang that replaces words with rhyming words or expressions and then typically omits the rhyming component; "Cockney rhyming slang"
 
-w: <<slang>> drf [[file:adj.all.org::slangy]] drf [[file:verb.communication.org::slang2]]
+w: <<slang>> drf [[file:adjs.all.org::slangy]] drf [[file:verb.communication.org::slang2]]
 w: <<cant>>
 w: <<jargon>>
 w: <<lingo>>
@@ -3326,7 +3326,7 @@ w: <<vernacular1>>
 hyper: [[non-standard_speech]]
 g: a characteristic language of a particular group (as among thieves); "they don't speak our lingo"
 
-w: <<vernacular>> drf [[file:adj.all.org::vernacular]]
+w: <<vernacular>> drf [[file:adjs.all.org::vernacular]]
 hyper: [[non-standard_speech]]
 g: the everyday speech of the people (as distinguished from literary language)
 
@@ -3405,10 +3405,10 @@ w: <<truism>>
 hyper: [[truth]]
 g: an obvious truth
 
-w: <<platitude>> drf [[file:adj.all.org::platitudinous]]
+w: <<platitude>> drf [[file:adjs.all.org::platitudinous]]
 w: <<cliche>>
-w: <<banality>> drf [[file:adj.all.org::banal1]]
-w: <<commonplace>> drf [[file:adj.all.org::commonplace]]
+w: <<banality>> drf [[file:adjs.all.org::banal1]]
+w: <<commonplace>> drf [[file:adjs.all.org::commonplace]]
 w: <<bromide>>
 hyper: [[remark]]
 hyper: [[truism]]
@@ -3421,12 +3421,12 @@ w: <<byword>>
 hyper: [[saying]]
 g: a condensed but memorable saying embodying some important fact of experience that is taken as true by many people
 
-w: <<epigram>> drf [[file:adj.all.org::epigrammatic]]
+w: <<epigram>> drf [[file:adjs.all.org::epigrammatic]]
 w: <<quip1>> drf [[file:verb.communication.org::quip]]
 hyper: [[saying]]
 g: a witty saying
 
-w: <<moralism>> drf [[file:adj.all.org::moralistic]]
+w: <<moralism>> drf [[file:adjs.all.org::moralistic]]
 hyper: [[maxim]]
 g: a moral maxim
 
@@ -3439,8 +3439,8 @@ w: <<gnome>>
 hyper: [[maxim]]
 g: a short pithy saying expressing a general truth
 
-w: <<aphorism>> drf [[file:adj.all.org::aphoristic]] drf [[file:adj.pert.org::aphoristic]] drf [[file:noun.person.org::aphorist]] drf [[file:verb.communication.org::aphorize]] drf [[file:verb.communication.org::aphorise]]
-w: <<apothegm>> drf [[file:adj.all.org::apothegmatic]] drf [[file:adj.pert.org::apothegmatic]] drf [[file:adj.pert.org::apothegmatical]]
+w: <<aphorism>> drf [[file:adjs.all.org::aphoristic]] drf [[file:adj.pert.org::aphoristic]] drf [[file:noun.person.org::aphorist]] drf [[file:verb.communication.org::aphorize]] drf [[file:verb.communication.org::aphorise]]
+w: <<apothegm>> drf [[file:adjs.all.org::apothegmatic]] drf [[file:adj.pert.org::apothegmatic]] drf [[file:adj.pert.org::apothegmatical]]
 w: <<apophthegm>>
 hyper: [[maxim]]
 g: a short pithy instructive saying
@@ -3708,7 +3708,7 @@ w: <<pillow_talk>>
 hyper: [[tete-a-tete]]
 g: intimate conversation between lovers (typically occurring in bed)
 
-w: <<tete-a-tete>> drf [[file:adj.all.org::tete-a-tete]]
+w: <<tete-a-tete>> drf [[file:adjs.all.org::tete-a-tete]]
 hyper: [[conversation]]
 g: a private conversation between two people
 
@@ -3845,7 +3845,7 @@ w: <<cackle1>> drf [[file:verb.communication.org::cackle1]]
 hyper: [[talk]]
 g: noisy talk
 
-w: <<wind1>> drf [[file:adj.all.org::windy]]
+w: <<wind1>> drf [[file:adjs.all.org::windy]]
 w: <<malarkey>>
 w: <<malarky>>
 w: <<idle_words>>
@@ -3863,7 +3863,7 @@ hyper: [[talk]]
 dt: [[Yiddish]]
 g: (Yiddish) a warm heart-to-heart talk
 
-w: <<heart-to-heart>> drf [[file:adj.all.org::heart-to-heart]]
+w: <<heart-to-heart>> drf [[file:adjs.all.org::heart-to-heart]]
 hyper: [[talk]]
 g: an intimate talk in private; "he took me aside for a little heart-to-heart"
 
@@ -3883,7 +3883,7 @@ w: <<talking>> drf [[file:verb.communication.org::talk1]]
 hyper: [[conversation]]
 g: an exchange of ideas via conversation; "let's have more work and less talk around here"
 
-w: <<scandalmongering>> drf [[file:adj.all.org::scandalmongering]]
+w: <<scandalmongering>> drf [[file:adjs.all.org::scandalmongering]]
 hyper: [[gossiping]]
 g: spreading malicious gossip
 
@@ -3896,9 +3896,9 @@ w: <<chitchat>> drf [[file:verb.communication.org::chitchat]]
 w: <<chit-chat>> drf [[file:verb.communication.org::chitchat]]
 w: <<chit_chat>> drf [[file:verb.communication.org::chitchat]]
 w: <<small_talk>>
-w: <<gab>> drf [[file:adj.all.org::gabby]]
+w: <<gab>> drf [[file:adjs.all.org::gabby]]
 w: <<gabfest>>
-w: <<gossip>> drf [[file:adj.all.org::gossipy]] drf [[file:verb.communication.org::gossip1]]
+w: <<gossip>> drf [[file:adjs.all.org::gossipy]] drf [[file:verb.communication.org::gossip1]]
 w: <<tittle-tattle>> drf [[file:verb.communication.org::tittle-tattle]]
 w: <<chin_wag>>
 w: <<chin-wag>>
@@ -3908,7 +3908,7 @@ w: <<causerie>>
 hyper: [[chat]]
 g: light informal conversation for social occasions
 
-w: <<chat>> drf [[file:adj.all.org::chatty]] drf [[file:verb.communication.org::chat]]
+w: <<chat>> drf [[file:adjs.all.org::chatty]] drf [[file:verb.communication.org::chat]]
 w: <<confab>> drf [[file:verb.communication.org::confab1]]
 w: <<confabulation>> drf [[file:verb.communication.org::confabulate1]] drf [[file:verb.communication.org::confabulate]]
 w: <<schmooze>>
@@ -3939,7 +3939,7 @@ w: <<crossfire>>
 hyper: [[conversation]]
 g: a lively or heated interchange of ideas and opinions
 
-w: <<conversation>> drf [[file:noun.person.org::conversationist]] drf [[file:adj.all.org::conversational]] drf [[file:noun.person.org::conversationalist]] drf [[file:verb.communication.org::converse]]
+w: <<conversation>> drf [[file:noun.person.org::conversationist]] drf [[file:adjs.all.org::conversational]] drf [[file:noun.person.org::conversationalist]] drf [[file:verb.communication.org::converse]]
 hyper: [[speech]]
 g: the use of speech for informal exchange of views or ideas or information etc.
 
@@ -3951,7 +3951,7 @@ w: <<tongue_twister>>
 hyper: [[saying]]
 g: an expression that is difficult to articulate clearly; "`rubber baby buggy bumper' is a tongue twister"
 
-w: <<thickness>> drf [[file:adj.all.org::thick]]
+w: <<thickness>> drf [[file:adjs.all.org::thick]]
 hyper: [[articulation]]
 g: indistinct articulation; "judging from the thickness of his speech he had been drinking heavily"
 
@@ -3992,11 +3992,11 @@ w: <<speech_pattern>>
 hyper: [[pronunciation]]
 g: distinctive manner of oral expression; "he couldn't suppress his contemptuous accent"; "she had a very clear speech pattern"
 
-w: <<homophony1>> drf [[file:adj.all.org::homophonic]] drf [[file:adj.pert.org::homophonous]]
+w: <<homophony1>> drf [[file:adjs.all.org::homophonic]] drf [[file:adj.pert.org::homophonous]]
 hyper: [[pronunciation]]
 g: the same pronunciation for words of different origins
 
-w: <<homophone>> drf [[file:adj.all.org::homophonic]]
+w: <<homophone>> drf [[file:adjs.all.org::homophonic]]
 hyper: [[homonym]]
 g: two words are homophones if they are pronounced the same way but differ in meaning or spelling or both (e.g. bare and bear)
 
@@ -4008,7 +4008,7 @@ w: <<mispronunciation>> drf [[file:verb.communication.org::mispronounce]]
 hyper: [[pronunciation]]
 g: incorrect pronunciation
 
-w: <<rasp>> drf [[file:adj.all.org::raspy]] drf [[file:verb.communication.org::rasp]]
+w: <<rasp>> drf [[file:adjs.all.org::raspy]] drf [[file:verb.communication.org::rasp]]
 w: <<rasping>> drf [[file:verb.communication.org::rasp]]
 hyper: [[utterance]]
 g: uttering in an irritated tone
@@ -4067,7 +4067,7 @@ w: <<orthoepy>>
 hyper: [[speech]]
 g: the way a word or a language is customarily spoken; "the pronunciation of Chinese is difficult for foreigners"; "that is the correct pronunciation"
 
-w: <<profanity>> drf [[file:adj.all.org::profane]]
+w: <<profanity>> drf [[file:adjs.all.org::profane]]
 hyper: [[utterance]]
 g: vulgar or irreverent speech or action
 
@@ -4080,7 +4080,7 @@ hyper: [[laugh]]
 g: a nervous restrained laugh
 
 w: <<snicker>> drf [[file:verb.body.org::snicker]]
-w: <<snort1>> drf [[file:adj.all.org::snorty]] drf [[file:verb.communication.org::snort]]
+w: <<snort1>> drf [[file:adjs.all.org::snorty]] drf [[file:verb.communication.org::snort]]
 w: <<snigger>> drf [[file:verb.body.org::snigger]]
 hyper: [[laugh]]
 g: a disrespectful laugh
@@ -4163,7 +4163,7 @@ w: <<exclaiming>> drf [[file:verb.communication.org::exclaim]]
 hyper: [[utterance]]
 g: an abrupt excited utterance; "she gave an exclamation of delight"; "there was much exclaiming over it"
 
-w: <<croak>> drf [[file:adj.all.org::croaky]] drf [[file:verb.communication.org::croak1]]
+w: <<croak>> drf [[file:adjs.all.org::croaky]] drf [[file:verb.communication.org::croak1]]
 w: <<croaking>> drf [[file:verb.communication.org::croak1]]
 hyper: [[utterance]]
 g: a harsh hoarse utterance (as of a frog)
@@ -4178,24 +4178,24 @@ w: <<cuss>> drf [[file:verb.communication.org::cuss]]
 hyper: [[profanity]]
 g: profane or obscene expression usually of surprise or anger; "expletives were deleted"
 
-w: <<scatology>> drf [[file:adj.all.org::scatological]]
+w: <<scatology>> drf [[file:adjs.all.org::scatological]]
 hyper: [[obscenity]]
 g: a preoccupation with obscenity (especially that dealing with excrement or excretory functions)
 
 w: <<bawdry>>
-w: <<bawdy>> drf [[file:adj.all.org::bawdy]]
+w: <<bawdy>> drf [[file:adjs.all.org::bawdy]]
 hyper: [[obscenity]]
 g: lewd or obscene talk or writing; "it was smoking-room bawdry"; "they published a collection of Elizabethan bawdy"
 
-w: <<obscenity>> drf [[file:adj.all.org::obscene]]
-w: <<smut>> drf [[file:adj.all.org::smutty]]
+w: <<obscenity>> drf [[file:adjs.all.org::obscene]]
+w: <<smut>> drf [[file:adjs.all.org::smutty]]
 w: <<vulgarism>>
-w: <<filth>> drf [[file:adj.all.org::filthy]]
+w: <<filth>> drf [[file:adjs.all.org::filthy]]
 w: <<dirty_word>>
 hyper: [[profanity]]
 g: an offensive or indecent word or phrase
 
-w: <<blasphemy>> drf [[file:adj.all.org::blasphemous]]
+w: <<blasphemy>> drf [[file:adjs.all.org::blasphemous]]
 hyper: [[profanity]]
 hyper: [[disrespect]]
 g: blasphemous language (expressing disrespect for God or for something sacred)
@@ -4236,7 +4236,7 @@ w: <<scream>> drf [[file:verb.communication.org::scream1]]
 w: <<screaming>> drf [[file:verb.communication.org::scream1]]
 w: <<shriek>> drf [[file:verb.communication.org::shriek]]
 w: <<shrieking>> drf [[file:verb.communication.org::shriek]]
-w: <<screech>> drf [[file:adj.all.org::screechy]] drf [[file:verb.communication.org::screech1]]
+w: <<screech>> drf [[file:adjs.all.org::screechy]] drf [[file:verb.communication.org::screech1]]
 w: <<screeching>>
 hyper: [[cry]]
 g: sharp piercing cry; "her screaming attracted the neighbors"
@@ -4257,7 +4257,7 @@ w: <<halloo>> drf [[file:verb.communication.org::halloo]]
 hyper: [[cry]]
 g: a shout to attract attention; "he gave a great halloo but no one heard him"
 
-w: <<clamor>> drf [[file:adj.all.org::clamorous]] drf [[file:verb.communication.org::clamor]]
+w: <<clamor>> drf [[file:adjs.all.org::clamorous]] drf [[file:verb.communication.org::clamor]]
 w: <<clamoring>> drf [[file:verb.communication.org::clamor3]] drf [[file:verb.communication.org::clamor]]
 w: <<clamour>> drf [[file:verb.communication.org::clamour3]] drf [[file:verb.communication.org::clamour]]
 w: <<clamouring>>
@@ -4340,7 +4340,7 @@ hyper: [[phone]]
 g: a speech sound produced with both the oral and nasal passages open (as French nasal vowels)
 
 w: <<nasal_consonant>>
-w: <<nasal>> drf [[file:adj.all.org::nasal]]
+w: <<nasal>> drf [[file:adjs.all.org::nasal]]
 hyper: [[consonant]]
 g: a consonant produced through the nose with the mouth closed
 
@@ -4350,7 +4350,7 @@ w: <<affricative>>
 hyper: [[obstruent]]
 g: a composite speech sound consisting of a stop and a fricative articulated at the same point (as `ch' in `chair' and `j' in `joy')
 
-w: <<sibilant>> drf [[file:adj.all.org::sibilant]] drf [[file:verb.communication.org::sibilate1]] drf [[file:verb.communication.org::assibilate]] drf [[file:verb.change.org::assibilate]] drf [[file:verb.communication.org::sibilate3]] drf [[file:verb.communication.org::sibilate2]]
+w: <<sibilant>> drf [[file:adjs.all.org::sibilant]] drf [[file:verb.communication.org::sibilate1]] drf [[file:verb.communication.org::assibilate]] drf [[file:verb.change.org::assibilate]] drf [[file:verb.communication.org::sibilate3]] drf [[file:verb.communication.org::sibilate2]]
 w: <<sibilant_consonant>>
 hyper: [[fricative_consonant]]
 g: a consonant characterized by a hissing sound (like s or sh)
@@ -4464,7 +4464,7 @@ w: <<vowel1>> drf [[file:adj.pert.org::vocalic]] drf [[file:adj.all.org::vocalic
 hyper: [[letter1]]
 g: a letter of the alphabet standing for a spoken vowel
 
-w: <<palatal>> drf [[file:adj.all.org::palatal]]
+w: <<palatal>> drf [[file:adjs.all.org::palatal]]
 hyper: [[semivowel]]
 g: a semivowel produced with the tongue near the palate (like the initial sound in the English word `yeast')
 
@@ -4616,7 +4616,7 @@ w: <<syllepsis>>
 hyper: [[zeugma]]
 g: use of a word to govern two or more words though agreeing in number or case etc. with only one
 
-w: <<synecdoche>> drf [[file:adj.all.org::synecdochic]] drf [[file:adj.all.org::synecdochical]]
+w: <<synecdoche>> drf [[file:adjs.all.org::synecdochic]] drf [[file:adjs.all.org::synecdochical]]
 hyper: [[trope]]
 g: substituting a more inclusive term for a less inclusive one or vice versa
 
@@ -4637,7 +4637,7 @@ w: <<metalepsis>>
 hyper: [[metonymy]]
 g: substituting metonymy of one figurative sense for another
 
-w: <<metonymy>> drf [[file:adj.all.org::metonymical]]
+w: <<metonymy>> drf [[file:adjs.all.org::metonymical]]
 hyper: [[trope]]
 g: substituting the name of an attribute or feature for the name of the thing itself (as in `they counted heads')
 
@@ -4654,7 +4654,7 @@ w: <<frozen_metaphor>>
 hyper: [[metaphor]]
 g: a metaphor that has occurred so often that it has become a new meaning of the expression (e.g., `he is a snake' may once have been a metaphor but after years of use it has died and become a new sense of the word `snake')
 
-w: <<metaphor>> drf [[file:adj.all.org::metaphoric]] drf [[file:adj.all.org::metaphorical]]
+w: <<metaphor>> drf [[file:adjs.all.org::metaphoric]] drf [[file:adjs.all.org::metaphorical]]
 hyper: [[trope]]
 g: a figure of speech in which an expression is used to refer to something that it does not literally denote in order to suggest a similarity
 
@@ -4662,12 +4662,12 @@ w: <<kenning>>
 hyper: [[trope]]
 g: conventional metaphoric name for something, used especially in Old English and Old Norse poetry
 
-w: <<hyperbole>> drf [[file:adj.all.org::hyperbolic]] drf [[file:verb.communication.org::hyperbolize]]
+w: <<hyperbole>> drf [[file:adjs.all.org::hyperbolic]] drf [[file:verb.communication.org::hyperbolize]]
 w: <<exaggeration1>> drf [[file:verb.communication.org::exaggerate]]
 hyper: [[trope]]
 g: extravagant exaggeration
 
-w: <<irony>> drf [[file:adj.all.org::ironic]] drf [[file:adj.all.org::ironical]]
+w: <<irony>> drf [[file:adjs.all.org::ironic]] drf [[file:adjs.all.org::ironical]]
 hyper: [[trope]]
 g: a trope that involves incongruity between what is expected and what occurs
 
@@ -4675,7 +4675,7 @@ w: <<conceit2>>
 hyper: [[trope]]
 g: an elaborate poetic image or a far-fetched comparison of very dissimilar things
 
-w: <<trope>> drf [[file:adj.all.org::tropical]]
+w: <<trope>> drf [[file:adjs.all.org::tropical]]
 w: <<figure_of_speech>>
 w: <<figure1>>
 w: <<image>>
@@ -4751,7 +4751,7 @@ w: <<enallage>>
 hyper: [[rhetorical_device]]
 g: a substitution of part of speech or gender or number or tense etc. (e.g., editorial `we' for `I')
 
-w: <<emphasis1>> drf [[file:adj.all.org::emphatic]]
+w: <<emphasis1>> drf [[file:adjs.all.org::emphatic]]
 hyper: [[rhetorical_device]]
 g: special and significant stress by means of position or repetition e.g.
 
@@ -4797,7 +4797,7 @@ w: <<antinomasia>>
 hyper: [[rhetorical_device]]
 g: substitution of a title for a name
 
-w: <<antithesis>> drf [[file:adj.all.org::antithetic]]
+w: <<antithesis>> drf [[file:adjs.all.org::antithetic]]
 hyper: [[rhetorical_device]]
 g: the juxtaposition of contrasting words or ideas to give a feeling of balance
 
@@ -4901,7 +4901,7 @@ w: <<consonant_rhyme>>
 hyper: [[rhyme]]
 g: the repetition of consonants (or consonant patterns) especially at the ends of words
 
-w: <<assonance>> drf [[file:adj.all.org::assonant]] drf [[file:adj.all.org::assonant]] drf [[file:verb.stative.org::assonate]]
+w: <<assonance>> drf [[file:adjs.all.org::assonant]] drf [[file:adjs.all.org::assonant]] drf [[file:verb.stative.org::assonate]]
 w: <<vowel_rhyme>>
 hyper: [[rhyme]]
 g: the repetition of similar vowels in the stressed syllables of successive words
@@ -4927,7 +4927,7 @@ w: <<decasyllable>>
 hyper: [[verse1]]
 g: a verse line having ten syllables
 
-w: <<octosyllable>> drf [[file:adj.all.org::octosyllabic]]
+w: <<octosyllable>> drf [[file:adjs.all.org::octosyllabic]]
 hyper: [[verse1]]
 g: a verse line having eight syllables or a poem of octosyllabic lines
 
@@ -5002,8 +5002,8 @@ w: <<catalexis>> drf [[catalectic]] drf [[file:adj.all.org::catalectic]]
 hyper: [[meter]]
 g: the absence of a syllable in the last foot of a line or verse
 
-w: <<meter>> drf [[file:adj.all.org::metrical]]
-w: <<metre>> drf [[file:adj.all.org::metrical]]
+w: <<meter>> drf [[file:adjs.all.org::metrical]]
+w: <<metre>> drf [[file:adjs.all.org::metrical]]
 w: <<measure1>>
 w: <<beat2>>
 w: <<cadence1>>
@@ -5031,7 +5031,7 @@ w: <<versification>> drf [[file:verb.creation.org::versify]]
 hyper: [[file:noun.act.org::writing2]]
 g: the art or practice of writing verse
 
-w: <<poetry3>> drf [[file:adj.all.org::poetical]] drf [[file:adj.pert.org::poetical]] drf [[file:adj.all.org::poetic]] drf [[file:adj.all.org::poetic]] drf [[file:adj.pert.org::poetic]]
+w: <<poetry3>> drf [[file:adjs.all.org::poetical]] drf [[file:adj.pert.org::poetical]] drf [[file:adjs.all.org::poetic]] drf [[file:adjs.all.org::poetic]] drf [[file:adj.pert.org::poetic]]
 hyper: [[expressive_style]]
 g: any communication resembling poetry in beauty or the evocation of feeling
 
@@ -5068,45 +5068,45 @@ w: <<abbreviation>> drf [[file:verb.change.org::abbreviate]]
 hyper: [[form]]
 g: a shortened form of a word or phrase
 
-w: <<tautology1>> drf [[file:adj.all.org::tautological]]
+w: <<tautology1>> drf [[file:adjs.all.org::tautological]]
 hyper: [[truth]]
 dt: [[file:noun.cognition.org::logic]]
 g: (logic) a statement that is necessarily true; "the statement `he is brave or he is not brave' is a tautology"
 
-w: <<tautology>> drf [[file:adj.all.org::tautologic]] drf [[file:adj.all.org::tautological]]
+w: <<tautology>> drf [[file:adjs.all.org::tautologic]] drf [[file:adjs.all.org::tautological]]
 hyper: [[repetitiveness]]
 g: useless repetition; "to say that something is `adequate enough' is a tautology"
 
-w: <<pleonasm>> drf [[file:adj.all.org::pleonastic]]
+w: <<pleonasm>> drf [[file:adjs.all.org::pleonastic]]
 hyper: [[verboseness]]
 g: using more words than necessary; "a tiny little child"
 
-w: <<redundancy>> drf [[file:adj.all.org::redundant]]
+w: <<redundancy>> drf [[file:adjs.all.org::redundant]]
 hyper: [[repetitiveness]]
 g: repetition of messages to reduce the probability of errors in transmission
 
-w: <<repetitiveness>> drf [[file:adj.all.org::repetitive]] drf [[file:adj.all.org::repetitive]]
+w: <<repetitiveness>> drf [[file:adjs.all.org::repetitive]] drf [[file:adj.all.org::repetitive]]
 w: <<repetitiousness>> drf [[file:adj.all.org::repetitious]]
 hyper: [[verboseness]]
 g: verboseness resulting from excessive repetitions
 
-w: <<turgidity>> drf [[file:adj.all.org::turgid]]
-w: <<turgidness>> drf [[file:adj.all.org::turgid]]
+w: <<turgidity>> drf [[file:adjs.all.org::turgid]]
+w: <<turgidness>> drf [[file:adjs.all.org::turgid]]
 w: <<flatulence>>
 hyper: [[prolixity]]
 g: pompously embellished language
 
-w: <<circumlocution>> drf [[file:adj.all.org::circumlocutious]]
-w: <<periphrasis>> drf [[file:adj.all.org::periphrastic]]
-w: <<ambage>> drf [[file:adj.all.org::ambagious]]
+w: <<circumlocution>> drf [[file:adjs.all.org::circumlocutious]]
+w: <<periphrasis>> drf [[file:adjs.all.org::periphrastic]]
+w: <<ambage>> drf [[file:adjs.all.org::ambagious]]
 hyper: [[verboseness]]
 g: a style that involves indirect ways of expressing things
 
 w: <<prolixity>> drf [[file:adj.all.org::prolix]]
 w: <<prolixness>> drf [[file:adj.all.org::prolix]]
-w: <<windiness>> drf [[file:adj.all.org::windy]]
-w: <<long-windedness>> drf [[file:adj.all.org::long-winded]]
-w: <<wordiness>> drf [[file:adj.all.org::wordy1]]
+w: <<windiness>> drf [[file:adjs.all.org::windy]]
+w: <<long-windedness>> drf [[file:adjs.all.org::long-winded]]
+w: <<wordiness>> drf [[file:adjs.all.org::wordy1]]
 hyper: [[verboseness]]
 attr: [[file:adj.all.org::concise]]
 attr: [[file:adj.all.org::prolix]]
@@ -5117,8 +5117,8 @@ w: <<verbalism1>>
 hyper: [[verboseness]]
 g: overabundance of words
 
-w: <<verboseness>> drf [[file:adj.all.org::verbose]] ant [[terseness]]
-w: <<verbosity>> drf [[file:adj.all.org::verbose]]
+w: <<verboseness>> drf [[file:adjs.all.org::verbose]] ant [[terseness]]
+w: <<verbosity>> drf [[file:adjs.all.org::verbose]]
 hyper: [[expressive_style]]
 g: an expressive style that uses excessive or empty words
 
@@ -5131,18 +5131,18 @@ w: <<laconicism>>
 hyper: [[terseness]]
 g: terseness of expression
 
-w: <<brevity>> drf [[file:adj.all.org::brief]]
+w: <<brevity>> drf [[file:adjs.all.org::brief]]
 hyper: [[terseness]]
 g: the use of brief expressions
 
-w: <<crispness>> drf [[file:adj.all.org::crisp]]
+w: <<crispness>> drf [[file:adjs.all.org::crisp]]
 hyper: [[terseness]]
 g: an expressive style that is direct and to the point; "the crispness of his reply"
 
 w: <<conciseness>> drf [[file:adj.all.org::concise]]
 w: <<concision>>
-w: <<pithiness>> drf [[file:adj.all.org::pithy]]
-w: <<succinctness>> drf [[file:adj.all.org::succinct]]
+w: <<pithiness>> drf [[file:adjs.all.org::pithy]]
+w: <<succinctness>> drf [[file:adjs.all.org::succinct]]
 hyper: [[terseness]]
 g: terseness and economy in writing and speaking achieved by expressing a great deal in just a few words
 
@@ -5155,7 +5155,7 @@ w: <<turn_of_expression>>
 hyper: [[expressive_style]]
 g: a distinctive spoken or written expression; "John's succinct turn of phrase persuaded her that it would not be a good idea"
 
-w: <<terseness>> drf [[file:adj.all.org::terse]] ant [[verboseness]]
+w: <<terseness>> drf [[file:adjs.all.org::terse]] ant [[verboseness]]
 hyper: [[expressive_style]]
 g: a neatly short and concise expressive style
 
@@ -5163,16 +5163,16 @@ w: <<technobabble>>
 hyper: [[jargon1]]
 g: technical jargon from computing and other high-tech subjects
 
-w: <<sensationalism>> drf [[file:adj.all.org::sensationalistic]] drf [[file:noun.person.org::sensationalist]]
-w: <<luridness>> drf [[file:adj.all.org::lurid]]
+w: <<sensationalism>> drf [[file:adjs.all.org::sensationalistic]] drf [[file:noun.person.org::sensationalist]]
+w: <<luridness>> drf [[file:adjs.all.org::lurid]]
 hyper: [[journalese]]
 g: the journalistic use of subject matter that appeals to vulgar tastes; "the tabloids relied on sensationalism to maintain their circulation"
 
-w: <<sesquipedality>> drf [[file:adj.all.org::sesquipedalian]] drf [[file:adj.all.org::sesquipedalian]]
+w: <<sesquipedality>> drf [[file:adjs.all.org::sesquipedalian]] drf [[file:adjs.all.org::sesquipedalian]]
 hyper: [[expressive_style]]
 g: using long words
 
-w: <<bombast>> drf [[file:adj.all.org::bombastic]]
+w: <<bombast>> drf [[file:adjs.all.org::bombastic]]
 w: <<fustian>>
 w: <<rant>> drf [[file:verb.communication.org::rant]]
 w: <<claptrap>>
@@ -5244,7 +5244,7 @@ hyper: [[stress1]]
 g: the use or application of an accent; the relative prominence of syllables in a phrase or utterance
 
 w: <<stress1>> drf [[file:verb.communication.org::stress1]]
-w: <<emphasis>> drf [[file:adj.all.org::emphatic]] drf [[file:adj.all.org::emphatic]]
+w: <<emphasis>> drf [[file:adjs.all.org::emphatic]] drf [[file:adjs.all.org::emphatic]]
 w: <<accent>> drf [[file:adj.pert.org::accentual]] drf [[file:adj.all.org::accentual1]] drf [[file:verb.communication.org::accentuate1]] drf [[file:verb.communication.org::accent]]
 hyper: [[prosody]]
 g: the relative prominence of a syllable or musical note (especially with regard to stress or pitch); "he put the stress on the wrong syllable"
@@ -5262,11 +5262,11 @@ w: <<singsong>> drf [[file:verb.motion.org::singsong]] drf [[file:verb.communica
 hyper: [[intonation]]
 g: a regular and monotonous rising and falling intonation
 
-w: <<monotone1>> drf [[file:adj.all.org::monotonic]]
+w: <<monotone1>> drf [[file:adjs.all.org::monotonic]]
 hyper: [[note4]]
 g: a single tone repeated with different words or different rhythms (especially in rendering liturgical texts)
 
-w: <<monotone>> drf [[file:adj.all.org::monotone]] drf [[file:adj.all.org::monotonic]]
+w: <<monotone>> drf [[file:adjs.all.org::monotone]] drf [[file:adjs.all.org::monotonic]]
 w: <<drone>> drf [[file:verb.communication.org::drone]]
 w: <<droning>> drf [[file:verb.perception.org::drone]] drf [[file:verb.communication.org::drone]]
 hyper: [[intonation]]
@@ -5299,7 +5299,7 @@ w: <<onslaught>>
 hyper: [[language]]
 g: the rapid and continuous delivery of linguistic communication (spoken or written); "a barrage of questions"; "a bombardment of mail complaining about his mistake"
 
-w: <<elocution>> drf [[file:adj.all.org::elocutionary]] drf [[file:adj.pert.org::elocutionary]] drf [[file:noun.person.org::elocutionist]] drf [[file:verb.communication.org::elocute]]
+w: <<elocution>> drf [[file:adjs.all.org::elocutionary]] drf [[file:adj.pert.org::elocutionary]] drf [[file:noun.person.org::elocutionist]] drf [[file:verb.communication.org::elocute]]
 hyper: [[manner_of_speaking]]
 g: an expert manner of speaking involving control of voice and gesture
 
@@ -5307,7 +5307,7 @@ w: <<undertone>>
 hyper: [[tone1]]
 g: a quiet or hushed tone of voice; "spoke in undertones"
 
-w: <<roundness>> drf [[file:adj.all.org::round]]
+w: <<roundness>> drf [[file:adjs.all.org::round]]
 w: <<rotundity>>
 hyper: [[tone1]]
 g: the fullness of a tone of voice; "there is a musky roundness to his wordiness"
@@ -5403,7 +5403,7 @@ w: <<self-expression>>
 hyper: [[expressive_style]]
 g: the expression of one's individuality (usually through creative activities)
 
-w: <<saltiness>> drf [[file:adj.all.org::salty]]
+w: <<saltiness>> drf [[file:adjs.all.org::salty]]
 w: <<coarseness>>
 hyper: [[expressive_style]]
 g: language or humor that is down-to-earth; "the saltiness of their language was inappropriate"; "self-parody and saltiness riddled their core genre"
@@ -5416,7 +5416,7 @@ w: <<psychobabble>>
 hyper: [[jargon1]]
 g: using language loaded with psychological terminology
 
-w: <<prose1>> drf [[file:adj.all.org::prosaic]] drf [[file:adj.all.org::prosaic]] drf [[file:adj.all.org::prosaic]]
+w: <<prose1>> drf [[file:adjs.all.org::prosaic]] drf [[file:adjs.all.org::prosaic]] drf [[file:adjs.all.org::prosaic]]
 hyper: [[expressive_style]]
 g: matter of fact, commonplace, or dull expression
 
@@ -5455,7 +5455,7 @@ w: <<jargon1>>
 hyper: [[expressive_style]]
 g: specialized technical terminology characteristic of a particular subject
 
-w: <<honorific>> drf [[file:adj.all.org::honorific]]
+w: <<honorific>> drf [[file:adjs.all.org::honorific]]
 hyper: [[formulation]]
 g: an expression of respect; "the Japanese use many honorifics"
 
@@ -5463,10 +5463,10 @@ w: <<headlinese>>
 hyper: [[expressive_style]]
 g: using the abbreviated style of headline writers
 
-w: <<grandiosity>> drf [[file:adj.all.org::grandiose]]
-w: <<magniloquence>> drf [[file:adj.all.org::magniloquent]]
-w: <<ornateness>> drf [[file:adj.all.org::ornate]]
-w: <<grandiloquence>> drf [[file:adj.all.org::grandiloquent]]
+w: <<grandiosity>> drf [[file:adjs.all.org::grandiose]]
+w: <<magniloquence>> drf [[file:adjs.all.org::magniloquent]]
+w: <<ornateness>> drf [[file:adjs.all.org::ornate]]
+w: <<grandiloquence>> drf [[file:adjs.all.org::grandiloquent]]
 w: <<rhetoric2>>
 hyper: [[expressive_style]]
 g: high-flown style; excessive use of verbal ornamentation; "the grandiosity of his prose"; "an excessive ornateness of language"
@@ -5480,7 +5480,7 @@ w: <<expression1>>
 hyper: [[expressive_style]]
 g: the style of expressing yourself; "he suggested a better formulation"; "his manner of expression showed how much he cared"
 
-w: <<flatness>> drf [[file:adj.all.org::flat]] drf [[file:adj.all.org::flat]] drf [[file:adj.all.org::flat]]
+w: <<flatness>> drf [[file:adjs.all.org::flat]] drf [[file:adjs.all.org::flat]] drf [[file:adjs.all.org::flat]]
 hyper: [[expressive_style]]
 g: a want of animation or brilliance; "the almost self-conscious flatness of Hemingway's style"
 
@@ -5492,8 +5492,8 @@ w: <<euphuism1>>
 hyper: [[expressive_style]]
 g: any artificially elegant style of language
 
-w: <<eloquence>> drf [[file:adj.all.org::eloquent]]
-w: <<fluency>> drf [[file:adj.all.org::fluent]]
+w: <<eloquence>> drf [[file:adjs.all.org::eloquent]]
+w: <<fluency>> drf [[file:adjs.all.org::fluent]]
 w: <<smoothness>>
 hyper: [[expressive_style]]
 g: powerful and effective language; "his eloquence attracted a large congregation"; "fluency in spoken and written English is essential"; "his oily smoothness concealed his guilt from the police"
@@ -5546,7 +5546,7 @@ hyper: [[manner_of_speaking]]
 g: the manner of speaking to another individual; "he failed in his manner of address to the captain"
 
 w: <<expressive_style>>
-w: <<style>> drf [[file:adj.all.org::stylistic]] drf [[file:noun.person.org::stylist1]] drf [[file:noun.person.org::stylist]] drf [[file:verb.creation.org::stylize]]
+w: <<style>> drf [[file:adjs.all.org::stylistic]] drf [[file:noun.person.org::stylist1]] drf [[file:noun.person.org::stylist]] drf [[file:verb.creation.org::stylize]]
 hyper: [[file:noun.Tops.org::communication]]
 dt: [[language]]
 dt: [[file:noun.act.org::art]]
@@ -5562,7 +5562,7 @@ w: <<reggae>>
 hyper: [[popular_music]]
 g: popular music originating in the West Indies; repetitive bass riffs and regular chords played on the off beat by a guitar
 
-w: <<swing1>> drf [[file:adj.all.org::swingy]] drf [[file:verb.stative.org::swing10]]
+w: <<swing1>> drf [[file:adjs.all.org::swingy]] drf [[file:verb.stative.org::swing10]]
 w: <<swing_music>>
 w: <<jive>> drf [[file:verb.creation.org::jive]]
 hyper: [[jazz]]
@@ -5629,7 +5629,7 @@ w: <<hot_jazz>>
 hyper: [[jazz]]
 g: jazz that is emotionally charged and intense and marked by strong rhythms and improvisation
 
-w: <<funk>> drf [[file:adj.all.org::funky]]
+w: <<funk>> drf [[file:adjs.all.org::funky]]
 hyper: [[jazz]]
 g: an earthy type of jazz combining it with blues and soul; has a heavy bass line that accentuates the first beat in the bar
 
@@ -5648,7 +5648,7 @@ w: <<bebop>> drf [[file:verb.motion.org::bebop]]
 hyper: [[jazz]]
 g: an early form of modern jazz (originating around 1940)
 
-w: <<jazz>> drf [[file:adj.all.org::jazzy]] drf [[file:verb.creation.org::jazz]]
+w: <<jazz>> drf [[file:adjs.all.org::jazzy]] drf [[file:verb.creation.org::jazz]]
 hyper: [[popular_music]]
 g: a genre of popular music that originated in New Orleans around 1900 and developed through increasingly complex styles
 
@@ -5687,7 +5687,7 @@ w: <<kwela>>
 hyper: [[dance_music]]
 g: a kind of danceable music popular among black South Africans; includes a whistle among its instruments
 
-w: <<jazz1>> drf [[file:adj.all.org::jazzy]] drf [[file:verb.creation.org::jazz]]
+w: <<jazz1>> drf [[file:adjs.all.org::jazzy]] drf [[file:verb.creation.org::jazz]]
 hyper: [[dance_music]]
 dt: [[jazz]]
 g: a style of dance music popular in the 1920s; similar to New Orleans jazz but played by large bands
@@ -6132,7 +6132,7 @@ hyper: [[musical_composition]]
 dt: [[music]]
 g: (music) a composition or passage played in a slow tempo slightly faster than largo but slower than adagio
 
-w: <<largo>> drf [[file:adj.all.org::largo]]
+w: <<largo>> drf [[file:adjs.all.org::largo]]
 hyper: [[musical_composition]]
 hyper: [[passage1]]
 dt: [[music]]
@@ -6215,7 +6215,7 @@ hyper: [[classical_music]]
 g: a musical form that is often the last movement of a sonata
 
 w: <<pastorale>>
-w: <<pastoral>> drf [[file:adj.all.org::pastoral]]
+w: <<pastoral>> drf [[file:adjs.all.org::pastoral]]
 w: <<idyll2>>
 w: <<idyl2>>
 hyper: [[musical_composition]]
@@ -6349,7 +6349,7 @@ hyper: [[passage1]]
 hyper: [[musical_composition]]
 g: a musical composition or musical passage to be performed at a somewhat quicker tempo than andante but not as fast as allegro
 
-w: <<allegro>> drf [[file:adj.all.org::allegro]]
+w: <<allegro>> drf [[file:adjs.all.org::allegro]]
 hyper: [[musical_composition]]
 hyper: [[passage1]]
 g: a musical composition or musical passage to be performed quickly in a brisk lively manner
@@ -6588,7 +6588,7 @@ hyper: [[part]]
 hp: [[duet]]
 g: the principal part of a duet (especially a piano duet)
 
-w: <<homophony>> drf [[file:adj.all.org::homophonic]]
+w: <<homophony>> drf [[file:adjs.all.org::homophonic]]
 hyper: [[part_music]]
 g: part music with one dominant voice (in a homophonic style)
 
@@ -6690,7 +6690,7 @@ w: <<harmonisation>> drf [[file:verb.creation.org::harmonise1]] drf [[file:verb.
 hyper: [[harmony1]]
 g: a piece of harmonized music
 
-w: <<harmony1>> drf [[file:adj.pert.org::harmonic1]] drf [[file:adj.all.org::harmonious]] drf [[file:adj.all.org::harmonical]]
+w: <<harmony1>> drf [[file:adj.pert.org::harmonic1]] drf [[file:adj.all.org::harmonious]] drf [[file:adjs.all.org::harmonical]]
 w: <<musical_harmony>>
 hyper: [[music]]
 g: the structure of music with respect to the composition and progression of chords
@@ -6742,7 +6742,7 @@ w: <<popularism>>
 hyper: [[music]]
 g: music adapted to the understanding and taste of the majority
 
-w: <<polytonality>> drf [[file:adj.all.org::polytonal]]
+w: <<polytonality>> drf [[file:adjs.all.org::polytonal]]
 w: <<polytonalism>>
 hyper: [[music]]
 g: music that uses two or more different keys at the same time
@@ -6755,7 +6755,7 @@ g: music arranged in parts for several voices or instruments
 
 w: <<monophony>> drf [[file:adj.all.org::monophonic]] ant [[polyphony]]
 w: <<monophonic_music>> ant [[polyphonic_music]]
-w: <<monody>> drf [[file:adj.all.org::monodical]]
+w: <<monody>> drf [[file:adjs.all.org::monodical]]
 hyper: [[music]]
 g: music consisting of a single vocal part (usually with accompaniment)
 
@@ -6874,7 +6874,7 @@ w: <<sitcom>>
 hyper: [[television_program]]
 g: a humorous television program based on situations that could arise in everyday life
 
-w: <<tragicomedy>> drf [[file:adj.pert.org::tragicomic]] drf [[file:adj.all.org::tragicomical]] drf [[file:adj.all.org::tragicomical]]
+w: <<tragicomedy>> drf [[file:adj.pert.org::tragicomic]] drf [[file:adjs.all.org::tragicomical]] drf [[file:adjs.all.org::tragicomical]]
 hyper: [[tragedy]]
 g: a dramatic composition involving elements of both tragedy and comedy usually with the tragic predominating
 
@@ -6883,11 +6883,11 @@ hyper: [[drama]]
 g: drama in which the protagonist is overcome by some superior force or circumstance; excites terror or pity
 
 w: <<seriocomedy>>
-w: <<tragicomedy2>> drf [[file:adj.all.org::tragicomical]] drf [[file:adj.all.org::tragicomical]]
+w: <<tragicomedy2>> drf [[file:adjs.all.org::tragicomical]] drf [[file:adjs.all.org::tragicomical]]
 hyper: [[comedy]]
 g: a comedy with serious elements or overtones
 
-w: <<melodrama>> drf [[file:adj.all.org::melodramatic1]]
+w: <<melodrama>> drf [[file:adjs.all.org::melodramatic1]]
 hyper: [[comedy]]
 g: an extravagant comedy in which action is more salient than characterization
 
@@ -6899,7 +6899,7 @@ w: <<high_comedy>>
 hyper: [[comedy]]
 g: a sophisticated comedy; often satirizing genteel society
 
-w: <<farce>> drf [[file:adj.all.org::farcical]]
+w: <<farce>> drf [[file:adjs.all.org::farcical]]
 w: <<farce_comedy>>
 w: <<travesty>> drf [[file:verb.creation.org::travesty]]
 hyper: [[comedy]]
@@ -6917,7 +6917,7 @@ w: <<black_comedy>>
 hyper: [[comedy]]
 g: comedy that uses black humor
 
-w: <<comedy>> drf [[file:adj.pert.org::comic]] drf [[file:adj.all.org::comical]] ant [[tragedy]]
+w: <<comedy>> drf [[file:adj.pert.org::comic]] drf [[file:adjs.all.org::comical]] ant [[tragedy]]
 hyper: [[drama]]
 g: light and humorous drama with a happy ending
 
@@ -6950,7 +6950,7 @@ hyper: [[effusion]]
 g: a (usually irritating) impulsive and uncontrollable outburst by a problem child or a neurotic adult
 
 w: <<effusion>> drf [[file:verb.change.org::effuse]]
-w: <<gush>> drf [[file:adj.all.org::gushy]] drf [[file:verb.communication.org::gush]]
+w: <<gush>> drf [[file:adjs.all.org::gushy]] drf [[file:verb.communication.org::gush]]
 w: <<outburst>>
 w: <<blowup>> drf [[file:verb.emotion.org::blow_up]]
 w: <<ebullition>>
@@ -7110,7 +7110,7 @@ w: <<Grand_Guignol>>
 hyper: [[play1]]
 g: a play of a macabre or horrific nature
 
-w: <<fragment>> drf [[file:adj.all.org::fragmentary]] drf [[file:adj.all.org::fragmental]] drf [[file:verb.change.org::fragment]]
+w: <<fragment>> drf [[file:adjs.all.org::fragmentary]] drf [[file:adjs.all.org::fragmental]] drf [[file:verb.change.org::fragment]]
 hyper: [[piece2]]
 g: an incomplete piece; "fragments of a play"
 
@@ -7153,7 +7153,7 @@ w: <<production>> drf [[file:verb.perception.org::produce]]
 hyper: [[presentation]]
 g: a presentation for the stage or screen or radio or television; "have you seen the new production of Hamlet?"
 
-w: <<stage>> drf [[file:adj.all.org::stagy]] drf [[file:adj.all.org::stagey]] drf [[file:verb.creation.org::stage]]
+w: <<stage>> drf [[file:adjs.all.org::stagy]] drf [[file:adjs.all.org::stagey]] drf [[file:verb.creation.org::stage]]
 hyper: [[dramaturgy]]
 g: the theater as a profession (usually `the stage'); "an early movie simply showed a long kiss by two actors of the contemporary stage"
 
@@ -10635,7 +10635,7 @@ g: a theatrical performance held during the daytime (especially in the afternoon
 w: <<theatrical_performance>>
 w: <<theatrical>> drf [[file:adj.all.org::theatrical]]
 w: <<representation1>> drf [[file:verb.creation.org::represent11]] drf [[file:verb.creation.org::represent2]]
-w: <<histrionics>> drf [[file:adj.all.org::histrionic]]
+w: <<histrionics>> drf [[file:adjs.all.org::histrionic]]
 hyper: [[performance]]
 g: a performance of a play
 
@@ -10652,7 +10652,7 @@ w: <<recital3>> drf [[file:noun.person.org::recitalist]]
 hyper: [[performance]]
 g: performance of music or dance especially by soloists
 
-w: <<premiere>> drf [[file:adj.all.org::premiere]] drf [[file:verb.creation.org::premiere]] drf [[file:verb.creation.org::premiere1]]
+w: <<premiere>> drf [[file:adjs.all.org::premiere]] drf [[file:verb.creation.org::premiere]] drf [[file:verb.creation.org::premiere1]]
 hyper: [[performance]]
 g: the first public performance of a play or movie
 
@@ -10707,7 +10707,7 @@ w: <<presentation>> drf [[file:verb.perception.org::present]] drf [[file:verb.co
 hyper: [[display]]
 g: the act of making something publicly available; presenting news or other information by broadcasting or printing it; "he prepared his presentation carefully in advance"
 
-w: <<flaunt>> drf [[file:adj.all.org::flaunty]] drf [[file:verb.perception.org::flaunt]]
+w: <<flaunt>> drf [[file:adjs.all.org::flaunty]] drf [[file:verb.perception.org::flaunt]]
 hyper: [[display]]
 g: the act of displaying something ostentatiously; "his behavior was an outrageous flaunt"
 
@@ -10733,7 +10733,7 @@ w: <<brandish>> drf [[file:verb.contact.org::brandish]]
 hyper: [[wave1]]
 g: the act of waving
 
-w: <<pedantry>> drf [[file:adj.all.org::pedantic]]
+w: <<pedantry>> drf [[file:adjs.all.org::pedantic]]
 hyper: [[ostentation]]
 g: an ostentatious and inappropriate display of learning
 
@@ -10741,11 +10741,11 @@ w: <<splurge>> drf [[file:verb.perception.org::splurge]]
 hyper: [[ostentation]]
 g: an ostentatious display (of effort or extravagance etc.)
 
-w: <<ritz>> drf [[file:adj.all.org::ritzy]]
+w: <<ritz>> drf [[file:adjs.all.org::ritzy]]
 hyper: [[ostentation]]
 g: ostentatious display of elegance; "they put on the ritz"
 
-w: <<exhibitionism1>> drf [[file:adj.all.org::exhibitionistic]] drf [[file:noun.person.org::exhibitionist]]
+w: <<exhibitionism1>> drf [[file:adjs.all.org::exhibitionistic]] drf [[file:noun.person.org::exhibitionist]]
 hyper: [[ostentation]]
 g: extravagant and conspicuous behavior intended to attract attention to yourself
 
@@ -10756,11 +10756,11 @@ g: a swaggering show of courage
 
 w: <<ostentation>> drf [[file:adj.all.org::ostentatious]] drf [[file:verb.perception.org::ostentate]]
 w: <<fanfare>>
-w: <<flash2>> drf [[file:adj.all.org::flash]] drf [[file:adj.all.org::flashy]]
+w: <<flash2>> drf [[file:adjs.all.org::flash]] drf [[file:adjs.all.org::flashy]]
 hyper: [[display]]
 g: a gaudy outward display
 
-w: <<spectacle>> drf [[file:adj.all.org::spectacular]]
+w: <<spectacle>> drf [[file:adjs.all.org::spectacular]]
 hyper: [[sight]]
 g: something or someone seen (especially a notable or unusual sight); "the tragic spectacle of cripples trying to escape"
 
@@ -10965,8 +10965,8 @@ w: <<cupid>>
 hyper: [[emblem]]
 g: a symbol for love in the form of a cherubic naked boy with wings and a bow and arrow
 
-w: <<emblem>> drf [[file:adj.all.org::emblematic]] drf [[file:adj.all.org::emblematic]] drf [[file:adj.all.org::emblematical]]
-w: <<allegory2>> drf [[file:adj.all.org::allegorical]] drf [[file:verb.cognition.org::allegorize]] drf [[file:verb.change.org::allegorize]] drf [[file:verb.cognition.org::allegorise]] drf [[file:verb.change.org::allegorise]]
+w: <<emblem>> drf [[file:adjs.all.org::emblematic]] drf [[file:adjs.all.org::emblematic]] drf [[file:adjs.all.org::emblematical]]
+w: <<allegory2>> drf [[file:adjs.all.org::allegorical]] drf [[file:verb.cognition.org::allegorize]] drf [[file:verb.change.org::allegorize]] drf [[file:verb.cognition.org::allegorise]] drf [[file:verb.change.org::allegorise]]
 hyper: [[file:noun.cognition.org::symbol]]
 g: a visible symbol representing an abstract idea
 
@@ -10983,7 +10983,7 @@ hyper: [[demonstration]]
 g: expression without words; "tears are an expression of grief"; "the pulse is a reflection of the heart's condition"
 
 w: <<gaudery>>
-w: <<pomp>> drf [[file:adj.all.org::pompous]]
+w: <<pomp>> drf [[file:adjs.all.org::pompous]]
 hyper: [[display1]]
 g: cheap or pretentious or vain display
 
@@ -11030,7 +11030,7 @@ hyper: [[facial_expression]]
 g: a facial expression characteristic of a person laughing; "his face wrinkled in a silent laugh of derision"
 
 w: <<smile>> drf [[file:verb.communication.org::smile]] drf [[file:verb.body.org::smile]]
-w: <<smiling>> drf [[file:adj.all.org::smiling]] drf [[file:verb.body.org::smile]]
+w: <<smiling>> drf [[file:adjs.all.org::smiling]] drf [[file:verb.body.org::smile]]
 w: <<grin>> drf [[file:verb.body.org::grin]]
 w: <<grinning>> drf [[file:verb.body.org::grin]]
 hyper: [[facial_expression]]
@@ -11185,12 +11185,12 @@ hyper: [[singing_voice]]
 g: the female singing voice between contralto and soprano
 
 w: <<contralto>>
-w: <<alto>> drf [[file:adj.all.org::alto3]]
+w: <<alto>> drf [[file:adjs.all.org::alto3]]
 hyper: [[singing_voice]]
 g: the lowest female singing voice
 
 w: <<countertenor>>
-w: <<alto1>> drf [[file:adj.all.org::alto2]]
+w: <<alto1>> drf [[file:adjs.all.org::alto2]]
 hyper: [[singing_voice]]
 g: the highest adult male singing voice
 
@@ -11415,7 +11415,7 @@ g: (music) a curved line spanning notes that are to be played legato
 
 w: <<note4>>
 w: <<musical_note>>
-w: <<tone2>> drf [[file:adj.all.org::tonic]]
+w: <<tone2>> drf [[file:adjs.all.org::tonic]]
 hyper: [[musical_notation]]
 hm: [[scale]]
 g: a notation representing the pitch and duration of a musical sound; "the singer held the note too long"
@@ -12476,11 +12476,11 @@ w: <<minuscule1>>
 hyper: [[character]]
 g: the characters that were once kept in bottom half of a compositor's type case
 
-w: <<capital>> drf [[file:adj.all.org::capital]] drf [[file:verb.creation.org::capitalize]] drf [[file:verb.creation.org::capitalise]]
+w: <<capital>> drf [[file:adjs.all.org::capital]] drf [[file:verb.creation.org::capitalize]] drf [[file:verb.creation.org::capitalise]]
 w: <<capital_letter>>
 w: <<uppercase>> ant [[lowercase]]
 w: <<upper-case_letter>>
-w: <<majuscule>> drf [[file:adj.all.org::majuscular]]
+w: <<majuscule>> drf [[file:adjs.all.org::majuscular]]
 hyper: [[character]]
 g: one of the large alphabetic characters used as the first letter in writing or printing proper names and sometimes for emphasis; "printers once kept the type for capitals and for small letters in separate cases; capitals were kept in the upper half of the type case and so became known as upper-case letters"
 
@@ -12576,7 +12576,7 @@ hyper: [[mark]]
 g: a mark used to indicate the word above it should be repeated
 
 w: <<diacritical_mark>>
-w: <<diacritic>> drf [[file:adj.all.org::diacritic]] drf [[file:adj.all.org::diacritical]]
+w: <<diacritic>> drf [[file:adjs.all.org::diacritic]] drf [[file:adjs.all.org::diacritical]]
 hyper: [[mark]]
 g: a mark added to a letter to indicate a special pronunciation
 
@@ -12932,7 +12932,7 @@ w: <<number1>> drf [[file:verb.change.org::number]] drf [[file:verb.communicatio
 hyper: [[symbol]]
 g: a symbol used to represent a number; "he learned to write the numerals before he went to school"
 
-w: <<nose>> drf [[file:adj.all.org::nosy]] drf [[file:adj.all.org::nosey]]
+w: <<nose>> drf [[file:adjs.all.org::nosy]] drf [[file:adjs.all.org::nosey]]
 hyper: [[symbol]]
 g: a symbol of inquisitiveness; "keep your nose out of it"
 
@@ -12974,7 +12974,7 @@ g: a drumbeat or bugle call that signals the military to return to their quarter
 
 w: <<tattle>> drf [[file:verb.communication.org::tattle1]]
 w: <<singing2>> drf [[file:verb.communication.org::sing1]]
-w: <<telling3>> drf [[file:adj.all.org::telling]] drf [[file:verb.communication.org::tell3]]
+w: <<telling3>> drf [[file:adjs.all.org::telling]] drf [[file:verb.communication.org::tell3]]
 hyper: [[disclosure]]
 g: disclosing information or giving evidence about another
 
@@ -13114,7 +13114,7 @@ hyper: [[line1]]
 hp: [[file:noun.phenomenon.org::spectrum]]
 g: an isolated component of a spectrum formed by radiation at a uniform frequency
 
-w: <<squiggle>> drf [[file:adj.all.org::squiggly]]
+w: <<squiggle>> drf [[file:adjs.all.org::squiggly]]
 w: <<curlicue>>
 hyper: [[line1]]
 g: a short twisting line
@@ -13186,7 +13186,7 @@ w: <<signalisation>> drf [[file:verb.communication.org::signalise]]
 hyper: [[indication]]
 g: a conspicuous indication
 
-w: <<symptom>> drf [[file:adj.all.org::symptomatic]]
+w: <<symptom>> drf [[file:adjs.all.org::symptomatic]]
 hyper: [[indication]]
 g: anything that accompanies X and is regarded as an indication of X's existence
 
@@ -13381,14 +13381,14 @@ dt: [[file:noun.cognition.org::Christianity]]
 dt: [[file:noun.group.org::Roman_Catholic]]
 g: (Christianity) the Roman Catholic dogma that God preserved the Virgin Mary from any stain of original sin from the moment she was conceived
 
-w: <<ecumenism>> drf [[file:adj.all.org::ecumenic]] drf [[file:adj.all.org::ecumenical]]
+w: <<ecumenism>> drf [[file:adjs.all.org::ecumenic]] drf [[file:adjs.all.org::ecumenical]]
 w: <<ecumenicism>>
 w: <<ecumenicalism>>
 hyper: [[religious_doctrine]]
 dt: [[file:noun.cognition.org::Christianity]]
 g: (Christianity) the doctrine of the ecumenical movement that promotes cooperation and better understanding among different religious denominations: aimed at universal Christian unity
 
-w: <<dogma>> drf [[file:adj.all.org::dogmatic]] drf [[file:verb.communication.org::dogmatize1]] drf [[file:verb.communication.org::dogmatize]]
+w: <<dogma>> drf [[file:adjs.all.org::dogmatic]] drf [[file:verb.communication.org::dogmatize1]] drf [[file:verb.communication.org::dogmatize]]
 w: <<tenet>>
 hyper: [[religious_doctrine]]
 g: a religious doctrine that is proclaimed as true without proof
@@ -13407,7 +13407,7 @@ w: <<creed>> drf [[file:adj.pert.org::credal]] drf [[file:adj.pert.org::creedal]
 hyper: [[file:noun.cognition.org::doctrine]]
 g: the written body of teachings of a religious group that are generally accepted by that group
 
-w: <<style1>> drf [[file:adj.all.org::stylistic]] drf [[file:verb.communication.org::style4]]
+w: <<style1>> drf [[file:adjs.all.org::stylistic]] drf [[file:verb.communication.org::style4]]
 hyper: [[direction2]]
 g: editorial directions to be followed in spelling and punctuation and capitalization and typographical display
 
@@ -13572,12 +13572,12 @@ hyper: [[guess]]
 g: successful conjecture by unusual insight or good luck
 
 w: <<guess>> drf [[file:verb.cognition.org::guess]] drf [[file:verb.cognition.org::guess1]] drf [[file:verb.communication.org::guess]]
-w: <<conjecture>> drf [[file:adj.all.org::conjectural]]
-w: <<supposition>> drf [[file:adj.all.org::suppositional]] drf [[file:adj.all.org::supposititious]] drf [[file:adj.all.org::suppositious]] drf [[file:verb.communication.org::suppose]]
+w: <<conjecture>> drf [[file:adjs.all.org::conjectural]]
+w: <<supposition>> drf [[file:adjs.all.org::suppositional]] drf [[file:adjs.all.org::supposititious]] drf [[file:adjs.all.org::suppositious]] drf [[file:verb.communication.org::suppose]]
 w: <<surmise>> drf [[file:verb.communication.org::surmise]] drf [[file:verb.cognition.org::surmise]]
 w: <<surmisal>> drf [[file:verb.cognition.org::surmise]]
 w: <<speculation3>> drf [[file:verb.communication.org::speculate]]
-w: <<hypothesis1>> drf [[file:adj.all.org::hypothetical]] drf [[file:verb.cognition.org::hypothecate]] drf [[file:verb.cognition.org::hypothesize]]
+w: <<hypothesis1>> drf [[file:adjs.all.org::hypothetical]] drf [[file:verb.cognition.org::hypothecate]] drf [[file:verb.cognition.org::hypothesize]]
 hyper: [[opinion1]]
 g: a message expressing an opinion based on incomplete evidence
 
@@ -13607,18 +13607,18 @@ g: a humorous play on words; "I do it for the pun of it"; "his constant punning 
 
 w: <<drollery>>
 w: <<clowning>> drf [[file:verb.body.org::clown]]
-w: <<comedy1>> drf [[file:adj.all.org::comic]] drf [[file:adj.all.org::comical]]
-w: <<funniness>> drf [[file:adj.all.org::funny]]
+w: <<comedy1>> drf [[file:adjs.all.org::comic]] drf [[file:adjs.all.org::comical]]
+w: <<funniness>> drf [[file:adjs.all.org::funny]]
 hyper: [[fun]]
 g: a comic incident or series of incidents
 
 w: <<waggery>>
-w: <<waggishness>> drf [[file:adj.all.org::waggish]]
+w: <<waggishness>> drf [[file:adjs.all.org::waggish]]
 hyper: [[fun]]
 g: waggish behavior
 
-w: <<jocosity>> drf [[file:adj.all.org::jocose]]
-w: <<jocularity>> drf [[file:adj.all.org::jocular]]
+w: <<jocosity>> drf [[file:adjs.all.org::jocose]]
+w: <<jocularity>> drf [[file:adjs.all.org::jocular]]
 hyper: [[fun]]
 g: fun characterized by humor
 
@@ -13711,7 +13711,7 @@ hyper: [[line2]]
 hp: [[joke]]
 g: the point of a joke or humorous story
 
-w: <<joke>> drf [[file:adj.all.org::jocular]] drf [[file:noun.person.org::jokester]] drf [[file:verb.body.org::joke]] drf [[file:verb.communication.org::joke]]
+w: <<joke>> drf [[file:adjs.all.org::jocular]] drf [[file:noun.person.org::jokester]] drf [[file:verb.body.org::joke]] drf [[file:verb.communication.org::joke]]
 w: <<gag>> drf [[file:noun.person.org::gagster]] drf [[file:verb.communication.org::gag]]
 w: <<laugh1>> drf [[file:verb.body.org::laugh]]
 w: <<jest>> drf [[file:verb.body.org::jest]] drf [[file:verb.communication.org::jest]]
@@ -13739,15 +13739,15 @@ hyper: [[wit]]
 g: adroitness and cleverness in reply
 
 w: <<sarcasm>> drf [[file:adj.all.org::sarcastic]]
-w: <<irony1>> drf [[file:adj.all.org::ironical]] drf [[file:adj.all.org::ironic]] drf [[file:noun.person.org::ironist]]
-w: <<satire>> drf [[file:adj.all.org::satiric]] drf [[file:adj.all.org::satirical]] drf [[file:noun.person.org::satirist]] drf [[file:verb.communication.org::satirize]] drf [[file:verb.communication.org::satirise]]
+w: <<irony1>> drf [[file:adjs.all.org::ironical]] drf [[file:adjs.all.org::ironic]] drf [[file:noun.person.org::ironist]]
+w: <<satire>> drf [[file:adjs.all.org::satiric]] drf [[file:adjs.all.org::satirical]] drf [[file:noun.person.org::satirist]] drf [[file:verb.communication.org::satirize]] drf [[file:verb.communication.org::satirise]]
 w: <<caustic_remark>>
 hyper: [[wit]]
 attr: [[file:adj.all.org::sarcastic]]
 attr: [[file:adj.all.org::unsarcastic]]
 g: witty language used to convey insults or scorn; "he used sarcasm to upset his opponent"; "irony is wasted on the stupid"; "Satire is a sort of glass, wherein beholders do generally discover everybody's face but their own"--Jonathan Swift
 
-w: <<pungency>> drf [[file:adj.all.org::pungent]]
+w: <<pungency>> drf [[file:adjs.all.org::pungent]]
 w: <<bite>>
 hyper: [[wit]]
 g: wit having a sharp and caustic quality; "he commented with typical pungency"; "the bite of satire"
@@ -13767,17 +13767,17 @@ hyper: [[wit]]
 dr: [[file:noun.location.org::France]]
 g: a witty comment or writing
 
-w: <<wit>> drf [[file:adj.all.org::witty]]
+w: <<wit>> drf [[file:adjs.all.org::witty]]
 w: <<humor>> drf [[file:adj.all.org::humorous]] drf [[file:noun.person.org::humorist]]
 w: <<humour>> drf [[file:adj.all.org::humourous]] drf [[file:noun.person.org::humourist]]
 w: <<witticism>>
-w: <<wittiness>> drf [[file:adj.all.org::witty]]
+w: <<wittiness>> drf [[file:adjs.all.org::witty]]
 hyper: [[message]]
 g: a message whose ingenuity or verbal skill or incongruity has the power to evoke laughter
 
-w: <<treacle>> drf [[file:adj.all.org::treacly]]
+w: <<treacle>> drf [[file:adjs.all.org::treacly]]
 w: <<mush>>
-w: <<slop>> drf [[file:adj.all.org::sloppy]]
+w: <<slop>> drf [[file:adjs.all.org::sloppy]]
 w: <<glop>>
 hyper: [[sentimentalism]]
 g: writing or music that is excessively sweet and sentimental
@@ -14141,7 +14141,7 @@ w: <<doublespeak>>
 hyper: [[evasion]]
 g: any language that pretends to communicate but actually does not
 
-w: <<circumlocution1>> drf [[file:adj.all.org::circumlocutious]]
+w: <<circumlocution1>> drf [[file:adjs.all.org::circumlocutious]]
 w: <<indirect_expression>>
 hyper: [[evasion]]
 g: an indirect way of expressing something
@@ -14152,13 +14152,13 @@ hyper: [[misrepresentation]]
 g: a statement that is not literally false but that cleverly avoids an unpleasant truth
 
 w: <<fraudulence>>
-w: <<duplicity>> drf [[file:adj.all.org::duplicitous]]
+w: <<duplicity>> drf [[file:adjs.all.org::duplicitous]]
 hyper: [[misrepresentation]]
 g: a fraudulent or duplicitous representation
 
 w: <<trickery>> drf [[file:verb.social.org::trick]]
 w: <<hocus-pocus>>
-w: <<slickness>> drf [[file:adj.all.org::slick]]
+w: <<slickness>> drf [[file:adjs.all.org::slick]]
 w: <<hanky_panky>>
 w: <<jiggery-pokery>>
 w: <<skulduggery>>
@@ -14175,7 +14175,7 @@ w: <<crocodile_tears>>
 hyper: [[hypocrisy]]
 g: a hypocritical display of sorrow; false or insincere weeping; "the secretaries wept crocodile tears over the manager's dilemma"; "politicians shed crocodile tears over the plight of the unemployed"
 
-w: <<hypocrisy>> drf [[file:adj.all.org::hypocritical]]
+w: <<hypocrisy>> drf [[file:adjs.all.org::hypocritical]]
 w: <<lip_service>>
 hyper: [[pretense]]
 g: an expression of agreement that is not supported by real conviction
@@ -14234,8 +14234,8 @@ hyper: [[fabrication]]
 g: a deliberately misleading fabrication
 
 w: <<fabrication>> drf [[file:verb.creation.org::fabricate]]
-w: <<fiction1>> drf [[file:adj.all.org::fictional]] drf [[file:adj.all.org::fictitious]] drf [[file:verb.creation.org::fictionalize]]
-w: <<fable2>> drf [[file:adj.all.org::fabulous]] drf [[file:noun.person.org::fabulist]]
+w: <<fiction1>> drf [[file:adjs.all.org::fictional]] drf [[file:adjs.all.org::fictitious]] drf [[file:verb.creation.org::fictionalize]]
+w: <<fable2>> drf [[file:adjs.all.org::fabulous]] drf [[file:noun.person.org::fabulist]]
 hyper: [[falsehood]]
 g: a deliberately false or improbable account
 
@@ -14281,7 +14281,7 @@ hyper: [[falsehood]]
 g: a statement that evades the question by cleverness or trickery
 
 w: <<falsehood>> ant [[truth]]
-w: <<falsity>> drf [[file:adj.all.org::false]] drf [[file:adj.all.org::false]] drf [[file:verb.communication.org::falsify]] drf [[file:verb.change.org::falsify]]
+w: <<falsity>> drf [[file:adjs.all.org::false]] drf [[file:adj.all.org::false]] drf [[file:verb.communication.org::falsify]] drf [[file:verb.change.org::falsify]]
 w: <<untruth>>
 hyper: [[statement]]
 g: a false statement
@@ -14294,7 +14294,7 @@ w: <<scenario1>>
 hyper: [[premise]]
 g: a postulated sequence of possible events; "planners developed several scenarios in case of an attack"
 
-w: <<provision>> drf [[file:adj.all.org::provisionary]] drf [[file:verb.communication.org::provide]]
+w: <<provision>> drf [[file:adjs.all.org::provisionary]] drf [[file:verb.communication.org::provide]]
 w: <<proviso>>
 hyper: [[condition1]]
 g: a stipulated condition; "he accepted subject to one provision"
@@ -14359,7 +14359,7 @@ w: <<assumption>> drf [[file:verb.cognition.org::assume]]
 hyper: [[postulate]]
 g: a statement that is assumed to be true and from which a conclusion can be drawn; "on the assumption that he has been injured we can infer that he will not to play"
 
-w: <<axiom1>> drf [[file:adj.all.org::axiomatic]] drf [[file:adj.pert.org::axiomatic]] drf [[file:adj.pert.org::axiomatical]]
+w: <<axiom1>> drf [[file:adjs.all.org::axiomatic]] drf [[file:adj.pert.org::axiomatic]] drf [[file:adj.pert.org::axiomatical]]
 hyper: [[proposition]]
 dt: [[file:noun.cognition.org::logic]]
 g: (logic) a proposition that is not susceptible of proof or disproof; its truth is assumed to be self-evident
@@ -14443,7 +14443,7 @@ w: <<divination>> drf [[file:verb.perception.org::divine]]
 hyper: [[prediction]]
 g: a prediction uttered under divine inspiration
 
-w: <<prognosis>> drf [[file:adj.all.org::prognostic]] drf [[file:verb.communication.org::prognosticate1]] drf [[file:verb.communication.org::prognosticate]]
+w: <<prognosis>> drf [[file:adjs.all.org::prognostic]] drf [[file:verb.communication.org::prognosticate1]] drf [[file:verb.communication.org::prognosticate]]
 w: <<forecast>> drf [[file:verb.communication.org::forecast1]] drf [[file:verb.communication.org::forecast]] drf [[file:verb.cognition.org::forecast]]
 hyper: [[prediction]]
 g: a prediction about how something (as the weather) will develop
@@ -14522,7 +14522,7 @@ ihyper: [[announcement]]
 dt: [[file:noun.cognition.org::Christianity]]
 g: (Christianity) the announcement to the Virgin Mary by the angel Gabriel of the incarnation of Christ
 
-w: <<advisory>> drf [[file:adj.all.org::advisory]] drf [[file:verb.communication.org::advise]]
+w: <<advisory>> drf [[file:adjs.all.org::advisory]] drf [[file:verb.communication.org::advise]]
 hyper: [[announcement]]
 g: an announcement that usually advises or warns the public of some threat; "a frost advisory"
 
@@ -14666,7 +14666,7 @@ w: <<vindication>> drf [[file:verb.communication.org::vindicate2]] drf [[file:ve
 hyper: [[justification]]
 g: the justification for some act or belief; "he offered a persuasive defense of the theory"
 
-w: <<cause>> drf [[file:adj.all.org::causal]] drf [[file:verb.creation.org::cause]] drf [[file:verb.communication.org::cause]]
+w: <<cause>> drf [[file:adjs.all.org::causal]] drf [[file:verb.creation.org::cause]] drf [[file:verb.communication.org::cause]]
 w: <<reason>>
 w: <<grounds>>
 hyper: [[justification]]
@@ -15059,7 +15059,7 @@ w: <<verbal_description>>
 hyper: [[statement]]
 g: a statement that represents something in words
 
-w: <<paradox>> drf [[file:adj.all.org::paradoxical]]
+w: <<paradox>> drf [[file:adjs.all.org::paradoxical]]
 hyper: [[contradiction1]]
 dt: [[file:noun.cognition.org::logic]]
 g: (logic) a statement that contradicts itself; "`I always lie' is a paradox because if it is true it must be false"
@@ -15099,7 +15099,7 @@ w: <<insertion>>
 hyper: [[message]]
 g: a message (spoken or written) that is introduced or inserted; "with the help of his friend's interpolations his story was eventually told"; "with many insertions in the margins"
 
-w: <<sass>> drf [[file:adj.all.org::sassy]]
+w: <<sass>> drf [[file:adjs.all.org::sassy]]
 w: <<sassing>> drf [[file:verb.communication.org::sass]]
 w: <<backtalk>>
 w: <<back_talk>>
@@ -15108,7 +15108,7 @@ w: <<mouth>> drf [[file:verb.communication.org::mouth1]] drf [[file:verb.communi
 hyper: [[rejoinder]]
 g: an impudent or insolent rejoinder; "don't give me any of your sass"
 
-w: <<impudence>> drf [[file:adj.all.org::impudent]]
+w: <<impudence>> drf [[file:adjs.all.org::impudent]]
 w: <<cheek>> drf [[file:verb.communication.org::cheek]]
 w: <<impertinence>>
 hyper: [[disrespect]]
@@ -15116,7 +15116,7 @@ g: an impudent statement
 
 w: <<vituperation>> drf [[file:verb.communication.org::vituperate]]
 w: <<invective>>
-w: <<vitriol>> drf [[file:adj.all.org::vitriolic]]
+w: <<vitriol>> drf [[file:adjs.all.org::vitriolic]]
 hyper: [[abuse]]
 g: abusive or venomous language used to express blame or censure or bitter deep-seated ill will
 
@@ -15125,7 +15125,7 @@ w: <<cut2>>
 hyper: [[abuse]]
 g: a remark capable of wounding mentally; "the unkindest cut of all"
 
-w: <<scurrility>> drf [[file:adj.all.org::scurrilous]]
+w: <<scurrility>> drf [[file:adjs.all.org::scurrilous]]
 w: <<billingsgate>>
 hyper: [[abuse]]
 g: foul-mouthed or obscene abuse
@@ -15148,12 +15148,12 @@ w: <<names>>
 hyper: [[defamation]]
 g: verbal abuse; a crude substitute for argument; "sticks and stones may break my bones but names can never hurt me"
 
-w: <<slander>> drf [[file:adj.all.org::slanderous]] drf [[file:verb.communication.org::slander]]
+w: <<slander>> drf [[file:adjs.all.org::slanderous]] drf [[file:verb.communication.org::slander]]
 hyper: [[defamation]]
 hyper: [[speech_act]]
 g: words falsely spoken that damage the reputation of another
 
-w: <<libel>> drf [[file:adj.all.org::libelous]] drf [[file:adj.all.org::libellous]] drf [[file:verb.communication.org::libel]]
+w: <<libel>> drf [[file:adjs.all.org::libelous]] drf [[file:adjs.all.org::libellous]] drf [[file:verb.communication.org::libel]]
 hyper: [[defamation]]
 dt: [[file:noun.act.org::tort]]
 dt: [[file:noun.group.org::law]]
@@ -15176,7 +15176,7 @@ hyper: [[defamation]]
 g: an attack intended to ruin someone's reputation
 
 w: <<defamation>> drf [[file:verb.communication.org::defame]]
-w: <<calumny>> drf [[file:adj.all.org::calumnious]] drf [[file:verb.communication.org::calumniate]]
+w: <<calumny>> drf [[file:adjs.all.org::calumnious]] drf [[file:verb.communication.org::calumniate]]
 w: <<calumniation>>
 w: <<obloquy>>
 w: <<traducement>> drf [[file:verb.communication.org::traduce]]
@@ -15241,7 +15241,7 @@ hyper: [[contempt]]
 g: a contemptuous or scornful remark
 
 w: <<sneer>> drf [[file:verb.body.org::sneer1]] drf [[file:verb.body.org::sneer]]
-w: <<leer>> drf [[file:adj.all.org::leery]] drf [[file:verb.perception.org::leer]]
+w: <<leer>> drf [[file:adjs.all.org::leery]] drf [[file:verb.perception.org::leer]]
 hyper: [[contempt]]
 g: a facial expression of contempt or scorn; the upper lip curls
 
@@ -15257,12 +15257,12 @@ w: <<fleer>> drf [[file:verb.body.org::fleer]]
 hyper: [[contempt]]
 g: contempt expressed by mockery in looks or words
 
-w: <<contempt>> drf [[file:adj.all.org::contemptuous]]
+w: <<contempt>> drf [[file:adjs.all.org::contemptuous]]
 w: <<scorn>> drf [[file:verb.emotion.org::scorn]]
 hyper: [[disrespect]]
 g: open disrespect for a person or thing
 
-w: <<ridicule>> drf [[file:adj.all.org::ridiculous]] drf [[file:verb.communication.org::ridicule]]
+w: <<ridicule>> drf [[file:adjs.all.org::ridiculous]] drf [[file:verb.communication.org::ridicule]]
 hyper: [[disrespect]]
 g: language or behavior intended to mock or humiliate
 
@@ -15273,7 +15273,7 @@ g: contemptuous laughter
 w: <<abuse>> drf [[file:verb.communication.org::abuse]]
 w: <<insult>> drf [[file:verb.communication.org::insult]]
 w: <<revilement>> drf [[file:verb.communication.org::revile]]
-w: <<contumely>> drf [[file:adj.all.org::contumelious]]
+w: <<contumely>> drf [[file:adjs.all.org::contumelious]]
 w: <<vilification1>> drf [[file:verb.communication.org::vilify]]
 hyper: [[disrespect]]
 g: a rude expression intended to offend or hurt; "when a student made a stupid mistake he spared them no abuse"; "they yelled insults at the visiting team"
@@ -15317,7 +15317,7 @@ w: <<talking_to>>
 hyper: [[rebuke]]
 g: a lengthy rebuke; "a good lecture was my father's idea of discipline"; "the teacher gave him a talking to"
 
-w: <<blame>> drf [[file:adj.all.org::blameworthy]] drf [[file:verb.communication.org::blame1]]
+w: <<blame>> drf [[file:adjs.all.org::blameworthy]] drf [[file:verb.communication.org::blame1]]
 w: <<rap>>
 hyper: [[reproach]]
 g: a reproach for some lapse or misdeed; "he took the blame for it"; "it was a bum rap"
@@ -15407,7 +15407,7 @@ w: <<blast>>
 hyper: [[criticism]]
 g: intense adverse criticism; "Clinton directed his fire at the Republican Party"; "the government has come under attack"; "don't give me any flak"
 
-w: <<faultfinding>> drf [[file:adj.all.org::faultfinding]]
+w: <<faultfinding>> drf [[file:adjs.all.org::faultfinding]]
 w: <<carping>>
 hyper: [[criticism]]
 g: persistent petty and unjustified criticism
@@ -15878,15 +15878,15 @@ g: (Judaism) the honor of being called up to the reading desk in the synagogue t
 
 w: <<award>> drf [[file:verb.possession.org::award]]
 w: <<accolade>>
-w: <<honor>> drf [[file:adj.all.org::honorary]] drf [[file:verb.social.org::honor]]
+w: <<honor>> drf [[file:adjs.all.org::honorary]] drf [[file:verb.social.org::honor]]
 w: <<honour>> drf [[file:verb.social.org::honour]]
 w: <<laurels>>
 hyper: [[symbol]]
 g: a tangible symbol signifying approval or distinction; "an award for bravery"
 
 w: <<unction>>
-w: <<smarm>> drf [[file:adj.all.org::smarmy]]
-w: <<fulsomeness>> drf [[file:adj.all.org::fulsome]]
+w: <<smarm>> drf [[file:adjs.all.org::smarmy]]
+w: <<fulsomeness>> drf [[file:adjs.all.org::fulsome]]
 hyper: [[compliment]]
 g: excessive but superficial compliments given with affected charm
 
@@ -15939,14 +15939,14 @@ w: <<good_word1>>
 hyper: [[praise]]
 g: something that recommends (or expresses commendation of) a person or thing as worthy or desirable
 
-w: <<eulogy>> drf [[file:adj.all.org::eulogistic]] drf [[file:verb.communication.org::eulogize]] drf [[file:verb.communication.org::eulogise]]
+w: <<eulogy>> drf [[file:adjs.all.org::eulogistic]] drf [[file:verb.communication.org::eulogize]] drf [[file:verb.communication.org::eulogise]]
 w: <<eulogium>>
 hyper: [[praise]]
 g: a formal expression of praise for someone who has died recently
 
-w: <<encomium>> drf [[file:adj.all.org::encomiastic]]
-w: <<eulogy1>> drf [[file:adj.all.org::eulogistic]]
-w: <<panegyric>> drf [[file:adj.all.org::panegyric]] drf [[file:noun.person.org::panegyrist]] drf [[file:adj.all.org::panegyrical]]
+w: <<encomium>> drf [[file:adjs.all.org::encomiastic]]
+w: <<eulogy1>> drf [[file:adjs.all.org::eulogistic]]
+w: <<panegyric>> drf [[file:adjs.all.org::panegyric]] drf [[file:noun.person.org::panegyrist]] drf [[file:adjs.all.org::panegyrical]]
 w: <<paean>>
 w: <<pean>>
 hyper: [[praise]]
@@ -16073,7 +16073,7 @@ w: <<dismissal1>> drf [[file:verb.communication.org::dismiss1]]
 hyper: [[permission]]
 g: permission to go; the sending away of someone
 
-w: <<consent>> drf [[file:adj.all.org::consentaneous]] drf [[file:verb.communication.org::consent]]
+w: <<consent>> drf [[file:adjs.all.org::consentaneous]] drf [[file:verb.communication.org::consent]]
 hyper: [[permission]]
 g: permission to do something; "he indicated his consent"
 
@@ -16473,13 +16473,13 @@ w: <<open_secret>>
 hyper: [[secret]]
 g: something that is supposed to be secret but is generally known; "their love affair was an open secret"
 
-w: <<cabala>> drf [[file:adj.all.org::cabalistic]]
+w: <<cabala>> drf [[file:adjs.all.org::cabalistic]]
 w: <<cabbala>>
 w: <<cabbalah>>
 w: <<kabala>>
-w: <<kabbala>> drf [[file:adj.all.org::kabbalistic]]
+w: <<kabbala>> drf [[file:adjs.all.org::kabbalistic]]
 w: <<kabbalah>>
-w: <<qabala>> drf [[file:adj.all.org::qabalistic]]
+w: <<qabala>> drf [[file:adjs.all.org::qabalistic]]
 w: <<qabalah>>
 hyper: [[secret1]]
 g: an esoteric or occult matter resembling the Kabbalah that is traditionally secret
@@ -16488,7 +16488,7 @@ w: <<esoterica>>
 hyper: [[secret1]]
 g: secrets known only to an initiated minority
 
-w: <<confidence>> drf [[file:adj.all.org::confidential2]] drf [[file:verb.communication.org::confide]]
+w: <<confidence>> drf [[file:adjs.all.org::confidential2]] drf [[file:verb.communication.org::confide]]
 hyper: [[secret]]
 g: a secret that is confided or entrusted to another; "everyone trusted him with their confidences"; "the priest could not reveal her confidences"
 
@@ -16501,7 +16501,7 @@ w: <<arcanum>>
 hyper: [[information]]
 g: information known only to a special group; "the secret of Cajun cooking"
 
-w: <<example>> drf [[file:adj.all.org::exemplary]]
+w: <<example>> drf [[file:adjs.all.org::exemplary]]
 w: <<deterrent_example>>
 w: <<lesson>>
 w: <<object_lesson>>
@@ -17225,7 +17225,7 @@ w: <<cue1>>
 hyper: [[evidence1]]
 g: evidence that helps to solve a problem
 
-w: <<evidence1>> drf [[file:adj.pert.org::evidentiary]] drf [[file:adj.all.org::evident]] drf [[file:verb.communication.org::evidence1]] drf [[file:verb.communication.org::evidence]]
+w: <<evidence1>> drf [[file:adj.pert.org::evidentiary]] drf [[file:adjs.all.org::evident]] drf [[file:verb.communication.org::evidence1]] drf [[file:verb.communication.org::evidence]]
 hyper: [[indication]]
 g: an indication that makes something evident; "his trembling was evidence of his fear"
 
@@ -17255,7 +17255,7 @@ w: <<nuts_and_bolts>>
 hyper: [[information]]
 g: detailed practical information about how something works or how something can be accomplished
 
-w: <<news3>> drf [[file:adj.all.org::newsy]]
+w: <<news3>> drf [[file:adjs.all.org::newsy]]
 hyper: [[information]]
 g: informal information of any kind that is not previously known to someone; "it was news to me"
 
@@ -17457,7 +17457,7 @@ w: <<felicitation>> drf [[file:verb.communication.org::felicitate]]
 hyper: [[speech_act]]
 g: the act of acknowledging that someone has an occasion for celebration
 
-w: <<condolence>> drf [[file:adj.all.org::condolent]] drf [[file:verb.emotion.org::condole]]
+w: <<condolence>> drf [[file:adjs.all.org::condolent]] drf [[file:verb.emotion.org::condole]]
 w: <<commiseration>> drf [[file:verb.emotion.org::commiserate]]
 hyper: [[acknowledgment]]
 g: an expression of sympathy with another's grief; "they sent their condolences"
@@ -17563,7 +17563,7 @@ hyper: [[greeting]]
 du: [[plural]]
 g: (usually plural) a polite expression of desire for someone's welfare; "give him my kind regards"; "my best wishes"
 
-w: <<well-wishing>> drf [[file:adj.all.org::well-wishing]]
+w: <<well-wishing>> drf [[file:adjs.all.org::well-wishing]]
 hyper: [[greeting]]
 g: an expression of good will from one person to another; "much hand-shaking and well-wishing"
 
@@ -17688,7 +17688,7 @@ w: <<billet>>
 hyper: [[personal_letter]]
 g: a short personal letter; "drop me a line when you get there"
 
-w: <<epistle1>> drf [[file:adj.all.org::epistolary]]
+w: <<epistle1>> drf [[file:adjs.all.org::epistolary]]
 hyper: [[letter]]
 g: a specially long, formal letter
 
@@ -17833,7 +17833,7 @@ w: <<cliffhanger>>
 hyper: [[episode]]
 g: an episode that ends in suspense
 
-w: <<serial>> drf [[file:adj.all.org::serial]] drf [[file:adj.pert.org::serial]]
+w: <<serial>> drf [[file:adjs.all.org::serial]] drf [[file:adj.pert.org::serial]]
 w: <<series1>>
 hyper: [[broadcast1]]
 g: a serialized set of programs; "a comedy series"; "the Masterworks concert series"
@@ -17966,7 +17966,7 @@ w: <<cinema_verite>>
 hyper: [[movie]]
 g: a movie that shows ordinary people in actual activities without being controlled by a director
 
-w: <<documentary>> drf [[file:verb.communication.org::document]] drf [[file:adj.all.org::documentary]]
+w: <<documentary>> drf [[file:verb.communication.org::document]] drf [[file:adjs.all.org::documentary]]
 w: <<docudrama>>
 w: <<documentary_film>>
 w: <<infotainment>>
@@ -18063,7 +18063,7 @@ w: <<misquote>>
 hyper: [[quotation]]
 g: an incorrect quotation
 
-w: <<mimesis>> drf [[file:adj.all.org::mimetic]]
+w: <<mimesis>> drf [[file:adjs.all.org::mimetic]]
 hyper: [[quotation]]
 g: the representation of another person's words in a speech
 
@@ -18140,7 +18140,7 @@ w: <<bull>> drf [[file:verb.communication.org::bull]]
 w: <<Irish_bull>>
 w: <<horseshit>>
 w: <<shit>>
-w: <<crap>> drf [[file:adj.all.org::crappy]]
+w: <<crap>> drf [[file:adjs.all.org::crappy]]
 w: <<dogshit>>
 hyper: [[bunk]]
 du: [[obscenity]]
@@ -18243,7 +18243,7 @@ g: jumble of incoherent speech as sometimes heard in schizophrenia
 
 w: <<incoherence>> drf [[file:adj.all.org::incoherent]]
 w: <<incoherency>>
-w: <<unintelligibility>> drf [[file:adj.all.org::unintelligible]]
+w: <<unintelligibility>> drf [[file:adjs.all.org::unintelligible]]
 hyper: [[nonsense]]
 g: nonsense that is simply incoherent and unintelligible
 
@@ -18282,15 +18282,15 @@ w: <<nonsense_verse>>
 hyper: [[nonsense]]
 g: nonsensical writing (usually verse)
 
-w: <<absurdity>> drf [[file:adj.all.org::absurd]]
-w: <<absurdness>> drf [[file:adj.all.org::absurd]] drf [[file:adj.all.org::absurd]]
-w: <<ridiculousness>> drf [[file:adj.all.org::ridiculous]] drf [[file:adj.all.org::ridiculous]]
+w: <<absurdity>> drf [[file:adjs.all.org::absurd]]
+w: <<absurdness>> drf [[file:adjs.all.org::absurd]] drf [[file:adjs.all.org::absurd]]
+w: <<ridiculousness>> drf [[file:adjs.all.org::ridiculous]] drf [[file:adjs.all.org::ridiculous]]
 hyper: [[nonsense]]
 g: a message whose content is at variance with reason
 
 w: <<nonsense>>
 w: <<bunk1>>
-w: <<nonsensicality>> drf [[file:adj.all.org::nonsensical]]
+w: <<nonsensicality>> drf [[file:adjs.all.org::nonsensical]]
 w: <<meaninglessness>> drf [[file:adj.all.org::meaningless]]
 w: <<hokum>>
 hyper: [[message]]
@@ -18371,7 +18371,7 @@ hyper: [[ambiguity]]
 dt: [[contract]]
 g: an ambiguity (especially one in the text of a law or contract) that makes it possible to evade a difficulty or obligation
 
-w: <<ambiguity>> drf [[file:adj.all.org::ambiguous]] drf [[file:adj.all.org::ambiguous4]]
+w: <<ambiguity>> drf [[file:adjs.all.org::ambiguous]] drf [[file:adj.all.org::ambiguous4]]
 hyper: [[saying]]
 g: an expression whose meaning cannot be determined from its context
 
@@ -18415,8 +18415,8 @@ w: <<referent2>>
 hyper: [[term]]
 g: something that refers; a term that refers to another term
 
-w: <<intension>> drf [[file:adj.all.org::intensional]]
-w: <<connotation>> drf [[file:adj.all.org::connotational]] drf [[file:verb.communication.org::connote]]
+w: <<intension>> drf [[file:adjs.all.org::intensional]]
+w: <<connotation>> drf [[file:adjs.all.org::connotational]] drf [[file:verb.communication.org::connote]]
 hyper: [[meaning]]
 g: what you must know in order to determine the reference of an expression
 
@@ -18447,7 +18447,7 @@ hp: [[content_word]]
 g: the meaning of a content word that depends on the nonlinguistic concepts it is used to express
 
 w: <<meaning>> drf [[file:verb.communication.org::mean3]] drf [[file:verb.communication.org::mean1]]
-w: <<significance>> drf [[file:adj.all.org::significant]] drf [[file:verb.communication.org::signify]]
+w: <<significance>> drf [[file:adjs.all.org::significant]] drf [[file:verb.communication.org::signify]]
 w: <<signification>> drf [[file:verb.communication.org::signify2]]
 w: <<import>> drf [[file:verb.communication.org::import]]
 hyper: [[message]]
@@ -18470,15 +18470,15 @@ w: <<digression>> drf [[file:verb.communication.org::digress]]
 w: <<aside1>>
 w: <<excursus>>
 w: <<divagation>> drf [[file:verb.communication.org::divagate]]
-w: <<parenthesis1>> drf [[file:adj.all.org::parenthetical]] drf [[file:adj.all.org::parenthetic]]
+w: <<parenthesis1>> drf [[file:adjs.all.org::parenthetical]] drf [[file:adjs.all.org::parenthetic]]
 hyper: [[message]]
 g: a message that departs from the main subject
 
-w: <<didacticism>> drf [[file:adj.all.org::didactical]]
+w: <<didacticism>> drf [[file:adjs.all.org::didactical]]
 hyper: [[file:noun.Tops.org::communication]]
 g: communication that is suitable for or intended to be instructive; "the didacticism expected in books for the young"; "the didacticism of the 19th century gave birth to many great museums"
 
-w: <<precedent2>> drf [[file:adj.all.org::precedent]] drf [[file:verb.stative.org::precede1]]
+w: <<precedent2>> drf [[file:adjs.all.org::precedent]] drf [[file:verb.stative.org::precede1]]
 hyper: [[subject]]
 g: a subject mentioned earlier (preceding in time)
 
@@ -18642,7 +18642,7 @@ hyper: [[series]]
 g: a periodical that is published twice each week (or 104 issues per year)
 
 w: <<series>>
-w: <<serial1>> drf [[file:adj.all.org::serial]] drf [[file:adj.pert.org::serial]]
+w: <<serial1>> drf [[file:adjs.all.org::serial]] drf [[file:adj.pert.org::serial]]
 w: <<serial_publication>>
 hyper: [[periodical]]
 g: a periodical that appears at scheduled times
@@ -20233,7 +20233,7 @@ hyper: [[law]]
 dt: [[file:noun.group.org::law]]
 g: a law forbidding the sale or use of narcotic drugs
 
-w: <<nullity>> drf [[file:adj.all.org::null]]
+w: <<nullity>> drf [[file:adjs.all.org::null]]
 hyper: [[act1]]
 g: something that is null (especially an enactment that has no legal validity)
 
@@ -20712,7 +20712,7 @@ w: <<ancient_history>>
 hyper: [[history]]
 g: a history of the ancient world
 
-w: <<history>> drf [[file:adj.all.org::historic]]
+w: <<history>> drf [[file:adjs.all.org::historic]]
 w: <<account>>
 w: <<chronicle>> drf [[file:verb.communication.org::chronicle]]
 w: <<story4>>
@@ -20737,7 +20737,7 @@ hyper: [[message]]
 g: a written statement of facts submitted in conjunction with a petition to an authority
 
 w: <<request1>> drf [[file:verb.communication.org::request2]]
-w: <<petition>> drf [[file:adj.all.org::petitionary]] drf [[file:verb.communication.org::petition]]
+w: <<petition>> drf [[file:adjs.all.org::petitionary]] drf [[file:verb.communication.org::petition]]
 w: <<postulation1>>
 hyper: [[message]]
 g: a formal message requesting something that is submitted to an authority
@@ -21032,7 +21032,7 @@ w: <<chronology>> drf [[file:adj.pert.org::chronological]] drf [[file:verb.chang
 hyper: [[written_record]]
 g: a record of events in the order of their occurrence
 
-w: <<casebook>> drf [[file:adj.all.org::casebook]]
+w: <<casebook>> drf [[file:adjs.all.org::casebook]]
 hyper: [[written_record]]
 g: a book in which detailed written records of a case are kept and which are a source of information for subsequent work
 
@@ -21596,7 +21596,7 @@ hyper: [[derivative_instrument]]
 g: an agreement to buy or sell a specific amount of a commodity or financial instrument at a particular price on a stipulated future date; the contract can be sold before the settlement date
 
 w: <<derivative_instrument>>
-w: <<derivative1>> drf [[file:adj.all.org::derivative]]
+w: <<derivative1>> drf [[file:adjs.all.org::derivative]]
 hyper: [[legal_document]]
 dt: [[file:noun.group.org::law]]
 g: a financial instrument whose value is based on another security
@@ -21779,7 +21779,7 @@ hyper: [[verb]]
 g: a verb form that serves to express frequent repetition of an action
 
 w: <<copula>> drf [[file:adj.pert.org::copular]]
-w: <<copulative>> drf [[file:adj.all.org::copulative]]
+w: <<copulative>> drf [[file:adjs.all.org::copulative]]
 w: <<linking_verb>>
 hyper: [[verb]]
 g: an equating verb (such as `be' or `become') that links the subject with the complement of a sentence
@@ -21835,14 +21835,14 @@ w: <<papers>>
 hyper: [[writing]]
 g: writing that provides information (especially information of an official nature)
 
-w: <<summation>> drf [[file:adj.all.org::summational]] drf [[file:verb.stative.org::sum]]
+w: <<summation>> drf [[file:adjs.all.org::summational]] drf [[file:verb.stative.org::sum]]
 w: <<summing_up>>
 w: <<rundown>>
 hyper: [[summary]]
 dt: [[file:noun.group.org::law]]
 g: a concluding summary (as in presenting a case before a law court)
 
-w: <<sketch>> drf [[file:adj.all.org::sketchy]] drf [[file:verb.communication.org::sketch]]
+w: <<sketch>> drf [[file:adjs.all.org::sketchy]] drf [[file:verb.communication.org::sketch]]
 w: <<survey>> drf [[file:verb.cognition.org::survey]]
 w: <<resume>> drf [[file:verb.communication.org::resume]]
 hyper: [[summary]]
@@ -21902,7 +21902,7 @@ w: <<capsule>> drf [[file:verb.change.org::capsulize]] drf [[file:verb.change.or
 hyper: [[summary]]
 g: a shortened version of a written work
 
-w: <<compendium>> drf [[file:adj.all.org::compendious]]
+w: <<compendium>> drf [[file:adjs.all.org::compendious]]
 hyper: [[summary]]
 g: a concise but comprehensive summary of a larger work
 
@@ -21920,7 +21920,7 @@ w: <<summarisation1>> drf [[file:verb.stative.org::summarise]] drf [[file:verb.c
 hyper: [[report1]]
 g: the act of preparing a summary (or an instance thereof); stating briefly and succinctly
 
-w: <<summary>> drf [[file:adj.all.org::summary]] drf [[file:verb.communication.org::summarize]] drf [[file:verb.communication.org::summarise]]
+w: <<summary>> drf [[file:adjs.all.org::summary]] drf [[file:verb.communication.org::summarize]] drf [[file:verb.communication.org::summarise]]
 w: <<sum-up>>
 hyper: [[statement]]
 g: a brief statement that presents the main points in a concise form; "he gave a summary of the conclusions"
@@ -22334,7 +22334,7 @@ g: a large Bible with pages to record marriages and births
 
 w: <<Revelation>> drf [[file:verb.perception.org::reveal4]]
 w: <<Revelation_of_Saint_John_the_Divine>>
-w: <<Apocalypse>> drf [[file:adj.all.org::apocalyptic]]
+w: <<Apocalypse>> drf [[file:adjs.all.org::apocalyptic]]
 w: <<Book_of_Revelation>>
 ihyper: [[book3]]
 hp: [[New_Testament]]
@@ -22880,7 +22880,7 @@ w: <<translation1>>
 hyper: [[paraphrase]]
 g: rewording something in less technical terminology
 
-w: <<paraphrase>> drf [[file:adj.all.org::paraphrastic]] drf [[file:verb.communication.org::paraphrase]]
+w: <<paraphrase>> drf [[file:adjs.all.org::paraphrastic]] drf [[file:verb.communication.org::paraphrase]]
 w: <<paraphrasis>>
 hyper: [[rewording]]
 g: rewording for the purpose of clarification
@@ -23560,7 +23560,7 @@ w: <<signature>> drf [[file:verb.communication.org::sign2]]
 hyper: [[name]]
 g: your name written in your own handwriting
 
-w: <<squiggle1>> drf [[file:adj.all.org::squiggly]]
+w: <<squiggle1>> drf [[file:adjs.all.org::squiggly]]
 hyper: [[scribble]]
 g: an illegible scrawl; "his signature was just a squiggle but only he could make that squiggle"
 
@@ -23691,7 +23691,7 @@ hp: [[news_article]]
 g: a brief addendum at the end of a newspaper article
 
 w: <<addendum>>
-w: <<supplement>> drf [[file:verb.contact.org::supplement]] drf [[file:adj.all.org::supplementary]]
+w: <<supplement>> drf [[file:verb.contact.org::supplement]] drf [[file:adjs.all.org::supplementary]]
 w: <<postscript1>>
 hyper: [[matter]]
 hp: [[back_matter]]
@@ -23743,7 +23743,7 @@ hp: [[document]]
 g: a preliminary introduction to a statute or constitution (usually explaining its purpose)
 
 w: <<foreword>>
-w: <<preface>> drf [[file:adj.all.org::prefatorial]] drf [[file:verb.communication.org::preface]]
+w: <<preface>> drf [[file:adjs.all.org::prefatorial]] drf [[file:verb.communication.org::preface]]
 w: <<prolusion>>
 hyper: [[introduction]]
 hp: [[text]]
@@ -24273,7 +24273,7 @@ w: <<verse_form>>
 hyper: [[literary_composition]]
 g: a composition written in metrical feet forming rhythmical lines
 
-w: <<pastoral1>> drf [[file:adj.all.org::pastoral]]
+w: <<pastoral1>> drf [[file:adjs.all.org::pastoral]]
 hyper: [[literary_composition]]
 g: a literary work idealizing the rural life (especially the life of shepherds)
 
@@ -24384,7 +24384,7 @@ w: <<Twilight_of_the_Gods>>
 hyper: [[myth]]
 g: myth about the ultimate destruction of the gods in a battle with evil
 
-w: <<myth>> drf [[file:adj.all.org::mythic]] drf [[file:adj.pert.org::mythic]] drf [[file:adj.all.org::mythical]] drf [[file:verb.change.org::mythologize]]
+w: <<myth>> drf [[file:adjs.all.org::mythic]] drf [[file:adj.pert.org::mythic]] drf [[file:adjs.all.org::mythical]] drf [[file:verb.change.org::mythologize]]
 hyper: [[story]]
 hm: [[file:noun.group.org::mythology]]
 g: a traditional story accepted as history; serves to explain the world view of a people
@@ -24397,9 +24397,9 @@ w: <<Aesop's_fables>>
 hyper: [[fable]]
 g: a collection of fables believed to have been written by the Greek storyteller Aesop
 
-w: <<fable>> drf [[file:adj.all.org::fabulous]] drf [[file:noun.person.org::fabulist]]
+w: <<fable>> drf [[file:adjs.all.org::fabulous]] drf [[file:noun.person.org::fabulist]]
 w: <<parable>> drf [[file:adj.pert.org::parabolic]] drf [[file:adj.pert.org::parabolical]]
-w: <<allegory>> drf [[file:adj.all.org::allegorical]] drf [[file:verb.cognition.org::allegorize]] drf [[file:verb.change.org::allegorize]] drf [[file:verb.cognition.org::allegorise]] drf [[file:verb.change.org::allegorise]]
+w: <<allegory>> drf [[file:adjs.all.org::allegorical]] drf [[file:verb.cognition.org::allegorize]] drf [[file:verb.change.org::allegorize]] drf [[file:verb.cognition.org::allegorise]] drf [[file:verb.change.org::allegorise]]
 w: <<apologue>>
 hyper: [[story]]
 g: a short moral story (often with animal characters)
@@ -24412,8 +24412,8 @@ w: <<Arthurian_legend>>
 hyper: [[legend1]]
 g: the legend of King Arthur and his court at Camelot
 
-w: <<legend1>> drf [[file:adj.all.org::legendary]]
-w: <<fable1>> drf [[file:adj.all.org::fabulous]] drf [[file:noun.person.org::fabulist]]
+w: <<legend1>> drf [[file:adjs.all.org::legendary]]
+w: <<fable1>> drf [[file:adjs.all.org::fabulous]] drf [[file:noun.person.org::fabulist]]
 hyper: [[story]]
 g: a story about mythical or supernatural beings or events
 
@@ -24469,7 +24469,7 @@ w: <<Gothic_romance>> drf [[file:noun.person.org::Gothic_romancer]]
 hyper: [[romance1]]
 g: a romance that deals with desolate and mysterious and grotesque events
 
-w: <<romance1>> drf [[file:adj.all.org::romantic]] drf [[file:verb.communication.org::romance]]
+w: <<romance1>> drf [[file:adjs.all.org::romantic]] drf [[file:verb.communication.org::romance]]
 hyper: [[novel]]
 g: a novel dealing with idealized events remote from everyday life
 
@@ -24523,7 +24523,7 @@ w: <<fictionalisation>> drf [[file:verb.change.org::fictionalise]]
 hyper: [[literary_composition]]
 g: a literary work based partly or wholly on fact but written as if it were fiction
 
-w: <<fiction>> drf [[file:adj.pert.org::fictional]] drf [[file:adj.all.org::fictitious]] drf [[file:verb.creation.org::fictionalize]]
+w: <<fiction>> drf [[file:adj.pert.org::fictional]] drf [[file:adjs.all.org::fictitious]] drf [[file:verb.creation.org::fictionalize]]
 hyper: [[literary_composition]]
 g: a literary work based on the imagination and not necessarily on fact
 
@@ -24531,7 +24531,7 @@ w: <<euphuism>>
 hyper: [[prose]]
 g: an elegant style of prose of the Elizabethan period; characterized by balance and antithesis and alliteration and extended similes with and allusions to nature and mythology
 
-w: <<allegory1>> drf [[file:adj.all.org::allegoric]] drf [[file:adj.all.org::allegorical]] drf [[file:verb.cognition.org::allegorize]] drf [[file:verb.change.org::allegorize]] drf [[file:verb.cognition.org::allegorise]] drf [[file:verb.change.org::allegorise]]
+w: <<allegory1>> drf [[file:adjs.all.org::allegoric]] drf [[file:adjs.all.org::allegorical]] drf [[file:verb.cognition.org::allegorize]] drf [[file:verb.change.org::allegorize]] drf [[file:verb.cognition.org::allegorise]] drf [[file:verb.change.org::allegorise]]
 hyper: [[expressive_style]]
 g: an expressive style that uses fictional characters and events to describe some subject by suggestive resemblances; an extended metaphor
 
@@ -25247,7 +25247,7 @@ g: a name of endearment (especially one using a diminutive suffix); "`Billy' is 
 w: <<appellation>>
 w: <<denomination>> drf [[file:verb.communication.org::denominate]]
 w: <<designation>> drf [[file:verb.communication.org::designate]]
-w: <<appellative>> drf [[file:adj.all.org::appellative]]
+w: <<appellative>> drf [[file:adjs.all.org::appellative]]
 hyper: [[name]]
 g: identifying word or words by which someone or something is called and classified or distinguished from others
 
@@ -25270,7 +25270,7 @@ w: <<misnomer>>
 hyper: [[name]]
 g: an incorrect or unsuitable name
 
-w: <<pseudonym>> drf [[file:adj.all.org::pseudonymous]]
+w: <<pseudonym>> drf [[file:adjs.all.org::pseudonymous]]
 w: <<anonym>>
 w: <<nom_de_guerre>>
 hyper: [[name]]
@@ -25523,7 +25523,7 @@ hyper: [[verb]]
 g: a verb whose agent performs an action that is directed at the agent; "the sentence `he washed' has a reflexive verb"; "`perjure' is a reflexive verb because you cannot perjure anyone but yourself"
 
 w: <<reflexive_pronoun>>
-w: <<reflexive>> drf [[file:adj.all.org::reflexive]]
+w: <<reflexive>> drf [[file:adjs.all.org::reflexive]]
 hyper: [[personal_pronoun]]
 g: a personal pronoun compounded with -self to show the agent's action affects the agent
 
@@ -25580,7 +25580,7 @@ hyper: [[function_word]]
 g: an uninflected function word that serves to conjoin words or phrases or clauses or sentences
 
 w: <<demonstrative_pronoun>>
-w: <<demonstrative>> drf [[file:adj.all.org::demonstrative]]
+w: <<demonstrative>> drf [[file:adjs.all.org::demonstrative]]
 hyper: [[pronoun]]
 g: a pronoun that points out an intended referent
 
@@ -25811,7 +25811,7 @@ hyper: [[construction1]]
 g: an expression consisting of one or more words forming a grammatical constituent of a sentence
 
 w: <<parenthetical_expression>>
-w: <<parenthetical>> drf [[file:adj.all.org::parenthetical]]
+w: <<parenthetical>> drf [[file:adjs.all.org::parenthetical]]
 hyper: [[adjunct]]
 g: an expression in parentheses; "his writing was full of parentheticals"
 
@@ -25920,7 +25920,7 @@ w: <<dative_case>>
 hyper: [[oblique]]
 g: the category of nouns serving as the indirect object of a verb
 
-w: <<accusative>> drf [[file:adj.all.org::accusative]]
+w: <<accusative>> drf [[file:adjs.all.org::accusative]]
 w: <<accusative_case>>
 w: <<objective_case>>
 hyper: [[oblique]]
@@ -26066,7 +26066,7 @@ w: <<reduplication1>>
 hyper: [[syllable]]
 g: the syllable added in a reduplicated word form
 
-w: <<sesquipedalian>> drf [[file:adj.all.org::sesquipedalian]]
+w: <<sesquipedalian>> drf [[file:adjs.all.org::sesquipedalian]]
 w: <<sesquipedalia>>
 hyper: [[polysyllable]]
 g: a very long word (a foot and a half long)
@@ -26076,7 +26076,7 @@ hyper: [[polysyllable]]
 g: a word that is hard to pronounce
 
 w: <<antepenult>>
-w: <<antepenultima>> drf [[file:adj.all.org::antepenultimate]]
+w: <<antepenultima>> drf [[file:adjs.all.org::antepenultimate]]
 w: <<antepenultimate>>
 hyper: [[syllable]]
 g: the 3rd syllable of a word counting back from the end
@@ -26161,7 +26161,7 @@ w: <<proparoxytone>>
 hyper: [[word]]
 g: word having stress or acute accent on the antepenult
 
-w: <<polysyllable>> drf [[file:adj.all.org::polysyllabic]] drf [[file:adj.all.org::polysyllabic]]
+w: <<polysyllable>> drf [[file:adjs.all.org::polysyllabic]] drf [[file:adjs.all.org::polysyllabic]]
 w: <<polysyllabic_word>>
 hyper: [[word]]
 g: a word of more than three syllables
@@ -26264,7 +26264,7 @@ w: <<coinage>> drf [[file:verb.creation.org::coin1]]
 hyper: [[word]]
 g: a newly invented word or phrase
 
-w: <<monosyllable>> drf [[file:adj.all.org::monosyllabic]]
+w: <<monosyllable>> drf [[file:adjs.all.org::monosyllabic]]
 w: <<monosyllabic_word>>
 hyper: [[word]]
 g: a word or utterance of one syllable
@@ -26273,7 +26273,7 @@ w: <<antigram>>
 hyper: [[anagram]]
 g: an anagram that means the opposite of the original word or phrase; "`restful' is the antigram of `fluster'"
 
-w: <<metonym>> drf [[file:adj.all.org::metonymic]] drf [[file:adj.all.org::metonymical]]
+w: <<metonym>> drf [[file:adjs.all.org::metonymic]] drf [[file:adjs.all.org::metonymical]]
 hyper: [[word]]
 g: a word that denotes one thing but refers to a related thing; "Washington is a metonym for the United States government"; "plastic is a metonym for credit card"
 
@@ -26379,11 +26379,11 @@ w: <<dirty_word1>>
 hyper: [[word]]
 g: a word that is considered to be unmentionable; "`failure' is a dirty word to him"
 
-w: <<diminutive>> drf [[file:adj.all.org::diminutive]]
+w: <<diminutive>> drf [[file:adjs.all.org::diminutive]]
 hyper: [[word]]
 g: a word that is formed with a suffix (such as -let or -kin) to indicate smallness
 
-w: <<derivative>> drf [[file:adj.all.org::derivative]]
+w: <<derivative>> drf [[file:adjs.all.org::derivative]]
 hyper: [[word]]
 dt: [[file:noun.cognition.org::linguistics]]
 g: (linguistics) a word that is derived from another word; "`electricity' is a derivative of `electric'"
@@ -26402,7 +26402,7 @@ w: <<open-class_word>>
 hyper: [[word]]
 g: a word to which an independent meaning can be assigned
 
-w: <<cognate>> drf [[file:adj.all.org::cognate1]]
+w: <<cognate>> drf [[file:adjs.all.org::cognate1]]
 w: <<cognate_word>>
 hyper: [[word]]
 g: a word is cognate with another if both derive from the same word in an ancestral language
@@ -26514,7 +26514,7 @@ w: <<linguistic_communication>>
 hyper: [[file:noun.Tops.org::communication]]
 g: a systematic means of communicating by the use of sounds or conventional symbols; "he taught foreign languages"; "the language introduced is standard throughout the text"; "the speed with which a program can be executed depends on the language in which it is written"
 
-w: <<contagion>> drf [[file:adj.all.org::contagious2]]
+w: <<contagion>> drf [[file:adjs.all.org::contagious2]]
 w: <<infection>> drf [[file:adj.all.org::infectious]] drf [[file:verb.cognition.org::infect1]]
 hyper: [[file:noun.Tops.org::communication]]
 g: the communication of an attitude or emotional state among a number of people; "a contagion of mirth"; "the infection of his enthusiasm for poetry"
@@ -27317,7 +27317,7 @@ w: <<intercommunication>> drf [[file:verb.communication.org::intercommunicate]]
 hyper: [[communication1]]
 g: mutual communication; communication with each other; "they intercepted intercommunication between enemy ships"
 
-w: <<communication1>> drf [[file:adj.all.org::communicational]] drf [[file:verb.communication.org::communicate2]] drf [[file:verb.communication.org::communicate1]] drf [[file:verb.communication.org::communicate]]
+w: <<communication1>> drf [[file:adjs.all.org::communicational]] drf [[file:verb.communication.org::communicate2]] drf [[file:verb.communication.org::communicate1]] drf [[file:verb.communication.org::communicate]]
 w: <<communicating>> drf [[file:verb.communication.org::communicate2]] drf [[file:verb.communication.org::communicate1]] drf [[file:verb.communication.org::communicate]]
 hyper: [[file:noun.Tops.org::act]]
 g: the activity of communicating; the activity of conveying information; "they could not act without official communication from Moscow"

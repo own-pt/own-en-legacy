@@ -1941,7 +1941,7 @@ g: divide from the main body or mass and collect; "Many towns segregated into ne
 
 w: <<separate>> event [[file:noun.event.org::separation]] drf [[file:noun.event.org::separation]]
 w: <<divide>> drf [[file:adj.all.org::divisible]]
-w: <<part>> drf [[file:adj.all.org::partitive]] drf [[file:adj.pert.org::partitive]]
+w: <<part>> drf [[file:adjs.all.org::partitive]] drf [[file:adj.pert.org::partitive]]
 hyper: [[file:verb.change.org::change]]
 fr: 1
 g: come apart; "The two pieces that we had glued separated"
@@ -1964,7 +1964,7 @@ g: separate (meat) at the joint
 w: <<separate1>> event [[file:noun.act.org::separation1]] drf [[file:noun.act.org::separation1]]
 w: <<disunite>>
 w: <<divide1>>
-w: <<part1>> drf [[file:adj.all.org::partitive]]
+w: <<part1>> drf [[file:adjs.all.org::partitive]]
 cause: [[separate]]
 hyper: [[file:verb.motion.org::move1]]
 fr: 8 9 10 11 16
@@ -1995,7 +1995,7 @@ hyper: [[cut]]
 fr: 8
 g: cut or carve deeply into; "letters trenched into the stone"
 
-w: <<incise>> event [[file:noun.shape.org::incision]] event [[file:noun.act.org::incision]] drf [[file:adj.all.org::incisive]] drf [[file:noun.shape.org::incision]] drf [[file:noun.act.org::incision]] drf [[file:noun.shape.org::incisure]]
+w: <<incise>> event [[file:noun.shape.org::incision]] event [[file:noun.act.org::incision]] drf [[file:adjs.all.org::incisive]] drf [[file:noun.shape.org::incision]] drf [[file:noun.act.org::incision]] drf [[file:noun.shape.org::incisure]]
 hyper: [[cut]]
 fr: 8 11
 g: make an incision into by carving or cutting
@@ -2231,7 +2231,7 @@ hyper: [[put]]
 fr: 8
 g: cause to recline; "She reclined her head on the pillow"
 
-w: <<recumb>> drf [[file:adj.all.org::recumbent]]
+w: <<recumb>> drf [[file:adjs.all.org::recumbent]]
 w: <<repose2>> event [[file:noun.act.org::repose]] drf [[file:noun.act.org::repose]]
 w: <<recline>> drf [[file:noun.act.org::reclining]]
 hyper: [[lie]]
@@ -2422,7 +2422,7 @@ hyper: [[file:verb.motion.org::move1]]
 fr: 8 22
 g: move into or onto; "work the raisins into the dough"; "the student worked a few jokes into his presentation"; "work the body onto the flatbed truck"
 
-w: <<incorporate>> event [[file:noun.act.org::incorporation1]] drf [[file:adj.all.org::incorporative]] drf [[file:noun.act.org::incorporation1]]
+w: <<incorporate>> event [[file:noun.act.org::incorporation1]] drf [[file:adjs.all.org::incorporative]] drf [[file:noun.act.org::incorporation1]]
 hyper: [[take_in]]
 fr: 8 11
 g: unite or merge with something already in existence; "incorporate this document with those pertaining to the same case"
@@ -2454,7 +2454,7 @@ dt: [[file:noun.cognition.org::chemistry]]
 fr: 11
 g: accumulate (liquids or gases) on the surface
 
-w: <<assimilate>> event [[file:noun.process.org::assimilation1]] drf [[file:adj.all.org::assimilative]] drf [[file:adj.all.org::assimilatory]] drf [[file:noun.process.org::assimilation1]]
+w: <<assimilate>> event [[file:noun.process.org::assimilation1]] drf [[file:adjs.all.org::assimilative]] drf [[file:adjs.all.org::assimilatory]] drf [[file:noun.process.org::assimilation1]]
 w: <<imbibe>> event [[file:noun.process.org::imbibition]] drf [[file:noun.process.org::imbibition]]
 hyper: [[absorb1]]
 fr: 11
@@ -2913,7 +2913,7 @@ g: begin operating or running; "The cameras were rolling"; "The presses are alre
 
 w: <<function>> drf [[file:noun.process.org::functioning]] ant [[malfunction]]
 w: <<work2>>
-w: <<operate3>> event [[file:noun.process.org::operation1]] event [[file:noun.act.org::operation5]] drf [[file:adj.all.org::operative]] drf [[file:adj.all.org::operant]] drf [[file:noun.process.org::operation1]] drf [[file:noun.act.org::operation5]]
+w: <<operate3>> event [[file:noun.process.org::operation1]] event [[file:noun.act.org::operation5]] drf [[file:adjs.all.org::operative]] drf [[file:adjs.all.org::operant]] drf [[file:noun.process.org::operation1]] drf [[file:noun.act.org::operation5]]
 w: <<go>>
 w: <<run>>
 vg: [[run4]]
@@ -3380,8 +3380,8 @@ hyper: [[propel]]
 fr: 8 11
 g: push, propel, or press with force; "Drive a nail into the wall"
 
-w: <<propel>> instrument [[file:noun.artifact.org::propellor]] instrument [[file:noun.artifact.org::propeller]] event [[file:noun.act.org::propulsion]] drf [[file:adj.all.org::propulsive]] drf [[file:adj.all.org::propellent]] drf [[file:adj.all.org::propellant]] drf [[file:noun.act.org::propulsion]] drf [[file:noun.artifact.org::propeller]] drf [[file:noun.substance.org::propellent]] drf [[file:noun.substance.org::propellant]] drf [[file:noun.artifact.org::propellor]]
-w: <<impel>> instrument [[file:noun.artifact.org::impeller]] event [[file:noun.act.org::impulsion]] drf [[file:adj.all.org::impellent]] drf [[file:noun.act.org::impulsion]] drf [[file:noun.artifact.org::impeller]]
+w: <<propel>> instrument [[file:noun.artifact.org::propellor]] instrument [[file:noun.artifact.org::propeller]] event [[file:noun.act.org::propulsion]] drf [[file:adjs.all.org::propulsive]] drf [[file:adjs.all.org::propellent]] drf [[file:adjs.all.org::propellant]] drf [[file:noun.act.org::propulsion]] drf [[file:noun.artifact.org::propeller]] drf [[file:noun.substance.org::propellent]] drf [[file:noun.substance.org::propellant]] drf [[file:noun.artifact.org::propellor]]
+w: <<impel>> instrument [[file:noun.artifact.org::impeller]] event [[file:noun.act.org::impulsion]] drf [[file:adjs.all.org::impellent]] drf [[file:noun.act.org::impulsion]] drf [[file:noun.artifact.org::impeller]]
 hyper: [[file:verb.motion.org::move1]]
 fr: 8 11
 g: cause to move forward with force; "Steam propels this ship"
@@ -3556,7 +3556,7 @@ hyper: [[attract]]
 fr: 8 9 10 11
 g: attract and fix; "His look caught her"; "She caught his eye"; "Catch the attention of the waiter"
 
-w: <<attract>> property [[file:noun.cognition.org::attraction]] property [[file:noun.attribute.org::attraction]] event [[file:noun.communication.org::attraction]] agent [[file:noun.person.org::attraction]] drf [[file:adj.all.org::attractive]] drf [[file:noun.person.org::attraction]] drf [[file:noun.communication.org::attraction]] drf [[file:noun.cognition.org::attraction]] drf [[file:noun.attribute.org::attraction]] ant [[repel]]
+w: <<attract>> property [[file:noun.cognition.org::attraction]] property [[file:noun.attribute.org::attraction]] event [[file:noun.communication.org::attraction]] agent [[file:noun.person.org::attraction]] drf [[file:adjs.all.org::attractive]] drf [[file:noun.person.org::attraction]] drf [[file:noun.communication.org::attraction]] drf [[file:noun.cognition.org::attraction]] drf [[file:noun.attribute.org::attraction]] ant [[repel]]
 w: <<pull2>> event [[file:noun.act.org::pull]] by-means-of [[file:noun.phenomenon.org::pull]] drf [[file:noun.artifact.org::pull1]] drf [[file:noun.phenomenon.org::pull]] drf [[file:noun.act.org::pull]]
 w: <<pull_in>>
 w: <<draw6>>
@@ -4197,7 +4197,7 @@ hyper: [[seal3]]
 fr: 8
 g: seal with packing; "pack the faucet"
 
-w: <<agglomerate>> instrument [[file:noun.artifact.org::agglomerator]] drf [[file:adj.all.org::agglomerative]] drf [[file:noun.substance.org::agglomerate]] drf [[file:noun.group.org::agglomerate]] drf [[file:noun.artifact.org::agglomerator]]
+w: <<agglomerate>> instrument [[file:noun.artifact.org::agglomerator]] drf [[file:adjs.all.org::agglomerative]] drf [[file:noun.substance.org::agglomerate]] drf [[file:noun.group.org::agglomerate]] drf [[file:noun.artifact.org::agglomerator]]
 hyper: [[bunch]]
 fr: 1 8
 g: form into one cluster
@@ -4449,7 +4449,7 @@ hyper: [[obstruct]]
 fr: 8 11
 g: restrain from moving or operating normally; "Traffic is tied up for miles around the bridge where the accident occurred"
 
-w: <<obstruct>> event [[file:noun.act.org::obstruction1]] by-means-of [[file:noun.artifact.org::obstructor]] by-means-of [[file:noun.artifact.org::obstructer]] drf [[file:adj.all.org::obstructive]] drf [[file:noun.act.org::obstruction1]] drf [[file:noun.artifact.org::obstructer]] drf [[file:noun.artifact.org::obstructor]] ant [[free1]]
+w: <<obstruct>> event [[file:noun.act.org::obstruction1]] by-means-of [[file:noun.artifact.org::obstructor]] by-means-of [[file:noun.artifact.org::obstructer]] drf [[file:adjs.all.org::obstructive]] drf [[file:noun.act.org::obstruction1]] drf [[file:noun.artifact.org::obstructer]] drf [[file:noun.artifact.org::obstructor]] ant [[free1]]
 w: <<obturate>> instrument [[file:noun.artifact.org::obturator]] drf [[file:noun.artifact.org::obturator]]
 w: <<impede>> by-means-of [[file:noun.artifact.org::impediment]] drf [[file:noun.artifact.org::impediment]]
 w: <<occlude>> event [[file:noun.act.org::occlusion]] drf [[file:adj.pert.org::occlusive]] drf [[file:noun.act.org::occlusion]]
@@ -4460,7 +4460,7 @@ hyper: [[file:verb.social.org::impede]]
 fr: 8 11
 g: block passage through; "obstruct the path"
 
-w: <<suffocate1>> state [[file:noun.state.org::suffocation]] drf [[file:adj.all.org::suffocative]] drf [[file:noun.state.org::suffocation]]
+w: <<suffocate1>> state [[file:noun.state.org::suffocation]] drf [[file:adjs.all.org::suffocative]] drf [[file:noun.state.org::suffocation]]
 w: <<stifle3>>
 w: <<asphyxiate1>> state [[file:noun.state.org::asphyxiation]] drf [[file:noun.state.org::asphyxiation]] drf [[file:noun.state.org::asphyxia]]
 w: <<choke3>> drf [[file:noun.state.org::choking]]
@@ -4650,7 +4650,7 @@ hyper: [[receive]]
 fr: 9 10
 g: assimilate or take in; "The immigrants were quickly absorbed into society"
 
-w: <<receive>> drf [[file:adj.all.org::receptive]]
+w: <<receive>> drf [[file:adjs.all.org::receptive]]
 w: <<take_in1>>
 w: <<invite12>> event [[file:noun.communication.org::invitation]] drf [[file:noun.communication.org::invitation]]
 fr: 8 9
@@ -4762,7 +4762,7 @@ fr: 8 11
 g: destroy the arrangement or order of; "My son disarranged the papers on my desk"
 
 w: <<dress4>>
-w: <<decorate>> by-means-of [[file:noun.artifact.org::decoration]] by-means-of [[file:noun.act.org::decoration]] agent [[file:noun.artifact.org::decor]] drf [[file:adj.all.org::decorative]] drf [[file:noun.artifact.org::decor]] drf [[file:noun.artifact.org::decoration]] drf [[file:noun.act.org::decoration]]
+w: <<decorate>> by-means-of [[file:noun.artifact.org::decoration]] by-means-of [[file:noun.act.org::decoration]] agent [[file:noun.artifact.org::decor]] drf [[file:adjs.all.org::decorative]] drf [[file:noun.artifact.org::decor]] drf [[file:noun.artifact.org::decoration]] drf [[file:noun.act.org::decoration]]
 hyper: [[arrange]]
 fr: 8
 g: provide with decoration; "dress the windows"
@@ -4905,7 +4905,7 @@ fr: 8
 g: combine (a radio frequency wave) with a locally generated wave of a different frequency so as to produce a new frequency equal to the sum or the difference between the two
 
 w: <<compound>> result [[file:noun.cognition.org::compound]] drf [[file:noun.cognition.org::compound]] drf [[file:noun.act.org::compounding]]
-w: <<combine1>> event [[file:noun.event.org::combine]] drf [[file:adj.all.org::combinative]] drf [[file:adj.all.org::combinative]] drf [[file:noun.event.org::combine]] drf [[file:noun.act.org::combining]]
+w: <<combine1>> event [[file:noun.event.org::combine]] drf [[file:adjs.all.org::combinative]] drf [[file:adj.all.org::combinative]] drf [[file:noun.event.org::combine]] drf [[file:noun.act.org::combining]]
 hyper: [[mix]]
 fr: 8
 g: combine so as to form a whole; mix; "compound the ingredients"
@@ -4968,7 +4968,7 @@ dt: [[file:noun.cognition.org::chemistry]]
 fr: 8
 g: obtain by a fractional process
 
-w: <<extract7>> event [[file:noun.process.org::extraction]] drf [[file:adj.all.org::extractible]] drf [[file:noun.process.org::extraction]]
+w: <<extract7>> event [[file:noun.process.org::extraction]] drf [[file:adjs.all.org::extractible]] drf [[file:noun.process.org::extraction]]
 hyper: [[separate2]]
 dt: [[file:noun.act.org::mining]]
 fr: 8
@@ -5000,7 +5000,7 @@ g: cause (a solvent) to pass through a permeable substance in order to extract a
 
 w: <<percolate>> event [[file:noun.process.org::percolation]] drf [[file:noun.process.org::percolation]]
 w: <<sink_in>>
-w: <<permeate>> event [[file:noun.process.org::permeation]] drf [[file:adj.all.org::permeant]] drf [[file:noun.process.org::permeation]]
+w: <<permeate>> event [[file:noun.process.org::permeation]] drf [[file:adjs.all.org::permeant]] drf [[file:noun.process.org::permeation]]
 w: <<filter1>> event [[file:noun.process.org::filtration]] event [[file:noun.act.org::filtration]] drf [[file:noun.process.org::filtration]] drf [[file:noun.act.org::filtration]]
 hyper: [[penetrate]]
 fr: 1 4
@@ -6140,12 +6140,6 @@ dt: [[file:noun.act.org::sport]]
 fr: 2
 g: engage in a boxing match
 
-w: <<kickbox>>
-hyper: file:verb.contact.org::box1
-fr: 2
-g: Engage in a kickboxing match.
-e: Two people are kickboxing and spectators are not watching.
-
 w: <<muddle>>
 w: <<puddle1>>
 hyper: [[roil]]
@@ -7028,7 +7022,7 @@ hyper: [[absorb]]
 fr: 8
 g: to wash or wipe with or as if with a mop; "Mop the hallway now"; "He mopped her forehead with a towel"
 
-w: <<deterge>> property [[file:noun.attribute.org::detergence]] drf [[file:adj.all.org::detersive]] drf [[file:adj.all.org::detergent]] drf [[file:noun.artifact.org::detergent]] drf [[file:noun.attribute.org::detergency]] drf [[file:noun.attribute.org::detergence]]
+w: <<deterge>> property [[file:noun.attribute.org::detergence]] drf [[file:adjs.all.org::detersive]] drf [[file:adjs.all.org::detergent]] drf [[file:noun.artifact.org::detergent]] drf [[file:noun.attribute.org::detergency]] drf [[file:noun.attribute.org::detergence]]
 hyper: [[wipe_off]]
 fr: 8
 g: wipe away; to wash off or out, cleanse; chiefly in medical use: to clear away foul matter from the body; "This drug is powerful enough to deterge"
@@ -7170,13 +7164,13 @@ hyper: [[compress]]
 fr: 2
 g: contract the abdominal muscles during childbirth to ease delivery
 
-w: <<convulse1>> event [[file:noun.state.org::convulsion]] drf [[file:adj.all.org::convulsive]] drf [[file:noun.state.org::convulsion]]
+w: <<convulse1>> event [[file:noun.state.org::convulsion]] drf [[file:adjs.all.org::convulsive]] drf [[file:noun.state.org::convulsion]]
 vg: [[convulse]]
 hyper: [[compress]]
 fr: 11
 g: cause to contract; "The spasm convulses her facial muscles"
 
-w: <<convulse>> event [[file:noun.state.org::convulsion]] drf [[file:adj.all.org::convulsive]] drf [[file:noun.state.org::convulsion]]
+w: <<convulse>> event [[file:noun.state.org::convulsion]] drf [[file:adjs.all.org::convulsive]] drf [[file:noun.state.org::convulsion]]
 hyper: [[compress]]
 vg: [[convulse1]]
 fr: 1
@@ -7197,7 +7191,7 @@ hyper: [[compress]]
 fr: 11
 g: constrict or bind or draw together; "Lemon juice astringes the tissue in the mouth"
 
-w: <<compress>> instrument [[file:noun.artifact.org::compressor]] event [[file:noun.event.org::compression]] event [[file:noun.act.org::compression]] drf [[file:adj.all.org::compressible]] drf [[file:adj.all.org::compressible]] drf [[file:noun.event.org::compression]] drf [[file:noun.act.org::compression]] drf [[file:noun.artifact.org::compressor]] drf [[file:noun.act.org::compressing]]
+w: <<compress>> instrument [[file:noun.artifact.org::compressor]] event [[file:noun.event.org::compression]] event [[file:noun.act.org::compression]] drf [[file:adjs.all.org::compressible]] drf [[file:adj.all.org::compressible]] drf [[file:noun.event.org::compression]] drf [[file:noun.act.org::compression]] drf [[file:noun.artifact.org::compressor]] drf [[file:noun.act.org::compressing]]
 w: <<constrict>> event [[file:noun.act.org::constriction]] agent [[file:noun.animal.org::constrictor]] drf [[file:noun.act.org::constriction]] drf [[file:noun.animal.org::constrictor]]
 w: <<squeeze1>>
 w: <<compact>>
@@ -7299,7 +7293,7 @@ hyper: [[aggregate]]
 fr: 8
 g: make into a unit; "unitize a car body"
 
-w: <<aggregate>> result [[file:noun.artifact.org::aggregate]] agent [[file:noun.person.org::aggregator]] drf [[file:adj.all.org::aggregative]] drf [[file:noun.person.org::aggregator]] drf [[file:noun.artifact.org::aggregate]]
+w: <<aggregate>> result [[file:noun.artifact.org::aggregate]] agent [[file:noun.person.org::aggregator]] drf [[file:adjs.all.org::aggregative]] drf [[file:noun.person.org::aggregator]] drf [[file:noun.artifact.org::aggregate]]
 w: <<combine3>> result [[file:noun.group.org::combination3]] result [[file:noun.group.org::combination1]] result [[file:noun.group.org::combination]] event [[file:noun.event.org::combine]] event [[file:noun.act.org::combination1]] drf [[file:noun.group.org::combination3]] drf [[file:noun.group.org::combination1]] drf [[file:noun.group.org::combination]] drf [[file:noun.act.org::combination1]] drf [[file:noun.event.org::combine]] drf [[file:noun.event.org::combining]]
 hyper: [[mix]]
 fr: 8
@@ -7564,7 +7558,7 @@ w: <<scatter>> event [[file:noun.attribute.org::scatter]] event [[file:noun.act.
 w: <<sprinkle1>> drf [[file:noun.quantity.org::sprinkling]]
 w: <<dot>>
 w: <<dust1>> uses [[file:noun.substance.org::dust2]] drf [[file:noun.substance.org::dust2]]
-w: <<disperse>> drf [[file:adj.all.org::dispersive]]
+w: <<disperse>> drf [[file:adjs.all.org::dispersive]]
 hyper: [[discharge]]
 fr: 8 11 21
 g: distribute loosely; "He scattered gun powder under the wagon"
@@ -7790,7 +7784,7 @@ hyper: [[straighten]]
 fr: 8
 g: cause to form a channel; "channelize a stream"
 
-w: <<extend10>> drf [[file:adj.all.org::extensible]] drf [[file:adj.all.org::extendible]]
+w: <<extend10>> drf [[file:adj.all.org::extensible]] drf [[file:adjs.all.org::extendible]]
 hyper: [[straighten]]
 vg: [[file:verb.motion.org::unfold]]
 fr: 8
@@ -8193,9 +8187,9 @@ hyper: [[attach2]]
 fr: 9
 g: admire boundlessly and follow around; "the groupies leeched onto the rock star"
 
-w: <<adhere>> property [[file:noun.attribute.org::adhesion]] drf [[file:adj.all.org::adhesive]] drf [[file:adj.all.org::adherent]] drf [[file:noun.attribute.org::adhesion]]
+w: <<adhere>> property [[file:noun.attribute.org::adhesion]] drf [[file:adj.all.org::adhesive]] drf [[file:adjs.all.org::adherent]] drf [[file:noun.attribute.org::adhesion]]
 w: <<hold_fast>> drf [[file:noun.artifact.org::holdfast]]
-w: <<bond>> property [[file:noun.attribute.org::bond]] by-means-of [[file:noun.artifact.org::bond1]] drf [[file:adj.all.org::bondable]] drf [[file:noun.attribute.org::bond]] drf [[file:noun.artifact.org::bond1]]
+w: <<bond>> property [[file:noun.attribute.org::bond]] by-means-of [[file:noun.artifact.org::bond1]] drf [[file:adjs.all.org::bondable]] drf [[file:noun.attribute.org::bond]] drf [[file:noun.artifact.org::bond1]]
 w: <<bind6>> instrument [[file:noun.substance.org::binder1]] drf [[file:noun.substance.org::binder1]] drf [[file:noun.attribute.org::binding]]
 w: <<stick>> instrument [[file:noun.communication.org::sticker]] drf [[file:noun.communication.org::sticker]]
 w: <<stick_to3>>
@@ -8258,7 +8252,7 @@ hyper: [[connect]]
 fr: 8
 g: connect devices on a part of a chip or circuit board in a computer
 
-w: <<connect>> instrument [[file:noun.artifact.org::connector]] instrument [[file:noun.artifact.org::connecter]] drf [[file:adj.all.org::connective]] drf [[file:noun.artifact.org::connector]] drf [[file:noun.artifact.org::connecter]] ant [[disconnect]]
+w: <<connect>> instrument [[file:noun.artifact.org::connector]] instrument [[file:noun.artifact.org::connecter]] drf [[file:adjs.all.org::connective]] drf [[file:noun.artifact.org::connector]] drf [[file:noun.artifact.org::connecter]] ant [[disconnect]]
 w: <<link>> by-means-of [[file:noun.relation.org::link]] by-means-of [[file:noun.artifact.org::link]] drf [[file:noun.relation.org::link]] drf [[file:noun.artifact.org::link]] drf [[file:noun.act.org::linkage]]
 w: <<tie1>> instrument [[file:noun.artifact.org::tie4]] drf [[file:noun.artifact.org::tie4]]
 w: <<link_up>> drf [[file:noun.artifact.org::linkup]]
@@ -8362,7 +8356,7 @@ g: squeeze the juice out (of a fruit) with a reamer; "ream oranges"
 
 w: <<press_out9>>
 w: <<express11>> event [[file:noun.act.org::expression]] drf [[file:noun.act.org::expression]]
-w: <<extract5>> result [[file:noun.substance.org::extract]] drf [[file:adj.all.org::extractible]] drf [[file:noun.substance.org::extract]]
+w: <<extract5>> result [[file:noun.substance.org::extract]] drf [[file:adjs.all.org::extractible]] drf [[file:noun.substance.org::extract]]
 hyper: [[file:verb.possession.org::get]]
 fr: 8
 g: obtain from a substance, as by mechanical action; "Italians express coffee rather than filter it"
@@ -8372,7 +8366,7 @@ hyper: [[extract4]]
 fr: 8
 g: extract information from a modulated carrier wave
 
-w: <<extract4>> instrument [[file:noun.artifact.org::extractor]] event [[file:noun.act.org::extraction]] drf [[file:adj.all.org::extractible]] drf [[file:noun.act.org::extraction]] drf [[file:noun.artifact.org::extractor]]
+w: <<extract4>> instrument [[file:noun.artifact.org::extractor]] event [[file:noun.act.org::extraction]] drf [[file:adjs.all.org::extractible]] drf [[file:noun.act.org::extraction]] drf [[file:noun.artifact.org::extractor]]
 w: <<pull_out>>
 w: <<pull10>>
 w: <<pull_up>>
@@ -8409,7 +8403,7 @@ hyper: [[seize]]
 fr: 8 9
 g: take or grasp suddenly; "She grabbed the child's hand and ran out of the room"
 
-w: <<attract1>> undergoer [[file:noun.phenomenon.org::attraction]] drf [[file:adj.all.org::attractive2]] drf [[file:adj.all.org::attractable]] drf [[file:noun.phenomenon.org::attraction]]
+w: <<attract1>> undergoer [[file:noun.phenomenon.org::attraction]] drf [[file:adj.all.org::attractive2]] drf [[file:adjs.all.org::attractable]] drf [[file:noun.phenomenon.org::attraction]]
 hyper: [[pull4]]
 fr: 11
 g: exert a force on (a body) causing it to approach or prevent it from moving away; "the gravitational pull of a planet attracts other bodies"
@@ -9034,7 +9028,7 @@ hyper: [[append]]
 fr: 8
 g: add to the end
 
-w: <<append1>> drf [[file:noun.artifact.org::appendage]] drf [[file:adj.all.org::appendant]]
+w: <<append1>> drf [[file:noun.artifact.org::appendage]] drf [[file:adjs.all.org::appendant]]
 w: <<add_on>> drf [[file:noun.artifact.org::add-on1]]
 w: <<supplement>> uses [[file:noun.communication.org::supplement]] event [[file:noun.act.org::supplementation]] drf [[file:noun.communication.org::supplement]] drf [[file:noun.act.org::supplementation]]
 w: <<affix1>> event [[file:noun.act.org::affixation1]] drf [[file:noun.act.org::affixation1]]
@@ -9166,7 +9160,7 @@ hyper: [[kill]]
 fr: 2
 g: kill oneself; "the terminally ill patient committed suicide"
 
-w: <<kill>> event [[file:noun.act.org::kill]] by-means-of [[file:noun.state.org::killer]] agent [[file:noun.person.org::killer]] drf [[file:adj.all.org::killable]] drf [[file:noun.act.org::kill]] drf [[file:noun.state.org::killer]] drf [[file:noun.person.org::killer]] drf [[file:noun.event.org::killing]] drf [[file:noun.act.org::killing]] see [[kill_off]]
+w: <<kill>> event [[file:noun.act.org::kill]] by-means-of [[file:noun.state.org::killer]] agent [[file:noun.person.org::killer]] drf [[file:adjs.all.org::killable]] drf [[file:noun.act.org::kill]] drf [[file:noun.state.org::killer]] drf [[file:noun.person.org::killer]] drf [[file:noun.event.org::killing]] drf [[file:noun.act.org::killing]] see [[kill_off]]
 cause: [[file:verb.change.org::die]]
 vg: [[kill1]]
 fr: 8 9 10
@@ -9802,13 +9796,13 @@ hyper: [[tie]]
 fr: 8
 g: bind with a rope, chain, or cord; "lash the horse"
 
-w: <<bind8>> drf [[file:adj.all.org::bindable]] drf [[file:noun.act.org::binding]]
+w: <<bind8>> drf [[file:adjs.all.org::bindable]] drf [[file:noun.act.org::binding]]
 w: <<bandage3>>
 hyper: [[fasten1]]
 fr: 8
 g: wrap around with something so as to cover or enclose
 
-w: <<bind>> instrument [[file:noun.artifact.org::binder3]] instrument [[file:noun.artifact.org::binder]] drf [[file:adj.all.org::bindable]] drf [[file:noun.artifact.org::binder3]] drf [[file:noun.artifact.org::binder]] ant [[unbind]]
+w: <<bind>> instrument [[file:noun.artifact.org::binder3]] instrument [[file:noun.artifact.org::binder]] drf [[file:adjs.all.org::bindable]] drf [[file:noun.artifact.org::binder3]] drf [[file:noun.artifact.org::binder]] ant [[unbind]]
 hyper: [[attach1]]
 fr: 8 11 21
 g: make fast; tie or secure, with or as if with a rope; "The Chinese would bind the feet of their women"
@@ -10320,7 +10314,7 @@ g: bind or tie up in or as if in a faggot; "faggot up the sticks"
 
 w: <<tie_down>>
 w: <<tie_up>>
-w: <<bind7>> drf [[file:adj.all.org::bindable]]
+w: <<bind7>> drf [[file:adjs.all.org::bindable]]
 w: <<truss2>>
 entail: [[fasten1]]
 hyper: [[restrain]]
@@ -10365,7 +10359,7 @@ fr: 8
 g: finish the last row
 
 w: <<tie>> instrument [[file:noun.artifact.org::tier1]] instrument [[file:noun.artifact.org::tie4]] instrument [[file:noun.artifact.org::tie]] agent [[file:noun.person.org::tier]] drf [[file:noun.artifact.org::tie]] drf [[file:noun.artifact.org::tie4]] drf [[file:noun.person.org::tier]] drf [[file:noun.artifact.org::tier1]] drf [[file:noun.act.org::tying]] ant [[untie]] see [[tie_down]] see [[tie_up]]
-w: <<bind1>> instrument [[file:noun.artifact.org::binder3]] drf [[file:adj.all.org::bindable]] drf [[file:noun.artifact.org::binder3]]
+w: <<bind1>> instrument [[file:noun.artifact.org::binder3]] drf [[file:adjs.all.org::bindable]] drf [[file:noun.artifact.org::binder3]]
 hyper: [[fasten1]]
 fr: 8 9 15 20 21
 g: fasten or secure with a rope, string, or cord; "They tied their victim to the chair"
@@ -10542,7 +10536,7 @@ fr: 8
 g: bend a joint; "flex your wrists"; "bend your knees"
 
 w: <<flex2>> drf [[file:adj.all.org::flexible1]]
-w: <<bend>> result [[file:noun.shape.org::bend1]] instrument [[file:noun.artifact.org::bender]] drf [[file:adj.all.org::bendable]] drf [[file:noun.artifact.org::bender]] drf [[file:noun.shape.org::bend1]] ant [[unbend]]
+w: <<bend>> result [[file:noun.shape.org::bend1]] instrument [[file:noun.artifact.org::bender]] drf [[file:adjs.all.org::bendable]] drf [[file:noun.artifact.org::bender]] drf [[file:noun.shape.org::bend1]] ant [[unbend]]
 w: <<deform1>> event [[file:noun.event.org::deformation1]] event [[file:noun.act.org::deformation]] drf [[file:noun.event.org::deformation1]] drf [[file:noun.act.org::deformation]]
 w: <<twist2>>
 w: <<turn11>>
@@ -11408,7 +11402,7 @@ hyper: [[file:verb.change.org::remove]]
 fr: 11
 g: diminish, as by friction; "Erosion wore away the surface"
 
-w: <<abrade>> location [[file:noun.state.org::abrasion]] event [[file:noun.process.org::abrasion]] event [[file:noun.phenomenon.org::abrasion]] agent [[file:noun.artifact.org::abrader]] drf [[file:adj.all.org::abrasive]] drf [[file:noun.state.org::abrasion]] drf [[file:noun.process.org::abrasion]] drf [[file:noun.phenomenon.org::abrasion]] drf [[file:noun.substance.org::abradant]] drf [[file:noun.artifact.org::abradant]] drf [[file:noun.artifact.org::abrader]]
+w: <<abrade>> location [[file:noun.state.org::abrasion]] event [[file:noun.process.org::abrasion]] event [[file:noun.phenomenon.org::abrasion]] agent [[file:noun.artifact.org::abrader]] drf [[file:adjs.all.org::abrasive]] drf [[file:noun.state.org::abrasion]] drf [[file:noun.process.org::abrasion]] drf [[file:noun.phenomenon.org::abrasion]] drf [[file:noun.substance.org::abradant]] drf [[file:noun.artifact.org::abradant]] drf [[file:noun.artifact.org::abrader]]
 w: <<corrade>> event [[file:noun.process.org::corrasion]] drf [[file:noun.process.org::corrasion]]
 w: <<abrase>>
 w: <<rub_down>> drf [[file:noun.act.org::rubdown]]
@@ -11493,7 +11487,7 @@ fr: 21
 g: spread or daub (a surface)
 
 w: <<scour>> location [[file:noun.location.org::scour]] drf [[file:noun.location.org::scour]]
-w: <<abrade1>> agent [[file:noun.artifact.org::abrader]] drf [[file:adj.all.org::abrasive]] drf [[file:noun.artifact.org::abrader]]
+w: <<abrade1>> agent [[file:noun.artifact.org::abrader]] drf [[file:adjs.all.org::abrasive]] drf [[file:noun.artifact.org::abrader]]
 hyper: [[rub]]
 fr: 8 11
 g: rub hard or scrub; "scour the counter tops"
@@ -12238,11 +12232,11 @@ hyper: [[permeate1]]
 fr: 10 11
 g: imbue with a spirit
 
-w: <<permeate1>> event [[file:noun.process.org::permeation]] event [[file:noun.act.org::permeation]] drf [[file:adj.all.org::permeative]] drf [[file:adj.all.org::permeant]] drf [[file:noun.process.org::permeation]] drf [[file:noun.act.org::permeation]]
-w: <<pervade>> event [[file:noun.process.org::pervasion]] drf [[file:adj.all.org::pervasive]] drf [[file:noun.process.org::pervasion]]
-w: <<penetrate5>> drf [[file:adj.all.org::penetrative]]
+w: <<permeate1>> event [[file:noun.process.org::permeation]] event [[file:noun.act.org::permeation]] drf [[file:adjs.all.org::permeative]] drf [[file:adjs.all.org::permeant]] drf [[file:noun.process.org::permeation]] drf [[file:noun.act.org::permeation]]
+w: <<pervade>> event [[file:noun.process.org::pervasion]] drf [[file:adjs.all.org::pervasive]] drf [[file:noun.process.org::pervasion]]
+w: <<penetrate5>> drf [[file:adjs.all.org::penetrative]]
 w: <<interpenetrate3>> event [[file:noun.act.org::interpenetration]] drf [[file:noun.act.org::interpenetration]]
-w: <<diffuse>> instrument [[file:noun.artifact.org::diffusor1]] instrument [[file:noun.artifact.org::diffusor]] event [[file:noun.act.org::diffusion]] drf [[file:adj.all.org::diffusive]] drf [[file:noun.act.org::diffusion]] drf [[file:noun.artifact.org::diffusor1]] drf [[file:noun.artifact.org::diffusor]]
+w: <<diffuse>> instrument [[file:noun.artifact.org::diffusor1]] instrument [[file:noun.artifact.org::diffusor]] event [[file:noun.act.org::diffusion]] drf [[file:adjs.all.org::diffusive]] drf [[file:noun.act.org::diffusion]] drf [[file:noun.artifact.org::diffusor1]] drf [[file:noun.artifact.org::diffusor]]
 w: <<imbue>>
 w: <<riddle2>>
 hyper: [[penetrate]]
@@ -12361,7 +12355,7 @@ hyper: [[operate]]
 fr: 8
 g: alter the functioning or setting of; "turn the dial to 10"; "turn the heat down"
 
-w: <<operate>> event [[file:noun.act.org::operation7]] agent [[file:noun.person.org::operator]] drf [[file:adj.all.org::operative]] drf [[file:noun.act.org::operation7]] drf [[file:noun.person.org::operator]]
+w: <<operate>> event [[file:noun.act.org::operation7]] agent [[file:noun.person.org::operator]] drf [[file:adjs.all.org::operative]] drf [[file:noun.act.org::operation7]] drf [[file:noun.person.org::operator]]
 w: <<control>> event [[file:noun.act.org::control2]] by-means-of [[file:noun.artifact.org::control]] drf [[file:noun.artifact.org::control]] drf [[file:noun.act.org::control2]]
 vg: [[file:verb.cognition.org::master]]
 hyper: [[manipulate]]
@@ -12451,7 +12445,7 @@ hyper: [[hold]]
 fr: 8 9
 g: hold gently and carefully; "He cradles the child in his arms"
 
-w: <<agglutinate1>> event [[file:noun.process.org::agglutination]] drf [[file:adj.all.org::agglutinative]] drf [[file:noun.process.org::agglutination]]
+w: <<agglutinate1>> event [[file:noun.process.org::agglutination]] drf [[file:adjs.all.org::agglutinative]] drf [[file:noun.process.org::agglutination]]
 hyper: [[attach]]
 fr: 1
 g: string together (morphemes in an agglutinating language)
@@ -12479,9 +12473,9 @@ g: fit tightly, follow the contours of; "The dress molds her beautiful figure"
 
 w: <<cling>>
 w: <<cleave2>>
-w: <<adhere1>> property [[file:noun.attribute.org::adhesion]] drf [[file:adj.all.org::adherent]] drf [[file:noun.attribute.org::adhesion]]
+w: <<adhere1>> property [[file:noun.attribute.org::adhesion]] drf [[file:adjs.all.org::adherent]] drf [[file:noun.attribute.org::adhesion]]
 w: <<stick1>>
-w: <<cohere>> state [[file:noun.state.org::cohesion]] state [[file:noun.state.org::coherence]] drf [[file:adj.all.org::cohesive]] drf [[file:adj.all.org::coherent]] drf [[file:noun.state.org::cohesion]] drf [[file:noun.state.org::coherency]] drf [[file:noun.state.org::coherence]]
+w: <<cohere>> state [[file:noun.state.org::cohesion]] state [[file:noun.state.org::coherence]] drf [[file:adjs.all.org::cohesive]] drf [[file:adjs.all.org::coherent]] drf [[file:noun.state.org::cohesion]] drf [[file:noun.state.org::coherency]] drf [[file:noun.state.org::coherence]]
 vg: [[adhere]]
 entail: [[attach]]
 hyper: [[touch1]]
@@ -12565,7 +12559,7 @@ hyper: [[hold1]]
 fr: 8 11
 g: support on poles; "pole climbing plants like beans"
 
-w: <<buoy>> drf [[file:adj.all.org::buoyant]]
+w: <<buoy>> drf [[file:adjs.all.org::buoyant]]
 w: <<buoy_up>>
 hyper: [[hold1]]
 fr: 10 11
@@ -12908,7 +12902,7 @@ fr: 1 8 9 11 20 21
 g: make physical contact with, come in contact with; "Touch the stone for good luck"; "She never touched her husband"
 
 w: <<touch1>> event [[file:noun.event.org::touch]] drf [[file:noun.event.org::touch]]
-w: <<adjoin3>> event [[file:noun.act.org::adjunction]] drf [[file:adj.all.org::adjunctive]] drf [[file:noun.act.org::adjunction]]
+w: <<adjoin3>> event [[file:noun.act.org::adjunction]] drf [[file:adjs.all.org::adjunctive]] drf [[file:noun.act.org::adjunction]]
 w: <<meet>>
 w: <<contact3>> state [[file:noun.state.org::contact]] event [[file:noun.event.org::contact]] event [[file:noun.act.org::contact]] drf [[file:noun.state.org::contact]] drf [[file:noun.event.org::contact]] drf [[file:noun.act.org::contact]]
 vg: [[file:verb.stative.org::converge]]

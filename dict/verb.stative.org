@@ -41,7 +41,7 @@ hyper: [[live6]]
 fr: 2
 g: choose a simpler life style after questioning personal and career satisfaction goals; "After 3 decades in politics, she cashed out and moved to Polynesia"
 
-w: <<resist4>> drf [[file:adj.all.org::resistant]]
+w: <<resist4>> drf [[file:adjs.all.org::resistant]]
 w: <<reject4>>
 w: <<refuse4>>
 hyper: [[file:verb.cognition.org::react]]
@@ -90,7 +90,7 @@ hyper: [[be3]]
 fr: 4 22
 g: be averse to or express disapproval of; "My wife objects to modern furniture"
 
-w: <<cohere1>> drf [[file:adj.all.org::cohesive]] drf [[file:adj.all.org::coherent]]
+w: <<cohere1>> drf [[file:adjs.all.org::cohesive]] drf [[file:adj.all.org::coherent]]
 cause: [[cohere]]
 hyper: [[file:verb.change.org::change1]]
 fr: 11
@@ -186,7 +186,7 @@ hyper: [[be3]]
 fr: 22
 g: have its essential character; be comprised or contained in; be embodied in; "The payment consists in food"; "What does love consist in?"
 
-w: <<assonate>> event [[file:noun.communication.org::assonance]] drf [[file:adj.all.org::assonant]] drf [[file:adj.all.org::assonant]] drf [[file:noun.communication.org::assonance]]
+w: <<assonate>> event [[file:noun.communication.org::assonance]] drf [[file:adjs.all.org::assonant]] drf [[file:adjs.all.org::assonant]] drf [[file:noun.communication.org::assonance]]
 hyper: [[rhyme]]
 fr: 1
 g: correspond in vowel sounds; rhyme in assonance; "The accented vowels assonated in this poem"
@@ -234,7 +234,7 @@ g: be an ornament to; "stars ornamented the Christmas tree"
 
 w: <<deck>>
 w: <<adorn>> by-means-of [[file:noun.artifact.org::adornment]] drf [[file:noun.artifact.org::adornment]]
-w: <<decorate>> event [[file:noun.act.org::decoration]] by-means-of [[file:noun.artifact.org::decoration]] drf [[file:adj.all.org::decorative]] drf [[file:noun.artifact.org::decoration]] drf [[file:noun.act.org::decoration]]
+w: <<decorate>> event [[file:noun.act.org::decoration]] by-means-of [[file:noun.artifact.org::decoration]] drf [[file:adjs.all.org::decorative]] drf [[file:noun.artifact.org::decoration]] drf [[file:noun.act.org::decoration]]
 w: <<grace>> property [[file:noun.attribute.org::grace1]] drf [[file:noun.attribute.org::grace1]]
 w: <<embellish>>
 w: <<beautify>> property [[file:noun.attribute.org::beauty]] event [[file:noun.act.org::beautification]] drf [[file:noun.act.org::beautification]] drf [[file:noun.attribute.org::beauty]]
@@ -337,8 +337,8 @@ hyper: [[be3]]
 fr: 7
 g: show a certain characteristic when tested; "He tested positive for HIV"
 
-w: <<admit6>> drf [[file:adj.all.org::admissive]]
-w: <<allow7>> drf [[file:adj.all.org::allowable]]
+w: <<admit6>> drf [[file:adjs.all.org::admissive]]
+w: <<allow7>> drf [[file:adjs.all.org::allowable]]
 vg: [[leave1]]
 fr: 4
 g: afford possibility; "This problem admits of no solution"; "This short story allows of several different interpretations"
@@ -372,7 +372,7 @@ w: <<open>> drf [[file:noun.object.org::opening]] drf [[file:noun.body.org::open
 fr: 4
 g: have an opening or passage or outlet; "The bedrooms open into the hall"
 
-w: <<afford>> drf [[file:adj.all.org::affordable]]
+w: <<afford>> drf [[file:adjs.all.org::affordable]]
 fr: 8
 g: have the financial means to do something or buy something; "We can't afford to send our children to college"; "Can you afford this car?"
 
@@ -531,7 +531,7 @@ g: enhance by contrast; "In this picture, the figures are foiled against the bac
 
 w: <<meet>>  fr 4 22
 w: <<encounter2>>
-w: <<receive>> drf [[file:adj.all.org::receptive]] drf [[file:adj.all.org::receptive]]
+w: <<receive>> drf [[file:adjs.all.org::receptive]] drf [[file:adj.all.org::receptive]]
 hyper: [[file:verb.change.org::have1]]
 fr: 8 11
 g: experience as a reaction; "My proposal met with much opposition"
@@ -597,7 +597,7 @@ hyper: [[be3]]
 fr: 4 22
 g: be rightly classified in a class or category; "The whales belong among the mammals"
 
-w: <<derive>> property [[file:noun.attribute.org::derivation]] location [[file:noun.location.org::derivation]] drf [[file:adj.all.org::derivative]] drf [[file:noun.location.org::derivation]] drf [[file:noun.attribute.org::derivation]]
+w: <<derive>> property [[file:noun.attribute.org::derivation]] location [[file:noun.location.org::derivation]] drf [[file:adjs.all.org::derivative]] drf [[file:noun.location.org::derivation]] drf [[file:noun.attribute.org::derivation]]
 w: <<come15>>
 w: <<descend>> drf [[file:noun.relation.org::descent]] drf [[file:noun.group.org::descent]] drf [[file:noun.person.org::descendent]] drf [[file:noun.person.org::descendant]]
 vg: [[hail]]
@@ -611,7 +611,7 @@ fr: 2
 g: be relaxed; "Don't be so worried all the time--just let go!"
 
 w: <<define3>> result [[file:noun.attribute.org::definition]] drf [[file:noun.attribute.org::definition]] drf [[file:noun.process.org::defining]]
-w: <<delineate1>> result [[file:noun.artifact.org::delineation]] event [[file:noun.act.org::delineation]] drf [[file:adj.all.org::delineative]] drf [[file:noun.artifact.org::delineation]] drf [[file:noun.act.org::delineation]]
+w: <<delineate1>> result [[file:noun.artifact.org::delineation]] event [[file:noun.act.org::delineation]] drf [[file:adjs.all.org::delineative]] drf [[file:noun.artifact.org::delineation]] drf [[file:noun.act.org::delineation]]
 hyper: [[file:verb.perception.org::show]]
 fr: 11
 g: show the form or outline of; "The tree was clearly defined by the light"; "The camera could define the smallest object"
@@ -647,7 +647,7 @@ fr: 5 6
 g: conform to some shape or size; "How does this shirt fit?"
 
 w: <<end1>> event [[file:noun.time.org::end]] event [[file:noun.state.org::end]] event [[file:noun.event.org::end]] event [[file:noun.communication.org::end]] event [[file:noun.cognition.org::end]] drf [[file:noun.communication.org::end]] drf [[file:noun.state.org::end]] drf [[file:noun.cognition.org::end]] drf [[file:noun.time.org::end]] drf [[file:noun.event.org::end]] drf [[file:noun.time.org::ending]] drf [[file:noun.event.org::ending]]
-w: <<terminate5>> drf [[file:adj.all.org::terminative]] drf [[file:noun.cognition.org::terminus]]
+w: <<terminate5>> drf [[file:adjs.all.org::terminative]] drf [[file:noun.cognition.org::terminus]]
 hyper: [[be3]]
 fr: 11
 g: be the end of; be the last or concluding part of; "This sad scene ended the movie"
@@ -688,12 +688,12 @@ hyper: [[be3]]
 fr: 6 7
 g: be and remain in a particular state or condition; "lie dormant"
 
-w: <<opalesce>> property [[file:noun.attribute.org::opalescence]] drf [[file:adj.all.org::opalescent]] drf [[file:noun.attribute.org::opalescence]]
+w: <<opalesce>> property [[file:noun.attribute.org::opalescence]] drf [[file:adjs.all.org::opalescent]] drf [[file:noun.attribute.org::opalescence]]
 hyper: [[iridesce]]
 fr: 1
 g: exhibit a play of colors like that of an opal; "This nitrate opalesces under certain conditions"
 
-w: <<iridesce>> property [[file:noun.attribute.org::iridescence]] drf [[file:adj.all.org::iridescent]] drf [[file:adj.all.org::iridescent]] drf [[file:noun.attribute.org::iridescence]]
+w: <<iridesce>> property [[file:noun.attribute.org::iridescence]] drf [[file:adjs.all.org::iridescent]] drf [[file:adjs.all.org::iridescent]] drf [[file:noun.attribute.org::iridescence]]
 hyper: [[be3]]
 fr: 1
 g: be iridescent; "The corals iridesced under the surface of the clear water"
@@ -708,7 +708,7 @@ hyper: [[run]]
 fr: 1
 g: extend in importance or range; "His accomplishments go far"
 
-w: <<resplend>> event [[file:noun.attribute.org::resplendence]] drf [[file:adj.all.org::resplendent]] drf [[file:noun.attribute.org::resplendency]] drf [[file:noun.attribute.org::resplendence]]
+w: <<resplend>> event [[file:noun.attribute.org::resplendence]] drf [[file:adjs.all.org::resplendent]] drf [[file:noun.attribute.org::resplendency]] drf [[file:noun.attribute.org::resplendence]]
 hyper: [[file:verb.weather.org::reflect]]
 fr: 1
 g: be resplendent or radiant; to shine brightly; "The Queen's garments resplended in velvet and jewels"
@@ -727,7 +727,7 @@ g: maintain in safety from injury, harm, or danger; "May God keep you"
 
 w: <<accommodate3>>
 w: <<hold5>>
-w: <<admit4>> drf [[file:adj.all.org::admittible]]
+w: <<admit4>> drf [[file:adjs.all.org::admittible]]
 vg: [[contain14]]
 fr: 10 11
 g: have room for; hold without crowding; "This hotel can accommodate 250 guests"; "The theater admits 300 people"; "The auditorium can't hold more than 500 people"
@@ -949,18 +949,18 @@ hyper: [[be3]]
 fr: 1
 g: be useful for a certain purpose
 
-w: <<stagnate1>> state [[file:noun.state.org::stagnation]] drf [[file:adj.all.org::stagnant]] drf [[file:noun.state.org::stagnation]]
+w: <<stagnate1>> state [[file:noun.state.org::stagnation]] drf [[file:adjs.all.org::stagnant]] drf [[file:noun.state.org::stagnation]]
 hyper: [[be3]]
 fr: 1
 g: stand still; "Industry will stagnate if we do not stimulate our economy"
 
-w: <<stagnate2>> state [[file:noun.state.org::stagnation]] event [[file:noun.state.org::stagnation1]] drf [[file:adj.all.org::stagnant]] drf [[file:noun.state.org::stagnation]] drf [[file:noun.state.org::stagnation1]] drf [[file:noun.state.org::stagnancy1]]
+w: <<stagnate2>> state [[file:noun.state.org::stagnation]] event [[file:noun.state.org::stagnation1]] drf [[file:adjs.all.org::stagnant]] drf [[file:noun.state.org::stagnation]] drf [[file:noun.state.org::stagnation1]] drf [[file:noun.state.org::stagnancy1]]
 vg: [[stagnate]]
 hyper: [[file:verb.change.org::change]]
 fr: 11
 g: cause to stagnate; "There are marshes that stagnate the waters"
 
-w: <<stagnate>> event [[file:noun.state.org::stagnation1]] drf [[file:adj.all.org::stagnant]] drf [[file:noun.state.org::stagnation1]] drf [[file:noun.state.org::stagnancy1]]
+w: <<stagnate>> event [[file:noun.state.org::stagnation1]] drf [[file:adjs.all.org::stagnant]] drf [[file:noun.state.org::stagnation1]] drf [[file:noun.state.org::stagnancy1]]
 hyper: [[be3]]
 vg: [[stagnate2]]
 fr: 1
@@ -1013,13 +1013,13 @@ hyper: [[be5]]
 fr: 11
 g: have as a center; "The region centers on Charleston"
 
-w: <<elude>> drf [[file:adj.all.org::elusive]] drf [[file:adj.all.org::elusive]]
+w: <<elude>> drf [[file:adjs.all.org::elusive]] drf [[file:adjs.all.org::elusive]]
 w: <<escape>>
 hyper: [[file:verb.cognition.org::perplex]]
 fr: 10
 g: be incomprehensible to; escape understanding by; "What you are seeing in him eludes me"
 
-w: <<ramp>> drf [[file:adj.all.org::rampant]] drf [[file:noun.act.org::rampage]]
+w: <<ramp>> drf [[file:adjs.all.org::rampant]] drf [[file:noun.act.org::rampage]]
 w: <<rage1>> state [[file:noun.feeling.org::rage]] event [[file:noun.state.org::rage]] drf [[file:noun.state.org::rage]] drf [[file:noun.feeling.org::rage]]
 w: <<storm>> event [[file:noun.state.org::storm]] drf [[file:noun.state.org::storm]]
 hyper: [[file:verb.body.org::act]]
@@ -1160,7 +1160,7 @@ g: be wide open; "the deep gaping canyon"
 
 w: <<disagree>> ant [[agree]]
 w: <<disaccord>>
-w: <<discord>> event [[file:noun.act.org::discordance]] event [[file:noun.state.org::discord]] drf [[file:adj.all.org::discordant]] drf [[file:adj.all.org::discordant]] drf [[file:noun.state.org::discord]] drf [[file:noun.act.org::discordance]]
+w: <<discord>> event [[file:noun.act.org::discordance]] event [[file:noun.state.org::discord]] drf [[file:adjs.all.org::discordant]] drf [[file:adj.all.org::discordant]] drf [[file:noun.state.org::discord]] drf [[file:noun.act.org::discordance]]
 hyper: [[be3]]
 fr: 1
 g: be different from one another
@@ -1227,7 +1227,7 @@ hyper: [[file:verb.social.org::consort12]]
 fr: 9 10
 g: be a companion to somebody
 
-w: <<attend1>> drf [[file:adj.all.org::attendant]]
+w: <<attend1>> drf [[file:adjs.all.org::attendant]]
 hyper: [[attach_to1]]
 fr: 11
 g: to accompany as a circumstance or follow as a result; "Menuhin's playing was attended by a 15-minute standing ovation"
@@ -1285,12 +1285,12 @@ hyper: [[stick_out1]]
 fr: 1
 g: project as a cantilever
 
-w: <<protuberate1>> result [[file:noun.shape.org::protuberance]] drf [[file:adj.all.org::protuberant]] drf [[file:noun.shape.org::protuberance]]
+w: <<protuberate1>> result [[file:noun.shape.org::protuberance]] drf [[file:adjs.all.org::protuberant]] drf [[file:noun.shape.org::protuberance]]
 vg: [[protuberate]]
 fr: 11
 g: cause to bulge out or project
 
-w: <<protuberate>> property [[file:noun.state.org::protuberance]] drf [[file:adj.all.org::protuberant]] drf [[file:noun.state.org::protuberance]]
+w: <<protuberate>> property [[file:noun.state.org::protuberance]] drf [[file:adjs.all.org::protuberant]] drf [[file:noun.state.org::protuberance]]
 hyper: [[bulge]]
 vg: [[protuberate1]]
 fr: 1
@@ -1327,7 +1327,7 @@ fr: 1 4
 g: project over
 
 w: <<stick_out1>>
-w: <<protrude>> event [[file:noun.act.org::protrusion]] drf [[file:adj.all.org::protrusible]] drf [[file:adj.all.org::protrusive]] drf [[file:noun.act.org::protrusion]]
+w: <<protrude>> event [[file:noun.act.org::protrusion]] drf [[file:adjs.all.org::protrusible]] drf [[file:adj.all.org::protrusive]] drf [[file:noun.act.org::protrusion]]
 w: <<jut_out>>
 w: <<jut>> drf [[file:noun.act.org::jutting]]
 w: <<project>> event [[file:noun.act.org::projection2]] drf [[file:noun.act.org::projection2]]
@@ -1358,7 +1358,7 @@ fr: 11
 g: be later in time; "Tuesday always follows Monday"
 
 w: <<predate>> ant [[postdate]]
-w: <<precede>> event [[file:noun.act.org::precession]] event [[file:noun.attribute.org::precedence]] drf [[file:adj.all.org::precedent]] drf [[file:noun.act.org::precession]] drf [[file:noun.cognition.org::precedent]] drf [[file:noun.attribute.org::precedency]] drf [[file:noun.attribute.org::precedence]]
+w: <<precede>> event [[file:noun.act.org::precession]] event [[file:noun.attribute.org::precedence]] drf [[file:adjs.all.org::precedent]] drf [[file:noun.act.org::precession]] drf [[file:noun.cognition.org::precedent]] drf [[file:noun.attribute.org::precedency]] drf [[file:noun.attribute.org::precedence]]
 w: <<forego>>
 w: <<forgo>>
 w: <<antecede>> event [[file:noun.attribute.org::antecedence]] drf [[file:noun.attribute.org::antecedency]] drf [[file:noun.event.org::antecedent]] drf [[file:noun.attribute.org::antecedence]]
@@ -1517,7 +1517,7 @@ fr: 11
 g: be beyond the resources of; "This beggars description!"
 
 w: <<lend_oneself>> ant [[defy1]]
-w: <<apply1>> event [[file:noun.act.org::application2]] drf [[file:adj.all.org::applicative]] drf [[file:adj.all.org::applicable]] drf [[file:adj.all.org::applicatory]] drf [[file:noun.act.org::application2]]
+w: <<apply1>> event [[file:noun.act.org::application2]] drf [[file:adjs.all.org::applicative]] drf [[file:adjs.all.org::applicable]] drf [[file:adjs.all.org::applicatory]] drf [[file:noun.act.org::application2]]
 vg: [[apply]]
 fr: 4
 g: be applicable to; as to an analysis; "This theory lends itself well to our new data"
@@ -1562,7 +1562,7 @@ g: be uncertain and vague
 
 w: <<hover>>
 w: <<vibrate3>>
-w: <<vacillate>> event [[file:noun.cognition.org::vacillation]] agent [[file:noun.person.org::vacillator]] drf [[file:adj.all.org::vacillant]] drf [[file:noun.cognition.org::vacillation]] drf [[file:noun.person.org::vacillator]]
+w: <<vacillate>> event [[file:noun.cognition.org::vacillation]] agent [[file:noun.person.org::vacillator]] drf [[file:adjs.all.org::vacillant]] drf [[file:noun.cognition.org::vacillation]] drf [[file:noun.person.org::vacillator]]
 w: <<oscillate>> event [[file:noun.process.org::oscillation]] drf [[file:noun.process.org::oscillation]]
 hyper: [[hesitate]]
 fr: 2
@@ -1680,7 +1680,7 @@ fr: 1
 g: be in effect; be or remain in force; "The law stands!"
 
 w: <<suit5>>
-w: <<accommodate>> event [[file:noun.event.org::accommodation]] drf [[file:adj.all.org::accommodative]] drf [[file:noun.event.org::accommodation]]
+w: <<accommodate>> event [[file:noun.event.org::accommodation]] drf [[file:adjs.all.org::accommodative]] drf [[file:noun.event.org::accommodation]]
 w: <<fit5>> agent [[file:noun.person.org::fitter]] drf [[file:noun.person.org::fitter]]
 hyper: [[meet1]]
 fr: 10
@@ -1771,7 +1771,7 @@ w: <<consort>>
 w: <<accord>> event [[file:noun.attribute.org::accord]] drf [[file:adj.all.org::accordant]] drf [[file:noun.attribute.org::accord]]
 w: <<concord>> state [[file:noun.state.org::concord]] drf [[file:noun.state.org::concord]]
 w: <<fit_in>>
-w: <<agree1>> drf [[file:adj.all.org::agreeable]]
+w: <<agree1>> drf [[file:adjs.all.org::agreeable]]
 hyper: [[match]]
 vg: [[match]]
 fr: 1 2 4
@@ -1791,7 +1791,7 @@ g: be homologous; "A person's arms homologize with a quadruped's forelimbs"
 
 w: <<represent2>> event [[file:noun.act.org::representation]] drf [[file:noun.act.org::representation]]
 w: <<stand_for>>
-w: <<correspond1>> drf [[file:adj.all.org::correspondent]] fr 4
+w: <<correspond1>> drf [[file:adjs.all.org::correspondent]] fr 4
 hyper: [[equal]]
 fr: 11
 g: take the place of or be parallel or equivalent to; "Because of the sound changes in the course of history, an 'h' in Greek stands for an 's' in Latin"
@@ -1999,7 +1999,7 @@ hyper: [[be5]]
 fr: 1 4
 g: be around, often idly or without specific purpose; "The object sat in the corner"; "We sat around chatting for another hour"
 
-w: <<precede1>> event [[file:noun.act.org::precession]] drf [[file:adj.all.org::precedent]] drf [[file:noun.act.org::precession]] drf [[file:noun.communication.org::precedent2]]
+w: <<precede1>> event [[file:noun.act.org::precession]] drf [[file:adjs.all.org::precedent]] drf [[file:noun.act.org::precession]] drf [[file:noun.communication.org::precedent2]]
 w: <<predate1>>
 hyper: [[lie]]
 fr: 11
@@ -2075,7 +2075,7 @@ hyper: [[reach]]
 fr: 11
 g: run into or up to
 
-w: <<extend2>> drf [[file:adj.all.org::extensible]] drf [[file:adj.all.org::extendible]]
+w: <<extend2>> drf [[file:adj.all.org::extensible]] drf [[file:adjs.all.org::extendible]]
 w: <<poke_out>>
 w: <<reach_out>>
 hyper: [[be5]]
@@ -2307,7 +2307,7 @@ fr: 8
 g: keep in a position or state from an earlier period of time
 
 w: <<keep>> see [[file:verb.social.org::keep_in]] see [[file:verb.social.org::keep_out]] see [[file:verb.consumption.org::keep_off]] see [[keep_up]] see [[file:verb.communication.org::keep_off]] see [[file:verb.change.org::keep_down]] see [[file:verb.change.org::keep_apart]] see [[file:verb.competition.org::keep_up]]
-w: <<maintain>> agent [[file:noun.person.org::maintainer]] drf [[file:adj.all.org::maintainable]] drf [[file:noun.person.org::maintainer]]
+w: <<maintain>> agent [[file:noun.person.org::maintainer]] drf [[file:adjs.all.org::maintainable]] drf [[file:noun.person.org::maintainer]]
 w: <<hold>> see [[file:verb.competition.org::hold_back]] see [[file:verb.competition.org::hold_out]] see [[hold_over]] see [[hold_out]] see [[file:verb.change.org::hold_up]]
 fr: 5 20 21
 g: keep in a certain state, position, or activity; e.g., "keep clean"; "hold in place"; "She always held herself as a lady"; "The students keep me on my toes"
@@ -2443,7 +2443,7 @@ hyper: [[refer]]
 fr: 9 10 11
 g: connect closely and often incriminatingly; "This new ruling affects your business"
 
-w: <<apply>> drf [[file:adj.all.org::applicative]] drf [[file:adj.all.org::applicable]]
+w: <<apply>> drf [[file:adjs.all.org::applicative]] drf [[file:adjs.all.org::applicable]]
 w: <<hold4>>
 w: <<go_for>>  fr 10 11
 vg: [[lend_oneself]]
@@ -2462,7 +2462,7 @@ fr: 10 11
 g: center upon; "Her entire attention centered on her children"; "Our day revolved around our work"
 
 w: <<refer>> event [[file:noun.cognition.org::reference]] drf [[file:noun.cognition.org::reference]] fr 4
-w: <<pertain1>> property [[file:noun.relation.org::pertinence]] drf [[file:adj.all.org::pertinent]] drf [[file:noun.relation.org::pertinency]] drf [[file:noun.relation.org::pertinence]] fr 4
+w: <<pertain1>> property [[file:noun.relation.org::pertinence]] drf [[file:adjs.all.org::pertinent]] drf [[file:noun.relation.org::pertinency]] drf [[file:noun.relation.org::pertinence]] fr 4
 w: <<relate>>  fr 4
 w: <<concern>>
 w: <<come_to3>>
@@ -2541,7 +2541,7 @@ hyper: [[be3]]
 fr: 1 2
 g: be extremely bad in quality or in one's performance; "This term paper stinks!"
 
-w: <<excel>> property [[file:noun.attribute.org::excellence]] drf [[file:adj.all.org::excellent]] drf [[file:noun.attribute.org::excellence]]
+w: <<excel>> property [[file:noun.attribute.org::excellence]] drf [[file:adjs.all.org::excellent]] drf [[file:noun.attribute.org::excellence]]
 w: <<stand_out>>
 w: <<surpass>>
 fr: 1 2
@@ -2577,7 +2577,7 @@ g: make up for shortcomings or a feeling of inferiority by exaggerating good qua
 
 w: <<compensate>> event [[file:noun.act.org::compensation]] drf [[file:noun.act.org::compensation]]
 w: <<counterbalance1>> by-means-of [[file:noun.possession.org::counterbalance]] by-means-of [[file:noun.artifact.org::counterbalance]] drf [[file:noun.possession.org::counterbalance]] drf [[file:noun.artifact.org::counterbalance]]
-w: <<correct3>> drf [[file:adj.all.org::corrective]]
+w: <<correct3>> drf [[file:adjs.all.org::corrective]]
 w: <<make_up3>>
 w: <<even_out>>
 w: <<even_off>>
@@ -2595,7 +2595,7 @@ vg: [[file:verb.change.org::equal]]
 fr: 9 11
 g: be equal to in quality or ability; "Nothing can rival cotton for durability"; "Your performance doesn't even touch that of your colleagues"; "Her persistence and ambition only matches that of her parents"
 
-w: <<satisfy>> event [[file:noun.act.org::satisfaction]] by-means-of [[file:noun.object.org::satisfier]] drf [[file:adj.all.org::satisfactory]] drf [[file:adj.all.org::satisfactory]] drf [[file:noun.act.org::satisfaction]] drf [[file:noun.object.org::satisfier]] ant [[fall_short_of]]
+w: <<satisfy>> event [[file:noun.act.org::satisfaction]] by-means-of [[file:noun.object.org::satisfier]] drf [[file:adjs.all.org::satisfactory]] drf [[file:adj.all.org::satisfactory]] drf [[file:noun.act.org::satisfaction]] drf [[file:noun.object.org::satisfier]] ant [[fall_short_of]]
 w: <<fulfill>> event [[file:noun.act.org::fulfillment]] drf [[file:noun.act.org::fulfillment]]
 w: <<fulfil>> event [[file:noun.act.org::fulfilment]] drf [[file:noun.act.org::fulfilment]]
 w: <<live_up_to>>
@@ -2617,7 +2617,7 @@ hyper: [[serve3]]
 fr: 11
 g: serve as a prelude or opening to
 
-w: <<admit3>> by-means-of [[file:noun.possession.org::admission]] drf [[file:adj.all.org::admittible]] drf [[file:adj.all.org::admittable]] drf [[file:noun.possession.org::admission]]
+w: <<admit3>> by-means-of [[file:noun.possession.org::admission]] drf [[file:adjs.all.org::admittible]] drf [[file:adjs.all.org::admittable]] drf [[file:noun.possession.org::admission]]
 hyper: [[serve]]
 vg: [[file:verb.social.org::admit1]]
 fr: 10 11
@@ -2662,13 +2662,13 @@ fr: 1
 g: grow too large
 
 w: <<exceed1>>
-w: <<transcend>> state [[file:noun.state.org::transcendence2]] drf [[file:adj.all.org::transcendent]] drf [[file:noun.state.org::transcendence2]] drf [[file:adj.all.org::transcendent]]
+w: <<transcend>> state [[file:noun.state.org::transcendence2]] drf [[file:adjs.all.org::transcendent]] drf [[file:noun.state.org::transcendence2]] drf [[file:adjs.all.org::transcendent]]
 w: <<surpass1>>
 fr: 11
 g: be greater in scope or size than some standard; "Their loyalty exceeds their national bonds"
 
-w: <<exceed>> drf [[file:adj.all.org::excessive]] drf [[file:noun.attribute.org::exceedance]]
-w: <<transcend1>> state [[file:noun.state.org::transcendence2]] drf [[file:adj.all.org::transcendent]] drf [[file:noun.state.org::transcendency2]] drf [[file:noun.state.org::transcendence2]] drf [[file:adj.all.org::transcendent]]
+w: <<exceed>> drf [[file:adjs.all.org::excessive]] drf [[file:noun.attribute.org::exceedance]]
+w: <<transcend1>> state [[file:noun.state.org::transcendence2]] drf [[file:adjs.all.org::transcendent]] drf [[file:noun.state.org::transcendency2]] drf [[file:noun.state.org::transcendence2]] drf [[file:adjs.all.org::transcendent]]
 w: <<overstep>>
 w: <<pass4>>
 w: <<go_past>>
@@ -2688,7 +2688,7 @@ hyper: [[violate]]
 fr: 11
 g: go against; "This action flies in the face of the agreement"
 
-w: <<violate>> event [[file:noun.act.org::violation4]] drf [[file:adj.all.org::violable]] drf [[file:adj.all.org::violative]] drf [[file:noun.act.org::violation4]] ant [[conform_to]]
+w: <<violate>> event [[file:noun.act.org::violation4]] drf [[file:adj.all.org::violable]] drf [[file:adjs.all.org::violative]] drf [[file:noun.act.org::violation4]] ant [[conform_to]]
 w: <<go_against>>
 w: <<break>>
 fr: 8 11
@@ -2737,7 +2737,7 @@ hyper: [[contrast]]
 fr: 1 4
 g: be in conflict; "The two proposals conflict!"
 
-w: <<contrast>> property [[file:noun.relation.org::contrast]] property [[file:noun.cognition.org::contrast1]] event [[file:noun.act.org::contrast]] drf [[file:adj.all.org::contrastive]] drf [[file:adj.all.org::contrastive]] drf [[file:noun.relation.org::contrast]] drf [[file:noun.cognition.org::contrast1]] drf [[file:noun.act.org::contrast]]
+w: <<contrast>> property [[file:noun.relation.org::contrast]] property [[file:noun.cognition.org::contrast1]] event [[file:noun.act.org::contrast]] drf [[file:adjs.all.org::contrastive]] drf [[file:adjs.all.org::contrastive]] drf [[file:noun.relation.org::contrast]] drf [[file:noun.cognition.org::contrast1]] drf [[file:noun.act.org::contrast]]
 w: <<counterpoint>>
 hyper: [[differ]]
 fr: 1 4
@@ -2756,11 +2756,11 @@ hyper: [[contrast]]
 fr: 9 11
 g: contrast with equal weight or force
 
-w: <<differ>> property [[file:noun.attribute.org::difference]] drf [[file:adj.all.org::different1]] drf [[file:adj.all.org::different]] drf [[file:adj.all.org::different]] drf [[file:adj.all.org::different2]] drf [[file:adj.all.org::different]] drf [[file:noun.attribute.org::difference]] ant [[equal]]
+w: <<differ>> property [[file:noun.attribute.org::difference]] drf [[file:adjs.all.org::different1]] drf [[file:adjs.all.org::different]] drf [[file:adjs.all.org::different]] drf [[file:adj.all.org::different2]] drf [[file:adj.all.org::different]] drf [[file:noun.attribute.org::difference]] ant [[equal]]
 fr: 1 4
 g: be different; "These two tests differ in only one respect"
 
-w: <<approximate>> drf [[file:adj.all.org::approximative]]
+w: <<approximate>> drf [[file:adjs.all.org::approximative]]
 w: <<come_close>>  fr 4
 hyper: [[resemble]]
 fr: 11
@@ -2819,7 +2819,7 @@ hyper: [[depend]]
 fr: 2
 g: depend on a small thing or be at risk; "His life now hangs by a thread"
 
-w: <<depend>> drf [[file:adj.all.org::dependent]] drf [[file:adj.all.org::dependant]]
+w: <<depend>> drf [[file:adjs.all.org::dependent]] drf [[file:adjs.all.org::dependant]]
 hyper: [[be3]]
 fr: 1
 g: be contingent upon (something that is elided); "That depends"
@@ -2844,7 +2844,7 @@ hyper: [[depend_on]]
 fr: 11
 g: be based on; of theories and claims, for example; "What's this new evidence based on?"
 
-w: <<corroborate>> event [[file:noun.communication.org::corroboration]] drf [[file:adj.all.org::corroborative]] drf [[file:adj.all.org::corroboratory]] drf [[file:noun.communication.org::corroboration]]
+w: <<corroborate>> event [[file:noun.communication.org::corroboration]] drf [[file:adjs.all.org::corroborative]] drf [[file:adjs.all.org::corroboratory]] drf [[file:noun.communication.org::corroboration]]
 w: <<underpin>>
 w: <<bear_out>>
 w: <<support>> uses [[file:noun.act.org::support2]] drf [[file:noun.act.org::support2]]
@@ -2852,7 +2852,7 @@ hyper: [[match]]
 fr: 8 11
 g: support with evidence or authority or make more certain or confirm; "The stories and claims were born out by the evidence"
 
-w: <<contradict>> drf [[file:adj.all.org::contradictory]] drf [[file:adj.all.org::contradictory]] drf [[file:adj.all.org::contradictory]] drf [[file:adj.all.org::contradictory]]
+w: <<contradict>> drf [[file:adjs.all.org::contradictory]] drf [[file:adjs.all.org::contradictory]] drf [[file:adjs.all.org::contradictory]] drf [[file:adjs.all.org::contradictory]]
 w: <<belie>>
 w: <<negate>> event [[file:noun.communication.org::negation2]] drf [[file:noun.communication.org::negation2]]
 hyper: [[deviate]]
@@ -2875,7 +2875,7 @@ dt: [[file:noun.cognition.org::statistics]]
 fr: 1
 g: vary in the same time period (of two random variables)
 
-w: <<vary1>> event [[file:noun.phenomenon.org::variation]] event [[file:noun.event.org::variation1]] drf [[file:adj.all.org::variable]] drf [[file:adj.all.org::variable]] drf [[file:adj.all.org::variant]] drf [[file:adj.all.org::variant]] drf [[file:noun.shape.org::variation]] drf [[file:noun.phenomenon.org::variation]] drf [[file:noun.event.org::variation1]] drf [[file:noun.cognition.org::variate]]
+w: <<vary1>> event [[file:noun.phenomenon.org::variation]] event [[file:noun.event.org::variation1]] drf [[file:adjs.all.org::variable]] drf [[file:adj.all.org::variable]] drf [[file:adjs.all.org::variant]] drf [[file:adjs.all.org::variant]] drf [[file:noun.shape.org::variation]] drf [[file:noun.phenomenon.org::variation]] drf [[file:noun.event.org::variation1]] drf [[file:noun.cognition.org::variate]]
 hyper: [[differ]]
 fr: 1
 g: be subject to change in accordance with a variable; "Prices vary"; "His moods vary depending on the weather"
@@ -2891,9 +2891,9 @@ dt: [[file:noun.cognition.org::optics]]
 fr: 1
 g: diverge or deviate from the straight path; produce aberration; "The surfaces of the concave lens may be proportioned so as to aberrate exactly equal to the convex lens"
 
-w: <<deviate>> event [[file:noun.event.org::deviation]] event [[file:noun.cognition.org::deviation]] event [[file:noun.attribute.org::deviation1]] event [[file:noun.act.org::deviation]] agent [[file:noun.person.org::deviate]] drf [[file:adj.all.org::deviant]] drf [[file:noun.person.org::deviate]] drf [[file:noun.event.org::deviation]] drf [[file:noun.cognition.org::deviation]] drf [[file:noun.attribute.org::deviation1]] drf [[file:noun.act.org::deviation]] drf [[file:noun.person.org::deviant]] ant [[conform6]] drf [[file:adj.all.org::deviate]]
-w: <<vary>> event [[file:noun.phenomenon.org::variation]] event [[file:noun.act.org::variation]] event [[file:noun.act.org::variance]] agent [[file:noun.person.org::variation]] drf [[file:adj.all.org::variant]] drf [[file:noun.phenomenon.org::variation]] drf [[file:noun.person.org::variation]] drf [[file:noun.act.org::variation]] drf [[file:noun.event.org::variant]] drf [[file:noun.act.org::variance]]
-w: <<diverge1>> event [[file:noun.event.org::divergence]] drf [[file:adj.all.org::divergent]] drf [[file:noun.event.org::divergence]]
+w: <<deviate>> event [[file:noun.event.org::deviation]] event [[file:noun.cognition.org::deviation]] event [[file:noun.attribute.org::deviation1]] event [[file:noun.act.org::deviation]] agent [[file:noun.person.org::deviate]] drf [[file:adjs.all.org::deviant]] drf [[file:noun.person.org::deviate]] drf [[file:noun.event.org::deviation]] drf [[file:noun.cognition.org::deviation]] drf [[file:noun.attribute.org::deviation1]] drf [[file:noun.act.org::deviation]] drf [[file:noun.person.org::deviant]] ant [[conform6]] drf [[file:adjs.all.org::deviate]]
+w: <<vary>> event [[file:noun.phenomenon.org::variation]] event [[file:noun.act.org::variation]] event [[file:noun.act.org::variance]] agent [[file:noun.person.org::variation]] drf [[file:adjs.all.org::variant]] drf [[file:noun.phenomenon.org::variation]] drf [[file:noun.person.org::variation]] drf [[file:noun.act.org::variation]] drf [[file:noun.event.org::variant]] drf [[file:noun.act.org::variance]]
+w: <<diverge1>> event [[file:noun.event.org::divergence]] drf [[file:adjs.all.org::divergent]] drf [[file:noun.event.org::divergence]]
 w: <<depart>> drf [[file:noun.event.org::departure1]]
 hyper: [[differ]]
 fr: 1 4
@@ -2925,7 +2925,7 @@ hyper: [[coincide]]
 fr: 1 4 8
 g: coincide partially or wholly; "Our vacations overlap"
 
-w: <<coincide>> drf [[file:adj.all.org::coincident]]
+w: <<coincide>> drf [[file:adjs.all.org::coincident]]
 w: <<co-occur>>
 w: <<cooccur>> event [[file:noun.event.org::co-occurrence]] drf [[file:noun.event.org::co-occurrence]] see [[cooccur_with]]
 hyper: [[coexist]]
@@ -2977,7 +2977,7 @@ hyper: [[match]]
 fr: 11
 g: be parallel to; "Their roles are paralleled by ours"
 
-w: <<correlate>> undergoer [[file:noun.cognition.org::correlate]] event [[file:noun.relation.org::correlation]] event [[file:noun.cognition.org::correlation1]] event [[file:noun.cognition.org::correlation]] drf [[file:adj.all.org::correlative]] drf [[file:noun.relation.org::correlation]] drf [[file:noun.cognition.org::correlation1]] drf [[file:noun.cognition.org::correlation]] drf [[file:noun.cognition.org::correlate]]
+w: <<correlate>> undergoer [[file:noun.cognition.org::correlate]] event [[file:noun.relation.org::correlation]] event [[file:noun.cognition.org::correlation1]] event [[file:noun.cognition.org::correlation]] drf [[file:adjs.all.org::correlative]] drf [[file:noun.relation.org::correlation]] drf [[file:noun.cognition.org::correlation1]] drf [[file:noun.cognition.org::correlation]] drf [[file:noun.cognition.org::correlate]]
 hyper: [[match]]
 vg: [[file:verb.cognition.org::correlate]]
 fr: 1
@@ -2988,7 +2988,7 @@ hyper: [[match]]
 fr: 4
 g: be or come into adjustment with
 
-w: <<coincide1>> drf [[file:adj.all.org::coincident]]
+w: <<coincide1>> drf [[file:adjs.all.org::coincident]]
 hyper: [[match]]
 fr: 1
 g: be the same; "our views on this matter coincided"
@@ -3016,12 +3016,12 @@ g: be consistent in form, tenor, or character; be congruous; "Desires are to be 
 
 w: <<match>> by-means-of [[file:noun.artifact.org::match1]] drf [[file:noun.artifact.org::match1]]
 w: <<fit4>>
-w: <<correspond>> event [[file:noun.attribute.org::correspondence2]] drf [[file:adj.all.org::correspondent]] drf [[file:noun.attribute.org::correspondence2]]
+w: <<correspond>> event [[file:noun.attribute.org::correspondence2]] drf [[file:adjs.all.org::correspondent]] drf [[file:noun.attribute.org::correspondence2]]
 w: <<check8>>
 w: <<jibe>>
 w: <<gibe>>
 w: <<tally>>
-w: <<agree>> event [[file:noun.attribute.org::agreement]] drf [[file:adj.all.org::agreeable]] drf [[file:noun.attribute.org::agreement]] ant [[disagree]]
+w: <<agree>> event [[file:noun.attribute.org::agreement]] drf [[file:adjs.all.org::agreeable]] drf [[file:noun.attribute.org::agreement]] ant [[disagree]]
 vg: [[harmonize]]
 hyper: [[equal]]
 vg: [[check9]]
@@ -3113,13 +3113,13 @@ w: <<go6>>
 fr: 10 11
 g: be awarded; be allotted; "The first prize goes to Mary"; "Her money went on clothes"
 
-w: <<pertain>> drf [[file:adj.all.org::pertinent]]
-w: <<appertain>> by-means-of [[file:noun.artifact.org::appurtenance]] drf [[file:adj.all.org::appurtenant]] drf [[file:noun.artifact.org::appurtenance]]
+w: <<pertain>> drf [[file:adjs.all.org::pertinent]]
+w: <<appertain>> by-means-of [[file:noun.artifact.org::appurtenance]] drf [[file:adjs.all.org::appurtenant]] drf [[file:noun.artifact.org::appurtenance]]
 hyper: [[belong_to]]
 fr: 12
 g: be a part or attribute of
 
-w: <<inhere>> state [[file:noun.state.org::inherence]] drf [[file:adj.all.org::inherent]] drf [[file:adj.all.org::inherent]] drf [[file:noun.state.org::inherence]]
+w: <<inhere>> state [[file:noun.state.org::inherence]] drf [[file:adjs.all.org::inherent]] drf [[file:adjs.all.org::inherent]] drf [[file:noun.state.org::inherence]]
 hyper: [[belong_to]]
 fr: 4
 g: be inherent in something
@@ -3293,7 +3293,7 @@ hyper: [[persist1]]
 fr: 1
 g: endure; "The label stuck to her for the rest of her life"
 
-w: <<prevail>> property [[file:noun.attribute.org::prevalence]] drf [[file:noun.attribute.org::prevalence]] drf [[file:adj.all.org::prevalent]]
+w: <<prevail>> property [[file:noun.attribute.org::prevalence]] drf [[file:noun.attribute.org::prevalence]] drf [[file:adjs.all.org::prevalent]]
 w: <<persist>> drf [[file:adj.all.org::persistent]]
 w: <<die_hard>> drf [[file:noun.person.org::diehard]]
 w: <<run3>>
@@ -3330,7 +3330,7 @@ fr: 2
 g: deserve (either good or bad); "It's too bad he got fired, but he sure had it coming"
 
 w: <<deserve>>
-w: <<merit4>> property [[file:noun.attribute.org::merit2]] drf [[file:adj.all.org::meritable]] drf [[file:noun.attribute.org::merit2]]
+w: <<merit4>> property [[file:noun.attribute.org::merit2]] drf [[file:adjs.all.org::meritable]] drf [[file:noun.attribute.org::merit2]]
 hyper: [[be3]]
 fr: 8 11
 g: be worthy or deserving; "You deserve a promotion after all the hard work you have done"
@@ -3353,7 +3353,7 @@ hyper: [[be3]]
 fr: 1 34
 g: have weight; have import, carry weight; "It does not matter much"
 
-w: <<preponderate>> property [[file:noun.attribute.org::preponderance2]] property [[file:noun.attribute.org::preponderance1]] property [[file:noun.attribute.org::preponderance]] drf [[file:adj.all.org::preponderant]] drf [[file:noun.attribute.org::preponderance2]] drf [[file:noun.attribute.org::preponderance1]] drf [[file:noun.attribute.org::preponderance]]
+w: <<preponderate>> property [[file:noun.attribute.org::preponderance2]] property [[file:noun.attribute.org::preponderance1]] property [[file:noun.attribute.org::preponderance]] drf [[file:adjs.all.org::preponderant]] drf [[file:noun.attribute.org::preponderance2]] drf [[file:noun.attribute.org::preponderance1]] drf [[file:noun.attribute.org::preponderance]]
 w: <<outweigh>>
 w: <<overbalance>>
 w: <<outbalance>>
@@ -3391,7 +3391,7 @@ hyper: [[predominate]]
 fr: 11
 g: prevail over; "health considerations override financial concerns"
 
-w: <<predominate>> state [[file:noun.state.org::predomination]] event [[file:noun.state.org::predominance]] drf [[file:adj.all.org::predominant]] drf [[file:noun.state.org::predomination]] drf [[file:noun.state.org::predominance]]
+w: <<predominate>> state [[file:noun.state.org::predomination]] event [[file:noun.state.org::predominance]] drf [[file:adjs.all.org::predominant]] drf [[file:noun.state.org::predomination]] drf [[file:noun.state.org::predominance]]
 w: <<dominate>>
 w: <<rule>>
 w: <<reign>> event [[file:noun.time.org::reign1]] drf [[file:noun.time.org::reign1]]
@@ -3497,7 +3497,7 @@ hyper: [[hesitate]]
 fr: 22
 g: move to and fro; "The shy student lingered in the corner"
 
-w: <<hesitate>> event [[file:noun.cognition.org::hesitation]] by-means-of [[file:noun.attribute.org::hesitation1]] agent [[file:noun.person.org::hesitator]] agent [[file:noun.person.org::hesitater]] drf [[file:adj.all.org::hesitant]] drf [[file:noun.cognition.org::hesitation]] drf [[file:noun.attribute.org::hesitation1]] drf [[file:noun.person.org::hesitater]] drf [[file:noun.attribute.org::hesitancy]] drf [[file:noun.person.org::hesitator]]
+w: <<hesitate>> event [[file:noun.cognition.org::hesitation]] by-means-of [[file:noun.attribute.org::hesitation1]] agent [[file:noun.person.org::hesitator]] agent [[file:noun.person.org::hesitater]] drf [[file:adjs.all.org::hesitant]] drf [[file:noun.cognition.org::hesitation]] drf [[file:noun.attribute.org::hesitation1]] drf [[file:noun.person.org::hesitater]] drf [[file:noun.attribute.org::hesitancy]] drf [[file:noun.person.org::hesitator]]
 w: <<waver>> event [[file:noun.act.org::waver1]] agent [[file:noun.person.org::waverer]] drf [[file:noun.act.org::waver1]] drf [[file:noun.person.org::waverer]] drf [[file:noun.cognition.org::wavering]]
 w: <<waffle>> agent [[file:noun.person.org::waffler]] drf [[file:noun.person.org::waffler]]
 entail: [[file:verb.cognition.org::doubt1]]
@@ -3617,7 +3617,7 @@ du: [[file:noun.communication.org::archaism]]
 fr: 22
 g: dwell; "You can stay with me while you are in town"; "stay a bit longer--the day is still young"
 
-w: <<incriminate>> event [[file:noun.communication.org::incrimination]] drf [[file:adj.all.org::incriminatory]] drf [[file:noun.communication.org::incrimination]] drf [[file:noun.act.org::crime1]] drf [[file:noun.act.org::crime]]
+w: <<incriminate>> event [[file:noun.communication.org::incrimination]] drf [[file:adjs.all.org::incriminatory]] drf [[file:noun.communication.org::incrimination]] drf [[file:noun.act.org::crime1]] drf [[file:noun.act.org::crime]]
 w: <<imply2>> event [[file:noun.relation.org::implication]] event [[file:noun.communication.org::implication]] drf [[file:noun.relation.org::implication]] drf [[file:noun.communication.org::implication]]
 w: <<inculpate>> event [[file:noun.communication.org::inculpation]] drf [[file:adj.all.org::inculpative]] drf [[file:adj.all.org::inculpatory]] drf [[file:noun.communication.org::inculpation]]
 hyper: [[file:verb.communication.org::suggest1]]
@@ -3654,7 +3654,7 @@ fr: 4
 g: tend to or result in; "This remark lead to further arguments among the guests"
 
 w: <<leave>>
-w: <<result2>> event [[file:noun.phenomenon.org::result]] drf [[file:adj.all.org::resultant]] drf [[file:noun.phenomenon.org::result]] drf [[file:noun.event.org::resultant]]
+w: <<result2>> event [[file:noun.phenomenon.org::result]] drf [[file:adjs.all.org::resultant]] drf [[file:noun.phenomenon.org::result]] drf [[file:noun.event.org::resultant]]
 w: <<lead4>>
 vg: [[leave3]]
 hyper: [[file:verb.creation.org::produce3]]
@@ -3673,7 +3673,7 @@ fr: 11
 g: necessitate or exact; "the water shortage compels conservation"
 
 w: <<entail1>> undergoer [[file:noun.cognition.org::entailment]] drf [[file:noun.cognition.org::entailment]]
-w: <<imply>> event [[file:noun.cognition.org::implication1]] drf [[file:adj.all.org::implicative]] drf [[file:noun.cognition.org::implication1]]
+w: <<imply>> event [[file:noun.cognition.org::implication1]] drf [[file:adjs.all.org::implicative]] drf [[file:noun.cognition.org::implication1]]
 w: <<mean>>
 hyper: [[necessitate1]]
 fr: 11
@@ -3701,7 +3701,7 @@ hyper: [[result]]
 fr: 11
 g: be the result of
 
-w: <<result>> event [[file:noun.phenomenon.org::result]] event [[file:noun.event.org::result]] drf [[file:adj.all.org::resultant]] drf [[file:noun.phenomenon.org::result]] drf [[file:noun.event.org::result]] drf [[file:noun.state.org::resultant]]
+w: <<result>> event [[file:noun.phenomenon.org::result]] event [[file:noun.event.org::result]] drf [[file:adjs.all.org::resultant]] drf [[file:noun.phenomenon.org::result]] drf [[file:noun.event.org::result]] drf [[file:noun.state.org::resultant]]
 w: <<ensue>>  fr 34
 hyper: [[prove]]
 fr: 1
@@ -3725,7 +3725,7 @@ fr: 8 11
 g: lack or fail to include; "The cost for the trip excludes food and beverages"
 
 w: <<equate>> state [[file:noun.state.org::equation]] event [[file:noun.communication.org::equation]] drf [[file:noun.state.org::equation]] drf [[file:noun.communication.org::equation]] fr 11
-w: <<correspond4>> drf [[file:adj.all.org::correspondent]]
+w: <<correspond4>> drf [[file:adjs.all.org::correspondent]]
 hyper: [[equal]]
 fr: 4
 g: be equivalent or parallel, in mathematics
@@ -3765,7 +3765,7 @@ hyper: [[have]]
 fr: 8 11
 g: have as an attribute, knowledge, or skill; "he possesses great knowledge about the Middle East"
 
-w: <<phosphoresce>> event [[file:noun.phenomenon.org::phosphorescence]] drf [[file:adj.all.org::phosphorescent]] drf [[file:noun.phenomenon.org::phosphorescence]]
+w: <<phosphoresce>> event [[file:noun.phenomenon.org::phosphorescence]] drf [[file:adjs.all.org::phosphorescent]] drf [[file:noun.phenomenon.org::phosphorescence]]
 hyper: [[exhibit]]
 fr: 11
 g: to exhibit phosphorescence
@@ -3822,7 +3822,7 @@ g: have as a feature; "This restaurant features the most famous chefs in France"
 
 w: <<embrace>>
 w: <<encompass>> event [[file:noun.state.org::encompassment]] drf [[file:noun.state.org::encompassment]]
-w: <<comprehend>> state [[file:noun.relation.org::comprehension]] drf [[file:adj.all.org::comprehensive]] drf [[file:adj.all.org::comprehensive]] drf [[file:noun.relation.org::comprehension]]
+w: <<comprehend>> state [[file:noun.relation.org::comprehension]] drf [[file:adjs.all.org::comprehensive]] drf [[file:adj.all.org::comprehensive]] drf [[file:noun.relation.org::comprehension]]
 w: <<cover2>>
 vg: [[file:verb.communication.org::cover1]]
 hyper: [[include]]
@@ -3836,7 +3836,7 @@ hyper: [[include]]
 fr: 11 21
 g: include or contain; have as a component; "A totally new idea is comprised in this paper"; "The record contains many old songs from the 1930's"
 
-w: <<preclude>> drf [[file:adj.all.org::preclusive]]
+w: <<preclude>> drf [[file:adjs.all.org::preclusive]]
 w: <<rule_out>>
 w: <<close_out>>
 hyper: [[obviate]]
@@ -3934,12 +3934,12 @@ hyper: [[become1]]
 fr: 1
 g: form into a nucleus; "Some cells had nucleated"
 
-w: <<flocculate1>> drf [[file:adj.all.org::flocculent]]
+w: <<flocculate1>> drf [[file:adjs.all.org::flocculent]]
 hyper: [[file:verb.change.org::change1]]
 fr: 11
 g: cause to become a fluffy or lumpy aggregate; "The chemist flocculated the suspended material"
 
-w: <<flocculate>> event [[file:noun.process.org::flocculation]] drf [[file:adj.all.org::flocculent]] drf [[file:noun.process.org::flocculation]]
+w: <<flocculate>> event [[file:noun.process.org::flocculation]] drf [[file:adjs.all.org::flocculent]] drf [[file:noun.process.org::flocculation]]
 hyper: [[file:verb.change.org::change]]
 fr: 11
 g: form into an aggregated lumpy or fluffy mass; "the protoplasms flocculated"
@@ -3974,17 +3974,17 @@ fr: 4
 g: come forth or begin from a state of latency; "The first winter storm broke over New York"
 
 w: <<come_forth>>
-w: <<emerge>> event [[file:noun.act.org::emersion1]] drf [[file:adj.all.org::emergent]] drf [[file:noun.act.org::emersion1]]
+w: <<emerge>> event [[file:noun.act.org::emersion1]] drf [[file:adjs.all.org::emergent]] drf [[file:noun.act.org::emersion1]]
 hyper: [[originate]]
 fr: 1
 g: happen or occur as a result of something
 
-w: <<resurge>> event [[file:noun.act.org::resurgence]] drf [[file:adj.all.org::resurgent]] drf [[file:noun.act.org::resurgence]]
+w: <<resurge>> event [[file:noun.act.org::resurgence]] drf [[file:adjs.all.org::resurgent]] drf [[file:noun.act.org::resurgence]]
 hyper: [[originate]]
 fr: 1
 g: rise again; "His need for a meal resurged"; "The candidate resurged after leaving politics for several years"
 
-w: <<originate>> event [[file:noun.event.org::origination]] event [[file:noun.act.org::origination]] drf [[file:adj.all.org::originative]] drf [[file:noun.event.org::origin]] drf [[file:noun.event.org::origination]] drf [[file:noun.act.org::origination]]
+w: <<originate>> event [[file:noun.event.org::origination]] event [[file:noun.act.org::origination]] drf [[file:adjs.all.org::originative]] drf [[file:noun.event.org::origin]] drf [[file:noun.event.org::origination]] drf [[file:noun.act.org::origination]]
 w: <<arise>>
 w: <<rise1>>
 w: <<develop>>
@@ -4048,7 +4048,7 @@ hyper: [[connect2]]
 fr: 4
 g: unite by forming a joint or joints; "the ankle bone articulates with the leg bones to form the ankle bones"
 
-w: <<connect2>> drf [[file:adj.all.org::connective]]
+w: <<connect2>> drf [[file:adjs.all.org::connective]]
 w: <<link1>> state [[file:noun.state.org::link]] drf [[file:noun.state.org::link]] drf [[file:noun.artifact.org::linkage]]
 w: <<link_up>>
 w: <<join1>> drf [[file:noun.act.org::jointure]] drf [[file:noun.shape.org::juncture]] drf [[file:noun.act.org::joining]]
@@ -4057,7 +4057,7 @@ fr: 1 2
 g: be or become joined or united or linked; "The two streets connect to become a highway"; "Our paths joined"; "The travelers linked up again at the airport"
 
 w: <<hang_together>>
-w: <<interdepend>> event [[file:noun.relation.org::interdependence]] drf [[file:adj.all.org::interdependent]] drf [[file:noun.relation.org::interdependency]] drf [[file:noun.relation.org::interdependence]]
+w: <<interdepend>> event [[file:noun.relation.org::interdependence]] drf [[file:adjs.all.org::interdependent]] drf [[file:noun.relation.org::interdependency]] drf [[file:noun.relation.org::interdependence]]
 hyper: [[file:verb.contact.org::connect]]
 fr: 1
 g: be connected; "In my heart I can make the world hang together"
@@ -4089,7 +4089,7 @@ hyper: [[constitute]]
 fr: 10
 g: constitute the essence of; "Clothes make the man"
 
-w: <<constitute>> drf [[file:adj.all.org::constituent]]
+w: <<constitute>> drf [[file:adjs.all.org::constituent]]
 w: <<represent>>
 w: <<make_up>> drf [[file:noun.attribute.org::makeup]] drf [[file:noun.attribute.org::make-up]]
 w: <<comprise3>>
@@ -4411,7 +4411,7 @@ g: come to a close; "The concert closed with a nocturne by Chopin"
 w: <<end>> undergoer [[file:noun.communication.org::end]] location [[file:noun.location.org::end2]] location [[file:noun.location.org::end1]] location [[file:noun.location.org::end]] event [[file:noun.time.org::end]] event [[file:noun.state.org::end]] event [[file:noun.event.org::end]] event [[file:noun.cognition.org::end]] drf [[file:noun.communication.org::end]] drf [[file:noun.location.org::end1]] drf [[file:noun.location.org::end2]] drf [[file:noun.state.org::end]] drf [[file:noun.cognition.org::end]] drf [[file:noun.event.org::end]] drf [[file:noun.time.org::end]] drf [[file:noun.location.org::end]] ant [[begin]]
 w: <<stop13>>
 w: <<finish>> event [[file:noun.time.org::finish]] event [[file:noun.event.org::finish2]] event [[file:noun.act.org::finish]] drf [[file:noun.event.org::finish2]] drf [[file:noun.time.org::finish]] drf [[file:noun.act.org::finish]]
-w: <<terminate>> drf [[file:adj.all.org::terminative]] drf [[file:noun.location.org::terminus]]
+w: <<terminate>> drf [[file:adjs.all.org::terminative]] drf [[file:noun.location.org::terminus]]
 w: <<cease13>>
 fr: 1 4
 g: have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical; "the bronchioles terminate in a capillary bed"; "Your rights stop where you infringe upon the rights of other"; "My property ends by the bushes"; "The symphony ends in a pianissimo"
@@ -4482,12 +4482,12 @@ w: <<be3>>
 fr: 4 6 7 8 9 22
 g: have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer"
 
-w: <<coexist1>> event [[file:noun.state.org::coexistence]] drf [[file:adj.all.org::coexistent]] drf [[file:noun.state.org::coexistence]]
+w: <<coexist1>> event [[file:noun.state.org::coexistence]] drf [[file:adjs.all.org::coexistent]] drf [[file:noun.state.org::coexistence]]
 hyper: [[coexist]]
 fr: 1 2
 g: coexist peacefully, as of nations
 
-w: <<coexist>> drf [[file:adj.all.org::coexistent]]
+w: <<coexist>> drf [[file:adjs.all.org::coexistent]]
 hyper: [[exist]]
 fr: 1 2
 g: exist together
@@ -4499,7 +4499,7 @@ hyper: [[exist]]
 fr: 1 2
 g: be around; be alive or active; "Does the old man still kick around?"
 
-w: <<preexist>> event [[file:noun.state.org::preexistence]] drf [[file:adj.all.org::preexistent]] drf [[file:adj.all.org::pre-existent]] drf [[file:noun.state.org::preexistence]]
+w: <<preexist>> event [[file:noun.state.org::preexistence]] drf [[file:adjs.all.org::preexistent]] drf [[file:adjs.all.org::pre-existent]] drf [[file:noun.state.org::preexistence]]
 hyper: [[exist]]
 fr: 1
 g: exist beforehand or prior to a certain point in time; "Did this condition pre-exist?"

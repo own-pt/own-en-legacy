@@ -1535,7 +1535,7 @@ g: fern of southeastern Asia; not hardy in cold temperate regions
 
 w: <<bracken1>>
 w: <<pasture_brake>>
-w: <<brake1>> drf [[file:adj.all.org::braky]]
+w: <<brake1>> drf [[file:adjs.all.org::braky]]
 w: <<Pteridium_aquilinum>>
 hyper: [[fern]]
 hm: [[Pteridium]]
@@ -2243,7 +2243,7 @@ hyper: [[branchlet]]
 g: a thin supple twig or rod; "stems bearing slender wands of flowers"
 
 w: <<branchlet>>
-w: <<twig>> drf [[file:adj.all.org::twiggy]] drf [[file:verb.change.org::twig]]
+w: <<twig>> drf [[file:adjs.all.org::twiggy]] drf [[file:verb.change.org::twig]]
 w: <<sprig>>
 hyper: [[branch]]
 g: a small branch or division of a branch (especially a terminal division); usually applied to branches of the current or preceding year
@@ -2288,7 +2288,7 @@ hyper: [[bark]]
 hp: [[winter's_bark1]]
 g: aromatic bark having tonic and stimulant properties
 
-w: <<bark>> drf [[file:adj.all.org::barky]] drf [[file:verb.contact.org::bark1]] drf [[file:verb.contact.org::bark]]
+w: <<bark>> drf [[file:adjs.all.org::barky]] drf [[file:verb.contact.org::bark1]] drf [[file:verb.contact.org::bark]]
 hyper: [[file:noun.object.org::covering]]
 hp: [[trunk]]
 hp: [[branch]]
@@ -3085,7 +3085,7 @@ w: <<nutlet>>
 hyper: [[nut]]
 g: a small nut
 
-w: <<nut>> drf [[file:adj.all.org::nutty]] drf [[file:verb.contact.org::nut]]
+w: <<nut>> drf [[file:adjs.all.org::nutty]] drf [[file:verb.contact.org::nut]]
 hyper: [[seed]]
 g: usually large hard-shelled seed
 
@@ -3101,7 +3101,7 @@ w: <<fruitlet>> drf [[fruit]]
 hyper: [[fruit]]
 g: a diminutive fruit, especially one that is part of a multiple fruit
 
-w: <<fruit>> drf [[file:adj.all.org::fruity]] drf [[file:noun.person.org::fruiterer]] drf [[fruitlet]] drf [[file:verb.creation.org::fruit]] drf [[file:verb.creation.org::fruit1]] drf [[file:verb.change.org::fructify]] drf [[file:verb.body.org::fructify]]
+w: <<fruit>> drf [[file:adjs.all.org::fruity]] drf [[file:noun.person.org::fruiterer]] drf [[fruitlet]] drf [[file:verb.creation.org::fruit]] drf [[file:verb.creation.org::fruit1]] drf [[file:verb.change.org::fructify]] drf [[file:verb.body.org::fructify]]
 hyper: [[reproductive_structure]]
 g: the ripened reproductive body of a seed plant
 
@@ -3392,7 +3392,7 @@ w: <<saprobe>> drf [[file:adj.pert.org::saprobic]]
 hyper: [[file:noun.Tops.org::organism]]
 g: an organism that lives in and derives its nourishment from organic matter in stagnant or foul water
 
-w: <<saprophyte>> drf [[file:adj.all.org::saprophytic]] drf [[file:adj.pert.org::saprophytic]]
+w: <<saprophyte>> drf [[file:adjs.all.org::saprophytic]] drf [[file:adj.pert.org::saprophytic]]
 w: <<saprophytic_organism>>
 hyper: [[file:noun.Tops.org::organism]]
 g: an organism that feeds on dead organic matter especially a fungus or bacterium
@@ -3438,18 +3438,18 @@ g: a semiaquatic plant that grows in soft wet land; most are monocots: sedge, sp
 
 w: <<aquatic_plant>>
 w: <<water_plant>>
-w: <<hydrophyte>> drf [[file:adj.all.org::hydrophytic]]
+w: <<hydrophyte>> drf [[file:adjs.all.org::hydrophytic]]
 w: <<hydrophytic_plant>>
 hyper: [[vascular_plant]]
 g: a plant that grows partly or wholly in water whether rooted in the mud, as a lotus, or floating without anchorage, as the water hyacinth
 
-w: <<mesophyte>> drf [[file:adj.all.org::mesophytic]]
+w: <<mesophyte>> drf [[file:adjs.all.org::mesophytic]]
 w: <<mesophytic_plant>>
 hyper: [[vascular_plant]]
 g: land plant growing in surroundings having an average supply of water; compare xerophyte and hydrophyte
 
 w: <<desert_plant>>
-w: <<xerophyte>> drf [[file:adj.all.org::xerophytic]]
+w: <<xerophyte>> drf [[file:adjs.all.org::xerophytic]]
 w: <<xerophytic_plant>>
 w: <<xerophile>>
 w: <<xerophilous_plant>>
@@ -3478,7 +3478,7 @@ hyper: [[shrub]]
 hm: [[Angiospermae]]
 g: shrub noted primarily for its flowers
 
-w: <<bramble2>> drf [[file:adj.all.org::brambly]]
+w: <<bramble2>> drf [[file:adjs.all.org::brambly]]
 hyper: [[woody_plant]]
 g: any of various rough thorny shrubs or vines
 
@@ -3501,7 +3501,7 @@ hyper: [[shrub]]
 g: a low shrub
 
 w: <<shrub>> drf [[file:adj.pert.org::shrubby]] drf [[shrublet]]
-w: <<bush>> drf [[file:adj.all.org::bushy]]
+w: <<bush>> drf [[file:adjs.all.org::bushy]]
 hyper: [[woody_plant]]
 hm: [[file:noun.group.org::shrubbery]]
 g: a low woody perennial plant usually having several major stems
@@ -3557,7 +3557,7 @@ hyper: [[tree]]
 hm: [[Angiospermae]]
 g: any tree having seeds and ovules contained in the ovary
 
-w: <<conifer>> drf [[file:adj.all.org::coniferous]]
+w: <<conifer>> drf [[file:adjs.all.org::coniferous]]
 w: <<coniferous_tree>>
 hyper: [[gymnospermous_tree]]
 g: any gymnospermous tree or shrub bearing cones
@@ -3583,7 +3583,7 @@ w: <<bean_tree>>
 hyper: [[tree]]
 g: any of several trees having seedpods as fruits
 
-w: <<arbor>> drf [[file:adj.pert.org::arborary]] drf [[file:adj.pert.org::arborous]] drf [[file:adj.all.org::arboreous]] drf [[file:adj.all.org::arboreal]] drf [[file:adj.pert.org::arboreal]] drf [[file:noun.person.org::arborist]] drf [[file:adj.pert.org::arborical]] drf [[file:verb.change.org::arborize]] drf [[file:verb.change.org::arborise]]
+w: <<arbor>> drf [[file:adj.pert.org::arborary]] drf [[file:adj.pert.org::arborous]] drf [[file:adjs.all.org::arboreous]] drf [[file:adjs.all.org::arboreal]] drf [[file:adj.pert.org::arboreal]] drf [[file:noun.person.org::arborist]] drf [[file:adj.pert.org::arborical]] drf [[file:verb.change.org::arborize]] drf [[file:verb.change.org::arborise]]
 hyper: [[tree]]
 g: tree (as opposed to shrub)
 
@@ -3914,7 +3914,7 @@ w: <<beard>>
 hyper: [[hair]]
 g: a tuft or growth of hairs or bristles on certain plants such as iris or grasses
 
-w: <<coma>> drf [[file:adj.all.org::comal]]
+w: <<coma>> drf [[file:adjs.all.org::comal]]
 hyper: [[file:noun.group.org::tuft]]
 dt: [[file:noun.cognition.org::botany]]
 g: (botany) a usually terminal tuft of bracts (as in the pineapple) or tuft of hairs (especially on certain seeds)
@@ -3938,16 +3938,16 @@ w: <<glochid>>
 hyper: [[spine]]
 g: a barbed spine or bristle (often tufted on cacti)
 
-w: <<spine>> drf [[file:adj.all.org::spinous]]
-w: <<thorn>> drf [[file:adj.all.org::thorny]]
-w: <<prickle>> drf [[file:adj.all.org::prickly]]
+w: <<spine>> drf [[file:adjs.all.org::spinous]]
+w: <<thorn>> drf [[file:adjs.all.org::thorny]]
+w: <<prickle>> drf [[file:adjs.all.org::prickly]]
 w: <<pricker>> drf [[file:verb.contact.org::prick]]
 w: <<sticker>> drf [[file:verb.contact.org::stick4]]
 w: <<spikelet>>
 hyper: [[aculeus]]
 g: a small sharp-pointed tip resembling a spike on a stem or leaf
 
-w: <<acumen>> drf [[file:verb.change.org::acuminate]] drf [[file:adj.all.org::acuminate]]
+w: <<acumen>> drf [[file:verb.change.org::acuminate]] drf [[file:adjs.all.org::acuminate]]
 hyper: [[plant_process]]
 g: a tapering point
 
@@ -3963,7 +3963,7 @@ w: <<spur>>
 hyper: [[plant_process]]
 g: tubular extension at the base of the corolla in some flowers
 
-w: <<nodule>> drf [[file:adj.all.org::nodular]] drf [[file:adj.pert.org::nodular]]
+w: <<nodule>> drf [[file:adjs.all.org::nodular]] drf [[file:adj.pert.org::nodular]]
 w: <<tubercle>>
 hyper: [[plant_process]]
 g: small rounded wartlike protuberance on a plant
@@ -4048,7 +4048,7 @@ w: <<nonvascular_organism>>
 hyper: [[file:noun.Tops.org::organism]]
 g: organisms without vascular tissue: e.g. algae, lichens, fungi, mosses
 
-w: <<succulent>> drf [[file:adj.all.org::succulent]]
+w: <<succulent>> drf [[file:adjs.all.org::succulent]]
 hyper: [[vascular_plant]]
 g: a plant adapted to arid conditions and characterized by fleshy water-storing tissues that act as water reservoirs
 
@@ -4238,8 +4238,8 @@ w: <<mildew>> drf [[file:verb.change.org::mildew]]
 hyper: [[fungus]]
 g: a fungus that produces a superficial (usually white) growth on organic matter
 
-w: <<mold>> drf [[file:adj.all.org::moldy]] drf [[file:verb.change.org::mold]]
-w: <<mould>> drf [[file:adj.all.org::mouldy]]
+w: <<mold>> drf [[file:adjs.all.org::moldy]] drf [[file:verb.change.org::mold]]
+w: <<mould>> drf [[file:adjs.all.org::mouldy]]
 hyper: [[fungus]]
 g: a fungus that produces a superficial growth on various kinds of damp or decaying organic matter
 
@@ -21635,7 +21635,7 @@ hm: [[Leguminosae]]
 g: any of various hardwood trees of the family Leguminosae
 
 w: <<royal_poinciana>>
-w: <<flamboyant>> drf [[file:adj.all.org::flamboyant]]
+w: <<flamboyant>> drf [[file:adjs.all.org::flamboyant]]
 w: <<flame_tree4>>
 w: <<peacock_flower>>
 w: <<Delonix_regia>>
@@ -22341,7 +22341,7 @@ w: <<catbrier>>
 w: <<horse_brier>>
 w: <<horse-brier>>
 w: <<brier2>>
-w: <<briar2>> drf [[file:adj.all.org::briary]]
+w: <<briar2>> drf [[file:adjs.all.org::briary]]
 w: <<Smilax_rotundifolia>>
 hyper: [[vine]]
 hm: [[Smilax1]]
@@ -27101,7 +27101,7 @@ w: <<Syringa_emodi>>
 hyper: [[lilac]]
 g: robust upright shrub of mountains of northern India having oblong-elliptic leaves and pale lilac or white malodorous flowers
 
-w: <<lilac>> drf [[file:adj.all.org::lilac]]
+w: <<lilac>> drf [[file:adjs.all.org::lilac]]
 hyper: [[shrub]]
 hm: [[Syringa1]]
 g: any of various plants of the genus Syringa having large panicles of usually fragrant flowers
@@ -28296,7 +28296,7 @@ hyper: [[hamamelid_dicot_genus]]
 hm: [[Fagaceae]]
 g: oaks
 
-w: <<cupule>> drf [[file:adj.all.org::cupular]]
+w: <<cupule>> drf [[file:adjs.all.org::cupular]]
 w: <<acorn_cup>>
 hyper: [[cup]]
 hp: [[acorn]]
@@ -31622,7 +31622,7 @@ hyper: [[monocot_genus]]
 hyper: [[Cyperaceae]]
 g: type genus of Cyperaceae; grasslike rhizomatous herbs; cosmopolitan except very cold regions
 
-w: <<sedge>> drf [[file:adj.all.org::sedgy]]
+w: <<sedge>> drf [[file:adjs.all.org::sedgy]]
 hyper: [[marsh_plant]]
 hm: [[Cyperaceae]]
 g: grasslike or rushlike plant growing in wet places having solid stems, narrow grasslike leaves and spikelets of inconspicuous flowers
@@ -32044,7 +32044,7 @@ hyper: [[monocot_genus]]
 hm: [[Gramineae]]
 g: annual or perennial tropical and subtropical cereal grasses: sorghum
 
-w: <<reed>> drf [[file:adj.all.org::reedy]]
+w: <<reed>> drf [[file:adjs.all.org::reedy]]
 hyper: [[gramineous_plant]]
 g: tall woody perennial grasses with hollow slender stems especially of the genera Arundo and Phragmites
 
@@ -34918,7 +34918,7 @@ hm: [[Campanulales]]
 g: family of plants of the order Campanulales; in some classifications includes Lobeliaceae
 
 w: <<bur>> drf [[file:verb.change.org::bur]]
-w: <<burr>> drf [[file:adj.all.org::burry]] drf [[file:verb.change.org::burr]]
+w: <<burr>> drf [[file:adjs.all.org::burry]] drf [[file:verb.change.org::burr]]
 hyper: [[pericarp]]
 g: seed vessel having hooks or prickles
 
@@ -39877,7 +39877,7 @@ hyper: [[dilleniid_dicot_genus]]
 hm: [[Cruciferae]]
 g: Old World genus of the family Cruciferae
 
-w: <<watercress>> drf [[file:adj.all.org::watercress]]
+w: <<watercress>> drf [[file:adjs.all.org::watercress]]
 hyper: [[cress]]
 hm: [[Cruciferae]]
 g: any of several water-loving cresses
@@ -41642,7 +41642,7 @@ w: <<Dianthus_chinensis>>
 hyper: [[pink]]
 g: Chinese pink with deeply toothed rose-lilac flowers with a purplish eye; usually raised as an annual
 
-w: <<carnation>> drf [[file:adj.all.org::carnation]]
+w: <<carnation>> drf [[file:adjs.all.org::carnation]]
 w: <<clove_pink>>
 w: <<gillyflower1>>
 w: <<Dianthus_caryophyllus>>
@@ -43545,7 +43545,7 @@ hyper: [[monocot_genus]]
 hm: [[Juncaceae]]
 g: type genus of the Juncaceae; perennial tufted glabrous marsh plants of temperate regions: rushes
 
-w: <<rush>> drf [[file:adj.all.org::rushy]]
+w: <<rush>> drf [[file:adjs.all.org::rushy]]
 hyper: [[marsh_plant]]
 hm: [[Juncaceae]]
 g: grasslike plants growing in wet places and having cylindrical often hollow stems
@@ -45368,7 +45368,7 @@ w: <<pip>>
 hyper: [[seed]]
 g: a small hard seed found in some fruits
 
-w: <<stone>> drf [[file:adj.all.org::stony]] drf [[file:verb.change.org::stone]]
+w: <<stone>> drf [[file:adjs.all.org::stony]] drf [[file:verb.change.org::stone]]
 w: <<pit>> drf [[file:verb.change.org::pit]]
 w: <<endocarp>>
 hyper: [[pericarp]]
@@ -45641,7 +45641,7 @@ hyper: [[plant_part]]
 hp: [[stamen]]
 g: the crown of the stamen in plants of the genus Asclepias
 
-w: <<anther>> drf [[file:adj.all.org::antheral]]
+w: <<anther>> drf [[file:adjs.all.org::antheral]]
 hyper: [[reproductive_structure]]
 hp: [[stamen]]
 g: the part of the stamen that contains pollen; usually borne on a stalk
@@ -45660,7 +45660,7 @@ hyper: [[flower2]]
 g: a partially opened flower
 
 w: <<catkin>>
-w: <<ament>> drf [[file:adj.all.org::amentaceous]]
+w: <<ament>> drf [[file:adjs.all.org::amentaceous]]
 hyper: [[inflorescence]]
 g: a cylindrical spikelike inflorescence
 
@@ -47945,7 +47945,7 @@ w: <<neophyte>>
 hyper: [[file:noun.Tops.org::plant]]
 g: a plant that is found in an area where it had not been recorded previously
 
-w: <<hygrophyte>> drf [[file:adj.all.org::hygrophytic]]
+w: <<hygrophyte>> drf [[file:adjs.all.org::hygrophytic]]
 hyper: [[file:noun.Tops.org::plant]]
 g: a plant that grows in a moist habitat
 
@@ -48092,7 +48092,7 @@ w: <<spore>>
 hyper: [[agamete]]
 g: a small usually single-celled asexual reproductive body produced by many nonflowering plants and fungi and some bacteria and protozoans and that are capable of developing into a new individual without sexual fusion; "a sexual spore is formed after the fusion of gametes"
 
-w: <<agamete>> drf [[file:adj.all.org::agamic]]
+w: <<agamete>> drf [[file:adjs.all.org::agamic]]
 hyper: [[reproductive_structure]]
 g: an asexual reproductive cell
 
@@ -48100,7 +48100,7 @@ w: <<fern_ally>>
 hyper: [[pteridophyte]]
 g: pteridophytes of other classes than Filicopsida
 
-w: <<fern>> drf [[file:adj.all.org::ferny2]] drf [[file:adj.all.org::ferny1]]
+w: <<fern>> drf [[file:adjs.all.org::ferny2]] drf [[file:adj.all.org::ferny1]]
 hyper: [[pteridophyte]]
 hm: [[Filicopsida]]
 g: any of numerous flowerless and seedless vascular plants having true roots from a rhizome and fronds that uncurl upward; reproduce by spores
@@ -48345,7 +48345,7 @@ hyper: [[file:noun.group.org::family3]]
 hm: [[Bryophyta]]
 g: a family of mosses
 
-w: <<moss>> drf [[file:adj.all.org::mossy]]
+w: <<moss>> drf [[file:adjs.all.org::mossy]]
 hyper: [[bryophyte]]
 g: tiny leafy-stemmed flowerless plants
 
@@ -48378,7 +48378,7 @@ hyper: [[file:noun.Tops.org::plant]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: a plant suitable for growing in a flowerpot (especially indoors)
 
-w: <<ornamental>> drf [[file:adj.all.org::ornamental]]
+w: <<ornamental>> drf [[file:adjs.all.org::ornamental]]
 hyper: [[file:noun.Tops.org::plant]]
 g: any plant grown for its beauty or ornamental value
 

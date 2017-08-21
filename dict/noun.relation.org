@@ -1,4 +1,4 @@
-w: <<antagonism>> drf [[file:adj.all.org::antagonistic]] drf [[file:adj.all.org::antagonistic]] drf [[file:noun.person.org::antagonist]] drf [[file:verb.social.org::antagonise]]
+w: <<antagonism>> drf [[file:adjs.all.org::antagonistic]] drf [[file:adjs.all.org::antagonistic]] drf [[file:noun.person.org::antagonist]] drf [[file:verb.social.org::antagonise]]
 hyper: [[opposition2]]
 g: the relation between opposing principles or forces or factors; "the inherent antagonism of capitalism and socialism"
 
@@ -37,7 +37,7 @@ w: <<opposite4>>
 hyper: [[opposition2]]
 g: something inverted in sequence or character or effect; "when the direct approach failed he tried the inverse"
 
-w: <<reverse>> drf [[file:adj.all.org::reverse2]] drf [[file:verb.communication.org::reverse]] drf [[file:verb.change.org::reverse]]
+w: <<reverse>> drf [[file:adjs.all.org::reverse2]] drf [[file:verb.communication.org::reverse]] drf [[file:verb.change.org::reverse]]
 w: <<contrary1>>
 w: <<opposite3>>
 hyper: [[opposition2]]
@@ -55,7 +55,7 @@ w: <<contrary>>
 hyper: [[opposition2]]
 g: exact opposition; "public opinion to the contrary he is not guilty"
 
-w: <<incompatibility2>> drf [[file:adj.all.org::incompatible]]
+w: <<incompatibility2>> drf [[file:adjs.all.org::incompatible]]
 w: <<mutual_exclusiveness>>
 w: <<inconsistency>>
 w: <<repugnance>> drf [[file:verb.communication.org::repugn]]
@@ -70,11 +70,11 @@ w: <<contradiction>>
 hyper: [[opposition2]]
 g: opposition between two conflicting forces or ideas
 
-w: <<contradictoriness>> drf [[file:adj.all.org::contradictory]] drf [[file:adj.all.org::contradictory]] drf [[file:adj.all.org::contradictory]]
+w: <<contradictoriness>> drf [[file:adjs.all.org::contradictory]] drf [[file:adjs.all.org::contradictory]] drf [[file:adjs.all.org::contradictory]]
 hyper: [[opposition2]]
 g: the relation that exists when opposites cannot coexist
 
-w: <<complementarity1>> drf [[file:adj.all.org::complementary]]
+w: <<complementarity1>> drf [[file:adjs.all.org::complementary]]
 hyper: [[ungradable_opposition]]
 g: a relation between two opposite states or principles that together exhaust the possibilities
 
@@ -92,7 +92,7 @@ w: <<positiveness>> ant [[negativeness]]
 hyper: [[polarity]]
 g: the character of the positive electric pole
 
-w: <<polarity>> drf [[file:adj.all.org::polar]]
+w: <<polarity>> drf [[file:adjs.all.org::polar]]
 w: <<sign>>
 hyper: [[opposition2]]
 g: having an indicated pole (as the distinction between positive and negative electric charges); "he got the polarity of the battery reversed"; "charges of opposite sign"
@@ -106,7 +106,7 @@ hyper: [[opposition2]]
 g: an opposition that is capable of being graded
 
 w: <<mutual_opposition>>
-w: <<polarity1>> drf [[file:adj.all.org::polar]]
+w: <<polarity1>> drf [[file:adjs.all.org::polar]]
 hyper: [[opposition2]]
 g: a relation between two opposite attributes or tendencies; "he viewed it as a balanced polarity between good and evil"
 
@@ -124,7 +124,7 @@ w: <<conflict>>
 hyper: [[opposition2]]
 g: opposition in a work of drama or fiction between characters or forces (especially an opposition that motivates the development of the plot); "this form of conflict is essential to Mann's writing"
 
-w: <<antithesis>> drf [[file:adj.all.org::antithetic]] drf [[file:adj.all.org::antithetical]]
+w: <<antithesis>> drf [[file:adjs.all.org::antithetic]] drf [[file:adjs.all.org::antithetical]]
 hyper: [[opposition2]]
 g: exact opposite; "his theory is the antithesis of mine"
 
@@ -133,7 +133,7 @@ hyper: [[opposition2]]
 g: direct opposite; "quiet: an antipode to focused busyness"
 
 w: <<opposition2>>
-w: <<oppositeness>> drf [[file:adj.all.org::opposite2]] drf [[file:adj.all.org::opposite]]
+w: <<oppositeness>> drf [[file:adjs.all.org::opposite2]] drf [[file:adjs.all.org::opposite]]
 hyper: [[file:noun.Tops.org::relation]]
 g: the relation between opposed entities
 
@@ -263,7 +263,7 @@ w: <<eightieth>>
 hyper: [[file:noun.state.org::rank]]
 g: position 80 in a countable series of things
 
-w: <<seventieth>> drf [[file:adj.all.org::seventieth]]
+w: <<seventieth>> drf [[file:adjs.all.org::seventieth]]
 hyper: [[file:noun.state.org::rank]]
 g: position 70 in a countable series of things
 
@@ -271,7 +271,7 @@ w: <<sixtieth>>
 hyper: [[file:noun.state.org::rank]]
 g: position 60 in a countable series of things
 
-w: <<fiftieth>> drf [[file:adj.all.org::fiftieth]]
+w: <<fiftieth>> drf [[file:adjs.all.org::fiftieth]]
 hyper: [[file:noun.state.org::rank]]
 g: position 50 in a countable series of things
 
@@ -295,7 +295,7 @@ w: <<eighteenth>>
 hyper: [[file:noun.state.org::rank]]
 g: position 18 in a countable series of things
 
-w: <<seventeenth>> drf [[file:adj.all.org::seventeenth]]
+w: <<seventeenth>> drf [[file:adjs.all.org::seventeenth]]
 hyper: [[file:noun.state.org::rank]]
 g: position 17 in a countable series of things
 
@@ -303,7 +303,7 @@ w: <<sixteenth>>
 hyper: [[file:noun.state.org::rank]]
 g: position 16 in a countable series of things
 
-w: <<fifteenth>> drf [[file:adj.all.org::fifteenth]]
+w: <<fifteenth>> drf [[file:adjs.all.org::fifteenth]]
 hyper: [[file:noun.state.org::rank]]
 g: position 15 in a countable series of things
 
@@ -335,7 +335,7 @@ w: <<eighth>>
 hyper: [[file:noun.state.org::rank]]
 g: position eight in a countable series of things
 
-w: <<seventh>> drf [[file:adj.all.org::seventh]]
+w: <<seventh>> drf [[file:adjs.all.org::seventh]]
 hyper: [[file:noun.state.org::rank]]
 g: position seven in a countable series of things
 
@@ -343,7 +343,7 @@ w: <<sixth>>
 hyper: [[file:noun.state.org::rank]]
 g: position six in a countable series of things
 
-w: <<fifth>> drf [[file:adj.all.org::fifth]]
+w: <<fifth>> drf [[file:adjs.all.org::fifth]]
 hyper: [[file:noun.state.org::rank]]
 g: position five in a countable series of things; "he was fifth out of several hundred runners"
 
@@ -359,7 +359,7 @@ w: <<latter>> ant [[former]]
 hyper: [[second]]
 g: the second of two or the second mentioned of two; "Tom and Dick were both heroes but only the latter is remembered today"
 
-w: <<second>> drf [[file:adj.all.org::second]]
+w: <<second>> drf [[file:adjs.all.org::second]]
 hyper: [[file:noun.state.org::rank]]
 g: following the first in an ordering or series; "he came in a close second"
 
@@ -382,7 +382,7 @@ g: the relation that exists when things occur at unrelated times; "the stimulus 
 
 w: <<synchronism>> ant [[asynchronism]]
 w: <<synchrony>> drf [[file:adj.all.org::synchronic4]] drf [[file:adj.all.org::synchronous]] drf [[file:verb.stative.org::synchronize]] drf [[file:verb.communication.org::synchronize]] drf [[file:verb.cognition.org::synchronize]] drf [[file:verb.change.org::synchronize]] drf [[file:verb.stative.org::synchronise]] drf [[file:verb.cognition.org::synchronise]] drf [[file:verb.change.org::synchronise]]
-w: <<synchronicity>> drf [[file:adj.all.org::synchronic2]] drf [[file:adj.all.org::synchronic4]]
+w: <<synchronicity>> drf [[file:adjs.all.org::synchronic2]] drf [[file:adj.all.org::synchronic4]]
 w: <<synchroneity>> drf [[file:adj.all.org::synchronous]]
 w: <<synchronization>> drf [[file:verb.stative.org::synchronize]] ant [[desynchronization]]
 w: <<synchronisation>> drf [[file:verb.stative.org::synchronise]]
@@ -413,7 +413,7 @@ g: the interrelation of conscious and unconscious processes and emotions that de
 
 w: <<interrelation>> drf [[interrelationship]] drf [[file:verb.stative.org::interrelate]] drf [[file:verb.cognition.org::interrelate]]
 w: <<interrelationship>> drf [[interrelation]]
-w: <<interrelatedness>> drf [[file:adj.all.org::interrelated]]
+w: <<interrelatedness>> drf [[file:adjs.all.org::interrelated]]
 hyper: [[file:noun.Tops.org::relation]]
 g: mutual or reciprocal relation or relatedness; "interrelationships of animal structure and function"
 
@@ -434,8 +434,8 @@ w: <<reciprocal1>>
 hyper: [[reciprocality]]
 g: something (a term or expression or concept) that has a reciprocal relation to something else; "risk is the reciprocal of safety"
 
-w: <<mutuality1>> drf [[file:adj.all.org::mutual]] drf [[file:adj.all.org::mutual]]
-w: <<mutualness>> drf [[file:adj.all.org::mutual]]
+w: <<mutuality1>> drf [[file:adjs.all.org::mutual]] drf [[file:adj.all.org::mutual]]
+w: <<mutualness>> drf [[file:adjs.all.org::mutual]]
 hyper: [[reciprocality]]
 g: a reciprocality of sentiments; "the mutuality of their affection was obvious"
 
@@ -454,7 +454,7 @@ w: <<trophobiosis>>
 hyper: [[symbiosis]]
 g: a symbiotic relation in which one organism protects the other in return for some kind of food product
 
-w: <<symbiosis>> drf [[file:adj.all.org::symbiotic]]
+w: <<symbiosis>> drf [[file:adjs.all.org::symbiotic]]
 w: <<mutualism>>
 hyper: [[mutuality]]
 g: the relation between two different species of organisms that are interdependent; each gains benefits from the other
@@ -467,14 +467,14 @@ w: <<commensalism>>
 hyper: [[mutuality]]
 g: the relation between two different kinds of organisms when one receives benefits from the other without damaging it
 
-w: <<mutuality>> drf [[file:adj.all.org::mutual]] drf [[file:adj.all.org::mutual]]
-w: <<interdependence>> drf [[file:adj.all.org::interdependent]] drf [[file:verb.stative.org::interdepend]]
-w: <<interdependency>> drf [[file:adj.all.org::interdependent]] drf [[file:verb.stative.org::interdepend]]
+w: <<mutuality>> drf [[file:adjs.all.org::mutual]] drf [[file:adj.all.org::mutual]]
+w: <<interdependence>> drf [[file:adjs.all.org::interdependent]] drf [[file:verb.stative.org::interdepend]]
+w: <<interdependency>> drf [[file:adjs.all.org::interdependent]] drf [[file:verb.stative.org::interdepend]]
 hyper: [[reciprocality]]
 g: a reciprocal relation between interdependent entities (objects or individuals or groups)
 
 w: <<correlation>> drf [[file:adj.pert.org::correlational]] drf [[file:verb.stative.org::correlate]] drf [[file:verb.cognition.org::correlate]]
-w: <<correlativity>> drf [[file:adj.all.org::correlative]] drf [[file:adj.all.org::correlative]]
+w: <<correlativity>> drf [[file:adjs.all.org::correlative]] drf [[file:adjs.all.org::correlative]]
 hyper: [[reciprocality]]
 g: a reciprocal relation between two or more things
 
@@ -993,7 +993,7 @@ w: <<quotient>>
 hyper: [[ratio1]]
 g: the ratio of two quantities to be divided
 
-w: <<proportionality>> drf [[file:adj.all.org::proportional1]]
+w: <<proportionality>> drf [[file:adjs.all.org::proportional1]]
 hyper: [[ratio1]]
 g: a ratio of two quantities that is constant
 
@@ -1182,8 +1182,8 @@ hyper: [[proportion]]
 g: a proportion in relation to a whole (which is usually the amount per hundred)
 
 w: <<commensurateness>> drf [[file:adj.all.org::commensurate]]
-w: <<correspondence1>> drf [[file:adj.all.org::correspondent]]
-w: <<proportionateness>> drf [[file:adj.all.org::proportionate]] drf [[file:adj.all.org::proportionate]] drf [[file:adj.all.org::proportionate]]
+w: <<correspondence1>> drf [[file:adjs.all.org::correspondent]]
+w: <<proportionateness>> drf [[file:adjs.all.org::proportionate]] drf [[file:adjs.all.org::proportionate]] drf [[file:adj.all.org::proportionate]]
 hyper: [[proportionality]]
 g: the relation of corresponding in degree or size or amount
 
@@ -1270,7 +1270,7 @@ hyper: [[kinship]]
 g: the kinship relation between an offspring and the mother
 
 w: <<fatherhood>>
-w: <<paternity>> drf [[file:adj.all.org::paternal]]
+w: <<paternity>> drf [[file:adjs.all.org::paternal]]
 hyper: [[kinship]]
 g: the kinship relation between an offspring and the father
 
@@ -1279,7 +1279,7 @@ w: <<birth>>
 hyper: [[kinship]]
 g: the kinship relation of an offspring to the parents
 
-w: <<consanguinity>> drf [[file:adj.all.org::consanguine]] ant [[affinity1]]
+w: <<consanguinity>> drf [[file:adjs.all.org::consanguine]] ant [[affinity1]]
 w: <<blood_kinship>>
 w: <<cognation>>
 hyper: [[kinship]]
@@ -1290,7 +1290,7 @@ w: <<steprelationship>>
 hyper: [[affinity1]]
 g: a family relationship by virtue of remarriage
 
-w: <<affinity1>> drf [[file:adj.all.org::affine]] ant [[consanguinity]]
+w: <<affinity1>> drf [[file:adjs.all.org::affine]] ant [[consanguinity]]
 hyper: [[kinship]]
 dt: [[file:noun.cognition.org::anthropology]]
 g: (anthropology) kinship by marriage or adoption; not a blood relationship
@@ -1320,7 +1320,7 @@ w: <<mutual_affection>>
 hyper: [[sympathy]]
 g: sympathy of each person for the other
 
-w: <<sympathy>> drf [[file:verb.emotion.org::sympathize1]] drf [[file:verb.emotion.org::sympathise1]] drf [[file:adj.all.org::sympathetic]]
+w: <<sympathy>> drf [[file:verb.emotion.org::sympathize1]] drf [[file:verb.emotion.org::sympathise1]] drf [[file:adjs.all.org::sympathetic]]
 hyper: [[affinity3]]
 g: a relation of affinity or harmony between people; whatever affects one correspondingly affects the other; "the two of them were in close sympathy"
 
@@ -1376,7 +1376,7 @@ w: <<base>>
 hyper: [[part]]
 g: the most important or necessary part of something; "the basis of this drink is orange juice"
 
-w: <<part>> drf [[file:adj.all.org::partial]]
+w: <<part>> drf [[file:adjs.all.org::partial]]
 w: <<portion>>
 w: <<component_part>>
 w: <<component>>
@@ -1652,12 +1652,12 @@ w: <<reflexiveness>>
 hyper: [[coreference]]
 g: the coreferential relation between a reflexive pronoun and its antecedent
 
-w: <<coreference>> drf [[file:adj.pert.org::coreferential]] drf [[file:adj.all.org::coreferent]]
+w: <<coreference>> drf [[file:adj.pert.org::coreferential]] drf [[file:adjs.all.org::coreferent]]
 hyper: [[grammatical_relation]]
 g: the grammatical relation between two words that have a common referent
 
-w: <<reflexivity1>> drf [[file:adj.all.org::reflexive]]
-w: <<reflexiveness1>> drf [[file:adj.all.org::reflexive]]
+w: <<reflexivity1>> drf [[file:adjs.all.org::reflexive]]
+w: <<reflexiveness1>> drf [[file:adjs.all.org::reflexive]]
 hyper: [[logical_relation]]
 hyper: [[mathematical_relation]]
 dt: [[file:noun.cognition.org::logic]]
@@ -1710,7 +1710,7 @@ w: <<grammatical_relation>>
 hyper: [[linguistic_relation]]
 g: a linguistic relation established by grammar
 
-w: <<extraneousness>> drf [[file:adj.all.org::extraneous2]] drf [[file:adj.all.org::extraneous1]] drf [[file:adj.all.org::extraneous]] drf [[file:adj.all.org::extraneous]]
+w: <<extraneousness>> drf [[file:adjs.all.org::extraneous2]] drf [[file:adjs.all.org::extraneous1]] drf [[file:adjs.all.org::extraneous]] drf [[file:adjs.all.org::extraneous]]
 hyper: [[unrelatedness]]
 g: unrelatedness by virtue of falling outside the matter at hand
 
@@ -1718,11 +1718,11 @@ w: <<unrelatedness>> drf [[file:adj.all.org::unrelated2]] drf [[file:adj.all.org
 hyper: [[unconnectedness]]
 g: the lack of any particular manner of connectedness
 
-w: <<immateriality>> drf [[file:adj.all.org::immaterial]] drf [[file:adj.all.org::immaterial]] drf [[file:adj.all.org::immaterial2]] ant [[materiality]]
+w: <<immateriality>> drf [[file:adjs.all.org::immaterial]] drf [[file:adjs.all.org::immaterial]] drf [[file:adj.all.org::immaterial2]] ant [[materiality]]
 hyper: [[irrelevance]]
 g: complete irrelevance requiring no further consideration
 
-w: <<inapplicability>> drf [[file:adj.all.org::inapplicable]] ant [[applicability]]
+w: <<inapplicability>> drf [[file:adjs.all.org::inapplicable]] ant [[applicability]]
 hyper: [[irrelevance]]
 g: irrelevance by virtue of being inapplicable to the matter at hand
 
@@ -1739,13 +1739,13 @@ w: <<relatedness>> drf [[file:adj.all.org::related2]] drf [[file:adj.all.org::re
 hyper: [[connection]]
 g: a particular manner of connectedness; "the relatedness of all living things"
 
-w: <<applicability>> drf [[file:adj.all.org::applicable]] ant [[inapplicability]]
-w: <<pertinence>> drf [[file:adj.all.org::pertinent]] drf [[file:adj.all.org::pertinent]] drf [[file:verb.stative.org::pertain1]]
-w: <<pertinency>> drf [[file:adj.all.org::pertinent]] drf [[file:adj.all.org::pertinent]] drf [[file:verb.stative.org::pertain1]]
+w: <<applicability>> drf [[file:adjs.all.org::applicable]] ant [[inapplicability]]
+w: <<pertinence>> drf [[file:adjs.all.org::pertinent]] drf [[file:adjs.all.org::pertinent]] drf [[file:verb.stative.org::pertain1]]
+w: <<pertinency>> drf [[file:adjs.all.org::pertinent]] drf [[file:adjs.all.org::pertinent]] drf [[file:verb.stative.org::pertain1]]
 hyper: [[relevance]]
 g: relevance by virtue of being applicable to the matter at hand
 
-w: <<germaneness>> drf [[file:adj.all.org::germane]]
+w: <<germaneness>> drf [[file:adjs.all.org::germane]]
 hyper: [[applicability]]
 g: pertinence by virtue of a close relation to the matter at hand
 
@@ -1753,7 +1753,7 @@ w: <<point4>>
 hyper: [[relevance]]
 g: a style in speech or writing that arrests attention and has a penetrating or convincing quality or effect
 
-w: <<cogency>> drf [[file:adj.all.org::cogent]]
+w: <<cogency>> drf [[file:adjs.all.org::cogent]]
 hyper: [[relevance]]
 g: persuasive relevance
 
@@ -1766,7 +1766,7 @@ w: <<relevancy>> drf [[file:adj.all.org::relevant]]
 hyper: [[connection]]
 g: the relation of something to the matter at hand
 
-w: <<unconnectedness>> drf [[file:adj.all.org::unconnected]] drf [[file:adj.all.org::unconnected]] ant [[connectedness]]
+w: <<unconnectedness>> drf [[file:adjs.all.org::unconnected]] drf [[file:adj.all.org::unconnected]] ant [[connectedness]]
 hyper: [[file:noun.Tops.org::relation]]
 g: the lack of a connection between things
 
@@ -1813,14 +1813,14 @@ w: <<bond>> drf [[file:verb.social.org::bond13]] drf [[file:verb.contact.org::bo
 hyper: [[connection]]
 g: a connection based on kinship or marriage or common interest; "the shifting alliances within a large family"; "their friendship constitutes a powerful bond between them"
 
-w: <<series>> drf [[file:adj.all.org::serial]]
+w: <<series>> drf [[file:adjs.all.org::serial]]
 hyper: [[connection]]
 dt: [[file:noun.cognition.org::electronics]]
 g: (electronics) connection of components in such a manner that current flows first through one and then through the other; "the voltage divider consisted of a series of fixed resistors"
 
 w: <<connection>>
 w: <<connexion>>
-w: <<connectedness>> drf [[file:adj.all.org::connected2]] drf [[file:adj.all.org::connected]] ant [[unconnectedness]]
+w: <<connectedness>> drf [[file:adjs.all.org::connected2]] drf [[file:adjs.all.org::connected]] ant [[unconnectedness]]
 hyper: [[file:noun.Tops.org::relation]]
 attr: [[file:adj.all.org::connected]]
 attr: [[file:adj.all.org::unconnected]]
@@ -2065,7 +2065,7 @@ hyper: [[bonding]]
 g: the formation of a close personal relationship between women
 
 w: <<obligation>> drf [[file:verb.communication.org::oblige1]]
-w: <<indebtedness>> drf [[file:adj.all.org::indebted1]]
+w: <<indebtedness>> drf [[file:adjs.all.org::indebted1]]
 hyper: [[personal_relation]]
 g: a personal relation in which one is indebted for a service or favor
 
@@ -2091,7 +2091,7 @@ w: <<human_relationship>>
 hyper: [[file:noun.Tops.org::relation]]
 g: a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness); "the relationship between mothers and their children"
 
-w: <<causality>> drf [[file:adj.all.org::causal]]
+w: <<causality>> drf [[file:adjs.all.org::causal]]
 hyper: [[file:noun.Tops.org::relation]]
 g: the relation between causes and effects
 

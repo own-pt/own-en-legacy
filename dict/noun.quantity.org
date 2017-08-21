@@ -17,7 +17,7 @@ hyper: [[capacity]]
 hyper: [[file:noun.cognition.org::diagnostic_test]]
 g: the maximum amount of air that can be exhaled after a maximum inhalation (usually tested with a spirometer); used to determine the condition of lung tissue
 
-w: <<capacity>> drf [[file:adj.all.org::capacious]]
+w: <<capacity>> drf [[file:adjs.all.org::capacious]]
 w: <<content>> drf [[file:verb.stative.org::contain13]]
 hyper: [[volume]]
 g: the amount that can be contained; "the gas tank has a capacity of 12 gallons"
@@ -26,7 +26,7 @@ w: <<volume1>>
 hyper: [[file:noun.Tops.org::measure]]
 g: a relative amount; "mix one volume of the solution with ten volumes of water"
 
-w: <<volume>> drf [[file:adj.all.org::voluminous]]
+w: <<volume>> drf [[file:adjs.all.org::voluminous]]
 hyper: [[file:noun.Tops.org::measure]]
 g: the amount of 3-dimensional space occupied by an object; "the gas expanded to twice its original volume"
 
@@ -62,7 +62,7 @@ w: <<breathing_space>>
 hyper: [[room]]
 g: sufficient room for easy breathing or movement; "moved to the country to find breathing room"
 
-w: <<room>> drf [[file:adj.all.org::roomy]]
+w: <<room>> drf [[file:adjs.all.org::roomy]]
 w: <<way>>
 w: <<elbow_room>>
 hyper: [[file:noun.attribute.org::position]]
@@ -98,7 +98,7 @@ w: <<ream1>>
 hyper: [[large_indefinite_quantity]]
 g: a large quantity of written matter; "he wrote reams and reams"
 
-w: <<ocean>> drf [[file:adj.all.org::oceanic]]
+w: <<ocean>> drf [[file:adjs.all.org::oceanic]]
 w: <<sea>>
 hyper: [[large_indefinite_quantity]]
 g: anything apparently limitless in quantity or volume
@@ -107,7 +107,7 @@ w: <<reservoir>>
 hyper: [[supply]]
 g: a large or extra supply of something; "a reservoir of talent"
 
-w: <<myriad1>> drf [[file:adj.all.org::myriad]]
+w: <<myriad1>> drf [[file:adjs.all.org::myriad]]
 hyper: [[large_indefinite_quantity]]
 g: a large indefinite number; "he faced a myriad of details"
 
@@ -145,7 +145,7 @@ g: a mass of hay piled up in a barn for preservation
 w: <<flood>> drf [[file:verb.possession.org::flood]]
 w: <<inundation>> drf [[file:verb.contact.org::inundate]]
 w: <<deluge>> drf [[file:verb.communication.org::deluge]]
-w: <<torrent>> drf [[file:adj.all.org::torrential]]
+w: <<torrent>> drf [[file:adjs.all.org::torrential]]
 hyper: [[batch]]
 g: an overwhelming number or amount; "a flood of requests"; "a torrent of abuse"
 
@@ -164,7 +164,7 @@ g: an unimaginably large amount; "British say `it rained like billyo' where Amer
 
 w: <<battalion>>
 w: <<large_number>>
-w: <<multitude>> drf [[file:adj.all.org::multitudinous]]
+w: <<multitude>> drf [[file:adjs.all.org::multitudinous]]
 w: <<plurality1>>
 w: <<pack>>
 hyper: [[large_indefinite_quantity]]
@@ -187,7 +187,7 @@ w: <<muckle>>
 w: <<passel>>
 w: <<peck>>
 w: <<pile>> drf [[file:verb.motion.org::pile]]
-w: <<plenty>> drf [[file:adj.all.org::plenteous]]
+w: <<plenty>> drf [[file:adjs.all.org::plenteous]]
 w: <<pot1>>
 w: <<quite_a_little>>
 w: <<raft>>
@@ -605,7 +605,7 @@ w: <<armful>>
 hyper: [[containerful]]
 g: the quantity that can be contained in the arms
 
-w: <<worth>> drf [[file:adj.all.org::worth]]
+w: <<worth>> drf [[file:adjs.all.org::worth]]
 hyper: [[indefinite_quantity]]
 g: an indefinite quantity of something having a specified value; "10 dollars worth of gasoline"
 
@@ -700,7 +700,7 @@ hyper: [[small_indefinite_quantity]]
 g: a very small distance or space; "they escaped by a hair's-breadth"; "they lost the election by a whisker"
 
 w: <<spot>>
-w: <<bit1>> drf [[file:adj.all.org::bitty]]
+w: <<bit1>> drf [[file:adjs.all.org::bitty]]
 hyper: [[small_indefinite_quantity]]
 g: a small piece or quantity of something; "a spot of tea"; "a bit of paper"; "a bit of lint"; "I gave him a bit of my mind"
 
@@ -811,7 +811,7 @@ hyper: [[capacity1]]
 dt: [[file:noun.cognition.org::computer_science]]
 g: (computer science) the usable capacity of a disk drive; the amount of space that is left after the sector headings and boundary definitions and timing information have been added by formatting the disk
 
-w: <<capacity1>> drf [[file:adj.all.org::capacious]]
+w: <<capacity1>> drf [[file:adjs.all.org::capacious]]
 hyper: [[indefinite_quantity]]
 dt: [[file:noun.cognition.org::computer_science]]
 g: (computer science) the amount of information (in bytes) that can be stored on a disk drive; "the capacity of a hard disk drive is usually expressed in megabytes"
@@ -824,7 +824,7 @@ w: <<bag1>> drf [[file:verb.contact.org::bag1]]
 hyper: [[indefinite_quantity]]
 g: the quantity of game taken in a particular period (usually by one person); "his bag included two deer"
 
-w: <<accretion>> drf [[file:adj.all.org::accretionary]]
+w: <<accretion>> drf [[file:adjs.all.org::accretionary]]
 hyper: [[addition]]
 g: something contributing to growth or increase; "he scraped away the accretions of paint"; "the central city surrounded by recent accretions"
 
@@ -899,7 +899,7 @@ dr: [[file:noun.location.org::United_States]]
 dr: [[file:noun.location.org::France]]
 g: the number that is represented as a one followed by 12 zeros; "in England they call a trillion a billion"
 
-w: <<billion1>> drf [[file:adj.all.org::billion1]]
+w: <<billion1>> drf [[file:adjs.all.org::billion1]]
 w: <<one_million_million>>
 w: <<1000000000000>>
 hyper: [[large_integer]]
@@ -911,7 +911,7 @@ hyper: [[billion]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: a billion; "in England they call one thousand million a milliard"
 
-w: <<billion>> drf [[file:adj.all.org::billion]]
+w: <<billion>> drf [[file:adjs.all.org::billion]]
 w: <<one_thousand_million>>
 w: <<1000000000>>
 hyper: [[large_integer]]
@@ -1008,7 +1008,7 @@ w: <<LXXVIII>>
 hyper: [[large_integer]]
 g: the cardinal number that is the sum of seventy and eight
 
-w: <<seventy>> drf [[file:adj.all.org::seventy]]
+w: <<seventy>> drf [[file:adjs.all.org::seventy]]
 w: <<70>>
 w: <<LXX>>
 hyper: [[large_integer]]
@@ -1020,7 +1020,7 @@ w: <<LX>>
 hyper: [[large_integer]]
 g: the cardinal number that is the product of ten and six
 
-w: <<fifty>> drf [[file:adj.all.org::fifty]]
+w: <<fifty>> drf [[file:adjs.all.org::fifty]]
 w: <<50>>
 w: <<L6>>
 hyper: [[large_integer]]
@@ -1099,7 +1099,7 @@ w: <<XX>>
 hyper: [[large_integer]]
 g: the cardinal number that is the sum of nineteen and one
 
-w: <<nineteen>> drf [[file:adj.all.org::nineteen]]
+w: <<nineteen>> drf [[file:adjs.all.org::nineteen]]
 w: <<19>>
 w: <<XIX>>
 hyper: [[large_integer]]
@@ -1111,7 +1111,7 @@ w: <<XVIII>>
 hyper: [[large_integer]]
 g: the cardinal number that is the sum of seventeen and one
 
-w: <<seventeen>> drf [[file:adj.all.org::seventeen]]
+w: <<seventeen>> drf [[file:adjs.all.org::seventeen]]
 w: <<17>>
 w: <<XVII>>
 hyper: [[large_integer]]
@@ -1123,7 +1123,7 @@ w: <<XVI>>
 hyper: [[large_integer]]
 g: the cardinal number that is the sum of fifteen and one
 
-w: <<fifteen>> drf [[file:adj.all.org::fifteen]]
+w: <<fifteen>> drf [[file:adjs.all.org::fifteen]]
 w: <<15>>
 w: <<XV>>
 hyper: [[large_integer]]
@@ -1155,7 +1155,7 @@ g: (usually plural) an expression used when two dice are thrown and both come up
 w: <<twelve>>
 w: <<12>>
 w: <<XII>>
-w: <<dozen>> drf [[file:adj.all.org::dozen]]
+w: <<dozen>> drf [[file:adjs.all.org::dozen]]
 hyper: [[large_integer]]
 g: the cardinal number that is the sum of eleven and one
 
@@ -1202,7 +1202,7 @@ w: <<octet>>
 hyper: [[digit]]
 g: the cardinal number that is the sum of seven and one
 
-w: <<seven>> drf [[file:adj.all.org::seven]]
+w: <<seven>> drf [[file:adjs.all.org::seven]]
 w: <<7>>
 w: <<VII>>
 w: <<sevener>>
@@ -1611,7 +1611,7 @@ w: <<aliquant_part>>
 hyper: [[divisor]]
 g: an integer that is not an exact divisor of some quantity; "5 is an aliquant part of 12"
 
-w: <<aliquot>> drf [[file:adj.all.org::aliquot]] ant [[aliquant]]
+w: <<aliquot>> drf [[file:adjs.all.org::aliquot]] ant [[aliquant]]
 w: <<aliquot_part>>
 hyper: [[divisor]]
 g: an integer that is an exact divisor of some quantity; "4 is an aliquot part of 12"
@@ -4395,7 +4395,7 @@ hyper: [[handbreadth]]
 g: a unit of length equal to 4 inches; used in measuring horses; "the horse stood 20 hands"
 
 w: <<extremum>>
-w: <<peak>> drf [[file:adj.all.org::peaky]] drf [[file:verb.motion.org::peak]]
+w: <<peak>> drf [[file:adjs.all.org::peaky]] drf [[file:verb.motion.org::peak]]
 hyper: [[limit]]
 g: the most extreme possible amount or value; "voltage peak"
 
@@ -5979,7 +5979,7 @@ w: <<googol>>
 hyper: [[cardinal_number]]
 g: a cardinal number represented as 1 followed by 100 zeros (ten raised to the power of a hundred)
 
-w: <<frequency>> drf [[file:adj.all.org::frequent]] drf [[file:adj.all.org::frequent]]
+w: <<frequency>> drf [[file:adjs.all.org::frequent]] drf [[file:adj.all.org::frequent]]
 w: <<absolute_frequency>>
 hyper: [[cardinal_number]]
 g: the number of observations in a given statistical category
@@ -6406,7 +6406,7 @@ w: <<fill>> drf [[file:verb.consumption.org::fill]] drf [[file:verb.consumption.
 hyper: [[enough]]
 g: a quantity sufficient to satisfy; "he ate his fill of potatoes"; "she had heard her fill of gossip"
 
-w: <<enough>> drf [[file:adj.all.org::enough]]
+w: <<enough>> drf [[file:adjs.all.org::enough]]
 w: <<sufficiency>> drf [[file:adj.all.org::sufficient]] drf [[file:verb.stative.org::suffice]]
 hyper: [[relative_quantity]]
 g: an adequate quantity; a quantity that is large enough to achieve a purpose; "enough is as good as a feast"; "there is more than a sufficiency of lawyers in this country"

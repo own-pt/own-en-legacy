@@ -918,7 +918,7 @@ hyper: [[textile_machine]]
 g: a textile machine having a system of revolving spikes for opening and cleaning raw textile fibers
 
 w: <<wildcat_well>>
-w: <<wildcat>> drf [[file:adj.all.org::wildcat]]
+w: <<wildcat>> drf [[file:adjs.all.org::wildcat]]
 hyper: [[oil_well]]
 g: an exploratory oil well drilled in land not known to be an oil field
 
@@ -1551,7 +1551,6 @@ hyper: [[skin2]]
 g: a container of skin for holding water
 
 w: <<water_ski>> drf [[file:verb.motion.org::water_ski]]
-w: waterski
 hyper: [[ski]]
 g: broad ski for skimming over water towed by a speedboat
 
@@ -1570,7 +1569,7 @@ w: <<waterproofing>>
 hyper: [[coating]]
 g: a coating capable of making a surface waterproof
 
-w: <<waterproof2>> drf [[file:adj.all.org::waterproof]] drf [[file:verb.contact.org::waterproof]]
+w: <<waterproof2>> drf [[file:adjs.all.org::waterproof]] drf [[file:verb.contact.org::waterproof]]
 hyper: [[fabric]]
 g: any fabric impervious to water
 
@@ -1838,7 +1837,7 @@ hp: [[bathroom]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: a basin for washing the hands (`wash-hand basin' is a British expression)
 
-w: <<wash-and-wear>> drf [[file:adj.all.org::wash-and-wear]]
+w: <<wash-and-wear>> drf [[file:adjs.all.org::wash-and-wear]]
 hyper: [[fabric]]
 g: a fabric treated to be easily washable and to require no ironing
 
@@ -2537,9 +2536,9 @@ hyper: [[caliper]]
 g: a caliper with a vernier scale for very fine measurements
 
 w: <<vermifuge>>
-w: <<anthelmintic>> drf [[file:adj.all.org::anthelmintic]]
-w: <<anthelminthic>> drf [[file:adj.all.org::anthelminthic]]
-w: <<helminthic>> drf [[file:adj.all.org::helminthic]]
+w: <<anthelmintic>> drf [[file:adjs.all.org::anthelmintic]]
+w: <<anthelminthic>> drf [[file:adjs.all.org::anthelminthic]]
+w: <<helminthic>> drf [[file:adjs.all.org::helminthic]]
 hyper: [[medicine]]
 g: a medication capable of causing the evacuation of parasitic intestinal worms
 
@@ -2647,7 +2646,7 @@ w: <<velveteen>>
 hyper: [[fabric]]
 g: a usually cotton fabric with a short pile imitating velvet
 
-w: <<velvet>> drf [[file:adj.all.org::velvet]] drf [[file:adj.all.org::velvet]] drf [[file:adj.all.org::velvety]]
+w: <<velvet>> drf [[file:adjs.all.org::velvet]] drf [[file:adjs.all.org::velvet]] drf [[file:adjs.all.org::velvety]]
 hyper: [[fabric]]
 g: a silky densely piled fabric with a plain back
 
@@ -3284,7 +3283,7 @@ w: <<tweeter>> drf [[file:verb.perception.org::tweet]]
 hyper: [[loudspeaker]]
 g: a loudspeaker that reproduces higher audio frequency sounds; "the sound system had both tweeters and woofers"
 
-w: <<tweed>> drf [[file:adj.all.org::tweedy]]
+w: <<tweed>> drf [[file:adjs.all.org::tweedy]]
 hyper: [[fabric]]
 g: thick woolen fabric used for clothing; originated in Scotland
 
@@ -3537,7 +3536,7 @@ hyper: [[electronic_device]]
 hp: [[circuit]]
 g: electronic device consisting of a system of electrodes arranged in an evacuated glass or metal envelope
 
-w: <<tube>> drf [[file:adj.all.org::tubular]] drf [[file:verb.contact.org::tube]]
+w: <<tube>> drf [[file:adjs.all.org::tubular]] drf [[file:verb.contact.org::tube]]
 w: <<tubing>> drf [[file:verb.motion.org::tube]]
 hyper: [[conduit]]
 g: conduit consisting of a long hollow object (usually cylindrical) used to hold and conduct objects or liquids or gases
@@ -3739,7 +3738,7 @@ hyper: [[carriage]]
 g: a Russian carriage pulled by three horses abreast
 
 w: <<triviality>>
-w: <<trivia>> drf [[file:adj.all.org::trivial]] drf [[file:adj.all.org::trivial]]
+w: <<trivia>> drf [[file:adjs.all.org::trivial]] drf [[file:adjs.all.org::trivial]]
 w: <<trifle>>
 w: <<small_beer>>
 hyper: [[file:noun.Tops.org::object]]
@@ -4216,7 +4215,7 @@ w: <<tranquilliser>> drf [[file:verb.body.org::tranquillise]]
 w: <<antianxiety_agent>>
 w: <<ataractic_drug>>
 w: <<ataractic_agent>>
-w: <<ataractic>> drf [[file:adj.all.org::ataractic]]
+w: <<ataractic>> drf [[file:adjs.all.org::ataractic]]
 hyper: [[psychotropic_agent]]
 hyper: [[sedative-hypnotic]]
 g: a drug used to reduce stress or tension without reducing mental clarity
@@ -4748,7 +4747,7 @@ hyper: [[measuring_instrument]]
 g: measuring instrument for measuring tension or pressure (especially for measuring intraocular pressure in testing for glaucoma)
 
 w: <<tonic>>
-w: <<restorative1>> drf [[file:adj.all.org::restorative]] drf [[file:adj.all.org::restorative]]
+w: <<restorative1>> drf [[file:adjs.all.org::restorative]] drf [[file:adjs.all.org::restorative]]
 hyper: [[medicine]]
 g: a medicine that strengthens and invigorates
 
@@ -5094,11 +5093,11 @@ w: <<tintack>>
 hyper: [[tack]]
 g: tack or small nail of tinned iron
 
-w: <<tinsel1>> drf [[file:adj.all.org::tinselly]] drf [[file:verb.creation.org::tinsel]] drf [[file:verb.possession.org::tinsel]]
+w: <<tinsel1>> drf [[file:adjs.all.org::tinselly]] drf [[file:verb.creation.org::tinsel]] drf [[file:verb.possession.org::tinsel]]
 hyper: [[decoration]]
 g: a showy decoration that is basically valueless; "all the tinsel of self-promotion"
 
-w: <<tinsel>> drf [[file:adj.all.org::tinselly]] drf [[file:verb.creation.org::tinsel]] drf [[file:verb.contact.org::tinsel]]
+w: <<tinsel>> drf [[file:adjs.all.org::tinselly]] drf [[file:verb.creation.org::tinsel]] drf [[file:verb.contact.org::tinsel]]
 hyper: [[thread]]
 g: a thread with glittering metal foil attached
 
@@ -5866,7 +5865,7 @@ hyper: [[electronic_equipment]]
 g: electronic equipment consisting of a device providing access to a computer; has a keyboard and display
 
 w: <<terminal1>>
-w: <<pole3>> drf [[file:adj.all.org::polar]]
+w: <<pole3>> drf [[file:adjs.all.org::polar]]
 hyper: [[contact]]
 hp: [[electrical_device]]
 hp: [[battery]]
@@ -6146,7 +6145,7 @@ w: <<telescope_sight>>
 hyper: [[gunsight]]
 g: gunsight consisting of a telescope on a firearm for use as a sight
 
-w: <<telescope>> drf [[file:adj.all.org::telescopic]] drf [[file:adj.all.org::telescopic]]
+w: <<telescope>> drf [[file:adjs.all.org::telescopic]] drf [[file:adjs.all.org::telescopic]]
 w: <<scope2>>
 hyper: [[magnifier]]
 g: a magnifier of images of distant objects
@@ -7622,7 +7621,7 @@ g: a country house (usually located in the country) that provides a cool place t
 w: <<sum>> drf [[file:verb.communication.org::sum]] drf [[file:verb.communication.org::summate]]
 w: <<total>> drf [[file:verb.stative.org::total]] drf [[file:verb.communication.org::total]]
 w: <<totality>>
-w: <<aggregate>> drf [[file:adj.all.org::aggregate1]] drf [[file:verb.stative.org::aggregate]] drf [[file:verb.contact.org::aggregate]]
+w: <<aggregate>> drf [[file:adjs.all.org::aggregate1]] drf [[file:verb.stative.org::aggregate]] drf [[file:verb.contact.org::aggregate]]
 hyper: [[file:noun.Tops.org::whole]]
 g: the whole amount
 
@@ -7794,7 +7793,7 @@ w: <<submarine_torpedo>>
 hyper: [[torpedo]]
 g: a torpedo designed to be launched from a submarine
 
-w: <<submarine>> drf [[file:adj.all.org::submarine]]
+w: <<submarine>> drf [[file:adjs.all.org::submarine]]
 w: <<pigboat>>
 w: <<sub>>
 w: <<U-boat>>
@@ -8634,7 +8633,7 @@ hyper: [[photograph]]
 g: two photographs taken from slightly different angles that appear three-dimensional when viewed together
 
 w: <<stereo>>
-w: <<stereophony>> drf [[file:adj.all.org::stereophonic]]
+w: <<stereophony>> drf [[file:adjs.all.org::stereophonic]]
 w: <<stereo_system>>
 w: <<stereophonic_system>>
 hyper: [[reproducer]]
@@ -9700,7 +9699,7 @@ hyper: [[oblique_bandage]]
 g: an oblique bandage in which successive turns overlap preceding turns
 
 w: <<spiral1>>
-w: <<volute1>> drf [[file:adj.all.org::volute]]
+w: <<volute1>> drf [[file:adjs.all.org::volute]]
 hyper: [[decoration]]
 g: ornament consisting of a curve on a plane that winds around a center with an increasing distance from the center
 
@@ -9855,7 +9854,7 @@ w: <<spherometer>>
 hyper: [[measuring_instrument]]
 g: a measuring instrument for measuring the curvature of a surface
 
-w: <<sphere>> drf [[file:adj.all.org::spherical]] drf [[file:adj.pert.org::spherical]] drf [[file:adj.all.org::spheric]]
+w: <<sphere>> drf [[file:adjs.all.org::spherical]] drf [[file:adj.pert.org::spherical]] drf [[file:adjs.all.org::spheric]]
 hyper: [[file:noun.Tops.org::artifact]]
 g: any spherically shaped artifact
 
@@ -9939,7 +9938,7 @@ hp: [[frame2]]
 du: [[file:noun.communication.org::plural]]
 g: optical instrument consisting of a frame that holds a pair of lenses for correcting defective vision
 
-w: <<spectacle>> drf [[file:adj.all.org::spectacular]]
+w: <<spectacle>> drf [[file:adjs.all.org::spectacular]]
 hyper: [[display]]
 g: an elaborate and remarkable display on a lavish scale
 
@@ -10282,7 +10281,7 @@ w: <<sorter>> drf [[file:verb.cognition.org::sort]]
 hyper: [[machine]]
 g: a machine for sorting things (such as punched cards or letters) into classes
 
-w: <<soporific>> drf [[file:adj.all.org::soporific]] drf [[file:adj.all.org::soporific]]
+w: <<soporific>> drf [[file:adjs.all.org::soporific]] drf [[file:adjs.all.org::soporific]]
 w: <<hypnotic>>
 hyper: [[drug]]
 hyper: [[file:noun.substance.org::hypnagogue]]
@@ -11131,7 +11130,7 @@ hyper: [[trouser]]
 du: [[file:noun.communication.org::plural]]
 g: (usually in the plural) pants for casual wear
 
-w: <<slack>> drf [[file:adj.all.org::slack]] drf [[file:verb.change.org::slack]]
+w: <<slack>> drf [[file:adjs.all.org::slack]] drf [[file:verb.change.org::slack]]
 hyper: [[cord]]
 g: a cord or rope or cable that is hanging loosely; "he took up the slack"
 
@@ -11563,7 +11562,7 @@ hyper: [[garment]]
 du: [[file:noun.communication.org::plural]]
 g: the brightly colored garments of a jockey; emblematic of the stable
 
-w: <<silk>> drf [[file:adj.all.org::silky]]
+w: <<silk>> drf [[file:adjs.all.org::silky]]
 hyper: [[fabric]]
 g: a fabric made from the fine threads produced by certain insect larvae
 
@@ -12497,7 +12496,7 @@ w: <<sharpener>> drf [[file:verb.contact.org::sharpen]]
 hyper: [[implement]]
 g: any implement that is used to make something (an edge or a point) sharper; "a knife sharpener"
 
-w: <<sharp>> drf [[file:adj.all.org::sharp]]
+w: <<sharp>> drf [[file:adjs.all.org::sharp]]
 hyper: [[sewing_needle]]
 g: a long thin sewing needle with a sharp point
 
@@ -12507,7 +12506,7 @@ g: a smooth crisp fabric
 
 w: <<shard>>
 w: <<sherd>>
-w: <<fragment>> drf [[file:adj.all.org::fragmentary]] drf [[file:adj.all.org::fragmental]] drf [[file:verb.change.org::fragment]]
+w: <<fragment>> drf [[file:adjs.all.org::fragmentary]] drf [[file:adjs.all.org::fragmental]] drf [[file:verb.change.org::fragment]]
 hyper: [[piece]]
 g: a broken piece of a brittle artifact
 
@@ -12563,7 +12562,7 @@ w: <<shag_rug>>
 hyper: [[rug]]
 g: a rug with long pile
 
-w: <<shag>> drf [[file:adj.all.org::shaggy]]
+w: <<shag>> drf [[file:adjs.all.org::shaggy]]
 hyper: [[fabric]]
 hp: [[shag_rug]]
 g: a fabric with long coarse nap; "he bought a shag rug"
@@ -12831,7 +12830,7 @@ hyper: [[shawl]]
 g: a long brightly colored shawl; worn mainly by Mexican men
 
 w: <<sequin>>
-w: <<spangle>> drf [[file:adj.all.org::spangly]] drf [[file:verb.creation.org::spangle]] drf [[file:verb.perception.org::spangle]]
+w: <<spangle>> drf [[file:adjs.all.org::spangly]] drf [[file:verb.creation.org::spangle]] drf [[file:verb.perception.org::spangle]]
 w: <<diamante>>
 hyper: [[adornment]]
 g: adornment consisting of a small piece of shiny material used to decorate clothing
@@ -13028,7 +13027,7 @@ w: <<sedative-hypnotic_drug>>
 hyper: [[sedative]]
 g: a sedative that depresses activity of the central nervous system and reduces anxiety and induces sleep
 
-w: <<sedative>> drf [[file:adj.all.org::sedative]]
+w: <<sedative>> drf [[file:adjs.all.org::sedative]]
 w: <<sedative_drug>>
 w: <<depressant>> drf [[file:adj.all.org::depressant]] drf [[file:verb.emotion.org::depress]]
 w: <<downer>> drf [[file:verb.contact.org::down]]
@@ -13197,7 +13196,7 @@ w: <<hydroplane>> drf [[file:verb.motion.org::hydroplane]]
 hyper: [[airplane]]
 g: an airplane that can land on or take off from water; "the designer of marine aircraft demonstrated his newest hydroplane"
 
-w: <<seam>> drf [[file:adj.all.org::seamy]] drf [[file:noun.person.org::seamster]] drf [[file:verb.contact.org::seam]]
+w: <<seam>> drf [[file:adjs.all.org::seamy]] drf [[file:noun.person.org::seamster]] drf [[file:verb.contact.org::seam]]
 hyper: [[joint1]]
 g: joint consisting of a line formed by joining two pieces
 
@@ -13268,11 +13267,11 @@ w: <<scupper>>
 hyper: [[drain]]
 g: drain that allows water on the deck of a vessel to flow overboard
 
-w: <<scum>> drf [[file:adj.all.org::scummy]] drf [[file:verb.possession.org::scum]]
+w: <<scum>> drf [[file:adjs.all.org::scummy]] drf [[file:verb.possession.org::scum]]
 hyper: [[film]]
 g: a film of impurities or vegetation that can form on the surface of a liquid
 
-w: <<sculpture>> drf [[file:adj.all.org::sculptural]] drf [[file:adj.pert.org::sculptural]] drf [[file:verb.contact.org::sculpture]] drf [[file:verb.creation.org::sculpture]] drf [[file:verb.creation.org::sculpt]] drf [[file:verb.contact.org::sculpt]]
+w: <<sculpture>> drf [[file:adjs.all.org::sculptural]] drf [[file:adj.pert.org::sculptural]] drf [[file:verb.contact.org::sculpture]] drf [[file:verb.creation.org::sculpture]] drf [[file:verb.creation.org::sculpt]] drf [[file:verb.contact.org::sculpt]]
 hyper: [[plastic_art]]
 hyper: [[file:noun.shape.org::solid_figure]]
 g: a three-dimensional work of plastic art
@@ -13600,7 +13599,7 @@ hyper: [[merchandise]]
 du: [[file:noun.communication.org::slang]]
 g: merchandise that is shoddy or inferior
 
-w: <<schematic>> drf [[file:adj.all.org::schematic]]
+w: <<schematic>> drf [[file:adjs.all.org::schematic]]
 w: <<schematic_drawing>>
 hyper: [[diagram]]
 g: diagram of an electrical or mechanical system
@@ -13825,7 +13824,7 @@ w: <<satinette>>
 hyper: [[fabric]]
 g: a fabric with a finish resembling satin but made partly or wholly from cotton or synthetic fiber
 
-w: <<satin>> drf [[file:adj.all.org::satiny]]
+w: <<satin>> drf [[file:adjs.all.org::satiny]]
 hyper: [[fabric]]
 g: a smooth fabric of silk or rayon; has a glossy face and a dull back
 
@@ -14983,7 +14982,7 @@ dt: [[file:noun.group.org::military]]
 g: a military base for rocket missiles
 
 w: <<rocket1>> drf [[file:verb.contact.org::rocket]]
-w: <<projectile1>> drf [[file:adj.all.org::projectile]]
+w: <<projectile1>> drf [[file:adjs.all.org::projectile]]
 hyper: [[vehicle]]
 g: any vehicle self-propelled by a rocket engine
 
@@ -15327,7 +15326,7 @@ hyper: [[strip]]
 hp: [[typewriter]]
 g: a long strip of inked material for making characters on paper with a typewriter
 
-w: <<ribbon>> drf [[file:adj.all.org::ribbony]]
+w: <<ribbon>> drf [[file:adjs.all.org::ribbony]]
 hyper: [[notion]]
 g: notion consisting of a narrow strip of fine material used for trimming
 
@@ -15687,7 +15686,7 @@ w: <<remise1>>
 hyper: [[hackney]]
 g: an expensive or high-class hackney
 
-w: <<remedy>> drf [[file:adj.all.org::remedial]] drf [[file:verb.body.org::remedy]]
+w: <<remedy>> drf [[file:adjs.all.org::remedial]] drf [[file:verb.body.org::remedy]]
 w: <<curative>>
 w: <<cure>> drf [[file:verb.body.org::cure]]
 w: <<therapeutic>>
@@ -15705,7 +15704,7 @@ hyper: [[container]]
 g: a container where religious relics are stored or displayed (especially relics of saints)
 
 w: <<religious_residence>>
-w: <<cloister>> drf [[file:adj.all.org::cloistral]] drf [[file:verb.change.org::cloister]]
+w: <<cloister>> drf [[file:adjs.all.org::cloistral]] drf [[file:verb.change.org::cloister]]
 hyper: [[residence]]
 g: residence that is a place of religious seclusion (such as a monastery)
 
@@ -15736,7 +15735,7 @@ hyper: [[electrical_device]]
 hp: [[circuit]]
 g: electrical device such that current flowing through it in one circuit can switch on and off a current in a second circuit
 
-w: <<relaxant>> drf [[file:adj.all.org::relaxant]] drf [[file:verb.body.org::relax1]]
+w: <<relaxant>> drf [[file:adjs.all.org::relaxant]] drf [[file:verb.body.org::relax1]]
 hyper: [[drug]]
 g: a drug that relaxes and relieves tension
 
@@ -15808,7 +15807,7 @@ hyper: [[apparatus]]
 hp: [[oil_refinery]]
 g: an apparatus that reforms the molecular structure of hydrocarbons to produce richer fuel; "a catalytic reformer"
 
-w: <<reformatory>> drf [[file:adj.all.org::reformatory]]
+w: <<reformatory>> drf [[file:adjs.all.org::reformatory]]
 w: <<reform_school>>
 w: <<training_school>>
 hyper: [[correctional_institution]]
@@ -16070,7 +16069,7 @@ w: <<rearview_mirror>>
 hyper: [[car_mirror]]
 g: car mirror that reflects the view out of the rear window
 
-w: <<rear>> drf [[file:adj.all.org::rear]] ant [[front]]
+w: <<rear>> drf [[file:adjs.all.org::rear]] ant [[front]]
 w: <<back>> drf [[file:verb.stative.org::back]]
 hyper: [[side]]
 g: the side that goes last or is not normally seen; "he wrote the date on the back of the photograph"
@@ -16373,7 +16372,7 @@ hyper: [[gauge]]
 g: gauge consisting of an instrument to measure the quantity of precipitation
 
 w: <<raincoat>>
-w: <<waterproof1>> drf [[file:adj.all.org::waterproof]] drf [[file:verb.contact.org::waterproof]]
+w: <<waterproof1>> drf [[file:adjs.all.org::waterproof]] drf [[file:verb.contact.org::waterproof]]
 hyper: [[coat]]
 g: a water-resistant coat
 
@@ -16987,7 +16986,7 @@ w: <<pyramidal_tent>>
 hyper: [[tent]]
 g: a large tent shaped like a pyramid; can hold half a dozen people
 
-w: <<Pyramid>> drf [[file:adj.all.org::pyramidal]] drf [[file:adj.all.org::pyramidical]] drf [[file:verb.contact.org::pyramid]]
+w: <<Pyramid>> drf [[file:adjs.all.org::pyramidal]] drf [[file:adjs.all.org::pyramidical]] drf [[file:verb.contact.org::pyramid]]
 w: <<Great_Pyramid>>
 w: <<Pyramids_of_Egypt>>
 ihyper: [[memorial]]
@@ -17094,10 +17093,10 @@ w: <<purifier>> drf [[file:verb.change.org::purify]]
 hyper: [[apparatus]]
 g: an apparatus for removing impurities
 
-w: <<purgative>> drf [[file:adj.all.org::purgative]]
-w: <<cathartic>> drf [[file:adj.all.org::cathartic]]
+w: <<purgative>> drf [[file:adjs.all.org::purgative]]
+w: <<cathartic>> drf [[file:adjs.all.org::cathartic]]
 w: <<physic>>
-w: <<aperient>> drf [[file:adj.all.org::aperient]]
+w: <<aperient>> drf [[file:adjs.all.org::aperient]]
 hyper: [[medicine]]
 g: a purging medicine; stimulates evacuation of the bowels
 
@@ -17494,7 +17493,7 @@ w: <<proof>> drf [[file:verb.creation.org::proof]]
 hyper: [[photographic_print]]
 g: a trial photographic print from a negative
 
-w: <<prong>> drf [[file:adj.all.org::prongy]]
+w: <<prong>> drf [[file:adjs.all.org::prongy]]
 hyper: [[projection]]
 hp: [[belt_buckle]]
 hp: [[buckle]]
@@ -17551,7 +17550,7 @@ w: <<projection>>
 hyper: [[structure]]
 g: any structure that branches out from a central support
 
-w: <<projectile>> drf [[file:adj.all.org::projectile]]
+w: <<projectile>> drf [[file:adjs.all.org::projectile]]
 w: <<missile>>
 hyper: [[weapon]]
 g: a weapon that is forcibly thrown or projected at a targets but is not self-propelled
@@ -17634,7 +17633,7 @@ w: <<prison_house>>
 hyper: [[correctional_institution]]
 g: a correctional institution where persons are confined while on trial or for punishment
 
-w: <<prism>> drf [[file:adj.all.org::prismatic]] drf [[file:adj.pert.org::prismatic]]
+w: <<prism>> drf [[file:adjs.all.org::prismatic]] drf [[file:adj.pert.org::prismatic]]
 w: <<optical_prism>>
 hyper: [[optical_device]]
 hp: [[biprism]]
@@ -17735,9 +17734,9 @@ hyper: [[spike]]
 hp: [[candlestick]]
 g: a sharp metal spike to hold a candle
 
-w: <<preventive1>> drf [[file:adj.all.org::preventive]]
+w: <<preventive1>> drf [[file:adjs.all.org::preventive]]
 w: <<preventative1>>
-w: <<prophylactic1>> drf [[file:adj.all.org::prophylactic]]
+w: <<prophylactic1>> drf [[file:adjs.all.org::prophylactic]]
 hyper: [[remedy]]
 g: remedy that prevents or slows the course of an illness or disease; "the doctor recommended several preventatives"
 
@@ -17819,7 +17818,7 @@ hyper: [[building]]
 hp: [[church]]
 g: building reserved for the officiating clergy
 
-w: <<prefab>> drf [[file:adj.all.org::prefab]]
+w: <<prefab>> drf [[file:adjs.all.org::prefab]]
 hyper: [[structure]]
 g: a prefabricated structure
 
@@ -18236,7 +18235,7 @@ w: <<portable_computer>>
 hyper: [[personal_computer]]
 g: a personal computer that can easily be carried by hand
 
-w: <<portable>> drf [[file:adj.all.org::portable]] drf [[file:adj.all.org::portable]]
+w: <<portable>> drf [[file:adjs.all.org::portable]] drf [[file:adj.all.org::portable]]
 hyper: [[typewriter]]
 g: a small light typewriter; usually with a case in which it can be carried
 
@@ -18676,7 +18675,7 @@ hyper: [[trigger1]]
 hp: [[atom_bomb]]
 g: a steel or beryllium sphere containing plutonium 239 that triggers nuclear fission when compressed by explosives
 
-w: <<plush>> drf [[file:adj.all.org::plushy]]
+w: <<plush>> drf [[file:adjs.all.org::plushy]]
 hyper: [[fabric]]
 g: a fabric with a nap that is longer and softer than velvet
 
@@ -20144,7 +20143,7 @@ w: <<perpetual_motion_machine>>
 hyper: [[machine]]
 g: a machine that can continue to do work indefinitely without drawing energy from some external source; impossible under the law of conservation of energy
 
-w: <<perpendicular>> drf [[file:adj.all.org::perpendicular]]
+w: <<perpendicular>> drf [[file:adjs.all.org::perpendicular]]
 hyper: [[face]]
 g: an extremely steep face
 
@@ -20167,7 +20166,7 @@ w: <<peruke>>
 hyper: [[wig]]
 g: a wig for men that was fashionable in the 17th and 18th centuries
 
-w: <<peristyle>> drf [[file:adj.all.org::peristylar]]
+w: <<peristyle>> drf [[file:adjs.all.org::peristylar]]
 hyper: [[colonnade1]]
 g: a colonnade surrounding a building or enclosing a court
 
@@ -20336,7 +20335,7 @@ w: <<penknife>>
 hyper: [[pocketknife]]
 g: a small pocketknife; originally used to cut quill pens
 
-w: <<penitentiary>> drf [[file:adj.all.org::penitentiary]]
+w: <<penitentiary>> drf [[file:adjs.all.org::penitentiary]]
 w: <<pen2>>
 hyper: [[correctional_institution]]
 g: a correctional institution for those convicted of major crimes
@@ -20869,7 +20868,7 @@ w: <<parterre1>>
 hyper: [[flower_garden]]
 g: an ornamental flower garden; beds and paths are arranged to form a pattern
 
-w: <<part>> drf [[file:adj.all.org::partial]]
+w: <<part>> drf [[file:adjs.all.org::partial]]
 w: <<portion>>
 hyper: [[file:noun.Tops.org::object]]
 hp: [[file:noun.Tops.org::whole]]
@@ -21081,7 +21080,7 @@ g: a chain made of loops of colored paper; used to decorate a room
 
 w: <<paperback_book>>
 w: <<paper-back_book>>
-w: <<paperback>> drf [[file:adj.all.org::paperback]]
+w: <<paperback>> drf [[file:adjs.all.org::paperback]]
 w: <<softback_book>>
 w: <<softback>>
 w: <<soft-cover_book>>
@@ -21175,13 +21174,13 @@ w: <<panoramic_sight>>
 hyper: [[gunsight]]
 g: gunsight (a telescopic device for an artillery piece) that can be rotated horizontally in a full circle
 
-w: <<panorama>> drf [[file:adj.all.org::panoramic]]
+w: <<panorama>> drf [[file:adjs.all.org::panoramic]]
 w: <<cyclorama>>
 w: <<diorama>>
 hyper: [[picture]]
 g: a picture (or series of pictures) representing a continuous scene
 
-w: <<panopticon1>> drf [[file:adj.all.org::panoptical]]
+w: <<panopticon1>> drf [[file:adjs.all.org::panoptical]]
 hyper: [[area]]
 g: an area where everything is visible
 
@@ -21306,7 +21305,7 @@ w: <<pallium>>
 hyper: [[cloak]]
 g: cloak or mantle worn by men in ancient Rome
 
-w: <<palliative>> drf [[file:adj.all.org::palliative]]
+w: <<palliative>> drf [[file:adjs.all.org::palliative]]
 w: <<alleviant>> drf [[file:verb.body.org::alleviate]]
 w: <<alleviator>> drf [[file:verb.body.org::alleviate]]
 hyper: [[remedy]]
@@ -21369,7 +21368,7 @@ w: <<palace2>>
 hyper: [[exhibition_hall]]
 g: a large ornate exhibition hall
 
-w: <<palace1>> drf [[file:adj.all.org::palatial]]
+w: <<palace1>> drf [[file:adjs.all.org::palatial]]
 w: <<castle2>>
 hyper: [[mansion]]
 g: a large and stately mansion
@@ -23376,7 +23375,7 @@ w: <<narcotic_antagonist>>
 hyper: [[antagonist]]
 g: an antagonist used to counteract the effects of narcotics (especially to counteract the depression of respiration)
 
-w: <<narcotic>> drf [[file:adj.all.org::narcotic]] drf [[file:verb.body.org::narcotize]]
+w: <<narcotic>> drf [[file:adjs.all.org::narcotic]] drf [[file:verb.body.org::narcotize]]
 hyper: [[drug]]
 g: a drug that produces numbness or stupor; often taken for pleasure or to reduce pain; extensive use can lead to addiction
 
@@ -23893,15 +23892,15 @@ w: <<powerboat>>
 hyper: [[boat]]
 g: a boat propelled by an internal-combustion engine
 
-w: <<motor>> drf [[file:adj.all.org::motor]] drf [[file:verb.possession.org::motorize3]] drf [[file:verb.change.org::motorize]] drf [[file:verb.motion.org::motor]] drf [[file:verb.possession.org::motorize5]]
+w: <<motor>> drf [[file:adjs.all.org::motor]] drf [[file:verb.possession.org::motorize3]] drf [[file:verb.change.org::motorize]] drf [[file:verb.motion.org::motor]] drf [[file:verb.possession.org::motorize5]]
 hyper: [[machine]]
 g: machine that converts other forms of energy into mechanical energy and so imparts motion
 
-w: <<motley1>> drf [[file:adj.all.org::motley]]
+w: <<motley1>> drf [[file:adjs.all.org::motley]]
 hyper: [[garment]]
 g: a garment made of motley (especially a court jester's costume)
 
-w: <<motley>> drf [[file:adj.all.org::motley]] drf [[file:verb.change.org::motley]]
+w: <<motley>> drf [[file:adjs.all.org::motley]] drf [[file:verb.change.org::motley]]
 hyper: [[fabric]]
 hs: [[motley1]]
 g: a multicolored woolen fabric woven of mixed threads in 14th to 17th century England
@@ -24108,7 +24107,7 @@ w: <<eyeglass>>
 hyper: [[lens]]
 g: lens for correcting defective vision in one eye; held in place by facial muscles
 
-w: <<monochrome1>> drf [[file:adj.all.org::monochrome]]
+w: <<monochrome1>> drf [[file:adjs.all.org::monochrome]]
 hyper: [[painting]]
 g: painting done in a range of tones of a single color
 
@@ -24222,7 +24221,7 @@ w: <<cast3>>
 hyper: [[container]]
 g: container into which liquid is poured to create a given shape when it hardens
 
-w: <<moire>> drf [[file:adj.all.org::moire]]
+w: <<moire>> drf [[file:adjs.all.org::moire]]
 w: <<watered-silk>>
 hyper: [[fabric]]
 g: silk fabric with a wavy surface pattern
@@ -24236,12 +24235,12 @@ hyper: [[compartment]]
 hp: [[spacecraft]]
 g: detachable compartment of a spacecraft
 
-w: <<module1>> drf [[file:adj.all.org::modular]]
+w: <<module1>> drf [[file:adjs.all.org::modular]]
 hyper: [[computer_circuit]]
 dt: [[computer]]
 g: computer circuit consisting of an assembly of electronic components (as of computer hardware)
 
-w: <<module>> drf [[file:adj.all.org::modular]]
+w: <<module>> drf [[file:adjs.all.org::modular]]
 hyper: [[component]]
 hp: [[system]]
 g: a self-contained component (unit or item) that is used in combination with other components
@@ -24259,7 +24258,7 @@ w: <<Modicon>>
 hyper: [[pill2]]
 g: trade name for an oral contraceptive containing estradiol and norethindrone
 
-w: <<modernism>> drf [[file:adj.all.org::modernistic]] drf [[file:noun.person.org::modernist]]
+w: <<modernism>> drf [[file:adjs.all.org::modernistic]] drf [[file:noun.person.org::modernist]]
 hyper: [[genre]]
 g: genre of art and literature that makes a self-conscious break with previous genres
 
@@ -25262,7 +25261,7 @@ w: <<medicine_ball>>
 hyper: [[ball1]]
 g: heavy ball used in physical training
 
-w: <<medicine>> drf [[file:adj.all.org::medicinal]] drf [[file:verb.body.org::medicine]] drf [[file:verb.body.org::medicate1]] drf [[file:verb.body.org::medicate]]
+w: <<medicine>> drf [[file:adjs.all.org::medicinal]] drf [[file:verb.body.org::medicine]] drf [[file:verb.body.org::medicate1]] drf [[file:verb.body.org::medicate]]
 w: <<medication>> drf [[file:verb.body.org::medicate]]
 w: <<medicament>>
 w: <<medicinal_drug>>
@@ -25376,8 +25375,8 @@ w: <<mazer>>
 hyper: [[bowl1]]
 g: a large hardwood drinking bowl
 
-w: <<maze>> drf [[file:adj.all.org::mazy]]
-w: <<labyrinth>> drf [[file:adj.all.org::labyrinthian]]
+w: <<maze>> drf [[file:adjs.all.org::mazy]]
+w: <<labyrinth>> drf [[file:adjs.all.org::labyrinthian]]
 hyper: [[system]]
 g: complex system of paths or tunnels in which it is easy to get lost
 
@@ -25552,7 +25551,7 @@ g: the principal bedroom in a house; usually occupied by the head of the househo
 
 w: <<master>>
 w: <<master_copy>>
-w: <<original>> drf [[file:adj.all.org::original]] drf [[file:adj.all.org::original]]
+w: <<original>> drf [[file:adjs.all.org::original]] drf [[file:adj.all.org::original]]
 hyper: [[creation]]
 g: an original creation (i.e., an audio recording) from which copies can be made
 
@@ -25823,7 +25822,7 @@ w: <<manse>>
 hyper: [[residence]]
 g: the residence of a clergyman (especially a Presbyterian clergyman)
 
-w: <<mansard>> drf [[file:adj.all.org::mansard]]
+w: <<mansard>> drf [[file:adjs.all.org::mansard]]
 w: <<mansard_roof>>
 hyper: [[curb_roof]]
 g: a hip roof having two slopes on each side
@@ -26563,7 +26562,7 @@ g: keepsake given as a token of love
 
 w: <<love_seat>>
 w: <<loveseat>>
-w: <<tete-a-tete>> drf [[file:adj.all.org::tete-a-tete]]
+w: <<tete-a-tete>> drf [[file:adjs.all.org::tete-a-tete]]
 w: <<vis-a-vis>>
 hyper: [[sofa]]
 g: small sofa that seats two people
@@ -27641,7 +27640,7 @@ hyper: [[optical_device]]
 hp: [[optical_instrument]]
 g: a transparent optical device used to converge or diverge transmitted light and to form images
 
-w: <<lenitive>> drf [[file:adj.all.org::lenitive]]
+w: <<lenitive>> drf [[file:adjs.all.org::lenitive]]
 hyper: [[remedy]]
 g: remedy that eases pain and discomfort
 
@@ -27700,7 +27699,7 @@ hp: [[cot]]
 hp: [[four-poster]]
 g: one of the supports for a piece of furniture
 
-w: <<leg>> drf [[file:adj.all.org::leggy1]]
+w: <<leg>> drf [[file:adjs.all.org::leggy1]]
 hyper: [[cloth_covering]]
 hp: [[trouser]]
 g: a cloth covering consisting of the part of a pair of trousers that covers a person's leg
@@ -28076,7 +28075,7 @@ hyper: [[medical_instrument]]
 g: a medical instrument for examining the larynx
 
 w: <<larboard>> ant [[starboard]]
-w: <<port2>> drf [[file:adj.all.org::port]] drf [[file:verb.motion.org::port3]] drf [[file:verb.motion.org::port4]]
+w: <<port2>> drf [[file:adjs.all.org::port]] drf [[file:verb.motion.org::port3]] drf [[file:verb.motion.org::port4]]
 hyper: [[side]]
 g: the left side of a ship or aircraft to someone who is aboard and facing the bow or nose
 
@@ -28427,7 +28426,7 @@ hyper: [[cord]]
 hp: [[shoe]]
 g: a cord that is drawn through eyelets or around hooks in order to draw together two edges (as of a shoe or garment)
 
-w: <<lace>> drf [[file:adj.all.org::lacy]] drf [[file:verb.creation.org::lace]] drf [[file:verb.creation.org::lace1]]
+w: <<lace>> drf [[file:adjs.all.org::lacy]] drf [[file:verb.creation.org::lace]] drf [[file:verb.creation.org::lace1]]
 hyper: [[fabric]]
 g: a delicate decorative fabric woven in an open web of symmetrical patterns
 
@@ -28544,7 +28543,7 @@ w: <<knout>>
 hyper: [[whip]]
 g: a whip with a lash of leather thongs twisted with wire; used for flogging prisoners
 
-w: <<knot>> drf [[file:adj.all.org::knotty]] drf [[file:verb.contact.org::knot]]
+w: <<knot>> drf [[file:adjs.all.org::knotty]] drf [[file:verb.contact.org::knot]]
 hyper: [[fastener]]
 g: any of various fastenings formed by looping and tying a rope (or cord) upon itself or to another rope or to another object
 
@@ -28574,7 +28573,7 @@ w: <<knobkerry>>
 hyper: [[club]]
 g: a short wooden club with a heavy knob on one end; used by aborigines in southern Africa
 
-w: <<knobble>> drf [[file:adj.all.org::knobbly]]
+w: <<knobble>> drf [[file:adjs.all.org::knobbly]]
 hyper: [[knob1]]
 g: a small knob
 
@@ -28893,7 +28892,7 @@ w: <<khakis>>
 hyper: [[military_uniform]]
 g: a military uniform made of khaki fabric
 
-w: <<khaki>> drf [[file:adj.all.org::khaki]]
+w: <<khaki>> drf [[file:adjs.all.org::khaki]]
 hyper: [[fabric]]
 g: a sturdy twilled cloth of a yellowish brown color used especially for military uniforms
 
@@ -29527,8 +29526,6 @@ g: a car suitable for traveling over rough terrain
 
 w: <<jean3>>
 w: <<blue_jean>>
-w: jeans
-w: blue_jeans
 w: <<denim3>>
 hyper: [[trouser]]
 hyper: [[workwear]]
@@ -29882,7 +29879,7 @@ hyper: [[pleat]]
 g: a box pleat reversed so that the fullness is turned inward
 
 w: <<invention>>
-w: <<innovation>> drf [[file:adj.all.org::innovational]] drf [[file:verb.creation.org::innovate]]
+w: <<innovation>> drf [[file:adjs.all.org::innovational]] drf [[file:verb.creation.org::innovate]]
 hyper: [[creation]]
 g: a creation (a new device or process) resulting from study and experimentation
 
@@ -30059,7 +30056,7 @@ w: <<instrument_of_execution>>
 hyper: [[instrument]]
 g: an instrument designed and used to take the life of a condemned person
 
-w: <<instrumentality>> drf [[file:adj.all.org::instrumental]]
+w: <<instrumentality>> drf [[file:adjs.all.org::instrumental]]
 w: <<instrumentation>> drf [[file:verb.possession.org::instrument]]
 hyper: [[file:noun.Tops.org::artifact]]
 g: an artifact (or system of artifacts) that is instrumental in accomplishing some end
@@ -30356,7 +30353,7 @@ w: <<importation>> drf [[file:verb.possession.org::import]]
 hyper: [[commodity]]
 g: commodities (goods or services) bought from a foreign country
 
-w: <<implement>> drf [[file:adj.all.org::implemental]] drf [[file:verb.social.org::implement1]]
+w: <<implement>> drf [[file:adjs.all.org::implemental]] drf [[file:verb.social.org::implement1]]
 hyper: [[instrumentality]]
 g: instrumentation (a piece of equipment or tool) used to effect an end
 
@@ -30512,7 +30509,7 @@ g: skate consisting of a boot with a steel blade fitted to the sole
 
 w: <<ice_rink>>
 w: <<ice-skating_rink>>
-w: <<ice>> drf [[file:adj.all.org::icy]]
+w: <<ice>> drf [[file:adjs.all.org::icy]]
 hyper: [[rink]]
 g: a rink with a floor of ice for ice hockey or ice skating; "the crowd applauded when she skated out onto the ice"
 
@@ -30618,7 +30615,7 @@ hyper: [[file:noun.substance.org::alkaloid]]
 hyper: [[file:noun.substance.org::poison]]
 g: a poisonous crystalline alkaloid (isometric with atropine but more potent); used to treat excess motility of the gastrointestinal tract
 
-w: <<hygroscope>> drf [[file:adj.all.org::hygroscopic]]
+w: <<hygroscope>> drf [[file:adjs.all.org::hygroscopic]]
 hyper: [[hygrometer]]
 g: hygrometer that shows variations in the relative humidity of the atmosphere
 
@@ -31356,7 +31353,7 @@ w: <<homestead>>
 hyper: [[dwelling]]
 g: dwelling that is usually a farmhouse and adjoining land
 
-w: <<homespun>> drf [[file:adj.all.org::homespun]] drf [[file:adj.all.org::homespun]]
+w: <<homespun>> drf [[file:adjs.all.org::homespun]] drf [[file:adjs.all.org::homespun]]
 hyper: [[fabric]]
 g: a rough loosely woven fabric originally made with yarn that was spun at home
 
@@ -32450,8 +32447,8 @@ hyper: [[magnetic_disk]]
 hp: [[disk_drive]]
 g: a rigid magnetic disk mounted permanently in a drive unit
 
-w: <<hardback>> drf [[file:adj.all.org::hardback]]
-w: <<hardcover>> drf [[file:adj.all.org::hardcover]]
+w: <<hardback>> drf [[file:adjs.all.org::hardback]]
+w: <<hardcover>> drf [[file:adjs.all.org::hardcover]]
 hyper: [[book]]
 g: a book with cardboard or cloth or leather covers
 
@@ -32580,7 +32577,7 @@ w: <<hand_mower>> ant [[power_mower]]
 hyper: [[lawn_mower]]
 g: a lawn mower that is operated by hand
 
-w: <<hand-me-down>> drf [[file:adj.all.org::hand-me-down1]]
+w: <<hand-me-down>> drf [[file:adjs.all.org::hand-me-down1]]
 hyper: [[garment]]
 g: outgrown garment passed down from one person to another
 
@@ -32830,7 +32827,7 @@ w: <<hall3>>
 hyper: [[corridor]]
 g: an interior passage or corridor onto which rooms open; "the elevators were at the end of the hall"
 
-w: <<hallucinogen>> drf [[file:adj.all.org::hallucinogenic]]
+w: <<hallucinogen>> drf [[file:adjs.all.org::hallucinogenic]]
 w: <<hallucinogenic_drug>>
 w: <<psychedelic_drug>>
 w: <<psychodelic_drug>>
@@ -33426,7 +33423,7 @@ hyper: [[consumer_goods]]
 du: [[file:noun.communication.org::plural]]
 g: (usually plural) consumer goods sold by a grocer
 
-w: <<grizzle>> drf [[file:adj.all.org::grizzly]]
+w: <<grizzle>> drf [[file:adjs.all.org::grizzly]]
 hyper: [[wig]]
 g: a grey wig
 
@@ -33832,7 +33829,7 @@ ihyper: [[ship_canal]]
 hp: [[file:noun.location.org::Sweden]]
 g: a canal for small oceangoing ships to enter Lake Vanern in Sweden
 
-w: <<gossamer>> drf [[file:adj.all.org::gossamer]]
+w: <<gossamer>> drf [[file:adjs.all.org::gossamer]]
 hyper: [[gauze]]
 g: a gauze fabric with an extremely fine texture
 
@@ -34093,7 +34090,7 @@ w: <<orchestral_bells>>
 hyper: [[percussion_instrument]]
 g: a percussion instrument consisting of a set of graduated metal bars mounted on a frame and played with small hammers
 
-w: <<globe>> drf [[file:adj.all.org::globular]]
+w: <<globe>> drf [[file:adjs.all.org::globular]]
 hyper: [[sphere]]
 hyper: [[model]]
 g: a sphere on which a map (especially of the earth) is represented
@@ -34182,7 +34179,7 @@ w: <<gimbal>>
 hyper: [[appliance1]]
 g: an appliance that allows an object (such as a ship's compass) to remain horizontal even as its support tips
 
-w: <<gilt>> drf [[file:adj.all.org::gilt]]
+w: <<gilt>> drf [[file:adjs.all.org::gilt]]
 w: <<gilding>> drf [[file:verb.creation.org::gild]]
 hyper: [[coating]]
 g: a coating of gold or of something that looks like gold
@@ -34401,7 +34398,7 @@ hp: [[surgical_dressing]]
 dt: [[file:noun.cognition.org::medicine]]
 g: (medicine) bleached cotton cloth of plain weave used for bandages and dressings
 
-w: <<gauze>> drf [[file:adj.all.org::gauzy]]
+w: <<gauze>> drf [[file:adjs.all.org::gauzy]]
 w: <<netting>>
 w: <<veiling>>
 hyper: [[net]]
@@ -35149,7 +35146,7 @@ w: <<funk_hole>>
 hyper: [[bunker1]]
 g: dugout as a place of safe retreat (when in a funk)
 
-w: <<fungible>> drf [[file:adj.all.org::fungible]]
+w: <<fungible>> drf [[file:adjs.all.org::fungible]]
 hyper: [[commodity]]
 g: a commodity that is freely interchangeable with another in satisfying an obligation
 
@@ -35281,7 +35278,7 @@ w: <<service_road>>
 hyper: [[local_road]]
 g: a local road that runs parallel to an expressway and allows local traffic to gain access to property
 
-w: <<front>> drf [[file:adj.all.org::frontal1]] drf [[file:verb.competition.org::front]] ant [[rear]]
+w: <<front>> drf [[file:adjs.all.org::frontal1]] drf [[file:verb.competition.org::front]] ant [[rear]]
 hyper: [[side]]
 g: the side that is seen or that goes first
 
@@ -35303,11 +35300,11 @@ hyper: [[plaything]]
 du: [[file:noun.communication.org::trademark]]
 g: a light, plastic disk about 10 inches in diameter; propelled with a flip of the wrist for recreation or competition
 
-w: <<fringe>> drf [[file:adj.all.org::fringy]] drf [[file:verb.contact.org::fringe]] drf [[file:verb.creation.org::fringe]]
+w: <<fringe>> drf [[file:adjs.all.org::fringy]] drf [[file:verb.contact.org::fringe]] drf [[file:verb.creation.org::fringe]]
 hyper: [[edging]]
 g: an ornamental border consisting of short lengths of hanging threads or tassels
 
-w: <<frill>> drf [[file:adj.all.org::frilly]]
+w: <<frill>> drf [[file:adjs.all.org::frilly]]
 w: <<flounce>>
 w: <<ruffle1>> drf [[file:verb.contact.org::ruffle]]
 w: <<furbelow>>
@@ -35590,7 +35587,7 @@ hyper: [[undergarment]]
 g: a woman's undergarment worn to give shape to the contours of the body
 
 w: <<foundation>>
-w: <<base1>> drf [[file:adj.all.org::basal]]
+w: <<base1>> drf [[file:adjs.all.org::basal]]
 w: <<fundament>>
 w: <<foot>>
 w: <<groundwork>>
@@ -36193,7 +36190,7 @@ w: <<flotilla>>
 hyper: [[file:noun.group.org::fleet]]
 g: a fleet of small craft
 
-w: <<floss>> drf [[file:adj.all.org::flossy]]
+w: <<floss>> drf [[file:adjs.all.org::flossy]]
 hyper: [[thread]]
 g: a soft loosely twisted thread used in embroidery
 
@@ -36292,7 +36289,7 @@ w: <<plasterer's_float>>
 hyper: [[hand_tool]]
 g: a hand tool with a flat face used for smoothing and finishing the surface of plaster or cement or stucco
 
-w: <<float>> drf [[file:adj.all.org::floaty]] drf [[file:verb.contact.org::float4]] drf [[file:verb.motion.org::float2]] drf [[file:verb.motion.org::float1]]
+w: <<float>> drf [[file:adjs.all.org::floaty]] drf [[file:verb.contact.org::float4]] drf [[file:verb.motion.org::float2]] drf [[file:verb.motion.org::float1]]
 hyper: [[file:noun.Tops.org::artifact]]
 g: something that floats on the surface of water
 
@@ -36347,7 +36344,7 @@ w: <<fleet_ballistic_missile_submarine>>
 hyper: [[submarine]]
 g: a submarine carrying ballistic missiles
 
-w: <<fleece>> drf [[file:adj.all.org::fleecy]]
+w: <<fleece>> drf [[file:adjs.all.org::fleecy]]
 hyper: [[fabric]]
 g: a soft bulky fabric with deep pile; used chiefly for clothing
 
@@ -37064,7 +37061,7 @@ w: <<film_advance>>
 hyper: [[mechanism]]
 g: a mechanism for advancing film in a camera or projector
 
-w: <<film2>> drf [[file:adj.all.org::filmy]]
+w: <<film2>> drf [[file:adjs.all.org::filmy]]
 w: <<plastic_film>>
 hyper: [[sheet3]]
 hyper: [[wrapping]]
@@ -37677,8 +37674,8 @@ w: <<fake_book>>
 hyper: [[fake]]
 g: a fake in the form of an imitation book; used to fill bookcases of people who wish to appear scholarly
 
-w: <<fake>> drf [[file:adj.all.org::fake]] drf [[file:verb.communication.org::fake]] drf [[file:verb.social.org::fake]] drf [[file:verb.creation.org::fake]]
-w: <<sham>> drf [[file:adj.all.org::sham]] drf [[file:verb.communication.org::sham]]
+w: <<fake>> drf [[file:adjs.all.org::fake]] drf [[file:verb.communication.org::fake]] drf [[file:verb.social.org::fake]] drf [[file:verb.creation.org::fake]]
+w: <<sham>> drf [[file:adjs.all.org::sham]] drf [[file:verb.communication.org::sham]]
 w: <<postiche1>>
 hyper: [[imitation]]
 g: something that is a counterfeit; not what it seems to be
@@ -37933,7 +37930,7 @@ w: <<thruway>>
 hyper: [[highway]]
 g: a broad highway designed for high-speed traffic
 
-w: <<express>> drf [[file:adj.all.org::express]] ant [[local]]
+w: <<express>> drf [[file:adjs.all.org::express]] ant [[local]]
 w: <<limited>>
 hyper: [[public_transport]]
 g: public transport consisting of a fast train or bus that makes only a few scheduled stops; "he caught the express to New York"
@@ -38054,7 +38051,7 @@ w: <<evaporative_cooler>>
 hyper: [[cooling_system]]
 g: a cooling system that cools by evaporation
 
-w: <<euphoriant>> drf [[file:adj.all.org::euphoriant]]
+w: <<euphoriant>> drf [[file:adjs.all.org::euphoriant]]
 hyper: [[psychoactive_drug]]
 g: a psychoactive drug that tends to produce elation and euphoria
 
@@ -38564,7 +38561,7 @@ w: <<fancywork>>
 hyper: [[needlework]]
 g: decorative needlework
 
-w: <<emblem>> drf [[file:adj.all.org::emblematic]] drf [[file:adj.all.org::emblematic]]
+w: <<emblem>> drf [[file:adjs.all.org::emblematic]] drf [[file:adjs.all.org::emblematic]]
 hyper: [[design]]
 g: special design or visual object representing a quality, type, group, etc.
 
@@ -40685,10 +40682,10 @@ hyper: [[plate2]]
 hyper: [[circle]]
 g: a flat circular plate
 
-w: <<disinfectant>> drf [[file:adj.all.org::disinfectant]] drf [[file:verb.body.org::disinfect]]
-w: <<germicide>> drf [[file:adj.all.org::germicidal]]
-w: <<antimicrobic>> drf [[file:adj.all.org::antimicrobic]]
-w: <<antimicrobial>> drf [[file:adj.all.org::antimicrobial]]
+w: <<disinfectant>> drf [[file:adjs.all.org::disinfectant]] drf [[file:verb.body.org::disinfect]]
+w: <<germicide>> drf [[file:adjs.all.org::germicidal]]
+w: <<antimicrobic>> drf [[file:adjs.all.org::antimicrobic]]
+w: <<antimicrobial>> drf [[file:adjs.all.org::antimicrobial]]
 hyper: [[file:noun.substance.org::agent]]
 g: an agent (as heat or radiation or a chemical) that destroys microorganisms that might carry disease
 
@@ -41200,9 +41197,9 @@ hyper: [[backseat]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: a small third seat in the back of an old-fashioned two-seater
 
-w: <<dickey>> drf [[file:adj.all.org::dickey]]
+w: <<dickey>> drf [[file:adjs.all.org::dickey]]
 w: <<dickie>>
-w: <<dicky>> drf [[file:adj.all.org::dicky]]
+w: <<dicky>> drf [[file:adjs.all.org::dicky]]
 w: <<shirtfront>>
 hyper: [[insert]]
 hp: [[shirt]]
@@ -41353,7 +41350,7 @@ hyper: [[face1]]
 hp: [[timepiece]]
 g: the face of a timepiece; graduated to show the hours
 
-w: <<diagram>> drf [[file:adj.all.org::diagrammatic]] drf [[file:adj.all.org::diagrammatical]] drf [[file:verb.creation.org::diagram]]
+w: <<diagram>> drf [[file:adjs.all.org::diagrammatic]] drf [[file:adjs.all.org::diagrammatical]] drf [[file:verb.creation.org::diagram]]
 hyper: [[drawing]]
 g: a drawing intended to explain how something works; a drawing showing the relation between the parts
 
@@ -41416,7 +41413,7 @@ w: <<detonating_fuse>>
 hyper: [[fuse]]
 g: a fuse containing an explosive
 
-w: <<detergent>> drf [[file:adj.all.org::detergent]] drf [[file:verb.contact.org::deterge]]
+w: <<detergent>> drf [[file:adjs.all.org::detergent]] drf [[file:verb.contact.org::deterge]]
 hyper: [[cleansing_agent]]
 g: a cleansing agent that differs from soap but can also emulsify oils and hold dirt in suspension
 
@@ -41537,7 +41534,7 @@ w: <<repository>>
 hyper: [[facility]]
 g: a facility where things can be deposited for storage or safekeeping
 
-w: <<depilatory>> drf [[file:adj.all.org::depilatory]]
+w: <<depilatory>> drf [[file:adjs.all.org::depilatory]]
 w: <<depilator>> drf [[file:verb.body.org::depilate]]
 w: <<epilator>>
 hyper: [[cosmetic]]
@@ -41615,7 +41612,7 @@ w: <<Demulen>>
 hyper: [[pill2]]
 g: trade name for an oral contraceptive
 
-w: <<demulcent>> drf [[file:adj.all.org::demulcent]]
+w: <<demulcent>> drf [[file:adjs.all.org::demulcent]]
 hyper: [[medicine]]
 g: a medication (in the form of an oil or salve etc.) that soothes inflamed or injured skin
 
@@ -41750,7 +41747,7 @@ hyper: [[art]]
 g: art produced by decorating a surface with cutouts and then coating it with several layers of varnish or lacquer
 
 w: <<decoration>> drf [[file:verb.stative.org::decorate]] drf [[file:verb.creation.org::decorate]] drf [[file:verb.contact.org::decorate]]
-w: <<ornament>> drf [[file:adj.all.org::ornamental]] drf [[file:verb.creation.org::ornament]]
+w: <<ornament>> drf [[file:adjs.all.org::ornamental]] drf [[file:verb.creation.org::ornament]]
 w: <<ornamentation>>
 hyper: [[file:noun.Tops.org::artifact]]
 g: something used to beautify
@@ -42026,15 +42023,15 @@ w: <<moistener>> drf [[file:verb.change.org::moisten]]
 hyper: [[device]]
 g: a device that dampens or moistens something; "he used a dampener to moisten the shirts before he ironed them"
 
-w: <<damask1>> drf [[file:adj.all.org::damask]]
+w: <<damask1>> drf [[file:adjs.all.org::damask]]
 hyper: [[table_linen]]
 g: a table linen made from linen with a damask pattern
 
-w: <<damask>> drf [[file:adj.all.org::damask]]
+w: <<damask>> drf [[file:adjs.all.org::damask]]
 hyper: [[fabric]]
 g: a fabric of linen or cotton or silk or wool with a reversible pattern woven into it
 
-w: <<damascene>> drf [[file:adj.all.org::damascene]] drf [[file:verb.creation.org::damascene]]
+w: <<damascene>> drf [[file:adjs.all.org::damascene]] drf [[file:verb.creation.org::damascene]]
 hyper: [[design]]
 g: a design produced by inlaying gold or silver into steel
 
@@ -42287,7 +42284,7 @@ w: <<cuspidation>>
 hyper: [[embellishment]]
 g: a decoration using cusps
 
-w: <<cusp>> drf [[file:adj.all.org::cuspidal]]
+w: <<cusp>> drf [[file:adjs.all.org::cuspidal]]
 hyper: [[point]]
 g: point formed by two intersecting arcs (as from the intrados of a Gothic arch)
 
@@ -42295,7 +42292,7 @@ w: <<cushion2>>
 hyper: [[layer]]
 g: the layer of air that supports a hovercraft or similar vehicle
 
-w: <<cushion>> drf [[file:adj.all.org::cushiony]]
+w: <<cushion>> drf [[file:adjs.all.org::cushiony]]
 hyper: [[padding]]
 g: a soft bag filled with air or a mass of padding such as feathers or foam rubber etc.
 
@@ -42334,11 +42331,11 @@ hyper: [[mechanical_device]]
 g: a mechanical device consisting of a cylindrical tube around which the hair is wound to curl it; "a woman with her head full of curlers is not a pretty sight"
 
 w: <<curio>>
-w: <<curiosity>> drf [[file:adj.all.org::curious]]
-w: <<oddity>> drf [[file:adj.all.org::odd]]
+w: <<curiosity>> drf [[file:adjs.all.org::curious]]
+w: <<oddity>> drf [[file:adjs.all.org::odd]]
 w: <<oddment1>>
-w: <<peculiarity>> drf [[file:adj.all.org::peculiar]]
-w: <<rarity>> drf [[file:adj.all.org::rare]]
+w: <<peculiarity>> drf [[file:adjs.all.org::peculiar]]
+w: <<rarity>> drf [[file:adjs.all.org::rare]]
 hyper: [[file:noun.Tops.org::object]]
 g: something unusual -- perhaps worthy of collecting
 
@@ -42510,7 +42507,7 @@ w: <<cubeb_cigarette>>
 hyper: [[cigarette]]
 g: a cigarette containing cubeb
 
-w: <<cube>> drf [[file:adj.all.org::cubical]]
+w: <<cube>> drf [[file:adjs.all.org::cubical]]
 w: <<square_block>>
 hyper: [[block]]
 g: a block in the (approximate) shape of a cube
@@ -42523,7 +42520,7 @@ g: a small compartment
 w: <<cubby>>
 w: <<cubbyhole1>>
 w: <<snuggery>>
-w: <<snug>> drf [[file:adj.all.org::snug]]
+w: <<snug>> drf [[file:adjs.all.org::snug]]
 hyper: [[room]]
 g: a small secluded room
 
@@ -43027,7 +43024,7 @@ g: a workplace where dairy products (butter and cheese etc.) are produced or sol
 
 w: <<cream>> drf [[file:verb.contact.org::cream2]]
 w: <<ointment1>>
-w: <<emollient>> drf [[file:adj.all.org::emollient]]
+w: <<emollient>> drf [[file:adjs.all.org::emollient]]
 hyper: [[toiletry]]
 g: toiletry consisting of any of various substances in the form of a thick liquid that have a soothing and moisturizing effect when applied to the skin
 
@@ -43239,7 +43236,7 @@ hyper: [[acrylic]]
 du: [[file:noun.communication.org::trademark]]
 g: an acrylic fabric resembling wool
 
-w: <<court4>> drf [[file:adj.all.org::courtly]]
+w: <<court4>> drf [[file:adjs.all.org::courtly]]
 hyper: [[residence]]
 g: the residence of a sovereign or nobleman; "the king will visit the duke's court"
 
@@ -43496,7 +43493,7 @@ hyper: [[passageway]]
 g: an enclosed passageway; rooms usually open onto it
 
 w: <<corrective>>
-w: <<restorative>> drf [[file:adj.all.org::restorative]]
+w: <<restorative>> drf [[file:adjs.all.org::restorative]]
 hyper: [[device]]
 g: a device for treating injury or disease
 
@@ -43595,7 +43592,7 @@ w: <<corker>> drf [[file:verb.contact.org::cork]]
 hyper: [[machine]]
 g: a machine that is used to put corks in bottles
 
-w: <<cork>> drf [[file:adj.all.org::corky]] drf [[file:verb.contact.org::cork]]
+w: <<cork>> drf [[file:adjs.all.org::corky]] drf [[file:verb.contact.org::cork]]
 w: <<bottle_cork>>
 hyper: [[plug]]
 hp: [[wine_bottle]]
@@ -43847,7 +43844,7 @@ w: <<meetinghouse>>
 hyper: [[place_of_worship]]
 g: a building for religious assembly (especially Nonconformists, e.g., Quakers)
 
-w: <<convent>> drf [[file:adj.all.org::conventual]]
+w: <<convent>> drf [[file:adjs.all.org::conventual]]
 hyper: [[religious_residence]]
 g: a religious residence especially for nuns
 
@@ -43924,7 +43921,7 @@ w: <<double_bassoon>>
 hyper: [[bassoon]]
 g: the bassoon that is the largest instrument in the oboe family
 
-w: <<contraband>> drf [[file:adj.all.org::contraband]] drf [[file:noun.person.org::contrabandist]]
+w: <<contraband>> drf [[file:adjs.all.org::contraband]] drf [[file:noun.person.org::contrabandist]]
 hyper: [[merchandise]]
 g: goods whose importation or exportation or possession is prohibited by law
 
@@ -44111,7 +44108,7 @@ w: <<condom>>
 w: <<rubber1>>
 w: <<safety1>>
 w: <<safe1>>
-w: <<prophylactic>> drf [[file:adj.all.org::prophylactic2]]
+w: <<prophylactic>> drf [[file:adjs.all.org::prophylactic2]]
 hyper: [[contraceptive]]
 g: contraceptive device consisting of a sheath of thin rubber or latex that is worn over the penis during intercourse
 
@@ -44272,7 +44269,7 @@ g: something that is created by arranging several things to form a unified whole
 
 w: <<component>>
 w: <<constituent>> drf [[file:verb.stative.org::constitute3]]
-w: <<element>> drf [[file:adj.all.org::elementary]]
+w: <<element>> drf [[file:adjs.all.org::elementary]]
 hyper: [[part]]
 g: an artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system; "spare components for cars"; "a component or constituent element of a system"
 
@@ -44297,7 +44294,7 @@ w: <<compartment1>> drf [[file:verb.change.org::compartmentalize]] drf [[file:ve
 hyper: [[file:noun.shape.org::space]]
 g: a space into which an area is subdivided
 
-w: <<compartment>> drf [[file:adj.all.org::compartmental]] drf [[file:verb.change.org::compartmentalize]] drf [[file:verb.change.org::compartmentalise]]
+w: <<compartment>> drf [[file:adjs.all.org::compartmental]] drf [[file:verb.change.org::compartmentalize]] drf [[file:verb.change.org::compartmentalise]]
 hyper: [[room]]
 g: a partitioned section, chamber, or separate room within a larger enclosed area
 
@@ -44450,7 +44447,7 @@ w: <<pillar1>>
 hyper: [[structure]]
 g: a vertical cylindrical structure standing alone and not supporting anything (such as a monument)
 
-w: <<column>> drf [[file:adj.all.org::columnar1]]
+w: <<column>> drf [[file:adjs.all.org::columnar1]]
 w: <<pillar>>
 hyper: [[upright1]]
 hp: [[temple1]]
@@ -44715,9 +44712,9 @@ g: reactor consisting of a spiral of insulated wire that introduces inductance i
 
 w: <<coil>> drf [[file:verb.motion.org::coil]] drf [[file:verb.contact.org::coil]]
 w: <<spiral>> drf [[file:verb.motion.org::spiral]]
-w: <<volute>> drf [[file:adj.all.org::volute]]
+w: <<volute>> drf [[file:adjs.all.org::volute]]
 w: <<whorl>>
-w: <<helix>> drf [[file:adj.all.org::helical]]
+w: <<helix>> drf [[file:adjs.all.org::helical]]
 hyper: [[structure]]
 g: a structure consisting of something wound in a continuous series of loops; "a coil of rope"
 
@@ -44892,12 +44889,12 @@ hyper: [[file:noun.substance.org::plant_product]]
 dt: [[file:noun.Tops.org::plant]]
 g: dried leaves of the coca plant (and related plants that also contain cocaine); chewed by Andean people for their stimulating effect
 
-w: <<cobweb2>> drf [[file:adj.all.org::cobwebby]]
+w: <<cobweb2>> drf [[file:adjs.all.org::cobwebby]]
 hyper: [[fabric]]
 g: a fabric so delicate and transparent as to resemble a web of a spider
 
 w: <<cobweb1>>
-w: <<gossamer1>> drf [[file:adj.all.org::gossamer]]
+w: <<gossamer1>> drf [[file:adjs.all.org::gossamer]]
 hyper: [[file:noun.substance.org::fibril]]
 g: filaments from a web that was spun by a spider
 
@@ -45230,7 +45227,7 @@ hyper: [[court]]
 dt: [[file:noun.cognition.org::religion]]
 g: a courtyard with covered walks (as in religious institutions)
 
-w: <<cloisonne>> drf [[file:adj.all.org::cloisonne]]
+w: <<cloisonne>> drf [[file:adjs.all.org::cloisonne]]
 hyper: [[enamelware]]
 g: enamelware in which colored areas are separated by thin metal strips
 
@@ -45675,7 +45672,7 @@ hyper: [[seating]]
 hp: [[theater]]
 g: a curved section or tier of seats in a hall or theater or opera house; usually the first tier above the orchestra; "they had excellent seats in the dress circle"
 
-w: <<circle>> drf [[file:adj.all.org::circular]] drf [[file:verb.motion.org::circulate2]]
+w: <<circle>> drf [[file:adjs.all.org::circular]] drf [[file:verb.motion.org::circulate2]]
 w: <<round>> drf [[file:verb.motion.org::round]]
 hyper: [[rotating_mechanism]]
 g: any circular or rotating mechanism; "the machine punched out metal circles"
@@ -45819,7 +45816,7 @@ hyper: [[bell]]
 dt: [[file:noun.act.org::church_service]]
 g: a bell in a church tower (usually sounded to summon people to church); "church bells were ringing all over town"
 
-w: <<church>> drf [[file:adj.all.org::churchly]] drf [[file:verb.motion.org::church]]
+w: <<church>> drf [[file:adjs.all.org::churchly]] drf [[file:verb.motion.org::church]]
 w: <<church_building>>
 hyper: [[place_of_worship]]
 dt: [[file:noun.act.org::church_service]]
@@ -47702,7 +47699,7 @@ hyper: [[mirror]]
 hp: [[car]]
 g: a mirror that the driver of a car can use
 
-w: <<carminative>> drf [[file:adj.all.org::carminative]]
+w: <<carminative>> drf [[file:adjs.all.org::carminative]]
 hyper: [[medicine]]
 g: medication that prevents the formation of gas in the alimentary tract or eases its passing
 
@@ -48105,7 +48102,7 @@ w: <<canoe>> drf [[file:noun.person.org::canoeist]] drf [[file:verb.motion.org::
 hyper: [[small_boat]]
 g: small and light boat; pointed at both ends; propelled with a paddle
 
-w: <<cannula>> drf [[file:adj.all.org::cannular]] drf [[file:verb.contact.org::cannulate]]
+w: <<cannula>> drf [[file:adjs.all.org::cannular]] drf [[file:verb.contact.org::cannulate]]
 hyper: [[tube]]
 g: a small flexible tube inserted into a body cavity for draining off fluid or introducing medication
 
@@ -48445,7 +48442,7 @@ w: <<calliper>> drf [[file:verb.cognition.org::calliper]]
 hyper: [[measuring_instrument]]
 g: an instrument for measuring the distance between two points (often used in the plural)
 
-w: <<calico>> drf [[file:adj.all.org::calico]]
+w: <<calico>> drf [[file:adjs.all.org::calico]]
 hyper: [[fabric]]
 g: coarse cloth with a bright print
 
@@ -48792,7 +48789,7 @@ w: <<button3>>
 hyper: [[file:noun.Tops.org::artifact]]
 g: any artifact that resembles a button
 
-w: <<button>> drf [[file:adj.all.org::buttony]] drf [[file:adj.all.org::buttony]] drf [[file:verb.contact.org::button1]] drf [[file:verb.contact.org::button]]
+w: <<button>> drf [[file:adjs.all.org::buttony]] drf [[file:adjs.all.org::buttony]] drf [[file:verb.contact.org::button1]] drf [[file:verb.contact.org::button]]
 hyper: [[fastener]]
 g: a round fastener sewn to shirts and coats etc to fit through buttonholes
 
@@ -48939,7 +48936,7 @@ w: <<double-decker>>
 w: <<jitney>>
 w: <<motorbus>>
 w: <<motorcoach>>
-w: <<omnibus>> drf [[file:adj.all.org::omnibus]]
+w: <<omnibus>> drf [[file:adjs.all.org::omnibus]]
 w: <<passenger_vehicle>>
 hyper: [[public_transport]]
 hm: [[file:noun.group.org::fleet2]]
@@ -49013,7 +49010,7 @@ g: cloth used to cover a corpse in preparation for burial
 
 w: <<burial_chamber>>
 w: <<sepulcher>>
-w: <<sepulchre>> drf [[file:adj.all.org::sepulchral]] drf [[file:adj.pert.org::sepulchral]]
+w: <<sepulchre>> drf [[file:adjs.all.org::sepulchral]] drf [[file:adj.pert.org::sepulchral]]
 w: <<sepulture>>
 hyper: [[grave]]
 hyper: [[chamber]]
@@ -49234,7 +49231,7 @@ hyper: [[partition]]
 hp: [[ship]]
 g: a partition that divides a ship or plane into compartments
 
-w: <<bulb1>> drf [[file:adj.all.org::bulbous]]
+w: <<bulb1>> drf [[file:adjs.all.org::bulbous]]
 hyper: [[part]]
 hp: [[mercury_thermometer]]
 hp: [[syringe]]
@@ -49582,7 +49579,7 @@ w: <<bristle_brush>>
 hyper: [[brush]]
 g: a brush that is made with the short stiff hairs of an animal or plant
 
-w: <<bristle>> drf [[file:adj.all.org::bristly]]
+w: <<bristle>> drf [[file:adjs.all.org::bristly]]
 hyper: [[file:noun.substance.org::fiber]]
 hp: [[brush]]
 g: a stiff fiber (coarse hair or filament); natural or synthetic
@@ -50176,7 +50173,7 @@ w: <<box1>>
 hyper: [[compartment]]
 g: separate partitioned area in a public place for a few people; "the sentry stayed in his box to avoid the cold"
 
-w: <<box>> drf [[file:adj.all.org::boxy]] drf [[file:verb.contact.org::box2]]
+w: <<box>> drf [[file:adjs.all.org::boxy]] drf [[file:verb.contact.org::box2]]
 hyper: [[container]]
 g: a (usually rectangular) container; may have a lid; "he rummaged through a box of spare parts"
 
@@ -51093,7 +51090,7 @@ w: <<block6>>
 hyper: [[housing]]
 g: housing in a large building that is divided into separate units; "there is a block of classrooms in the west wing"
 
-w: <<block>> drf [[file:adj.all.org::blocky]]
+w: <<block>> drf [[file:adjs.all.org::blocky]]
 hyper: [[file:noun.Tops.org::artifact]]
 g: a solid piece of something (usually having flat rectangular sides); "the pyramids were built with large stone blocks"
 
@@ -51683,7 +51680,7 @@ w: <<cycle>> drf [[file:noun.person.org::cyclist]]
 hyper: [[wheeled_vehicle]]
 g: a wheeled vehicle that has two wheels and is moved by foot pedals
 
-w: <<bicorn>> drf [[file:adj.all.org::bicorn]]
+w: <<bicorn>> drf [[file:adjs.all.org::bicorn]]
 w: <<bicorne>>
 hyper: [[cocked_hat]]
 g: a cocked hat with the brim turned up to form two points
@@ -51832,7 +51829,7 @@ hyper: [[ordinary]]
 g: diagonal line traversing a shield from the upper right corner to the lower left
 
 w: <<bend>> drf [[file:verb.motion.org::bend1]]
-w: <<curve>> drf [[file:adj.all.org::curvy]] drf [[file:adj.all.org::curvey]] drf [[file:verb.change.org::curve]] drf [[file:verb.stative.org::curve]] drf [[file:verb.motion.org::curve]]
+w: <<curve>> drf [[file:adjs.all.org::curvy]] drf [[file:adjs.all.org::curvey]] drf [[file:verb.change.org::curve]] drf [[file:verb.stative.org::curve]] drf [[file:verb.motion.org::curve]]
 hyper: [[section]]
 hp: [[road]]
 dt: [[file:noun.object.org::river]]
@@ -52211,7 +52208,7 @@ g: a spot that is worn on a lady's face for adornment
 
 w: <<beating-reed_instrument>>
 w: <<reed_instrument>>
-w: <<reed>> drf [[file:adj.all.org::reedy]]
+w: <<reed>> drf [[file:adjs.all.org::reedy]]
 hyper: [[woodwind]]
 g: a musical instrument that sounds by means of a vibrating reed
 
@@ -52295,7 +52292,7 @@ w: <<astragal>>
 hyper: [[molding1]]
 g: a beaded molding for edging or decorating furniture
 
-w: <<bead>> drf [[file:adj.all.org::beady]] drf [[file:verb.creation.org::bead]] drf [[file:verb.contact.org::bead]]
+w: <<bead>> drf [[file:adjs.all.org::beady]] drf [[file:verb.creation.org::bead]] drf [[file:verb.contact.org::bead]]
 hyper: [[jewelry]]
 g: a small ball with a hole through the middle
 
@@ -52631,7 +52628,7 @@ w: <<tacking>>
 hyper: [[sewing_stitch]]
 g: a loose temporary sewing stitch to hold layers of fabric together
 
-w: <<bastard>> drf [[file:adj.all.org::bastard]] drf [[file:adj.all.org::bastardly]] drf [[file:verb.social.org::bastardize]] drf [[file:verb.social.org::bastardise]]
+w: <<bastard>> drf [[file:adjs.all.org::bastard]] drf [[file:adjs.all.org::bastardly]] drf [[file:verb.social.org::bastardize]] drf [[file:verb.social.org::bastardise]]
 w: <<mongrel>> drf [[file:verb.contact.org::mongrelize]]
 hyper: [[variation]]
 g: derogatory term for a variation that is not genuine; something irregular or inferior or of dubious origin; "the architecture was a kind of bastard suggesting Gothic but not true Gothic"
@@ -53145,7 +53142,7 @@ g: a stringed instrument of the guitar family that has long neck and circular bo
 
 w: <<bangle>>
 w: <<bauble>>
-w: <<gaud>> drf [[file:adj.all.org::gaudy]]
+w: <<gaud>> drf [[file:adjs.all.org::gaudy]]
 w: <<gewgaw>>
 w: <<novelty>>
 w: <<fallal>>
@@ -53225,7 +53222,7 @@ g: a restraint put around something to hold it together
 
 w: <<band1>>
 w: <<banding>>
-w: <<stripe>> drf [[file:adj.all.org::stripy]] drf [[file:verb.contact.org::stripe]]
+w: <<stripe>> drf [[file:adjs.all.org::stripy]] drf [[file:verb.contact.org::stripe]]
 hyper: [[adornment]]
 hp: [[garment]]
 g: an adornment consisting of a strip of a contrasting color or material
@@ -54088,7 +54085,7 @@ g: a platform from which an auctioneer sells; "they put their paintings on the b
 
 w: <<attire>> drf [[file:verb.body.org::attire]]
 w: <<garb>> drf [[file:verb.body.org::garb]]
-w: <<dress1>> drf [[file:adj.all.org::dressy]] drf [[file:verb.body.org::dress7]]
+w: <<dress1>> drf [[file:adjs.all.org::dressy]] drf [[file:verb.body.org::dress7]]
 hyper: [[clothing]]
 g: clothing of a distinctive style or for a particular occasion; "formal attire"; "battle dress"
 
@@ -54252,7 +54249,7 @@ g: a transparent dome on top of an airplane where the navigator can make celesti
 
 w: <<astringent>> drf [[file:adj.all.org::astringent]] drf [[file:verb.contact.org::astringe]] drf [[file:verb.change.org::astringe]]
 w: <<astringent_drug>>
-w: <<styptic>> drf [[file:adj.all.org::styptic]]
+w: <<styptic>> drf [[file:adjs.all.org::styptic]]
 hyper: [[medicine]]
 g: a drug that causes contraction of body tissues and canals
 
@@ -54460,7 +54457,7 @@ ihyper: [[temple]]
 hm: [[Seven_Wonders_of_the_Ancient_World]]
 g: the large temple of the Greek goddess Artemis which was begun at Ephesus in 541 BC and completed 220 years later; the temple was destroyed by the Goths in 262
 
-w: <<art>> drf [[file:adj.all.org::arty]] drf [[file:adj.all.org::artistic]] drf [[file:adj.pert.org::artistic]] drf [[file:noun.person.org::artist]]
+w: <<art>> drf [[file:adjs.all.org::arty]] drf [[file:adjs.all.org::artistic]] drf [[file:adj.pert.org::artistic]] drf [[file:noun.person.org::artist]]
 w: <<fine_art>>
 hyper: [[creation]]
 dt: [[file:noun.act.org::art]]
@@ -54752,9 +54749,9 @@ w: <<botanical_garden>>
 hyper: [[facility]]
 g: a facility where trees and shrubs are cultivated for exhibition
 
-w: <<arbor>> drf [[file:adj.all.org::arboreal]]
+w: <<arbor>> drf [[file:adjs.all.org::arboreal]]
 w: <<arbour>>
-w: <<bower>> drf [[file:adj.all.org::bowery]] drf [[file:verb.contact.org::bower]]
+w: <<bower>> drf [[file:adjs.all.org::bowery]] drf [[file:verb.contact.org::bower]]
 w: <<pergola>>
 hyper: [[framework]]
 g: a framework that supports climbing plants; "the arbor provided a shady resting place in the park"
@@ -54979,11 +54976,11 @@ w: <<antiseptic>> drf [[file:adj.all.org::antiseptic]]
 hyper: [[medicine]]
 g: a substance that destroys micro-organisms that carry disease without harming body tissues
 
-w: <<antiquity>> drf [[file:adj.all.org::antique]]
+w: <<antiquity>> drf [[file:adjs.all.org::antique]]
 hyper: [[file:noun.Tops.org::artifact]]
 g: an artifact surviving from the past
 
-w: <<antique>> drf [[file:adj.all.org::antique1]] drf [[file:adj.all.org::antique]] drf [[file:verb.change.org::antiquate]] drf [[file:verb.possession.org::antique]] drf [[file:verb.change.org::antique]]
+w: <<antique>> drf [[file:adjs.all.org::antique1]] drf [[file:adjs.all.org::antique]] drf [[file:verb.change.org::antiquate]] drf [[file:verb.possession.org::antique]] drf [[file:verb.change.org::antique]]
 hyper: [[antiquity]]
 g: any piece of furniture or decorative object or the like produced in a former period and valuable because of its beauty or rarity
 
@@ -55132,7 +55129,7 @@ g: a defensive missile designed to shoot down incoming intercontinental ballisti
 
 w: <<antibacterial>>
 w: <<antibacterial_drug>>
-w: <<bactericide>> drf [[file:adj.all.org::bactericidal]]
+w: <<bactericide>> drf [[file:adjs.all.org::bactericidal]]
 hyper: [[medicine]]
 g: any drug that destroys bacteria or inhibits their growth
 
@@ -55142,7 +55139,7 @@ w: <<antiarrhythmic_medication>>
 hyper: [[medicine]]
 g: a drug used to treat an abnormal heart rhythm
 
-w: <<antiaircraft>> drf [[file:adj.all.org::antiaircraft]]
+w: <<antiaircraft>> drf [[file:adjs.all.org::antiaircraft]]
 w: <<antiaircraft_gun>>
 w: <<flak>>
 w: <<flack>>
@@ -55305,8 +55302,8 @@ w: <<anesthyl>>
 hyper: [[local_anesthetic]]
 g: a mixture of methyl and ethyl chloride; sprayed on as a local anesthetic
 
-w: <<anesthetic>> drf [[file:adj.all.org::anesthetic]] drf [[file:verb.body.org::anesthetize]] drf [[file:verb.body.org::anesthetise]]
-w: <<anaesthetic>> drf [[file:adj.all.org::anaesthetic]] drf [[file:verb.body.org::anaesthetize]] drf [[file:verb.body.org::anaesthetise]]
+w: <<anesthetic>> drf [[file:adjs.all.org::anesthetic]] drf [[file:verb.body.org::anesthetize]] drf [[file:verb.body.org::anesthetise]]
+w: <<anaesthetic>> drf [[file:adjs.all.org::anaesthetic]] drf [[file:verb.body.org::anaesthetize]] drf [[file:verb.body.org::anaesthetise]]
 w: <<anesthetic_agent>>
 w: <<anaesthetic_agent>>
 hyper: [[drug]]
@@ -55399,14 +55396,14 @@ w: <<analog_clock>>
 hyper: [[clock]]
 g: a clock that displays the time of day by the position of hands on a dial
 
-w: <<analgesic>> drf [[file:adj.all.org::analgesic]]
-w: <<anodyne>> drf [[file:adj.all.org::anodyne]]
+w: <<analgesic>> drf [[file:adjs.all.org::analgesic]]
+w: <<anodyne>> drf [[file:adjs.all.org::anodyne]]
 w: <<painkiller>>
 w: <<pain_pill>>
 hyper: [[medicine]]
 g: a medicine used to relieve pain
 
-w: <<analeptic>> drf [[file:adj.all.org::analeptic]]
+w: <<analeptic>> drf [[file:adjs.all.org::analeptic]]
 hyper: [[stimulant]]
 g: a medication used as a stimulant to the central nervous system
 
@@ -55418,7 +55415,7 @@ w: <<anaglyph1>> drf [[file:adj.pert.org::anaglyptic]] drf [[file:adj.pert.org::
 hyper: [[glyptic_art]]
 g: anything carved in low relief
 
-w: <<anachronism>> drf [[file:adj.all.org::anachronistic]] drf [[file:adj.all.org::anachronic]] drf [[file:adj.all.org::anachronous]]
+w: <<anachronism>> drf [[file:adjs.all.org::anachronistic]] drf [[file:adjs.all.org::anachronic]] drf [[file:adjs.all.org::anachronous]]
 hyper: [[file:noun.Tops.org::artifact]]
 g: an artifact that belongs to another time
 
@@ -55431,7 +55428,7 @@ hyper: [[arcade2]]
 g: an arcade featuring coin-operated game machines
 
 w: <<amulet>>
-w: <<talisman>> drf [[file:adj.all.org::talismanic]]
+w: <<talisman>> drf [[file:adjs.all.org::talismanic]]
 hyper: [[charm]]
 g: a trinket or piece of jewelry usually hung about the neck and thought to be a magical protection against evil or disease
 
@@ -55836,7 +55833,7 @@ hyper: [[airfield]]
 g: an airfield without normal airport facilities
 
 w: <<airship>>
-w: <<dirigible>> drf [[file:adj.all.org::dirigible]]
+w: <<dirigible>> drf [[file:adjs.all.org::dirigible]]
 hyper: [[lighter-than-air_craft]]
 g: a steerable self-propelled aircraft
 
@@ -56174,7 +56171,7 @@ w: <<intermixture>> drf [[file:verb.contact.org::intermix]]
 hyper: [[ingredient]]
 g: an additional ingredient that is added by mixing with the base; "the growing medium should be equal parts of sand and loam with an admixture of peat moss and cow manure"; "a large intermixture of sand"
 
-w: <<adjuvant>> drf [[file:adj.all.org::adjuvant]]
+w: <<adjuvant>> drf [[file:adjs.all.org::adjuvant]]
 hyper: [[additive]]
 g: an additive that enhances the effectiveness of medical treatment
 
@@ -56436,15 +56433,15 @@ w: <<slip_road>>
 hyper: [[road]]
 g: a short road giving access to an expressway; "in Britain they call an access road a slip road"
 
-w: <<accessory1>> drf [[file:adj.all.org::accessorial]]
+w: <<accessory1>> drf [[file:adjs.all.org::accessorial]]
 w: <<accoutrement>>
 w: <<accouterment>>
 hyper: [[clothing]]
 g: clothing that is worn or carried, but not part of your main clothing
 
-w: <<accessory>> drf [[file:adj.all.org::accessory]] drf [[file:adj.all.org::accessorial]]
-w: <<appurtenance>> drf [[file:adj.all.org::appurtenant]] drf [[file:verb.stative.org::appertain]]
-w: <<supplement>> drf [[file:adj.all.org::supplementary]] drf [[file:adj.all.org::supplemental]] drf [[file:verb.possession.org::supplement]]
+w: <<accessory>> drf [[file:adjs.all.org::accessory]] drf [[file:adjs.all.org::accessorial]]
+w: <<appurtenance>> drf [[file:adjs.all.org::appurtenant]] drf [[file:verb.stative.org::appertain]]
+w: <<supplement>> drf [[file:adjs.all.org::supplementary]] drf [[file:adjs.all.org::supplemental]] drf [[file:verb.possession.org::supplement]]
 w: <<add-on1>> drf [[file:verb.contact.org::add_on]]
 hyper: [[component]]
 g: a supplementary component that improves capability
@@ -56546,7 +56543,7 @@ w: <<RU_486>> du [[file:noun.communication.org::trademark]]
 hyper: [[abortifacient]]
 g: an abortion-inducing drug (trade name RU_486) developed in France; when taken during the first five weeks of pregnancy it blocks the action of progesterone so that the uterus sloughs off the embryo
 
-w: <<abortifacient>> drf [[file:adj.all.org::abortifacient]]
+w: <<abortifacient>> drf [[file:adjs.all.org::abortifacient]]
 w: <<aborticide>>
 w: <<abortion-inducing_drug>>
 hyper: [[drug]]
@@ -56594,7 +56591,7 @@ hyper: [[battery]]
 g: the battery used to heat the filaments of a vacuum tube
 
 w: <<abandoned_ship>>
-w: <<derelict>> drf [[file:adj.all.org::derelict]]
+w: <<derelict>> drf [[file:adjs.all.org::derelict]]
 hyper: [[ship]]
 g: a ship abandoned on the high seas
 

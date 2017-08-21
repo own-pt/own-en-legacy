@@ -54,14 +54,14 @@ w: <<sense_of_right_and_wrong>>
 hyper: [[ethical_motive]]
 g: motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions
 
-w: <<hedonism>> drf [[file:adj.all.org::hedonistic]] drf [[file:adj.all.org::hedonic]] drf [[file:noun.person.org::hedonist]]
+w: <<hedonism>> drf [[file:adjs.all.org::hedonistic]] drf [[file:adjs.all.org::hedonic]] drf [[file:noun.person.org::hedonist]]
 hyper: [[ethical_motive]]
 g: the pursuit of pleasure as a matter of ethical principle
 
 w: <<ethical_motive>>
-w: <<ethics>> drf [[file:adj.all.org::ethical]] drf [[file:adj.all.org::ethical]] drf [[file:noun.person.org::ethicist]] drf [[file:noun.person.org::ethician]]
+w: <<ethics>> drf [[file:adjs.all.org::ethical]] drf [[file:adj.all.org::ethical]] drf [[file:noun.person.org::ethicist]] drf [[file:noun.person.org::ethician]]
 w: <<morals>>
-w: <<morality>> drf [[file:adj.all.org::moralistic]]
+w: <<morality>> drf [[file:adjs.all.org::moralistic]]
 hyper: [[file:noun.Tops.org::motivation]]
 g: motivation based on ideas of right and wrong
 
@@ -69,8 +69,8 @@ w: <<onomatomania>>
 hyper: [[compulsion]]
 g: obsession with a particular word which the person uses repeatedly or which intrudes into consciousness
 
-w: <<compulsion>> drf [[file:adj.all.org::compulsive]] drf [[file:noun.person.org::compulsive]]
-w: <<obsession>> drf [[file:adj.all.org::obsessional]]
+w: <<compulsion>> drf [[file:adjs.all.org::compulsive]] drf [[file:noun.person.org::compulsive]]
+w: <<obsession>> drf [[file:adjs.all.org::obsessional]]
 hyper: [[irrational_motive]]
 g: an irrational motive for performing trivial or repetitive actions, even against your will; "her compulsion to wash her hands repeatedly"
 
@@ -97,7 +97,7 @@ w: <<necromania>>
 hyper: [[mania]]
 g: an irresistible sexual attraction to dead bodies
 
-w: <<monomania>> drf [[file:adj.all.org::monomaniacal]]
+w: <<monomania>> drf [[file:adjs.all.org::monomaniacal]]
 w: <<possession>>
 hyper: [[mania]]
 g: a mania restricted to one thing or idea
@@ -125,13 +125,13 @@ w: <<agromania>>
 hyper: [[mania]]
 g: an intense desire to be alone or out in the open
 
-w: <<mania>> drf [[file:adj.all.org::manic]]
+w: <<mania>> drf [[file:adjs.all.org::manic]]
 w: <<passion>>
 w: <<cacoethes>>
 hyper: [[irrational_motive]]
 g: an irrational but irresistible motive for a belief or action
 
-w: <<compulsion1>> drf [[file:adj.all.org::compulsive]]
+w: <<compulsion1>> drf [[file:adjs.all.org::compulsive]]
 w: <<irresistible_impulse>>
 hyper: [[irrational_impulse]]
 g: an urge to do or say something that might be better left undone or unsaid; "he felt a compulsion to babble on about the accident"
@@ -167,7 +167,7 @@ hyper: [[file:noun.Tops.org::motivation]]
 g: a motivation that is inconsistent with reason or logic
 
 w: <<disincentive>> ant [[incentive]]
-w: <<deterrence>> drf [[file:adj.all.org::deterrent]]
+w: <<deterrence>> drf [[file:adjs.all.org::deterrent]]
 hyper: [[rational_motive]]
 g: a negative motivational influence
 

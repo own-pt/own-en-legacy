@@ -44,7 +44,7 @@ g: let eat; "range the animals in the prairie"
 
 w: <<nutrify>> uses [[file:noun.Tops.org::nutrient]] event [[file:noun.process.org::nutrition]] drf [[file:noun.process.org::nutrition]] drf [[file:noun.Tops.org::nutrient]]
 w: <<aliment>> event [[file:noun.act.org::alimentation]] by-means-of [[file:noun.food.org::alimentation]] by-means-of [[file:noun.food.org::aliment]] drf [[file:adj.pert.org::alimentative]] drf [[file:noun.food.org::alimentation]] drf [[file:noun.act.org::alimentation]] drf [[file:noun.food.org::aliment]]
-w: <<nourish1>> event [[file:noun.act.org::nourishment]] drf [[file:adj.all.org::nutrient]] drf [[file:noun.act.org::nourishment]]
+w: <<nourish1>> event [[file:noun.act.org::nourishment]] drf [[file:adjs.all.org::nutrient]] drf [[file:noun.act.org::nourishment]]
 hyper: [[feed1]]
 fr: 11
 g: give nourishment to
@@ -95,7 +95,7 @@ vg: [[file:verb.creation.org::carry8]]
 fr: 11
 g: be able to feed; "This land will carry ten cows to the acre"
 
-w: <<nourish>> uses [[file:noun.food.org::nourishment]] drf [[file:adj.all.org::nutrient]] drf [[file:noun.food.org::nourishment]]
+w: <<nourish>> uses [[file:noun.food.org::nourishment]] drf [[file:adjs.all.org::nutrient]] drf [[file:noun.food.org::nourishment]]
 w: <<nurture>> uses [[file:noun.act.org::nurturance]] drf [[file:noun.act.org::nurturance]]
 w: <<sustain1>> event [[file:noun.act.org::sustainment]] by-means-of [[file:noun.food.org::sustenance]] drf [[file:adj.pert.org::sustainable]] drf [[file:noun.act.org::sustainment]] drf [[file:noun.food.org::sustenance]]
 hyper: [[provide]]
@@ -325,7 +325,7 @@ hyper: [[abstain]]
 fr: 2
 g: practice teetotalism and abstain from the consumption of alcoholic beverages
 
-w: <<abstain>> property [[file:noun.attribute.org::abstinence]] property [[file:noun.attribute.org::abstention]] agent [[file:noun.person.org::abstainer1]] agent [[file:noun.person.org::abstainer]] drf [[file:adj.all.org::abstinent]] drf [[file:noun.attribute.org::abstention]] drf [[file:noun.person.org::abstinent]] drf [[file:noun.person.org::abstainer]] drf [[file:noun.person.org::abstainer1]] drf [[file:noun.attribute.org::abstinence]] ant [[consume]]
+w: <<abstain>> property [[file:noun.attribute.org::abstinence]] property [[file:noun.attribute.org::abstention]] agent [[file:noun.person.org::abstainer1]] agent [[file:noun.person.org::abstainer]] drf [[file:adjs.all.org::abstinent]] drf [[file:noun.attribute.org::abstention]] drf [[file:noun.person.org::abstinent]] drf [[file:noun.person.org::abstainer]] drf [[file:noun.person.org::abstainer1]] drf [[file:noun.attribute.org::abstinence]] ant [[consume]]
 w: <<refrain>>
 w: <<desist>>
 fr: 2 22 33
@@ -744,7 +744,7 @@ fr: 11
 g: be satisfactory for; meet the requirements of or serve the purpose of; "This may answer her needs"
 
 w: <<meet>>
-w: <<satisfy1>> event [[file:noun.act.org::satisfaction]] by-means-of [[file:noun.object.org::satisfier]] drf [[file:adj.all.org::satisfactory]] drf [[file:adj.all.org::satisfactory]] drf [[file:noun.act.org::satisfaction]] drf [[file:noun.object.org::satisfier]]
+w: <<satisfy1>> event [[file:noun.act.org::satisfaction]] by-means-of [[file:noun.object.org::satisfier]] drf [[file:adjs.all.org::satisfactory]] drf [[file:adj.all.org::satisfactory]] drf [[file:noun.act.org::satisfaction]] drf [[file:noun.object.org::satisfier]]
 w: <<fill2>> by-means-of [[file:noun.quantity.org::fill]] drf [[file:noun.quantity.org::fill]]
 w: <<fulfill>> state [[file:noun.feeling.org::fulfillment]] drf [[file:noun.feeling.org::fulfillment]]
 w: <<fulfil>> state [[file:noun.feeling.org::fulfilment]] drf [[file:noun.feeling.org::fulfilment]]
@@ -1350,7 +1350,7 @@ hyper: [[exploit]]
 fr: 22
 g: turn to one's advantage; "The environmentalist lobby made hay of the nuclear plant accident"
 
-w: <<exploit>> event [[file:noun.act.org::exploitation1]] event [[file:noun.act.org::exploitation]] agent [[file:noun.person.org::exploiter]] drf [[file:adj.all.org::exploitive]] drf [[file:adj.all.org::exploitative]] drf [[file:adj.all.org::exploitatory]] drf [[file:noun.act.org::exploitation1]] drf [[file:noun.act.org::exploitation]] drf [[file:noun.person.org::exploiter]]
+w: <<exploit>> event [[file:noun.act.org::exploitation1]] event [[file:noun.act.org::exploitation]] agent [[file:noun.person.org::exploiter]] drf [[file:adjs.all.org::exploitive]] drf [[file:adjs.all.org::exploitative]] drf [[file:adjs.all.org::exploitatory]] drf [[file:noun.act.org::exploitation1]] drf [[file:noun.act.org::exploitation]] drf [[file:noun.person.org::exploiter]]
 w: <<work10>>
 hyper: [[use1]]
 vg: [[file:verb.perception.org::work10]]
@@ -1416,7 +1416,7 @@ hyper: [[use1]]
 fr: 8 11
 g: use inefficiently or inappropriately; "waste heat"; "waste a joke on an unappreciative audience"
 
-w: <<address>> drf [[file:adj.all.org::addressable]]
+w: <<address>> drf [[file:adjs.all.org::addressable]]
 hyper: [[use1]]
 fr: 15 20
 g: address or apply oneself to something, direct one's efforts towards something, such as a question
@@ -1442,10 +1442,10 @@ hyper: [[use1]]
 fr: 2
 g: use all resources available; "The organizers pulled out all the stops for the centennial meeting"
 
-w: <<use1>> event [[file:noun.act.org::use]] agent [[file:noun.person.org::user]] drf [[file:adj.all.org::useable]] drf [[file:adj.all.org::useable]] drf [[file:adj.all.org::useable]] drf [[file:adj.all.org::usable]] drf [[file:adj.all.org::usable]] drf [[file:adj.all.org::usable]] drf [[file:noun.act.org::use]] drf [[file:noun.person.org::user]] drf [[file:noun.act.org::usage]]
-w: <<utilize>> event [[file:noun.act.org::utilization]] agent [[file:noun.person.org::utilizer]] drf [[file:adj.all.org::utilizable]] drf [[file:noun.act.org::utilization]] drf [[file:noun.person.org::utilizer]] drf [[file:noun.attribute.org::utility]]
+w: <<use1>> event [[file:noun.act.org::use]] agent [[file:noun.person.org::user]] drf [[file:adjs.all.org::useable]] drf [[file:adjs.all.org::useable]] drf [[file:adjs.all.org::useable]] drf [[file:adjs.all.org::usable]] drf [[file:adjs.all.org::usable]] drf [[file:adjs.all.org::usable]] drf [[file:noun.act.org::use]] drf [[file:noun.person.org::user]] drf [[file:noun.act.org::usage]]
+w: <<utilize>> event [[file:noun.act.org::utilization]] agent [[file:noun.person.org::utilizer]] drf [[file:adjs.all.org::utilizable]] drf [[file:noun.act.org::utilization]] drf [[file:noun.person.org::utilizer]] drf [[file:noun.attribute.org::utility]]
 w: <<utilise>> event [[file:noun.act.org::utilisation]] drf [[file:noun.act.org::utilisation]] drf [[file:noun.attribute.org::utility]]
-w: <<apply>> event [[file:noun.act.org::application2]] drf [[file:adj.all.org::applicative]] drf [[file:adj.all.org::applicatory]] drf [[file:noun.act.org::application2]]
+w: <<apply>> event [[file:noun.act.org::application2]] drf [[file:adjs.all.org::applicative]] drf [[file:adjs.all.org::applicatory]] drf [[file:noun.act.org::application2]]
 w: <<employ>> event [[file:noun.act.org::employment1]] drf [[file:noun.act.org::employment1]]
 vg: [[file:verb.social.org::practice1]]
 cause: [[file:verb.stative.org::apply]]
@@ -1476,7 +1476,7 @@ hyper: [[consume1]]
 fr: 8 10 11
 g: deplete of resources; "The exercise class drains me of energy"
 
-w: <<consume1>> drf [[file:adj.all.org::consumptive]] drf [[file:adj.all.org::consumable]]
+w: <<consume1>> drf [[file:adj.all.org::consumptive]] drf [[file:adjs.all.org::consumable]]
 w: <<eat_up3>>
 w: <<use_up>>
 w: <<eat13>>  fr 22

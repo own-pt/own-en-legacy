@@ -57,7 +57,7 @@ w: <<law_of_closure>>
 hyper: [[Gestalt_law_of_organization]]
 g: a Gestalt principle of organization holding that there is an innate tendency to perceive incomplete objects as complete and to close or fill gaps and to perceive asymmetric stimuli as symmetric
 
-w: <<strategy1>> drf [[file:adj.all.org::strategic]] drf [[file:adj.pert.org::strategic]] drf [[file:adj.pert.org::strategical]] drf [[file:noun.person.org::strategist]]
+w: <<strategy1>> drf [[file:adjs.all.org::strategic]] drf [[file:adj.pert.org::strategic]] drf [[file:adj.pert.org::strategical]] drf [[file:noun.person.org::strategist]]
 hyper: [[military_science]]
 dt: [[file:noun.group.org::military]]
 g: the branch of military science dealing with military command and the planning and conduct of a war
@@ -564,8 +564,8 @@ w: <<theism>> drf [[file:adj.pert.org::theistic]] drf [[file:adj.pert.org::theis
 hyper: [[religion]]
 g: the doctrine or belief in the existence of a God or gods
 
-w: <<atheism>> drf [[file:adj.all.org::atheistic]] drf [[file:adj.pert.org::atheistic]] drf [[file:noun.person.org::atheist]] ant [[theism]]
-w: <<godlessness>> drf [[file:adj.all.org::godless]]
+w: <<atheism>> drf [[file:adjs.all.org::atheistic]] drf [[file:adj.pert.org::atheistic]] drf [[file:noun.person.org::atheist]] ant [[theism]]
+w: <<godlessness>> drf [[file:adjs.all.org::godless]]
 hyper: [[religious_orientation]]
 g: the doctrine or belief that there is no God
 
@@ -597,11 +597,11 @@ w: <<war_advocacy>>
 hyper: [[hawkishness]]
 g: a policy of advocating war
 
-w: <<militarism>> drf [[file:adj.all.org::militaristic]] drf [[file:noun.person.org::militarist]]
+w: <<militarism>> drf [[file:adjs.all.org::militaristic]] drf [[file:noun.person.org::militarist]]
 hyper: [[hawkishness]]
 g: a political orientation of a people or a government to maintain a strong military force and to be prepared to use it aggressively to defend or promote national interests
 
-w: <<hawkishness>> drf [[file:adj.all.org::hawkish]] ant [[dovishness]]
+w: <<hawkishness>> drf [[file:adjs.all.org::hawkish]] ant [[dovishness]]
 hyper: [[political_orientation]]
 g: any political orientation favoring aggressive policies
 
@@ -609,7 +609,7 @@ w: <<peace_advocacy>>
 hyper: [[dovishness]]
 g: any policy that advocates maintaining peaceful international relations
 
-w: <<dovishness>> drf [[file:adj.all.org::dovish]] ant [[hawkishness]]
+w: <<dovishness>> drf [[file:adjs.all.org::dovish]] ant [[hawkishness]]
 hyper: [[political_orientation]]
 g: any political orientation favoring compromise to avoid conflict
 
@@ -686,7 +686,7 @@ w: <<meritocracy>> drf [[file:adj.pert.org::meritocratic]]
 hyper: [[political_orientation]]
 g: the belief that rulers should be chosen for their superior abilities and not because of their wealth or birth
 
-w: <<liberalism>> drf [[file:adj.all.org::liberalistic]]
+w: <<liberalism>> drf [[file:adjs.all.org::liberalistic]]
 hyper: [[political_orientation]]
 g: a political orientation that favors social progress by reform and by changing laws rather than by revolution
 
@@ -734,7 +734,7 @@ w: <<segregationism>> drf [[file:noun.person.org::segregationist]]
 hyper: [[political_orientation]]
 g: a political orientation favoring political or racial segregation
 
-w: <<reaction1>> drf [[file:adj.all.org::reactionary]]
+w: <<reaction1>> drf [[file:adjs.all.org::reactionary]]
 hyper: [[conservatism]]
 g: extreme conservatism in political or social matters; "the forces of reaction carried the election"
 
@@ -772,7 +772,7 @@ w: <<communism>> drf [[file:adj.pert.org::communistic]] drf [[file:noun.person.o
 hyper: [[political_orientation]]
 g: a political theory favoring collectivism in a classless society
 
-w: <<collectivism>> drf [[file:adj.all.org::collectivistic]] drf [[file:noun.person.org::collectivist]]
+w: <<collectivism>> drf [[file:adjs.all.org::collectivistic]] drf [[file:noun.person.org::collectivist]]
 hyper: [[political_orientation]]
 g: a political theory that the people should own the means of production
 
@@ -815,7 +815,7 @@ g: a lack of orthodoxy in thoughts or beliefs
 
 w: <<unorthodoxy>> ant [[orthodoxy]]
 w: <<heterodoxy>>
-w: <<heresy1>> drf [[file:adj.all.org::heretical]]
+w: <<heresy1>> drf [[file:adjs.all.org::heretical]]
 hyper: [[orientation]]
 g: any opinions or doctrines at variance with the official or orthodox position
 
@@ -823,7 +823,7 @@ w: <<legalism>>
 hyper: [[conformity]]
 g: strict conformity to the letter of the law rather than its spirit
 
-w: <<conventionality1>> drf [[file:adj.all.org::conventional]] drf [[file:adj.all.org::conventional]]
+w: <<conventionality1>> drf [[file:adjs.all.org::conventional]] drf [[file:adj.all.org::conventional]]
 hyper: [[conformity]]
 g: conformity with conventional thought and behavior
 
@@ -922,15 +922,15 @@ w: <<orientation>>
 hyper: [[attitude]]
 g: an integrated set of attitudes and beliefs
 
-w: <<profaneness>> drf [[file:adj.all.org::profane]] drf [[file:adj.all.org::profane]]
+w: <<profaneness>> drf [[file:adjs.all.org::profane]] drf [[file:adj.all.org::profane]]
 hyper: [[irreverence]]
 g: an attitude of irreverence or contempt for a divinity
 
-w: <<irreverence>> drf [[file:adj.all.org::irreverent]] ant [[reverence]]
+w: <<irreverence>> drf [[file:adjs.all.org::irreverent]] ant [[reverence]]
 hyper: [[attitude]]
 g: an irreverent mental attitude
 
-w: <<reverence>> drf [[file:adj.all.org::reverential]] drf [[file:adj.all.org::reverent]] drf [[file:verb.emotion.org::reverence]] drf [[file:verb.emotion.org::revere1]] ant [[irreverence]]
+w: <<reverence>> drf [[file:adjs.all.org::reverential]] drf [[file:adj.all.org::reverent]] drf [[file:verb.emotion.org::reverence]] drf [[file:verb.emotion.org::revere1]] ant [[irreverence]]
 hyper: [[attitude]]
 g: a reverent mental attitude
 
@@ -963,7 +963,7 @@ hyper: [[intolerance]]
 g: exaggerated religious zealotry
 
 w: <<fanaticism>>
-w: <<fanatism>> drf [[file:adj.all.org::fanatic]]
+w: <<fanatism>> drf [[file:adjs.all.org::fanatic]]
 w: <<zealotry>>
 hyper: [[intolerance]]
 g: excessive intolerance of opposing views
@@ -982,7 +982,7 @@ w: <<provincialism1>>
 hyper: [[narrow-mindedness]]
 g: a lack of sophistication
 
-w: <<pettiness>> drf [[file:adj.all.org::petty]]
+w: <<pettiness>> drf [[file:adjs.all.org::petty]]
 hyper: [[narrow-mindedness]]
 g: narrowness of mind or ideas or views
 
@@ -990,7 +990,7 @@ w: <<parochialism>>
 hyper: [[narrow-mindedness]]
 g: a limitation of views or interests like that defined by a local parish
 
-w: <<narrow-mindedness>> drf [[file:adj.all.org::narrow-minded]] drf [[file:adj.all.org::narrow-minded]] ant [[broad-mindedness]]
+w: <<narrow-mindedness>> drf [[file:adjs.all.org::narrow-minded]] drf [[file:adj.all.org::narrow-minded]] ant [[broad-mindedness]]
 w: <<narrowness>> drf [[file:adj.all.org::narrow6]]
 hyper: [[intolerance]]
 g: an inclination to criticize opposing opinions or shocking behavior
@@ -1000,12 +1000,12 @@ hyper: [[attitude]]
 g: unwillingness to recognize and respect differences in opinions or beliefs
 
 w: <<disinterest1>>
-w: <<neutrality>> drf [[file:adj.all.org::neutral]]
+w: <<neutrality>> drf [[file:adjs.all.org::neutral]]
 hyper: [[tolerance]]
 g: tolerance attributable to a lack of involvement
 
-w: <<liberality1>> drf [[file:adj.all.org::liberal]]
-w: <<liberalness1>> drf [[file:adj.all.org::liberal]] drf [[file:adj.all.org::liberal]] drf [[file:adj.all.org::liberal]]
+w: <<liberality1>> drf [[file:adjs.all.org::liberal]]
+w: <<liberalness1>> drf [[file:adjs.all.org::liberal]] drf [[file:adjs.all.org::liberal]] drf [[file:adj.all.org::liberal]]
 hyper: [[tolerance]]
 g: an inclination to favor progress and individual freedom
 
@@ -1017,7 +1017,7 @@ w: <<tolerance>> drf [[file:adj.all.org::tolerant]] ant [[intolerance]]
 hyper: [[attitude]]
 g: willingness to recognize and respect the beliefs or practices of others
 
-w: <<tendentiousness>> drf [[file:adj.all.org::tendentious]]
+w: <<tendentiousness>> drf [[file:adjs.all.org::tendentious]]
 hyper: [[bias]]
 g: an intentional and controversial bias
 
@@ -1048,13 +1048,13 @@ dt: [[psychology]]
 g: (psychology) bias introduced by an experimenter whose expectations about the outcome of the experiment can be subtly communicated to the participants in the experiment
 
 w: <<fairness>> ant [[unfairness]]
-w: <<fair-mindedness>> drf [[file:adj.all.org::fair-minded]]
+w: <<fair-mindedness>> drf [[file:adjs.all.org::fair-minded]]
 w: <<candor>>
 w: <<candour>>
 hyper: [[impartiality]]
 g: ability to make judgments free from discrimination or dishonesty
 
-w: <<disinterestedness>> drf [[file:adj.all.org::disinterested]]
+w: <<disinterestedness>> drf [[file:adjs.all.org::disinterested]]
 hyper: [[impartiality]]
 g: freedom from bias or from selfish motives
 
@@ -1122,7 +1122,7 @@ hyper: [[inclination]]
 g: an inclination to approve; "that style is in favor this season"
 
 w: <<predilection>>
-w: <<preference1>> drf [[file:adj.all.org::preferential]] drf [[file:adj.all.org::preferent]] drf [[file:verb.cognition.org::prefer]]
+w: <<preference1>> drf [[file:adjs.all.org::preferential]] drf [[file:adjs.all.org::preferent]] drf [[file:verb.cognition.org::prefer]]
 w: <<orientation2>>
 hyper: [[predisposition]]
 g: a predisposition in favor of something; "a predilection for expensive cars"; "his sexual preferences"; "showed a Marxist orientation"
@@ -1200,7 +1200,7 @@ g: a general course along which something has a tendency to develop; "I couldn't
 
 w: <<inclination>> drf [[file:verb.stative.org::incline1]] drf [[file:verb.cognition.org::incline3]]
 w: <<disposition1>> drf [[file:verb.cognition.org::dispose]]
-w: <<tendency>> drf [[file:adj.all.org::tendentious]] drf [[file:adj.all.org::tendencious]] drf [[file:verb.stative.org::tend1]]
+w: <<tendency>> drf [[file:adjs.all.org::tendentious]] drf [[file:adjs.all.org::tendencious]] drf [[file:verb.stative.org::tend1]]
 hyper: [[attitude]]
 g: an attitude of mind especially one that favors one alternative over others; "he had an inclination to give up too easily"; "a tendency to be too strict"
 
@@ -1214,7 +1214,7 @@ w: <<posture>>
 hyper: [[attitude]]
 g: a rationalized mental attitude
 
-w: <<paternalism>> drf [[file:adj.all.org::paternalistic]]
+w: <<paternalism>> drf [[file:adjs.all.org::paternalistic]]
 hyper: [[attitude]]
 dt: [[file:noun.act.org::government]]
 g: the attitude (of a person or a government) that subordinates should be controlled in a fatherly way for their own good
@@ -1239,7 +1239,7 @@ w: <<hardball>>
 hyper: [[attitude]]
 g: a no-nonsense attitude in business or politics; "they play hardball in the Senate"
 
-w: <<defensive>> drf [[file:adj.all.org::defensive]]
+w: <<defensive>> drf [[file:adjs.all.org::defensive]]
 w: <<defensive_attitude>>
 hyper: [[attitude]]
 g: an attitude of defensiveness (especially in the phrase `on the defensive')
@@ -1748,7 +1748,7 @@ w: <<comparative_literature>>
 hyper: [[literary_study]]
 g: study of literary works from different cultures (often in translation)
 
-w: <<literature>> drf [[file:adj.all.org::literary]]
+w: <<literature>> drf [[file:adjs.all.org::literary]]
 w: <<lit>>
 hyper: [[literary_study]]
 dt: [[file:noun.communication.org::literature]]
@@ -1931,7 +1931,7 @@ w: <<probabilism1>> drf [[file:adj.pert.org::probabilistic1]]
 hyper: [[casuistry]]
 g: a Roman Catholic system of casuistry that when expert opinions differ an actor can follow any solidly probable opinion that he wishes even though some different opinion might be more probable
 
-w: <<hedonism>> drf [[file:adj.all.org::hedonistic]] drf [[file:adj.all.org::hedonic]] drf [[file:noun.person.org::hedonist]]
+w: <<hedonism>> drf [[file:adjs.all.org::hedonistic]] drf [[file:adjs.all.org::hedonic]] drf [[file:noun.person.org::hedonist]]
 hyper: [[ethics]]
 g: an ethical system that evaluates the pursuit of pleasure as the highest good
 
@@ -1961,7 +1961,7 @@ w: <<moral_philosophy>>
 hyper: [[philosophy]]
 g: the philosophical study of moral values and rules
 
-w: <<philosophy>> drf [[file:adj.all.org::philosophical]] drf [[file:adj.pert.org::philosophic]] drf [[file:adj.pert.org::philosophical]] drf [[file:noun.person.org::philosopher1]] drf [[file:noun.person.org::philosopher]] drf [[file:verb.cognition.org::philosophize]] drf [[file:verb.cognition.org::philosophise]]
+w: <<philosophy>> drf [[file:adjs.all.org::philosophical]] drf [[file:adj.pert.org::philosophic]] drf [[file:adj.pert.org::philosophical]] drf [[file:noun.person.org::philosopher1]] drf [[file:noun.person.org::philosopher]] drf [[file:verb.cognition.org::philosophize]] drf [[file:verb.cognition.org::philosophise]]
 hyper: [[humanistic_discipline]]
 g: the rational investigation of questions about existence and knowledge and ethics
 
@@ -1983,7 +1983,7 @@ w: <<beaux_arts>>
 hyper: [[humanistic_discipline]]
 g: the study and creation of visual works of art
 
-w: <<history1>> drf [[file:adj.all.org::historic]]
+w: <<history1>> drf [[file:adjs.all.org::historic]]
 hyper: [[file:noun.Tops.org::cognition]]
 g: all that is remembered of the past as preserved in writing; a body of knowledge; "the dawn of recorded history"; "from the beginning of history"
 
@@ -2007,7 +2007,7 @@ w: <<historicism>>
 hyper: [[hypothesis]]
 g: a theory that social and cultural events are determined by history
 
-w: <<history>> drf [[file:adj.all.org::historic]] drf [[file:adj.pert.org::historical]]
+w: <<history>> drf [[file:adjs.all.org::historic]] drf [[file:adj.pert.org::historical]]
 hyper: [[humanistic_discipline]]
 g: the discipline that records and interprets past events involving human beings; "he teaches Medieval history"; "history takes the long view"
 
@@ -2027,7 +2027,7 @@ hyper: [[humanistic_discipline]]
 hyper: [[file:noun.attribute.org::artistic_style]]
 g: a movement in literature and art during the 17th and 18th centuries in Europe that favored rationality and restraint and strict forms; "classicism often derived its models from the ancient Greeks and Romans"
 
-w: <<neoclassicism>> drf [[file:adj.pert.org::neoclassicistic]] drf [[file:adj.all.org::neoclassical]] drf [[file:noun.person.org::neoclassicist]]
+w: <<neoclassicism>> drf [[file:adj.pert.org::neoclassicistic]] drf [[file:adjs.all.org::neoclassical]] drf [[file:noun.person.org::neoclassicist]]
 hyper: [[humanistic_discipline]]
 hyper: [[file:noun.attribute.org::artistic_style]]
 g: revival of a classical style (in art or literature or architecture or music) but from a new perspective or with a new motivation
@@ -2411,7 +2411,7 @@ dt: [[psychology]]
 g: (psychology) a theory that association is the basic principle of mental activity
 
 w: <<abnormal_psychology>>
-w: <<psychopathology1>> drf [[file:adj.all.org::psychopathologic]]
+w: <<psychopathology1>> drf [[file:adjs.all.org::psychopathologic]]
 hyper: [[psychology]]
 g: the branch of psychology concerned with abnormal behavior
 
@@ -2574,7 +2574,7 @@ g: the science and technology of metals
 w: <<engineering>>
 w: <<engineering_science>>
 w: <<applied_science>>
-w: <<technology>> drf [[file:adj.all.org::technological]] drf [[file:adj.pert.org::technological]] drf [[file:noun.person.org::technologist]]
+w: <<technology>> drf [[file:adjs.all.org::technological]] drf [[file:adj.pert.org::technological]] drf [[file:noun.person.org::technologist]]
 hyper: [[discipline]]
 g: the discipline dealing with the art or science of applying scientific knowledge to practical problems; "he had trouble deciding which branch of engineering to study"
 
@@ -3278,7 +3278,7 @@ hyper: [[neuroscience]]
 hyper: [[physiology]]
 g: the branch of neuroscience that studies the physiology of the nervous system
 
-w: <<physiology>> drf [[file:adj.all.org::physiologic]] drf [[file:noun.person.org::physiologist]]
+w: <<physiology>> drf [[file:adjs.all.org::physiologic]] drf [[file:noun.person.org::physiologist]]
 hyper: [[biology]]
 g: the branch of the biological sciences dealing with the functioning of organisms
 
@@ -3466,7 +3466,7 @@ w: <<astrobiology>>
 hyper: [[biology]]
 g: the branch of biology concerned with the effects of outer space on living organisms and the search for extraterrestrial life
 
-w: <<embryology>> drf [[file:adj.all.org::embryonic]] drf [[file:adj.all.org::embryologic]]
+w: <<embryology>> drf [[file:adjs.all.org::embryonic]] drf [[file:adjs.all.org::embryologic]]
 hyper: [[biology]]
 g: the branch of biology that studies the formation and early development of living organisms
 
@@ -3699,7 +3699,7 @@ du: [[file:noun.communication.org::archaism]]
 g: an obsolete term for the study and treatment of mental illness
 
 w: <<psychiatry>> drf [[file:adj.pert.org::psychiatric]] drf [[file:adj.pert.org::psychiatrical]] drf [[file:noun.person.org::psychiatrist]]
-w: <<psychopathology>> drf [[file:adj.all.org::psychopathological]] drf [[file:adj.all.org::psychopathologic]]
+w: <<psychopathology>> drf [[file:adjs.all.org::psychopathological]] drf [[file:adjs.all.org::psychopathologic]]
 w: <<psychological_medicine>>
 hyper: [[medicine]]
 g: the branch of medicine dealing with the diagnosis and treatment of mental disorders
@@ -3797,7 +3797,7 @@ w: <<immunology>> drf [[file:adj.pert.org::immunologic]] drf [[file:adj.pert.org
 hyper: [[medicine]]
 g: the branch of medical science that studies the body's immune system
 
-w: <<hygiene>> drf [[file:adj.all.org::hygienic]]
+w: <<hygiene>> drf [[file:adjs.all.org::hygienic]]
 w: <<hygienics>>
 hyper: [[medicine]]
 g: the science concerned with the prevention of illness and maintenance of health
@@ -4276,7 +4276,7 @@ hyper: [[distribution]]
 dt: [[statistics]]
 g: a distribution of observed frequencies of occurrence of the values of a variable
 
-w: <<covariance>> drf [[file:verb.stative.org::co-vary]] drf [[file:adj.all.org::covariant]] drf [[covariation]]
+w: <<covariance>> drf [[file:verb.stative.org::co-vary]] drf [[file:adjs.all.org::covariant]] drf [[covariation]]
 hyper: [[variance]]
 dt: [[statistics]]
 g: (statistics) the mean value of the product of the deviations of two variates from their respective means
@@ -4314,19 +4314,19 @@ hyper: [[mean]]
 dt: [[statistics]]
 g: the sum of the values of a random variable divided by the number of values
 
-w: <<mean>> drf [[file:adj.all.org::mean]]
+w: <<mean>> drf [[file:adjs.all.org::mean]]
 w: <<mean_value>>
 hyper: [[average]]
 dt: [[statistics]]
 g: an average of n numbers computed by adding some function of the numbers and dividing by some function of n
 
-w: <<median>> drf [[file:adj.all.org::median]]
+w: <<median>> drf [[file:adjs.all.org::median]]
 w: <<median_value>>
 hyper: [[average]]
 dt: [[statistics]]
 g: the value below which 50% of the cases fall
 
-w: <<mode>> drf [[file:adj.all.org::modal]]
+w: <<mode>> drf [[file:adjs.all.org::modal]]
 w: <<modal_value>>
 hyper: [[average]]
 dt: [[statistics]]
@@ -4373,7 +4373,7 @@ hyper: [[statistic]]
 dt: [[statistics]]
 g: a statistic characterizing human populations (or segments of human populations broken down by age or sex or income etc.)
 
-w: <<average>> drf [[file:adj.all.org::average2]] drf [[file:verb.stative.org::average]] drf [[file:verb.social.org::average]] drf [[file:verb.cognition.org::average]]
+w: <<average>> drf [[file:adjs.all.org::average2]] drf [[file:verb.stative.org::average]] drf [[file:verb.social.org::average]] drf [[file:verb.cognition.org::average]]
 w: <<norm>>
 hyper: [[statistic]]
 dt: [[statistics]]
@@ -4502,7 +4502,7 @@ hyper: [[derived_function]]
 g: the derivative of a function of two or more variables with respect to a single variable while the other variables are considered to be constant
 
 w: <<derived_function>>
-w: <<derivative>> drf [[file:adj.all.org::derivative]]
+w: <<derivative>> drf [[file:adjs.all.org::derivative]]
 w: <<differential_coefficient>>
 w: <<differential>> drf [[file:adj.pert.org::differential1]]
 w: <<first_derivative>>
@@ -4670,7 +4670,7 @@ hyper: [[axis]]
 hp: [[coordinate_system]]
 g: one of the fixed reference lines of a coordinate system
 
-w: <<axis>> drf [[file:adj.all.org::axial]] drf [[file:adj.pert.org::axial2]]
+w: <<axis>> drf [[file:adjs.all.org::axial]] drf [[file:adj.pert.org::axial2]]
 hyper: [[file:noun.location.org::line]]
 g: a straight line through a body or figure that satisfies certain conditions
 
@@ -4761,7 +4761,7 @@ hyper: [[geometry]]
 dt: [[mathematics]]
 g: the geometry of affine transformations
 
-w: <<geometry>> drf [[file:adj.pert.org::geometric]] drf [[file:adj.all.org::geometrical]] drf [[file:adj.pert.org::geometrical]] drf [[file:noun.person.org::geometrician]]
+w: <<geometry>> drf [[file:adj.pert.org::geometric]] drf [[file:adjs.all.org::geometrical]] drf [[file:adj.pert.org::geometrical]] drf [[file:noun.person.org::geometrician]]
 hyper: [[pure_mathematics]]
 dt: [[mathematics]]
 g: the pure mathematics of points and lines and curves and surfaces
@@ -4779,7 +4779,7 @@ w: <<pure_mathematics>>
 hyper: [[mathematics]]
 g: the branches of mathematics that study and develop the principles of mathematics for their own sake rather than for their immediate usefulness
 
-w: <<mathematics>> drf [[file:adj.all.org::mathematical]] drf [[file:adj.pert.org::mathematical]] drf [[file:noun.person.org::mathematician]]
+w: <<mathematics>> drf [[file:adjs.all.org::mathematical]] drf [[file:adj.pert.org::mathematical]] drf [[file:noun.person.org::mathematician]]
 w: <<math>>
 w: <<maths>>
 hyper: [[science]]
@@ -4891,7 +4891,7 @@ w: <<Malthusian_theory>>
 hyper: [[economic_theory]]
 g: Malthus' theory that population increase would outpace increases in the means of subsistence
 
-w: <<liberalism1>> drf [[file:adj.all.org::liberalistic]]
+w: <<liberalism1>> drf [[file:adjs.all.org::liberalistic]]
 hyper: [[economic_theory]]
 g: an economic theory advocating free competition and a self-regulating market
 
@@ -5023,23 +5023,23 @@ hyper: [[ignorance]]
 g: a lack of understanding
 
 w: <<inexperience>> drf [[file:adj.all.org::inexperient]] ant [[experience1]]
-w: <<rawness>> drf [[file:adj.all.org::raw]]
+w: <<rawness>> drf [[file:adjs.all.org::raw]]
 hyper: [[ignorance]]
 g: lack of experience and the knowledge and understanding derived from experience; "procedural inexperience created difficulties"; "their poor behavior was due to the rawness of the troops"
 
-w: <<ignorantness>> drf [[file:adj.all.org::ignorant2]]
-w: <<nescience>> drf [[file:adj.all.org::nescient]]
-w: <<unknowing>> drf [[file:adj.all.org::unknowing]]
-w: <<unknowingness1>> drf [[file:adj.all.org::unknowing]]
+w: <<ignorantness>> drf [[file:adjs.all.org::ignorant2]]
+w: <<nescience>> drf [[file:adjs.all.org::nescient]]
+w: <<unknowing>> drf [[file:adjs.all.org::unknowing]]
+w: <<unknowingness1>> drf [[file:adjs.all.org::unknowing]]
 hyper: [[ignorance]]
 g: ignorance (especially of orthodox beliefs)
 
-w: <<dark>> drf [[file:adj.all.org::dark]]
-w: <<darkness>> drf [[file:adj.all.org::dark]] drf [[file:adj.all.org::dark]] drf [[file:adj.all.org::dark]]
+w: <<dark>> drf [[file:adjs.all.org::dark]]
+w: <<darkness>> drf [[file:adjs.all.org::dark]] drf [[file:adjs.all.org::dark]] drf [[file:adjs.all.org::dark]]
 hyper: [[unenlightenment]]
 g: an unenlightened state; "he was in the dark concerning their intentions"; "his lectures dispelled the darkness"
 
-w: <<ignorance>> drf [[file:adj.all.org::ignorant2]] drf [[file:adj.all.org::ignorant]] drf [[file:verb.cognition.org::ignore1]]
+w: <<ignorance>> drf [[file:adjs.all.org::ignorant2]] drf [[file:adjs.all.org::ignorant]] drf [[file:verb.cognition.org::ignore1]]
 hyper: [[content]]
 g: the lack of knowledge or education
 
@@ -5098,9 +5098,9 @@ w: <<letters1>>
 hyper: [[eruditeness]]
 g: scholarly attainment; "he is a man of letters"
 
-w: <<eruditeness>> drf [[file:adj.all.org::erudite]]
+w: <<eruditeness>> drf [[file:adjs.all.org::erudite]]
 w: <<erudition>>
-w: <<learnedness>> drf [[file:adj.all.org::learned]] drf [[file:adj.all.org::learned]]
+w: <<learnedness>> drf [[file:adjs.all.org::learned]] drf [[file:adjs.all.org::learned]]
 w: <<learning2>>
 w: <<scholarship>> drf [[file:noun.person.org::scholar]]
 w: <<encyclopedism>> drf [[file:noun.person.org::encyclopedist]]
@@ -5123,7 +5123,7 @@ dt: [[biology]]
 g: a cultural unit (an idea or value or pattern of behavior) that is passed from one person to another by non-genetic means (as by imitation); "memes are the cultural counterpart of genes"
 
 w: <<acculturation>>
-w: <<culture1>> drf [[file:adj.all.org::cultural]] drf [[file:adj.pert.org::cultural]] drf [[file:verb.change.org::acculturate]]
+w: <<culture1>> drf [[file:adjs.all.org::cultural]] drf [[file:adj.pert.org::cultural]] drf [[file:verb.change.org::acculturate]]
 hyper: [[content]]
 g: all the knowledge and values shared by a society
 
@@ -5177,7 +5177,7 @@ w: <<idea1>>
 hyper: [[purpose]]
 g: your intention; what you intend to do; "he had in mind to see his old teacher"; "the idea of the game is to capture all the pieces"
 
-w: <<intention1>> drf [[file:adj.all.org::intentional]]
+w: <<intention1>> drf [[file:adjs.all.org::intentional]]
 hyper: [[goal]]
 du: [[file:noun.communication.org::plural]]
 g: (usually plural) the goal with respect to a marriage proposal; "his intentions are entirely honorable"
@@ -5225,22 +5225,22 @@ hyper: [[content]]
 hp: [[plan_of_action]]
 g: the state of affairs that a plan is intended to achieve and that (when achieved) terminates behavior intended to achieve it; "the ends justify the means"
 
-w: <<iconoclasm>> drf [[file:adj.all.org::iconoclastic]] drf [[file:adj.all.org::iconoclastic]]
+w: <<iconoclasm>> drf [[file:adjs.all.org::iconoclastic]] drf [[file:adjs.all.org::iconoclastic]]
 hyper: [[unorthodoxy]]
 g: the orientation of an iconoclast
 
-w: <<heresy>> drf [[file:adj.all.org::heretical]]
+w: <<heresy>> drf [[file:adjs.all.org::heretical]]
 w: <<unorthodoxy1>>
 hyper: [[content]]
 g: a belief that rejects the orthodox tenets of a religion
 
-w: <<atheism1>> drf [[file:adj.all.org::atheistic]] drf [[file:adj.pert.org::atheistic]] drf [[file:noun.person.org::atheist]]
+w: <<atheism1>> drf [[file:adjs.all.org::atheistic]] drf [[file:adj.pert.org::atheistic]] drf [[file:noun.person.org::atheist]]
 hyper: [[unbelief]]
 g: a lack of belief in the existence of God or gods
 
 w: <<agnosticism>>
-w: <<skepticism1>> drf [[file:adj.all.org::skeptical]] drf [[file:adj.all.org::skeptical]]
-w: <<scepticism>> drf [[file:adj.all.org::sceptical]] drf [[file:adj.all.org::sceptical]]
+w: <<skepticism1>> drf [[file:adjs.all.org::skeptical]] drf [[file:adjs.all.org::skeptical]]
+w: <<scepticism>> drf [[file:adjs.all.org::sceptical]] drf [[file:adjs.all.org::sceptical]]
 hyper: [[unbelief]]
 g: the disbelief in any claims of ultimate knowledge
 
@@ -5273,7 +5273,7 @@ w: <<theurgy>>
 hyper: [[white_magic]]
 g: white magic performed with the help of beneficent spirits (as formerly practiced by Neoplatonists)
 
-w: <<sorcery>> drf [[file:adj.all.org::sorcerous]] drf [[file:verb.change.org::sorcerize]] drf [[file:verb.change.org::sorcerise]]
+w: <<sorcery>> drf [[file:adjs.all.org::sorcerous]] drf [[file:verb.change.org::sorcerize]] drf [[file:verb.change.org::sorcerise]]
 w: <<black_magic>>
 w: <<black_art>>
 w: <<necromancy1>> drf [[file:adj.pert.org::necromantic]] drf [[file:adj.pert.org::necromantical]] drf [[file:noun.person.org::necromancer]]
@@ -5461,7 +5461,7 @@ w: <<fatalism>> drf [[file:adj.pert.org::fatalistic]] drf [[file:noun.person.org
 hyper: [[determinism]]
 g: a philosophical doctrine holding that all events are predetermined in advance for all time and human beings are powerless to change them
 
-w: <<determinism>> drf [[file:adj.all.org::deterministic]] drf [[file:noun.person.org::determinist]]
+w: <<determinism>> drf [[file:adjs.all.org::deterministic]] drf [[file:noun.person.org::determinist]]
 hyper: [[philosophical_doctrine]]
 dt: [[philosophy]]
 g: (philosophy) a philosophical theory holding that all events are inevitable consequences of antecedent sufficient causes; often understood as denying the possibility of free will
@@ -5535,7 +5535,7 @@ w: <<mojo>>
 hyper: [[magic]]
 g: a magic power or magic spell
 
-w: <<magic>> drf [[file:adj.all.org::magical]] drf [[file:noun.person.org::magician]]
+w: <<magic>> drf [[file:adjs.all.org::magical]] drf [[file:noun.person.org::magician]]
 w: <<thaumaturgy>>
 hyper: [[supernaturalism]]
 g: any art that invokes supernatural powers
@@ -5554,7 +5554,7 @@ hyper: [[doctrine]]
 g: the doctrine of the equality of mankind and the desirability of political and economic and social equality
 
 w: <<humanitarianism>> drf [[file:noun.person.org::humanitarian1]]
-w: <<humanism1>> drf [[file:adj.all.org::humanistic]] drf [[file:noun.person.org::humanist1]]
+w: <<humanism1>> drf [[file:adjs.all.org::humanistic]] drf [[file:noun.person.org::humanist1]]
 hyper: [[doctrine]]
 g: the doctrine that people's duty is to promote human welfare
 
@@ -5596,7 +5596,7 @@ w: <<pluralism>> drf [[file:noun.person.org::pluralist1]] drf [[file:adj.pert.or
 hyper: [[doctrine]]
 g: the doctrine that reality consists of several basic substances or elements
 
-w: <<pacifism>> drf [[file:adj.all.org::pacifistic]] drf [[file:noun.person.org::pacifist]]
+w: <<pacifism>> drf [[file:adjs.all.org::pacifistic]] drf [[file:noun.person.org::pacifist]]
 w: <<pacificism>>
 w: <<passivism>>
 hyper: [[doctrine]]
@@ -5623,7 +5623,7 @@ hyper: [[doctrine]]
 g: the doctrine that reality consists of a single basic substance or element
 
 w: <<majority_rule>>
-w: <<democracy1>> drf [[file:adj.all.org::democratic]]
+w: <<democracy1>> drf [[file:adjs.all.org::democratic]]
 hyper: [[doctrine]]
 g: the doctrine that the numerical majority of an organized group can make decisions binding on the whole group
 
@@ -5644,7 +5644,7 @@ w: <<unilateralism>> drf [[file:noun.person.org::unilateralist]]
 hyper: [[doctrine]]
 g: the doctrine that nations should conduct their foreign affairs individualistically without the advice or involvement of other nations
 
-w: <<internationalism>> drf [[file:adj.all.org::internationalistic]] drf [[file:noun.person.org::internationalist]] ant [[nationalism]] ant [[nationalism1]]
+w: <<internationalism>> drf [[file:adjs.all.org::internationalistic]] drf [[file:noun.person.org::internationalist]] ant [[nationalism]] ant [[nationalism1]]
 hyper: [[doctrine]]
 g: the doctrine that nations should cooperate because their common interests are more important than their differences
 
@@ -5656,12 +5656,12 @@ w: <<individualism1>> drf [[file:noun.person.org::individualist]]
 hyper: [[belief]]
 g: a belief in the importance of the individual and the virtue of self-reliance and personal independence
 
-w: <<individualism>> drf [[file:adj.all.org::individualistic]]
+w: <<individualism>> drf [[file:adjs.all.org::individualistic]]
 w: <<laissez_faire>>
 hyper: [[doctrine]]
 g: the doctrine that government should not interfere in commercial affairs
 
-w: <<mimesis>> drf [[file:adj.all.org::mimetic]]
+w: <<mimesis>> drf [[file:adjs.all.org::mimetic]]
 hyper: [[imitation]]
 g: the imitative representation of nature and human behavior in art and literature
 
@@ -5718,7 +5718,7 @@ w: <<dualism>> drf [[file:adj.pert.org::dualistic]] drf [[file:noun.person.org::
 hyper: [[doctrine]]
 g: the doctrine that reality consists of two basic opposing elements, often taken to be mind and matter (or mind and body), or good and evil
 
-w: <<dogma>> drf [[file:adj.pert.org::dogmatic1]] drf [[file:adj.pert.org::dogmatic]] drf [[file:adj.all.org::dogmatical]] drf [[file:verb.communication.org::dogmatize1]] drf [[file:verb.communication.org::dogmatize]]
+w: <<dogma>> drf [[file:adj.pert.org::dogmatic1]] drf [[file:adj.pert.org::dogmatic]] drf [[file:adjs.all.org::dogmatical]] drf [[file:verb.communication.org::dogmatize1]] drf [[file:verb.communication.org::dogmatize]]
 hyper: [[doctrine]]
 g: a doctrine or code of beliefs accepted as authoritative; "he believed all the Marxist dogma"
 
@@ -5833,7 +5833,7 @@ w: <<value_orientation>>
 hyper: [[principle1]]
 g: the principles of right and wrong that are accepted by an individual or a social group; "the Puritan ethic"; "a person with old-fashioned values"
 
-w: <<chivalry>> drf [[file:adj.all.org::chivalric]] drf [[file:adj.all.org::chivalrous]]
+w: <<chivalry>> drf [[file:adjs.all.org::chivalric]] drf [[file:adjs.all.org::chivalrous]]
 w: <<knightliness>>
 hyper: [[principle1]]
 g: the medieval principles governing knighthood and knightly conduct
@@ -5921,7 +5921,7 @@ w: <<supremacism>>
 hyper: [[belief]]
 g: the belief that some particular group or race is superior to all others; "white supremacism"
 
-w: <<superstition>> drf [[file:adj.all.org::superstitious]]
+w: <<superstition>> drf [[file:adjs.all.org::superstitious]]
 w: <<superstitious_notion>>
 hyper: [[belief]]
 g: an irrational belief arising from ignorance or fear
@@ -5979,7 +5979,7 @@ w: <<hope>> drf [[file:verb.emotion.org::hope]] drf [[file:verb.emotion.org::hop
 hyper: [[expectation]]
 g: grounds for feeling hopeful about the future; "there is little or no promise that he will recover"
 
-w: <<pole>> drf [[file:adj.all.org::polar]]
+w: <<pole>> drf [[file:adjs.all.org::polar]]
 hyper: [[opinion]]
 g: one of two divergent or mutually exclusive opinions; "they are at opposite poles"; "they are poles apart"
 
@@ -6059,7 +6059,7 @@ w: <<predestinarianism>>
 hyper: [[Protestantism]]
 g: the belief or doctrine of predestinarians
 
-w: <<pacifism1>> drf [[file:adj.all.org::pacifistic]] drf [[file:noun.person.org::pacifist]]
+w: <<pacifism1>> drf [[file:adjs.all.org::pacifistic]] drf [[file:noun.person.org::pacifist]]
 w: <<pacificism1>>
 hyper: [[belief]]
 g: the belief that all international disputes can be settled by arbitration
@@ -6154,11 +6154,11 @@ w: <<unrealism>>
 hyper: [[representation]]
 g: a representation having no reference to concrete objects or specific examples
 
-w: <<unsoundness>> drf [[file:adj.all.org::unsound]]
+w: <<unsoundness>> drf [[file:adjs.all.org::unsound]]
 hyper: [[misconception]]
 g: a misconception that is fallacious and not true or valid; "the unsoundness of his conclusion was obvious"
 
-w: <<blur>> drf [[file:adj.all.org::blurry]] drf [[file:verb.perception.org::blur1]] drf [[file:verb.perception.org::blur]] drf [[file:verb.change.org::blur1]] drf [[file:verb.change.org::blur]]
+w: <<blur>> drf [[file:adjs.all.org::blurry]] drf [[file:verb.perception.org::blur1]] drf [[file:verb.perception.org::blur]] drf [[file:verb.change.org::blur1]] drf [[file:verb.change.org::blur]]
 w: <<fuzz>>
 hyper: [[representation]]
 g: a hazy or indistinct representation; "it happened so fast it was just a blur"; "he tried to clear his head of the whisky fuzz"
@@ -6185,7 +6185,7 @@ w: <<irradiation>>
 hyper: [[illusion1]]
 g: the apparent enlargement of a bright object when viewed against a dark background
 
-w: <<illusion1>> drf [[file:adj.all.org::illusional]]
+w: <<illusion1>> drf [[file:adjs.all.org::illusional]]
 w: <<semblance>>
 hyper: [[appearance]]
 g: an erroneous mental representation
@@ -6194,7 +6194,7 @@ w: <<appearance>> drf [[file:verb.perception.org::appear]]
 hyper: [[representation]]
 g: a mental representation; "I tried to describe his appearance to the police"
 
-w: <<prodigy>> drf [[file:adj.all.org::prodigious]]
+w: <<prodigy>> drf [[file:adjs.all.org::prodigious]]
 hyper: [[exemplar]]
 g: an impressive or wonderful example of a particular quality; "the Marines are expected to perform prodigies of valor"
 
@@ -6217,8 +6217,8 @@ w: <<pacemaker>>
 hyper: [[exemplar]]
 g: a leading instance in its field; "the new policy will be a pacesetter in community relations"
 
-w: <<original>> drf [[file:adj.all.org::original]]
-w: <<archetype>> drf [[file:adj.all.org::archetypical]] drf [[file:adj.all.org::archetypal]]
+w: <<original>> drf [[file:adjs.all.org::original]]
+w: <<archetype>> drf [[file:adjs.all.org::archetypical]] drf [[file:adjs.all.org::archetypal]]
 w: <<pilot>>
 hyper: [[model2]]
 g: something that serves as a model or a basis for making copies; "this painting is a copy of the original"
@@ -6241,7 +6241,7 @@ w: <<concentrate>>
 hyper: [[prototype]]
 g: a concentrated example of something; "the concentrate of contemporary despair"
 
-w: <<prototype>> drf [[file:adj.all.org::prototypic]] drf [[file:adj.all.org::prototypical]] drf [[file:adj.all.org::prototypal]]
+w: <<prototype>> drf [[file:adjs.all.org::prototypic]] drf [[file:adjs.all.org::prototypical]] drf [[file:adjs.all.org::prototypal]]
 w: <<paradigm>> drf [[file:adj.pert.org::paradigmatic]]
 w: <<epitome>> drf [[file:verb.stative.org::epitomize]] drf [[file:verb.stative.org::epitomise]]
 w: <<image2>>
@@ -6368,9 +6368,9 @@ g: all of the points of the physical environment that can be perceived by a stab
 w: <<view1>> drf [[file:verb.perception.org::view2]]
 w: <<aspect1>>
 w: <<prospect>>
-w: <<scene>> drf [[file:adj.all.org::scenic]]
+w: <<scene>> drf [[file:adjs.all.org::scenic]]
 w: <<vista>>
-w: <<panorama>> drf [[file:adj.all.org::panoramic]]
+w: <<panorama>> drf [[file:adjs.all.org::panoramic]]
 hyper: [[visual_percept]]
 g: the visual percept of a region; "the most desirable feature of the park are the beautiful views"
 
@@ -6404,7 +6404,7 @@ w: <<mosaic>>
 hyper: [[form]]
 g: a pattern resembling a mosaic
 
-w: <<kaleidoscope>> drf [[file:adj.all.org::kaleidoscopic]] drf [[file:adj.all.org::kaleidoscopical]]
+w: <<kaleidoscope>> drf [[file:adjs.all.org::kaleidoscopic]] drf [[file:adjs.all.org::kaleidoscopical]]
 hyper: [[form]]
 g: a complex pattern of constantly changing colors and shapes
 
@@ -6484,7 +6484,7 @@ w: <<persona>> drf [[file:verb.creation.org::impersonate]] drf [[file:verb.commu
 hyper: [[file:noun.act.org::portrayal2]]
 g: an actor's portrayal of someone in a play; "she played the part of Desdemona"
 
-w: <<phantasmagoria>> drf [[file:adj.all.org::phantasmagoric]] drf [[file:adj.all.org::phantasmagorical]]
+w: <<phantasmagoria>> drf [[file:adjs.all.org::phantasmagoric]] drf [[file:adjs.all.org::phantasmagorical]]
 hyper: [[representation]]
 g: a constantly changing medley of real or imagined images (as in a dream)
 
@@ -6508,12 +6508,12 @@ w: <<mental_image>>
 hyper: [[representation]]
 g: an iconic mental representation; "her imagination forced images upon her too awful to contemplate"
 
-w: <<schema1>> drf [[file:adj.all.org::schematic]] drf [[file:verb.creation.org::schematize]] drf [[file:verb.change.org::schematize1]]
+w: <<schema1>> drf [[file:adjs.all.org::schematic]] drf [[file:verb.creation.org::schematize]] drf [[file:verb.change.org::schematize1]]
 w: <<scheme1>> drf [[file:verb.cognition.org::scheme1]] drf [[file:verb.creation.org::schematize]] drf [[file:verb.change.org::schematize1]]
 hyper: [[representation]]
 g: an internal representation of the world; an organization of concepts and actions that can be revised by new information about the world
 
-w: <<stereotype>> drf [[file:adj.all.org::stereotypic]] drf [[file:adj.all.org::stereotypical]] drf [[file:verb.cognition.org::stereotype]]
+w: <<stereotype>> drf [[file:adjs.all.org::stereotypic]] drf [[file:adjs.all.org::stereotypical]] drf [[file:verb.cognition.org::stereotype]]
 hyper: [[representation]]
 g: a conventional or formulaic conception or image; "regional stereotypes have been part of America since its founding"
 
@@ -6532,10 +6532,10 @@ hyper: [[content]]
 g: a presentation to the mind in the form of an idea or image
 
 w: <<reconditeness>>
-w: <<abstruseness>> drf [[file:adj.all.org::abstruse]]
-w: <<abstrusity>> drf [[file:adj.all.org::abstruse]]
-w: <<profoundness1>> drf [[file:adj.all.org::profound]]
-w: <<profundity1>> drf [[file:adj.all.org::profound]]
+w: <<abstruseness>> drf [[file:adjs.all.org::abstruse]]
+w: <<abstrusity>> drf [[file:adjs.all.org::abstruse]]
+w: <<profoundness1>> drf [[file:adjs.all.org::profound]]
+w: <<profundity1>> drf [[file:adjs.all.org::profound]]
 hyper: [[wisdom2]]
 g: wisdom that is recondite and abstruse and profound; "the anthropologist was impressed by the reconditeness of the native proverbs"
 
@@ -6543,7 +6543,7 @@ w: <<wisdom2>>
 hyper: [[content]]
 g: accumulated knowledge or erudition or enlightenment
 
-w: <<kink1>> drf [[file:adj.all.org::kinky]]
+w: <<kink1>> drf [[file:adjs.all.org::kinky]]
 hyper: [[idea]]
 g: an eccentric idea
 
@@ -6561,8 +6561,8 @@ w: <<beaut>>
 hyper: [[exemplar]]
 g: an outstanding example of its kind; "his roses were beauties"; "when I make a mistake it's a beaut"
 
-w: <<exemplar>> drf [[file:adj.all.org::exemplary]]
-w: <<example1>> drf [[file:adj.all.org::exemplary]] drf [[file:verb.communication.org::exemplify]]
+w: <<exemplar>> drf [[file:adjs.all.org::exemplary]]
+w: <<example1>> drf [[file:adjs.all.org::exemplary]] drf [[file:verb.communication.org::exemplify]]
 w: <<model1>>
 w: <<good_example>>
 hyper: [[ideal]]
@@ -6572,7 +6572,7 @@ w: <<design_criteria>>
 hyper: [[criterion]]
 g: criteria that designers should meet in designing some system or device; "the job specifications summarized the design criteria"
 
-w: <<criterion>> drf [[file:adj.all.org::criterial]]
+w: <<criterion>> drf [[file:adjs.all.org::criterial]]
 w: <<standard>> drf [[file:verb.change.org::standardize]] drf [[file:verb.change.org::standardise]]
 hyper: [[ideal]]
 g: the ideal in terms of which something can be judged; "they live by the standards of their community"
@@ -6606,17 +6606,17 @@ w: <<ideal>> drf [[file:verb.cognition.org::idealize1]] drf [[file:verb.cognitio
 hyper: [[idea]]
 g: the idea of something that is perfect; something that one hopes to attain
 
-w: <<connotation>> drf [[file:adj.all.org::connotational]] drf [[file:verb.communication.org::connote1]]
+w: <<connotation>> drf [[file:adjs.all.org::connotational]] drf [[file:verb.communication.org::connote1]]
 hyper: [[meaning]]
 g: an idea that is implied or suggested
 
-w: <<reference1>> drf [[file:adj.all.org::referential]] drf [[file:verb.communication.org::refer]] drf [[file:verb.cognition.org::refer]]
+w: <<reference1>> drf [[file:adjs.all.org::referential]] drf [[file:verb.communication.org::refer]] drf [[file:verb.cognition.org::refer]]
 hyper: [[meaning]]
 g: the relation between a word or phrase and the object or idea it refers to; "he argued that reference is a consequence of conditioned reflexes"
 
-w: <<reference>> drf [[file:adj.all.org::referent]] drf [[file:verb.stative.org::refer]] drf [[file:verb.communication.org::refer]]
+w: <<reference>> drf [[file:adjs.all.org::referent]] drf [[file:verb.stative.org::refer]] drf [[file:verb.communication.org::refer]]
 w: <<denotation>> drf [[file:verb.communication.org::denote]]
-w: <<extension>> drf [[file:adj.all.org::extensional]]
+w: <<extension>> drf [[file:adjs.all.org::extensional]]
 hyper: [[meaning]]
 g: the most direct or specific meaning of a word or expression; the class of objects that an expression refers to; "the extension of `satellite of Mars' is the set containing only Demos and Phobos"
 
@@ -6662,23 +6662,23 @@ g: (plural) the most basic facts or elements; "he told us only the bare bones of
 w: <<kernel>>
 w: <<substance1>>
 w: <<core>>
-w: <<center>> drf [[file:adj.all.org::central]]
+w: <<center>> drf [[file:adjs.all.org::central]]
 w: <<centre>>
-w: <<essence>> drf [[file:adj.all.org::essential]]
+w: <<essence>> drf [[file:adjs.all.org::essential]]
 w: <<gist>>
 w: <<heart1>>
 w: <<heart_and_soul>>
 w: <<inwardness2>>
 w: <<marrow>>
-w: <<meat>> drf [[file:adj.all.org::meaty]]
+w: <<meat>> drf [[file:adjs.all.org::meaty]]
 w: <<nub>>
-w: <<pith>> drf [[file:adj.all.org::pithy]]
+w: <<pith>> drf [[file:adjs.all.org::pithy]]
 w: <<sum>> drf [[file:verb.social.org::summate]]
 w: <<nitty-gritty>>
 hyper: [[content]]
 g: the choicest or most essential or most vital part of some idea or experience; "the gist of the prosecutor's argument"; "the heart and soul of the Republican Party"; "the nub of the story"
 
-w: <<significance1>> drf [[file:adj.all.org::significant]]
+w: <<significance1>> drf [[file:adjs.all.org::significant]]
 w: <<import>> drf [[file:verb.communication.org::import]]
 w: <<implication>> drf [[file:verb.communication.org::imply]] drf [[file:verb.stative.org::implicate]]
 hyper: [[meaning]]
@@ -6708,12 +6708,12 @@ g: the idea that is intended; "What is the meaning of this proverb?"
 
 w: <<notion1>>
 w: <<whim>>
-w: <<whimsy>> drf [[file:adj.all.org::whimsical]]
+w: <<whimsy>> drf [[file:adjs.all.org::whimsical]]
 w: <<whimsey>>
 hyper: [[idea]]
 g: an odd or fanciful or capricious idea; "the theatrical notion of disguise is associated with disaster in his stories"; "he had a whimsy about flying to the moon"; "whimsy can be humorous to someone with time to enjoy it"
 
-w: <<prescience>> drf [[file:adj.all.org::prescient]]
+w: <<prescience>> drf [[file:adjs.all.org::prescient]]
 w: <<prevision>>
 hyper: [[capacity]]
 g: the power to foresee the future
@@ -6855,7 +6855,7 @@ g: a basic generalization that is accepted as true and that can be used as a bas
 
 w: <<generalization>> drf [[file:verb.communication.org::generalize]]
 w: <<generalisation>> drf [[file:verb.communication.org::generalise]]
-w: <<generality>> drf [[file:adj.all.org::general]] drf [[file:adj.all.org::general2]]
+w: <<generality>> drf [[file:adjs.all.org::general]] drf [[file:adj.all.org::general2]]
 hyper: [[idea]]
 g: an idea or conclusion having general application; "he spoke in broad generalities"
 
@@ -7040,7 +7040,7 @@ g: something planted secretly for discovery by another; "the police used a plant
 
 w: <<contrivance>>
 w: <<stratagem>>
-w: <<dodge>> drf [[file:adj.all.org::dodgy]]
+w: <<dodge>> drf [[file:adjs.all.org::dodgy]]
 hyper: [[scheme]]
 g: an elaborate or deceitful scheme contrived to deceive or evade; "his testimony was just a contrivance to throw us off the track"
 
@@ -7144,7 +7144,7 @@ w: <<beggar-my-neighbour_strategy>>
 hyper: [[policy]]
 g: a policy of promoting oneself at the expense of others; used especially of national policy; "the United States has pursued a beggar-my-neighbor policy"
 
-w: <<activism>> drf [[file:adj.all.org::activistic]] drf [[file:noun.person.org::activist]]
+w: <<activism>> drf [[file:adjs.all.org::activistic]] drf [[file:noun.person.org::activist]]
 hyper: [[policy]]
 g: a policy of taking direct and militant action to achieve a political or social goal
 
@@ -7239,9 +7239,9 @@ g: an (apparently) flying object whose nature is unknown; especially those consi
 w: <<apparition>>
 w: <<phantom>>
 w: <<phantasm>>
-w: <<phantasma>> drf [[file:adj.all.org::phantasmal]]
+w: <<phantasma>> drf [[file:adjs.all.org::phantasmal]]
 w: <<fantasm>>
-w: <<shadow>> drf [[file:adj.all.org::shadowy]]
+w: <<shadow>> drf [[file:adjs.all.org::shadowy]]
 hyper: [[illusion1]]
 g: something existing in perception only; "a ghostly apparition at midnight"
 
@@ -7249,12 +7249,12 @@ w: <<infantile_autism>>
 hyper: [[autism]]
 g: a rare but serious syndrome of childhood characterized by withdrawal and lack of social responsiveness or interest in others and serious linguistic deficits; "there is considerable dispute among specialists concerning infantile autism"
 
-w: <<autism>> drf [[file:adj.all.org::autistic]]
+w: <<autism>> drf [[file:adjs.all.org::autistic]]
 hyper: [[file:noun.state.org::syndrome]]
 dt: [[psychiatry]]
 g: (psychiatry) an abnormal absorption with the self; marked by communication disorders and short attention span and inability to treat others as people
 
-w: <<delusion>> drf [[file:adj.all.org::delusional]] drf [[file:verb.social.org::delude]]
+w: <<delusion>> drf [[file:adjs.all.org::delusional]] drf [[file:verb.social.org::delude]]
 w: <<hallucination>> drf [[file:verb.perception.org::hallucinate]]
 hyper: [[misconception]]
 g: a mistaken or unfounded opinion or idea; "he has delusions of competence"; "his dreams of vast wealth are a hallucination"
@@ -7272,7 +7272,7 @@ w: <<bubble>>
 hyper: [[illusion]]
 g: an impracticable and illusory idea; "he didn't want to burst the newcomer's bubble"
 
-w: <<illusion>> drf [[file:adj.all.org::illusory]] drf [[file:adj.all.org::illusional]]
+w: <<illusion>> drf [[file:adjs.all.org::illusory]] drf [[file:adjs.all.org::illusional]]
 w: <<fantasy1>> drf [[file:verb.creation.org::fantasy]] drf [[file:verb.creation.org::fantasize]]
 w: <<phantasy1>>
 w: <<fancy2>> drf [[file:verb.creation.org::fancy]]
@@ -7299,7 +7299,7 @@ w: <<paralogism>>
 hyper: [[fallacy]]
 g: an unintentionally invalid argument
 
-w: <<sophism>> drf [[file:adj.all.org::sophistic]] drf [[file:noun.person.org::sophist]]
+w: <<sophism>> drf [[file:adjs.all.org::sophistic]] drf [[file:noun.person.org::sophist]]
 w: <<sophistry>>
 w: <<sophistication2>> drf [[file:verb.communication.org::sophisticate]]
 hyper: [[fallacy]]
@@ -7331,7 +7331,7 @@ w: <<logical_fallacy>>
 hyper: [[fallacy]]
 g: a fallacy in logical argumentation
 
-w: <<fallacy>> drf [[file:adj.all.org::fallacious]]
+w: <<fallacy>> drf [[file:adjs.all.org::fallacious]]
 w: <<false_belief>>
 hyper: [[misconception]]
 g: a misconception resulting from incorrect reasoning
@@ -7346,7 +7346,7 @@ w: <<self-evident_truth>>
 hyper: [[assumption]]
 g: an assumption that is basic to an argument
 
-w: <<given>> drf [[file:adj.all.org::given]]
+w: <<given>> drf [[file:adjs.all.org::given]]
 w: <<presumption>> drf [[file:verb.cognition.org::presume]]
 w: <<precondition1>>
 hyper: [[assumption]]
@@ -7374,25 +7374,25 @@ w: <<demand>> drf [[file:verb.stative.org::demand]]
 hyper: [[file:noun.act.org::duty]]
 g: required activity; "the requirements of his work affected his health"; "there were many demands on his time"
 
-w: <<prerequisite>> drf [[file:adj.all.org::prerequisite]]
+w: <<prerequisite>> drf [[file:adjs.all.org::prerequisite]]
 w: <<requirement>>
 hyper: [[file:noun.act.org::duty]]
 g: something that is required in advance; "Latin was a prerequisite for admission"
 
 w: <<assumption>> drf [[file:verb.cognition.org::assume]]
-w: <<supposition>> drf [[file:adj.all.org::suppositional]] drf [[file:adj.all.org::supposititious]] drf [[file:adj.all.org::suppositious]]
+w: <<supposition>> drf [[file:adjs.all.org::suppositional]] drf [[file:adjs.all.org::supposititious]] drf [[file:adjs.all.org::suppositious]]
 w: <<supposal>> drf [[file:verb.communication.org::suppose]]
 hyper: [[hypothesis]]
 g: a hypothesis that is taken for granted; "any society is built upon certain assumptions"
 
 w: <<speculation>> drf [[file:verb.cognition.org::speculate1]]
-w: <<conjecture>> drf [[file:adj.all.org::conjectural]] drf [[file:verb.cognition.org::conjecture]]
+w: <<conjecture>> drf [[file:adjs.all.org::conjectural]] drf [[file:verb.cognition.org::conjecture]]
 hyper: [[hypothesis]]
 g: a hypothesis that has been formed by speculating or conjecturing (usually with little hard evidence); "speculations about the outcome of the election"; "he dismissed it as mere conjecture"
 
 w: <<outline>> drf [[file:verb.creation.org::outline3]]
-w: <<schema>> drf [[file:adj.all.org::schematic]] drf [[file:verb.creation.org::schematize]]
-w: <<scheme2>> drf [[file:adj.all.org::schematic]] drf [[file:verb.cognition.org::scheme1]] drf [[file:verb.creation.org::schematize]]
+w: <<schema>> drf [[file:adjs.all.org::schematic]] drf [[file:verb.creation.org::schematize]]
+w: <<scheme2>> drf [[file:adjs.all.org::schematic]] drf [[file:verb.cognition.org::scheme1]] drf [[file:verb.creation.org::schematize]]
 hyper: [[plan]]
 g: a schematic or preliminary plan
 
@@ -7833,11 +7833,11 @@ hyper: [[complex]]
 g: a composite of mixed origin; "the vice-presidency is a hybrid of administrative and legislative offices"
 
 w: <<complex>>
-w: <<composite>> drf [[file:adj.all.org::composite]]
+w: <<composite>> drf [[file:adjs.all.org::composite]]
 hyper: [[whole]]
 g: a conceptual whole made up of complicated and related parts; "the complex of shopping malls, houses, and roads created a new town"
 
-w: <<compound>> drf [[file:adj.all.org::compound]] drf [[file:verb.creation.org::compound]] drf [[file:verb.contact.org::compound]] drf [[file:verb.change.org::compound]]
+w: <<compound>> drf [[file:adjs.all.org::compound]] drf [[file:verb.creation.org::compound]] drf [[file:verb.contact.org::compound]] drf [[file:verb.change.org::compound]]
 hyper: [[whole]]
 g: a whole formed by a union of two or more elements or parts
 
@@ -7885,7 +7885,7 @@ g: the first part or section of something; "`It was a dark and stormy night' is 
 
 w: <<part>>
 w: <<section>> drf [[file:verb.contact.org::section]]
-w: <<division>> drf [[file:adj.all.org::divisional]]
+w: <<division>> drf [[file:adjs.all.org::divisional]]
 hyper: [[concept]]
 hp: [[whole]]
 g: one of the portions into which something is regarded as divided and which together constitute a whole; "the written part of the exam"; "the finance section of the company"; "the BBC's engineering division"
@@ -7945,7 +7945,7 @@ hyper: [[vector]]
 g: a line connecting a point in space to the origin of a polar coordinate system
 
 w: <<vector_sum>>
-w: <<resultant>> drf [[file:adj.all.org::resultant]]
+w: <<resultant>> drf [[file:adjs.all.org::resultant]]
 hyper: [[vector]]
 g: a vector that is the sum of two or more other vectors
 
@@ -8095,7 +8095,7 @@ w: <<triple>> drf [[file:verb.change.org::triple]]
 hyper: [[multiple]]
 g: a quantity that is three times as great as another
 
-w: <<double>> drf [[file:adj.all.org::double1]] drf [[file:verb.creation.org::double]] drf [[file:verb.change.org::double]]
+w: <<double>> drf [[file:adjs.all.org::double1]] drf [[file:verb.creation.org::double]] drf [[file:verb.change.org::double]]
 hyper: [[multiple]]
 g: a quantity that is twice as great as another; "36 is the double of 18"
 
@@ -8232,7 +8232,7 @@ w: <<teacher>> drf [[file:verb.communication.org::teach]] drf [[file:verb.change
 hyper: [[abstraction]]
 g: a personified abstraction that teaches; "books were his teachers"; "experience is a demanding teacher"
 
-w: <<absolute>> drf [[file:adj.all.org::absolute]] drf [[file:adj.all.org::absolute]]
+w: <<absolute>> drf [[file:adjs.all.org::absolute]] drf [[file:adj.all.org::absolute]]
 hyper: [[abstraction]]
 g: something that is conceived or that exists independently and not in relation to other things; something that does not depend on anything else and is beyond human control; something that is not relative; "no mortal being can influence the absolute"
 
@@ -8298,7 +8298,7 @@ hyper: [[feature]]
 g: outward features; "he enjoyed the solemn externals of religion"
 
 w: <<excellence>>
-w: <<excellency>> drf [[file:adj.all.org::excellent]]
+w: <<excellency>> drf [[file:adjs.all.org::excellent]]
 hyper: [[feature]]
 g: an outstanding feature; something in which something or someone excels; "a center of manufacturing excellence"; "the use of herbs is one of the excellencies of French cuisine"
 
@@ -8319,7 +8319,7 @@ w: <<attraction>> drf [[file:verb.emotion.org::attract]] drf [[file:verb.contact
 w: <<attractor>> drf [[file:verb.emotion.org::attract]]
 w: <<attracter>>
 w: <<attractive_feature>>
-w: <<magnet>> drf [[file:adj.all.org::magnetic]]
+w: <<magnet>> drf [[file:adjs.all.org::magnetic]]
 hyper: [[feature]]
 g: a characteristic that provides pleasure and attracts; "flowers are an attractor for bees"
 
@@ -8417,7 +8417,7 @@ hyper: [[file:noun.act.org::procedure]]
 dt: [[mathematics]]
 g: (mathematics) a standard procedure for solving a class of mathematical problems; "he determined the upper bound with Descartes' rule of signs"; "he gave us a general formula for attacking polynomials"
 
-w: <<narrowness1>> drf [[file:adj.all.org::narrow]]
+w: <<narrowness1>> drf [[file:adjs.all.org::narrow]]
 hyper: [[restriction]]
 g: a restriction of range or scope; "the problem with achievement tests is the narrowness they impose on students"; "the attraction of the book is precisely its narrowness of focus"; "frustrated by the narrowness of people's horizons"
 
@@ -8463,7 +8463,7 @@ w: <<make>> drf [[file:verb.creation.org::make13]] drf [[file:verb.creation.org:
 hyper: [[kind]]
 g: a recognizable kind; "there's a new brand of hero in the movies now"; "what make of car is that?"
 
-w: <<genus>> drf [[file:adj.all.org::generic]]
+w: <<genus>> drf [[file:adjs.all.org::generic]]
 hyper: [[kind]]
 g: a general kind of something; "ignore the genus communism"
 
@@ -8568,7 +8568,7 @@ hyper: [[kind]]
 g: an opposite or contrasting type
 
 w: <<version1>>
-w: <<variant1>> drf [[file:adj.all.org::variant]] drf [[file:verb.change.org::vary1]]
+w: <<variant1>> drf [[file:adjs.all.org::variant]] drf [[file:verb.change.org::vary1]]
 w: <<variation1>> drf [[file:verb.change.org::vary1]]
 w: <<edition>>
 hyper: [[type]]
@@ -8662,7 +8662,7 @@ w: <<mumpsimus>>
 hyper: [[notion]]
 g: a traditional notion that is obstinately held although it is unreasonable; "he still holds to the old mumpsimus that a woman's place is in the kitchen"
 
-w: <<notion>> drf [[file:adj.all.org::notional]]
+w: <<notion>> drf [[file:adjs.all.org::notional]]
 hyper: [[concept]]
 g: a general inclusive concept
 
@@ -8672,12 +8672,12 @@ g: a way of conceiving something; "Luther had a new perception of the Bible"
 
 w: <<conceptualization>> drf [[file:verb.creation.org::conceptualize]]
 w: <<conceptualisation>> drf [[file:verb.creation.org::conceptualise]]
-w: <<conceptuality>> drf [[file:adj.all.org::conceptual]]
+w: <<conceptuality>> drf [[file:adjs.all.org::conceptual]]
 hyper: [[concept]]
 g: an elaborated concept
 
-w: <<concept>> drf [[file:adj.all.org::conceptual]] drf [[file:verb.creation.org::conceive]] drf [[file:verb.creation.org::conceptualize]] drf [[file:verb.creation.org::conceptualise]]
-w: <<conception>> drf [[file:adj.all.org::conceptional]] ant [[misconception]]
+w: <<concept>> drf [[file:adjs.all.org::conceptual]] drf [[file:verb.creation.org::conceive]] drf [[file:verb.creation.org::conceptualize]] drf [[file:verb.creation.org::conceptualise]]
+w: <<conception>> drf [[file:adjs.all.org::conceptional]] ant [[misconception]]
 w: <<construct>>
 hyper: [[idea]]
 g: an abstract or general idea inferred or derived from specific instances
@@ -8704,7 +8704,7 @@ g: something that provides an important central source for growth or development
 
 w: <<source>>
 w: <<seed>>
-w: <<germ>> drf [[file:adj.all.org::germinal]] drf [[file:verb.creation.org::germinate]]
+w: <<germ>> drf [[file:adjs.all.org::germinal]] drf [[file:verb.creation.org::germinate]]
 hyper: [[inspiration2]]
 g: anything that provides inspiration for later work
 
@@ -8712,7 +8712,7 @@ w: <<inspiration2>> drf [[file:verb.creation.org::inspire]]
 hyper: [[idea]]
 g: arousal of the mind to special unusual activity or creativity
 
-w: <<idea>> drf [[file:adj.all.org::ideal]] drf [[file:verb.creation.org::ideate1]]
+w: <<idea>> drf [[file:adjs.all.org::ideal]] drf [[file:verb.creation.org::ideate1]]
 w: <<thought1>> drf [[file:verb.cognition.org::think1]] drf [[file:verb.cognition.org::think3]] drf [[file:verb.cognition.org::think2]] drf [[file:verb.cognition.org::think9]] drf [[file:verb.cognition.org::think13]] drf [[file:verb.cognition.org::think14]] drf [[file:verb.creation.org::think]] drf [[file:verb.cognition.org::think8]]
 hyper: [[content]]
 g: the content of cognition; the main thing you are thinking about; "it was not a good idea"; "the thought never entered my mind"
@@ -8766,7 +8766,7 @@ w: <<aversive_stimulus>>
 hyper: [[negative_stimulus]]
 g: any negative stimulus to which an organism will learn to make a response that avoids it
 
-w: <<plague>> drf [[file:adj.all.org::plaguy]] drf [[file:adj.all.org::plaguey]] drf [[file:verb.emotion.org::plague]]
+w: <<plague>> drf [[file:adjs.all.org::plaguy]] drf [[file:adjs.all.org::plaguey]] drf [[file:verb.emotion.org::plague]]
 hyper: [[annoyance]]
 du: [[file:noun.communication.org::colloquialism]]
 g: an annoyance; "those children are a damn plague"
@@ -8958,7 +8958,7 @@ w: <<predictor>>
 hyper: [[information]]
 g: information that supports a probabilistic estimate of future events; "the weekly bulletin contains several predictors of mutual fund performance"
 
-w: <<evidence>> drf [[file:adj.all.org::evidential]] drf [[file:adj.all.org::evidentiary]] drf [[file:adj.all.org::evident]] drf [[file:verb.communication.org::evidence1]]
+w: <<evidence>> drf [[file:adjs.all.org::evidential]] drf [[file:adjs.all.org::evidentiary]] drf [[file:adjs.all.org::evident]] drf [[file:verb.communication.org::evidence1]]
 w: <<grounds>>
 hyper: [[information]]
 g: your basis for belief or disbelief; knowledge on which to base belief; "the evidence that smoking causes lung cancer is very compelling"
@@ -9028,7 +9028,7 @@ w: <<case_in_point>>
 hyper: [[example]]
 g: an example that is used to justify similar occurrences at a later time
 
-w: <<exception1>> drf [[file:adj.all.org::exceptional]]
+w: <<exception1>> drf [[file:adjs.all.org::exceptional]]
 hyper: [[example]]
 g: an instance that does not conform to a rule or generalization; "all her children were brilliant; the only exception was her last child"; "an exception tests the rule"
 
@@ -9037,7 +9037,7 @@ w: <<excuse>>
 hyper: [[example]]
 g: a poor example; "it was an apology for a meal"; "a poor excuse for an automobile"
 
-w: <<example>> drf [[file:adj.all.org::exemplary]] drf [[file:verb.stative.org::exemplify]] drf [[file:verb.communication.org::exemplify]]
+w: <<example>> drf [[file:adjs.all.org::exemplary]] drf [[file:verb.stative.org::exemplify]] drf [[file:verb.communication.org::exemplify]]
 w: <<illustration2>> drf [[file:verb.communication.org::illustrate]]
 w: <<instance>> drf [[file:verb.communication.org::instance]] drf [[file:verb.perception.org::instantiate1]] drf [[file:verb.perception.org::instantiate]]
 w: <<representative>>
@@ -9046,7 +9046,7 @@ g: an item of information that is typical of a class or group; "this patient pro
 
 w: <<technicality>> drf [[file:adj.pert.org::technical]]
 w: <<trifle>>
-w: <<triviality>> drf [[file:adj.all.org::trivial]]
+w: <<triviality>> drf [[file:adjs.all.org::trivial]]
 hyper: [[detail]]
 g: a detail that is considered insignificant
 
@@ -9100,7 +9100,7 @@ w: <<matter_of_fact>>
 hyper: [[fact1]]
 g: a matter that is an actual fact or is demonstrable as a fact
 
-w: <<general>> drf [[file:adj.all.org::general]] drf [[file:adj.all.org::general]] ant [[particular]] ant [[specific]]
+w: <<general>> drf [[file:adjs.all.org::general]] drf [[file:adj.all.org::general]] ant [[particular]] ant [[specific]]
 hyper: [[fact1]]
 g: a fact about the whole (as opposed to particular); "he discussed the general but neglected the particular"
 
@@ -9124,9 +9124,9 @@ hyper: [[information]]
 g: a piece of information about circumstances that exist or events that have occurred; "first you must collect all the facts of the case"
 
 w: <<acquaintance>> drf [[file:verb.communication.org::acquaint]]
-w: <<familiarity>> drf [[file:adj.all.org::familiar]] drf [[file:adj.all.org::familiar]]
-w: <<conversance>> drf [[file:adj.all.org::conversant]]
-w: <<conversancy>> drf [[file:adj.all.org::conversant]]
+w: <<familiarity>> drf [[file:adjs.all.org::familiar]] drf [[file:adjs.all.org::familiar]]
+w: <<conversance>> drf [[file:adjs.all.org::conversant]]
+w: <<conversancy>> drf [[file:adjs.all.org::conversant]]
 hyper: [[information]]
 g: personal knowledge or information about someone or something
 
@@ -9248,7 +9248,7 @@ w: <<conversation_piece>>
 hyper: [[center1]]
 g: something interesting that stimulates conversation
 
-w: <<center1>> drf [[file:adj.all.org::central]] drf [[file:verb.stative.org::center]] drf [[file:verb.cognition.org::center]]
+w: <<center1>> drf [[file:adjs.all.org::central]] drf [[file:verb.stative.org::center]] drf [[file:verb.cognition.org::center]]
 w: <<centre1>>
 w: <<center_of_attention>>
 w: <<centre_of_attention>>
@@ -9264,7 +9264,7 @@ w: <<hobgoblin>>
 hyper: [[object1]]
 g: an object of dread or apprehension; "Germany was always a bugbear for France"; "A foolish consistency is the hobgoblin of little minds"--Ralph Waldo Emerson
 
-w: <<antipathy>> drf [[file:adj.all.org::antipathetic]] drf [[file:adj.all.org::antipathetic]]
+w: <<antipathy>> drf [[file:adjs.all.org::antipathetic]] drf [[file:adjs.all.org::antipathetic]]
 hyper: [[object1]]
 g: the object of a feeling of intense aversion; something to be avoided; "cats were his greatest antipathy"
 
@@ -9310,7 +9310,7 @@ w: <<reality>>
 hyper: [[experience]]
 g: all of your experiences that determine how things appear to you; "his world was shattered"; "we live in different worlds"; "for them demons were as much a part of reality as trees were"
 
-w: <<tradition1>> drf [[file:adj.all.org::traditional]] drf [[file:adj.all.org::traditional]]
+w: <<tradition1>> drf [[file:adjs.all.org::traditional]] drf [[file:adj.all.org::traditional]]
 hyper: [[content]]
 g: an inherited pattern of thought or action
 
@@ -9406,8 +9406,8 @@ g: the cognitive condition of someone who understands; "he has virtually no unde
 
 w: <<prevision2>> drf [[file:verb.cognition.org::previse]]
 w: <<foresight>>
-w: <<farsightedness>> drf [[file:adj.all.org::farsighted]]
-w: <<prospicience>> drf [[file:adj.all.org::prospicient]]
+w: <<farsightedness>> drf [[file:adjs.all.org::farsighted]]
+w: <<prospicience>> drf [[file:adjs.all.org::prospicient]]
 hyper: [[knowing]]
 g: seeing ahead; knowing in advance; foreseeing
 
@@ -9693,7 +9693,7 @@ hyper: [[basis]]
 g: the fundamental part; "successful negotiation is the meat and potatoes of arbitration"
 
 w: <<basis>>
-w: <<base>> drf [[file:adj.all.org::basal]] drf [[file:verb.cognition.org::base]]
+w: <<base>> drf [[file:adjs.all.org::basal]] drf [[file:verb.cognition.org::base]]
 w: <<foundation>> drf [[file:verb.cognition.org::found]]
 w: <<fundament>>
 w: <<groundwork>>
@@ -9766,13 +9766,13 @@ hyper: [[option]]
 g: the more conspicuous of two alternatives or cases or sides; "the obverse of this issue"
 
 w: <<option>>
-w: <<alternative>> drf [[file:adj.all.org::alternative]]
+w: <<alternative>> drf [[file:adjs.all.org::alternative]]
 w: <<choice2>>
 hyper: [[decision_making]]
 g: one of a number of things from which only one can be chosen; "what option did I have?"; "there no other alternative"; "my only choice is to refuse"
 
-w: <<favorite>> drf [[file:adj.all.org::favorite]]
-w: <<favourite>> drf [[file:adj.all.org::favourite]]
+w: <<favorite>> drf [[file:adjs.all.org::favorite]]
+w: <<favourite>> drf [[file:adjs.all.org::favourite]]
 hyper: [[choice]]
 g: something regarded with special favor or liking; "that book is one of my favorites"
 
@@ -9827,7 +9827,7 @@ w: <<groupthink>>
 hyper: [[decision_making]]
 g: decision making by a group (especially in a manner that discourages creativity or individual responsibility)
 
-w: <<eclecticism>> drf [[file:adj.all.org::eclectic]] drf [[file:noun.person.org::eclecticist]]
+w: <<eclecticism>> drf [[file:adjs.all.org::eclectic]] drf [[file:noun.person.org::eclecticist]]
 w: <<eclectic_method>>
 hyper: [[decision_making]]
 g: making decisions on the basis of what seems best instead of following some single doctrine or style
@@ -9837,7 +9837,7 @@ hyper: [[decision_making]]
 g: deciding or controlling something's outcome or nature; "the determination of grammatical inflections"
 
 w: <<decision_making>>
-w: <<deciding>> drf [[file:adj.all.org::deciding]] drf [[file:verb.cognition.org::decide1]] drf [[file:verb.cognition.org::decide]]
+w: <<deciding>> drf [[file:adjs.all.org::deciding]] drf [[file:verb.cognition.org::decide1]] drf [[file:verb.cognition.org::decide]]
 hyper: [[higher_cognitive_process]]
 g: the cognitive process of reaching a decision; "a good executive must be good at decision making"
 
@@ -9912,7 +9912,7 @@ w: <<consideration>> drf [[file:verb.perception.org::consider8]] drf [[file:verb
 hyper: [[thinking]]
 g: the process of giving careful thought to something
 
-w: <<ideation>> drf [[file:adj.all.org::ideational]] drf [[file:verb.creation.org::ideate1]]
+w: <<ideation>> drf [[file:adjs.all.org::ideational]] drf [[file:verb.creation.org::ideate1]]
 hyper: [[thinking]]
 g: the process of forming and relating ideas
 
@@ -10028,7 +10028,7 @@ hyper: [[inference]]
 dt: [[logic]]
 g: (logic) an inference that follows directly from the proof of another proposition
 
-w: <<analogy>> drf [[file:adj.all.org::analogous]] drf [[file:noun.person.org::analogist]] drf [[file:adj.all.org::analogical]] drf [[file:verb.cognition.org::analogize]] drf [[file:verb.cognition.org::analogise]]
+w: <<analogy>> drf [[file:adjs.all.org::analogous]] drf [[file:noun.person.org::analogist]] drf [[file:adjs.all.org::analogical]] drf [[file:verb.cognition.org::analogize]] drf [[file:verb.cognition.org::analogise]]
 hyper: [[inference]]
 g: an inference that if things agree in some respects they probably agree in others
 
@@ -10042,12 +10042,12 @@ w: <<presupposition>> drf [[file:verb.cognition.org::presuppose1]]
 hyper: [[supposition1]]
 g: the act of presupposing; a supposition made prior to having knowledge (as for the purpose of argument)
 
-w: <<supposition1>> drf [[file:adj.all.org::suppositional]] drf [[file:verb.cognition.org::suppose1]] drf [[file:verb.cognition.org::suppose]]
+w: <<supposition1>> drf [[file:adjs.all.org::suppositional]] drf [[file:verb.cognition.org::suppose1]] drf [[file:verb.cognition.org::suppose]]
 w: <<supposal1>> drf [[file:verb.cognition.org::suppose1]] drf [[file:verb.cognition.org::suppose]]
 hyper: [[conjecture1]]
 g: the cognitive process of supposing
 
-w: <<ideology3>> drf [[file:noun.person.org::ideologist]] drf [[file:adj.all.org::ideologic]] drf [[file:adj.all.org::ideological]]
+w: <<ideology3>> drf [[file:noun.person.org::ideologist]] drf [[file:adjs.all.org::ideologic]] drf [[file:adjs.all.org::ideological]]
 hyper: [[theorization]]
 g: imaginary or visionary theorization
 
@@ -10096,7 +10096,7 @@ w: <<oneiromancy>> drf [[file:noun.person.org::oneiromancer]]
 hyper: [[divination]]
 g: divination through the interpretation of dreams
 
-w: <<necromancy>> drf [[file:adj.all.org::necromantic]] drf [[file:adj.pert.org::necromantical]] drf [[file:noun.person.org::necromancer1]]
+w: <<necromancy>> drf [[file:adjs.all.org::necromantic]] drf [[file:adj.pert.org::necromantical]] drf [[file:noun.person.org::necromancer1]]
 hyper: [[divination]]
 g: conjuring up the dead, especially for prophesying
 
@@ -10163,7 +10163,7 @@ w: <<prevision3>>
 hyper: [[reasoning]]
 g: the act of predicting (as by reasoning about the future)
 
-w: <<inference>> drf [[file:adj.all.org::inferential2]] drf [[file:adj.all.org::inferential]] drf [[file:adj.pert.org::inferential]] drf [[file:verb.communication.org::infer1]] drf [[file:verb.communication.org::infer]] drf [[file:verb.cognition.org::infer]]
+w: <<inference>> drf [[file:adjs.all.org::inferential2]] drf [[file:adjs.all.org::inferential]] drf [[file:adj.pert.org::inferential]] drf [[file:verb.communication.org::infer1]] drf [[file:verb.communication.org::infer]] drf [[file:verb.cognition.org::infer]]
 w: <<illation>>
 hyper: [[reasoning]]
 g: the reasoning involved in drawing a conclusion or making a logical judgment on the basis of circumstantial evidence and prior conclusions rather than on the basis of direct observation
@@ -10181,7 +10181,7 @@ w: <<synthesis1>> drf [[file:adj.all.org::synthetic1]] drf [[file:adj.all.org::s
 hyper: [[reasoning]]
 g: reasoning from the general to the particular (or from cause to effect)
 
-w: <<conjecture1>> drf [[file:adj.all.org::conjectural]] drf [[file:verb.cognition.org::conjecture]]
+w: <<conjecture1>> drf [[file:adjs.all.org::conjectural]] drf [[file:verb.cognition.org::conjecture]]
 hyper: [[reasoning]]
 g: reasoning that involves the formation of conclusions from incomplete evidence
 
@@ -10268,7 +10268,7 @@ g: the examination of alternative hypotheses; "his search for a move that would 
 
 w: <<pretense1>>
 w: <<pretence>>
-w: <<make-believe>> drf [[file:adj.all.org::make-believe]]
+w: <<make-believe>> drf [[file:adjs.all.org::make-believe]]
 hyper: [[imagination2]]
 g: imaginative intellectual play
 
@@ -10291,7 +10291,7 @@ w: <<castle_in_Spain>>
 hyper: [[dream2]]
 g: absentminded dreaming while awake
 
-w: <<chimera>> drf [[file:adj.pert.org::chimeric]] drf [[file:adj.pert.org::chimeral]] drf [[file:adj.all.org::chimerical]]
+w: <<chimera>> drf [[file:adj.pert.org::chimeric]] drf [[file:adj.pert.org::chimeral]] drf [[file:adjs.all.org::chimerical]]
 w: <<chimaera>>
 hyper: [[imagination2]]
 g: a grotesque product of the imagination
@@ -10304,7 +10304,7 @@ w: <<nightmare>>
 hyper: [[dream1]]
 g: a terrifying or deeply upsetting dream
 
-w: <<dream2>> drf [[file:adj.all.org::dreamy]] drf [[file:verb.creation.org::dream]]
+w: <<dream2>> drf [[file:adjs.all.org::dreamy]] drf [[file:verb.creation.org::dream]]
 w: <<dreaming2>> drf [[file:verb.creation.org::dream]]
 hyper: [[imagination1]]
 g: imaginative thoughts indulged in while awake; "he lives in a dream that has nothing to do with reality"
@@ -10320,7 +10320,7 @@ w: <<envisioning>> drf [[file:verb.creation.org::envision1]] drf [[file:verb.cre
 hyper: [[imagination2]]
 g: visual imagery
 
-w: <<vision3>> drf [[file:adj.all.org::visionary]]
+w: <<vision3>> drf [[file:adjs.all.org::visionary]]
 hyper: [[imagination2]]
 g: a vivid mental image; "he had a vision of his own death"
 
@@ -10377,7 +10377,7 @@ w: <<exemplification>> drf [[file:verb.stative.org::exemplify]]
 hyper: [[representational_process]]
 g: a representational or typifying form or model
 
-w: <<symbol>> drf [[file:adj.all.org::symbolical]] drf [[file:adj.pert.org::symbolical]] drf [[file:adj.all.org::symbolic]] drf [[file:verb.communication.org::symbolize]] drf [[file:verb.communication.org::symbolise]]
+w: <<symbol>> drf [[file:adjs.all.org::symbolical]] drf [[file:adj.pert.org::symbolical]] drf [[file:adjs.all.org::symbolic]] drf [[file:verb.communication.org::symbolize]] drf [[file:verb.communication.org::symbolise]]
 w: <<symbolization>> drf [[file:verb.communication.org::symbolize]]
 w: <<symbolisation>> drf [[file:verb.communication.org::symbolise]]
 w: <<symbolic_representation>>
@@ -10430,7 +10430,7 @@ w: <<identification>> drf [[file:verb.cognition.org::identify]]
 hyper: [[memory1]]
 g: the process of recognizing something or someone by remembering; "a politician whose recall of names was as remarkable as his recognition of faces"; "experimental psychologists measure the elapsed time from the onset of the stimulus to its recognition by the observer"
 
-w: <<reminiscence2>> drf [[file:adj.all.org::reminiscent]] drf [[file:verb.cognition.org::reminisce]]
+w: <<reminiscence2>> drf [[file:adjs.all.org::reminiscent]] drf [[file:verb.cognition.org::reminisce]]
 hyper: [[memory2]]
 g: a mental impression retained and recalled from the past
 
@@ -10460,7 +10460,7 @@ g: the ability to recall past occurrences
 
 w: <<recall>> drf [[file:verb.cognition.org::recall]]
 w: <<recollection1>> drf [[file:verb.cognition.org::recollect]]
-w: <<reminiscence1>> drf [[file:adj.all.org::reminiscent]] drf [[file:verb.cognition.org::reminisce]]
+w: <<reminiscence1>> drf [[file:adjs.all.org::reminiscent]] drf [[file:verb.cognition.org::reminisce]]
 hyper: [[memory1]]
 g: the process of remembering (especially the process of recovering information by mental effort); "he has total recall of the episode"
 
@@ -10542,7 +10542,7 @@ w: <<familiarisation>> drf [[file:verb.communication.org::familiarise]]
 hyper: [[experience1]]
 g: the experience of becoming familiar with something
 
-w: <<experience1>> drf [[file:adj.all.org::experiential]] drf [[file:adj.all.org::experient]] drf [[file:verb.perception.org::experience1]] ant [[inexperience]]
+w: <<experience1>> drf [[file:adjs.all.org::experiential]] drf [[file:adj.all.org::experient]] drf [[file:verb.perception.org::experience1]] ant [[inexperience]]
 hyper: [[education]]
 g: the accumulation of knowledge or skill that results from direct participation in events or activities; "a man of experience"; "experience is the best teacher"
 
@@ -10596,7 +10596,7 @@ w: <<carry-over>> drf [[file:verb.change.org::carry_over]]
 hyper: [[learning]]
 g: application of a skill learned in one situation to a different but similar situation
 
-w: <<study3>> drf [[file:adj.all.org::studious]] drf [[file:verb.cognition.org::study1]] drf [[file:verb.cognition.org::study]] drf [[file:verb.cognition.org::study3]]
+w: <<study3>> drf [[file:adjs.all.org::studious]] drf [[file:verb.cognition.org::study1]] drf [[file:verb.cognition.org::study]] drf [[file:verb.cognition.org::study3]]
 w: <<work>>
 hyper: [[learning]]
 g: applying the mind to learning and understanding a subject (especially by reading); "mastering a second language requires a lot of work"; "no schools offer graduate study in interior design"
@@ -10686,7 +10686,7 @@ w: <<counterculture>>
 hyper: [[culture]]
 g: a culture with lifestyles and values opposed to those of the established culture
 
-w: <<culture>> drf [[file:adj.all.org::cultural]] drf [[file:adj.pert.org::cultural1]] drf [[file:verb.change.org::acculturate]]
+w: <<culture>> drf [[file:adjs.all.org::cultural]] drf [[file:adj.pert.org::cultural1]] drf [[file:verb.change.org::acculturate]]
 hyper: [[taste1]]
 g: the tastes in art and manners that are favored by a social group
 
@@ -10699,12 +10699,12 @@ w: <<bandwagon>>
 hyper: [[vogue]]
 g: a popular trend that attracts growing support; "when they saw how things were going everybody jumped on the bandwagon"
 
-w: <<retro>> drf [[file:adj.all.org::retro]]
+w: <<retro>> drf [[file:adjs.all.org::retro]]
 hyper: [[fashion]]
 g: a fashion reminiscent of the past
 
-w: <<fad>> drf [[file:adj.all.org::faddy]] drf [[file:noun.person.org::faddist]]
-w: <<craze>> drf [[file:adj.all.org::crazy]]
+w: <<fad>> drf [[file:adjs.all.org::faddy]] drf [[file:noun.person.org::faddist]]
+w: <<craze>> drf [[file:adjs.all.org::crazy]]
 w: <<furor>>
 w: <<furore>>
 w: <<cult1>>
@@ -10731,7 +10731,7 @@ hyper: [[vogue]]
 g: a style of women's clothing created by Christian Dior in 1947; involved a tight bodice and narrow waist and a flowing pleated skirt
 
 w: <<vogue>>
-w: <<trend2>> drf [[file:adj.all.org::trendy]]
+w: <<trend2>> drf [[file:adjs.all.org::trendy]]
 w: <<style>> drf [[file:noun.person.org::stylist1]] drf [[file:verb.creation.org::stylize]]
 hyper: [[taste1]]
 g: the popular taste at a given time; "leather is the latest vogue"; "he followed current trends"; "the 1920s had a style of their own"
@@ -10757,7 +10757,7 @@ w: <<individuation>> drf [[file:verb.stative.org::individuate]]
 hyper: [[discrimination]]
 g: discriminating the individual from the generic group or species
 
-w: <<hairsplitting>> drf [[file:adj.all.org::hairsplitting]]
+w: <<hairsplitting>> drf [[file:adjs.all.org::hairsplitting]]
 w: <<word-splitting>>
 hyper: [[differentiation]]
 g: making too fine distinctions of little importance; "they didn't take his hairsplitting seriously"
@@ -11212,7 +11212,7 @@ w: <<network_topology>>
 hyper: [[configuration]]
 g: the configuration of a communication network
 
-w: <<redundancy>> drf [[file:adj.all.org::redundant]]
+w: <<redundancy>> drf [[file:adjs.all.org::redundant]]
 hyper: [[configuration]]
 dt: [[electronics]]
 g: (electronics) a system design that duplicates components to provide alternatives in case one component fails
@@ -11360,8 +11360,8 @@ w: <<pruritus>>
 hyper: [[itch]]
 g: an intense itching sensation that can have various causes (as by allergies or infection or lymphoma or jaundice etc.)
 
-w: <<itch>> drf [[file:adj.all.org::itchy]] drf [[file:verb.perception.org::itch]] drf [[file:verb.perception.org::itch1]]
-w: <<itchiness>> drf [[file:adj.all.org::itchy]]
+w: <<itch>> drf [[file:adjs.all.org::itchy]] drf [[file:verb.perception.org::itch]] drf [[file:verb.perception.org::itch1]]
+w: <<itchiness>> drf [[file:adjs.all.org::itchy]]
 w: <<itching>> drf [[file:verb.perception.org::itch]]
 hyper: [[cutaneous_sensation]]
 g: an irritating cutaneous sensation that produces a desire to scratch
@@ -11376,7 +11376,7 @@ w: <<skin_sensation>>
 hyper: [[touch2]]
 g: a sensation localized on the skin
 
-w: <<creepiness>> drf [[file:adj.all.org::creepy]]
+w: <<creepiness>> drf [[file:adjs.all.org::creepy]]
 hyper: [[touch2]]
 g: an uneasy sensation as of insects creeping on your skin
 
@@ -11406,7 +11406,7 @@ hyper: [[somesthesia]]
 g: the perception of body position and movement and muscular tensions etc
 
 w: <<tactual_sensation1>>
-w: <<tactility>> drf [[file:adj.all.org::tactile]] drf [[file:adj.pert.org::tactile]]
+w: <<tactility>> drf [[file:adjs.all.org::tactile]] drf [[file:adj.pert.org::tactile]]
 w: <<touch_perception>>
 w: <<skin_perceptiveness>>
 hyper: [[somesthesia]]
@@ -11448,7 +11448,7 @@ hyper: [[sound]]
 g: the new sounds added by dubbing
 
 w: <<noise>> drf [[file:verb.perception.org::noise]]
-w: <<dissonance>> drf [[file:adj.all.org::dissonant2]] drf [[file:verb.change.org::dissonate]]
+w: <<dissonance>> drf [[file:adjs.all.org::dissonant2]] drf [[file:verb.change.org::dissonate]]
 w: <<racket>>
 hyper: [[sound]]
 g: the auditory experience of sound that lacks musical quality; sound that is a disagreeable auditory experience; "modern music is just noise to me"
@@ -11488,7 +11488,7 @@ dt: [[file:noun.communication.org::music]]
 g: (music) the sounds produced by singers or musical instruments (or reproductions of such sounds)
 
 w: <<music>> drf [[file:adj.all.org::musical4]]
-w: <<euphony>> drf [[file:adj.pert.org::euphonic]] drf [[file:adj.all.org::euphonous]] drf [[file:adj.all.org::euphonious]] drf [[file:adj.all.org::euphonious]] drf [[file:adj.pert.org::euphonical]]
+w: <<euphony>> drf [[file:adj.pert.org::euphonic]] drf [[file:adj.all.org::euphonous]] drf [[file:adjs.all.org::euphonious]] drf [[file:adj.all.org::euphonious]] drf [[file:adj.pert.org::euphonical]]
 hyper: [[sound]]
 g: any agreeable (pleasing and harmonious) sounds; "he fell asleep to the music of the wind chimes"
 
@@ -11497,11 +11497,11 @@ w: <<auditory_sensation>>
 hyper: [[sensation]]
 g: the subjective sensation of hearing something; "he strained to hear the faint sounds"
 
-w: <<mellowness>> drf [[file:adj.all.org::mellow]]
+w: <<mellowness>> drf [[file:adjs.all.org::mellow]]
 hyper: [[taste2]]
 g: a taste (especially of fruit) that is ripe and of full flavor
 
-w: <<flatness>> drf [[file:adj.all.org::flat]]
+w: <<flatness>> drf [[file:adjs.all.org::flat]]
 hyper: [[taste2]]
 g: a deficiency in flavor; "it needed lemon juice to sharpen the flatness of the dried lentils"
 
@@ -11510,13 +11510,13 @@ hyper: [[taste2]]
 dt: [[tasting]]
 g: (wine tasting) the taste of a wine on the back of the tongue (as it is swallowed); "the wine has a nutty flavor and a pleasant finish"
 
-w: <<astringency>> drf [[file:adj.all.org::astringent]]
-w: <<astringence>> drf [[file:adj.all.org::astringent]]
+w: <<astringency>> drf [[file:adjs.all.org::astringent]]
+w: <<astringence>> drf [[file:adjs.all.org::astringent]]
 hyper: [[taste2]]
 g: a sharp astringent taste; the taste experience when a substance causes the mouth to pucker
 
-w: <<salt>> drf [[file:adj.all.org::salty]] drf [[file:verb.change.org::salt]] drf [[file:verb.perception.org::salt]]
-w: <<saltiness>> drf [[file:adj.all.org::salty]]
+w: <<salt>> drf [[file:adjs.all.org::salty]] drf [[file:verb.change.org::salt]] drf [[file:verb.perception.org::salt]]
+w: <<saltiness>> drf [[file:adjs.all.org::salty]]
 w: <<salinity>>
 hyper: [[taste2]]
 g: the taste experience when common salt is taken into the mouth
@@ -11525,19 +11525,19 @@ w: <<acridity>>
 hyper: [[smell2]]
 g: having an acrid smell
 
-w: <<bitter>> drf [[file:adj.all.org::bitter]]
+w: <<bitter>> drf [[file:adjs.all.org::bitter]]
 w: <<bitterness>>
 hyper: [[taste2]]
 g: the taste experience when quinine or coffee is taken into the mouth
 
 w: <<acidity>>
-w: <<acidulousness>> drf [[file:adj.all.org::acidulous]]
+w: <<acidulousness>> drf [[file:adjs.all.org::acidulous]]
 hyper: [[sour]]
 g: the taste experience when something acidic is taken into the mouth
 
 w: <<sour>> drf [[file:verb.perception.org::sour]]
-w: <<sourness>> drf [[file:adj.all.org::sour]]
-w: <<tartness>> drf [[file:adj.all.org::sour]]
+w: <<sourness>> drf [[file:adjs.all.org::sour]]
+w: <<tartness>> drf [[file:adjs.all.org::sour]]
 hyper: [[taste2]]
 g: the taste experience when vinegar or lemon juice is taken into the mouth
 
@@ -11551,19 +11551,19 @@ w: <<vanilla>>
 hyper: [[relish]]
 g: a distinctive fragrant flavor characteristic of vanilla beans
 
-w: <<lemon>> drf [[file:adj.all.org::lemony]]
+w: <<lemon>> drf [[file:adjs.all.org::lemony]]
 hyper: [[relish]]
 g: a distinctive tart flavor characteristic of lemons
 
 w: <<relish>>
-w: <<flavor>> drf [[file:adj.all.org::flavorous]] drf [[file:verb.perception.org::flavor]]
-w: <<flavour>> drf [[file:adj.all.org::flavourous]] drf [[file:verb.perception.org::flavour]]
+w: <<flavor>> drf [[file:adjs.all.org::flavorous]] drf [[file:verb.perception.org::flavor]]
+w: <<flavour>> drf [[file:adjs.all.org::flavourous]] drf [[file:verb.perception.org::flavour]]
 w: <<sapidity>>
 w: <<savor>> drf [[file:verb.perception.org::savor1]] drf [[file:verb.perception.org::savor2]]
-w: <<savour>> drf [[file:adj.all.org::savoury]] drf [[file:adj.all.org::savoury]] drf [[file:verb.perception.org::savour]] drf [[file:verb.perception.org::savour1]] drf [[file:verb.perception.org::savour2]]
+w: <<savour>> drf [[file:adjs.all.org::savoury]] drf [[file:adjs.all.org::savoury]] drf [[file:verb.perception.org::savour]] drf [[file:verb.perception.org::savour1]] drf [[file:verb.perception.org::savour2]]
 w: <<smack>> drf [[file:verb.perception.org::smack12]]
-w: <<nip>> drf [[file:adj.all.org::nippy]]
-w: <<tang>> drf [[file:adj.all.org::tangy]]
+w: <<nip>> drf [[file:adjs.all.org::nippy]]
+w: <<tang>> drf [[file:adjs.all.org::tangy]]
 hyper: [[taste2]]
 g: the taste experience when a savoury condiment is taken into the mouth
 
@@ -11575,7 +11575,7 @@ w: <<gustatory_perception>>
 hyper: [[sensation]]
 g: the sensation that results when taste buds in the tongue and throat convey information about the chemical composition of a soluble stimulus; "the candy left him with a bad taste"; "the melon had a delicious taste"
 
-w: <<niff>> drf [[file:adj.all.org::niffy]]
+w: <<niff>> drf [[file:adjs.all.org::niffy]]
 w: <<pong>>
 hyper: [[malodor]]
 dr: [[file:noun.location.org::United_Kingdom]]
@@ -11589,7 +11589,7 @@ w: <<stink>> drf [[file:adj.all.org::stinky]] drf [[file:verb.perception.org::st
 w: <<reek>> drf [[file:verb.perception.org::reek]]
 w: <<fetor>>
 w: <<foetor>>
-w: <<mephitis>> drf [[file:adj.all.org::mephitic]]
+w: <<mephitis>> drf [[file:adjs.all.org::mephitic]]
 hyper: [[smell2]]
 g: a distinctive odor that is offensively unpleasant
 
@@ -11597,14 +11597,14 @@ w: <<incense>> drf [[file:verb.perception.org::incense]]
 hyper: [[aroma1]]
 g: the pleasing scent produced when incense is burned; "incense filled the room"
 
-w: <<aroma1>> drf [[file:adj.all.org::aromatic]] drf [[file:verb.perception.org::aromatize]] drf [[file:verb.perception.org::aromatise]]
+w: <<aroma1>> drf [[file:adjs.all.org::aromatic]] drf [[file:verb.perception.org::aromatize]] drf [[file:verb.perception.org::aromatise]]
 w: <<fragrance>> drf [[file:adj.all.org::fragrant]]
 w: <<perfume>> drf [[file:verb.body.org::perfume]] drf [[file:verb.perception.org::perfume]]
 w: <<scent1>> drf [[file:verb.body.org::scent]] drf [[file:verb.perception.org::scent2]]
 hyper: [[smell2]]
 g: a distinctive odor that is pleasant
 
-w: <<musk>> drf [[file:adj.all.org::musky]]
+w: <<musk>> drf [[file:adjs.all.org::musky]]
 hyper: [[scent]]
 g: the scent of a greasy glandular secretion from the male musk deer
 
@@ -11831,9 +11831,9 @@ hyper: [[watchfulness]]
 g: zealous vigilance; "cherish their official political freedom with fierce jealousy"-Paul Blanshard
 
 w: <<watchfulness>> drf [[file:adj.all.org::watchful]]
-w: <<wakefulness1>> drf [[file:adj.all.org::wakeful]]
-w: <<vigilance>> drf [[file:adj.all.org::vigilant]]
-w: <<alertness>> drf [[file:adj.all.org::alert]]
+w: <<wakefulness1>> drf [[file:adjs.all.org::wakeful]]
+w: <<vigilance>> drf [[file:adjs.all.org::vigilant]]
+w: <<alertness>> drf [[file:adjs.all.org::alert]]
 hyper: [[attention1]]
 g: the process of paying close and continuous attention; "wakefulness, watchfulness, and bellicosity make a good hunter"; "vigilance is especially susceptible to fatigue"
 
@@ -11878,8 +11878,8 @@ w: <<immersion>> drf [[file:verb.cognition.org::immerse]]
 hyper: [[attention1]]
 g: complete attention; intense mental effort
 
-w: <<advertence>> drf [[file:adj.all.org::advertent]] drf [[file:verb.perception.org::advert]]
-w: <<advertency>> drf [[file:adj.all.org::advertent]] drf [[file:verb.perception.org::advert]]
+w: <<advertence>> drf [[file:adjs.all.org::advertent]] drf [[file:verb.perception.org::advert]]
+w: <<advertency>> drf [[file:adjs.all.org::advertent]] drf [[file:verb.perception.org::advert]]
 hyper: [[attentiveness]]
 g: the process of being heedful
 
@@ -11893,7 +11893,7 @@ g: polite or favorable attention; "his hard work soon attracted the teacher's no
 
 w: <<notice>> drf [[file:verb.communication.org::notice1]] drf [[file:verb.perception.org::notice]] drf [[file:verb.perception.org::notice4]]
 w: <<observation>> drf [[file:verb.social.org::observe]] drf [[file:verb.perception.org::observe1]] drf [[file:verb.perception.org::observe]] drf [[file:verb.communication.org::observe]] drf [[file:verb.cognition.org::observe]]
-w: <<observance>> drf [[file:adj.all.org::observant]] drf [[file:verb.perception.org::observe2]]
+w: <<observance>> drf [[file:adjs.all.org::observant]] drf [[file:verb.perception.org::observe2]]
 hyper: [[attention]]
 g: the act of noticing or paying attention; "he escaped the notice of the police"
 
@@ -11945,7 +11945,7 @@ hyper: [[file:noun.Tops.org::cognition]]
 dt: [[psychology]]
 g: (psychology) the performance of some composite cognitive activity; an operation that affects mental contents; "the process of thinking"; "the cognitive operation of remembering"
 
-w: <<absentmindedness>> drf [[file:adj.all.org::absentminded]]
+w: <<absentmindedness>> drf [[file:adjs.all.org::absentminded]]
 hyper: [[preoccupation]]
 g: preoccupation so great that the ordinary demands on attention are ignored
 
@@ -11953,7 +11953,7 @@ w: <<brown_study>>
 hyper: [[reverie]]
 g: a state of deep absorption or thoughtfulness
 
-w: <<dream4>> drf [[file:adj.all.org::dreamy]]
+w: <<dream4>> drf [[file:adjs.all.org::dreamy]]
 hyper: [[reverie]]
 g: a state of mind characterized by abstraction and release from reality; "he went about his work as if in a dream"
 
@@ -11962,24 +11962,24 @@ w: <<revery>>
 hyper: [[abstractedness]]
 g: an abstracted state of absorption
 
-w: <<abstractedness>> drf [[file:adj.all.org::abstracted]]
+w: <<abstractedness>> drf [[file:adjs.all.org::abstracted]]
 w: <<abstraction1>>
 hyper: [[preoccupation]]
 g: preoccupation with something to the exclusion of all else
 
-w: <<obsession>> drf [[file:adj.all.org::obsessional]] drf [[file:verb.emotion.org::obsess3]] drf [[file:verb.emotion.org::obsess]]
+w: <<obsession>> drf [[file:adjs.all.org::obsessional]] drf [[file:verb.emotion.org::obsess3]] drf [[file:verb.emotion.org::obsess]]
 w: <<fixation>> drf [[file:verb.social.org::fixate]] drf [[file:verb.perception.org::fixate]]
 hyper: [[preoccupation2]]
 g: an unhealthy and compulsive preoccupation with something or someone
 
 w: <<preoccupation>> drf [[file:verb.emotion.org::preoccupy]]
-w: <<preoccupancy>> drf [[file:adj.all.org::preoccupied]] drf [[file:adj.all.org::preoccupied]] drf [[file:verb.emotion.org::preoccupy]]
+w: <<preoccupancy>> drf [[file:adjs.all.org::preoccupied]] drf [[file:adjs.all.org::preoccupied]] drf [[file:verb.emotion.org::preoccupy]]
 w: <<absorption>> drf [[file:verb.cognition.org::absorb3]]
 w: <<engrossment>> drf [[file:verb.cognition.org::engross2]] drf [[file:verb.cognition.org::engross]]
 hyper: [[cognitive_state]]
 g: the mental state of being preoccupied by something
 
-w: <<morbidity>> drf [[file:adj.all.org::morbid]]
+w: <<morbidity>> drf [[file:adjs.all.org::morbid]]
 w: <<morbidness>>
 hyper: [[cognitive_state]]
 g: an abnormally gloomy or unhealthy state of mind; "his fear of being alone verges on morbidity"
@@ -12006,7 +12006,7 @@ g: doubt concerning two or more possible alternatives or courses of action; "his
 
 w: <<incredulity>> drf [[file:adj.all.org::incredulous]]
 w: <<disbelief>>
-w: <<skepticism>> drf [[file:adj.all.org::skeptical]] drf [[file:adj.all.org::skeptical]]
+w: <<skepticism>> drf [[file:adjs.all.org::skeptical]] drf [[file:adjs.all.org::skeptical]]
 w: <<mental_rejection>>
 hyper: [[doubt]]
 g: doubt about the truth of something
@@ -12014,7 +12014,7 @@ g: doubt about the truth of something
 w: <<misgiving>>
 w: <<mistrust>> drf [[file:verb.cognition.org::mistrust]]
 w: <<distrust>> drf [[file:verb.cognition.org::distrust]]
-w: <<suspicion>> drf [[file:adj.all.org::suspicious]] drf [[file:verb.cognition.org::suspect]]
+w: <<suspicion>> drf [[file:adjs.all.org::suspicious]] drf [[file:verb.cognition.org::suspect]]
 hyper: [[doubt]]
 g: doubt about someone's honesty
 
@@ -12028,8 +12028,8 @@ w: <<doubt>> drf [[file:verb.cognition.org::doubt]]
 w: <<uncertainty>> ant [[certainty]]
 w: <<incertitude>>
 w: <<dubiety>>
-w: <<doubtfulness>> drf [[file:adj.all.org::doubtful]] drf [[file:adj.all.org::doubtful]]
-w: <<dubiousness>> drf [[file:adj.all.org::dubious]] drf [[file:adj.all.org::dubious]]
+w: <<doubtfulness>> drf [[file:adjs.all.org::doubtful]] drf [[file:adjs.all.org::doubtful]]
+w: <<dubiousness>> drf [[file:adjs.all.org::dubious]] drf [[file:adjs.all.org::dubious]]
 hyper: [[cognitive_state]]
 g: the state of being unsure of something
 
@@ -12039,17 +12039,17 @@ hyper: [[certainty]]
 g: certainty based on past experience; "he wrote the paper with considerable reliance on the work of other scientists"; "he put more trust in his own two legs than in the gun"
 
 w: <<certitude>>
-w: <<cocksureness>> drf [[file:adj.all.org::cocksure]]
-w: <<overconfidence>> drf [[file:adj.all.org::overconfident]]
+w: <<cocksureness>> drf [[file:adjs.all.org::cocksure]]
+w: <<overconfidence>> drf [[file:adjs.all.org::overconfident]]
 hyper: [[certainty]]
 g: total certainty or greater certainty than circumstances warrant
 
 w: <<assurance>>
 w: <<self-assurance>>
 w: <<confidence>> drf [[file:adj.all.org::confident]]
-w: <<self-confidence>> drf [[file:adj.all.org::self-confident]]
+w: <<self-confidence>> drf [[file:adjs.all.org::self-confident]]
 w: <<authority>>
-w: <<sureness>> drf [[file:adj.all.org::sure]] drf [[file:adj.all.org::sure]]
+w: <<sureness>> drf [[file:adjs.all.org::sure]] drf [[file:adj.all.org::sure]]
 hyper: [[certainty]]
 attr: [[file:adj.all.org::certain2]]
 attr: [[file:adj.all.org::uncertain2]]
@@ -12074,12 +12074,12 @@ w: <<ersatz>>
 hyper: [[substitute]]
 g: an artificial or inferior substitute or imitation
 
-w: <<substitute>> drf [[file:adj.all.org::substitute]] drf [[file:verb.possession.org::substitute1]] drf [[file:verb.possession.org::substitute]]
+w: <<substitute>> drf [[file:adjs.all.org::substitute]] drf [[file:verb.possession.org::substitute1]] drf [[file:verb.possession.org::substitute]]
 w: <<replacement>> drf [[file:verb.social.org::replace]] drf [[file:verb.change.org::replace]]
 hyper: [[equivalent]]
 g: a person or thing that takes or can take the place of another
 
-w: <<complement>> drf [[file:adj.all.org::complemental]]
+w: <<complement>> drf [[file:adjs.all.org::complemental]]
 hyper: [[counterpart]]
 g: either of two parts that mutually complete each other
 
@@ -12097,7 +12097,7 @@ w: <<vis-a-vis>>
 hyper: [[equivalent]]
 g: a person or thing having the same function or characteristics as another
 
-w: <<equivalent>> drf [[file:adj.all.org::equivalent]]
+w: <<equivalent>> drf [[file:adjs.all.org::equivalent]]
 hyper: [[file:noun.Tops.org::cognition]]
 g: a person or thing equal to another in value or measure or force or effect or significance etc; "send two dollars or the equivalent in stamps"
 
@@ -12139,7 +12139,7 @@ w: <<support>> drf [[file:verb.social.org::support]]
 hyper: [[influence]]
 g: something providing immaterial assistance to a person or cause or interest; "the policy found little public support"; "his faith was all the support he needed"; "the team enjoyed the support of their fans"
 
-w: <<pestilence>> drf [[file:adj.all.org::pestilent]]
+w: <<pestilence>> drf [[file:adjs.all.org::pestilent]]
 w: <<canker>>
 hyper: [[influence]]
 g: a pernicious and malign influence that is hard to get rid of; "racism is a pestilence at the heart of the nation"; "according to him, I was the canker in their midst"
@@ -12165,9 +12165,9 @@ w: <<decisive_factor>>
 hyper: [[determinant]]
 g: a point or fact or remark that settles something conclusively
 
-w: <<determinant>> drf [[file:adj.all.org::determinant]] drf [[file:verb.cognition.org::determine2]]
+w: <<determinant>> drf [[file:adjs.all.org::determinant]] drf [[file:verb.cognition.org::determine2]]
 w: <<determiner>> drf [[file:verb.communication.org::determine3]]
-w: <<determinative>> drf [[file:adj.all.org::determinative]]
+w: <<determinative>> drf [[file:adjs.all.org::determinative]]
 w: <<determining_factor>>
 w: <<causal_factor>>
 hyper: [[cognitive_factor]]
@@ -12247,7 +12247,7 @@ g: (figurative) something that hinders or handicaps; "she was an albatross aroun
 
 w: <<hindrance>> drf [[file:verb.social.org::hinder]]
 w: <<hinderance>>
-w: <<deterrent>> drf [[file:adj.all.org::deterrent]] drf [[file:verb.communication.org::deter1]]
+w: <<deterrent>> drf [[file:adjs.all.org::deterrent]] drf [[file:verb.communication.org::deter1]]
 w: <<impediment>> drf [[file:verb.social.org::impede]]
 w: <<balk>>
 w: <<baulk>>
@@ -12308,8 +12308,8 @@ w: <<pressure_point>>
 hyper: [[trouble]]
 g: where problems or difficulties are likely to occur; "a key pressure point in the controversy was the building permit"
 
-w: <<trouble>> drf [[file:adj.all.org::troublous]] drf [[file:verb.social.org::trouble]]
-w: <<problem>> drf [[file:adj.all.org::problematical]]
+w: <<trouble>> drf [[file:adjs.all.org::troublous]] drf [[file:verb.social.org::trouble]]
+w: <<problem>> drf [[file:adjs.all.org::problematical]]
 hyper: [[difficulty2]]
 g: a source of difficulty; "one trouble after another delayed the job"; "what's the problem?"
 
@@ -12318,7 +12318,7 @@ hyper: [[cognitive_factor]]
 g: a factor causing trouble in achieving a positive result or tending to produce a negative result; "serious difficulties were encountered in obtaining a pure reagent"
 
 w: <<divine_guidance>>
-w: <<inspiration>> drf [[file:adj.all.org::inspirational]]
+w: <<inspiration>> drf [[file:adjs.all.org::inspirational]]
 hyper: [[cognitive_factor]]
 dt: [[theology1]]
 g: (theology) a special influence of a divinity on the minds of human beings; "they believe that the books of Scripture were written under divine guidance"
@@ -12338,13 +12338,13 @@ hyper: [[perplexity]]
 g: state of uncertainty or perplexity especially as requiring a choice between equally unfavorable options
 
 w: <<tangle>> drf [[file:verb.contact.org::tangle3]]
-w: <<snarl>> drf [[file:adj.all.org::snarly]] drf [[file:verb.change.org::snarl]] drf [[file:verb.contact.org::snarl]]
+w: <<snarl>> drf [[file:adjs.all.org::snarly]] drf [[file:verb.change.org::snarl]] drf [[file:verb.contact.org::snarl]]
 w: <<maze>>
 hyper: [[perplexity]]
 g: something jumbled or confused; "a tangle of government regulations"
 
-w: <<mystery>> drf [[file:adj.all.org::mysterious]] drf [[file:adj.all.org::mysterious]] drf [[file:verb.cognition.org::mystify]] drf [[file:verb.change.org::mystify]]
-w: <<enigma>> drf [[file:adj.all.org::enigmatic]] drf [[file:adj.all.org::enigmatic]] drf [[file:adj.all.org::enigmatical]]
+w: <<mystery>> drf [[file:adjs.all.org::mysterious]] drf [[file:adjs.all.org::mysterious]] drf [[file:verb.cognition.org::mystify]] drf [[file:verb.change.org::mystify]]
+w: <<enigma>> drf [[file:adjs.all.org::enigmatic]] drf [[file:adjs.all.org::enigmatic]] drf [[file:adjs.all.org::enigmatical]]
 w: <<secret>>
 w: <<closed_book>>
 hyper: [[perplexity]]
@@ -12373,8 +12373,8 @@ hyper: [[confusion]]
 g: confusion resulting from lack of preparation
 
 w: <<daze>> drf [[file:verb.perception.org::daze1]]
-w: <<fog>> drf [[file:adj.all.org::foggy]] drf [[file:verb.perception.org::fog]]
-w: <<haze>> drf [[file:adj.all.org::hazy]]
+w: <<fog>> drf [[file:adjs.all.org::foggy]] drf [[file:verb.perception.org::fog]]
+w: <<haze>> drf [[file:adjs.all.org::hazy]]
 hyper: [[confusion]]
 g: confusion characterized by lack of clarity
 
@@ -12392,20 +12392,20 @@ g: confusion (usually transient) about where you are and how to proceed; uncerta
 
 w: <<confusion>> drf [[file:verb.cognition.org::confuse3]]
 w: <<mental_confusion>>
-w: <<confusedness>> drf [[file:adj.all.org::confused]] drf [[file:adj.all.org::confused]] drf [[file:adj.all.org::confused]]
+w: <<confusedness>> drf [[file:adjs.all.org::confused]] drf [[file:adjs.all.org::confused]] drf [[file:adj.all.org::confused]]
 w: <<muddiness>>
 w: <<disarray>>
 hyper: [[cognitive_state]]
 g: a mental state characterized by a lack of clear and orderly thought and behavior; "a confusion of impressions"
 
-w: <<nosiness>> drf [[file:adj.all.org::nosy]]
+w: <<nosiness>> drf [[file:adjs.all.org::nosy]]
 w: <<prying>> drf [[file:verb.perception.org::pry]] drf [[file:verb.creation.org::pry]] drf [[file:verb.communication.org::pry]]
-w: <<snoopiness>> drf [[file:adj.all.org::snoopy]]
+w: <<snoopiness>> drf [[file:adjs.all.org::snoopy]]
 hyper: [[curiousness]]
 g: offensive inquisitiveness
 
-w: <<curiousness>> drf [[file:adj.all.org::curious]] drf [[file:adj.all.org::curious]]
-w: <<inquisitiveness>> drf [[file:adj.all.org::inquisitive]] drf [[file:adj.all.org::curious]]
+w: <<curiousness>> drf [[file:adjs.all.org::curious]] drf [[file:adj.all.org::curious]]
+w: <<inquisitiveness>> drf [[file:adjs.all.org::inquisitive]] drf [[file:adjs.all.org::curious]]
 hyper: [[curiosity]]
 g: a state of active curiosity
 
@@ -12420,12 +12420,12 @@ w: <<thirst_for_knowledge>>
 hyper: [[curiosity]]
 g: curiosity that motivates investigation and study
 
-w: <<curiosity>> drf [[file:adj.all.org::curious]] drf [[file:adj.all.org::curious]]
+w: <<curiosity>> drf [[file:adjs.all.org::curious]] drf [[file:adj.all.org::curious]]
 w: <<wonder>> drf [[file:verb.cognition.org::wonder]]
 hyper: [[cognitive_state]]
 g: a state in which you want to learn more about something
 
-w: <<subconsciousness>> drf [[file:adj.all.org::subconscious]]
+w: <<subconsciousness>> drf [[file:adjs.all.org::subconscious]]
 hyper: [[cognitive_state]]
 g: a state of mind not immediately available to consciousness
 
@@ -12433,7 +12433,7 @@ w: <<nitrogen_narcosis>>
 hyper: [[narcosis]]
 g: confused or stuporous state caused by high levels of dissolved nitrogen in the blood; "deep-sea divers can suffer nitrogen narcosis from breathing air under high pressure"
 
-w: <<narcosis>> drf [[file:adj.all.org::narcotic]]
+w: <<narcosis>> drf [[file:adjs.all.org::narcotic]]
 hyper: [[unconsciousness]]
 g: unconsciousness induced by narcotics or anesthesia
 
@@ -12462,7 +12462,7 @@ w: <<sleeping>> drf [[file:verb.body.org::sleep]] ant [[waking]]
 hyper: [[file:noun.state.org::sleep]]
 g: the state of being asleep
 
-w: <<insensibility>> drf [[file:adj.all.org::insensible]] drf [[file:adj.all.org::insensible]] ant [[sensibility]]
+w: <<insensibility>> drf [[file:adjs.all.org::insensible]] drf [[file:adj.all.org::insensible]] ant [[sensibility]]
 hyper: [[unconsciousness]]
 g: a lack of sensibility
 
@@ -12484,14 +12484,14 @@ hyper: [[coma]]
 g: coma that can develop in inadequately treated cases of diabetes mellitus
 
 w: <<coma>>
-w: <<comatoseness>> drf [[file:adj.all.org::comatose]] drf [[file:adj.pert.org::comatose]]
+w: <<comatoseness>> drf [[file:adjs.all.org::comatose]] drf [[file:adj.pert.org::comatose]]
 hyper: [[unconsciousness]]
 g: a state of deep and often prolonged unconsciousness; usually the result of disease or injury
 
 w: <<grogginess>>
-w: <<stupor>> drf [[file:adj.all.org::stuporous]]
+w: <<stupor>> drf [[file:adjs.all.org::stuporous]]
 w: <<stupefaction>>
-w: <<semiconsciousness>> drf [[file:adj.all.org::semiconscious]]
+w: <<semiconsciousness>> drf [[file:adjs.all.org::semiconscious]]
 hyper: [[unconsciousness]]
 g: marginal consciousness; "his grogginess was caused as much by exhaustion as by the blows"; "someone stole his wallet while he was in a drunken stupor"
 
@@ -12509,7 +12509,7 @@ w: <<autopilot>>
 hyper: [[unconsciousness]]
 g: a cognitive state in which you act without self-awareness; "she went about her chores on automatic pilot"; "too much of the writing seems to have been done on automatic pilot"; "she talked and he dozed and my mind went on autopilot"
 
-w: <<unconsciousness>> drf [[file:adj.all.org::unconscious1]] drf [[file:adj.all.org::unconscious]] ant [[consciousness]]
+w: <<unconsciousness>> drf [[file:adjs.all.org::unconscious1]] drf [[file:adj.all.org::unconscious]] ant [[consciousness]]
 hyper: [[cognitive_state]]
 g: a state lacking normal awareness of the self or environment
 
@@ -12557,11 +12557,11 @@ w: <<feel>> drf [[file:verb.cognition.org::feel]]
 hyper: [[awareness]]
 g: an intuitive awareness; "he has a feel for animals" or "it's easy when you get the feel of it";
 
-w: <<unselfconsciousness>> drf [[file:adj.all.org::unselfconscious]] ant [[self-consciousness]]
+w: <<unselfconsciousness>> drf [[file:adjs.all.org::unselfconscious]] ant [[self-consciousness]]
 hyper: [[unknowingness]]
 g: the quality of being not self-conscious; unawareness of yourself or of others' views of yourself; "he had the unselfconsciousness of a child"
 
-w: <<self-consciousness>> drf [[file:adj.all.org::self-conscious]] ant [[unselfconsciousness]]
+w: <<self-consciousness>> drf [[file:adjs.all.org::self-conscious]] ant [[unselfconsciousness]]
 hyper: [[self-awareness]]
 g: self-awareness plus the additional realization that others are similarly aware of you
 
@@ -12569,7 +12569,7 @@ w: <<orientation1>>
 hyper: [[self-awareness]]
 g: a person's awareness of self with regard to position and time and place and personal relationships
 
-w: <<self-awareness>> drf [[file:adj.all.org::self-aware]]
+w: <<self-awareness>> drf [[file:adjs.all.org::self-aware]]
 hyper: [[awareness]]
 g: awareness of your own individuality
 
@@ -12578,10 +12578,10 @@ hyper: [[knowing]]
 g: a lack of knowledge or recognition
 
 w: <<awareness>> drf [[file:adj.all.org::aware4]] drf [[file:adj.all.org::aware]]
-w: <<consciousness1>> drf [[file:adj.all.org::conscious]]
+w: <<consciousness1>> drf [[file:adjs.all.org::conscious]]
 w: <<cognizance>> drf [[file:adj.all.org::cognizant]] ant [[incognizance]] drf [[file:verb.cognition.org::cognize]]
 w: <<cognisance>> drf [[file:adj.all.org::cognisant]] drf [[file:verb.cognition.org::cognise]]
-w: <<knowingness>> drf [[file:adj.all.org::knowing2]] drf [[file:adj.all.org::knowing]] drf [[file:adj.all.org::knowing]]
+w: <<knowingness>> drf [[file:adjs.all.org::knowing2]] drf [[file:adjs.all.org::knowing]] drf [[file:adjs.all.org::knowing]]
 hyper: [[knowing]]
 attr: [[file:adj.all.org::aware]]
 attr: [[file:adj.all.org::unaware]]
@@ -12602,7 +12602,7 @@ w: <<stream_of_consciousness>>
 hyper: [[consciousness]]
 g: the continuous flow of ideas and feelings that constitute an individual's conscious experience
 
-w: <<consciousness>> drf [[file:adj.all.org::conscious]] drf [[file:adj.all.org::conscious]] ant [[unconsciousness]]
+w: <<consciousness>> drf [[file:adjs.all.org::conscious]] drf [[file:adj.all.org::conscious]] ant [[unconsciousness]]
 hyper: [[cognitive_state]]
 g: an alert cognitive state in which you are aware of yourself and your situation; "he lost consciousness"
 
@@ -12620,12 +12620,12 @@ w: <<transient_global_amnesia>>
 hyper: [[amnesia]]
 g: memory disorder seen in middle aged and elderly persons; characterized by an episode of amnesia and bewilderment that lasts for several hours; person is otherwise alert and intellectually active
 
-w: <<obliviousness>> drf [[file:adj.all.org::oblivious]] drf [[file:adj.all.org::oblivious]]
-w: <<oblivion>> drf [[file:adj.all.org::oblivious]]
+w: <<obliviousness>> drf [[file:adjs.all.org::oblivious]] drf [[file:adjs.all.org::oblivious]]
+w: <<oblivion>> drf [[file:adjs.all.org::oblivious]]
 hyper: [[forgetfulness1]]
 g: total forgetfulness; "he sought the great oblivion of sleep"
 
-w: <<forgetfulness1>> drf [[file:adj.all.org::forgetful]] drf [[file:adj.all.org::forgetful2]]
+w: <<forgetfulness1>> drf [[file:adjs.all.org::forgetful]] drf [[file:adj.all.org::forgetful2]]
 hyper: [[unknowingness]]
 g: unawareness caused by neglectful or heedless failure to remember; "his forgetfulness increased as he grew older"
 
@@ -12659,7 +12659,7 @@ hyper: [[cognitive_state]]
 dt: [[psychiatry]]
 g: (psychiatry) a disorder of memory in which dreams or fantasies are confused with reality
 
-w: <<amnesia>> drf [[file:adj.pert.org::amnestic]] drf [[file:adj.all.org::amnesic]] drf [[file:adj.pert.org::amnesic]]
+w: <<amnesia>> drf [[file:adj.pert.org::amnestic]] drf [[file:adjs.all.org::amnesic]] drf [[file:adj.pert.org::amnesic]]
 w: <<memory_loss>>
 w: <<blackout1>>
 hyper: [[cognitive_state]]
@@ -12788,8 +12788,8 @@ w: <<formula>> drf [[file:verb.communication.org::formularize]]
 hyper: [[practice]]
 g: something regarded as a normative example; "the convention of not naming the main character"; "violence is the rule not the exception"; "his formula for impressing visitors"
 
-w: <<custom>> drf [[file:adj.all.org::customary]]
-w: <<tradition2>> drf [[file:adj.all.org::traditional]] drf [[file:adj.all.org::traditional]]
+w: <<custom>> drf [[file:adjs.all.org::customary]]
+w: <<tradition2>> drf [[file:adjs.all.org::traditional]] drf [[file:adj.all.org::traditional]]
 hyper: [[practice]]
 g: a specific practice of long standing
 
@@ -12948,7 +12948,7 @@ w: <<scientific_method>>
 hyper: [[methodology]]
 g: a method of investigation involving observation and theory to test scientific hypotheses
 
-w: <<method>> drf [[file:adj.all.org::methodical]]
+w: <<method>> drf [[file:adjs.all.org::methodical]]
 hyper: [[know-how]]
 g: a way of doing something, especially a systematic way; implies an orderly logical arrangement (usually in steps)
 
@@ -13064,7 +13064,7 @@ hyper: [[daylight_vision]]
 g: vision with the fovea
 
 w: <<eyesight>>
-w: <<seeing1>> drf [[file:adj.all.org::seeing]] drf [[file:verb.perception.org::see5]] drf [[file:verb.perception.org::see]]
+w: <<seeing1>> drf [[file:adjs.all.org::seeing]] drf [[file:verb.perception.org::see5]] drf [[file:verb.perception.org::see]]
 w: <<sightedness>> drf [[file:adj.all.org::sighted]]
 hyper: [[sight]]
 g: normal use of the faculty of vision
@@ -13098,7 +13098,7 @@ g: normal visual acuity, as measured by the ability to read charts at a distance
 
 w: <<acuity1>>
 w: <<visual_acuity>>
-w: <<sharp-sightedness>> drf [[file:adj.all.org::sharp-sighted]]
+w: <<sharp-sightedness>> drf [[file:adjs.all.org::sharp-sighted]]
 hyper: [[sight]]
 g: sharpness of vision; the visual ability to resolve fine detail (usually measured by a Snellen chart)
 
@@ -13132,8 +13132,8 @@ hyper: [[modality]]
 hyper: [[exteroception]]
 g: the ability to see; the visual faculty
 
-w: <<photosensitivity>> drf [[file:adj.all.org::photosensitive]]
-w: <<radiosensitivity>> drf [[file:adj.all.org::radiosensitive]]
+w: <<photosensitivity>> drf [[file:adjs.all.org::photosensitive]]
+w: <<radiosensitivity>> drf [[file:adjs.all.org::radiosensitive]]
 hyper: [[sensitivity]]
 g: sensitivity to the action of radiant energy
 
@@ -13146,16 +13146,16 @@ hyper: [[sensitivity]]
 g: sensitivity to stimuli originating outside of the body
 
 w: <<excitability>>
-w: <<irritability>> drf [[file:adj.all.org::irritable2]]
+w: <<irritability>> drf [[file:adjs.all.org::irritable2]]
 hyper: [[responsiveness]]
 g: excessive sensitivity of an organ or body part
 
 w: <<responsiveness>>
-w: <<reactivity>> drf [[file:adj.all.org::reactive]]
+w: <<reactivity>> drf [[file:adjs.all.org::reactive]]
 hyper: [[sensitivity]]
 g: responsive to stimulation
 
-w: <<hypersensitivity>> drf [[file:adj.all.org::hypersensitive]]
+w: <<hypersensitivity>> drf [[file:adjs.all.org::hypersensitive]]
 hyper: [[sensitivity]]
 g: extreme sensitivity
 
@@ -13163,9 +13163,9 @@ w: <<acuteness1>>
 hyper: [[sensitivity]]
 g: a sensitivity that is keen and highly developed; "dogs have a remarkable acuteness of smell"
 
-w: <<sensitivity>> drf [[file:adj.all.org::sensitive]] drf [[file:adj.all.org::sensitive1]]
+w: <<sensitivity>> drf [[file:adjs.all.org::sensitive]] drf [[file:adj.all.org::sensitive1]]
 w: <<sensitiveness>> drf [[file:adj.all.org::sensitive4]]
-w: <<sensibility1>> drf [[file:adj.all.org::sensible]] drf [[file:adj.all.org::sensible]]
+w: <<sensibility1>> drf [[file:adjs.all.org::sensible]] drf [[file:adj.all.org::sensible]]
 hyper: [[sense2]]
 dt: [[physiology]]
 g: (physiology) responsiveness to external stimuli; the faculty of sensation; "sensitivity to pain"
@@ -13174,7 +13174,7 @@ w: <<velleity>>
 hyper: [[volition]]
 g: volition in its weakest form
 
-w: <<volition>> drf [[file:adj.all.org::volitional]]
+w: <<volition>> drf [[file:adjs.all.org::volitional]]
 w: <<will>> drf [[file:verb.cognition.org::will1]]
 hyper: [[faculty]]
 g: the capability of conscious choice and decision and intention; "the exercise of their volition we construe as revolt"- George Meredith
@@ -13185,10 +13185,10 @@ w: <<sensory_system>>
 hyper: [[sense2]]
 g: a particular sense
 
-w: <<sense2>> drf [[file:adj.all.org::sensorial]] drf [[file:adj.all.org::sensuous]] drf [[file:verb.perception.org::sense2]] drf [[file:verb.perception.org::sense]] drf [[file:verb.change.org::sensify]]
+w: <<sense2>> drf [[file:adj.all.org::sensorial]] drf [[file:adjs.all.org::sensuous]] drf [[file:verb.perception.org::sense2]] drf [[file:verb.perception.org::sense]] drf [[file:verb.change.org::sensify]]
 w: <<sensation1>> drf [[file:verb.perception.org::sense]]
-w: <<sentience>> drf [[file:adj.all.org::sentient]]
-w: <<sentiency>> drf [[file:adj.all.org::sentient]]
+w: <<sentience>> drf [[file:adjs.all.org::sentient]]
+w: <<sentiency>> drf [[file:adjs.all.org::sentient]]
 w: <<sensory_faculty>>
 hyper: [[faculty]]
 g: the faculty through which the external world is apprehended; "in the dark he had to depend on touch and on his senses of smell and hearing"
@@ -13237,12 +13237,12 @@ w: <<conventionality>> drf [[file:adj.all.org::conventional1]] ant [[unconventio
 hyper: [[unoriginality]]
 g: unoriginality as a result of being too conventional
 
-w: <<camp>> drf [[file:adj.all.org::campy]] drf [[file:verb.change.org::camp]]
+w: <<camp>> drf [[file:adjs.all.org::campy]] drf [[file:verb.change.org::camp]]
 hyper: [[triteness]]
 g: something that is considered amusing not because of its originality but because of its unoriginality; "the living room was pure camp"
 
-w: <<triteness>> drf [[file:adj.all.org::trite]]
-w: <<staleness>> drf [[file:adj.all.org::stale]]
+w: <<triteness>> drf [[file:adjs.all.org::trite]]
+w: <<staleness>> drf [[file:adjs.all.org::stale]]
 hyper: [[unoriginality]]
 g: unoriginality as a result of being dull and hackneyed
 
@@ -13259,32 +13259,32 @@ hyper: [[inability]]
 g: a lack of creativity
 
 w: <<illiteracy>> ant [[literacy]]
-w: <<analphabetism>> drf [[file:adj.all.org::analphabetic]]
+w: <<analphabetism>> drf [[file:adjs.all.org::analphabetic]]
 hyper: [[inability]]
 g: an inability to read
 
-w: <<amateurishness>> drf [[file:adj.all.org::amateurish]]
+w: <<amateurishness>> drf [[file:adjs.all.org::amateurish]]
 hyper: [[unskillfulness]]
 g: something that demonstrates a lack of professional competency
 
-w: <<inefficiency>> drf [[file:adj.all.org::inefficient]] drf [[file:adj.all.org::inefficient]] ant [[efficiency]]
+w: <<inefficiency>> drf [[file:adjs.all.org::inefficient]] drf [[file:adj.all.org::inefficient]] ant [[efficiency]]
 hyper: [[unskillfulness]]
 g: unskillfulness resulting from a lack of efficiency
 
-w: <<rustiness>> drf [[file:adj.all.org::rusty]]
+w: <<rustiness>> drf [[file:adjs.all.org::rusty]]
 hyper: [[awkwardness1]]
 g: ineptitude or awkwardness as a consequence of age or lack of practice; "his rustiness showed when he was asked to speed up"
 
-w: <<awkwardness1>> drf [[file:adj.all.org::awkward]] drf [[file:adj.all.org::awkward]]
-w: <<clumsiness1>> drf [[file:adj.all.org::clumsy]]
-w: <<ineptness>> drf [[file:adj.all.org::inept]]
+w: <<awkwardness1>> drf [[file:adjs.all.org::awkward]] drf [[file:adj.all.org::awkward]]
+w: <<clumsiness1>> drf [[file:adjs.all.org::clumsy]]
+w: <<ineptness>> drf [[file:adjs.all.org::inept]]
 w: <<ineptitude>>
 w: <<maladroitness>> drf [[file:adj.all.org::maladroit]]
-w: <<slowness2>> drf [[file:adj.all.org::slow]]
+w: <<slowness2>> drf [[file:adjs.all.org::slow]]
 hyper: [[unskillfulness]]
 g: unskillfulness resulting from a lack of training
 
-w: <<unskillfulness>> drf [[file:adj.all.org::unskillful]] ant [[skillfulness]]
+w: <<unskillfulness>> drf [[file:adjs.all.org::unskillful]] ant [[skillfulness]]
 hyper: [[inability]]
 g: a lack of cognitive skill
 
@@ -13292,7 +13292,7 @@ w: <<incapacity>> ant [[capacity]]
 hyper: [[inability]]
 g: lack of intellectual power
 
-w: <<imperfectibility>> drf [[file:adj.all.org::imperfectible]] ant [[perfectibility]]
+w: <<imperfectibility>> drf [[file:adjs.all.org::imperfectible]] ant [[perfectibility]]
 hyper: [[capability]]
 g: the capability of becoming imperfect
 
@@ -13309,18 +13309,18 @@ w: <<inaptitude>> ant [[aptitude]]
 hyper: [[inability]]
 g: a lack of aptitude
 
-w: <<vacuousness>> drf [[file:adj.all.org::vacuous]]
+w: <<vacuousness>> drf [[file:adjs.all.org::vacuous]]
 hyper: [[stupidity]]
 g: indicative of or marked by mental vacuity and an absence of ideas; "the vacuousness of her face belied her feelings"
 
 w: <<folly>>
 w: <<foolishness>> drf [[file:adj.all.org::foolish]]
-w: <<craziness>> drf [[file:adj.all.org::crazy]]
-w: <<madness>> drf [[file:adj.all.org::mad]]
+w: <<craziness>> drf [[file:adjs.all.org::crazy]]
+w: <<madness>> drf [[file:adjs.all.org::mad]]
 hyper: [[stupidity]]
 g: the quality of being rash and foolish; "trying to drive through a blizzard is the height of folly"; "adjusting to an insane society is total foolishness"
 
-w: <<imbecility>> drf [[file:adj.all.org::imbecile]]
+w: <<imbecility>> drf [[file:adjs.all.org::imbecile]]
 hyper: [[retardation]]
 g: retardation more severe than a moron but not as severe as an idiot
 
@@ -13334,7 +13334,7 @@ w: <<mental_deficiency>>
 hyper: [[retardation]]
 g: mild mental retardation
 
-w: <<feeblemindedness>> drf [[file:adj.all.org::feebleminded]]
+w: <<feeblemindedness>> drf [[file:adjs.all.org::feebleminded]]
 hyper: [[abnormality1]]
 g: severe mental deficiency
 
@@ -13345,20 +13345,20 @@ g: retardation sufficient to fall outside the normal range of intelligence
 
 w: <<retardation>> drf [[file:verb.change.org::retard7]]
 w: <<mental_retardation>>
-w: <<backwardness>> drf [[file:adj.all.org::backward]]
-w: <<slowness1>> drf [[file:adj.all.org::slow]]
-w: <<subnormality>> drf [[file:adj.all.org::subnormal]]
+w: <<backwardness>> drf [[file:adjs.all.org::backward]]
+w: <<slowness1>> drf [[file:adjs.all.org::slow]]
+w: <<subnormality>> drf [[file:adjs.all.org::subnormal]]
 hyper: [[stupidity]]
 g: lack of normal development of intellectual capacities
 
-w: <<dullness3>> drf [[file:adj.all.org::dull]]
-w: <<obtuseness1>> drf [[file:adj.all.org::obtuse]] drf [[file:adj.all.org::obtuse]]
+w: <<dullness3>> drf [[file:adjs.all.org::dull]]
+w: <<obtuseness1>> drf [[file:adjs.all.org::obtuse]] drf [[file:adjs.all.org::obtuse]]
 hyper: [[stupidity]]
 g: the quality of being slow to understand
 
-w: <<denseness1>> drf [[file:adj.all.org::dense]]
-w: <<dumbness>> drf [[file:adj.all.org::dumb]]
-w: <<slow-wittedness>> drf [[file:adj.all.org::slow-witted]]
+w: <<denseness1>> drf [[file:adjs.all.org::dense]]
+w: <<dumbness>> drf [[file:adjs.all.org::dumb]]
+w: <<slow-wittedness>> drf [[file:adjs.all.org::slow-witted]]
 hyper: [[stupidity]]
 g: the quality of being mentally slow and limited
 
@@ -13379,7 +13379,7 @@ w: <<inability>> ant [[ability]]
 hyper: [[file:noun.Tops.org::cognition]]
 g: lack of ability (especially mental ability) to do something
 
-w: <<economy1>> drf [[file:adj.all.org::economic]] drf [[file:adj.all.org::economical]] drf [[file:noun.person.org::economist]] drf [[file:verb.possession.org::economize2]] drf [[file:verb.possession.org::economize]]
+w: <<economy1>> drf [[file:adjs.all.org::economic]] drf [[file:adjs.all.org::economical]] drf [[file:noun.person.org::economist]] drf [[file:verb.possession.org::economize2]] drf [[file:verb.possession.org::economize]]
 hyper: [[efficiency]]
 g: the efficient use of resources; "economy of effort"
 
@@ -13419,7 +13419,7 @@ w: <<brushwork>>
 hyper: [[proficiency]]
 g: an artist's distinctive technique of applying paint with a brush
 
-w: <<proficiency>> drf [[file:adj.all.org::proficient]]
+w: <<proficiency>> drf [[file:adjs.all.org::proficient]]
 w: <<technique1>> drf [[file:adj.pert.org::technical]] drf [[file:noun.person.org::technician1]] drf [[file:noun.person.org::technician]]
 hyper: [[skillfulness]]
 g: skillfulness in the command of fundamentals deriving from practice and familiarity; "practice greatly improves proficiency"
@@ -13428,11 +13428,11 @@ w: <<disfluency>> ant [[fluency2]]
 hyper: [[unskillfulness]]
 g: lack of skillfulness in speaking or writing
 
-w: <<fluency2>> ant [[disfluency]] drf [[file:adj.all.org::fluent]]
+w: <<fluency2>> ant [[disfluency]] drf [[file:adjs.all.org::fluent]]
 hyper: [[skillfulness]]
 g: skillfulness in speaking or writing
 
-w: <<dexterity>> drf [[file:adj.all.org::dextrous]]
+w: <<dexterity>> drf [[file:adjs.all.org::dextrous]]
 w: <<manual_dexterity>>
 w: <<sleight>>
 hyper: [[adeptness]]
@@ -13448,11 +13448,11 @@ w: <<touch3>>
 hyper: [[adeptness]]
 g: deftness in handling matters; "he has a master's touch"
 
-w: <<adeptness>> drf [[file:adj.all.org::adept]]
+w: <<adeptness>> drf [[file:adjs.all.org::adept]]
 w: <<adroitness>> drf [[file:adj.all.org::adroit]]
-w: <<deftness>> drf [[file:adj.all.org::deft2]]
-w: <<facility>> drf [[file:adj.all.org::facile]]
-w: <<quickness1>> drf [[file:adj.all.org::quick]]
+w: <<deftness>> drf [[file:adjs.all.org::deft2]]
+w: <<facility>> drf [[file:adjs.all.org::facile]]
+w: <<quickness1>> drf [[file:adjs.all.org::quick]]
 hyper: [[skillfulness]]
 g: skillful performance or ability without difficulty; "his quick adeptness was a product of good design"; "he was famous for his facility as an archer"
 
@@ -13462,7 +13462,7 @@ w: <<mastery>> drf [[file:verb.cognition.org::master1]]
 hyper: [[skillfulness]]
 g: great skillfulness and knowledge of some subject or activity; "a good command of French"
 
-w: <<versatility>> drf [[file:adj.all.org::versatile]] drf [[file:adj.all.org::versatile]]
+w: <<versatility>> drf [[file:adjs.all.org::versatile]] drf [[file:adjs.all.org::versatile]]
 hyper: [[skillfulness]]
 g: having a wide variety of skills
 
@@ -13474,7 +13474,7 @@ w: <<coordination>> drf [[file:verb.social.org::coordinate1]] drf [[file:verb.so
 hyper: [[skillfulness]]
 g: the skillful and effective interaction of movements
 
-w: <<coordination1>> drf [[file:adj.all.org::coordinate]]
+w: <<coordination1>> drf [[file:adjs.all.org::coordinate]]
 hyper: [[classification]]
 g: being of coordinate importance, rank, or degree
 
@@ -13486,16 +13486,16 @@ w: <<professionalism>>
 hyper: [[expertness]]
 g: the expertness characteristic of a professional person
 
-w: <<handiness>> drf [[file:adj.all.org::handy]]
+w: <<handiness>> drf [[file:adjs.all.org::handy]]
 hyper: [[skillfulness]]
 g: skillfulness with the hands; "he can do any sort of work requiring handiness and dexterity"
 
-w: <<expertness>> drf [[file:adj.all.org::expert]]
-w: <<expertise>> drf [[file:adj.all.org::expert5]]
+w: <<expertness>> drf [[file:adjs.all.org::expert]]
+w: <<expertise>> drf [[file:adjs.all.org::expert5]]
 hyper: [[skillfulness]]
 g: skillfulness by virtue of possessing special knowledge
 
-w: <<skillfulness>> drf [[file:adj.all.org::skillful]] ant [[unskillfulness]]
+w: <<skillfulness>> drf [[file:adjs.all.org::skillful]] ant [[unskillfulness]]
 hyper: [[file:noun.Tops.org::state]]
 g: the state of being cognitively skillful
 
@@ -13605,7 +13605,7 @@ w: <<ventriloquy>> drf [[file:noun.person.org::ventriloquist]]
 hyper: [[art]]
 g: the art of projecting your voice so that it seems to come from another source (as from a ventriloquist's dummy)
 
-w: <<telescopy>> drf [[file:adj.all.org::telescopic]]
+w: <<telescopy>> drf [[file:adjs.all.org::telescopic]]
 hyper: [[art]]
 g: the art of making and using telescopes
 
@@ -13646,7 +13646,7 @@ w: <<falconry>> drf [[file:verb.competition.org::falcon]]
 hyper: [[art]]
 g: the art of training falcons to hunt and return
 
-w: <<eristic>> drf [[file:adj.all.org::eristic]]
+w: <<eristic>> drf [[file:adjs.all.org::eristic]]
 hyper: [[art]]
 g: the art of logical disputation (especially if specious)
 
@@ -13656,7 +13656,7 @@ hyper: [[art]]
 g: the art of operating aircraft
 
 w: <<novelty>>
-w: <<freshness>> drf [[file:adj.all.org::fresh]]
+w: <<freshness>> drf [[file:adjs.all.org::fresh]]
 hyper: [[originality]]
 g: originality by virtue of being new and surprising
 
@@ -13664,7 +13664,7 @@ w: <<unconventionality>> drf [[file:adj.all.org::unconventional]] ant [[conventi
 hyper: [[originality]]
 g: originality by virtue of being unconventional
 
-w: <<innovativeness>> drf [[file:adj.all.org::innovative]] drf [[file:adj.all.org::innovative]]
+w: <<innovativeness>> drf [[file:adjs.all.org::innovative]] drf [[file:adjs.all.org::innovative]]
 hyper: [[originality]]
 g: originality by virtue of introducing new ideas
 
@@ -13687,20 +13687,20 @@ hyper: [[resource]]
 g: a collection of resources; "he dipped into his intellectual armory to find an answer"
 
 w: <<resource>>
-w: <<resourcefulness>> drf [[file:adj.all.org::resourceful]]
+w: <<resourcefulness>> drf [[file:adjs.all.org::resourceful]]
 w: <<imagination3>>
 hyper: [[inventiveness]]
 g: the ability to deal resourcefully with unusual problems; "a man of resource"
 
-w: <<inventiveness>> drf [[file:adj.all.org::inventive]]
+w: <<inventiveness>> drf [[file:adjs.all.org::inventive]]
 w: <<ingeniousness1>>
-w: <<ingenuity1>> drf [[file:adj.all.org::ingenious]]
+w: <<ingenuity1>> drf [[file:adjs.all.org::ingenious]]
 w: <<cleverness1>>
 hyper: [[creativity]]
 g: the power of creative imagination
 
 w: <<invention>> drf [[file:verb.creation.org::invent]]
-w: <<innovation>> drf [[file:adj.all.org::innovational]]
+w: <<innovation>> drf [[file:adjs.all.org::innovational]]
 w: <<excogitation1>> drf [[file:verb.creation.org::excogitate]]
 w: <<conception3>> drf [[file:verb.creation.org::conceive]]
 w: <<design>> drf [[file:verb.creation.org::design]] drf [[file:verb.creation.org::design2]]
@@ -13727,7 +13727,7 @@ w: <<dream3>>
 hyper: [[fantasy]]
 g: a fantastic but vain hope (from fantasies induced by the opium pipe); "I have this pipe dream about being emperor of the universe"
 
-w: <<fantasy>> drf [[file:adj.all.org::fantastical]] drf [[file:adj.all.org::fantastic]] drf [[file:adj.all.org::fantastic]] drf [[file:noun.person.org::fantasist]] drf [[file:verb.creation.org::fantasy]] drf [[file:verb.creation.org::fantasize]]
+w: <<fantasy>> drf [[file:adjs.all.org::fantastical]] drf [[file:adjs.all.org::fantastic]] drf [[file:adjs.all.org::fantastic]] drf [[file:noun.person.org::fantasist]] drf [[file:verb.creation.org::fantasy]] drf [[file:verb.creation.org::fantasize]]
 w: <<phantasy>>
 hyper: [[imagination1]]
 g: imagination unrestricted by reality; "a schoolgirl fantasy"
@@ -13783,7 +13783,7 @@ w: <<Lilliput>> drf [[file:adj.pert.org::Lilliputian]]
 hyper: [[imaginary_place]]
 g: a land imagined by Jonathan Swift that was inhabited by tiny people
 
-w: <<Laputa>> drf [[file:adj.all.org::Laputan]] drf [[file:adj.pert.org::Laputan]]
+w: <<Laputa>> drf [[file:adjs.all.org::Laputan]] drf [[file:adj.pert.org::Laputan]]
 hyper: [[imaginary_place]]
 g: a land imagined by Jonathan Swift where impractical projects were pursued and practical projects neglected
 
@@ -13793,7 +13793,7 @@ hyper: [[Hell]]
 g: a place of eternal fire envisaged as punishment for the damned
 
 w: <<Gehenna>>
-w: <<Tartarus>> drf [[file:adj.all.org::Tartarean]]
+w: <<Tartarus>> drf [[file:adjs.all.org::Tartarean]]
 hyper: [[Hell]]
 g: a place where the wicked are punished after death
 
@@ -13831,7 +13831,7 @@ w: <<Promised_Land>>
 hyper: [[Heaven]]
 g: the goal towards which Christians strive
 
-w: <<Paradise>> drf [[file:adj.all.org::paradisal]] drf [[file:adj.all.org::paradisiacal]]
+w: <<Paradise>> drf [[file:adjs.all.org::paradisal]] drf [[file:adjs.all.org::paradisiacal]]
 hyper: [[Heaven]]
 dt: [[Christianity]]
 g: (Christianity) the abode of righteous souls after death
@@ -13919,7 +13919,7 @@ hyper: [[imagination1]]
 g: a place that exists only in imagination; a place said to exist in fictional or religious writings
 
 w: <<imagination1>> drf [[file:verb.creation.org::imagine]]
-w: <<imaginativeness>> drf [[file:adj.all.org::imaginative]]
+w: <<imaginativeness>> drf [[file:adjs.all.org::imaginative]]
 w: <<vision4>>
 hyper: [[creativity]]
 g: the formation of a mental image of something that is not perceived as real and is not present to the senses; "popular imagination created a world of demons"; "imagination reveals what the world could be"
@@ -13933,13 +13933,13 @@ w: <<flight>>
 hyper: [[creativity]]
 g: passing above and beyond ordinary bounds; "a flight of fancy"; "flights of rhetoric"; "flights of imagination"
 
-w: <<fecundity>> drf [[file:adj.all.org::fecund]]
+w: <<fecundity>> drf [[file:adjs.all.org::fecund]]
 w: <<fruitfulness>>
 hyper: [[creativity]]
 g: the intellectual productivity of a creative imagination
 
-w: <<creativity>> drf [[file:adj.all.org::creative]] drf [[file:adj.all.org::creative]]
-w: <<creativeness>> drf [[file:adj.all.org::creative]] drf [[file:adj.all.org::creative]] ant [[uncreativeness]]
+w: <<creativity>> drf [[file:adjs.all.org::creative]] drf [[file:adj.all.org::creative]]
+w: <<creativeness>> drf [[file:adjs.all.org::creative]] drf [[file:adj.all.org::creative]] ant [[uncreativeness]]
 w: <<creative_thinking>>
 hyper: [[ability]]
 attr: [[file:adj.all.org::creative]]
@@ -13984,12 +13984,12 @@ w: <<grasp1>>
 hyper: [[capability]]
 g: the limit of capability; "within the compass of education"
 
-w: <<perfectibility>> drf [[file:adj.all.org::perfectible]] ant [[imperfectibility]]
+w: <<perfectibility>> drf [[file:adjs.all.org::perfectible]] ant [[imperfectibility]]
 hyper: [[capability]]
 g: the capability of becoming perfect; "he believes in the ultimate perfectibility of man"
 
-w: <<capability>> drf [[file:adj.all.org::capable]] ant [[incapability]]
-w: <<capableness>> drf [[file:adj.all.org::capable]]
+w: <<capability>> drf [[file:adjs.all.org::capable]] ant [[incapability]]
+w: <<capableness>> drf [[file:adjs.all.org::capable]]
 w: <<potentiality>>
 hyper: [[aptitude]]
 attr: [[file:adj.all.org::capable]]
@@ -14023,36 +14023,36 @@ w: <<street_smarts>>
 hyper: [[shrewdness]]
 g: a shrewd ability to survive in a dangerous urban environment
 
-w: <<knowingness1>> drf [[file:adj.all.org::knowing]] drf [[file:adj.all.org::knowing]]
+w: <<knowingness1>> drf [[file:adjs.all.org::knowing]] drf [[file:adjs.all.org::knowing]]
 hyper: [[shrewdness]]
 g: shrewdness demonstrated by knowledge
 
-w: <<insightfulness>> drf [[file:adj.all.org::insightful]]
+w: <<insightfulness>> drf [[file:adjs.all.org::insightful]]
 w: <<acumen>> drf [[file:verb.change.org::acuminate]]
 hyper: [[shrewdness]]
 g: shrewdness shown by keen insight
 
-w: <<shrewdness>> drf [[file:adj.all.org::shrewd]] drf [[file:adj.all.org::shrewd]]
-w: <<astuteness>> drf [[file:adj.all.org::astute]]
-w: <<perspicacity>> drf [[file:adj.all.org::perspicacious]]
-w: <<perspicaciousness>> drf [[file:adj.all.org::perspicacious]] drf [[file:adj.all.org::perspicacious]]
+w: <<shrewdness>> drf [[file:adjs.all.org::shrewd]] drf [[file:adjs.all.org::shrewd]]
+w: <<astuteness>> drf [[file:adjs.all.org::astute]]
+w: <<perspicacity>> drf [[file:adjs.all.org::perspicacious]]
+w: <<perspicaciousness>> drf [[file:adjs.all.org::perspicacious]] drf [[file:adjs.all.org::perspicacious]]
 hyper: [[intelligence]]
 dt: [[file:noun.act.org::commercial_enterprise]]
 g: intelligence manifested by being astute (as in business dealings)
 
-w: <<craft>> drf [[file:adj.all.org::crafty]]
-w: <<craftiness>> drf [[file:adj.all.org::crafty]]
+w: <<craft>> drf [[file:adjs.all.org::crafty]]
+w: <<craftiness>> drf [[file:adjs.all.org::crafty]]
 w: <<cunning1>>
-w: <<foxiness>> drf [[file:adj.all.org::foxy]]
+w: <<foxiness>> drf [[file:adjs.all.org::foxy]]
 w: <<guile1>>
-w: <<slyness>> drf [[file:adj.all.org::sly]]
-w: <<wiliness>> drf [[file:adj.all.org::wily]]
+w: <<slyness>> drf [[file:adjs.all.org::sly]]
+w: <<wiliness>> drf [[file:adjs.all.org::wily]]
 hyper: [[shrewdness]]
 g: shrewdness as demonstrated by being skilled in deception
 
-w: <<brightness>> drf [[file:adj.all.org::bright]] drf [[file:adj.all.org::bright]]
-w: <<cleverness>> drf [[file:adj.all.org::clever]]
-w: <<smartness1>> drf [[file:adj.all.org::smart]] drf [[file:adj.all.org::smart]]
+w: <<brightness>> drf [[file:adjs.all.org::bright]] drf [[file:adjs.all.org::bright]]
+w: <<cleverness>> drf [[file:adjs.all.org::clever]]
+w: <<smartness1>> drf [[file:adjs.all.org::smart]] drf [[file:adj.all.org::smart]]
 hyper: [[intelligence]]
 g: intelligence as manifested in being quick and witty
 
@@ -14060,10 +14060,10 @@ w: <<steel_trap>>
 hyper: [[acuteness]]
 g: an acute intelligence (an analogy based on the well-known sharpness of steel traps); "he's as sharp as a steel trap"; "a mind like a steel trap"
 
-w: <<acuteness>> drf [[file:adj.all.org::acute]]
+w: <<acuteness>> drf [[file:adjs.all.org::acute]]
 w: <<acuity>>
-w: <<sharpness1>> drf [[file:adj.all.org::sharp]] drf [[file:adj.all.org::sharp]]
-w: <<keenness>> drf [[file:adj.all.org::keen]]
+w: <<sharpness1>> drf [[file:adjs.all.org::sharp]] drf [[file:adjs.all.org::sharp]]
+w: <<keenness>> drf [[file:adjs.all.org::keen]]
 hyper: [[intelligence]]
 g: a quick and penetrating intelligence; "he argued with great acuteness"; "I admired the keenness of his mind"
 
@@ -14085,19 +14085,19 @@ w: <<coruscation>> drf [[file:verb.change.org::coruscate]]
 hyper: [[brilliance]]
 g: a sudden or striking display of brilliance; "coruscations of great wit"
 
-w: <<brilliance>> drf [[file:adj.all.org::brilliant]]
+w: <<brilliance>> drf [[file:adjs.all.org::brilliant]]
 w: <<genius2>>
 hyper: [[intelligence]]
 g: unusual mental ability
 
-w: <<nimbleness>> drf [[file:adj.all.org::nimble]]
+w: <<nimbleness>> drf [[file:adjs.all.org::nimble]]
 w: <<mental_dexterity>>
 hyper: [[intelligence]]
 g: intelligence as revealed by quickness and alertness of mind; "nimbleness of wit and imagination"
 
 w: <<mental_quickness>>
-w: <<quickness>> drf [[file:adj.all.org::quick]]
-w: <<quick-wittedness>> drf [[file:adj.all.org::quick-witted]]
+w: <<quickness>> drf [[file:adjs.all.org::quick]]
+w: <<quick-wittedness>> drf [[file:adjs.all.org::quick-witted]]
 hyper: [[intelligence]]
 g: intelligence as revealed by an ability to give correct responses without delay
 
@@ -14122,12 +14122,12 @@ hyper: [[breadth]]
 g: intellectual breadth; "the very capaciousness of the idea meant that agreement on fundamentals was unnecessary"; "his unselfishness gave him great intellectual roominess"
 
 w: <<breadth>>
-w: <<comprehensiveness>> drf [[file:adj.all.org::comprehensive]]
-w: <<largeness>> drf [[file:adj.all.org::comprehensive]]
+w: <<comprehensiveness>> drf [[file:adjs.all.org::comprehensive]]
+w: <<largeness>> drf [[file:adjs.all.org::comprehensive]]
 hyper: [[intelligence]]
 g: the capacity to understand a broad range of topics; "a teacher must have a breadth of knowledge of the subject"; "a man distinguished by the largeness and scope of his views"
 
-w: <<brain>> drf [[file:adj.all.org::brainy]]
+w: <<brain>> drf [[file:adjs.all.org::brainy]]
 w: <<brainpower>>
 w: <<learning_ability>>
 w: <<mental_capacity>>
@@ -14136,7 +14136,7 @@ w: <<wit>>
 hyper: [[intelligence]]
 g: mental ability; "he's got plenty of brains but no common sense"
 
-w: <<intelligence>> drf [[file:adj.all.org::intelligent]] drf [[file:adj.all.org::intelligent]] ant [[stupidity]]
+w: <<intelligence>> drf [[file:adjs.all.org::intelligent]] drf [[file:adj.all.org::intelligent]] ant [[stupidity]]
 hyper: [[ability]]
 attr: [[file:adj.all.org::intelligent]]
 attr: [[file:adj.all.org::unintelligent]]
@@ -14152,7 +14152,7 @@ hyper: [[ability]]
 g: the ability to lead; "he believed that leadership can be taught"
 
 w: <<wisdom1>>
-w: <<sapience>> drf [[file:adj.all.org::sapient]]
+w: <<sapience>> drf [[file:adjs.all.org::sapient]]
 hyper: [[know-how]]
 g: ability to apply knowledge or experience or understanding or common sense and insight
 
@@ -14164,13 +14164,13 @@ w: <<know-how>>
 hyper: [[ability]]
 g: the (technical) knowledge and skill required to do something
 
-w: <<ability>> drf [[file:adj.all.org::able]] drf [[file:adj.all.org::able]] drf [[file:adj.all.org::able]] ant [[inability]]
+w: <<ability>> drf [[file:adjs.all.org::able]] drf [[file:adjs.all.org::able]] drf [[file:adj.all.org::able]] ant [[inability]]
 w: <<power1>>
 hyper: [[file:noun.Tops.org::cognition]]
 attr: [[file:adj.all.org::able]]
 g: possession of the qualities (especially mental qualities) required to do something or get something done; "danger heightened his powers of discrimination"
 
-w: <<injudiciousness>> drf [[file:adj.all.org::injudicious]] ant [[judiciousness]]
+w: <<injudiciousness>> drf [[file:adjs.all.org::injudicious]] ant [[judiciousness]]
 w: <<indiscreetness>> drf [[file:adj.all.org::indiscreet]]
 hyper: [[sagacity]]
 g: lacking good judgment
@@ -14182,18 +14182,18 @@ w: <<forethought>>
 hyper: [[judiciousness]]
 g: judiciousness in avoiding harm or danger; "he exercised caution in opening the door"; "he handled the vase with care"
 
-w: <<confidentiality>> drf [[file:adj.all.org::confidential2]]
+w: <<confidentiality>> drf [[file:adjs.all.org::confidential2]]
 hyper: [[discretion]]
 g: discretion in keeping secret information
 
 w: <<discretion>>
-w: <<discreetness>> drf [[file:adj.all.org::discreet]]
+w: <<discreetness>> drf [[file:adjs.all.org::discreet]]
 w: <<circumspection>>
 w: <<prudence>> drf [[file:adj.all.org::prudent]]
 hyper: [[sagacity]]
 g: knowing how to avoid embarrassment or distress; "the servants showed great tact and discretion"
 
-w: <<judiciousness>> drf [[file:adj.all.org::judicious]] ant [[injudiciousness]]
+w: <<judiciousness>> drf [[file:adjs.all.org::judicious]] ant [[injudiciousness]]
 hyper: [[sagacity]]
 g: good judgment
 
@@ -14210,7 +14210,7 @@ w: <<logic2>>
 hyper: [[common_sense]]
 g: reasoned and reasonable judgment; "it made a certain kind of logic"
 
-w: <<common_sense>> drf [[file:adj.all.org::commonsensical]]
+w: <<common_sense>> drf [[file:adjs.all.org::commonsensical]]
 w: <<good_sense>>
 w: <<gumption>>
 w: <<horse_sense>>
@@ -14223,8 +14223,8 @@ w: <<eye>> drf [[file:verb.perception.org::eye]]
 hyper: [[sagacity]]
 g: good discernment (either visually or as if visually); "she has an eye for fresh talent"; "he has an artist's eye"
 
-w: <<sagacity>> drf [[file:adj.all.org::sagacious]]
-w: <<sagaciousness>> drf [[file:adj.all.org::sagacious]]
+w: <<sagacity>> drf [[file:adjs.all.org::sagacious]]
+w: <<sagaciousness>> drf [[file:adjs.all.org::sagacious]]
 w: <<judgment1>>
 w: <<judgement1>>
 w: <<discernment>>
@@ -14235,7 +14235,7 @@ w: <<astuteness1>>
 w: <<profundity>> drf [[file:adj.all.org::profound]]
 w: <<profoundness>> drf [[file:adj.all.org::profound]]
 w: <<depth>>
-w: <<deepness>> drf [[file:adj.all.org::deep]]
+w: <<deepness>> drf [[file:adjs.all.org::deep]]
 hyper: [[wisdom1]]
 g: the intellectual ability to penetrate deeply into ideas
 
@@ -14252,7 +14252,7 @@ dt: [[file:noun.act.org::psychoanalysis]]
 g: (psychoanalysis) that part of the unconscious mind that acts as a conscience
 
 w: <<subconscious_mind>>
-w: <<subconscious>> drf [[file:adj.all.org::subconscious]]
+w: <<subconscious>> drf [[file:adjs.all.org::subconscious]]
 hyper: [[mind]]
 g: psychic activity just below the level of awareness
 
@@ -14270,7 +14270,7 @@ w: <<tabula_rasa>>
 hyper: [[mind]]
 g: a young mind not yet affected by experience (according to John Locke)
 
-w: <<open>> drf [[file:adj.all.org::open]] drf [[file:verb.possession.org::open4]]
+w: <<open>> drf [[file:adjs.all.org::open]] drf [[file:verb.possession.org::open4]]
 w: <<surface1>> drf [[file:verb.change.org::surface]]
 hyper: [[public_knowledge]]
 g: information that has become public; "all the reports were out in the open"; "the facts had been brought to the surface"
@@ -14308,7 +14308,7 @@ g: an informal British expression for head or mind; "use your noddle"
 w: <<mind>> drf [[file:verb.cognition.org::mind]]
 w: <<head>>
 w: <<brain1>>
-w: <<psyche>> drf [[file:adj.all.org::psychical]] drf [[file:adj.all.org::psychic]]
+w: <<psyche>> drf [[file:adjs.all.org::psychical]] drf [[file:adjs.all.org::psychic]]
 w: <<nous>>
 hyper: [[file:noun.Tops.org::cognition]]
 g: that which is responsible for one's thoughts and feelings; the seat of the faculty of reason; "his mind wandered"; "I couldn't get his words out of my head"

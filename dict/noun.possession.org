@@ -1403,7 +1403,7 @@ w: <<silver>>
 hyper: [[precious_metal]]
 g: coins made of silver
 
-w: <<gold>> drf [[file:adj.all.org::gold]]
+w: <<gold>> drf [[file:adjs.all.org::gold]]
 hyper: [[precious_metal]]
 g: coins made of gold
 
@@ -1894,7 +1894,7 @@ w: <<gold1>>
 hyper: [[wealth2]]
 g: great wealth; "Whilst that for which all virtue now is sold, and almost every vice--almighty gold"--Ben Jonson
 
-w: <<wealth2>> drf [[file:adj.all.org::wealthy]]
+w: <<wealth2>> drf [[file:adjs.all.org::wealthy]]
 w: <<riches>>
 hyper: [[material_resource]]
 g: an abundance of material possessions and resources
@@ -1908,7 +1908,7 @@ w: <<guaranty>>
 hyper: [[collateral]]
 g: a collateral agreement to answer for the debt of another in case that person defaults
 
-w: <<collateral>> drf [[file:adj.all.org::collateral]]
+w: <<collateral>> drf [[file:adjs.all.org::collateral]]
 hyper: [[security_interest]]
 g: a security pledged for the repayment of a loan
 
@@ -2109,7 +2109,7 @@ w: <<easy_street>>
 hyper: [[security1]]
 g: financial security
 
-w: <<security1>> drf [[file:adj.all.org::secure]]
+w: <<security1>> drf [[file:adjs.all.org::secure]]
 w: <<protection>>
 hyper: [[assets]]
 g: defense against financial failure; financial independence; "his pension gave him security in his old age"; "insurance provided protection against loss of wages due to illness"
@@ -2148,7 +2148,7 @@ hyper: [[speculation]]
 g: money that is risked for possible monetary gain
 
 w: <<speculation>> drf [[file:verb.possession.org::speculate]]
-w: <<venture>> drf [[file:adj.all.org::venturous]] drf [[file:verb.social.org::venture]]
+w: <<venture>> drf [[file:adjs.all.org::venturous]] drf [[file:verb.social.org::venture]]
 hyper: [[investment]]
 g: an investment that is very risky but could yield great profits; "he knew the stock was a speculation when he bought it"
 
@@ -2747,7 +2747,7 @@ w: <<fee>>
 hyper: [[fixed_charge]]
 g: a fixed charge for a privilege or for professional services
 
-w: <<usury1>> drf [[file:adj.all.org::usurious]]
+w: <<usury1>> drf [[file:adjs.all.org::usurious]]
 w: <<vigorish>>
 hyper: [[interest_rate]]
 g: an exorbitant or unlawful rate of interest
@@ -3214,7 +3214,7 @@ w: <<price2>>
 hyper: [[cost]]
 g: cost of bribing someone; "they say that every politician has a price"
 
-w: <<price>> drf [[file:adj.all.org::pricy]] drf [[file:adj.all.org::pricey]] drf [[file:verb.cognition.org::price]] drf [[file:verb.possession.org::price]]
+w: <<price>> drf [[file:adjs.all.org::pricy]] drf [[file:adjs.all.org::pricey]] drf [[file:verb.cognition.org::price]] drf [[file:verb.possession.org::price]]
 w: <<terms>>
 w: <<damage>>
 hyper: [[cost]]
@@ -4296,7 +4296,7 @@ dt: [[file:noun.group.org::law]]
 g: (law) a gift of real property by will
 
 w: <<birthright>>
-w: <<patrimony1>> drf [[file:adj.all.org::patrimonial]]
+w: <<patrimony1>> drf [[file:adjs.all.org::patrimonial]]
 hyper: [[inheritance]]
 g: an inheritance coming by right of birth (especially by primogeniture)
 
@@ -4307,7 +4307,7 @@ hyper: [[inheritance]]
 dt: [[file:noun.group.org::law]]
 g: (law) a gift of personal property by will
 
-w: <<accretion>> drf [[file:adj.all.org::accretionary]]
+w: <<accretion>> drf [[file:adjs.all.org::accretionary]]
 hyper: [[inheritance]]
 dt: [[file:noun.group.org::law]]
 g: (law) an increase in a beneficiary's share in an estate (as when a co-beneficiary dies or fails to meet some condition or rejects the inheritance)
@@ -4946,7 +4946,7 @@ w: <<severalty>>
 hyper: [[ownership]]
 g: exclusive individual ownership
 
-w: <<community>> drf [[file:adj.all.org::communal]]
+w: <<community>> drf [[file:adjs.all.org::communal]]
 hyper: [[ownership]]
 g: common ownership; "they shared a community of possessions"
 

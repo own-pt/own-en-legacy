@@ -290,7 +290,7 @@ hyper: [[file:verb.stative.org::bear1]]
 fr: 8
 g: have on the surface or on the skin; "carry scars"
 
-w: <<call9>> event [[file:noun.communication.org::call8]] drf [[file:adj.all.org::callable]] drf [[file:noun.communication.org::call8]]
+w: <<call9>> event [[file:noun.communication.org::call8]] drf [[file:adjs.all.org::callable]] drf [[file:noun.communication.org::call8]]
 w: <<call_in2>>
 vg: [[file:verb.communication.org::call12]]
 hyper: [[file:verb.communication.org::demand2]]
@@ -817,7 +817,7 @@ hyper: [[release]]
 fr: 8 15
 g: endure the loss of; "He gave his life for his children"; "I gave two sons to the war"
 
-w: <<bank2>> location [[file:noun.artifact.org::bank]] agent [[file:noun.group.org::bank]] drf [[file:adj.all.org::bankable]] drf [[file:noun.group.org::bank]] drf [[file:noun.artifact.org::bank]] drf [[file:noun.act.org::banking]]
+w: <<bank2>> location [[file:noun.artifact.org::bank]] agent [[file:noun.group.org::bank]] drf [[file:adjs.all.org::bankable]] drf [[file:noun.group.org::bank]] drf [[file:noun.artifact.org::bank]] drf [[file:noun.act.org::banking]]
 hyper: [[transact14]]
 fr: 22
 g: do business with a bank or keep an account at a bank; "Where do you bank in this town?"
@@ -828,7 +828,7 @@ hyper: [[file:verb.competition.org::act]]
 fr: 2
 g: act as the banker in a game or in gambling
 
-w: <<bank1>> location [[file:noun.artifact.org::bank]] agent [[file:noun.person.org::banker]] agent [[file:noun.group.org::bank]] drf [[file:adj.all.org::bankable]] drf [[file:noun.person.org::banker]] drf [[file:noun.group.org::bank]] drf [[file:noun.artifact.org::bank]] drf [[file:noun.act.org::banking1]]
+w: <<bank1>> location [[file:noun.artifact.org::bank]] agent [[file:noun.person.org::banker]] agent [[file:noun.group.org::bank]] drf [[file:adjs.all.org::bankable]] drf [[file:noun.person.org::banker]] drf [[file:noun.group.org::bank]] drf [[file:noun.artifact.org::bank]] drf [[file:noun.act.org::banking1]]
 hyper: [[file:verb.social.org::work]]
 vg: [[bank3]]
 fr: 2
@@ -1147,7 +1147,7 @@ hyper: [[heat]]
 fr: 8
 g: heat by means of steam
 
-w: <<heat>> uses [[file:noun.phenomenon.org::heat]] uses [[file:noun.cognition.org::heat]] uses [[file:noun.attribute.org::heat1]] instrument [[file:noun.artifact.org::heater]] by-means-of [[file:noun.artifact.org::heat]] drf [[file:adj.all.org::heatable]] drf [[file:noun.artifact.org::heat]] drf [[file:noun.cognition.org::heat]] drf [[file:noun.attribute.org::heat1]] drf [[file:noun.phenomenon.org::heat]] drf [[file:noun.artifact.org::heater]] drf [[file:noun.artifact.org::heating]]
+w: <<heat>> uses [[file:noun.phenomenon.org::heat]] uses [[file:noun.cognition.org::heat]] uses [[file:noun.attribute.org::heat1]] instrument [[file:noun.artifact.org::heater]] by-means-of [[file:noun.artifact.org::heat]] drf [[file:adjs.all.org::heatable]] drf [[file:noun.artifact.org::heat]] drf [[file:noun.cognition.org::heat]] drf [[file:noun.attribute.org::heat1]] drf [[file:noun.phenomenon.org::heat]] drf [[file:noun.artifact.org::heater]] drf [[file:noun.artifact.org::heating]]
 hyper: [[supply]]
 fr: 8
 g: provide with heat; "heat the house"
@@ -1389,7 +1389,7 @@ hyper: [[file:verb.change.org::change1]]
 fr: 4 8 11 15
 g: bestow a quality on; "Her presence lends a certain cachet to the company"; "The music added a lot to the play"; "She brings a special atmosphere to our meetings"; "This adds a light note to the program"
 
-w: <<lend>> agent [[file:noun.person.org::lender]] drf [[file:adj.all.org::lendable]] drf [[file:noun.person.org::lender]] ant [[borrow]]
+w: <<lend>> agent [[file:noun.person.org::lender]] drf [[file:adjs.all.org::lendable]] drf [[file:noun.person.org::lender]] ant [[borrow]]
 w: <<loan>> event [[file:noun.possession.org::loan]] drf [[file:noun.possession.org::loan]]
 hyper: [[give]]
 fr: 14 15
@@ -1795,7 +1795,7 @@ fr: 8
 g: deposit once again; "redeposit a cheque"
 
 w: <<deposit>> undergoer [[file:noun.possession.org::deposit1]] agent [[file:noun.person.org::depositor]] drf [[file:noun.possession.org::deposit1]] drf [[file:noun.person.org::depositor]] ant [[withdraw]]
-w: <<bank>> location [[file:noun.artifact.org::bank]] drf [[file:adj.all.org::bankable]] drf [[file:noun.group.org::bank]] drf [[file:noun.artifact.org::bank]] drf [[file:noun.act.org::banking]]
+w: <<bank>> location [[file:noun.artifact.org::bank]] drf [[file:adjs.all.org::bankable]] drf [[file:noun.group.org::bank]] drf [[file:noun.artifact.org::bank]] drf [[file:noun.act.org::banking]]
 hyper: [[give]]
 fr: 8
 g: put into a bank account; "She deposits her paycheck every month"
@@ -1979,7 +1979,7 @@ g: gather or collect; "You can get the results on Monday"; "She picked up the ch
 
 w: <<roll_up3>>
 w: <<collect>> event [[file:noun.act.org::collection]] drf [[file:noun.act.org::collection]] drf [[file:noun.act.org::collecting]]
-w: <<accumulate>> result [[file:noun.group.org::accumulation]] event [[file:noun.act.org::accumulation]] drf [[file:adj.all.org::accumulative]] drf [[file:adj.all.org::accumulative]] drf [[file:noun.group.org::accumulation]] drf [[file:noun.act.org::accumulation]]
+w: <<accumulate>> result [[file:noun.group.org::accumulation]] event [[file:noun.act.org::accumulation]] drf [[file:adjs.all.org::accumulative]] drf [[file:adjs.all.org::accumulative]] drf [[file:noun.group.org::accumulation]] drf [[file:noun.act.org::accumulation]]
 w: <<pile_up>>
 w: <<amass>>
 w: <<compile>> undergoer [[file:noun.communication.org::compilation]] event [[file:noun.act.org::compilation]] drf [[file:noun.communication.org::compilation]] drf [[file:noun.act.org::compilation]]
@@ -2046,7 +2046,7 @@ w: <<peddle>> agent [[file:noun.person.org::peddler1]] agent [[file:noun.person.
 w: <<monger>> agent [[file:noun.person.org::monger]] drf [[file:noun.person.org::monger]]
 w: <<huckster>> agent [[file:noun.person.org::huckster]] drf [[file:noun.person.org::huckster]]
 w: <<hawk>> agent [[file:noun.person.org::hawker]] drf [[file:noun.person.org::hawker]] drf [[file:noun.act.org::hawking]]
-w: <<vend>> event [[file:noun.act.org::vendition]] agent [[file:noun.person.org::vendor]] agent [[file:noun.person.org::vender]] drf [[file:adj.all.org::vendible]] drf [[file:adj.all.org::vendable]] drf [[file:noun.act.org::vendition]] drf [[file:noun.person.org::vender]] drf [[file:noun.person.org::vendor]] drf [[file:noun.act.org::vending]]
+w: <<vend>> event [[file:noun.act.org::vendition]] agent [[file:noun.person.org::vendor]] agent [[file:noun.person.org::vender]] drf [[file:adjs.all.org::vendible]] drf [[file:adjs.all.org::vendable]] drf [[file:noun.act.org::vendition]] drf [[file:noun.person.org::vender]] drf [[file:noun.person.org::vendor]] drf [[file:noun.act.org::vending]]
 w: <<pitch>> event [[file:noun.communication.org::pitch]] drf [[file:noun.location.org::pitch]] drf [[file:noun.communication.org::pitch]]
 hyper: [[deal]]
 fr: 8
@@ -2057,7 +2057,7 @@ hyper: [[get]]
 fr: 8
 g: gain possession of by prior right or opportunity, especially so as to obtain the right to buy (land)
 
-w: <<preempt>> event [[file:noun.attribute.org::preemption]] event [[file:noun.act.org::preemption]] agent [[file:noun.person.org::preemptor1]] drf [[file:adj.all.org::preemptive]] drf [[file:noun.attribute.org::preemption]] drf [[file:noun.act.org::preemption]] drf [[file:noun.person.org::preemptor1]] drf [[file:adj.all.org::pre-emptive]]
+w: <<preempt>> event [[file:noun.attribute.org::preemption]] event [[file:noun.act.org::preemption]] agent [[file:noun.person.org::preemptor1]] drf [[file:adjs.all.org::preemptive]] drf [[file:noun.attribute.org::preemption]] drf [[file:noun.act.org::preemption]] drf [[file:noun.person.org::preemptor1]] drf [[file:adjs.all.org::pre-emptive]]
 hyper: [[get]]
 fr: 8
 g: acquire for oneself before others can do so
@@ -2093,7 +2093,7 @@ hyper: [[pay]]
 fr: 8 15
 g: expend, as from a fund
 
-w: <<preempt1>> agent [[file:noun.person.org::preemptor]] drf [[file:adj.all.org::preemptive]] drf [[file:noun.person.org::preemptor]] drf [[file:adj.all.org::pre-emptive]]
+w: <<preempt1>> agent [[file:noun.person.org::preemptor]] drf [[file:adjs.all.org::preemptive]] drf [[file:noun.person.org::preemptor]] drf [[file:adjs.all.org::pre-emptive]]
 hyper: [[bid1]]
 dt: [[file:noun.act.org::bridge]]
 fr: 8
@@ -2195,7 +2195,7 @@ dt: [[file:noun.act.org::commerce]]
 fr: 2 22
 g: deal in a market
 
-w: <<market>> event [[file:noun.act.org::market]] agent [[file:noun.person.org::marketer]] drf [[file:adj.all.org::marketable2]] drf [[file:adj.all.org::marketable]] drf [[file:noun.group.org::market]] drf [[file:noun.act.org::market]] drf [[file:noun.person.org::marketer]]
+w: <<market>> event [[file:noun.act.org::market]] agent [[file:noun.person.org::marketer]] drf [[file:adjs.all.org::marketable2]] drf [[file:adjs.all.org::marketable]] drf [[file:noun.group.org::market]] drf [[file:noun.act.org::market]] drf [[file:noun.person.org::marketer]]
 hyper: [[trade1]]
 dt: [[file:noun.act.org::commerce]]
 fr: 8
@@ -2262,7 +2262,7 @@ hyper: [[file:verb.communication.org::tell]]
 fr: 8 15
 g: transmit (knowledge or skills); "give a secret to the Russians"; "leave your name and address here"; "impart a new skill to the students"
 
-w: <<communalize>> drf [[file:adj.all.org::communal]] drf [[file:adj.pert.org::communal2]]
+w: <<communalize>> drf [[file:adjs.all.org::communal]] drf [[file:adj.pert.org::communal2]]
 w: <<communalise>>
 hyper: [[share2]]
 fr: 8
@@ -2320,7 +2320,7 @@ g: administer or bestow, as in small portions; "administer critical remarks to e
 w: <<share>> uses [[file:noun.act.org::share]] agent [[file:noun.person.org::sharer]] drf [[file:noun.act.org::share]] drf [[file:noun.person.org::sharer]] drf [[file:noun.act.org::sharing]]
 w: <<divvy_up>>
 w: <<portion_out>>
-w: <<apportion>> drf [[file:adj.all.org::apportionable]]
+w: <<apportion>> drf [[file:adjs.all.org::apportionable]]
 w: <<deal7>> event [[file:noun.act.org::deal1]] drf [[file:noun.act.org::deal1]]
 entail: [[file:verb.contact.org::separate]]
 hyper: [[distribute1]]
@@ -2631,8 +2631,8 @@ hyper: [[bribe]]
 fr: 9
 g: give a conciliatory gift or bribe to
 
-w: <<bribe>> undergoer [[file:noun.possession.org::bribe]] agent [[file:noun.person.org::briber]] drf [[file:adj.all.org::bribable]] drf [[file:noun.person.org::briber]] drf [[file:noun.act.org::bribery]] drf [[file:noun.possession.org::bribe]]
-w: <<corrupt>> drf [[file:adj.all.org::corruptible]]
+w: <<bribe>> undergoer [[file:noun.possession.org::bribe]] agent [[file:noun.person.org::briber]] drf [[file:adjs.all.org::bribable]] drf [[file:noun.person.org::briber]] drf [[file:noun.act.org::bribery]] drf [[file:noun.possession.org::bribe]]
+w: <<corrupt>> drf [[file:adjs.all.org::corruptible]]
 w: <<buy2>>
 w: <<grease_one's_palms>>
 hyper: [[pay]]
@@ -2749,7 +2749,7 @@ fr: 8
 g: preserve (tissue) with plastics, as for teaching and research purposes; "The doctor plastinates bodies to teach anatomy to his students"
 
 w: <<conserve2>> event [[file:noun.event.org::conservation]] event [[file:noun.act.org::conservation]] drf [[file:noun.event.org::conservation]] drf [[file:noun.act.org::conservation]]
-w: <<preserve>> event [[file:noun.act.org::preservation]] drf [[file:adj.all.org::preservative]] drf [[file:noun.act.org::preservation]]
+w: <<preserve>> event [[file:noun.act.org::preservation]] drf [[file:adjs.all.org::preservative]] drf [[file:noun.act.org::preservation]]
 w: <<maintain>> event [[file:noun.act.org::maintenance]] drf [[file:noun.act.org::maintenance]]
 w: <<keep_up>>
 hyper: [[keep1]]
@@ -2991,7 +2991,7 @@ vg: [[file:verb.change.org::bull]]
 fr: 8
 g: try to raise the price of stocks through speculative buying
 
-w: <<speculate>> event [[file:noun.possession.org::speculation]] agent [[file:noun.person.org::speculator]] drf [[file:adj.all.org::speculative]] drf [[file:noun.possession.org::speculation]] drf [[file:noun.person.org::speculator]]
+w: <<speculate>> event [[file:noun.possession.org::speculation]] agent [[file:noun.person.org::speculator]] drf [[file:adjs.all.org::speculative]] drf [[file:noun.possession.org::speculation]] drf [[file:noun.person.org::speculator]]
 w: <<job>>
 hyper: [[invest]]
 fr: 2 22
@@ -3457,16 +3457,16 @@ hyper: [[cash]]
 fr: 8
 g: convert into cash; "I had to liquidate my holdings to pay off my ex-husband"
 
-w: <<cash>> drf [[file:adj.all.org::cashable]] drf [[file:noun.possession.org::cash]] see [[cash_in_on]]
+w: <<cash>> drf [[file:adjs.all.org::cashable]] drf [[file:noun.possession.org::cash]] see [[cash_in_on]]
 w: <<cash_in>>
 hyper: [[exchange]]
 fr: 8
 g: exchange for cash; "I cashed the check as soon as it arrived in the mail"
 
 w: <<prize>>
-w: <<value>> drf [[file:adj.all.org::valuable]] drf [[file:adj.all.org::valuable]]
+w: <<value>> drf [[file:adjs.all.org::valuable]] drf [[file:adj.all.org::valuable]]
 w: <<treasure>> undergoer [[file:noun.possession.org::treasure1]] drf [[file:noun.possession.org::treasure1]]
-w: <<appreciate>> drf [[file:adj.all.org::appreciative]]
+w: <<appreciate>> drf [[file:adjs.all.org::appreciative]]
 hyper: [[file:verb.cognition.org::see]]
 fr: 8
 g: hold dear; "I prize these old photographs"
@@ -3642,7 +3642,7 @@ g: pay too much
 
 w: <<compensate>> undergoer [[file:noun.possession.org::compensation]] event [[file:noun.act.org::compensation]] drf [[file:noun.possession.org::compensation]] drf [[file:noun.act.org::compensation]]
 w: <<recompense>> event [[file:noun.possession.org::recompense]] event [[file:noun.act.org::recompense]] drf [[file:noun.act.org::recompense]] drf [[file:noun.possession.org::recompense]]
-w: <<remunerate>> event [[file:noun.possession.org::remuneration]] event [[file:noun.act.org::remuneration]] agent [[file:noun.person.org::remunerator]] drf [[file:adj.all.org::remunerative]] drf [[file:adj.all.org::remunerative]] drf [[file:noun.possession.org::remuneration]] drf [[file:noun.act.org::remuneration]] drf [[file:noun.person.org::remunerator]]
+w: <<remunerate>> event [[file:noun.possession.org::remuneration]] event [[file:noun.act.org::remuneration]] agent [[file:noun.person.org::remunerator]] drf [[file:adjs.all.org::remunerative]] drf [[file:adjs.all.org::remunerative]] drf [[file:noun.possession.org::remuneration]] drf [[file:noun.act.org::remuneration]] drf [[file:noun.person.org::remunerator]]
 hyper: [[pay]]
 fr: 9
 g: make payment to; compensate; "My efforts were not remunerated"
@@ -3990,7 +3990,7 @@ hyper: [[obtain]]
 fr: 1 8
 g: get (a product) from another country or business; "She sourced a supply of carpet"; "They are sourcing from smaller companies"
 
-w: <<obtain>> event [[file:noun.act.org::obtention]] event [[file:noun.act.org::obtainment]] drf [[file:adj.all.org::obtainable]] drf [[file:noun.act.org::obtention]] drf [[file:noun.act.org::obtainment]]
+w: <<obtain>> event [[file:noun.act.org::obtention]] event [[file:noun.act.org::obtainment]] drf [[file:adjs.all.org::obtainable]] drf [[file:noun.act.org::obtention]] drf [[file:noun.act.org::obtainment]]
 hyper: [[get]]
 fr: 8 16
 g: come into possession of; "How did you obtain the visa?"
@@ -4101,8 +4101,8 @@ hyper: [[allocate]]
 fr: 8 15
 g: allocate, distribute, or apportion anew; "Congressional seats are reapportioned on the basis of census data"
 
-w: <<allocate>> undergoer [[file:noun.possession.org::allocation]] event [[file:noun.act.org::allocation1]] event [[file:noun.act.org::allocation]] agent [[file:noun.person.org::allocator]] drf [[file:adj.all.org::allocatable]] drf [[file:adj.all.org::allocable]] drf [[file:noun.act.org::allocation1]] drf [[file:noun.possession.org::allocation]] drf [[file:noun.act.org::allocation]] drf [[file:noun.person.org::allocator]]
-w: <<apportion1>> event [[file:noun.act.org::apportionment]] drf [[file:adj.all.org::apportionable]] drf [[file:noun.act.org::apportionment]]
+w: <<allocate>> undergoer [[file:noun.possession.org::allocation]] event [[file:noun.act.org::allocation1]] event [[file:noun.act.org::allocation]] agent [[file:noun.person.org::allocator]] drf [[file:adjs.all.org::allocatable]] drf [[file:adjs.all.org::allocable]] drf [[file:noun.act.org::allocation1]] drf [[file:noun.possession.org::allocation]] drf [[file:noun.act.org::allocation]] drf [[file:noun.person.org::allocator]]
+w: <<apportion1>> event [[file:noun.act.org::apportionment]] drf [[file:adjs.all.org::apportionable]] drf [[file:noun.act.org::apportionment]]
 hyper: [[assign1]]
 fr: 8 15
 g: distribute according to a plan or set apart for a special purpose; "I am allocating a loaf of bread to everyone on a daily basis"; "I'm allocating the rations for the camping trip"
@@ -4169,7 +4169,7 @@ fr: 8
 g: transfer from a storage device to a computer's memory
 
 w: <<convey10>>
-w: <<transmit10>> event [[file:noun.event.org::transmission]] agent [[file:noun.object.org::transmitter]] drf [[file:adj.all.org::transmissible1]] drf [[file:adj.all.org::transmissible]] drf [[file:noun.event.org::transmission]] drf [[file:noun.object.org::transmitter]]
+w: <<transmit10>> event [[file:noun.event.org::transmission]] agent [[file:noun.object.org::transmitter]] drf [[file:adjs.all.org::transmissible1]] drf [[file:adjs.all.org::transmissible]] drf [[file:noun.event.org::transmission]] drf [[file:noun.object.org::transmitter]]
 w: <<communicate10>> undergoer [[file:noun.Tops.org::communication]] drf [[file:noun.Tops.org::communication]]
 hyper: [[transfer1]]
 fr: 8 15
@@ -4262,7 +4262,7 @@ hyper: [[distribute]]
 fr: 14 15
 g: give out; "We were assigned new uniforms"
 
-w: <<assign>> undergoer [[file:noun.person.org::assignee]] event [[file:noun.possession.org::assignment2]] by-means-of [[file:noun.communication.org::assignment2]] drf [[file:adj.all.org::assignable]] drf [[file:noun.possession.org::assignment2]] drf [[file:noun.communication.org::assignment2]] drf [[file:noun.person.org::assignee]]
+w: <<assign>> undergoer [[file:noun.person.org::assignee]] event [[file:noun.possession.org::assignment2]] by-means-of [[file:noun.communication.org::assignment2]] drf [[file:adjs.all.org::assignable]] drf [[file:noun.possession.org::assignment2]] drf [[file:noun.communication.org::assignment2]] drf [[file:noun.person.org::assignee]]
 hyper: [[transfer]]
 fr: 14 15
 g: transfer one's right to
@@ -4289,7 +4289,7 @@ fr: 8 9
 g: give up with the intent of never claiming again; "Abandon your life to God"; "She gave up her children to her ex-husband when she moved to Tahiti"; "We gave the drowning victim up for dead"
 
 w: <<foreswear>>
-w: <<renounce>> event [[file:noun.communication.org::renunciation]] drf [[file:adj.all.org::renunciant]] drf [[file:noun.communication.org::renunciation]]
+w: <<renounce>> event [[file:noun.communication.org::renunciation]] drf [[file:adjs.all.org::renunciant]] drf [[file:noun.communication.org::renunciation]]
 w: <<quit>>
 w: <<relinquish>> event [[file:noun.act.org::relinquishment]] drf [[file:noun.act.org::relinquishment]] drf [[file:noun.communication.org::relinquishing]]
 hyper: [[abandon1]]
@@ -4472,7 +4472,7 @@ hyper: [[file:verb.change.org::change]]
 fr: 1 4
 g: transfer to another; of rights or property; "Our house passed under his official control"
 
-w: <<convey>> event [[file:noun.act.org::conveyance]] drf [[file:adj.all.org::conveyable]] drf [[file:noun.act.org::conveying]] drf [[file:noun.act.org::conveyance]]
+w: <<convey>> event [[file:noun.act.org::conveyance]] drf [[file:adjs.all.org::conveyable]] drf [[file:noun.act.org::conveying]] drf [[file:noun.act.org::conveyance]]
 hyper: [[transfer]]
 dt: [[file:noun.group.org::law]]
 fr: 8 12 14
@@ -4565,7 +4565,7 @@ hyper: [[collect1]]
 fr: 8
 g: collect fees or profits
 
-w: <<collect1>> agent [[file:noun.person.org::collector]] drf [[file:adj.all.org::collectible]] drf [[file:noun.person.org::collector]]
+w: <<collect1>> agent [[file:noun.person.org::collector]] drf [[file:adjs.all.org::collectible]] drf [[file:noun.person.org::collector]]
 w: <<take_in9>>
 hyper: [[take]]
 fr: 8 16
@@ -4750,7 +4750,7 @@ fr: 8
 g: get by buying and selling; "the company turned a good profit after a year"
 
 w: <<get>> drf [[file:noun.act.org::getting]]
-w: <<acquire>> event [[file:noun.cognition.org::acquisition1]] event [[file:noun.act.org::acquisition]] by-means-of [[file:noun.group.org::acquirer2]] by-means-of [[file:noun.group.org::acquirer1]] by-means-of [[file:noun.group.org::acquirer]] agent [[file:noun.person.org::acquirer]] drf [[file:adj.all.org::acquisitive]] drf [[file:adj.all.org::acquirable]] drf [[file:noun.act.org::acquiring]] drf [[file:noun.cognition.org::acquisition1]] drf [[file:noun.act.org::acquisition]] drf [[file:noun.group.org::acquirer2]] drf [[file:noun.person.org::acquirer]] drf [[file:noun.group.org::acquirer1]] drf [[file:noun.group.org::acquirer]]
+w: <<acquire>> event [[file:noun.cognition.org::acquisition1]] event [[file:noun.act.org::acquisition]] by-means-of [[file:noun.group.org::acquirer2]] by-means-of [[file:noun.group.org::acquirer1]] by-means-of [[file:noun.group.org::acquirer]] agent [[file:noun.person.org::acquirer]] drf [[file:adj.all.org::acquisitive]] drf [[file:adjs.all.org::acquirable]] drf [[file:noun.act.org::acquiring]] drf [[file:noun.cognition.org::acquisition1]] drf [[file:noun.act.org::acquisition]] drf [[file:noun.group.org::acquirer2]] drf [[file:noun.person.org::acquirer]] drf [[file:noun.group.org::acquirer1]] drf [[file:noun.group.org::acquirer]]
 vg: [[file:verb.change.org::receive1]]
 fr: 8 9 16
 g: come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work"
@@ -4778,7 +4778,7 @@ fr: 8 9 16
 g: get something; come into possession of; "receive payment"; "receive a gift"; "receive letters from the front"
 
 w: <<take15>>
-w: <<accept12>> drf [[file:adj.all.org::acceptable]] drf [[file:adj.all.org::acceptable]]
+w: <<accept12>> drf [[file:adjs.all.org::acceptable]] drf [[file:adjs.all.org::acceptable]]
 fr: 8
 g: make use of or accept for some purpose; "take a risk"; "take an opportunity"
 
@@ -4915,7 +4915,7 @@ g: possess beforehand
 
 w: <<own>> agent [[file:noun.person.org::owner2]] agent [[file:noun.person.org::owner]] drf [[file:noun.person.org::owner]] drf [[file:noun.person.org::owner2]]
 w: <<have4>> agent [[file:noun.person.org::have]] drf [[file:noun.person.org::have]]
-w: <<possess>> event [[file:noun.act.org::possession]] agent [[file:noun.person.org::possessor]] drf [[file:adj.all.org::possessive]] drf [[file:adj.all.org::possessive]] drf [[file:noun.act.org::possession]] drf [[file:noun.person.org::possessor]]
+w: <<possess>> event [[file:noun.act.org::possession]] agent [[file:noun.person.org::possessor]] drf [[file:adjs.all.org::possessive]] drf [[file:adjs.all.org::possessive]] drf [[file:noun.act.org::possession]] drf [[file:noun.person.org::possessor]]
 vg: [[file:verb.stative.org::have]]
 fr: 8
 g: have ownership or possession of; "He owns three houses in Florida"; "How many cars does she have?"

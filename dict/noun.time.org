@@ -29,7 +29,7 @@ hyper: [[time_period]]
 hp: [[school]]
 g: a period of time during the school day that is set aside for study
 
-w: <<snap>> drf [[file:adj.all.org::snappy]]
+w: <<snap>> drf [[file:adjs.all.org::snappy]]
 hyper: [[while]]
 g: a spell of cold weather; "a cold snap in the middle of May"
 
@@ -74,11 +74,11 @@ w: <<processing_time>>
 hyper: [[time_interval]]
 g: the time it takes to complete a prescribed procedure; "they increased output by decreasing processing time"
 
-w: <<probation1>> drf [[file:adj.all.org::probationary]]
+w: <<probation1>> drf [[file:adjs.all.org::probationary]]
 hyper: [[trial_period]]
 g: a trial period during which your character and abilities are tested to see whether you are suitable for work or for membership
 
-w: <<probation>> drf [[file:adj.all.org::probationary]] drf [[file:verb.stative.org::probate]]
+w: <<probation>> drf [[file:adjs.all.org::probationary]] drf [[file:verb.stative.org::probate]]
 hyper: [[trial_period]]
 g: a trial period during which an offender has time to redeem himself or herself
 
@@ -147,7 +147,7 @@ w: <<heyday>>
 w: <<bloom1>>
 w: <<blossom>> drf [[file:verb.change.org::blossom]]
 w: <<efflorescence>>
-w: <<flush>> drf [[file:adj.all.org::flush]]
+w: <<flush>> drf [[file:adjs.all.org::flush]]
 hyper: [[time_period]]
 g: the period of greatest prosperity or productivity
 
@@ -266,7 +266,7 @@ g: the term of office of a bishop
 
 w: <<tenure>> drf [[file:verb.social.org::tenure]]
 w: <<term_of_office>>
-w: <<incumbency>> drf [[file:adj.all.org::incumbent]]
+w: <<incumbency>> drf [[file:adjs.all.org::incumbent]]
 hyper: [[term]]
 g: the term during which some position is held
 
@@ -407,7 +407,7 @@ w: <<counts/minute>>
 hyper: [[frequency]]
 g: frequency per minute
 
-w: <<attendance>> drf [[file:adj.all.org::attendant]]
+w: <<attendance>> drf [[file:adjs.all.org::attendant]]
 hyper: [[frequency]]
 g: the frequency with which a person is present; "a student's attendance is an important factor in her grade"
 
@@ -473,7 +473,7 @@ w: <<pace1>> drf [[file:verb.cognition.org::pace]]
 hyper: [[rate]]
 g: the rate of some repeating event
 
-w: <<speed>> drf [[file:adj.all.org::speedy]] drf [[file:verb.motion.org::speed1]] drf [[file:verb.motion.org::speed]] drf [[file:verb.change.org::speed2]] drf [[file:verb.motion.org::speed3]] drf [[file:verb.change.org::speed]]
+w: <<speed>> drf [[file:adjs.all.org::speedy]] drf [[file:verb.motion.org::speed1]] drf [[file:verb.motion.org::speed]] drf [[file:verb.change.org::speed2]] drf [[file:verb.motion.org::speed3]] drf [[file:verb.change.org::speed]]
 w: <<velocity>>
 hyper: [[rate]]
 g: distance travelled per unit time
@@ -616,7 +616,7 @@ hyper: [[rate]]
 g: 1,000,000,000 periods per second
 
 w: <<frequency>>
-w: <<frequence>> drf [[file:adj.all.org::frequent]] drf [[file:adj.all.org::frequent]]
+w: <<frequence>> drf [[file:adjs.all.org::frequent]] drf [[file:adj.all.org::frequent]]
 w: <<oftenness>>
 hyper: [[rate]]
 g: the number of occurrences within a given time period; "the frequency of modulation was 40 cycles per second"; "the frequency of his seizures increased as he grew older"
@@ -766,7 +766,7 @@ w: <<interregnum>>
 hyper: [[interim]]
 g: the time between two reigns, governments, etc.
 
-w: <<eternity1>> drf [[file:adj.all.org::eternal]]
+w: <<eternity1>> drf [[file:adjs.all.org::eternal]]
 hyper: [[time_interval]]
 g: a seemingly endless time interval (waiting)
 
@@ -924,7 +924,7 @@ w: <<close>> drf [[file:verb.stative.org::close]] drf [[file:verb.social.org::cl
 hyper: [[end]]
 g: the temporal end; the concluding time; "the stopping point of each round was signaled by a bell"; "the market was up at the finish"; "they were playing better at the close of the season"
 
-w: <<deep>> drf [[file:adj.all.org::deep1]]
+w: <<deep>> drf [[file:adjs.all.org::deep1]]
 hyper: [[middle]]
 g: the central and most intense or profound part; "in the deep of night"; "in the deep of winter"
 
@@ -979,7 +979,7 @@ w: <<meno_mosso>>
 hyper: [[tempo1]]
 g: played at reduced speed; less rapid
 
-w: <<andante>> drf [[file:adj.all.org::andante]]
+w: <<andante>> drf [[file:adjs.all.org::andante]]
 hyper: [[tempo1]]
 g: a moderately slow tempo (a walking pace)
 
@@ -987,15 +987,15 @@ w: <<allegro_con_spirito>>
 hyper: [[allegro]]
 g: lively with spirit
 
-w: <<allegro>> drf [[file:adj.all.org::allegro]]
+w: <<allegro>> drf [[file:adjs.all.org::allegro]]
 hyper: [[tempo1]]
 g: a brisk and lively tempo
 
-w: <<allegretto>> drf [[file:adj.all.org::allegretto]]
+w: <<allegretto>> drf [[file:adjs.all.org::allegretto]]
 hyper: [[tempo1]]
 g: a quicker tempo than andante but not as fast as allegro
 
-w: <<accelerando>> drf [[file:adj.all.org::accelerando]]
+w: <<accelerando>> drf [[file:adjs.all.org::accelerando]]
 hyper: [[tempo1]]
 g: a gradually increasing tempo of music; "my ear will not accept such violent accelerandos"
 
@@ -1272,7 +1272,7 @@ w: <<modern_era>>
 hyper: [[era]]
 g: the present or recent times
 
-w: <<prehistory>> drf [[file:adj.all.org::prehistoric]] drf [[file:adj.pert.org::prehistoric]]
+w: <<prehistory>> drf [[file:adjs.all.org::prehistoric]] drf [[file:adj.pert.org::prehistoric]]
 w: <<prehistoric_culture>>
 hyper: [[time_period]]
 g: the time during the development of human culture before the appearance of the written word
@@ -1287,7 +1287,7 @@ w: <<golden_age1>>
 hyper: [[historic_period]]
 g: any period (sometimes imaginary) of great peace and prosperity and happiness
 
-w: <<antiquity>> drf [[file:adj.all.org::antique1]]
+w: <<antiquity>> drf [[file:adjs.all.org::antique1]]
 hyper: [[historic_period]]
 hp: [[history]]
 g: the historic period preceding the Middle Ages in Europe
@@ -1426,7 +1426,7 @@ ihyper: [[era]]
 g: the era of Islam's ascendancy from the death of Mohammed until the 13th century; some Moslems still maintain that the Moslem world must always have a calif as head of the community; "their goal was to reestablish the Caliphate"
 
 w: <<era>>
-w: <<epoch>> drf [[file:adj.all.org::epochal]]
+w: <<epoch>> drf [[file:adjs.all.org::epochal]]
 hyper: [[time_period]]
 g: a period marked by distinctive character or reckoned from a fixed point or event
 
@@ -1447,7 +1447,7 @@ hyper: [[geological_time]]
 hp: [[era1]]
 g: a unit of geological time during which a system of rocks formed; "ganoid fishes swarmed during the earlier geological periods"
 
-w: <<ephemera>> drf [[file:adj.all.org::ephemeral]]
+w: <<ephemera>> drf [[file:adjs.all.org::ephemeral]]
 hyper: [[time]]
 g: something transitory; lasting a day
 
@@ -1464,7 +1464,7 @@ w: <<New_York_minute>>
 hyper: [[moment1]]
 g: a very short time (as the time it takes the eye to blink or the heart to beat); "if I had the chance I'd do it in a flash"
 
-w: <<moment1>> drf [[file:adj.all.org::momentary]] drf [[file:adj.all.org::momentaneous]]
+w: <<moment1>> drf [[file:adjs.all.org::momentary]] drf [[file:adjs.all.org::momentaneous]]
 w: <<mo>> du [[file:noun.location.org::Britain]]
 w: <<minute1>>
 w: <<second1>>
@@ -1509,7 +1509,7 @@ w: <<high_time>>
 hyper: [[time6]]
 g: the latest possible moment; "it is high time you went to work"
 
-w: <<time6>> drf [[file:adj.all.org::timely]] drf [[file:verb.change.org::time6]] drf [[file:verb.cognition.org::time1]] drf [[file:verb.cognition.org::time]]
+w: <<time6>> drf [[file:adjs.all.org::timely]] drf [[file:verb.change.org::time6]] drf [[file:verb.cognition.org::time1]] drf [[file:verb.cognition.org::time]]
 hyper: [[moment]]
 g: a suitable moment; "it is time to go"
 
@@ -1534,7 +1534,7 @@ g: the latest possible moment; "money became available at the eleventh hour"; "a
 w: <<moment>>
 w: <<minute2>>
 w: <<second2>>
-w: <<instant>> drf [[file:adj.all.org::instantaneous]]
+w: <<instant>> drf [[file:adjs.all.org::instantaneous]]
 hyper: [[point]]
 g: a particular point in time; "the moment he arrived the party began"
 
@@ -1567,7 +1567,7 @@ w: <<aeon1>> drf [[file:adj.pert.org::aeonian]]
 hyper: [[geological_time]]
 g: the longest division of geological time
 
-w: <<eon>> drf [[file:adj.all.org::eonian]]
+w: <<eon>> drf [[file:adjs.all.org::eonian]]
 w: <<aeon>>
 hyper: [[long_time]]
 g: an immeasurably long period of time; "oh, that happened eons ago"
@@ -2023,7 +2023,7 @@ hyper: [[time_unit]]
 hp: [[hour]]
 g: a half of an hour
 
-w: <<hour>> drf [[file:adj.all.org::hourly]] drf [[file:adj.pert.org::horary]]
+w: <<hour>> drf [[file:adjs.all.org::hourly]] drf [[file:adj.pert.org::horary]]
 w: <<hr>>
 w: <<60_minutes>>
 hyper: [[time_unit]]
@@ -2084,7 +2084,7 @@ hyper: [[school_term]]
 hp: [[school_year]]
 g: one of three divisions of an academic year
 
-w: <<semester1>> drf [[file:adj.all.org::semestral]]
+w: <<semester1>> drf [[file:adjs.all.org::semestral]]
 hyper: [[school_term]]
 hp: [[school_year]]
 g: one of two divisions of an academic year
@@ -2614,7 +2614,7 @@ hp: [[Gregorian_calendar]]
 g: a month in the Gregorian calendar
 
 w: <<calendar_month>>
-w: <<month1>> drf [[file:adj.all.org::monthly]]
+w: <<month1>> drf [[file:adjs.all.org::monthly]]
 hyper: [[time_period]]
 g: one of the twelve divisions of the calendar year; "he paid the bill last month"
 
@@ -2707,7 +2707,7 @@ w: <<quarter2>> drf [[file:adj.pert.org::quarterly]]
 hyper: [[time_period]]
 g: a fourth part of a year; three months; "unemployment fell during the last quarter"
 
-w: <<month>> drf [[file:adj.all.org::monthly]]
+w: <<month>> drf [[file:adjs.all.org::monthly]]
 hyper: [[time_unit]]
 hp: [[year]]
 g: a time unit of approximately 30 days; "he was given a month to pay the bill"
@@ -2759,11 +2759,11 @@ w: <<Olympiad>>
 hyper: [[time_period]]
 g: one of the four-year intervals between Olympic Games; used to reckon time in ancient Greece for twelve centuries beginning in 776 BC
 
-w: <<bimester>> drf [[file:adj.all.org::bimestrial]] drf [[file:adj.all.org::bimestrial]]
+w: <<bimester>> drf [[file:adjs.all.org::bimestrial]] drf [[file:adjs.all.org::bimestrial]]
 hyper: [[time_period]]
 g: a period of 2 months
 
-w: <<semester2>> drf [[file:adj.all.org::semestrial]] drf [[file:adj.all.org::semestral]]
+w: <<semester2>> drf [[file:adjs.all.org::semestrial]] drf [[file:adjs.all.org::semestral]]
 hyper: [[time_period]]
 g: half a year; a period of 6 months
 
@@ -2776,7 +2776,7 @@ hyper: [[year1]]
 dt: [[file:noun.communication.org::Latin]]
 g: (Latin) year; "per annum"
 
-w: <<year1>> drf [[file:adj.all.org::yearly]]
+w: <<year1>> drf [[file:adjs.all.org::yearly]]
 w: <<twelvemonth>>
 w: <<yr>>
 hyper: [[time_period]]
@@ -3553,7 +3553,7 @@ w: <<point_in_time>>
 hyper: [[file:noun.Tops.org::measure]]
 g: an instant of time; "at that point I had to leave"
 
-w: <<anachronism>> drf [[file:adj.all.org::anachronistic]] drf [[file:adj.all.org::anachronic]]
+w: <<anachronism>> drf [[file:adjs.all.org::anachronistic]] drf [[file:adjs.all.org::anachronic]]
 w: <<mistiming>> drf [[file:verb.change.org::mistime]]
 w: <<misdating>> drf [[file:verb.cognition.org::misdate]]
 hyper: [[timekeeping]]
@@ -3730,11 +3730,11 @@ hyper: [[time_interval]]
 hp: [[calendar]]
 g: an insertion into a calendar
 
-w: <<distance1>> drf [[file:adj.all.org::distant1]] drf [[file:adj.all.org::distant2]]
+w: <<distance1>> drf [[file:adj.all.org::distant1]] drf [[file:adjs.all.org::distant2]]
 hyper: [[point]]
 g: a remote point in time; "if that happens it will be at some distance in the future"; "at a distance of ten years he had forgotten many of the details"
 
-w: <<distance>> drf [[file:adj.all.org::distant2]]
+w: <<distance>> drf [[file:adjs.all.org::distant2]]
 w: <<space>> drf [[file:verb.motion.org::space]]
 hyper: [[time_interval]]
 g: the interval between two times; "the distance from birth to death"; "it all happened in the space of 10 minutes"
@@ -3786,7 +3786,7 @@ hyper: [[time_period]]
 hp: [[week]]
 g: a time period usually extending from Friday night through Sunday; more loosely defined as any period of successive days including one and only one Sunday
 
-w: <<fortnight>> drf [[file:adj.all.org::fortnightly]]
+w: <<fortnight>> drf [[file:adjs.all.org::fortnightly]]
 w: <<two_weeks>>
 hyper: [[time_period]]
 g: a period of fourteen consecutive days; "most major tennis tournaments last a fortnight"
@@ -3796,8 +3796,8 @@ hyper: [[week]]
 du: [[file:noun.communication.org::colloquialism]]
 g: a time period of a week or more; "a week from Monday will be too soon!"
 
-w: <<week>> drf [[file:adj.all.org::weekly]]
-w: <<hebdomad>> drf [[file:adj.all.org::hebdomadary]] drf [[file:adj.all.org::hebdomadal]]
+w: <<week>> drf [[file:adjs.all.org::weekly]]
+w: <<hebdomad>> drf [[file:adjs.all.org::hebdomadary]] drf [[file:adjs.all.org::hebdomadal]]
 hyper: [[time_period]]
 g: any period of seven consecutive days; "it rained for a week"
 
@@ -3806,14 +3806,14 @@ hyper: [[twilight]]
 g: a shortening of nightfall; "they worked from morning to night"
 
 w: <<twilight>>
-w: <<dusk>> drf [[file:adj.all.org::dusky]]
+w: <<dusk>> drf [[file:adjs.all.org::dusky]]
 w: <<gloaming>>
 w: <<gloam>>
 w: <<nightfall>>
 w: <<evenfall>>
 w: <<fall1>>
-w: <<crepuscule>> drf [[file:adj.all.org::crepuscular]]
-w: <<crepuscle>> drf [[file:adj.all.org::crepuscular]]
+w: <<crepuscule>> drf [[file:adjs.all.org::crepuscular]]
+w: <<crepuscle>> drf [[file:adjs.all.org::crepuscular]]
 hyper: [[hour1]]
 hp: [[evening]]
 g: the time of day immediately following sunset; "he loved the twilight"; "they finished before the fall of night"
@@ -3897,7 +3897,7 @@ w: <<night3>>
 hyper: [[time_period]]
 g: the time between sunset and midnight; "he watched television every night"
 
-w: <<night>> drf [[file:adj.all.org::nightly]] ant [[day2]]
+w: <<night>> drf [[file:adjs.all.org::nightly]] ant [[day2]]
 w: <<nighttime>>
 w: <<dark>>
 hyper: [[time_period]]
@@ -4217,7 +4217,7 @@ w: <<night2>>
 hyper: [[time_unit]]
 g: the dark part of the diurnal cycle considered a time unit; "three nights later he collapsed"
 
-w: <<day>> drf [[file:adj.all.org::daily]]
+w: <<day>> drf [[file:adjs.all.org::daily]]
 w: <<twenty-four_hours>>
 w: <<twenty-four_hour_period>>
 w: <<24-hour_interval>>
@@ -4249,7 +4249,7 @@ g: the last few hours before death
 
 w: <<dotage>>
 w: <<second_childhood>>
-w: <<senility>> drf [[file:adj.all.org::senile]]
+w: <<senility>> drf [[file:adjs.all.org::senile]]
 hyper: [[old_age]]
 g: mental infirmity as a consequence of old age; sometimes shown by foolish infatuations
 
@@ -4484,17 +4484,17 @@ hp: [[adulthood]]
 g: the time of life between the ages of 12 and 20
 
 w: <<puberty>> drf [[file:adj.pert.org::pubertal]]
-w: <<pubescence>> drf [[file:adj.all.org::pubescent]]
+w: <<pubescence>> drf [[file:adjs.all.org::pubescent]]
 hyper: [[time_of_life]]
 hp: [[adolescence]]
 g: the time of life when sex glands become functional
 
-w: <<prepuberty>> drf [[file:adj.all.org::prepubertal]]
+w: <<prepuberty>> drf [[file:adjs.all.org::prepubertal]]
 hyper: [[time_of_life]]
 hp: [[childhood]]
 g: a period of two years immediately prior to the onset of puberty when growth and changes leading to sexual maturity occur
 
-w: <<adolescence>> drf [[file:adj.all.org::adolescent]] drf [[file:adj.all.org::adolescent]] drf [[file:verb.change.org::adolesce]]
+w: <<adolescence>> drf [[file:adjs.all.org::adolescent]] drf [[file:adjs.all.org::adolescent]] drf [[file:verb.change.org::adolesce]]
 hp: [[youth]]
 hyper: [[time_of_life]]
 g: the time period between the beginning of puberty and adulthood
@@ -4618,8 +4618,8 @@ w: <<last1>>
 hyper: [[end]]
 g: the time at which life ends; continuing until dead; "she stayed until his death"; "a struggle to the last"
 
-w: <<incipiency>> drf [[file:adj.all.org::incipient]]
-w: <<incipience>> drf [[file:adj.all.org::incipient]]
+w: <<incipiency>> drf [[file:adjs.all.org::incipient]]
+w: <<incipience>> drf [[file:adjs.all.org::incipient]]
 hyper: [[beginning]]
 g: beginning to exist or to be apparent; "he placed the incipience of democratic faith at around 1850"; "it is designed to arrest monopolies in their incipiency"
 
@@ -4770,7 +4770,7 @@ w: <<holiday>> drf [[file:verb.stative.org::holiday]]
 hyper: [[leisure]]
 g: leisure time away from work devoted to rest or pleasure; "we get two weeks of vacation every summer"; "we took a short holiday in Puerto Rico"
 
-w: <<leisure>> drf [[file:adj.all.org::leisurely]]
+w: <<leisure>> drf [[file:adjs.all.org::leisurely]]
 w: <<leisure_time>>
 hyper: [[time_off]]
 g: time available for ease and relaxation; "his job left him little leisure"
@@ -4813,12 +4813,12 @@ w: <<day4>>
 hyper: [[work_time]]
 g: the recurring hours when you are not sleeping (especially those when you are working); "my day began early this morning"; "it was a busy day on the stock exchange"; "she called it a day and went to bed"
 
-w: <<midweek>> drf [[file:adj.all.org::midweekly]]
+w: <<midweek>> drf [[file:adjs.all.org::midweekly]]
 hyper: [[time_period]]
 hp: [[week2]]
 g: the middle of a week
 
-w: <<week2>> drf [[file:adj.all.org::weekly]]
+w: <<week2>> drf [[file:adjs.all.org::weekly]]
 w: <<calendar_week>>
 hyper: [[time_period]]
 hp: [[calendar_month]]
@@ -4899,7 +4899,7 @@ hyper: [[time_period]]
 g: the period of time during which something continues
 
 w: <<duration>>
-w: <<continuance>> drf [[file:adj.all.org::continuant]]
+w: <<continuance>> drf [[file:adjs.all.org::continuant]]
 hyper: [[file:noun.Tops.org::time]]
 g: the property of enduring or continuing in time
 
@@ -5012,18 +5012,18 @@ w: <<Priscoan_aeon>>
 ihyper: [[eon1]]
 g: the earliest eon in the history of the Earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life
 
-w: <<Archean>> drf [[file:adj.all.org::archean]]
+w: <<Archean>> drf [[file:adjs.all.org::archean]]
 w: <<Archean_eon>>
 w: <<Archean_aeon>>
-w: <<Archeozoic>> drf [[file:adj.all.org::archeozoic]]
-w: <<Archaeozoic>> drf [[file:adj.all.org::archaeozoic]]
+w: <<Archeozoic>> drf [[file:adjs.all.org::archeozoic]]
+w: <<Archaeozoic>> drf [[file:adjs.all.org::archaeozoic]]
 w: <<Archeozoic_eon>>
 w: <<Archaeozoic_aeon>>
 ihyper: [[eon1]]
 hp: [[Precambrian]]
 g: the time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life
 
-w: <<Proterozoic>> drf [[file:adj.all.org::proterozoic]]
+w: <<Proterozoic>> drf [[file:adjs.all.org::proterozoic]]
 w: <<Proterozoic_eon>>
 w: <<Proterozoic_aeon>>
 ihyper: [[eon1]]
@@ -5237,12 +5237,12 @@ g: the end of time; "you can wet the bed till kingdom come, for all I care"
 
 w: <<future>> ant [[past]]
 w: <<hereafter>>
-w: <<futurity>> drf [[file:adj.all.org::future]] drf [[file:adj.all.org::future]]
+w: <<futurity>> drf [[file:adjs.all.org::future]] drf [[file:adj.all.org::future]]
 w: <<time_to_come>>
 hyper: [[file:noun.Tops.org::time]]
 g: the time yet to come
 
-w: <<history>> drf [[file:adj.all.org::historic]]
+w: <<history>> drf [[file:adjs.all.org::historic]]
 hyper: [[past]]
 g: the aggregate of past events; "a critical time in the school's history"
 
@@ -5250,7 +5250,7 @@ w: <<old>>
 hyper: [[past]]
 g: past times (especially in the phrase `in days of old')
 
-w: <<bygone>> drf [[file:adj.all.org::bygone]]
+w: <<bygone>> drf [[file:adjs.all.org::bygone]]
 w: <<water_under_the_bridge>>
 hyper: [[past]]
 g: past events to be put aside; "let bygones be bygones"

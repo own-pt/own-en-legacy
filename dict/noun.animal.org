@@ -1,4 +1,4 @@
-w: <<metamere>> drf [[file:adj.all.org::metameric]]
+w: <<metamere>> drf [[file:adjs.all.org::metameric]]
 w: <<somite>>
 hyper: [[file:noun.object.org::segment]]
 g: one of a series of similar body segments into which some animals are divided longitudinally
@@ -2809,7 +2809,7 @@ hp: [[shrimp]]
 hp: [[isopod]]
 g: one of the paired abdominal appendages of certain aquatic crustaceans that function primarily for carrying the eggs in females and are usually adapted for swimming
 
-w: <<barbel>> drf [[file:adj.all.org::barbellate]]
+w: <<barbel>> drf [[file:adjs.all.org::barbellate]]
 w: <<feeler2>> drf [[file:verb.possession.org::feel]] drf [[file:verb.contact.org::feel]]
 hyper: [[tentacle]]
 g: slender tactile process on the jaws of a fish
@@ -5486,7 +5486,7 @@ w: <<Mammuthus_primigenius>>
 hyper: [[mammoth]]
 g: very hairy mammoth common in colder portions of the northern hemisphere
 
-w: <<mammoth>> drf [[file:adj.all.org::mammoth1]]
+w: <<mammoth>> drf [[file:adjs.all.org::mammoth1]]
 hyper: [[elephant]]
 hm: [[Mammuthus]]
 g: any of numerous extinct elephants widely distributed in the Pleistocene; extremely large with hairy coats and long upcurved tusks
@@ -6554,7 +6554,7 @@ hyper: [[mammal_genus]]
 hm: [[Hominidae]]
 g: type genus of the family Hominidae
 
-w: <<hominid>> drf [[file:adj.all.org::hominid]]
+w: <<hominid>> drf [[file:adjs.all.org::hominid]]
 hyper: [[primate]]
 hm: [[Hominidae]]
 g: a primate of the family Hominidae
@@ -6581,7 +6581,7 @@ hyper: [[ape]]
 hm: [[Anthropoidea]]
 g: any tailless ape of the families Pongidae and Hylobatidae
 
-w: <<anthropoid>> drf [[file:adj.all.org::anthropoid2]] drf [[file:adj.all.org::anthropoid1]] drf [[file:adj.all.org::anthropoidal]]
+w: <<anthropoid>> drf [[file:adjs.all.org::anthropoid2]] drf [[file:adjs.all.org::anthropoid1]] drf [[file:adjs.all.org::anthropoidal]]
 hyper: [[primate]]
 g: any member of the suborder Anthropoidea including monkeys and apes and hominids
 
@@ -6738,7 +6738,7 @@ w: <<stinger>> drf [[file:verb.perception.org::sting2]] drf [[file:verb.percepti
 hyper: [[file:noun.body.org::organ]]
 g: a sharp organ of offense or defense (as of a wasp or stingray or scorpion) often connected with a poison gland
 
-w: <<cupule>> drf [[file:adj.all.org::cupular]]
+w: <<cupule>> drf [[file:adjs.all.org::cupular]]
 hyper: [[sucker2]]
 g: a sucker on the feet of certain flies
 
@@ -8943,7 +8943,7 @@ w: <<leppy>>
 hyper: [[calf]]
 g: motherless calf in a range herd of cattle
 
-w: <<bullock2>> drf [[file:adj.all.org::bullocky]]
+w: <<bullock2>> drf [[file:adjs.all.org::bullocky]]
 hyper: [[bull1]]
 hyper: [[young_mammal]]
 g: young bull
@@ -9156,7 +9156,7 @@ hyper: [[swine]]
 hm: [[Sus]]
 g: Old World wild swine having a narrow body and prominent tusks from which most domestic swine come; introduced in United States
 
-w: <<razorback1>> drf [[file:adj.all.org::razorback]]
+w: <<razorback1>> drf [[file:adjs.all.org::razorback]]
 w: <<razorback_hog>>
 w: <<razorbacked_hog>>
 hyper: [[swine]]
@@ -9179,7 +9179,7 @@ hyper: [[piglet]]
 g: an unweaned piglet
 
 w: <<piglet>> drf [[pig]]
-w: <<piggy>> drf [[file:adj.all.org::piggy]]
+w: <<piggy>> drf [[file:adjs.all.org::piggy]]
 w: <<shoat>>
 w: <<shote>>
 hyper: [[young_mammal]]
@@ -9413,7 +9413,7 @@ w: <<sorrel>>
 hyper: [[horse]]
 g: a horse of a brownish orange to light brown color
 
-w: <<bay>> drf [[file:adj.all.org::bay]]
+w: <<bay>> drf [[file:adjs.all.org::bay]]
 hyper: [[horse]]
 g: a horse of a moderate reddish-brown color
 
@@ -9891,7 +9891,7 @@ w: <<stable_companion>>
 hyper: [[horse]]
 g: a horse stabled with another or one of several horses owned by the same person
 
-w: <<roan>> drf [[file:adj.all.org::roan]]
+w: <<roan>> drf [[file:adjs.all.org::roan]]
 hyper: [[horse]]
 g: a horse having a brownish coat thickly sprinkled with white or gray
 
@@ -11399,7 +11399,7 @@ w: <<pocket_rat>>
 hyper: [[rat]]
 g: any of various rodents with cheek pouches
 
-w: <<rat>> drf [[file:adj.all.org::ratty]] drf [[file:verb.contact.org::rat]]
+w: <<rat>> drf [[file:adjs.all.org::ratty]] drf [[file:verb.contact.org::rat]]
 hyper: [[rodent]]
 g: any of various long-tailed rodents similar to but larger than a mouse
 
@@ -11958,7 +11958,7 @@ w: <<chrysalis>>
 hyper: [[pupa]]
 g: pupa of a moth or butterfly enclosed in a cocoon
 
-w: <<pupa>> drf [[file:adj.all.org::pupal]] drf [[file:verb.body.org::pupate]]
+w: <<pupa>> drf [[file:adjs.all.org::pupal]] drf [[file:verb.body.org::pupate]]
 hyper: [[insect]]
 g: an insect in the inactive stage of development (when it is not feeding) intermediate between larva and adult
 
@@ -11966,7 +11966,7 @@ w: <<leatherjacket3>>
 hyper: [[grub]]
 g: tough-skinned larva of certain crane flies
 
-w: <<maggot>> drf [[file:adj.all.org::maggoty]]
+w: <<maggot>> drf [[file:adjs.all.org::maggoty]]
 hyper: [[grub]]
 g: the larva of the housefly and blowfly commonly found in decaying organic matter
 
@@ -11987,7 +11987,7 @@ w: <<nymph>>
 hyper: [[larva]]
 g: a larva of an insect with incomplete metamorphosis (as the dragonfly or mayfly)
 
-w: <<larva>> drf [[file:adj.all.org::larval]] drf [[file:adj.pert.org::larval]]
+w: <<larva>> drf [[file:adjs.all.org::larval]] drf [[file:adj.pert.org::larval]]
 hyper: [[file:noun.Tops.org::animal]]
 g: the immature free-living form of most invertebrates and amphibians and fish which at hatching from the egg is fundamentally unlike its parent and must metamorphose
 
@@ -12927,7 +12927,7 @@ w: <<miller>>
 hyper: [[moth]]
 g: any of various moths that have powdery wings
 
-w: <<moth>> drf [[file:adj.all.org::mothy]]
+w: <<moth>> drf [[file:adjs.all.org::mothy]]
 hyper: [[lepidopterous_insect]]
 g: typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae
 
@@ -14023,7 +14023,7 @@ hm: [[Homoptera]]
 g: plant lice
 
 w: <<plant_louse>>
-w: <<louse2>> drf [[file:adj.all.org::lousy]]
+w: <<louse2>> drf [[file:adjs.all.org::lousy]]
 hyper: [[homopterous_insect]]
 g: any of several small insects especially aphids that feed by sucking the juices from plants
 
@@ -14564,7 +14564,7 @@ hyper: [[animal_order]]
 hm: [[Insecta]]
 g: plant bugs; bedbugs; some true bugs; also includes suborders Heteroptera (true bugs) and Homoptera (e.g., aphids, plant lice and cicadas)
 
-w: <<bug2>> drf [[file:adj.all.org::buggy]]
+w: <<bug2>> drf [[file:adjs.all.org::buggy]]
 hyper: [[insect]]
 g: general term for any insect or similar creeping or crawling invertebrate
 
@@ -16299,7 +16299,7 @@ g: chicken lice
 
 w: <<bird_louse>>
 w: <<biting_louse>>
-w: <<louse3>> drf [[file:adj.all.org::lousy]]
+w: <<louse3>> drf [[file:adjs.all.org::lousy]]
 hyper: [[insect]]
 hm: [[Mallophaga]]
 g: wingless insect with mouth parts adapted for biting; mostly parasitic on birds
@@ -16363,7 +16363,7 @@ hyper: [[arthropod_family]]
 hm: [[Anoplura]]
 g: true lice: human lice and related forms
 
-w: <<louse1>> drf [[file:adj.all.org::lousy]]
+w: <<louse1>> drf [[file:adjs.all.org::lousy]]
 w: <<sucking_louse>>
 hyper: [[insect]]
 hm: [[Anoplura]]
@@ -17360,7 +17360,7 @@ w: <<fore_wing>>
 hyper: [[wing]]
 g: either of the anterior pair of wings on an insect that has four wings
 
-w: <<ala1>> drf [[file:adj.all.org::alary]] drf [[file:adj.all.org::alate]]
+w: <<ala1>> drf [[file:adjs.all.org::alary]] drf [[file:adjs.all.org::alate]]
 hyper: [[wing]]
 hp: [[insect]]
 g: a wing of an insect
@@ -18387,7 +18387,7 @@ w: <<tomcat>>
 hyper: [[domestic_cat]]
 g: male cat
 
-w: <<stray>> drf [[file:adj.all.org::stray]] drf [[file:verb.motion.org::stray1]]
+w: <<stray>> drf [[file:adjs.all.org::stray]] drf [[file:verb.motion.org::stray1]]
 hyper: [[domestic_animal]]
 g: an animal that has strayed (especially a domestic animal)
 
@@ -23930,7 +23930,7 @@ hm: [[Bivalvia]]
 g: a young oyster or other bivalve
 
 w: <<bivalve>> drf [[file:adj.all.org::bivalve]]
-w: <<pelecypod>> drf [[file:adj.all.org::pelecypod]] drf [[file:adj.all.org::pelecypodous]]
+w: <<pelecypod>> drf [[file:adjs.all.org::pelecypod]] drf [[file:adjs.all.org::pelecypodous]]
 w: <<lamellibranch>>
 hyper: [[mollusk]]
 hm: [[Bivalvia]]
@@ -24991,7 +24991,7 @@ hm: [[Trematoda]]
 hm: [[Cestoda]]
 g: worm that is parasitic on the intestines of vertebrates especially roundworms and tapeworms and flukes
 
-w: <<worm>> drf [[file:adj.all.org::wormy]]
+w: <<worm>> drf [[file:adjs.all.org::wormy]]
 hyper: [[invertebrate]]
 g: any of numerous relatively small elongated soft-bodied animals especially of the phyla Annelida and Chaetognatha and Nematoda and Nemertea and Platyhelminthes; also many insect larvae
 
@@ -25467,7 +25467,7 @@ hyper: [[file:noun.group.org::genus]]
 hm: [[Porifera]]
 g: a genus of Porifera
 
-w: <<sponge>> drf [[file:adj.all.org::spongy]] drf [[file:verb.contact.org::sponge3]]
+w: <<sponge>> drf [[file:adjs.all.org::spongy]] drf [[file:verb.contact.org::sponge3]]
 w: <<poriferan>>
 w: <<parazoan>>
 hyper: [[invertebrate]]
@@ -25580,7 +25580,7 @@ hyper: [[scale]]
 hp: [[fish]]
 g: scale of the kind that covers the bodies of fish
 
-w: <<scale>> drf [[file:adj.all.org::scaly]] drf [[file:adj.all.org::scaly]] drf [[file:adj.all.org::scaley]] drf [[file:verb.contact.org::scale]]
+w: <<scale>> drf [[file:adjs.all.org::scaly]] drf [[file:adjs.all.org::scaly]] drf [[file:adjs.all.org::scaley]] drf [[file:verb.contact.org::scale]]
 hyper: [[file:noun.object.org::covering]]
 g: a flattened rigid plate forming part of the body covering of many animals
 
@@ -25607,11 +25607,11 @@ hyper: [[hair2]]
 hp: [[microorganism]]
 g: hairlike structure especially on the surface of a cell or microorganism
 
-w: <<seta>> drf [[file:adj.all.org::setaceous]]
+w: <<seta>> drf [[file:adjs.all.org::setaceous]]
 hyper: [[hair2]]
 g: a stiff hair or bristle
 
-w: <<whisker>> drf [[file:adj.all.org::whiskery]] drf [[file:verb.possession.org::whisker]]
+w: <<whisker>> drf [[file:adjs.all.org::whiskery]] drf [[file:verb.possession.org::whisker]]
 w: <<vibrissa>>
 w: <<sensory_hair>>
 hyper: [[hair2]]
@@ -25657,7 +25657,7 @@ hyper: [[spine]]
 hp: [[fin]]
 g: any of the stiff bony spines in the fin of a fish
 
-w: <<spine>> drf [[file:adj.pert.org::spinal]] drf [[file:adj.all.org::spinous]]
+w: <<spine>> drf [[file:adj.pert.org::spinal]] drf [[file:adjs.all.org::spinous]]
 hyper: [[file:noun.body.org::process]]
 g: a sharp rigid animal process or appendage; as a porcupine quill or a ridge on a bone or a ray of a fish fin
 
@@ -25685,7 +25685,7 @@ hyper: [[file:noun.body.org::hair]]
 hp: [[lion]]
 g: long coarse hair growing from the crest of the animal's neck
 
-w: <<wool>> drf [[file:adj.all.org::wooly]] drf [[file:adj.all.org::woolly]]
+w: <<wool>> drf [[file:adjs.all.org::wooly]] drf [[file:adjs.all.org::woolly]]
 w: <<fleece>> drf [[file:verb.contact.org::fleece]]
 hyper: [[coat]]
 g: outer coat of especially sheep and yaks
@@ -25699,7 +25699,7 @@ w: <<underfur>>
 hyper: [[fur]]
 g: thick soft fur lying beneath the longer and coarser guard hair
 
-w: <<fur>> drf [[file:adj.all.org::furry]]
+w: <<fur>> drf [[file:adjs.all.org::furry]]
 hyper: [[coat]]
 g: dense coat of fine silky hairs on mammals (e.g., cat or seal or weasel)
 
@@ -25788,12 +25788,12 @@ hyper: [[down]]
 hp: [[duck]]
 g: down of the duck
 
-w: <<down>> drf [[file:adj.all.org::downy]]
+w: <<down>> drf [[file:adjs.all.org::downy]]
 w: <<down_feather>>
 hyper: [[feather]]
 g: soft fine feathers
 
-w: <<feather>> drf [[file:adj.all.org::feathery2]] drf [[file:adj.all.org::feathery1]] drf [[file:adj.all.org::feathery]] drf [[file:verb.contact.org::feather]] drf [[file:verb.body.org::feather]]
+w: <<feather>> drf [[file:adjs.all.org::feathery2]] drf [[file:adjs.all.org::feathery1]] drf [[file:adjs.all.org::feathery]] drf [[file:verb.contact.org::feather]] drf [[file:verb.body.org::feather]]
 w: <<plume>> drf [[file:verb.creation.org::plume]] drf [[file:verb.contact.org::plume]]
 w: <<plumage>>
 hyper: [[file:noun.body.org::body_covering]]
@@ -31021,7 +31021,7 @@ hyper: [[reptile_family]]
 hm: [[Serpentes]]
 g: nonvenomous snakes; about two-thirds of all living species
 
-w: <<snake>> drf [[file:adj.all.org::snaky]]
+w: <<snake>> drf [[file:adjs.all.org::snaky]]
 w: <<serpent>>
 w: <<ophidian>>
 hyper: [[diapsid]]
@@ -34451,7 +34451,7 @@ w: <<family_Aegypiidae>>
 hyper: [[vulture]]
 g: in some classifications considered the family comprising the Old World vultures which are more often included in the family Accipitridae
 
-w: <<vulture>> drf [[file:adj.all.org::vulturous]]
+w: <<vulture>> drf [[file:adjs.all.org::vulturous]]
 hyper: [[bird_of_prey]]
 g: any of various large diurnal birds of prey having naked heads and weak claws and feeding chiefly on carrion
 
@@ -34627,7 +34627,7 @@ w: <<falcon-gentil>>
 hyper: [[peregrine]]
 g: female falcon especially a female peregrine falcon
 
-w: <<peregrine>> drf [[file:adj.all.org::peregrine]]
+w: <<peregrine>> drf [[file:adjs.all.org::peregrine]]
 w: <<peregrine_falcon>>
 w: <<Falco_peregrinus>>
 hyper: [[falcon]]
@@ -34847,7 +34847,7 @@ hm: [[Aves]]
 g: chiefly diurnal carnivorous birds having hooked beaks and long talons with opposable hind toe: falcons; hawks; eagles; ospreys; caracaras; vultures
 
 w: <<bird_of_prey>>
-w: <<raptor>> drf [[file:adj.all.org::raptorial]] drf [[file:adj.pert.org::raptorial]]
+w: <<raptor>> drf [[file:adjs.all.org::raptorial]] drf [[file:adj.pert.org::raptorial]]
 w: <<raptorial_bird>>
 hyper: [[bird]]
 g: any of numerous carnivorous birds that hunt and kill other animals
@@ -37998,8 +37998,8 @@ w: <<baby_bird>>
 hyper: [[young_bird]]
 g: young bird not yet fledged
 
-w: <<fledgling>> drf [[file:adj.all.org::fledgling]]
-w: <<fledgeling>> drf [[file:adj.all.org::fledgeling]]
+w: <<fledgling>> drf [[file:adjs.all.org::fledgling]]
+w: <<fledgeling>> drf [[file:adjs.all.org::fledgeling]]
 hyper: [[young_bird]]
 g: young bird that has just fledged or become capable of flying
 
@@ -39173,7 +39173,7 @@ hyper: [[file:noun.group.org::phylum]]
 hm: [[Animalia]]
 g: comprises true vertebrates and animals having a notochord
 
-w: <<tusk>> drf [[file:verb.change.org::tusk]] drf [[file:verb.contact.org::tusk]] drf [[file:adj.all.org::tusked]]
+w: <<tusk>> drf [[file:verb.change.org::tusk]] drf [[file:verb.contact.org::tusk]] drf [[file:adjs.all.org::tusked]]
 hyper: [[file:noun.body.org::tooth]]
 hp: [[tusker]]
 hp: [[elephant]]
@@ -39320,7 +39320,7 @@ w: <<abortus>>
 hyper: [[fetus]]
 g: a human fetus whose weight is less than 0.5 kilogram when removed or expelled from the mother's body
 
-w: <<monster>> drf [[file:adj.all.org::monstrous]]
+w: <<monster>> drf [[file:adjs.all.org::monstrous]]
 w: <<teras>>
 hyper: [[fetus]]
 dt: [[file:noun.cognition.org::medicine]]
@@ -39351,7 +39351,7 @@ hyper: [[file:noun.body.org::cavity]]
 hp: [[blastula]]
 g: the fluid-filled cavity inside a blastula
 
-w: <<embryo>> drf [[file:adj.all.org::embryonal]] drf [[file:adj.all.org::embryotic]] drf [[file:adj.all.org::embryonic]] drf [[file:adj.all.org::embryonic]]
+w: <<embryo>> drf [[file:adjs.all.org::embryonal]] drf [[file:adjs.all.org::embryotic]] drf [[file:adjs.all.org::embryonic]] drf [[file:adjs.all.org::embryonic]]
 w: <<conceptus>>
 w: <<fertilized_egg>>
 hyper: [[file:noun.Tops.org::animal]]
@@ -41408,7 +41408,7 @@ w: <<commensal>> drf [[file:adj.pert.org::commensal]]
 hyper: [[file:noun.Tops.org::organism]]
 g: either of two different animal or plant species living in close association but not interdependent
 
-w: <<pathogen>> drf [[file:adj.all.org::pathogenic]]
+w: <<pathogen>> drf [[file:adjs.all.org::pathogenic]]
 hyper: [[microorganism]]
 hyper: [[file:noun.object.org::infectious_agent]]
 g: any disease-producing agent (especially a virus or bacterium or other microorganism)
@@ -42425,7 +42425,7 @@ hyper: [[bacillus]]
 hyper: [[file:noun.artifact.org::bioweapon]]
 g: a species of bacillus that causes anthrax in humans and in animals (cattle and swine and sheep and rabbits and mice and guinea pigs); can be used a bioweapon
 
-w: <<bacillus>> drf [[file:adj.all.org::bacillary]] drf [[file:adj.pert.org::bacillary]]
+w: <<bacillus>> drf [[file:adjs.all.org::bacillary]] drf [[file:adj.pert.org::bacillary]]
 w: <<B>>
 hyper: [[eubacteria]]
 hm: [[genus_Bacillus]]
@@ -42442,8 +42442,8 @@ w: <<probiotic_flora>>
 hyper: [[bacteria]]
 g: a beneficial bacterium found in the intestinal tract of healthy mammals; often considered to be a plant
 
-w: <<acidophil>> drf [[file:adj.all.org::acidophilic]]
-w: <<acidophile>> drf [[file:adj.all.org::acidophilic]]
+w: <<acidophil>> drf [[file:adjs.all.org::acidophilic]]
+w: <<acidophile>> drf [[file:adjs.all.org::acidophilic]]
 hyper: [[bacteria]]
 g: an organism that thrives in a relatively acid environment
 
@@ -42858,7 +42858,7 @@ w: <<congeneric>>
 hyper: [[file:noun.Tops.org::organism]]
 g: an animal or plant that bears a relationship to another (as related by common descent or by membership in the same genus)
 
-w: <<polymorph>> drf [[file:adj.all.org::polymorphic]] drf [[file:adj.pert.org::polymorphic]]
+w: <<polymorph>> drf [[file:adjs.all.org::polymorphic]] drf [[file:adj.pert.org::polymorphic]]
 hyper: [[file:noun.Tops.org::organism]]
 g: an organism that can assume more than one adult form as in the castes of ants or termites
 
@@ -42870,7 +42870,7 @@ w: <<dihybrid>>
 hyper: [[hybrid]]
 g: a hybrid produced by parents that differ only at two gene loci that have two alleles each
 
-w: <<hybrid>> drf [[file:adj.all.org::hybrid]] drf [[file:verb.contact.org::hybridize]]
+w: <<hybrid>> drf [[file:adjs.all.org::hybrid]] drf [[file:verb.contact.org::hybridize]]
 w: <<crossbreed>> drf [[file:verb.contact.org::crossbreed]]
 w: <<cross>> drf [[file:verb.contact.org::cross]]
 hyper: [[file:noun.Tops.org::organism]]
@@ -42922,7 +42922,7 @@ hyper: [[horn1]]
 hp: [[deer]]
 g: deciduous horn of a member of the deer family
 
-w: <<horn1>> drf [[file:adj.all.org::horny]] drf [[file:verb.contact.org::horn]]
+w: <<horn1>> drf [[file:adjs.all.org::horny]] drf [[file:verb.contact.org::horn]]
 hyper: [[file:noun.body.org::process]]
 hp: [[ram]]
 hp: [[goat]]
@@ -42970,13 +42970,13 @@ w: <<vent>>
 hyper: [[file:noun.body.org::orifice]]
 g: external opening of urinary or genital system of a lower vertebrate
 
-w: <<giant>> drf [[file:adj.all.org::giant]] drf [[file:adj.all.org::gigantic1]]
+w: <<giant>> drf [[file:adjs.all.org::giant]] drf [[file:adjs.all.org::gigantic1]]
 hyper: [[file:noun.Tops.org::animal]]
 g: any creature of exceptional size
 
 w: <<thoroughbred>>
 w: <<purebred>> drf [[file:adj.all.org::purebred]]
-w: <<pureblood>> drf [[file:adj.all.org::pureblood]]
+w: <<pureblood>> drf [[file:adjs.all.org::pureblood]]
 hyper: [[file:noun.Tops.org::animal]]
 g: a pedigreed animal of unmixed lineage; used especially of horses
 
@@ -43050,7 +43050,7 @@ w: <<offspring>>
 hyper: [[file:noun.Tops.org::animal]]
 g: any immature animal
 
-w: <<adult>> drf [[file:adj.all.org::adult]] drf [[file:noun.time.org::adulthood]] drf [[file:noun.state.org::adulthood]]
+w: <<adult>> drf [[file:adjs.all.org::adult]] drf [[file:noun.time.org::adulthood]] drf [[file:noun.state.org::adulthood]]
 hyper: [[file:noun.Tops.org::animal]]
 g: any mature animal
 
@@ -43193,7 +43193,7 @@ w: <<varment>>
 hyper: [[file:noun.Tops.org::animal]]
 g: any usually predatory wild animal considered undesirable; e.g., coyote
 
-w: <<vermin>> drf [[file:adj.all.org::verminous]]
+w: <<vermin>> drf [[file:adjs.all.org::verminous]]
 hyper: [[pest]]
 g: any of various small animals or insects that are pests; e.g. cockroaches or rats; "cereals must be protected from mice and other vermin"; "he examined the child's head for vermin"; "boys in the village have probably been shooting vermin"
 
@@ -43201,14 +43201,14 @@ w: <<range_animal>>
 hyper: [[file:noun.Tops.org::animal]]
 g: any animal that lives and grazes in the grassy open land of western North America (especially horses, cattle, sheep)
 
-w: <<poikilotherm>> drf [[file:adj.all.org::poikilothermic]] drf [[file:adj.all.org::poikilothermous]]
+w: <<poikilotherm>> drf [[file:adjs.all.org::poikilothermic]] drf [[file:adjs.all.org::poikilothermous]]
 w: <<ectotherm>>
 hyper: [[file:noun.Tops.org::animal]]
 g: an animal whose body temperature varies with the temperature of its surroundings; any animal except birds and mammals
 
-w: <<homeotherm>> drf [[file:adj.all.org::homeothermic]]
-w: <<homoiotherm>> drf [[file:adj.all.org::homoiothermic]]
-w: <<homotherm>> drf [[file:adj.all.org::homothermic]]
+w: <<homeotherm>> drf [[file:adjs.all.org::homeothermic]]
+w: <<homoiotherm>> drf [[file:adjs.all.org::homoiothermic]]
+w: <<homotherm>> drf [[file:adjs.all.org::homothermic]]
 hyper: [[file:noun.Tops.org::animal]]
 g: an animal that has a body temperature that is relatively constant and independent of the environmental temperature
 

@@ -4201,7 +4201,7 @@ ihyper: [[wife]]
 dt: [[file:noun.communication.org::Old_Testament]]
 g: (Old Testament) the wife of Abraham and mother of Isaac
 
-w: <<Sappho>> drf [[file:adj.all.org::Sapphic]]
+w: <<Sappho>> drf [[file:adjs.all.org::Sapphic]]
 ihyper: [[poetess]]
 ihyper: [[Lesbian1]]
 g: the Greek lyric poet of Lesbos; much admired although only fragments of her poetry have been preserved (6th century BC)
@@ -8650,7 +8650,7 @@ w: <<Clare_Booth_Luce>>
 ihyper: [[dramatist]]
 g: United States playwright and public official (1902-1987)
 
-w: <<Lucullus>> drf [[file:adj.all.org::lucullan]]
+w: <<Lucullus>> drf [[file:adjs.all.org::lucullan]]
 w: <<Licinius_Lucullus>>
 w: <<Lucius_Licinius_Lucullus>>
 ihyper: [[general]]
@@ -10537,7 +10537,7 @@ w: <<Jesus>>
 w: <<Jesus_of_Nazareth>>
 w: <<the_Nazarene>>
 w: <<Jesus_Christ>>
-w: <<Christ>> drf [[file:adj.all.org::christly]] drf [[file:adj.all.org::christian]] drf [[file:adj.pert.org::Christian]]
+w: <<Christ>> drf [[file:adjs.all.org::christly]] drf [[file:adj.all.org::christian]] drf [[file:adj.pert.org::Christian]]
 w: <<Savior1>>
 w: <<Saviour1>>
 w: <<Good_Shepherd>>
@@ -19121,7 +19121,7 @@ w: <<Zealot1>>
 hyper: [[Jew]]
 g: a member of an ancient Jewish sect in Judea in the first century who fought to the death against the Romans and who killed or persecuted Jews who collaborated with the Romans
 
-w: <<zany>> drf [[file:adj.all.org::zany]] drf [[file:adj.all.org::zany]]
+w: <<zany>> drf [[file:adjs.all.org::zany]] drf [[file:adjs.all.org::zany]]
 hyper: [[clown]]
 g: a buffoon in one of the old comedies; imitates others for ludicrous effect
 
@@ -19155,7 +19155,7 @@ w: <<rube>>
 w: <<hick>>
 w: <<yahoo1>>
 w: <<hayseed>>
-w: <<bumpkin>> drf [[file:adj.all.org::bumpkinly]]
+w: <<bumpkin>> drf [[file:adjs.all.org::bumpkinly]]
 w: <<chawbacon>>
 hyper: [[rustic]]
 g: a person who is not very intelligent or interested in culture
@@ -19197,7 +19197,7 @@ w: <<trainmaster>>
 w: <<train_dispatcher>>
 hyper: [[dispatcher1]]
 hyper: [[trainman]]
-g: a railroad employee who is in charge of a railway yard
+g: a railroad employer who is in charge of a railway yard
 
 w: <<yardman1>>
 hyper: [[trainman]]
@@ -19216,7 +19216,7 @@ w: <<yardbird>>
 hyper: [[recruit1]]
 g: a military recruit who is assigned menial tasks
 
-w: <<Yankee2>> drf [[file:adj.all.org::Yankee]]
+w: <<Yankee2>> drf [[file:adjs.all.org::Yankee]]
 w: <<Yank2>>
 w: <<Northerner1>>
 hyper: [[American]]
@@ -19507,7 +19507,7 @@ w: <<witch_doctor>>
 hyper: [[sorcerer]]
 g: someone who is believed to heal through magical powers
 
-w: <<wisp>> drf [[file:adj.all.org::wispy]]
+w: <<wisp>> drf [[file:adjs.all.org::wispy]]
 hyper: [[small_person]]
 g: a small person; "a mere wisp of a girl"
 
@@ -19599,8 +19599,8 @@ w: <<winder>> drf [[file:verb.contact.org::wind6]] drf [[file:verb.contact.org::
 hyper: [[worker]]
 g: a worker who winds (e.g., a winch or clock or other mechanism)
 
-w: <<wimp>> drf [[file:adj.all.org::wimpy]]
-w: <<chicken>> drf [[file:adj.all.org::chicken]]
+w: <<wimp>> drf [[file:adjs.all.org::wimpy]]
+w: <<chicken>> drf [[file:adjs.all.org::chicken]]
 w: <<crybaby1>>
 hyper: [[weakling]]
 g: a person who lacks confidence, is irresolute and wishy-washy
@@ -19745,7 +19745,7 @@ g: a dervish whose actions include ecstatic dancing and whirling
 
 w: <<whippersnapper>>
 w: <<jackanapes>>
-w: <<lightweight2>> drf [[file:adj.all.org::lightweight]]
+w: <<lightweight2>> drf [[file:adjs.all.org::lightweight]]
 hyper: [[cipher]]
 g: someone who is unimportant but cheeky and presumptuous
 
@@ -20101,7 +20101,7 @@ w: <<war_baby>>
 hyper: [[baby]]
 g: conceived or born during war
 
-w: <<wanton>> drf [[file:adj.all.org::wanton]] drf [[file:verb.stative.org::wanton1]] drf [[file:verb.communication.org::wanton]]
+w: <<wanton>> drf [[file:adjs.all.org::wanton]] drf [[file:verb.stative.org::wanton1]] drf [[file:verb.communication.org::wanton]]
 hyper: [[sensualist]]
 g: lewd or lascivious woman
 
@@ -20227,7 +20227,7 @@ hyper: [[follower]]
 g: a follower of the theories or an admirer of the music of Richard Wagner
 
 w: <<wag>>
-w: <<wit>> drf [[file:adj.all.org::witty]]
+w: <<wit>> drf [[file:adjs.all.org::witty]]
 w: <<card>>
 hyper: [[humorist]]
 du: [[file:noun.communication.org::colloquialism]]
@@ -20285,7 +20285,7 @@ dt: [[file:noun.group.org::law]]
 g: (law) a person called into court to defend a title
 
 w: <<voter>> drf [[file:verb.social.org::vote13]] drf [[file:verb.social.org::vote12]] drf [[file:verb.social.org::vote10]]
-w: <<elector>> drf [[file:adj.all.org::electoral]] drf [[file:verb.social.org::elect]]
+w: <<elector>> drf [[file:adjs.all.org::electoral]] drf [[file:verb.social.org::elect]]
 hyper: [[citizen]]
 hm: [[file:noun.group.org::electorate]]
 g: a citizen who has a legal right to vote
@@ -20307,8 +20307,8 @@ w: <<spewer>> drf [[file:verb.body.org::spew]]
 hyper: [[sick_person]]
 g: a person who vomits
 
-w: <<voluptuary>> drf [[file:adj.all.org::voluptuary]]
-w: <<sybarite>> drf [[file:adj.all.org::sybaritic]]
+w: <<voluptuary>> drf [[file:adjs.all.org::voluptuary]]
+w: <<sybarite>> drf [[file:adjs.all.org::sybaritic]]
 hyper: [[sensualist]]
 g: a person addicted to luxury and pleasures of the senses
 
@@ -20398,7 +20398,7 @@ w: <<visiting_fireman>>
 hyper: [[visitor]]
 g: an important or distinguished visitor
 
-w: <<visionary1>> drf [[file:adj.all.org::visionary]]
+w: <<visionary1>> drf [[file:adjs.all.org::visionary]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person given to fanciful speculations and enthusiasms with little regard for what is actually possible
 
@@ -20434,7 +20434,7 @@ hyper: [[Filipino]]
 hm: [[file:noun.location.org::Philippines]]
 g: a member of the most numerous indigenous people of the Philippines
 
-w: <<virtuoso1>> drf [[file:adj.all.org::virtuoso]]
+w: <<virtuoso1>> drf [[file:adjs.all.org::virtuoso]]
 hyper: [[musician]]
 g: a musician who is a consummate master of technique and artistry
 
@@ -20442,7 +20442,7 @@ w: <<virologist>> drf [[file:noun.cognition.org::virology]]
 hyper: [[microbiologist]]
 g: a specialist in virology
 
-w: <<virgin>> drf [[file:adj.all.org::virgin]] drf [[file:adj.all.org::virginal]] drf [[file:adj.pert.org::virginal]]
+w: <<virgin>> drf [[file:adjs.all.org::virgin]] drf [[file:adjs.all.org::virginal]] drf [[file:adj.pert.org::virginal]]
 hyper: [[innocent]]
 g: a person who has never had sex
 
@@ -20499,8 +20499,8 @@ w: <<baddie>> du [[file:noun.communication.org::slang]]
 hyper: [[file:noun.cognition.org::character1]]
 g: the principal bad character in a film or work of fiction
 
-w: <<villain>> drf [[file:adj.all.org::villainous]]
-w: <<scoundrel>> drf [[file:adj.all.org::scoundrelly]]
+w: <<villain>> drf [[file:adjs.all.org::villainous]]
+w: <<scoundrel>> drf [[file:adjs.all.org::scoundrelly]]
 hyper: [[unwelcome_person]]
 g: a wicked or evil person; someone who does evil deliberately
 
@@ -20616,7 +20616,7 @@ w: <<vet>> drf [[file:verb.body.org::vet]] drf [[file:verb.social.org::vet]]
 hyper: [[doctor]]
 g: a doctor who practices veterinary medicine
 
-w: <<veteran2>> drf [[file:adj.all.org::veteran]]
+w: <<veteran2>> drf [[file:adjs.all.org::veteran]]
 w: <<veteran_soldier>>
 hyper: [[serviceman]]
 g: a serviceman who has seen considerable active service; "the veterans laughed at the new recruits"
@@ -20629,7 +20629,7 @@ hm: [[file:noun.group.org::American_Legion]]
 hm: [[file:noun.group.org::Veterans_of_Foreign_Wars]]
 g: a person who has served in the armed forces
 
-w: <<veteran>> drf [[file:adj.all.org::veteran]]
+w: <<veteran>> drf [[file:adjs.all.org::veteran]]
 w: <<old-timer1>>
 w: <<oldtimer1>>
 w: <<old_hand>>
@@ -20649,7 +20649,7 @@ hyper: [[church_officer]]
 hm: [[file:noun.group.org::vestry]]
 g: a man who is a member of a church vestry
 
-w: <<vestal>> drf [[file:adj.all.org::vestal]]
+w: <<vestal>> drf [[file:adjs.all.org::vestal]]
 hyper: [[woman]]
 g: a chaste woman
 
@@ -20662,7 +20662,7 @@ w: <<high_muckamuck>>
 hyper: [[important_person]]
 g: an important or influential (and often overbearing) person
 
-w: <<vermin>> drf [[file:adj.all.org::verminous]]
+w: <<vermin>> drf [[file:adjs.all.org::verminous]]
 w: <<varmint>>
 hyper: [[bad_person]]
 g: an irritating or obnoxious person
@@ -20716,7 +20716,7 @@ hyper: [[performer]]
 g: a performer who works in vaudeville
 
 w: <<vassal>>
-w: <<liege>> drf [[file:adj.all.org::liege]]
+w: <<liege>> drf [[file:adjs.all.org::liege]]
 w: <<liegeman>>
 w: <<liege_subject>>
 w: <<feudatory>> drf [[file:adj.pert.org::feudatory]]
@@ -20775,10 +20775,10 @@ hyper: [[Hindu]]
 hm: [[file:noun.group.org::vaisya]]
 g: a member of the mercantile and professional Hindu caste; the third of the four main castes
 
-w: <<vagrant>> drf [[file:adj.all.org::vagrant]]
+w: <<vagrant>> drf [[file:adjs.all.org::vagrant]]
 w: <<drifter>> drf [[file:verb.motion.org::drift1]]
 w: <<floater1>>
-w: <<vagabond1>> drf [[file:adj.all.org::vagabond1]] drf [[file:verb.motion.org::vagabond]]
+w: <<vagabond1>> drf [[file:adjs.all.org::vagabond1]] drf [[file:verb.motion.org::vagabond]]
 hyper: [[wanderer]]
 hyper: [[poor_person]]
 g: a wanderer who has no established residence or visible means of support
@@ -20829,7 +20829,7 @@ w: <<utility_man>>
 hyper: [[workman]]
 g: a workman expected to serve in any capacity when called on
 
-w: <<utilitarian>> drf [[file:adj.all.org::utilitarian]]
+w: <<utilitarian>> drf [[file:adjs.all.org::utilitarian]]
 hyper: [[moralist]]
 g: someone who believes that the value of a thing depends on its utility
 
@@ -20885,8 +20885,8 @@ hyper: [[unpleasant_person]]
 g: an arrogant or presumptuous person
 
 w: <<upstart>>
-w: <<parvenu>> drf [[file:adj.all.org::parvenu]]
-w: <<nouveau-riche>> drf [[file:adj.all.org::nouveau-riche]]
+w: <<parvenu>> drf [[file:adjs.all.org::parvenu]]
+w: <<nouveau-riche>> drf [[file:adjs.all.org::nouveau-riche]]
 w: <<arriviste>>
 hyper: [[unpleasant_person]]
 g: a person who has suddenly risen to a higher economic status but has not gained social acceptance of others in that class
@@ -20916,7 +20916,7 @@ w: <<rebuker>> drf [[file:verb.communication.org::rebuke]]
 hyper: [[authority1]]
 g: someone who finds fault or imputes blame
 
-w: <<untouchable>> drf [[file:adj.all.org::untouchable]]
+w: <<untouchable>> drf [[file:adjs.all.org::untouchable]]
 w: <<Harijan>>
 hyper: [[outcast]]
 g: belongs to lowest social and ritual class in India
@@ -21045,13 +21045,13 @@ w: <<tyrant2>>
 hyper: [[ruler]]
 g: in ancient Greece, a ruler who had seized power without legal right to it
 
-w: <<tyrant1>> drf [[file:adj.all.org::tyrannous]]
+w: <<tyrant1>> drf [[file:adjs.all.org::tyrannous]]
 hyper: [[file:noun.Tops.org::person]]
 g: any person who exercises power in a cruel way; "his father was a tyrant"
 
-w: <<tyrant>> drf [[file:adj.all.org::tyrannous]] drf [[file:verb.social.org::tyrannize]] drf [[file:verb.emotion.org::tyrannize]]
-w: <<autocrat>> drf [[file:adj.all.org::autocratic]]
-w: <<despot>> drf [[file:adj.all.org::despotic2]] drf [[file:adj.all.org::despotic]] drf [[file:adj.pert.org::despotic]] drf [[file:adj.pert.org::despotical]]
+w: <<tyrant>> drf [[file:adjs.all.org::tyrannous]] drf [[file:verb.social.org::tyrannize]] drf [[file:verb.emotion.org::tyrannize]]
+w: <<autocrat>> drf [[file:adjs.all.org::autocratic]]
+w: <<despot>> drf [[file:adjs.all.org::despotic2]] drf [[file:adjs.all.org::despotic]] drf [[file:adj.pert.org::despotic]] drf [[file:adj.pert.org::despotical]]
 hyper: [[dictator]]
 g: a cruel and oppressive dictator
 
@@ -21358,17 +21358,17 @@ w: <<trapper>> drf [[file:verb.contact.org::trap]]
 hyper: [[hunter]]
 g: someone who sets traps for animals (usually to obtain their furs)
 
-w: <<transvestite>> drf [[file:adj.all.org::transvestic]] drf [[file:adj.all.org::transvestite]]
+w: <<transvestite>> drf [[file:adjs.all.org::transvestic]] drf [[file:adjs.all.org::transvestite]]
 w: <<cross-dresser>> drf [[file:verb.body.org::cross-dress]]
 hyper: [[file:noun.Tops.org::person]]
 g: someone who adopts the dress or manner or sexual role of the opposite sex
 
-w: <<transsexual2>> drf [[file:adj.all.org::transsexual]]
+w: <<transsexual2>> drf [[file:adjs.all.org::transsexual]]
 w: <<transexual2>>
 hyper: [[anomaly]]
 g: a person who has undergone a sex change operation
 
-w: <<transsexual>> drf [[file:adj.all.org::transsexual]]
+w: <<transsexual>> drf [[file:adjs.all.org::transsexual]]
 w: <<transexual>>
 hyper: [[file:noun.Tops.org::person]]
 g: a person whose sexual identification is entirely with the opposite sex
@@ -21387,7 +21387,7 @@ w: <<transcriber3>>
 hyper: [[linguist]]
 g: a person who translates written messages from one language to another
 
-w: <<transient>> drf [[file:adj.all.org::transient]]
+w: <<transient>> drf [[file:adjs.all.org::transient]]
 hyper: [[traveler]]
 g: one who stays for only a short time; "transient laborers"
 
@@ -21427,7 +21427,7 @@ w: <<transcendentalist>> drf [[file:noun.cognition.org::transcendentalism]]
 hyper: [[philosopher]]
 g: advocate of transcendentalism
 
-w: <<transalpine>> drf [[file:adj.all.org::transalpine]]
+w: <<transalpine>> drf [[file:adjs.all.org::transalpine]]
 hyper: [[foreigner1]]
 g: one living on or coming from the other side of the Alps from Italy
 
@@ -21449,7 +21449,7 @@ w: <<traitress>>
 hyper: [[traitor]]
 g: female traitor
 
-w: <<traitor>> drf [[file:adj.all.org::traitorous]]
+w: <<traitor>> drf [[file:adjs.all.org::traitorous]]
 w: <<treasonist>> drf [[file:noun.attribute.org::treason]] drf [[file:noun.act.org::treason1]] drf [[file:noun.act.org::treason]]
 hyper: [[criminal]]
 g: someone who betrays his country by committing treason
@@ -21508,7 +21508,7 @@ w: <<traffic_cop>>
 hyper: [[policeman]]
 g: a policeman who controls the flow of automobile traffic
 
-w: <<traditionalist>> drf [[file:adj.all.org::traditionalistic]] drf [[file:noun.attribute.org::traditionalism]] drf [[file:noun.act.org::traditionalism]]
+w: <<traditionalist>> drf [[file:adjs.all.org::traditionalistic]] drf [[file:noun.attribute.org::traditionalism]] drf [[file:noun.act.org::traditionalism]]
 w: <<diehard>> drf [[file:verb.stative.org::die_hard]]
 hyper: [[conservative]]
 g: one who adheres to traditional views
@@ -21601,7 +21601,7 @@ w: <<touter>> drf [[file:verb.communication.org::tout2]]
 hyper: [[advertiser]]
 g: someone who advertises for customers in an especially brazen way
 
-w: <<tourist>> drf [[file:adj.all.org::touristy]] drf [[file:noun.act.org::tour]] drf [[file:noun.act.org::tourism]] drf [[file:verb.motion.org::tour]]
+w: <<tourist>> drf [[file:adjs.all.org::touristy]] drf [[file:noun.act.org::tour]] drf [[file:noun.act.org::tourism]] drf [[file:verb.motion.org::tour]]
 w: <<tourer>> drf [[file:verb.motion.org::tour]]
 w: <<holidaymaker>>
 hyper: [[traveler]]
@@ -21927,7 +21927,7 @@ g: (baseball) the person who plays third base
 
 w: <<thin_person>> ant [[fat_person]]
 w: <<skin_and_bones>>
-w: <<scrag>> drf [[file:adj.all.org::scraggy]]
+w: <<scrag>> drf [[file:adjs.all.org::scraggy]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person who is unusually thin and scrawny
 
@@ -22061,7 +22061,7 @@ hyper: [[file:noun.Tops.org::person]]
 g: a person who inspires fear or dread; "he was the terror of the neighborhood"
 
 w: <<terror>>
-w: <<brat>> drf [[file:adj.all.org::bratty]]
+w: <<brat>> drf [[file:adjs.all.org::bratty]]
 w: <<little_terror>>
 w: <<holy_terror>>
 hyper: [[imp]]
@@ -22360,7 +22360,7 @@ w: <<tattletale>>
 w: <<tattler>> drf [[file:verb.communication.org::tattle1]]
 w: <<taleteller>>
 w: <<talebearer>>
-w: <<telltale>> drf [[file:adj.all.org::telltale]]
+w: <<telltale>> drf [[file:adjs.all.org::telltale]]
 w: <<blabbermouth>>
 hyper: [[gossip]]
 g: someone who gossips indiscreetly
@@ -22610,7 +22610,7 @@ w: <<syllogiser>> drf [[file:verb.cognition.org::syllogise]]
 hyper: [[logician]]
 g: logician skilled in syllogistic reasoning
 
-w: <<sycophant>> drf [[file:adj.all.org::sycophantic]] drf [[file:noun.attribute.org::sycophancy]] drf [[file:adj.all.org::sycophantic]]
+w: <<sycophant>> drf [[file:adjs.all.org::sycophantic]] drf [[file:noun.attribute.org::sycophancy]] drf [[file:adjs.all.org::sycophantic]]
 w: <<toady>> drf [[file:verb.communication.org::toady]]
 w: <<crawler>> drf [[file:verb.motion.org::crawl3]]
 w: <<lackey1>>
@@ -22660,7 +22660,7 @@ g: a person who engages freely in promiscuous sex
 w: <<swineherd>>
 w: <<pigman>>
 hyper: [[herder]]
-g: A herder of swine.
+g: a herder or swine
 
 w: <<swimmer>> drf [[file:verb.motion.org::swim]]
 hyper: [[athlete]]
@@ -22755,7 +22755,7 @@ hyper: [[mother]]
 g: a woman who bears a child for a couple where the wife is unable to do so; "a surrogate mother is artificially inseminated with the father's semen and carries the fetus to term"
 
 w: <<surrogate1>>
-w: <<alternate>> drf [[file:adj.all.org::alternate]] drf [[file:verb.social.org::alternate]] drf [[file:verb.cognition.org::alternate]]
+w: <<alternate>> drf [[file:adjs.all.org::alternate]] drf [[file:verb.social.org::alternate]] drf [[file:verb.cognition.org::alternate]]
 w: <<replacement2>> drf [[file:verb.social.org::replace]] drf [[file:verb.change.org::replace]]
 hyper: [[stand-in]]
 g: someone who takes the place of another person
@@ -22833,7 +22833,7 @@ w: <<supervisor>> drf [[file:verb.social.org::supervise]] drf [[file:verb.percep
 hyper: [[superior1]]
 g: one who supervises or has charge and direction of
 
-w: <<supernumerary1>> drf [[file:adj.all.org::supernumerary]]
+w: <<supernumerary1>> drf [[file:adjs.all.org::supernumerary]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person serving no apparent function; "reducing staff is difficult because our employees include no supernumeraries"
 
@@ -23007,7 +23007,7 @@ w: <<subtracter>>
 hyper: [[calculator]]
 g: a person who subtracts numbers
 
-w: <<substitute1>> drf [[file:adj.all.org::substitute2]] drf [[file:verb.social.org::substitute9]] drf [[file:verb.possession.org::substitute1]]
+w: <<substitute1>> drf [[file:adjs.all.org::substitute2]] drf [[file:verb.social.org::substitute9]] drf [[file:verb.possession.org::substitute1]]
 w: <<reserve>>
 w: <<second-stringer>>
 hyper: [[athlete]]
@@ -23037,13 +23037,13 @@ hyper: [[donor]]
 g: someone who contributes (or promises to contribute) a sum of money
 
 w: <<subordinate>> drf [[file:adj.all.org::subordinate1]] drf [[file:verb.change.org::subordinate3]] drf [[file:verb.cognition.org::subordinate]]
-w: <<subsidiary>> drf [[file:adj.all.org::subsidiary]]
+w: <<subsidiary>> drf [[file:adjs.all.org::subsidiary]]
 w: <<underling>>
 w: <<foot_soldier1>>
 hyper: [[assistant]]
 g: an assistant subject to the authority or control of another
 
-w: <<subnormal>> drf [[file:adj.all.org::subnormal]]
+w: <<subnormal>> drf [[file:adjs.all.org::subnormal]]
 hyper: [[simpleton]]
 g: a person of less than normal intelligence
 
@@ -23073,7 +23073,7 @@ w: <<subjectivist>> drf [[file:noun.cognition.org::subjectivism]]
 hyper: [[intellectual]]
 g: a person who subscribes to subjectivism
 
-w: <<subject1>> drf [[file:adj.all.org::subject]]
+w: <<subject1>> drf [[file:adjs.all.org::subject]]
 w: <<case2>>
 w: <<guinea_pig>>
 hyper: [[file:noun.Tops.org::person]]
@@ -23098,7 +23098,7 @@ w: <<subcontractor>> drf [[file:verb.social.org::subcontract1]] drf [[file:verb.
 hyper: [[contractor]]
 g: someone who enters into a subcontract with the primary contractor
 
-w: <<subaltern>> drf [[file:adj.all.org::subaltern]]
+w: <<subaltern>> drf [[file:adjs.all.org::subaltern]]
 hyper: [[commissioned_military_officer]]
 dt: [[file:noun.group.org::military]]
 g: a British commissioned army officer below the rank of captain
@@ -23239,7 +23239,7 @@ w: <<hooker>>
 w: <<hustler1>> drf [[file:verb.possession.org::hustle]]
 w: <<floozy>>
 w: <<floozie>>
-w: <<slattern1>> drf [[file:adj.all.org::slatternly]]
+w: <<slattern1>> drf [[file:adjs.all.org::slatternly]]
 hyper: [[prostitute]]
 g: a prostitute who attracts customers by walking the streets
 
@@ -23310,7 +23310,7 @@ hyper: [[file:noun.Tops.org::person]]
 g: an individual that one is not acquainted with
 
 w: <<stranger>> ant [[acquaintance]]
-w: <<alien1>> drf [[file:adj.all.org::alien]]
+w: <<alien1>> drf [[file:adjs.all.org::alien]]
 w: <<unknown>> drf [[file:adj.all.org::unknown]]
 hyper: [[intruder]]
 g: anyone who does not belong in the environment in which they are found
@@ -23379,7 +23379,7 @@ w: <<fireman1>>
 hyper: [[laborer]]
 g: a laborer who tends fires (as on a coal-fired train or steamship)
 
-w: <<stoic>> drf [[file:adj.all.org::stoic]] drf [[file:adj.all.org::stoical]]
+w: <<stoic>> drf [[file:adjs.all.org::stoic]] drf [[file:adjs.all.org::stoical]]
 w: <<unemotional_person>> ant [[emotional_person]]
 hyper: [[adult]]
 g: someone who is seemingly indifferent to emotions
@@ -23529,7 +23529,7 @@ w: <<half_brother>>
 hyper: [[brother]]
 g: a brother who has only one parent in common with you
 
-w: <<stentor>> drf [[file:adj.all.org::stentorian]]
+w: <<stentor>> drf [[file:adjs.all.org::stentorian]]
 hyper: [[speaker]]
 g: a speaker with an unusually loud voice
 
@@ -23648,7 +23648,7 @@ hyper: [[actor]]
 g: an actor who plays a principal role
 
 w: <<stand-in>> drf [[file:verb.possession.org::stand_in]]
-w: <<substitute>> drf [[file:adj.all.org::substitute]] drf [[file:verb.social.org::substitute9]] drf [[file:verb.possession.org::substitute1]]
+w: <<substitute>> drf [[file:adjs.all.org::substitute]] drf [[file:verb.social.org::substitute9]] drf [[file:verb.possession.org::substitute1]]
 w: <<relief>>
 w: <<reliever1>> drf [[file:verb.social.org::relieve1]]
 w: <<backup>>
@@ -23774,7 +23774,7 @@ hyper: [[attacker]]
 g: someone who stabs another person
 
 w: <<squire2>>
-w: <<gallant>> drf [[file:adj.all.org::gallant]]
+w: <<gallant>> drf [[file:adjs.all.org::gallant]]
 hyper: [[attendant]]
 g: a man who attends or escorts a woman
 
@@ -24113,12 +24113,12 @@ w: <<specifier>> drf [[file:verb.cognition.org::specify2]]
 hyper: [[intellectual]]
 g: someone who draws up specifications giving details (as for obtaining a patent)
 
-w: <<specialist1>> drf [[file:adj.all.org::specialistic]] drf [[file:adj.pert.org::specialistic]] drf [[file:noun.cognition.org::specialism]] drf [[file:noun.act.org::specialism]] drf [[file:verb.social.org::specialize]] drf [[file:verb.social.org::specialise]]
+w: <<specialist1>> drf [[file:adjs.all.org::specialistic]] drf [[file:adj.pert.org::specialistic]] drf [[file:noun.cognition.org::specialism]] drf [[file:noun.act.org::specialism]] drf [[file:verb.social.org::specialize]] drf [[file:verb.social.org::specialise]]
 w: <<medical_specialist>>
 hyper: [[doctor]]
 g: practices one branch of medicine
 
-w: <<specialist>> drf [[file:adj.all.org::specialistic]] drf [[file:adj.pert.org::specialistic]] drf [[file:noun.cognition.org::specialism]] drf [[file:noun.act.org::specialism]] drf [[file:verb.social.org::specialize]] drf [[file:verb.social.org::specialise]] ant [[generalist]]
+w: <<specialist>> drf [[file:adjs.all.org::specialistic]] drf [[file:adj.pert.org::specialistic]] drf [[file:noun.cognition.org::specialism]] drf [[file:noun.act.org::specialism]] drf [[file:verb.social.org::specialize]] drf [[file:verb.social.org::specialise]] ant [[generalist]]
 w: <<specializer>> drf [[file:verb.social.org::specialize]]
 w: <<specialiser>> drf [[file:verb.social.org::specialise]]
 hyper: [[expert]]
@@ -24194,7 +24194,7 @@ g: someone who sows
 
 w: <<sovereign>>
 w: <<crowned_head>>
-w: <<monarch>> drf [[file:adj.all.org::monarchal]] drf [[file:adj.all.org::monarchal]] drf [[file:adj.all.org::monarchic]] drf [[file:adj.all.org::monarchical]] drf [[file:adj.all.org::monarchical]]
+w: <<monarch>> drf [[file:adjs.all.org::monarchal]] drf [[file:adjs.all.org::monarchal]] drf [[file:adjs.all.org::monarchic]] drf [[file:adjs.all.org::monarchical]] drf [[file:adjs.all.org::monarchical]]
 hyper: [[ruler]]
 hyper: [[head_of_state]]
 g: a nation's ruler or head of state usually by hereditary right
@@ -24245,7 +24245,7 @@ hyper: [[lover]]
 g: someone for whom you have a deep affinity
 
 w: <<soul>>
-w: <<psyche>> drf [[file:adj.all.org::psychical]]
+w: <<psyche>> drf [[file:adjs.all.org::psychical]]
 hyper: [[spirit1]]
 g: the immaterial part of a person; the actuating cause of an individual life
 
@@ -24280,7 +24280,7 @@ g: in societies practicing shamanism: one acting as a medium between the visible
 
 w: <<sorcerer>>
 w: <<magician>> drf [[file:noun.cognition.org::magic]]
-w: <<wizard>> drf [[file:adj.all.org::wizard]] drf [[file:adj.all.org::wizardly]]
+w: <<wizard>> drf [[file:adjs.all.org::wizard]] drf [[file:adjs.all.org::wizardly]]
 w: <<necromancer>> drf [[file:noun.cognition.org::necromancy1]]
 w: <<thaumaturge>>
 w: <<thaumaturgist>>
@@ -24291,7 +24291,7 @@ w: <<soprano>>
 hyper: [[singer]]
 g: a female singer
 
-w: <<sophomore>> drf [[file:adj.all.org::sophomore]]
+w: <<sophomore>> drf [[file:adjs.all.org::sophomore]]
 w: <<soph>>
 hyper: [[lowerclassman]]
 g: a second-year undergraduate
@@ -24360,7 +24360,7 @@ hyper: [[lawyer]]
 dt: [[file:noun.group.org::law]]
 g: a British lawyer who gives legal advice and prepares legal documents
 
-w: <<soldier>> drf [[file:adj.all.org::soldierly]] drf [[file:noun.cognition.org::soldiership]] drf [[file:verb.competition.org::soldier]]
+w: <<soldier>> drf [[file:adjs.all.org::soldierly]] drf [[file:noun.cognition.org::soldiership]] drf [[file:verb.competition.org::soldier]]
 hyper: [[enlisted_person]]
 g: an enlisted man or woman who serves in an army; "the soldiers stood at attention"
 
@@ -24438,7 +24438,7 @@ w: <<socialite>>
 hyper: [[important_person]]
 g: a socially prominent person
 
-w: <<collectivist>> drf [[file:adj.all.org::collectivist]] drf [[file:noun.group.org::collectivism]] drf [[file:noun.cognition.org::collectivism]] drf [[file:noun.group.org::left_wing]]
+w: <<collectivist>> drf [[file:adjs.all.org::collectivist]] drf [[file:noun.group.org::collectivism]] drf [[file:noun.cognition.org::collectivism]] drf [[file:noun.group.org::left_wing]]
 w: <<leftist>> drf [[file:noun.cognition.org::leftism]]
 w: <<left-winger>>
 hyper: [[socialist]]
@@ -24496,15 +24496,15 @@ w: <<snorer>> drf [[file:verb.body.org::snore]]
 hyper: [[sleeper]]
 g: someone who snores while sleeping
 
-w: <<snoop>> drf [[file:adj.all.org::snoopy]] drf [[file:verb.communication.org::snoop]]
+w: <<snoop>> drf [[file:adjs.all.org::snoopy]] drf [[file:verb.communication.org::snoop]]
 w: <<snooper>> drf [[file:verb.communication.org::snoop]]
 hyper: [[spy1]]
 g: a spy who makes uninvited inquiries into the private affairs of others
 
-w: <<snob>> drf [[file:adj.all.org::snobby]]
+w: <<snob>> drf [[file:adjs.all.org::snobby]]
 w: <<prig>>
-w: <<snot>> drf [[file:adj.all.org::snotty]]
-w: <<snoot>> drf [[file:adj.all.org::snooty]]
+w: <<snot>> drf [[file:adjs.all.org::snotty]]
+w: <<snoot>> drf [[file:adjs.all.org::snooty]]
 hyper: [[unpleasant_person]]
 g: a person regarded as arrogant and annoying
 
@@ -24536,7 +24536,7 @@ w: <<snitcher1>> drf [[file:verb.possession.org::snitch]]
 hyper: [[thief]]
 g: a thief who steals without using violence
 
-w: <<sneak2>> drf [[file:adj.all.org::sneak]] drf [[file:adj.all.org::sneaky]]
+w: <<sneak2>> drf [[file:adjs.all.org::sneak]] drf [[file:adjs.all.org::sneaky]]
 hyper: [[unpleasant_person]]
 g: a person who is regarded as underhanded and furtive and contemptible
 
@@ -24608,7 +24608,7 @@ w: <<peach>>
 w: <<lulu>>
 w: <<looker>>
 w: <<mantrap>>
-w: <<dish>> drf [[file:adj.all.org::dishy]]
+w: <<dish>> drf [[file:adjs.all.org::dishy]]
 hyper: [[woman]]
 g: a very attractive or seductive looking woman
 
@@ -24662,7 +24662,7 @@ hyper: [[propagandist]]
 g: someone who coins and uses slogans to promote a cause
 
 w: <<slob>>
-w: <<sloven>> drf [[file:adj.all.org::slovenly]]
+w: <<sloven>> drf [[file:adjs.all.org::slovenly]]
 w: <<pig2>>
 w: <<slovenly_person>>
 hyper: [[vulgarian]]
@@ -24763,7 +24763,7 @@ w: <<slave>>
 hyper: [[file:noun.Tops.org::person]]
 g: a person who is owned by someone
 
-w: <<slattern>> drf [[file:adj.all.org::slatternly]]
+w: <<slattern>> drf [[file:adjs.all.org::slatternly]]
 w: <<slut1>>
 w: <<slovenly_woman>>
 w: <<trollop1>>
@@ -24866,8 +24866,8 @@ w: <<sketcher>> drf [[file:verb.creation.org::sketch]]
 hyper: [[draftsman1]]
 g: someone who draws sketches
 
-w: <<skeptic>> drf [[file:adj.all.org::skeptical]] drf [[file:adj.all.org::skeptical]]
-w: <<sceptic>> drf [[file:adj.all.org::sceptical]] drf [[file:adj.all.org::sceptical]]
+w: <<skeptic>> drf [[file:adjs.all.org::skeptical]] drf [[file:adjs.all.org::skeptical]]
+w: <<sceptic>> drf [[file:adjs.all.org::sceptical]] drf [[file:adjs.all.org::sceptical]]
 w: <<doubter>> drf [[file:verb.cognition.org::doubt]]
 hyper: [[intellectual]]
 g: someone who habitually doubts accepted beliefs
@@ -25011,7 +25011,7 @@ g: (Old Testament) the 2nd son of Jacob and one of the 12 patriarchs of Israel
 
 w: <<addle-head>>
 w: <<addlehead>>
-w: <<loon1>> drf [[file:adj.all.org::loony]]
+w: <<loon1>> drf [[file:adjs.all.org::loony]]
 w: <<birdbrain>>
 hyper: [[misfit]]
 g: a person with confused ideas; incapable of serious thought
@@ -25103,11 +25103,11 @@ w: <<sufferer>> drf [[file:verb.perception.org::suffer]] drf [[file:verb.body.or
 hyper: [[unfortunate]]
 g: a person suffering from an illness
 
-w: <<sibyl2>> drf [[file:adj.all.org::sibyllic]]
+w: <<sibyl2>> drf [[file:adjs.all.org::sibyllic]]
 hyper: [[fortuneteller]]
 g: a woman who tells fortunes
 
-w: <<sibyl>> drf [[file:adj.all.org::sibyllic]]
+w: <<sibyl>> drf [[file:adjs.all.org::sibyllic]]
 hyper: [[prophet]]
 dr: [[file:noun.location.org::Greece]]
 dr: [[file:noun.location.org::Rome]]
@@ -25485,7 +25485,7 @@ w: <<sex_bomb>>
 hyper: [[girl]]
 g: a young woman who is thought to have sex appeal
 
-w: <<sexagenarian>> drf [[file:adj.all.org::sexagenarian]]
+w: <<sexagenarian>> drf [[file:adjs.all.org::sexagenarian]]
 hyper: [[oldster]]
 g: someone whose age is in the sixties
 
@@ -25600,7 +25600,7 @@ w: <<Sephardic_Jew>>
 hyper: [[Jew]]
 g: a Jew who is of Spanish or Portuguese or North African descent
 
-w: <<separatist>> drf [[file:adj.all.org::separatist]] drf [[file:noun.attribute.org::separatism]] drf [[file:verb.social.org::separate2]]
+w: <<separatist>> drf [[file:adjs.all.org::separatist]] drf [[file:noun.attribute.org::separatism]] drf [[file:verb.social.org::separate2]]
 w: <<separationist>>
 hyper: [[advocate]]
 dt: [[file:noun.act.org::church_service]]
@@ -25878,7 +25878,7 @@ hyper: [[agent2]]
 g: a person secretly employed in espionage for a government
 
 w: <<second-rater>>
-w: <<mediocrity>> drf [[file:adj.all.org::mediocre]] drf [[file:adj.all.org::mediocre]]
+w: <<mediocrity>> drf [[file:adjs.all.org::mediocre]] drf [[file:adjs.all.org::mediocre]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person of second-rate ability or value; "a team of aging second-raters"; "shone among the mediocrities who surrounded him"
 
@@ -26249,7 +26249,7 @@ hyper: [[simpleton]]
 dt: [[file:noun.communication.org::Yiddish]]
 g: (Yiddish) a dolt who is a habitual bungler
 
-w: <<schizophrenic>> drf [[file:adj.all.org::schizophrenic1]]
+w: <<schizophrenic>> drf [[file:adjs.all.org::schizophrenic1]]
 hyper: [[psychotic]]
 g: someone who is afflicted with schizophrenia
 
@@ -26353,8 +26353,8 @@ w: <<saver>> drf [[file:verb.possession.org::save4]] drf [[file:verb.possession.
 hyper: [[owner2]]
 g: someone who saves (especially money)
 
-w: <<savage>> drf [[file:adj.all.org::savage]]
-w: <<barbarian>> drf [[file:adj.all.org::barbarian]]
+w: <<savage>> drf [[file:adjs.all.org::savage]]
+w: <<barbarian>> drf [[file:adjs.all.org::barbarian]]
 hyper: [[primitive]]
 g: a member of an uncivilized people
 
@@ -26369,7 +26369,7 @@ hyper: [[governor]]
 g: a governor of a province in ancient Persia
 
 w: <<satyr1>> drf [[file:adj.pert.org::satyric]] drf [[file:adj.pert.org::satyrical]]
-w: <<lecher>> drf [[file:adj.all.org::lecherous]]
+w: <<lecher>> drf [[file:adjs.all.org::lecherous]]
 w: <<lech>>
 w: <<letch>>
 hyper: [[pervert]]
@@ -26533,15 +26533,15 @@ w: <<shop_assistant>> du [[file:noun.location.org::Britain]]
 hyper: [[salesperson]]
 g: a salesperson in a store
 
-w: <<saint3>> drf [[file:adj.all.org::saintly]] drf [[file:noun.group.org::sainthood]] drf [[file:noun.act.org::sainthood]] drf [[file:verb.communication.org::saint]] drf [[file:verb.communication.org::sanctify]]
+w: <<saint3>> drf [[file:adjs.all.org::saintly]] drf [[file:noun.group.org::sainthood]] drf [[file:noun.act.org::sainthood]] drf [[file:verb.communication.org::saint]] drf [[file:verb.communication.org::sanctify]]
 hyper: [[deity]]
 hm: [[file:noun.group.org::sainthood]]
 g: a person who has died and has been declared a saint by canonization
 
-w: <<saint>> drf [[file:adj.all.org::saintly]] drf [[file:noun.group.org::sainthood]] drf [[file:noun.act.org::sainthood]] drf [[file:verb.communication.org::sanctify]] drf [[file:verb.change.org::sanctify]]
+w: <<saint>> drf [[file:adjs.all.org::saintly]] drf [[file:noun.group.org::sainthood]] drf [[file:noun.act.org::sainthood]] drf [[file:verb.communication.org::sanctify]] drf [[file:verb.change.org::sanctify]]
 w: <<holy_man>>
 w: <<holy_person>>
-w: <<angel3>> drf [[file:adj.all.org::angelical]] drf [[file:adj.all.org::angelical]] drf [[file:adj.pert.org::angelical]]
+w: <<angel3>> drf [[file:adjs.all.org::angelical]] drf [[file:adjs.all.org::angelical]] drf [[file:adj.pert.org::angelical]]
 hyper: [[good_person]]
 g: person of exceptional holiness
 
@@ -26645,8 +26645,8 @@ w: <<ruralist>>
 hyper: [[advocate]]
 g: an advocate of rural living
 
-w: <<runt>> drf [[file:adj.all.org::runty]] drf [[file:adj.all.org::runty]]
-w: <<shrimp>> drf [[file:adj.all.org::shrimpy]]
+w: <<runt>> drf [[file:adjs.all.org::runty]] drf [[file:adjs.all.org::runty]]
+w: <<shrimp>> drf [[file:adjs.all.org::shrimpy]]
 w: <<peewee>>
 w: <<half-pint>>
 hyper: [[small_person]]
@@ -26753,7 +26753,7 @@ w: <<rat>> drf [[file:verb.social.org::rat]]
 w: <<skunk>>
 w: <<stinker>>
 w: <<stinkpot>>
-w: <<bum2>> drf [[file:adj.all.org::bum]]
+w: <<bum2>> drf [[file:adjs.all.org::bum]]
 w: <<puke>>
 w: <<crumb>>
 w: <<lowlife>>
@@ -26855,7 +26855,7 @@ g: an especially noisy and unrestrained merrymaker
 
 w: <<rogue>>
 w: <<knave>>
-w: <<rascal2>> drf [[file:adj.all.org::rascally]]
+w: <<rascal2>> drf [[file:adjs.all.org::rascally]]
 w: <<rapscallion2>>
 w: <<scalawag2>>
 w: <<scallywag2>>
@@ -26959,7 +26959,7 @@ w: <<rivetter>> drf [[file:verb.contact.org::rivet]]
 hyper: [[skilled_worker]]
 g: a worker who inserts and hammers rivets
 
-w: <<rival>> drf [[file:adj.all.org::rivalrous]] drf [[file:verb.competition.org::rival]]
+w: <<rival>> drf [[file:adjs.all.org::rivalrous]] drf [[file:verb.competition.org::rival]]
 w: <<challenger>> drf [[file:verb.communication.org::challenge]]
 w: <<competitor>> drf [[file:verb.competition.org::compete]]
 w: <<competition>>
@@ -27018,7 +27018,7 @@ w: <<ringer>>
 hyper: [[imposter]]
 g: a contestant entered in a competition under false pretenses
 
-w: <<rightist>> drf [[file:adj.all.org::rightist]] drf [[file:noun.cognition.org::rightism]] drf [[file:noun.group.org::right_wing]]
+w: <<rightist>> drf [[file:adjs.all.org::rightist]] drf [[file:noun.cognition.org::rightism]] drf [[file:noun.group.org::right_wing]]
 w: <<right-winger>>
 hyper: [[conservative]]
 g: a member of a right wing political party
@@ -27096,7 +27096,7 @@ hyper: [[party]]
 dt: [[file:noun.group.org::law]]
 g: an unknown or fictitious party to legal proceedings
 
-w: <<ribald>> drf [[file:adj.all.org::ribald]]
+w: <<ribald>> drf [[file:adjs.all.org::ribald]]
 hyper: [[vulgarian]]
 g: a ribald person; someone who uses vulgar and offensive language
 
@@ -27125,13 +27125,13 @@ w: <<rheumatologist>> drf [[file:noun.cognition.org::rheumatology]]
 hyper: [[specialist1]]
 g: a physician specializing in rheumatic diseases
 
-w: <<rheumatic>> drf [[file:adj.all.org::rheumatic]]
+w: <<rheumatic>> drf [[file:adjs.all.org::rheumatic]]
 hyper: [[sick_person]]
 g: a person suffering with rheumatism
 
 w: <<revolutionist>> drf [[file:noun.cognition.org::revolutionism]] drf [[file:noun.event.org::revolution1]] drf [[file:noun.act.org::revolution]]
 w: <<revolutionary>> drf [[file:adj.all.org::revolutionary]]
-w: <<subversive>> drf [[file:adj.all.org::subversive]]
+w: <<subversive>> drf [[file:adjs.all.org::subversive]]
 w: <<subverter>> drf [[file:verb.social.org::subvert]]
 hyper: [[radical1]]
 g: a radical supporter of political or social revolution
@@ -27217,7 +27217,7 @@ w: <<respondent1>>
 hyper: [[codefendant]]
 g: the codefendant (especially in a divorce proceeding) who is accused of adultery with the corespondent
 
-w: <<respondent>> drf [[file:adj.all.org::respondent]] drf [[file:verb.communication.org::respond]] drf [[file:verb.cognition.org::respond]]
+w: <<respondent>> drf [[file:adjs.all.org::respondent]] drf [[file:verb.communication.org::respond]] drf [[file:verb.cognition.org::respond]]
 w: <<responder>> drf [[file:verb.communication.org::respond]] drf [[file:verb.cognition.org::respond1]] drf [[file:verb.cognition.org::respond]]
 w: <<answerer>> drf [[file:verb.communication.org::answer]]
 hyper: [[communicator]]
@@ -27265,11 +27265,11 @@ hyper: [[politician]]
 hm: [[file:noun.group.org::Republican_Party]]
 g: a member of the Republican Party
 
-w: <<republican>> drf [[file:adj.all.org::republican]]
+w: <<republican>> drf [[file:adjs.all.org::republican]]
 hyper: [[advocate]]
 g: an advocate of a republic (usually in opposition to a monarchy)
 
-w: <<reprobate>> drf [[file:adj.all.org::reprobate]]
+w: <<reprobate>> drf [[file:adjs.all.org::reprobate]]
 w: <<miscreant>>
 hyper: [[wrongdoer]]
 g: a person without moral scruples
@@ -27319,7 +27319,7 @@ w: <<rent_collector>>
 hyper: [[collector]]
 g: a person who goes from house to house collecting rents for the owner
 
-w: <<renegade>> drf [[file:adj.all.org::renegade]] drf [[file:verb.social.org::renegade]]
+w: <<renegade>> drf [[file:adjs.all.org::renegade]] drf [[file:verb.social.org::renegade]]
 hyper: [[deserter]]
 g: someone who rebels and becomes an outlaw
 
@@ -27351,12 +27351,12 @@ w: <<coenobite>> drf [[file:adj.pert.org::coenobitic]] drf [[file:adj.pert.org::
 hyper: [[religious]]
 g: a member of a religious order living in common
 
-w: <<anchorite>> drf [[file:adj.all.org::anchoritic]]
-w: <<hermit1>> drf [[file:adj.all.org::hermitic]] drf [[file:adj.all.org::hermitical]]
+w: <<anchorite>> drf [[file:adjs.all.org::anchoritic]]
+w: <<hermit1>> drf [[file:adjs.all.org::hermitic]] drf [[file:adjs.all.org::hermitical]]
 hyper: [[eremite]]
 g: one retired from society for religious reasons
 
-w: <<eremite>> drf [[file:adj.all.org::eremitical]] drf [[file:adj.all.org::eremitic]] drf [[file:adj.pert.org::eremitic]] drf [[file:adj.pert.org::eremitical]] ant [[cenobite]]
+w: <<eremite>> drf [[file:adjs.all.org::eremitical]] drf [[file:adjs.all.org::eremitic]] drf [[file:adj.pert.org::eremitic]] drf [[file:adj.pert.org::eremitical]] ant [[cenobite]]
 hyper: [[religious]]
 g: a Christian recluse
 
@@ -27393,7 +27393,7 @@ hyper: [[follower]]
 dt: [[file:noun.cognition.org::politics]]
 g: a dependable follower (especially in party politics); "he is one of the party regulars"
 
-w: <<regular>> drf [[file:adj.all.org::regular]]
+w: <<regular>> drf [[file:adjs.all.org::regular]]
 w: <<habitue>>
 w: <<fixture>>
 hyper: [[patron]]
@@ -27436,7 +27436,7 @@ hyper: [[committee_member]]
 hm: [[file:noun.group.org::governing_board]]
 g: members of a governing board
 
-w: <<regent>> drf [[file:adj.all.org::regent]]
+w: <<regent>> drf [[file:adjs.all.org::regent]]
 hyper: [[ruler]]
 g: someone who rules during the absence or incapacity or minority of the country's monarch
 
@@ -27450,7 +27450,7 @@ hm: [[file:noun.group.org::Reform_Judaism]]
 g: liberal Jew who tries to adapt all aspects of Judaism to modern circumstances
 
 w: <<reformer>> drf [[file:verb.change.org::reform]]
-w: <<reformist>> drf [[file:adj.all.org::reformist]] drf [[file:noun.cognition.org::reformism]] drf [[file:verb.change.org::reform8]] drf [[file:verb.change.org::reform4]] drf [[file:verb.change.org::reform]]
+w: <<reformist>> drf [[file:adjs.all.org::reformist]] drf [[file:noun.cognition.org::reformism]] drf [[file:verb.change.org::reform8]] drf [[file:verb.change.org::reform4]] drf [[file:verb.change.org::reform]]
 w: <<crusader>> drf [[file:verb.social.org::crusade10]]
 w: <<social_reformer>>
 w: <<meliorist>> drf [[file:noun.cognition.org::meliorism]]
@@ -27633,7 +27633,7 @@ w: <<realist2>> drf [[file:adj.all.org::realistic]] drf [[file:noun.state.org::r
 hyper: [[file:noun.Tops.org::person]]
 g: a person who accepts the world as it literally is and deals with it accordingly
 
-w: <<realist1>> drf [[file:adj.all.org::realistic]] drf [[file:noun.state.org::realism]] drf [[file:noun.group.org::realism]] drf [[file:noun.attribute.org::realism]]
+w: <<realist1>> drf [[file:adjs.all.org::realistic]] drf [[file:noun.state.org::realism]] drf [[file:noun.group.org::realism]] drf [[file:noun.attribute.org::realism]]
 hyper: [[painter]]
 g: a painter who represents the world realistically and not in an idealized or romantic style
 
@@ -27653,8 +27653,8 @@ w: <<reader>> drf [[file:noun.group.org::readership]] drf [[file:verb.cognition.
 hyper: [[scholar]]
 g: a person who enjoys reading
 
-w: <<reactionary>> drf [[file:adj.all.org::reactionary]]
-w: <<ultraconservative>> drf [[file:adj.all.org::ultraconservative]]
+w: <<reactionary>> drf [[file:adjs.all.org::reactionary]]
+w: <<ultraconservative>> drf [[file:adjs.all.org::ultraconservative]]
 w: <<extreme_right-winger>>
 hyper: [[conservative]]
 g: an extreme conservative; an opponent of progress or liberalism
@@ -27747,7 +27747,7 @@ g: a person whose speech or writing is not well organized
 
 w: <<rake>>
 w: <<rakehell>>
-w: <<profligate>> drf [[file:adj.all.org::profligate]]
+w: <<profligate>> drf [[file:adjs.all.org::profligate]]
 w: <<rip>>
 w: <<blood>>
 w: <<roue>>
@@ -27795,7 +27795,7 @@ hyper: [[unskilled_person]]
 g: an unskilled person who picks up rags from trash cans and public dumps as a means of livelihood
 
 w: <<ragamuffin>>
-w: <<tatterdemalion>> drf [[file:adj.all.org::tatterdemalion1]] drf [[file:adj.all.org::tatterdemalion]]
+w: <<tatterdemalion>> drf [[file:adjs.all.org::tatterdemalion1]] drf [[file:adjs.all.org::tatterdemalion]]
 hyper: [[urchin]]
 g: a dirty shabbily clothed urchin
 
@@ -27933,7 +27933,7 @@ w: <<queen4>>
 hyper: [[personification]]
 g: something personified as a woman who is considered the best or most important of her kind; "Paris is the queen of cities"; "the queen of ocean liners"
 
-w: <<queen1>> drf [[file:adj.all.org::queenly]]
+w: <<queen1>> drf [[file:adjs.all.org::queenly]]
 hyper: [[female_aristocrat]]
 hm: [[file:noun.group.org::royalty]]
 g: the wife or widow of a king
@@ -27942,7 +27942,7 @@ w: <<Queen_of_England>>
 hyper: [[queen]]
 g: the sovereign ruler of England
 
-w: <<queen>> drf [[file:adj.all.org::queenly]] ant [[king]]
+w: <<queen>> drf [[file:adjs.all.org::queenly]] ant [[king]]
 w: <<queen_regnant>>
 w: <<female_monarch>> ant [[male_monarch]]
 hyper: [[female_aristocrat]]
@@ -28116,7 +28116,7 @@ w: <<Puritan2>>
 hyper: [[Protestant]]
 g: a member of a group of English Protestants who in the 16th and 17th centuries thought that the Protestant Reformation under Elizabeth was incomplete and advocated the simplification and regulation of forms of worship
 
-w: <<puritan>> drf [[file:adj.all.org::puritanic]] drf [[file:adj.all.org::puritanical]]
+w: <<puritan>> drf [[file:adjs.all.org::puritanic]] drf [[file:adjs.all.org::puritanical]]
 hyper: [[abstainer1]]
 g: someone who adheres to strict religious principles; someone opposed to sensual pleasures
 
@@ -28184,7 +28184,7 @@ w: <<puerpera>> drf [[file:adj.pert.org::puerperal]]
 hyper: [[mother]]
 g: a woman in childbirth or shortly thereafter
 
-w: <<pudge>> drf [[file:adj.all.org::pudgy]]
+w: <<pudge>> drf [[file:adjs.all.org::pudgy]]
 hyper: [[endomorph]]
 g: a short fat person
 
@@ -28231,7 +28231,7 @@ w: <<pteridologist>>
 hyper: [[expert]]
 g: an expert in the study of ferns
 
-w: <<psychotic>> drf [[file:adj.all.org::psychotic]]
+w: <<psychotic>> drf [[file:adjs.all.org::psychotic]]
 w: <<psychotic_person>>
 w: <<psycho>>
 hyper: [[sick_person]]
@@ -28268,7 +28268,7 @@ w: <<spirit_rapper>>
 hyper: [[psychic]]
 g: someone who claims to receive messages from the dead in the form of raps on a table
 
-w: <<psychic>> drf [[file:adj.all.org::psychic]]
+w: <<psychic>> drf [[file:adjs.all.org::psychic]]
 hyper: [[occultist]]
 g: a person apparently sensitive to things beyond the natural range of perception
 
@@ -28278,7 +28278,7 @@ w: <<shrink>>
 hyper: [[specialist1]]
 g: a physician who specializes in psychiatry
 
-w: <<pseudohermaphrodite>> drf [[file:adj.all.org::pseudohermaphroditic]]
+w: <<pseudohermaphrodite>> drf [[file:adjs.all.org::pseudohermaphroditic]]
 hyper: [[bisexual]]
 g: someone having external genitalia of one sex and internal sex organs of the other sex; not a true hermaphrodite because there is no ambiguity in the sex of the external genitalia and hence no question about gender at birth
 
@@ -28296,7 +28296,7 @@ hyper: [[worker]]
 g: a worker who thins out and trims trees and shrubs; "untouched by the pruner's axe"
 
 w: <<prude>>
-w: <<puritan1>> drf [[file:adj.all.org::puritanic]] drf [[file:adj.all.org::puritanical]]
+w: <<puritan1>> drf [[file:adjs.all.org::puritanic]] drf [[file:adjs.all.org::puritanical]]
 hyper: [[unpleasant_person]]
 g: a person excessively concerned about propriety and decorum
 
@@ -28307,7 +28307,7 @@ hyper: [[agent2]]
 g: a person authorized to act for another
 
 w: <<prowler>> drf [[file:verb.motion.org::prowl]]
-w: <<sneak1>> drf [[file:adj.all.org::sneak]] drf [[file:adj.all.org::sneaky]] drf [[file:verb.motion.org::sneak]]
+w: <<sneak1>> drf [[file:adjs.all.org::sneak]] drf [[file:adjs.all.org::sneaky]] drf [[file:verb.motion.org::sneak]]
 w: <<stalker2>> drf [[file:verb.motion.org::stalk3]]
 hyper: [[intruder]]
 g: someone who prowls or sneaks about; usually with unlawful intentions
@@ -28345,7 +28345,7 @@ w: <<prostitute>> drf [[file:verb.social.org::prostitute]]
 w: <<cocotte>>
 w: <<whore>> drf [[file:noun.act.org::whoredom]] drf [[file:verb.social.org::whore]] drf [[file:verb.contact.org::whore]]
 w: <<harlot>>
-w: <<bawd>> drf [[file:adj.all.org::bawdy]]
+w: <<bawd>> drf [[file:adjs.all.org::bawdy]]
 w: <<tart>>
 w: <<cyprian2>>
 w: <<fancy_woman1>>
@@ -28393,7 +28393,7 @@ g: a woman prophet
 
 w: <<prophet>> drf [[file:adj.all.org::prophetic]]
 w: <<prophesier>>
-w: <<oracle>> drf [[file:adj.all.org::oracular]]
+w: <<oracle>> drf [[file:adjs.all.org::oracular]]
 w: <<seer1>>
 w: <<vaticinator>> drf [[file:verb.communication.org::vaticinate]] drf [[file:verb.communication.org::vaticinate1]]
 hyper: [[diviner]]
@@ -28448,7 +28448,7 @@ w: <<promisee>> drf [[file:verb.communication.org::promise1]] drf [[file:verb.co
 hyper: [[communicator]]
 g: a person to whom a promise is made
 
-w: <<proletarian>> drf [[file:adj.all.org::proletarian]]
+w: <<proletarian>> drf [[file:adjs.all.org::proletarian]]
 w: <<prole>>
 w: <<worker1>>
 hyper: [[commoner]]
@@ -28501,8 +28501,8 @@ w: <<prodigy>>
 hyper: [[genius]]
 g: an unusually gifted or intelligent (young) person; someone whose talents excite wonder and admiration; "she is a chess prodigy"
 
-w: <<prodigal>> drf [[file:adj.all.org::prodigal]]
-w: <<profligate1>> drf [[file:adj.all.org::profligate]]
+w: <<prodigal>> drf [[file:adjs.all.org::prodigal]]
+w: <<profligate1>> drf [[file:adjs.all.org::profligate]]
 w: <<squanderer>> drf [[file:verb.consumption.org::squander]] drf [[file:verb.possession.org::squander1]]
 hyper: [[consumer]]
 g: a recklessly extravagant consumer
@@ -28605,7 +28605,7 @@ hyper: [[prisoner]]
 g: a person who surrenders to (or is taken by) the enemy in time of war
 
 w: <<prisoner>>
-w: <<captive>> drf [[file:adj.all.org::captive]]
+w: <<captive>> drf [[file:adjs.all.org::captive]]
 hyper: [[unfortunate]]
 g: a person who is confined; especially a prisoner of war
 
@@ -28687,7 +28687,7 @@ w: <<Elector1>>
 hyper: [[prince]]
 g: any of the German princes who were entitled to vote in the election of new emperor of the Holy Roman Empire
 
-w: <<prince>> drf [[file:noun.state.org::princedom]] drf [[file:noun.location.org::princedom]] drf [[file:adj.all.org::princely]]
+w: <<prince>> drf [[file:noun.state.org::princedom]] drf [[file:noun.location.org::princedom]] drf [[file:adjs.all.org::princely]]
 hyper: [[aristocrat]]
 hm: [[file:noun.group.org::royalty]]
 g: a male member of a royal family other than the sovereign (especially the son of a sovereign)
@@ -29266,9 +29266,9 @@ w: <<polyandrist>> drf [[file:noun.state.org::polyandry]]
 hyper: [[polygamist]]
 g: a woman with two or more husbands
 
-w: <<poltroon>> drf [[file:adj.all.org::poltroon]]
+w: <<poltroon>> drf [[file:adjs.all.org::poltroon]]
 w: <<craven>>
-w: <<recreant>> drf [[file:adj.all.org::recreant]]
+w: <<recreant>> drf [[file:adjs.all.org::recreant]]
 hyper: [[coward]]
 g: an abject coward
 
@@ -29339,7 +29339,7 @@ g: a civil commissioner appointed to supervise the duties and discipline of the 
 
 w: <<polemicist>>
 w: <<polemist>>
-w: <<polemic>> drf [[file:adj.all.org::polemic]]
+w: <<polemic>> drf [[file:adjs.all.org::polemic]]
 hyper: [[writer]]
 g: a writer who argues in opposition to others (especially in theology)
 
@@ -29364,7 +29364,7 @@ w: <<point_man>>
 hyper: [[soldier]]
 g: a soldier who goes ahead of a patrol
 
-w: <<pointillist>> drf [[file:adj.all.org::pointillist]] drf [[file:noun.artifact.org::pointillism]]
+w: <<pointillist>> drf [[file:adjs.all.org::pointillist]] drf [[file:noun.artifact.org::pointillism]]
 hyper: [[painter]]
 g: a painter who uses the technique of pointillism
 
@@ -29483,8 +29483,8 @@ w: <<pledge>>
 hyper: [[member]]
 g: someone accepted for membership but not yet fully admitted to the group
 
-w: <<plebeian>> drf [[file:adj.all.org::plebeian]]
-w: <<pleb>> drf [[file:adj.all.org::plebeian]]
+w: <<plebeian>> drf [[file:adjs.all.org::plebeian]]
+w: <<pleb>> drf [[file:adjs.all.org::plebeian]]
 hyper: [[commoner]]
 hm: [[file:noun.group.org::folk]]
 g: one of the common people
@@ -29621,7 +29621,7 @@ hyper: [[kicker]]
 dt: [[file:noun.act.org::football]]
 g: (football) a kicker who makes a place kick for a goal
 
-w: <<pivot>> drf [[file:adj.all.org::pivotal]]
+w: <<pivot>> drf [[file:adjs.all.org::pivotal]]
 w: <<pivot_man>>
 hyper: [[marcher1]]
 g: the person in a rank around whom the others wheel and maneuver
@@ -29876,7 +29876,7 @@ w: <<philosophiser>> drf [[file:verb.cognition.org::philosophise]]
 hyper: [[thinker1]]
 g: someone who considers situations from a philosophical point of view
 
-w: <<philosopher1>> drf [[file:adj.all.org::philosophic]] drf [[file:noun.cognition.org::philosophy2]] drf [[file:noun.cognition.org::philosophy1]] drf [[file:noun.cognition.org::philosophy]] drf [[file:adj.all.org::philosophical]]
+w: <<philosopher1>> drf [[file:adjs.all.org::philosophic]] drf [[file:noun.cognition.org::philosophy2]] drf [[file:noun.cognition.org::philosophy1]] drf [[file:noun.cognition.org::philosophy]] drf [[file:adjs.all.org::philosophical]]
 hyper: [[file:noun.Tops.org::person]]
 g: a wise person who is calm and rational; someone who lives a life of reason with equanimity
 
@@ -29894,9 +29894,9 @@ w: <<philologue>>
 hyper: [[humanist]]
 g: a humanist specializing in classical scholarship
 
-w: <<philistine1>> drf [[file:adj.all.org::philistine]]
-w: <<anti-intellectual>> drf [[file:adj.all.org::anti-intellectual]]
-w: <<lowbrow>> drf [[file:adj.all.org::lowbrow]]
+w: <<philistine1>> drf [[file:adjs.all.org::philistine]]
+w: <<anti-intellectual>> drf [[file:adjs.all.org::anti-intellectual]]
+w: <<lowbrow>> drf [[file:adjs.all.org::lowbrow]]
 hyper: [[plebeian]]
 g: a person who is uninterested in intellectual pursuits
 
@@ -29938,7 +29938,7 @@ w: <<pill_roller>>
 hyper: [[health_professional]]
 g: a health professional trained in the art of preparing and dispensing drugs
 
-w: <<pharisee1>> drf [[file:adj.all.org::pharisaic]] drf [[file:adj.all.org::pharisaical]]
+w: <<pharisee1>> drf [[file:adjs.all.org::pharisaic]] drf [[file:adjs.all.org::pharisaical]]
 hyper: [[unpleasant_person]]
 g: a self-righteous or sanctimonious person
 
@@ -30007,9 +30007,9 @@ hyper: [[skeptic]]
 g: a person who expects the worst
 
 w: <<pervert>> drf [[file:verb.social.org::pervert]]
-w: <<deviant>> drf [[file:adj.all.org::deviant]] drf [[file:verb.stative.org::deviate]]
+w: <<deviant>> drf [[file:adjs.all.org::deviant]] drf [[file:verb.stative.org::deviate]]
 w: <<deviate>> drf [[file:verb.stative.org::deviate]]
-w: <<degenerate>> drf [[file:adj.all.org::degenerate]]
+w: <<degenerate>> drf [[file:adjs.all.org::degenerate]]
 hyper: [[reprobate]]
 g: a person whose behavior deviates from what is acceptable especially in sexual behavior
 
@@ -30199,8 +30199,8 @@ w: <<footer>> drf [[file:verb.motion.org::foot]]
 hyper: [[traveler]]
 g: a person who travels by foot
 
-w: <<pederast>> drf [[file:adj.all.org::pederastic]]
-w: <<paederast>> drf [[file:adj.all.org::paederastic]]
+w: <<pederast>> drf [[file:adjs.all.org::pederastic]]
+w: <<paederast>> drf [[file:adjs.all.org::paederastic]]
 w: <<child_molester>>
 hyper: [[pervert]]
 g: a man who has sex (usually sodomy) with a boy as the passive partner
@@ -30213,7 +30213,7 @@ w: <<pitchman>>
 hyper: [[seller]]
 g: someone who travels about selling his wares (as on the streets or at carnivals)
 
-w: <<pedant>> drf [[file:adj.all.org::pedantic]]
+w: <<pedant>> drf [[file:adjs.all.org::pedantic]]
 w: <<bookworm1>>
 w: <<scholastic>>
 hyper: [[scholar]]
@@ -30230,7 +30230,7 @@ hm: [[file:noun.group.org::peasantry]]
 g: one of a (chiefly European) class of agricultural laborers
 
 w: <<peasant2>>
-w: <<barbarian1>> drf [[file:adj.all.org::barbarian]]
+w: <<barbarian1>> drf [[file:adjs.all.org::barbarian]]
 w: <<boor>>
 w: <<churl>>
 w: <<Goth1>>
@@ -30333,7 +30333,7 @@ hm: [[file:noun.group.org::patrol1]]
 g: someone on patrol duty; an individual or a member of a group that patrols an area
 
 w: <<patriot>>
-w: <<nationalist>> drf [[file:adj.all.org::nationalist]] drf [[file:noun.attribute.org::nationalism]]
+w: <<nationalist>> drf [[file:adjs.all.org::nationalist]] drf [[file:noun.attribute.org::nationalism]]
 hyper: [[national]]
 g: one who loves and defends his or her country
 
@@ -30341,7 +30341,7 @@ w: <<patricide>>
 hyper: [[parricide]]
 g: a person who murders their father
 
-w: <<patrician1>> drf [[file:adj.all.org::patrician]]
+w: <<patrician1>> drf [[file:adjs.all.org::patrician]]
 hyper: [[adult]]
 g: a person of refined upbringing and manners
 
@@ -30579,11 +30579,11 @@ w: <<paraprofessional>>
 hyper: [[assistant]]
 g: a trained worker who is not a member of a profession but who assists a professional
 
-w: <<paraplegic>> drf [[file:adj.all.org::paraplegic]]
+w: <<paraplegic>> drf [[file:adjs.all.org::paraplegic]]
 hyper: [[handicapped_person]]
 g: a person who has paraplegia (is paralyzed from the waist down)
 
-w: <<paranoid>> drf [[file:adj.all.org::paranoid]]
+w: <<paranoid>> drf [[file:adjs.all.org::paranoid]]
 w: <<paranoiac>>
 hyper: [[psychotic]]
 g: a person afflicted with paranoia
@@ -30593,7 +30593,7 @@ w: <<paramedical>> drf [[file:adj.pert.org::paramedical]]
 hyper: [[paraprofessional]]
 g: a person trained to assist medical professionals and to give emergency medical treatment
 
-w: <<paralytic>> drf [[file:adj.all.org::paralytic]]
+w: <<paralytic>> drf [[file:adjs.all.org::paralytic]]
 hyper: [[handicapped_person]]
 g: a person suffering from paralysis
 
@@ -30720,7 +30720,7 @@ w: <<painter1>> drf [[file:verb.contact.org::paint]]
 hyper: [[skilled_worker]]
 g: a worker who is employed to cover objects with paint
 
-w: <<painter>> drf [[file:adj.all.org::painterly]] drf [[file:verb.creation.org::paint1]] drf [[file:verb.creation.org::paint]]
+w: <<painter>> drf [[file:adjs.all.org::painterly]] drf [[file:verb.creation.org::paint1]] drf [[file:verb.creation.org::paint]]
 hyper: [[artist]]
 g: an artist who paints
 
@@ -30744,7 +30744,7 @@ w: <<varlet1>>
 hyper: [[attendant]]
 g: in medieval times a youth acting as a knight's attendant as the first stage in training for knighthood
 
-w: <<pagan1>> drf [[file:adj.all.org::pagan]]
+w: <<pagan1>> drf [[file:adjs.all.org::pagan]]
 hyper: [[religious_person]]
 g: a person who follows a polytheistic or pre-Christian religion (not a Christian or Muslim or Jew)
 
@@ -30766,7 +30766,7 @@ w: <<boxer1>> drf [[file:verb.contact.org::box2]]
 hyper: [[workman]]
 g: a workman employed to pack things into containers
 
-w: <<pacifist>> drf [[file:adj.all.org::pacifist]] drf [[file:noun.cognition.org::pacifism1]] drf [[file:noun.cognition.org::pacifism]]
+w: <<pacifist>> drf [[file:adjs.all.org::pacifist]] drf [[file:noun.cognition.org::pacifism1]] drf [[file:noun.cognition.org::pacifism]]
 w: <<pacificist>>
 w: <<disarmer>> drf [[file:verb.competition.org::disarm1]]
 hyper: [[adult]]
@@ -30876,11 +30876,11 @@ w: <<outdoorsman>>
 hyper: [[file:noun.Tops.org::person]]
 g: a person who spends time outdoors (e.g., hunting or fishing)
 
-w: <<outcaste>> drf [[file:adj.all.org::outcaste]]
+w: <<outcaste>> drf [[file:adjs.all.org::outcaste]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person belonging to no caste
 
-w: <<outcast>> drf [[file:adj.all.org::outcast]]
+w: <<outcast>> drf [[file:adjs.all.org::outcast]]
 w: <<castaway2>>
 w: <<pariah>>
 w: <<Ishmael1>>
@@ -31040,7 +31040,7 @@ w: <<orchestrator>> drf [[file:verb.creation.org::orchestrate]]
 hyper: [[arranger1]]
 g: an arranger who writes for orchestras
 
-w: <<orator>> drf [[file:adj.all.org::oratorical]] drf [[file:verb.communication.org::orate]]
+w: <<orator>> drf [[file:adjs.all.org::oratorical]] drf [[file:verb.communication.org::orate]]
 w: <<speechmaker>>
 w: <<rhetorician>> drf [[file:noun.communication.org::rhetoric]] drf [[file:noun.cognition.org::rhetoric]]
 w: <<public_speaker>>
@@ -31077,7 +31077,7 @@ w: <<opposite>>
 hyper: [[contestant]]
 g: a contestant that you are matched against
 
-w: <<opportunist>> drf [[file:adj.all.org::opportunist]] drf [[file:noun.attribute.org::opportunism]]
+w: <<opportunist>> drf [[file:adjs.all.org::opportunist]] drf [[file:noun.attribute.org::opportunism]]
 w: <<self-seeker>>
 hyper: [[selfish_person]]
 g: a person who places expediency above principle
@@ -31161,7 +31161,7 @@ w: <<old-timer>>
 w: <<oldtimer>>
 w: <<gaffer1>>
 w: <<old_geezer>>
-w: <<antique>> drf [[file:adj.all.org::antique1]]
+w: <<antique>> drf [[file:adjs.all.org::antique1]]
 hyper: [[old_man2]]
 g: an elderly man
 
@@ -31252,7 +31252,7 @@ w: <<federal_agent>>
 hyper: [[official1]]
 g: any agent or representative of a federal agency or bureau
 
-w: <<Federal1>> drf [[file:adj.all.org::Federal]]
+w: <<Federal1>> drf [[file:adjs.all.org::Federal]]
 w: <<Federal_soldier>>
 w: <<Union_soldier>>
 hyper: [[Yankee2]]
@@ -31336,7 +31336,7 @@ hyper: [[serviceman]]
 dt: [[file:noun.group.org::military]]
 g: a member of a military force who is residing in a conquered foreign country
 
-w: <<Occidental>> drf [[file:adj.all.org::occidental]]
+w: <<Occidental>> drf [[file:adjs.all.org::occidental]]
 hyper: [[inhabitant]]
 g: a native inhabitant of the Occident
 
@@ -31372,7 +31372,7 @@ w: <<rower>> drf [[file:verb.motion.org::row]]
 hyper: [[boatman]]
 g: someone who rows a boat
 
-w: <<nymphomaniac>> drf [[file:adj.all.org::nymphomaniac]]
+w: <<nymphomaniac>> drf [[file:adjs.all.org::nymphomaniac]]
 w: <<nympho>>
 hyper: [[pervert]]
 g: a woman with abnormal sexual desires
@@ -31446,7 +31446,7 @@ w: <<Numidian>>
 hyper: [[inhabitant]]
 g: an inhabitant of ancient Numidia
 
-w: <<numen>> drf [[file:adj.all.org::numinous]] drf [[file:adj.pert.org::numinous]]
+w: <<numen>> drf [[file:adjs.all.org::numinous]] drf [[file:adj.pert.org::numinous]]
 hyper: [[spirit]]
 dt: [[file:noun.cognition.org::religion]]
 g: a spirit believed to inhabit an object or preside over a place (especially in ancient Roman religion)
@@ -31484,7 +31484,7 @@ w: <<nudger>> drf [[file:verb.contact.org::nudge]] drf [[file:verb.communication
 hyper: [[pusher]]
 g: someone who nudges; someone who gives a gentle push; "he needs a regular nudger to keep him awake"
 
-w: <<nude>> drf [[file:adj.all.org::nude]]
+w: <<nude>> drf [[file:adjs.all.org::nude]]
 w: <<nude_person>>
 hyper: [[file:noun.Tops.org::person]]
 g: a naked person
@@ -31599,7 +31599,7 @@ w: <<nondriver>> ant [[driver]]
 hyper: [[pedestrian]]
 g: a person who is not a driver
 
-w: <<nondescript>> drf [[file:adj.all.org::nondescript]]
+w: <<nondescript>> drf [[file:adjs.all.org::nondescript]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person is not easily classified and not very interesting
 
@@ -31610,7 +31610,7 @@ hyper: [[military_officer]]
 dt: [[file:noun.group.org::military]]
 g: a military officer appointed from enlisted personnel
 
-w: <<noncombatant>> drf [[file:adj.all.org::noncombatant1]]
+w: <<noncombatant>> drf [[file:adjs.all.org::noncombatant1]]
 hyper: [[serviceman]]
 g: a member of the armed forces who does not participate in combat (e.g. a chaplain or surgeon)
 
@@ -31618,7 +31618,7 @@ w: <<noncandidate>>
 hyper: [[politician]]
 g: someone who has announced they are not a candidate; especially a politician who has announced that he or she is not a candidate for some political office
 
-w: <<nonagenarian>> drf [[file:adj.all.org::nonagenarian]]
+w: <<nonagenarian>> drf [[file:adjs.all.org::nonagenarian]]
 hyper: [[oldster]]
 g: someone whose age is in the nineties
 
@@ -31695,7 +31695,7 @@ w: <<nightbird>>
 hyper: [[individualist]]
 g: a person who likes to be active late at night
 
-w: <<niggard>> drf [[file:adj.all.org::niggardly]]
+w: <<niggard>> drf [[file:adjs.all.org::niggardly]]
 w: <<skinflint>>
 w: <<scrooge>>
 w: <<churl2>>
@@ -31777,7 +31777,7 @@ hyper: [[arrival]]
 g: a recent arrival; "he's a newcomer to Boston"
 
 w: <<newcomer>>
-w: <<fledgling>> drf [[file:adj.all.org::fledgling]]
+w: <<fledgling>> drf [[file:adjs.all.org::fledgling]]
 w: <<fledgeling>>
 w: <<starter1>> drf [[file:verb.creation.org::start]] drf [[file:verb.change.org::start]]
 w: <<neophyte1>>
@@ -31791,7 +31791,7 @@ w: <<neutralist>> drf [[file:noun.act.org::neutrality]] drf [[file:noun.communic
 hyper: [[advocate]]
 g: an advocate of neutrality in international affairs
 
-w: <<neutral>> drf [[file:adj.all.org::neutral]]
+w: <<neutral>> drf [[file:adjs.all.org::neutral]]
 hyper: [[file:noun.Tops.org::person]]
 g: one who does not side with any party in a war or dispute
 
@@ -31859,7 +31859,7 @@ w: <<neologist>> drf [[file:noun.act.org::neologism]]
 hyper: [[lexicographer]]
 g: a lexicographer of new words and expressions
 
-w: <<neoliberal>> drf [[file:adj.all.org::neoliberal]]
+w: <<neoliberal>> drf [[file:adjs.all.org::neoliberal]]
 hyper: [[liberal]]
 g: a liberal who subscribes to neoliberalism
 
@@ -31872,8 +31872,8 @@ w: <<neoclassicist>> drf [[file:noun.cognition.org::neoclassicism]]
 hyper: [[advocate]]
 g: an advocate of neoclassicism
 
-w: <<neighbor>> drf [[file:adj.all.org::neighborly]] drf [[file:noun.location.org::neighborhood]] drf [[file:noun.group.org::neighborhood]] drf [[file:verb.stative.org::neighbor1]]
-w: <<neighbour>> drf [[file:adj.all.org::neighbourly]] drf [[file:noun.location.org::neighbourhood]] drf [[file:noun.group.org::neighbourhood]] drf [[file:verb.stative.org::neighbour1]]
+w: <<neighbor>> drf [[file:adjs.all.org::neighborly]] drf [[file:noun.location.org::neighborhood]] drf [[file:noun.group.org::neighborhood]] drf [[file:verb.stative.org::neighbor1]]
+w: <<neighbour>> drf [[file:adjs.all.org::neighbourly]] drf [[file:noun.location.org::neighbourhood]] drf [[file:noun.group.org::neighbourhood]] drf [[file:verb.stative.org::neighbour1]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person who lives (or is located) near another
 
@@ -31958,11 +31958,11 @@ w: <<thwarter>> drf [[file:verb.social.org::thwart]]
 hyper: [[disputant]]
 g: someone who systematically obstructs some action that others want to take
 
-w: <<obsessive-compulsive>> drf [[file:noun.state.org::obsessive-compulsive_disorder]] drf [[file:adj.all.org::obsessive-compulsive]]
+w: <<obsessive-compulsive>> drf [[file:noun.state.org::obsessive-compulsive_disorder]] drf [[file:adjs.all.org::obsessive-compulsive]]
 hyper: [[neurotic]]
 g: a person with obsessive-compulsive characteristics
 
-w: <<obsessive>> drf [[file:adj.all.org::obsessive]]
+w: <<obsessive>> drf [[file:adjs.all.org::obsessive]]
 hyper: [[neurotic]]
 g: a person who has obsessions
 
@@ -32095,7 +32095,7 @@ w: <<public_figure>>
 hyper: [[important_person]]
 g: a well-known or notable person; "they studied all the great names in the history of France"; "she is an important figure in modern music"
 
-w: <<namby-pamby>> drf [[file:adj.all.org::namby-pamby]]
+w: <<namby-pamby>> drf [[file:adjs.all.org::namby-pamby]]
 hyper: [[weakling]]
 g: an insipid weakling who is foolishly sentimental
 
@@ -32115,7 +32115,7 @@ w: <<mythologist>> drf [[file:noun.group.org::mythology]] drf [[file:noun.cognit
 hyper: [[expert]]
 g: an expert on mythology
 
-w: <<mystic>> drf [[file:adj.all.org::mystic]] drf [[file:adj.all.org::mystical]] drf [[file:adj.pert.org::mystical]] drf [[file:adj.pert.org::mystical1]]
+w: <<mystic>> drf [[file:adjs.all.org::mystic]] drf [[file:adjs.all.org::mystical]] drf [[file:adj.pert.org::mystical]] drf [[file:adj.pert.org::mystical1]]
 w: <<religious_mystic>>
 hyper: [[believer]]
 g: someone who believes in the existence of realities beyond human comprehension
@@ -32158,8 +32158,8 @@ w: <<murmurer>> drf [[file:verb.communication.org::murmur]] drf [[file:noun.even
 hyper: [[speaker]]
 g: a person who speaks softly and indistinctly
 
-w: <<mute>> drf [[file:adj.all.org::mute1]]
-w: <<deaf-mute>> drf [[file:adj.all.org::deaf-mute]]
+w: <<mute>> drf [[file:adjs.all.org::mute1]]
+w: <<deaf-mute>> drf [[file:adjs.all.org::deaf-mute]]
 w: <<deaf-and-dumb_person>>
 hyper: [[deaf_person]]
 g: a deaf person who is unable to speak
@@ -32346,7 +32346,7 @@ w: <<mouth>>
 hyper: [[eater]]
 g: a person conceived as a consumer of food; "he has four mouths to feed"
 
-w: <<mouse>> drf [[file:adj.all.org::mousy]] drf [[file:adj.all.org::mousey]]
+w: <<mouse>> drf [[file:adjs.all.org::mousy]] drf [[file:adjs.all.org::mousey]]
 hyper: [[file:noun.Tops.org::person]]
 g: person who is quiet or timid
 
@@ -32395,9 +32395,8 @@ hyper: [[driver]]
 g: someone who drives (or travels in) an automobile
 
 w: <<motorcyclist>>
-w: biker
 hyper: [[traveler]]
-g: A traveler who rides a motorcycle.
+g: a traveler who rides a motorcycle
 
 w: <<motorcycle_cop>>
 w: <<motorcycle_policeman>>
@@ -32440,7 +32439,7 @@ w: <<mother1>>
 hyper: [[abbess]]
 g: a term of address for a mother superior
 
-w: <<mother>> drf [[file:adj.all.org::motherly]] drf [[file:noun.relation.org::motherhood]] drf [[file:verb.body.org::mother]] drf [[file:verb.social.org::mother]] ant [[father]]
+w: <<mother>> drf [[file:adjs.all.org::motherly]] drf [[file:noun.relation.org::motherhood]] drf [[file:verb.body.org::mother]] drf [[file:verb.social.org::mother]] ant [[father]]
 w: <<female_parent>> ant [[male_parent]]
 hyper: [[parent]]
 g: a woman who has given birth to a child (also used as a term of address to your mother); "the mother of three children"
@@ -32517,10 +32516,10 @@ w: <<scrounger>> drf [[file:verb.possession.org::scrounge]] drf [[file:verb.poss
 hyper: [[beggar]]
 g: someone who mooches or cadges (tries to get something free)
 
-w: <<monster>> drf [[file:adj.all.org::monstrous]]
+w: <<monster>> drf [[file:adjs.all.org::monstrous]]
 w: <<fiend>>
-w: <<devil1>> drf [[file:adj.all.org::diabolic2]] drf [[file:adj.all.org::diabolic]] drf [[file:verb.change.org::devilize]]
-w: <<demon1>> drf [[file:adj.all.org::demonic]] drf [[file:verb.change.org::demonize]]
+w: <<devil1>> drf [[file:adjs.all.org::diabolic2]] drf [[file:adjs.all.org::diabolic]] drf [[file:verb.change.org::devilize]]
+w: <<demon1>> drf [[file:adjs.all.org::demonic]] drf [[file:verb.change.org::demonize]]
 w: <<ogre1>>
 hyper: [[unpleasant_person]]
 g: a cruel wicked and inhuman person
@@ -32548,7 +32547,7 @@ w: <<Monophysite>>
 hyper: [[disciple]]
 g: an adherent of Monophysitism
 
-w: <<monomaniac>> drf [[file:adj.all.org::monomaniacal]]
+w: <<monomaniac>> drf [[file:adjs.all.org::monomaniacal]]
 hyper: [[sick_person]]
 g: a person suffering from monomania
 
@@ -32637,7 +32636,7 @@ w: <<modernist>> drf [[file:noun.artifact.org::modernism]]
 hyper: [[artist]]
 g: an artist who makes a deliberate break with previous styles
 
-w: <<modern>> drf [[file:adj.all.org::Modern]]
+w: <<modern>> drf [[file:adjs.all.org::Modern]]
 hyper: [[file:noun.Tops.org::person]]
 g: a contemporary person
 
@@ -32680,7 +32679,7 @@ w: <<nonsuch>>
 hyper: [[model1]]
 g: model of excellence or perfection of a kind; one having no equal
 
-w: <<hero>> drf [[file:adj.all.org::heroical]]
+w: <<hero>> drf [[file:adjs.all.org::heroical]]
 hyper: [[leader]]
 g: a man distinguished by exceptional courage and nobility and strength; "RAF pilots were the heroes of the Battle of Britain"
 
@@ -32738,7 +32737,7 @@ w: <<ape-man>>
 hyper: [[primitive]]
 g: hypothetical organism formerly thought to be intermediate between apes and human beings
 
-w: <<misogynist>> drf [[file:noun.feeling.org::misogyny]] drf [[file:adj.all.org::misogynistic]]
+w: <<misogynist>> drf [[file:noun.feeling.org::misogyny]] drf [[file:adjs.all.org::misogynistic]]
 w: <<woman_hater>>
 hyper: [[misanthrope]]
 g: a misanthrope who dislikes women in particular
@@ -32756,11 +32755,11 @@ w: <<misfit>>
 hyper: [[anomaly]]
 g: someone unable to adapt to their circumstances
 
-w: <<miser>> drf [[file:adj.all.org::miserly]]
+w: <<miser>> drf [[file:adjs.all.org::miserly]]
 hyper: [[hoarder]]
 g: a stingy hoarder of money and possessions (often living miserably)
 
-w: <<misanthrope>> drf [[file:adj.all.org::misanthropical]] drf [[file:adj.all.org::misanthropical]]
+w: <<misanthrope>> drf [[file:adjs.all.org::misanthropical]] drf [[file:adjs.all.org::misanthropical]]
 w: <<misanthropist>> drf [[file:noun.feeling.org::misanthropy]] drf [[file:noun.attribute.org::misanthropy]]
 hyper: [[grouch]]
 g: someone who dislikes people in general
@@ -32947,7 +32946,7 @@ hyper: [[adult]]
 g: a person who advocates war or warlike policies
 
 w: <<militant>>
-w: <<activist>> drf [[file:adj.all.org::activist]] drf [[file:noun.cognition.org::activism]]
+w: <<activist>> drf [[file:adjs.all.org::activist]] drf [[file:noun.cognition.org::activism]]
 hyper: [[reformer]]
 g: a militant reformer
 
@@ -33118,7 +33117,7 @@ w: <<mesne_lord>>
 hyper: [[Lord]]
 g: a feudal lord who was lord to his own tenants on land held from a superior lord
 
-w: <<meshuggeneh>> drf [[file:adj.all.org::meshuggeneh]]
+w: <<meshuggeneh>> drf [[file:adjs.all.org::meshuggeneh]]
 w: <<meshuggener>>
 hyper: [[fool]]
 dt: [[file:noun.communication.org::Yiddish]]
@@ -33139,7 +33138,7 @@ hyper: [[trader]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: a dealer in textiles (especially silks)
 
-w: <<mercenary>> drf [[file:adj.all.org::mercenary]]
+w: <<mercenary>> drf [[file:adjs.all.org::mercenary]]
 w: <<soldier_of_fortune>>
 hyper: [[adventurer]]
 g: a person hired to fight for another country than their own
@@ -33222,12 +33221,12 @@ w: <<Melchite>>
 hyper: [[Christian]]
 g: an Orthodox Christian or Uniate Christian belonging to the patriarchate of Alexandria or Antioch or Jerusalem
 
-w: <<melancholic>> drf [[file:adj.all.org::melancholic]]
+w: <<melancholic>> drf [[file:adjs.all.org::melancholic]]
 w: <<melancholiac>>
 hyper: [[depressive]]
 g: someone subject to melancholia
 
-w: <<megalomaniac>> drf [[file:adj.all.org::megalomaniacal]]
+w: <<megalomaniac>> drf [[file:adjs.all.org::megalomaniacal]]
 hyper: [[egotist]]
 g: a pathological egotist
 
@@ -33324,7 +33323,7 @@ hyper: [[civil_authority]]
 hyper: [[politician1]]
 g: the head of a city government
 
-w: <<maverick>> drf [[file:adj.all.org::maverick]]
+w: <<maverick>> drf [[file:adjs.all.org::maverick]]
 w: <<rebel1>> drf [[file:verb.social.org::rebel1]]
 hyper: [[nonconformist]]
 g: someone who exhibits great independence in thought and action
@@ -33346,7 +33345,7 @@ hyper: [[nurse]]
 hyper: [[woman]]
 g: a woman in charge of nursing in a medical institution
 
-w: <<matron>> drf [[file:adj.all.org::matronly]]
+w: <<matron>> drf [[file:adjs.all.org::matronly]]
 hyper: [[wife]]
 g: a married woman (usually middle-aged with children) who is staid and dignified
 
@@ -33402,7 +33401,7 @@ w: <<mate1>> drf [[file:verb.contact.org::mate]]
 hyper: [[file:noun.Tops.org::animal]]
 g: the partner of an animal (especially a sexual partner); "he loved the mare and all her mates"; "camels hate leaving their mates"
 
-w: <<mate3>> drf [[file:adj.all.org::matey]]
+w: <<mate3>> drf [[file:adjs.all.org::matey]]
 hyper: [[friend]]
 dr: [[file:noun.location.org::Australia]]
 dr: [[file:noun.location.org::United_Kingdom]]
@@ -33453,7 +33452,7 @@ w: <<master3>> drf [[file:noun.act.org::mastership]]
 hyper: [[employer]]
 g: directs the work of others
 
-w: <<master2>> drf [[file:adj.all.org::masterly]] drf [[file:noun.act.org::mastership]]
+w: <<master2>> drf [[file:adjs.all.org::masterly]] drf [[file:noun.act.org::mastership]]
 w: <<professional1>>
 hyper: [[authority]]
 g: an authority qualified to teach apprentices
@@ -33703,11 +33702,11 @@ w: <<Manichee>>
 hyper: [[disciple]]
 g: an adherent of Manichaeism
 
-w: <<manic-depressive>> drf [[file:adj.all.org::manic-depressive]]
+w: <<manic-depressive>> drf [[file:adjs.all.org::manic-depressive]]
 hyper: [[sick_person]]
 g: a person afflicted with manic-depressive illness
 
-w: <<maniac1>> drf [[file:adj.all.org::maniac]]
+w: <<maniac1>> drf [[file:adjs.all.org::maniac]]
 hyper: [[fancier]]
 g: a person who has an obsession with or excessive enthusiasm for something
 
@@ -33766,7 +33765,7 @@ w: <<adonis1>>
 hyper: [[man]]
 g: any handsome young man
 
-w: <<man6>> drf [[file:adj.all.org::manly]] drf [[file:adj.all.org::manly]]
+w: <<man6>> drf [[file:adjs.all.org::manly]] drf [[file:adj.all.org::manly]]
 hyper: [[male]]
 g: an adult male person who has a manly character (virile and courageous competent); "the army will make a man of you"
 
@@ -33776,7 +33775,7 @@ hyper: [[lover2]]
 du: [[file:noun.communication.org::colloquialism]]
 g: a male person who plays a significant role (husband or lover or boyfriend) in the life of a particular woman; "she takes good care of her man"
 
-w: <<man>> drf [[file:adj.all.org::manly]] drf [[file:adj.all.org::manly]] ant [[woman]]
+w: <<man>> drf [[file:adjs.all.org::manly]] drf [[file:adj.all.org::manly]] ant [[woman]]
 w: <<adult_male>>
 hyper: [[male]]
 hyper: [[adult]]
@@ -33839,7 +33838,7 @@ w: <<male_aristocrat>> ant [[female_aristocrat]]
 hyper: [[aristocrat]]
 g: a man who is an aristocrat
 
-w: <<malcontent>> drf [[file:adj.all.org::malcontent]]
+w: <<malcontent>> drf [[file:adjs.all.org::malcontent]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person who is discontented or disgusted
 
@@ -33910,7 +33909,7 @@ hyper: [[domestic]]
 g: a female domestic
 
 w: <<maid>> drf [[file:noun.time.org::maidhood]]
-w: <<maiden>> drf [[file:adj.all.org::maidenly]] drf [[file:noun.time.org::maidenhood]]
+w: <<maiden>> drf [[file:adjs.all.org::maidenly]] drf [[file:noun.time.org::maidenhood]]
 hyper: [[girl]]
 g: an unmarried girl (especially a virgin)
 
@@ -33988,7 +33987,7 @@ hm: [[file:noun.group.org::Mafia]]
 g: a member of the Mafia crime syndicate in the United States
 
 w: <<maestro>>
-w: <<master>> drf [[file:adj.all.org::masterly]] drf [[file:noun.act.org::mastership]] drf [[file:verb.cognition.org::master]] drf [[file:verb.cognition.org::master1]]
+w: <<master>> drf [[file:adjs.all.org::masterly]] drf [[file:noun.act.org::mastership]] drf [[file:verb.cognition.org::master]] drf [[file:verb.cognition.org::master1]]
 hyper: [[artist]]
 g: an artist of consummate skill; "a master of the violin"; "one of the old masters"
 
@@ -34118,7 +34117,7 @@ g: an archaic term for a lunatic
 
 w: <<lunatic>>
 w: <<madman>>
-w: <<maniac>> drf [[file:adj.all.org::maniacal]]
+w: <<maniac>> drf [[file:adjs.all.org::maniacal]]
 hyper: [[sick_person]]
 g: an insane person
 
@@ -34133,8 +34132,8 @@ g: a taxonomist who classifies organisms into large groups on the basis of major
 w: <<luminary>>
 w: <<leading_light>>
 w: <<guiding_light>>
-w: <<notable>> drf [[file:adj.all.org::notable]]
-w: <<notability>> drf [[file:adj.all.org::notable]]
+w: <<notable>> drf [[file:adjs.all.org::notable]]
+w: <<notability>> drf [[file:adjs.all.org::notable]]
 hyper: [[celebrity]]
 g: a celebrity who is an inspiration to others; "he was host to a large gathering of luminaries"
 
@@ -34190,10 +34189,10 @@ w: <<clod>>
 w: <<stumblebum>>
 w: <<goon1>>
 w: <<oaf>>
-w: <<lubber>> drf [[file:adj.all.org::lubberly]]
+w: <<lubber>> drf [[file:adjs.all.org::lubberly]]
 w: <<lummox>>
 w: <<lump>>
-w: <<gawk>> drf [[file:adj.all.org::gawky]]
+w: <<gawk>> drf [[file:adjs.all.org::gawky]]
 hyper: [[clumsy_person1]]
 g: an awkward stupid person
 
@@ -34268,7 +34267,7 @@ hyper: [[cabinet_minister]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: the highest officer of the Crown who is head of the judiciary and who presides in the House of Lords
 
-w: <<Lord>> drf [[file:adj.all.org::lordly]] drf [[file:noun.communication.org::Lordship]] drf [[file:verb.social.org::lord]] ant [[Lady]]
+w: <<Lord>> drf [[file:adjs.all.org::lordly]] drf [[file:noun.communication.org::Lordship]] drf [[file:verb.social.org::lord]] ant [[Lady]]
 w: <<noble>>
 w: <<nobleman>> ant [[noblewoman]]
 hyper: [[male_aristocrat]]
@@ -34492,7 +34491,7 @@ hyper: [[scientist]]
 g: a specialist in linguistics
 
 w: <<linguist>> drf [[file:adj.pert.org::linguistic]]
-w: <<polyglot>> drf [[file:adj.all.org::polyglot]]
+w: <<polyglot>> drf [[file:adjs.all.org::polyglot]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person who speaks more than one language
 
@@ -34534,7 +34533,7 @@ w: <<line_backer>>
 hyper: [[football_player]]
 g: a defensive football player who takes a position close behind the linemen
 
-w: <<lilliputian1>> drf [[file:adj.all.org::lilliputian]]
+w: <<lilliputian1>> drf [[file:adjs.all.org::lilliputian]]
 hyper: [[small_person]]
 g: a very small person (resembling a Lilliputian)
 
@@ -34656,7 +34655,7 @@ w: <<police_lieutenant>>
 hyper: [[lawman]]
 g: an officer in a police force
 
-w: <<liege1>> drf [[file:adj.all.org::liege]]
+w: <<liege1>> drf [[file:adjs.all.org::liege]]
 w: <<liege_lord>>
 hyper: [[feudal_lord]]
 g: a feudal lord entitled to allegiance and service
@@ -34697,7 +34696,7 @@ w: <<bibliothec>>
 hyper: [[professional]]
 g: a professional person trained in library science and engaged in library services
 
-w: <<libertine>> drf [[file:adj.all.org::libertine]]
+w: <<libertine>> drf [[file:adjs.all.org::libertine]]
 w: <<debauchee>> drf [[file:verb.social.org::debauch]]
 w: <<rounder>>
 hyper: [[bad_person]]
@@ -34721,7 +34720,7 @@ g: a person who favors an economic theory of laissez-faire and self-regulating m
 
 w: <<liberal>> ant [[conservative]]
 w: <<liberalist>>
-w: <<progressive>> drf [[file:adj.all.org::progressive]] drf [[file:adj.all.org::progressive1]]
+w: <<progressive>> drf [[file:adjs.all.org::progressive]] drf [[file:adj.all.org::progressive1]]
 hyper: [[adult]]
 g: a person who favors a political philosophy of progress and reform and the protection of civil liberties
 
@@ -34766,7 +34765,7 @@ w: <<lease_giver>>
 hyper: [[owner]]
 g: someone who grants a lease
 
-w: <<lesbian>> drf [[file:adj.all.org::lesbian]]
+w: <<lesbian>> drf [[file:adjs.all.org::lesbian]]
 w: <<tribade>>
 w: <<gay_woman>>
 hyper: [[homosexual]]
@@ -34841,7 +34840,7 @@ hyper: [[pitcher]]
 g: a baseball pitcher who throws the ball with the left hand
 
 w: <<leech>>
-w: <<parasite>> drf [[file:adj.all.org::parasitic]] drf [[file:adj.all.org::parasitical]]
+w: <<parasite>> drf [[file:adjs.all.org::parasitic]] drf [[file:adjs.all.org::parasitical]]
 w: <<sponge>> drf [[file:verb.possession.org::sponge]]
 w: <<sponger>> drf [[file:verb.possession.org::sponge]]
 hyper: [[follower]]
@@ -35055,14 +35054,14 @@ w: <<property_owner>>
 hyper: [[holder1]]
 g: a holder or proprietor of land
 
-w: <<landlubber1>> drf [[file:adj.all.org::landlubberly]]
+w: <<landlubber1>> drf [[file:adjs.all.org::landlubberly]]
 w: <<landsman1>>
 w: <<landman>>
 hyper: [[inhabitant]]
 g: a person who lives and works on land
 
-w: <<landlubber>> drf [[file:adj.all.org::landlubberly]]
-w: <<lubber1>> drf [[file:adj.all.org::lubberly]]
+w: <<landlubber>> drf [[file:adjs.all.org::landlubberly]]
+w: <<lubber1>> drf [[file:adjs.all.org::lubberly]]
 w: <<landsman>>
 hyper: [[novice]]
 g: an inexperienced sailor; a sailor on the first voyage
@@ -35207,7 +35206,7 @@ hyper: [[musician1]]
 dr: [[file:noun.location.org::Japan]]
 g: a musician who plays the koto
 
-w: <<kook>> drf [[file:adj.all.org::kooky]]
+w: <<kook>> drf [[file:adjs.all.org::kooky]]
 w: <<odd_fellow>>
 w: <<odd_fish>>
 w: <<queer_bird>>
@@ -35274,7 +35273,7 @@ w: <<bachelor1>>
 hyper: [[knight]]
 g: a knight of the lowest order; could display only a pennon
 
-w: <<knight>> drf [[file:adj.all.org::knightly]] drf [[file:adj.all.org::knightly]] drf [[file:verb.social.org::knight1]]
+w: <<knight>> drf [[file:adjs.all.org::knightly]] drf [[file:adjs.all.org::knightly]] drf [[file:verb.social.org::knight1]]
 hyper: [[male_aristocrat]]
 g: originally a person of noble birth trained to arms and chivalry; today in Great Britain a person honored by the sovereign for personal merit
 
@@ -35333,11 +35332,11 @@ w: <<kinsman>>
 hyper: [[relative]]
 g: a male relative
 
-w: <<kink>> drf [[file:adj.all.org::kinky]]
+w: <<kink>> drf [[file:adjs.all.org::kinky]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person with unusual sexual tastes
 
-w: <<agnate>> drf [[file:adj.all.org::agnate]] drf [[file:adj.all.org::agnatic]]
+w: <<agnate>> drf [[file:adjs.all.org::agnate]] drf [[file:adjs.all.org::agnatic]]
 w: <<patrikin>>
 w: <<patrilineal_kin>>
 w: <<patrisib>>
@@ -35353,15 +35352,15 @@ w: <<matrilineal_sib>>
 hyper: [[relative]]
 g: one related on the mother's side
 
-w: <<kin>> drf [[file:adj.all.org::kin]] drf [[file:noun.relation.org::kinship]]
+w: <<kin>> drf [[file:adjs.all.org::kin]] drf [[file:noun.relation.org::kinship]]
 w: <<kinsperson>>
-w: <<family>> drf [[file:adj.all.org::familial]]
+w: <<family>> drf [[file:adjs.all.org::familial]]
 hyper: [[relative]]
 g: a person having kinship with another or others; "he's kin"; "he's family"
 
 w: <<blood_relation>>
 w: <<blood_relative>>
-w: <<cognate>> drf [[file:adj.all.org::cognate1]]
+w: <<cognate>> drf [[file:adjs.all.org::cognate1]]
 w: <<sib1>>
 hyper: [[relative]]
 g: one related by blood or origin; especially on sharing an ancestor with another
@@ -35409,7 +35408,7 @@ w: <<kingmaker>>
 hyper: [[important_person]]
 g: an important person who can bring leaders to power through the exercise of political influence; "the Earl of Warwick was the first kingmaker"
 
-w: <<king>> drf [[file:noun.location.org::kingdom]] drf [[file:noun.group.org::kingdom1]] drf [[file:adj.all.org::kingly]] drf [[file:noun.state.org::kingship]] ant [[queen]]
+w: <<king>> drf [[file:noun.location.org::kingdom]] drf [[file:noun.group.org::kingdom1]] drf [[file:adjs.all.org::kingly]] drf [[file:noun.state.org::kingship]] ant [[queen]]
 w: <<male_monarch>> ant [[female_monarch]]
 w: <<Rex>>
 hyper: [[sovereign]]
@@ -35600,7 +35599,7 @@ hyper: [[staff_officer]]
 dt: [[file:noun.group.org::military]]
 g: a staff officer serving as legal adviser to a military commander
 
-w: <<judge>> drf [[file:adj.all.org::judicial]] drf [[file:adj.pert.org::judicial2]] drf [[file:adj.pert.org::judicial]] drf [[file:noun.act.org::judgeship]] drf [[file:verb.social.org::judge9]] drf [[file:verb.social.org::adjudicate3]] drf [[file:verb.cognition.org::adjudicate]]
+w: <<judge>> drf [[file:adjs.all.org::judicial]] drf [[file:adj.pert.org::judicial2]] drf [[file:adj.pert.org::judicial]] drf [[file:noun.act.org::judgeship]] drf [[file:verb.social.org::judge9]] drf [[file:verb.social.org::adjudicate3]] drf [[file:verb.cognition.org::adjudicate]]
 w: <<justice>>
 w: <<jurist1>> drf [[file:noun.group.org::jurisprudence]] drf [[file:noun.cognition.org::jurisprudence]]
 hyper: [[official1]]
@@ -35730,7 +35729,7 @@ w: <<jerry-builder>>
 hyper: [[builder]]
 g: someone who builds cheap buildings out of poor materials on speculation for a quick profit
 
-w: <<jerk>> drf [[file:adj.all.org::jerky]]
+w: <<jerk>> drf [[file:adjs.all.org::jerky]]
 w: <<dork>>
 hyper: [[misfit]]
 g: a dull stupid fatuous person
@@ -35830,7 +35829,7 @@ hyper: [[student]]
 hyper: [[alumnus]]
 g: a student or graduate at an Ivy League school
 
-w: <<itinerant>> drf [[file:adj.all.org::itinerant]]
+w: <<itinerant>> drf [[file:adjs.all.org::itinerant]]
 w: <<gypsy1>>
 w: <<gipsy1>>
 hyper: [[laborer]]
@@ -36085,7 +36084,7 @@ w: <<insider>>
 hyper: [[corporate_executive]]
 g: an officer of a corporation or others who have access to private information about the corporation's operations
 
-w: <<Inquisitor1>> drf [[file:adj.all.org::inquisitorial2]]
+w: <<Inquisitor1>> drf [[file:adjs.all.org::inquisitorial2]]
 hyper: [[official1]]
 g: an official of the ecclesiastical court of the Inquisition
 
@@ -36272,10 +36271,10 @@ g: a painter who follows the theories of Impressionism
 w: <<imposter>>
 w: <<impostor>>
 w: <<pretender>> drf [[file:verb.creation.org::pretend]] drf [[file:verb.communication.org::pretend]]
-w: <<fake>> drf [[file:adj.all.org::fake]] drf [[file:verb.social.org::fake]] drf [[file:verb.creation.org::fake]]
+w: <<fake>> drf [[file:adjs.all.org::fake]] drf [[file:verb.social.org::fake]] drf [[file:verb.creation.org::fake]]
 w: <<faker>> drf [[file:verb.social.org::fake]] drf [[file:verb.communication.org::fake]]
 w: <<fraud>>
-w: <<sham>> drf [[file:adj.all.org::sham]] drf [[file:verb.creation.org::sham]]
+w: <<sham>> drf [[file:adjs.all.org::sham]] drf [[file:verb.creation.org::sham]]
 w: <<shammer>> drf [[file:verb.creation.org::sham]] drf [[file:verb.communication.org::sham]]
 w: <<pseudo>>
 w: <<pseud>>
@@ -36310,7 +36309,7 @@ g: a believer in imperialism
 w: <<imp>>
 w: <<scamp>>
 w: <<monkey>> drf [[file:verb.contact.org::monkey12]]
-w: <<rascal1>> drf [[file:adj.all.org::rascally]]
+w: <<rascal1>> drf [[file:adjs.all.org::rascally]]
 w: <<rapscallion1>>
 w: <<scalawag1>>
 w: <<scallywag1>>
@@ -36375,7 +36374,7 @@ g: someone who is adored blindly and excessively
 
 w: <<idler>> drf [[file:verb.social.org::idle]]
 w: <<loafer>> drf [[file:verb.stative.org::loaf1]]
-w: <<do-nothing>> drf [[file:adj.all.org::do-nothing]]
+w: <<do-nothing>> drf [[file:adjs.all.org::do-nothing]]
 w: <<layabout>>
 w: <<bum3>> drf [[file:verb.possession.org::bum]]
 hyper: [[nonworker]]
@@ -36385,10 +36384,10 @@ w: <<idiot_savant>>
 hyper: [[simpleton]]
 g: person who is mentally retarded in general but who displays remarkable aptitude in some limited field (usually involving memory)
 
-w: <<idiot>> drf [[file:adj.all.org::idiotic]]
-w: <<imbecile>> drf [[file:adj.all.org::imbecilic]]
-w: <<cretin>> drf [[file:adj.all.org::cretinous]]
-w: <<moron>> drf [[file:adj.all.org::moronic]]
+w: <<idiot>> drf [[file:adjs.all.org::idiotic]]
+w: <<imbecile>> drf [[file:adjs.all.org::imbecilic]]
+w: <<cretin>> drf [[file:adjs.all.org::cretinous]]
+w: <<moron>> drf [[file:adjs.all.org::moronic]]
 w: <<changeling1>>
 w: <<half-wit1>>
 w: <<retard>> drf [[file:verb.change.org::retard7]]
@@ -36453,8 +36452,8 @@ g: a person who has abnormally low blood pressure
 w: <<hypocrite>>
 w: <<dissembler>> drf [[file:verb.communication.org::dissemble]]
 w: <<dissimulator>>
-w: <<phony>> drf [[file:adj.all.org::phony]]
-w: <<phoney>> drf [[file:adj.all.org::phoney]]
+w: <<phony>> drf [[file:adjs.all.org::phony]]
+w: <<phoney>> drf [[file:adjs.all.org::phoney]]
 w: <<pretender1>>
 hyper: [[deceiver]]
 g: a person who professes beliefs and opinions that he or she does not hold in order to conceal his or her real feelings or motives
@@ -36511,7 +36510,7 @@ w: <<ex1>>
 hyper: [[man]]
 g: a man who was formerly a certain woman's husband
 
-w: <<husband>> drf [[file:adj.all.org::husbandly]] drf [[file:adj.all.org::husbandly]] ant [[wife]]
+w: <<husband>> drf [[file:adjs.all.org::husbandly]] drf [[file:adj.all.org::husbandly]] ant [[wife]]
 w: <<hubby>>
 w: <<married_man>>
 hyper: [[spouse]]
@@ -36562,7 +36561,7 @@ g: a member of a nomadic people who invaded Europe in the 4th century
 
 w: <<humpback>>
 w: <<hunchback>>
-w: <<crookback>> drf [[file:adj.all.org::crookback]]
+w: <<crookback>> drf [[file:adjs.all.org::crookback]]
 hyper: [[cripple]]
 g: a person whose back is hunched because of abnormal curvature of the upper spine
 
@@ -36634,7 +36633,7 @@ w: <<housebreaker2>>
 hyper: [[wrecker2]]
 g: a wrecker of houses; "in England a housewrecker is called a housebreaker"
 
-w: <<housewife>> drf [[file:adj.all.org::housewifely]]
+w: <<housewife>> drf [[file:adjs.all.org::housewifely]]
 w: <<homemaker>>
 w: <<lady_of_the_house>>
 w: <<woman_of_the_house>>
@@ -36861,7 +36860,7 @@ g: a tiny fully formed individual that (according to the discredited theory of p
 w: <<homosexual>> drf [[file:adj.all.org::homosexual]]
 w: <<homophile>>
 w: <<homo>>
-w: <<gay>> drf [[file:adj.all.org::gay]]
+w: <<gay>> drf [[file:adjs.all.org::gay]]
 hyper: [[file:noun.Tops.org::person]]
 g: someone who practices homosexuality; having a sexual attraction to persons of the same sex
 
@@ -36885,7 +36884,7 @@ w: <<homoeopath>>
 hyper: [[practitioner]]
 g: a practitioner of homeopathy
 
-w: <<homeless>> drf [[file:adj.all.org::homeless]]
+w: <<homeless>> drf [[file:adjs.all.org::homeless]]
 w: <<homeless_person>>
 hyper: [[unfortunate]]
 hm: [[file:noun.group.org::homeless]]
@@ -36957,7 +36956,7 @@ hyper: [[operator]]
 g: an operator of a hoist
 
 w: <<hog>> drf [[file:verb.possession.org::hog]]
-w: <<pig>> drf [[file:adj.all.org::piggy]] drf [[file:verb.consumption.org::pig]] drf [[file:verb.stative.org::pig]]
+w: <<pig>> drf [[file:adjs.all.org::piggy]] drf [[file:verb.consumption.org::pig]] drf [[file:verb.stative.org::pig]]
 hyper: [[selfish_person]]
 g: a person regarded as greedy and pig-like
 
@@ -37100,7 +37099,7 @@ w: <<high_commissioner>>
 hyper: [[diplomat]]
 g: a senior diplomat from one country to another who is assigned ambassadorial rank
 
-w: <<highbrow>> drf [[file:adj.all.org::highbrow]]
+w: <<highbrow>> drf [[file:adjs.all.org::highbrow]]
 hyper: [[intellectual]]
 g: a person of intellectual or erudite tastes
 
@@ -37115,7 +37114,7 @@ g: a person who hews
 w: <<heterosexual>> drf [[file:adj.all.org::heterosexual]]
 w: <<heterosexual_person>>
 w: <<straight_person>>
-w: <<straight>> drf [[file:adj.all.org::straight]]
+w: <<straight>> drf [[file:adjs.all.org::straight]]
 hyper: [[file:noun.Tops.org::person]]
 g: a heterosexual person; someone having a sexual orientation to persons of the opposite sex
 
@@ -37140,7 +37139,7 @@ w: <<heroine1>>
 hyper: [[file:noun.cognition.org::character1]]
 g: the main good female character in a work of fiction
 
-w: <<hero4>> drf [[file:adj.all.org::heroical]]
+w: <<hero4>> drf [[file:adjs.all.org::heroical]]
 hyper: [[mythical_being]]
 dt: [[file:noun.group.org::classical_mythology]]
 g: (classical mythology) a being of great strength and courage celebrated for bold exploits; often the offspring of a mortal and a god
@@ -37158,17 +37157,17 @@ w: <<herpetologist>> drf [[file:noun.cognition.org::herpetology]]
 hyper: [[zoologist]]
 g: a zoologist who studies reptiles and amphibians
 
-w: <<hermit>> drf [[file:adj.all.org::hermitic]] drf [[file:adj.all.org::hermitical]]
-w: <<recluse>> drf [[file:adj.all.org::recluse]]
-w: <<solitary>> drf [[file:adj.all.org::solitary1]]
+w: <<hermit>> drf [[file:adjs.all.org::hermitic]] drf [[file:adjs.all.org::hermitical]]
+w: <<recluse>> drf [[file:adjs.all.org::recluse]]
+w: <<solitary>> drf [[file:adjs.all.org::solitary1]]
 w: <<solitudinarian>>
 w: <<troglodyte1>>
 hyper: [[loner]]
 g: one who lives in solitude
 
-w: <<hermaphrodite>> drf [[file:adj.all.org::hermaphrodite]] drf [[file:adj.all.org::hermaphroditic]] drf [[file:adj.all.org::hermaphroditic]]
+w: <<hermaphrodite>> drf [[file:adjs.all.org::hermaphrodite]] drf [[file:adjs.all.org::hermaphroditic]] drf [[file:adjs.all.org::hermaphroditic]]
 w: <<intersex>>
-w: <<gynandromorph>> drf [[file:adj.all.org::gynandromorphous]]
+w: <<gynandromorph>> drf [[file:adjs.all.org::gynandromorphous]]
 w: <<androgyne>> drf [[file:adj.pert.org::androgenous]] drf [[file:adj.all.org::androgynous]]
 w: <<epicene>>
 w: <<epicene_person>>
@@ -37259,7 +37258,7 @@ g: a very evil man
 
 w: <<hellion>>
 w: <<heller>>
-w: <<devil3>> drf [[file:adj.all.org::diabolic2]]
+w: <<devil3>> drf [[file:adjs.all.org::diabolic2]]
 hyper: [[troublemaker]]
 g: a rowdy or mischievous person (usually a young man); "he chased the young hellions out of his yard"
 
@@ -37354,8 +37353,8 @@ hyper: [[heathen]]
 dt: [[file:noun.cognition.org::Islam]]
 g: a heathen; a person who is not a Christian (especially a Muslim)
 
-w: <<heathen>> drf [[file:adj.all.org::heathen]]
-w: <<pagan>> drf [[file:adj.all.org::pagan]] drf [[file:verb.change.org::paganize]]
+w: <<heathen>> drf [[file:adjs.all.org::heathen]]
+w: <<pagan>> drf [[file:adjs.all.org::pagan]] drf [[file:verb.change.org::paganize]]
 w: <<gentile1>> drf [[file:adj.pert.org::gentile]]
 w: <<infidel>>
 hyper: [[nonreligious_person]]
@@ -37374,7 +37373,7 @@ w: <<hearing_officer>>
 hyper: [[official1]]
 g: an official appointed by a government agency to conduct an investigation or administrative hearing so that the agency can exercise its statutory powers
 
-w: <<motile>> drf [[file:adj.all.org::motile]]
+w: <<motile>> drf [[file:adjs.all.org::motile]]
 hyper: [[perceiver]]
 g: one whose prevailing mental imagery takes the form of inner feelings of action
 
@@ -37634,20 +37633,20 @@ w: <<ham1>>
 hyper: [[radio_operator]]
 g: a licensed amateur radio operator
 
-w: <<ham>> drf [[file:adj.all.org::hammy]] drf [[file:verb.creation.org::ham]]
+w: <<ham>> drf [[file:adjs.all.org::hammy]] drf [[file:verb.creation.org::ham]]
 w: <<ham_actor>>
 hyper: [[actor]]
 g: an unskilled actor who overacts
 
 w: <<fathead>>
-w: <<goof>> drf [[file:adj.all.org::goofy]] drf [[file:verb.social.org::goof]]
+w: <<goof>> drf [[file:adjs.all.org::goofy]] drf [[file:verb.social.org::goof]]
 w: <<goofball>>
 w: <<bozo1>>
 w: <<jackass>>
-w: <<goose>> drf [[file:adj.all.org::goosy]] drf [[file:adj.all.org::goosey]]
+w: <<goose>> drf [[file:adjs.all.org::goosy]] drf [[file:adjs.all.org::goosey]]
 w: <<cuckoo>>
 w: <<twat>>
-w: <<zany1>> drf [[file:adj.all.org::zany]] drf [[file:adj.all.org::zany]]
+w: <<zany1>> drf [[file:adjs.all.org::zany]] drf [[file:adjs.all.org::zany]]
 hyper: [[fool]]
 g: a man who is a stupid incompetent fool
 
@@ -37955,9 +37954,9 @@ w: <<groundling>>
 hyper: [[playgoer]]
 g: in Elizabethan theater: a playgoer in the cheap standing section
 
-w: <<grouch>> drf [[file:adj.all.org::grouchy]] drf [[file:verb.communication.org::grouch]]
-w: <<grump>> drf [[file:adj.all.org::grumpy]]
-w: <<crank>> drf [[file:adj.all.org::cranky]]
+w: <<grouch>> drf [[file:adjs.all.org::grouchy]] drf [[file:verb.communication.org::grouch]]
+w: <<grump>> drf [[file:adjs.all.org::grumpy]]
+w: <<crank>> drf [[file:adjs.all.org::cranky]]
 w: <<churl1>>
 w: <<crosspatch>>
 hyper: [[unpleasant_person]]
@@ -38224,7 +38223,7 @@ g: a merchant who deals in food grains
 
 w: <<graduate_student>>
 w: <<grad_student>>
-w: <<postgraduate>> drf [[file:adj.all.org::postgraduate]]
+w: <<postgraduate>> drf [[file:adjs.all.org::postgraduate]]
 hyper: [[collegian]]
 g: a student who continues studies after graduation
 
@@ -38278,7 +38277,7 @@ w: <<newsmonger>>
 hyper: [[communicator]]
 g: a person given to gossiping and divulging personal information about others
 
-w: <<goody-goody>> drf [[file:adj.all.org::goody-goody]]
+w: <<goody-goody>> drf [[file:adjs.all.org::goody-goody]]
 hyper: [[sycophant]]
 g: a person who behaves extremely well in order to please a superior
 
@@ -38369,9 +38368,9 @@ g: a soldier who performs his duties without proper care or effort
 w: <<goldbrick>>
 w: <<goof-off>>
 w: <<ne'er-do-well>>
-w: <<good-for-nothing>> drf [[file:adj.all.org::good-for-nothing]]
+w: <<good-for-nothing>> drf [[file:adjs.all.org::good-for-nothing]]
 w: <<no-account>>
-w: <<good-for-naught>> drf [[file:adj.all.org::good-for-naught]]
+w: <<good-for-naught>> drf [[file:adjs.all.org::good-for-naught]]
 hyper: [[idler]]
 g: an idle worthless person
 
@@ -38595,18 +38594,18 @@ w: <<Gibson_girl>>
 hyper: [[girl]]
 g: the idealized American girl of the 1890s as pictured by C. D. Gibson
 
-w: <<giant3>> drf [[file:adj.all.org::giant]] drf [[file:adj.all.org::gigantic1]]
-w: <<hulk>> drf [[file:adj.all.org::hulky]] drf [[file:verb.stative.org::hulk]]
+w: <<giant3>> drf [[file:adjs.all.org::giant]] drf [[file:adjs.all.org::gigantic1]]
+w: <<hulk>> drf [[file:adjs.all.org::hulky]] drf [[file:verb.stative.org::hulk]]
 w: <<heavyweight3>>
 w: <<whale>>
 hyper: [[large_person]]
 g: a very large person; impressive in size or qualities
 
-w: <<giant>> drf [[file:adj.all.org::giant]] drf [[file:adj.all.org::gigantic1]]
+w: <<giant>> drf [[file:adjs.all.org::giant]] drf [[file:adjs.all.org::gigantic1]]
 w: <<goliath1>>
 w: <<behemoth>>
-w: <<monster3>> drf [[file:adj.all.org::monstrous]]
-w: <<colossus>> drf [[file:adj.all.org::colossal1]]
+w: <<monster3>> drf [[file:adjs.all.org::monstrous]]
+w: <<colossus>> drf [[file:adjs.all.org::colossal1]]
 hyper: [[anomaly]]
 g: someone or something that is abnormally large and powerful
 
@@ -38653,7 +38652,7 @@ w: <<gentleman-at-arms>>
 hyper: [[gentleman]]
 g: one of 40 gentlemen who attend the British sovereign on state occasions
 
-w: <<gentleman>> drf [[file:adj.all.org::gentlemanly]]
+w: <<gentleman>> drf [[file:adjs.all.org::gentlemanly]]
 hyper: [[man]]
 g: a man of refinement
 
@@ -38663,7 +38662,7 @@ g: informal abbreviation of `gentleman'
 
 w: <<genius>>
 w: <<mastermind1>>
-w: <<brain>> drf [[file:adj.all.org::brainy]]
+w: <<brain>> drf [[file:adjs.all.org::brainy]]
 w: <<brainiac>>
 w: <<Einstein1>>
 hyper: [[intellectual]]
@@ -39038,7 +39037,7 @@ w: <<fry_cook>>
 hyper: [[cook]]
 g: a cook who specializes in fried foods
 
-w: <<frump>> drf [[file:adj.all.org::frumpy]]
+w: <<frump>> drf [[file:adjs.all.org::frumpy]]
 w: <<dog1>>
 hyper: [[unpleasant_woman]]
 g: a dull unattractive unpleasant girl or woman; "she got a reputation as a frump"; "she's a real dog"
@@ -39096,12 +39095,12 @@ hm: [[file:noun.group.org::Benedictine_order]]
 g: a monk or nun belonging to the order founded by Saint Benedict
 
 w: <<monk>>
-w: <<monastic>> drf [[file:adj.all.org::monastic]]
+w: <<monastic>> drf [[file:adjs.all.org::monastic]]
 hyper: [[religious]]
 g: a male religious living in a cloister and devoting himself to contemplation and prayer and work
 
 w: <<friar>>
-w: <<mendicant1>> drf [[file:adj.all.org::mendicant]]
+w: <<mendicant1>> drf [[file:adjs.all.org::mendicant]]
 hyper: [[religious]]
 g: a male member of a religious order that originally relied solely on alms
 
@@ -39179,8 +39178,8 @@ hyper: [[file:noun.Tops.org::person]]
 g: someone acting freely or even irresponsibly
 
 w: <<freak>>
-w: <<monster1>> drf [[file:adj.all.org::monstrous]]
-w: <<monstrosity>> drf [[file:adj.all.org::monstrous]] drf [[file:adj.all.org::monstrous]]
+w: <<monster1>> drf [[file:adjs.all.org::monstrous]]
+w: <<monstrosity>> drf [[file:adjs.all.org::monstrous]] drf [[file:adjs.all.org::monstrous]]
 w: <<lusus_naturae>>
 hyper: [[mutant]]
 g: a person or animal that is markedly unusual or deformed
@@ -39357,7 +39356,7 @@ w: <<foreman>> drf [[file:noun.act.org::foremanship]]
 w: <<chief1>>
 w: <<gaffer>>
 w: <<honcho>>
-w: <<boss1>> drf [[file:adj.all.org::bossy]]
+w: <<boss1>> drf [[file:adjs.all.org::bossy]]
 hyper: [[supervisor]]
 g: a person who exercises control over workers; "if you want to leave early you have to ask the foreman"
 
@@ -39376,7 +39375,7 @@ hyper: [[minister2]]
 g: a government minister for foreign relations
 
 w: <<foreigner>>
-w: <<alien>> drf [[file:adj.all.org::alien]]
+w: <<alien>> drf [[file:adjs.all.org::alien]]
 w: <<noncitizen>> ant [[citizen]]
 w: <<outlander>>
 hyper: [[traveler]]
@@ -39512,7 +39511,7 @@ w: <<flyweight>>
 hyper: [[boxer]]
 g: an amateur boxer who weighs no more than 112 pounds
 
-w: <<fly-by-night>> drf [[file:adj.all.org::fly-by-night]] drf [[file:adj.all.org::fly-by-night]]
+w: <<fly-by-night>> drf [[file:adjs.all.org::fly-by-night]] drf [[file:adjs.all.org::fly-by-night]]
 hyper: [[debtor]]
 g: a debtor who flees to avoid paying
 
@@ -39714,8 +39713,8 @@ w: <<first_lady>>
 hyper: [[wife]]
 g: the wife of a chief executive
 
-w: <<firstborn>> drf [[file:adj.all.org::firstborn]]
-w: <<eldest>> drf [[file:adj.all.org::eldest]]
+w: <<firstborn>> drf [[file:adjs.all.org::firstborn]]
+w: <<eldest>> drf [[file:adjs.all.org::eldest]]
 hyper: [[offspring]]
 g: the offspring who came first in the order of birth
 
@@ -40049,7 +40048,7 @@ hyper: [[priest]]
 hyper: [[file:noun.communication.org::title2]]
 g: `Father' is a term of address for priests in some churches (especially the Roman Catholic Church or the Orthodox Catholic Church); `Padre' is frequently used in the military
 
-w: <<father>> drf [[file:adj.all.org::fatherly]] drf [[file:verb.body.org::father]] ant [[mother]]
+w: <<father>> drf [[file:adjs.all.org::fatherly]] drf [[file:verb.body.org::father]] ant [[mother]]
 w: <<male_parent>> ant [[female_parent]]
 w: <<begetter>> drf [[file:verb.body.org::beget]]
 hyper: [[parent]]
@@ -40141,7 +40140,7 @@ w: <<enthusiast1>>
 hyper: [[admirer]]
 g: a person having a strong liking for something
 
-w: <<fanatic>> drf [[file:adj.all.org::fanatic]] drf [[file:adj.all.org::fanatical]]
+w: <<fanatic>> drf [[file:adjs.all.org::fanatic]] drf [[file:adjs.all.org::fanatical]]
 w: <<fiend1>>
 hyper: [[enthusiast]]
 g: a person motivated by irrational enthusiasm (as for a cause); "A fanatic is one who can't change his mind and won't change the subject"--Winston Churchill
@@ -40249,7 +40248,7 @@ hyper: [[woman]]
 g: a strikingly beautiful woman; "she was a statuesque redheaded eyeful"
 
 w: <<extrovert>> ant [[introvert]]
-w: <<extravert>> drf [[file:adj.all.org::extravert]]
+w: <<extravert>> drf [[file:adjs.all.org::extravert]]
 hyper: [[file:noun.Tops.org::person]]
 dt: [[file:noun.cognition.org::psychology]]
 g: (psychology) a person concerned more with practical realities than with inner thoughts and feelings
@@ -40336,7 +40335,7 @@ w: <<deportee>> drf [[file:verb.social.org::deport1]] drf [[file:verb.social.org
 hyper: [[foreigner]]
 g: a person who is expelled from home or country by authority
 
-w: <<exhibitionist1>> drf [[file:adj.all.org::exhibitionistic]] drf [[file:noun.act.org::exhibitionism]]
+w: <<exhibitionist1>> drf [[file:adjs.all.org::exhibitionistic]] drf [[file:noun.act.org::exhibitionism]]
 w: <<flasher>> drf [[file:verb.perception.org::flash2]]
 hyper: [[compulsive]]
 g: someone with a compulsive desire to expose the genitals
@@ -40454,7 +40453,7 @@ hyper: [[preacher]]
 g: a preacher of the Christian gospel
 
 w: <<evaluator>> drf [[file:verb.cognition.org::evaluate]]
-w: <<judge1>> drf [[file:adj.all.org::judicial]] drf [[file:noun.act.org::judgeship]] drf [[file:verb.cognition.org::judge1]] drf [[file:verb.cognition.org::judge]] drf [[file:verb.cognition.org::judge2]]
+w: <<judge1>> drf [[file:adjs.all.org::judicial]] drf [[file:noun.act.org::judgeship]] drf [[file:verb.cognition.org::judge1]] drf [[file:verb.cognition.org::judge]] drf [[file:verb.cognition.org::judge2]]
 hyper: [[authority]]
 g: an authority who is able to estimate worth or quality
 
@@ -40612,11 +40611,11 @@ w: <<epidemiologist>> drf [[file:noun.cognition.org::epidemiology]]
 hyper: [[medical_scientist]]
 g: a medical scientist who studies the transmission and control of epidemic diseases
 
-w: <<epicure>> drf [[file:adj.all.org::epicurean2]]
+w: <<epicure>> drf [[file:adjs.all.org::epicurean2]]
 w: <<gourmet>>
 w: <<gastronome>>
 w: <<bon_vivant>>
-w: <<epicurean>> drf [[file:adj.all.org::epicurean2]]
+w: <<epicurean>> drf [[file:adjs.all.org::epicurean2]]
 w: <<foodie>>
 hyper: [[sensualist]]
 g: a person devoted to refined sensuous enjoyment (especially good food and drink)
@@ -40653,7 +40652,7 @@ w: <<conservationist>> drf [[file:noun.event.org::conservation]] drf [[file:noun
 hyper: [[reformer]]
 g: someone who works to protect the environment from destruction or pollution
 
-w: <<entrepreneur>> drf [[file:adj.all.org::entrepreneurial]] drf [[file:adj.pert.org::entrepreneurial]]
+w: <<entrepreneur>> drf [[file:adjs.all.org::entrepreneurial]] drf [[file:adj.pert.org::entrepreneurial]]
 w: <<enterpriser>> drf [[file:noun.group.org::enterprise]] drf [[file:noun.attribute.org::enterprise]] drf [[file:noun.act.org::enterprise]]
 hyper: [[businessperson]]
 g: someone who organizes a business venture and assumes the risk for it
@@ -40846,7 +40845,7 @@ w: <<empress>>
 hyper: [[emperor]]
 g: a woman emperor or the wife of an emperor
 
-w: <<emperor>> drf [[file:adj.all.org::imperial]]
+w: <<emperor>> drf [[file:adjs.all.org::imperial]]
 hyper: [[sovereign]]
 g: the male ruler of an empire
 
@@ -40993,7 +40992,7 @@ w: <<elder1>> drf [[file:noun.act.org::eldership]]
 hyper: [[church_officer]]
 g: any of various church officers
 
-w: <<elder>> drf [[file:adj.all.org::elder]]
+w: <<elder>> drf [[file:adjs.all.org::elder]]
 w: <<senior1>>
 hyper: [[adult]]
 g: a person who is older than you are
@@ -41010,7 +41009,7 @@ w: <<Egyptologist>> drf [[file:noun.cognition.org::Egyptology]]
 hyper: [[archeologist]]
 g: an archeologist who specializes in Egyptology
 
-w: <<egotist>> drf [[file:adj.all.org::egotistic]] drf [[file:adj.all.org::egotistical]] drf [[file:adj.all.org::egotistical]] drf [[file:noun.feeling.org::egotism]] drf [[file:noun.attribute.org::egotism]]
+w: <<egotist>> drf [[file:adjs.all.org::egotistic]] drf [[file:adjs.all.org::egotistical]] drf [[file:adjs.all.org::egotistical]] drf [[file:noun.feeling.org::egotism]] drf [[file:noun.attribute.org::egotism]]
 w: <<egoist1>> drf [[file:adj.all.org::egoistic]] drf [[file:noun.attribute.org::egoism]]
 w: <<swellhead>>
 hyper: [[unpleasant_person]]
@@ -41029,7 +41028,7 @@ w: <<egghead>>
 hyper: [[intellectual]]
 g: an intellectual; a very studious and academic person; "in spite of her love of reading she denied being an egghead"
 
-w: <<egalitarian>> drf [[file:adj.all.org::egalitarian]] ant [[elitist]]
+w: <<egalitarian>> drf [[file:adjs.all.org::egalitarian]] ant [[elitist]]
 w: <<equalitarian>>
 hyper: [[moralist]]
 g: a person who believes in the equality of all people
@@ -41228,7 +41227,7 @@ g: a person who does not talk
 
 w: <<dumbbell>>
 w: <<dummy>>
-w: <<dope>> drf [[file:adj.all.org::dopy1]] drf [[file:adj.all.org::dopey1]]
+w: <<dope>> drf [[file:adjs.all.org::dopy1]] drf [[file:adjs.all.org::dopey1]]
 w: <<boob>> drf [[file:verb.social.org::boob]]
 w: <<booby>>
 w: <<pinhead>>
@@ -41510,7 +41509,7 @@ w: <<doyenne>>
 hyper: [[elder]]
 g: a woman who is the senior member of a group
 
-w: <<down-and-out>> drf [[file:adj.all.org::down-and-out]]
+w: <<down-and-out>> drf [[file:adjs.all.org::down-and-out]]
 hyper: [[poor_person]]
 g: a person who is destitute; "he tried to help the down-and-out"
 
@@ -41664,7 +41663,7 @@ hyper: [[proletarian]]
 g: a worker who has to do all the unpleasant or boring jobs that no one else wants to do
 
 w: <<dogmatist>> drf [[file:noun.cognition.org::dogmatism]] drf [[file:verb.communication.org::dogmatize1]] drf [[file:verb.communication.org::dogmatize]] drf [[file:verb.communication.org::dogmatise1]] drf [[file:verb.communication.org::dogmatise]]
-w: <<doctrinaire>> drf [[file:adj.all.org::doctrinaire]]
+w: <<doctrinaire>> drf [[file:adjs.all.org::doctrinaire]]
 hyper: [[partisan]]
 g: a stubborn person of arbitrary or arrogant opinions
 
@@ -41697,7 +41696,7 @@ du: [[file:noun.communication.org::colloquialism]]
 g: someone whose style is out of fashion
 
 w: <<dodger>> drf [[file:verb.communication.org::dodge]]
-w: <<fox>> drf [[file:adj.all.org::foxy]] drf [[file:verb.social.org::fox]]
+w: <<fox>> drf [[file:adjs.all.org::foxy]] drf [[file:verb.social.org::fox]]
 w: <<slyboots>>
 hyper: [[deceiver]]
 g: a shifty deceptive person
@@ -41805,7 +41804,7 @@ hyper: [[troublemaker]]
 g: a troubler who interrupts or interferes with peace and quiet; someone who causes disorder and commotion
 
 w: <<dissenter>> drf [[file:verb.social.org::dissent]] drf [[file:verb.communication.org::dissent1]]
-w: <<dissident>> drf [[file:adj.all.org::dissident]] drf [[file:adj.all.org::dissident]]
+w: <<dissident>> drf [[file:adjs.all.org::dissident]] drf [[file:adjs.all.org::dissident]]
 w: <<protester1>> drf [[file:verb.social.org::protest]] drf [[file:verb.communication.org::protest]]
 w: <<objector>> drf [[file:verb.communication.org::object]]
 w: <<contestant1>>
@@ -41950,7 +41949,7 @@ w: <<dictator2>> drf [[file:verb.cognition.org::dictate]]
 hyper: [[speaker]]
 g: a speaker who dictates to a secretary or a recording machine
 
-w: <<dictator>> drf [[file:adj.all.org::dictatorial]] drf [[file:adj.pert.org::dictatorial]] drf [[file:noun.group.org::dictatorship]] drf [[file:verb.social.org::dictate]]
+w: <<dictator>> drf [[file:adjs.all.org::dictatorial]] drf [[file:adj.pert.org::dictatorial]] drf [[file:noun.group.org::dictatorship]] drf [[file:verb.social.org::dictate]]
 w: <<potentate>>
 hyper: [[ruler]]
 g: a ruler who is unconstrained by law
@@ -41981,7 +41980,7 @@ w: <<pathologist>> drf [[file:noun.state.org::pathology]] drf [[file:noun.cognit
 hyper: [[specialist1]]
 g: a doctor who specializes in medical diagnosis
 
-w: <<diabetic>> drf [[file:adj.all.org::diabetic]]
+w: <<diabetic>> drf [[file:adjs.all.org::diabetic]]
 hyper: [[sick_person]]
 g: someone who has diabetes
 
@@ -42089,10 +42088,10 @@ hyper: [[driver]]
 g: the member of a party who is designated to refrain from alcohol and so is sober when it is time to drive home
 
 w: <<deserter1>> drf [[file:verb.social.org::desert]] drf [[file:verb.cognition.org::desert]]
-w: <<apostate>> drf [[file:adj.all.org::apostate]] drf [[file:verb.communication.org::apostatize]] drf [[file:verb.communication.org::apostatise]]
-w: <<renegade1>> drf [[file:adj.all.org::renegade]]
+w: <<apostate>> drf [[file:adjs.all.org::apostate]] drf [[file:verb.communication.org::apostatize]] drf [[file:verb.communication.org::apostatise]]
+w: <<renegade1>> drf [[file:adjs.all.org::renegade]]
 w: <<turncoat>>
-w: <<recreant2>> drf [[file:adj.all.org::recreant]]
+w: <<recreant2>> drf [[file:adjs.all.org::recreant]]
 w: <<ratter>> drf [[file:verb.communication.org::rat9]] drf [[file:verb.social.org::rat2]] drf [[file:verb.social.org::rat1]] drf [[file:verb.social.org::rat]]
 hyper: [[quitter]]
 g: a disloyal person who betrays or deserts his cause or religion or political party or friend etc.
@@ -42107,7 +42106,7 @@ w: <<descender>>
 hyper: [[mover]]
 g: someone who descends
 
-w: <<descendant>> drf [[file:adj.all.org::descendant]] drf [[file:verb.stative.org::descend]] ant [[ancestor]]
+w: <<descendant>> drf [[file:adjs.all.org::descendant]] drf [[file:verb.stative.org::descend]] ant [[ancestor]]
 w: <<descendent>> drf [[file:verb.stative.org::descend]]
 hyper: [[relative]]
 g: a person considered as descended from some ancestor or race
@@ -42217,7 +42216,7 @@ w: <<protester>> drf [[file:verb.social.org::protest]] drf [[file:verb.communica
 hyper: [[reformer]]
 g: someone who participates in a public display of group feeling
 
-w: <<demoniac>> drf [[file:adj.all.org::demoniac]]
+w: <<demoniac>> drf [[file:adjs.all.org::demoniac]]
 hyper: [[monster]]
 g: someone who acts as if possessed by a demon
 
@@ -42272,7 +42271,7 @@ w: <<deliverer1>> drf [[file:verb.contact.org::deliver]] drf [[file:verb.possess
 hyper: [[file:noun.Tops.org::person]]
 g: a person who gives up or transfers money or goods
 
-w: <<delinquent>> drf [[file:adj.all.org::delinquent]]
+w: <<delinquent>> drf [[file:adjs.all.org::delinquent]]
 w: <<juvenile_delinquent>>
 hyper: [[wrongdoer]]
 g: a young offender
@@ -42358,7 +42357,7 @@ w: <<slicker>>
 hyper: [[wrongdoer]]
 g: someone who leads you to believe something that is not true
 
-w: <<decadent>> drf [[file:adj.all.org::decadent]] drf [[file:verb.change.org::decay]]
+w: <<decadent>> drf [[file:adjs.all.org::decadent]] drf [[file:verb.change.org::decay]]
 hyper: [[bad_person]]
 g: a person who has fallen into a decadent state (morally or artistically)
 
@@ -42449,7 +42448,7 @@ w: <<dead_soul>>
 w: <<deceased_person>>
 w: <<deceased>>
 w: <<decedent>> drf [[file:verb.change.org::decease]]
-w: <<departed>> drf [[file:adj.all.org::departed]]
+w: <<departed>> drf [[file:adjs.all.org::departed]]
 hyper: [[file:noun.Tops.org::person]]
 hm: [[file:noun.group.org::dead]]
 g: someone who is no longer alive; "I wonder what the dead person would have done"
@@ -42504,7 +42503,7 @@ w: <<drone>>
 w: <<laggard>> drf [[file:verb.motion.org::lag]]
 w: <<lagger>> drf [[file:verb.motion.org::lag]]
 w: <<trailer>> drf [[file:verb.motion.org::trail1]] drf [[file:verb.motion.org::trail2]]
-w: <<poke>> drf [[file:adj.all.org::poky]] drf [[file:adj.all.org::pokey]]
+w: <<poke>> drf [[file:adjs.all.org::poky]] drf [[file:adjs.all.org::pokey]]
 hyper: [[idler]]
 g: someone who takes more time than necessary; someone who lags behind
 
@@ -42516,7 +42515,7 @@ w: <<daughter-in-law>>
 hyper: [[in-law]]
 g: the wife of your son
 
-w: <<daughter>> drf [[file:adj.all.org::daughterly]] ant [[son]]
+w: <<daughter>> drf [[file:adjs.all.org::daughterly]] ant [[son]]
 w: <<girl4>> ant [[boy3]]
 hyper: [[female_offspring]]
 g: a female human offspring; "her daughter cared for her in her old age"
@@ -42531,7 +42530,7 @@ hyper: [[companion]]
 hm: [[file:noun.group.org::date]]
 g: a participant in a date; "his date never stopped talking"
 
-w: <<dastard>> drf [[file:adj.all.org::dastard]] drf [[file:adj.all.org::dastardly]]
+w: <<dastard>> drf [[file:adjs.all.org::dastard]] drf [[file:adjs.all.org::dastardly]]
 hyper: [[coward]]
 g: a despicable coward
 
@@ -42547,9 +42546,9 @@ w: <<darner>> drf [[file:verb.contact.org::darn]]
 hyper: [[mender]]
 g: a person who mends by darning
 
-w: <<darling>> drf [[file:adj.all.org::darling]]
+w: <<darling>> drf [[file:adjs.all.org::darling]]
 w: <<favorite>>
-w: <<favourite>> drf [[file:adj.all.org::favourite]]
+w: <<favourite>> drf [[file:adjs.all.org::favourite]]
 w: <<pet>> drf [[file:verb.contact.org::pet1]] drf [[file:verb.contact.org::pet]]
 w: <<dearie>>
 w: <<deary>>
@@ -42561,12 +42560,12 @@ w: <<dark_horse>>
 hyper: [[campaigner]]
 g: a political candidate who is not well known but could win unexpectedly
 
-w: <<daredevil>> drf [[file:adj.all.org::daredevil]]
+w: <<daredevil>> drf [[file:adjs.all.org::daredevil]]
 w: <<madcap>>
 w: <<hothead>>
 w: <<swashbuckler>>
 w: <<lunatic1>>
-w: <<harum-scarum>> drf [[file:adj.all.org::harum-scarum]]
+w: <<harum-scarum>> drf [[file:adjs.all.org::harum-scarum]]
 hyper: [[adventurer]]
 g: a reckless impetuous irresponsible person
 
@@ -42696,7 +42695,7 @@ dr: [[file:noun.location.org::Myanmar]]
 g: a member of an armed gang of robbers
 
 w: <<dabbler>> drf [[file:verb.social.org::dabble1]]
-w: <<dilettante>> drf [[file:adj.all.org::dilettante]]
+w: <<dilettante>> drf [[file:adjs.all.org::dilettante]]
 w: <<sciolist>> drf [[file:noun.attribute.org::sciolism]]
 hyper: [[amateur]]
 g: an amateur who engages in an activity without serious intentions and who pretends to have knowledge
@@ -42732,7 +42731,7 @@ w: <<Cynic1>>
 hyper: [[philosopher]]
 g: a member of a group of ancient Greek philosophers who advocated the doctrine that virtue is the only good and that the essence of virtue is self-control
 
-w: <<cynic>> drf [[file:adj.all.org::cynical]]
+w: <<cynic>> drf [[file:adjs.all.org::cynical]]
 w: <<faultfinder>> drf [[file:verb.communication.org::find_fault10]]
 hyper: [[unpleasant_person]]
 g: someone who is critical of the motives of others
@@ -42745,9 +42744,8 @@ w: <<cyclist>> drf [[file:noun.artifact.org::cycle]] drf [[file:verb.motion.org:
 w: <<bicyclist>> drf [[file:noun.artifact.org::bicycle]] drf [[file:verb.motion.org::bicycle]]
 w: <<bicycler>> drf [[file:verb.motion.org::bicycle]]
 w: <<wheeler1>> drf [[file:verb.motion.org::wheel6]]
-w: biker
 hyper: [[pedaler]]
-g: A person who rides a bicycle.
+g: a person who rides a bicycle
 
 w: <<cyborg>>
 w: <<bionic_man>>
@@ -42796,7 +42794,7 @@ hyper: [[consumer]]
 hm: [[file:noun.relation.org::business_relation]]
 g: someone who pays for goods or services
 
-w: <<custodian>> drf [[file:adj.all.org::custodial]] drf [[file:noun.act.org::custodianship]]
+w: <<custodian>> drf [[file:adjs.all.org::custodial]] drf [[file:noun.act.org::custodianship]]
 w: <<keeper>> drf [[file:verb.possession.org::keep1]]
 w: <<steward2>> drf [[file:noun.act.org::stewardship]]
 hyper: [[defender]]
@@ -42806,7 +42804,7 @@ w: <<currier>> drf [[file:verb.change.org::curry2]]
 hyper: [[craftsman]]
 g: a craftsman who curries leather for use
 
-w: <<curmudgeon>> drf [[file:adj.all.org::curmudgeonly]]
+w: <<curmudgeon>> drf [[file:adjs.all.org::curmudgeonly]]
 hyper: [[oldster]]
 g: a crusty irascible cantankerous old person full of stubborn ideas
 
@@ -42977,7 +42975,7 @@ g: a specialist in criminology
 w: <<criminal>> drf [[file:verb.social.org::criminalize2]]
 w: <<felon>>
 w: <<crook>>
-w: <<outlaw>> drf [[file:adj.all.org::outlaw]] drf [[file:adj.all.org::outlaw]] drf [[file:verb.social.org::outlaw]]
+w: <<outlaw>> drf [[file:adjs.all.org::outlaw]] drf [[file:adjs.all.org::outlaw]] drf [[file:verb.social.org::outlaw]]
 w: <<malefactor>>
 hyper: [[principal3]]
 g: someone who has committed a crime or has been legally convicted of a crime
@@ -43002,7 +43000,7 @@ hyper: [[employee]]
 hm: [[file:noun.group.org::gang]]
 g: a member of a work crew
 
-w: <<creep>> drf [[file:adj.all.org::creepy]] drf [[file:verb.motion.org::creep4]]
+w: <<creep>> drf [[file:adjs.all.org::creepy]] drf [[file:verb.motion.org::creep4]]
 w: <<weirdo1>>
 w: <<weirdie>>
 w: <<weirdy>>
@@ -43072,7 +43070,7 @@ w: <<crank1>>
 w: <<nut2>>
 w: <<nut_case>>
 w: <<fruitcake>>
-w: <<screwball>> drf [[file:adj.all.org::screwball]]
+w: <<screwball>> drf [[file:adjs.all.org::screwball]]
 hyper: [[eccentric]]
 g: a whimsically eccentric person
 
@@ -43085,7 +43083,7 @@ w: <<binger>>
 hyper: [[drug_addict]]
 g: someone addicted to crack cocaine
 
-w: <<crab>> drf [[file:adj.all.org::crabby]] drf [[file:verb.communication.org::crab]]
+w: <<crab>> drf [[file:adjs.all.org::crabby]] drf [[file:verb.communication.org::crab]]
 w: <<crabby_person>>
 hyper: [[grouch]]
 g: a quarrelsome grouch
@@ -43383,7 +43381,7 @@ hyper: [[chef1]]
 g: a chef famous for his great skill
 
 w: <<coquette>> drf [[file:verb.communication.org::coquette]]
-w: <<flirt>> drf [[file:adj.all.org::flirtatious]] drf [[file:verb.communication.org::flirt]]
+w: <<flirt>> drf [[file:adjs.all.org::flirtatious]] drf [[file:verb.communication.org::flirt]]
 w: <<vamp>> drf [[file:verb.communication.org::vamp]]
 w: <<vamper>> drf [[file:verb.communication.org::vamp]]
 w: <<minx>>
@@ -43498,7 +43496,7 @@ hyper: [[caller2]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: the member of a group whose duty it is to convene meetings
 
-w: <<convalescent>> drf [[file:adj.all.org::convalescent]] drf [[file:verb.body.org::convalesce]]
+w: <<convalescent>> drf [[file:adjs.all.org::convalescent]] drf [[file:verb.body.org::convalesce]]
 hyper: [[sick_person]]
 g: a person who is recovering from illness
 
@@ -43533,7 +43531,7 @@ hyper: [[acrobat]]
 g: an acrobat able to twist into unusual positions
 
 w: <<contemporary>>
-w: <<coeval>> drf [[file:adj.all.org::coeval]]
+w: <<coeval>> drf [[file:adjs.all.org::coeval]]
 hyper: [[peer]]
 g: a person of nearly the same age as another
 
@@ -43612,7 +43610,7 @@ hyper: [[Protestant]]
 g: a Protestant in England who is not a member of the Church of England
 
 w: <<nonconformist>> drf [[file:noun.cognition.org::nonconformism]] ant [[conformist]]
-w: <<recusant>> drf [[file:adj.all.org::recusant]] drf [[file:adj.all.org::recusant]]
+w: <<recusant>> drf [[file:adjs.all.org::recusant]] drf [[file:adjs.all.org::recusant]]
 hyper: [[dissenter]]
 g: someone who refuses to conform to established standards of conduct
 
@@ -43736,7 +43734,7 @@ hyper: [[soldier]]
 hyper: [[Confederate2]]
 g: a soldier in the Army of the Confederacy during the American Civil War
 
-w: <<Confederate2>> drf [[file:adj.all.org::Confederate]]
+w: <<Confederate2>> drf [[file:adjs.all.org::Confederate]]
 hyper: [[supporter]]
 hyper: [[Southerner]]
 g: a supporter of the Confederate States of America
@@ -43828,7 +43826,7 @@ hyper: [[computer_scientist]]
 hyper: [[linguist1]]
 g: someone trained in computer science and linguistics who uses computers for natural language processing
 
-w: <<compulsive>> drf [[file:adj.all.org::compulsive]] drf [[file:adj.all.org::compulsive]] drf [[file:noun.motive.org::compulsion]]
+w: <<compulsive>> drf [[file:adjs.all.org::compulsive]] drf [[file:adjs.all.org::compulsive]] drf [[file:noun.motive.org::compulsion]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person with a compulsive disposition; someone who feels compelled to do certain things
 
@@ -43882,7 +43880,7 @@ hyper: [[traveler]]
 g: a traveler who accompanies you
 
 w: <<companion>> drf [[file:noun.state.org::companionship]] drf [[file:verb.stative.org::companion]]
-w: <<comrade>> drf [[file:adj.all.org::comradely]] drf [[file:noun.attribute.org::comradeship]]
+w: <<comrade>> drf [[file:adjs.all.org::comradely]] drf [[file:noun.attribute.org::comradeship]]
 w: <<fellow2>> drf [[file:noun.state.org::fellowship]]
 w: <<familiar2>> drf [[file:adj.all.org::familiar]]
 w: <<associate1>> drf [[file:verb.social.org::associate2]]
@@ -44036,7 +44034,7 @@ hyper: [[actor]]
 g: an actor in a comedy
 
 w: <<comedian>>
-w: <<comic>> drf [[file:adj.all.org::comic]]
+w: <<comic>> drf [[file:adjs.all.org::comic]]
 hyper: [[performer]]
 g: a professional performer who tells jokes and performs comical acts
 
@@ -44049,9 +44047,9 @@ hyper: [[pilot]]
 dt: [[file:noun.group.org::military]]
 g: airplane pilot who fights in an action between two military forces
 
-w: <<combatant>> drf [[file:adj.all.org::combatant]] drf [[file:verb.competition.org::combat]]
+w: <<combatant>> drf [[file:adjs.all.org::combatant]] drf [[file:verb.competition.org::combat]]
 w: <<battler>> drf [[file:verb.competition.org::battle]]
-w: <<belligerent>> drf [[file:adj.all.org::belligerent]] drf [[file:adj.all.org::belligerent]]
+w: <<belligerent>> drf [[file:adjs.all.org::belligerent]] drf [[file:adjs.all.org::belligerent]]
 w: <<fighter>> drf [[file:verb.competition.org::fight1]] drf [[file:verb.competition.org::fight]]
 w: <<scrapper>> drf [[file:verb.communication.org::scrap]]
 hyper: [[file:noun.Tops.org::person]]
@@ -44066,7 +44064,7 @@ w: <<colossus1>>
 w: <<behemoth1>>
 w: <<giant1>>
 w: <<heavyweight>>
-w: <<titan1>> drf [[file:adj.all.org::titanic]]
+w: <<titan1>> drf [[file:adjs.all.org::titanic]]
 hyper: [[important_person]]
 g: a person of exceptional importance and reputation
 
@@ -44329,7 +44327,7 @@ g: a rude or vulgar fool
 
 w: <<clown>> drf [[file:verb.body.org::clown]]
 w: <<buffoon>>
-w: <<goof1>> drf [[file:adj.all.org::goofy]] drf [[file:verb.social.org::goof]]
+w: <<goof1>> drf [[file:adjs.all.org::goofy]] drf [[file:verb.social.org::goof]]
 w: <<goofball1>>
 w: <<merry_andrew>>
 hyper: [[comedian]]
@@ -44396,7 +44394,7 @@ hyper: [[intellectual]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: an intellectual who is ostentatiously and irritatingly knowledgeable
 
-w: <<clerk>> drf [[file:adj.all.org::clerical]] drf [[file:adj.pert.org::clerical1]] drf [[file:noun.act.org::clerkship]] drf [[file:verb.social.org::clerk]]
+w: <<clerk>> drf [[file:adjs.all.org::clerical]] drf [[file:adj.pert.org::clerical1]] drf [[file:noun.act.org::clerkship]] drf [[file:verb.social.org::clerk]]
 hyper: [[employee]]
 g: an employee who performs clerical work (e.g., keeps records or accounts)
 
@@ -44458,7 +44456,7 @@ w: <<applauder>> drf [[file:verb.communication.org::applaud1]] drf [[file:verb.c
 hyper: [[laudator]]
 g: someone who applauds
 
-w: <<clairvoyant>> drf [[file:adj.all.org::clairvoyant]] drf [[file:adj.all.org::clairvoyant]]
+w: <<clairvoyant>> drf [[file:adjs.all.org::clairvoyant]] drf [[file:adjs.all.org::clairvoyant]]
 hyper: [[psychic]]
 g: someone who has the power of clairvoyance
 
@@ -44674,7 +44672,7 @@ hyper: [[offspring]]
 hm: [[file:noun.group.org::family]]
 g: a human offspring (son or daughter) of any age; "they had three children"; "they were able to send their kids to college"
 
-w: <<child>> drf [[file:adj.all.org::childly]] drf [[file:noun.time.org::childhood]] drf [[file:noun.state.org::childhood]]
+w: <<child>> drf [[file:adjs.all.org::childly]] drf [[file:noun.time.org::childhood]] drf [[file:noun.state.org::childhood]]
 w: <<kid>>
 w: <<youngster>>
 w: <<minor>>
@@ -44803,7 +44801,7 @@ hyper: [[peddler]]
 g: a peddler of inferior goods
 
 w: <<male_chauvinist>>
-w: <<sexist>> drf [[file:adj.all.org::sexist]] drf [[file:noun.act.org::sexism]]
+w: <<sexist>> drf [[file:adjs.all.org::sexist]] drf [[file:noun.act.org::sexism]]
 hyper: [[antifeminist]]
 g: a man with a chauvinistic belief in the inferiority of women
 
@@ -44815,7 +44813,7 @@ w: <<chauvinist1>> drf [[file:adj.pert.org::chauvinistic]] drf [[file:noun.act.o
 hyper: [[bigot]]
 g: a person with a prejudiced belief in the superiority of his or her own kind
 
-w: <<chauvinist>> drf [[file:adj.all.org::chauvinistic]] drf [[file:noun.attribute.org::chauvinism]]
+w: <<chauvinist>> drf [[file:adjs.all.org::chauvinistic]] drf [[file:noun.attribute.org::chauvinism]]
 w: <<jingoist>> drf [[file:noun.communication.org::jingoism]] drf [[file:noun.attribute.org::jingoism]]
 w: <<jingo>>
 w: <<flag-waver>>
@@ -44897,7 +44895,7 @@ g: an actor who specializes in playing supporting roles
 
 w: <<character>>
 w: <<eccentric1>>
-w: <<type>> drf [[file:adj.all.org::typic]] drf [[file:verb.cognition.org::type]] drf [[file:verb.stative.org::typify]]
+w: <<type>> drf [[file:adjs.all.org::typic]] drf [[file:verb.cognition.org::type]] drf [[file:verb.stative.org::typify]]
 w: <<case4>>
 hyper: [[adult]]
 g: a person of a specified kind (usually with many eccentricities); "a real character"; "a strange character"; "a friendly eccentric"; "the capable type"; "a mental case"
@@ -44963,13 +44961,13 @@ g: the British cabinet minister responsible for finance
 
 w: <<Prime_Minister1>>
 w: <<PM>>
-w: <<premier>> drf [[file:adj.all.org::premier2]] drf [[file:noun.act.org::premiership]]
+w: <<premier>> drf [[file:adjs.all.org::premier2]] drf [[file:noun.act.org::premiership]]
 hyper: [[head_of_state]]
 hm: [[file:noun.group.org::British_Cabinet]]
 g: the person who holds the position of head of the government in the United Kingdom
 
 w: <<chancellor>> drf [[file:noun.act.org::chancellorship]]
-w: <<premier1>> drf [[file:adj.all.org::premier2]] drf [[file:noun.act.org::premiership]]
+w: <<premier1>> drf [[file:adjs.all.org::premier2]] drf [[file:noun.act.org::premiership]]
 w: <<prime_minister>>
 hyper: [[head_of_state]]
 g: the person who is head of state (in several countries)
@@ -44987,7 +44985,7 @@ g: someone who has won first place in a competition
 
 w: <<champion>> drf [[file:verb.competition.org::champion]]
 w: <<fighter2>> drf [[file:verb.social.org::fight10]]
-w: <<hero1>> drf [[file:adj.all.org::heroical]]
+w: <<hero1>> drf [[file:adjs.all.org::heroical]]
 w: <<paladin>>
 hyper: [[defender]]
 g: someone who fights for a cause
@@ -45043,7 +45041,7 @@ dr: [[file:noun.location.org::Rome]]
 dt: [[file:noun.time.org::antiquity]]
 g: (ancient Rome) the leader of 100 soldiers
 
-w: <<centrist>> drf [[file:adj.all.org::centrist]] drf [[file:noun.cognition.org::centrism]]
+w: <<centrist>> drf [[file:adjs.all.org::centrist]] drf [[file:noun.cognition.org::centrism]]
 w: <<middle_of_the_roader>>
 w: <<moderate>>
 w: <<moderationist>>
@@ -45067,7 +45065,7 @@ hyper: [[lineman]]
 dt: [[file:noun.act.org::football]]
 g: (football) the person who plays center on the line of scrimmage and snaps the ball to the quarterback; "the center fumbled the handoff"
 
-w: <<centenarian>> drf [[file:adj.all.org::centenarian]]
+w: <<centenarian>> drf [[file:adjs.all.org::centenarian]]
 hyper: [[oldster]]
 g: someone who is at least 100 years old
 
@@ -45076,7 +45074,7 @@ w: <<enumerator>> drf [[file:verb.communication.org::enumerate1]]
 hyper: [[official1]]
 g: someone who collects census data by visiting individual homes
 
-w: <<censor1>> drf [[file:adj.pert.org::censorial]] drf [[file:adj.all.org::censorious]]
+w: <<censor1>> drf [[file:adj.pert.org::censorial]] drf [[file:adjs.all.org::censorious]]
 hyper: [[file:noun.Tops.org::person]]
 g: someone who censures or condemns
 
@@ -45089,7 +45087,7 @@ w: <<violoncellist>>
 hyper: [[musician1]]
 g: someone who plays a violoncello
 
-w: <<celibate>> drf [[file:adj.all.org::celibate]]
+w: <<celibate>> drf [[file:adjs.all.org::celibate]]
 hyper: [[religious_person]]
 g: an unmarried person who has taken a religious vow of chastity
 
@@ -45197,13 +45195,13 @@ w: <<Catalan>> drf [[file:adj.pert.org::Catalan1]]
 hyper: [[Spaniard]]
 g: a native or inhabitant of Catalonia
 
-w: <<cat>> drf [[file:adj.all.org::catty]]
+w: <<cat>> drf [[file:adjs.all.org::catty]]
 hyper: [[gossip]]
 hyper: [[woman]]
 g: a spiteful woman gossip; "what a cat she is!"
 
 w: <<casuist>> drf [[file:adj.pert.org::casuistical1]] drf [[file:adj.pert.org::casuistical]] drf [[file:noun.cognition.org::casuistry1]]
-w: <<sophist>> drf [[file:adj.all.org::sophistical]] drf [[file:adj.all.org::sophistic]] drf [[file:noun.cognition.org::sophism]]
+w: <<sophist>> drf [[file:adjs.all.org::sophistical]] drf [[file:adjs.all.org::sophistic]] drf [[file:noun.cognition.org::sophism]]
 hyper: [[reasoner]]
 g: someone whose reasoning is subtle and often specious
 
@@ -45393,11 +45391,11 @@ w: <<carabinier>>
 hyper: [[rifleman]]
 g: a soldier (historically a mounted soldier) who is armed with a carbine
 
-w: <<captive2>> drf [[file:adj.all.org::captive]] drf [[file:verb.emotion.org::captivate]]
+w: <<captive2>> drf [[file:adjs.all.org::captive]] drf [[file:verb.emotion.org::captivate]]
 hyper: [[emotional_person]]
 g: a person held in the grip of a strong emotion or passion
 
-w: <<captive1>> drf [[file:adj.all.org::captive]]
+w: <<captive1>> drf [[file:adjs.all.org::captive]]
 hyper: [[file:noun.Tops.org::animal]]
 g: an animal that is confined
 
@@ -45477,7 +45475,7 @@ hyper: [[soldier]]
 du: [[file:noun.communication.org::colloquialism]]
 g: soldiers who are regarded as expendable in the face of artillery fire
 
-w: <<cannibal>> drf [[file:adj.pert.org::cannibalistic]] drf [[file:adj.all.org::cannibalic]] drf [[file:verb.consumption.org::cannibalize]] drf [[file:verb.consumption.org::cannibalise]]
+w: <<cannibal>> drf [[file:adj.pert.org::cannibalistic]] drf [[file:adjs.all.org::cannibalic]] drf [[file:verb.consumption.org::cannibalize]] drf [[file:verb.consumption.org::cannibalise]]
 w: <<man-eater>>
 w: <<anthropophagus>> drf [[file:adj.pert.org::anthropophagous]]
 w: <<anthropophagite>>
@@ -45607,7 +45605,7 @@ w: <<computer>> drf [[file:verb.cognition.org::compute]] drf [[file:verb.creatio
 hyper: [[expert]]
 g: an expert at calculation (or at operating calculating machines)
 
-w: <<caitiff>> drf [[file:adj.all.org::caitiff]]
+w: <<caitiff>> drf [[file:adjs.all.org::caitiff]]
 hyper: [[cur]]
 du: [[file:noun.communication.org::archaism]]
 g: a cowardly and despicable person
@@ -45635,7 +45633,7 @@ g: an attendant who carries the golf clubs for a player
 
 w: <<cad>>
 w: <<bounder>>
-w: <<blackguard>> drf [[file:adj.all.org::blackguardly]]
+w: <<blackguard>> drf [[file:adjs.all.org::blackguardly]]
 w: <<dog2>>
 w: <<hound>>
 w: <<heel>>
@@ -45720,7 +45718,7 @@ w: <<slaughterer>> drf [[file:verb.contact.org::slaughter]]
 hyper: [[skilled_worker]]
 g: a person who slaughters or dresses meat for market
 
-w: <<butch>> drf [[file:adj.all.org::butch]]
+w: <<butch>> drf [[file:adjs.all.org::butch]]
 w: <<dike>>
 w: <<dyke>>
 hyper: [[lesbian]]
@@ -45848,7 +45846,7 @@ w: <<bumbler>> drf [[file:verb.social.org::bumble]]
 w: <<stumbler1>> drf [[file:verb.cognition.org::stumble]]
 w: <<sad_sack>>
 w: <<botcher>> drf [[file:verb.social.org::botch]]
-w: <<butcher3>> drf [[file:adj.all.org::butcherly]]
+w: <<butcher3>> drf [[file:adjs.all.org::butcherly]]
 w: <<fuckup>>
 hyper: [[incompetent]]
 g: someone who makes mistakes because of incompetence
@@ -45864,7 +45862,7 @@ g: a hired thug
 w: <<bully>> drf [[file:verb.communication.org::bully]]
 w: <<tough1>>
 w: <<hooligan>>
-w: <<ruffian>> drf [[file:adj.all.org::ruffianly]]
+w: <<ruffian>> drf [[file:adjs.all.org::ruffianly]]
 w: <<roughneck>>
 w: <<rowdy>>
 w: <<yob>>
@@ -45908,7 +45906,7 @@ g: someone who plays a bugle
 
 w: <<buddy>>
 w: <<brother3>>
-w: <<chum>> drf [[file:adj.all.org::chummy]] drf [[file:adj.all.org::chummy]]
+w: <<chum>> drf [[file:adjs.all.org::chummy]] drf [[file:adjs.all.org::chummy]]
 w: <<crony>>
 w: <<pal>> drf [[file:verb.social.org::pal]]
 w: <<sidekick>>
@@ -46640,7 +46638,7 @@ w: <<billiard_player>>
 hyper: [[player1]]
 g: someone who plays billiards
 
-w: <<bilingual>> drf [[file:adj.all.org::bilingual]]
+w: <<bilingual>> drf [[file:adjs.all.org::bilingual]]
 w: <<bilingualist>>
 hyper: [[linguist]]
 g: a person who speaks two languages fluently
@@ -46732,7 +46730,7 @@ w: <<better1>>
 hyper: [[superior1]]
 g: a superior person having claim to precedence; "the common man has been kept in his place by his betters"
 
-w: <<betrothed>> drf [[file:adj.all.org::betrothed]]
+w: <<betrothed>> drf [[file:adjs.all.org::betrothed]]
 hyper: [[lover]]
 g: the person to whom you are engaged
 
@@ -46796,8 +46794,8 @@ w: <<belt_maker>>
 hyper: [[maker]]
 g: a maker of belts
 
-w: <<beloved>> drf [[file:adj.all.org::beloved]]
-w: <<dear>> drf [[file:adj.all.org::dear]]
+w: <<beloved>> drf [[file:adjs.all.org::beloved]]
+w: <<dear>> drf [[file:adjs.all.org::dear]]
 w: <<dearest>>
 w: <<honey>>
 w: <<love>> drf [[file:verb.emotion.org::love1]] drf [[file:verb.emotion.org::love]]
@@ -46881,8 +46879,8 @@ w: <<beggarman>>
 hyper: [[beggar]]
 g: a man who is a beggar
 
-w: <<beggar>> drf [[file:adj.all.org::beggarly]] drf [[file:verb.possession.org::beggar]]
-w: <<mendicant>> drf [[file:adj.all.org::mendicant]]
+w: <<beggar>> drf [[file:adjs.all.org::beggarly]] drf [[file:verb.possession.org::beggar]]
+w: <<mendicant>> drf [[file:adjs.all.org::mendicant]]
 hyper: [[pauper]]
 g: a pauper who lives by begging
 
@@ -46938,7 +46936,7 @@ g: a worker who rouses wild game from under cover for a hunter
 
 w: <<beast>>
 w: <<wolf1>>
-w: <<savage1>> drf [[file:adj.all.org::savage]] drf [[file:verb.competition.org::savage]]
+w: <<savage1>> drf [[file:adjs.all.org::savage]] drf [[file:verb.competition.org::savage]]
 w: <<brute>>
 w: <<wildcat>>
 hyper: [[attacker]]
@@ -47029,7 +47027,7 @@ w: <<tacker>> drf [[file:verb.contact.org::tack5]] drf [[file:verb.contact.org::
 hyper: [[sewer]]
 g: a sewer who fastens a garment with long loose stitches
 
-w: <<bastard1>> drf [[file:adj.all.org::bastardly]] drf [[file:verb.communication.org::bastardize]] drf [[file:verb.communication.org::bastardise]]
+w: <<bastard1>> drf [[file:adjs.all.org::bastardly]] drf [[file:verb.communication.org::bastardize]] drf [[file:verb.communication.org::bastardise]]
 w: <<by-blow>>
 w: <<love_child>>
 w: <<illegitimate_child>>
@@ -47113,7 +47111,7 @@ w: <<Bart>>
 hyper: [[aristocrat]]
 g: a member of the British order of honor; ranks below a baron but above a knight; "since he was a baronet he had to be addressed as Sir Henry Jones, Bart."
 
-w: <<baron2>> drf [[file:adj.all.org::baronial]]
+w: <<baron2>> drf [[file:adjs.all.org::baronial]]
 hyper: [[Lord]]
 g: a nobleman (in various countries) of varying rank
 
@@ -47196,7 +47194,7 @@ w: <<bantamweight>>
 hyper: [[boxer]]
 g: an amateur boxer who weighs no more than 119 pounds
 
-w: <<bankrupt>> drf [[file:adj.all.org::bankrupt]]
+w: <<bankrupt>> drf [[file:adjs.all.org::bankrupt]]
 w: <<insolvent>>
 hyper: [[failure]]
 g: someone who has insufficient assets to cover their debts
@@ -47590,7 +47588,7 @@ w: <<grease_monkey>>
 hyper: [[repairman]]
 g: someone whose occupation is repairing and maintaining automobiles
 
-w: <<automaton1>> drf [[file:adj.all.org::automatic]] drf [[file:verb.change.org::automatize5]] drf [[file:verb.change.org::automatise5]]
+w: <<automaton1>> drf [[file:adjs.all.org::automatic]] drf [[file:verb.change.org::automatize5]] drf [[file:verb.change.org::automatise5]]
 w: <<zombi1>>
 w: <<zombie1>>
 hyper: [[anomaly]]
@@ -47697,11 +47695,11 @@ w: <<jock>>
 hyper: [[contestant]]
 g: a person trained to compete in sports
 
-w: <<atheist>> drf [[file:adj.pert.org::atheist]] drf [[file:adj.all.org::atheistical]] drf [[file:adj.pert.org::atheistical]] drf [[file:adj.all.org::atheistic]] drf [[file:adj.pert.org::atheistic]] drf [[file:noun.cognition.org::atheism1]] drf [[file:noun.cognition.org::atheism]]
+w: <<atheist>> drf [[file:adj.pert.org::atheist]] drf [[file:adjs.all.org::atheistical]] drf [[file:adj.pert.org::atheistical]] drf [[file:adjs.all.org::atheistic]] drf [[file:adj.pert.org::atheistic]] drf [[file:noun.cognition.org::atheism1]] drf [[file:noun.cognition.org::atheism]]
 hyper: [[disbeliever]]
 g: someone who denies the existence of god
 
-w: <<atavist>> drf [[file:adj.all.org::atavistic]] drf [[file:noun.event.org::atavism]]
+w: <<atavist>> drf [[file:adjs.all.org::atavistic]] drf [[file:noun.event.org::atavism]]
 w: <<throwback>>
 hyper: [[file:noun.Tops.org::organism]]
 g: an organism that has the characteristics of a more primitive type of that organism
@@ -47762,7 +47760,7 @@ w: <<assistant_professor>>
 hyper: [[professor]]
 g: a teacher or lower rank than an associate professor
 
-w: <<assistant>> drf [[file:adj.all.org::assistant]] drf [[file:verb.social.org::assist2]] drf [[file:verb.social.org::assist]]
+w: <<assistant>> drf [[file:adjs.all.org::assistant]] drf [[file:verb.social.org::assist2]] drf [[file:verb.social.org::assist]]
 w: <<helper1>> drf [[file:verb.social.org::help12]] drf [[file:verb.social.org::help]]
 w: <<help>> drf [[file:verb.social.org::help]]
 w: <<supporter1>> drf [[file:verb.social.org::support]]
@@ -47859,7 +47857,7 @@ w: <<artiste>>
 hyper: [[performer]]
 g: a public performer (a dancer or singer)
 
-w: <<artist>> drf [[file:adj.all.org::artistic]] drf [[file:adj.pert.org::artistic]] drf [[file:noun.communication.org::art]] drf [[file:noun.cognition.org::art]] drf [[file:noun.artifact.org::art]] drf [[file:noun.act.org::art]]
+w: <<artist>> drf [[file:adjs.all.org::artistic]] drf [[file:adj.pert.org::artistic]] drf [[file:noun.communication.org::art]] drf [[file:noun.cognition.org::art]] drf [[file:noun.artifact.org::art]] drf [[file:noun.act.org::art]]
 w: <<creative_person>>
 hyper: [[creator]]
 g: a person whose creative work shows sensitivity and imagination
@@ -47983,13 +47981,13 @@ g: someone who specializes in arithmetic
 
 w: <<Aristotelian>> drf [[file:noun.cognition.org::Aristotelianism]] drf [[file:adj.pert.org::Aristotelian]]
 w: <<Aristotelean>> drf [[file:noun.cognition.org::Aristotelianism]] drf [[file:adj.pert.org::Aristotelean]]
-w: <<Peripatetic1>> drf [[file:noun.cognition.org::peripateticism]] drf [[file:adj.all.org::peripatetic]] drf [[file:adj.pert.org::peripatetic]]
+w: <<Peripatetic1>> drf [[file:noun.cognition.org::peripateticism]] drf [[file:adjs.all.org::peripatetic]] drf [[file:adj.pert.org::peripatetic]]
 hyper: [[disciple]]
 g: a follower of Aristotle or an adherent of Aristotelianism
 
-w: <<aristocrat>> drf [[file:adj.all.org::aristocratical]]
+w: <<aristocrat>> drf [[file:adjs.all.org::aristocratical]]
 w: <<blue_blood>>
-w: <<patrician>> drf [[file:adj.all.org::patrician]]
+w: <<patrician>> drf [[file:adjs.all.org::patrician]]
 hyper: [[leader]]
 hm: [[file:noun.group.org::nobility]]
 g: a member of the aristocracy
@@ -48115,9 +48113,9 @@ w: <<prentice>>
 hyper: [[novice]]
 g: works for an expert to learn a trade
 
-w: <<aspirant>> drf [[file:adj.all.org::aspirant]] drf [[file:verb.cognition.org::aspire]]
+w: <<aspirant>> drf [[file:adjs.all.org::aspirant]] drf [[file:verb.cognition.org::aspire]]
 w: <<aspirer>> drf [[file:verb.cognition.org::aspire]]
-w: <<hopeful>> drf [[file:adj.all.org::hopeful]] drf [[file:adj.all.org::hopeful]]
+w: <<hopeful>> drf [[file:adjs.all.org::hopeful]] drf [[file:adj.all.org::hopeful]]
 w: <<wannabe>>
 w: <<wannabee>>
 hyper: [[applicant]]
@@ -48200,7 +48198,7 @@ w: <<aphorist>> drf [[file:noun.communication.org::aphorism]]
 hyper: [[intellectual]]
 g: someone who formulates aphorisms or who repeats aphorisms
 
-w: <<aphasic>> drf [[file:adj.all.org::aphasic]] drf [[file:adj.pert.org::aphasic]]
+w: <<aphasic>> drf [[file:adjs.all.org::aphasic]] drf [[file:adj.pert.org::aphasic]]
 hyper: [[handicapped_person]]
 g: someone affected by aphasia or inability to use or understand language
 
@@ -48216,7 +48214,7 @@ w: <<Anzac>>
 hyper: [[soldier]]
 g: a soldier in the Australian and New Zealand army corps during World War I
 
-w: <<anti-Semite>> drf [[file:adj.all.org::anti-Semite]]
+w: <<anti-Semite>> drf [[file:adjs.all.org::anti-Semite]]
 w: <<Jew-baiter>>
 hyper: [[hater]]
 g: someone who hates and would persecute Jews
@@ -48236,7 +48234,7 @@ hyper: [[disciple]]
 g: a follower of the doctrine of antinomianism
 
 w: <<anticipator>> drf [[file:verb.social.org::anticipate]] drf [[file:verb.cognition.org::anticipate1]]
-w: <<anticipant>> drf [[file:adj.all.org::anticipant]]
+w: <<anticipant>> drf [[file:adjs.all.org::anticipant]]
 hyper: [[visionary]]
 g: one who anticipates
 
@@ -48252,7 +48250,7 @@ w: <<anthropologist>> drf [[file:noun.cognition.org::anthropology]]
 hyper: [[social_scientist]]
 g: a social scientist who specializes in anthropology
 
-w: <<anthropoid>> drf [[file:adj.all.org::anthropoid2]] drf [[file:adj.all.org::anthropoidal]]
+w: <<anthropoid>> drf [[file:adjs.all.org::anthropoid2]] drf [[file:adjs.all.org::anthropoidal]]
 w: <<ape>>
 hyper: [[misfit]]
 g: person who resembles a nonhuman primate
@@ -48266,8 +48264,8 @@ w: <<antediluvian_patriarch>>
 hyper: [[patriarch2]]
 g: any of the early patriarchs who lived prior to the Noachian deluge
 
-w: <<anorexic>> drf [[file:adj.all.org::anorexic]]
-w: <<anorectic>> drf [[file:adj.all.org::anorectic]]
+w: <<anorexic>> drf [[file:adjs.all.org::anorexic]]
+w: <<anorectic>> drf [[file:adjs.all.org::anorectic]]
 hyper: [[sick_person]]
 g: a person suffering from anorexia nervosa
 
@@ -48349,12 +48347,12 @@ w: <<raconteur>>
 hyper: [[narrator]]
 g: a person skilled in telling anecdotes
 
-w: <<ancient1>> drf [[file:adj.all.org::ancient]]
+w: <<ancient1>> drf [[file:adjs.all.org::ancient]]
 w: <<antediluvian>>
 hyper: [[oldster]]
 g: a very old person
 
-w: <<ancient>> drf [[file:adj.all.org::ancient]]
+w: <<ancient>> drf [[file:adjs.all.org::ancient]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person who lived in ancient times
 
@@ -48368,7 +48366,7 @@ w: <<ancestress>>
 hyper: [[ancestor]]
 g: a woman ancestor
 
-w: <<ancestor>> drf [[file:adj.all.org::ancestral]] drf [[file:adj.pert.org::ancestral]] ant [[descendant]]
+w: <<ancestor>> drf [[file:adjs.all.org::ancestral]] drf [[file:adj.pert.org::ancestral]] ant [[descendant]]
 w: <<ascendant>>
 w: <<ascendent>>
 w: <<antecedent>> drf [[file:adj.all.org::antecedent]]
@@ -48435,7 +48433,7 @@ hyper: [[patient]]
 g: a person undergoing psychoanalysis
 
 w: <<analphabet>>
-w: <<analphabetic>> drf [[file:adj.all.org::analphabetic]]
+w: <<analphabetic>> drf [[file:adjs.all.org::analphabetic]]
 hyper: [[illiterate]]
 g: an illiterate person who does not know the alphabet
 
@@ -48468,8 +48466,8 @@ w: <<amora>>
 hyper: [[rabbi]]
 g: one of a group of rabbis (active AD 250-500) who discussed the Mishnaic law in the law schools of Palestine and Mesopotamia where they explained and applied earlier teachings and whose discussions are recorded in the Talmud; they emphasized the study of Torah and the importance of personal action and the fulfillment of the commandments
 
-w: <<amnesic>> drf [[file:adj.all.org::amnesic]] drf [[file:adj.pert.org::amnesic]]
-w: <<amnesiac>> drf [[file:adj.all.org::amnesiac]]
+w: <<amnesic>> drf [[file:adjs.all.org::amnesic]] drf [[file:adj.pert.org::amnesic]]
+w: <<amnesiac>> drf [[file:adjs.all.org::amnesiac]]
 hyper: [[handicapped_person]]
 g: a person suffering from amnesia
 
@@ -48524,11 +48522,11 @@ w: <<amalgamator>> drf [[file:verb.contact.org::amalgamate]]
 hyper: [[businessman]]
 g: a businessman who arranges an amalgamation of two or more commercial companies
 
-w: <<amateur1>> drf [[file:adj.all.org::amateur]] drf [[file:adj.all.org::amateur1]] ant [[professional2]]
+w: <<amateur1>> drf [[file:adjs.all.org::amateur]] drf [[file:adjs.all.org::amateur1]] ant [[professional2]]
 hyper: [[athlete]]
 g: an athlete who does not play for pay
 
-w: <<amateur>> drf [[file:adj.all.org::amateur]]
+w: <<amateur>> drf [[file:adjs.all.org::amateur]]
 hyper: [[file:noun.Tops.org::person]]
 g: someone who pursues a study or sport as a pastime
 
@@ -48665,7 +48663,7 @@ w: <<alderman>> drf [[file:adj.pert.org::aldermanly]] drf [[file:adj.pert.org::a
 hyper: [[representative]]
 g: a member of a municipal legislative body (as a city council); "aldermen usually represent city wards"
 
-w: <<alcoholic>> drf [[file:adj.all.org::alcoholic]]
+w: <<alcoholic>> drf [[file:adjs.all.org::alcoholic]]
 w: <<alky>>
 w: <<dipsomaniac>>
 w: <<boozer>> drf [[file:verb.consumption.org::booze]]
@@ -48729,7 +48727,7 @@ dt: [[file:noun.group.org::military]]
 g: a military attache who is a commissioned or warrant officer in an air force
 
 w: <<aide>>
-w: <<auxiliary>> drf [[file:adj.all.org::auxiliary]] drf [[file:adj.all.org::auxiliary]]
+w: <<auxiliary>> drf [[file:adjs.all.org::auxiliary]] drf [[file:adjs.all.org::auxiliary]]
 hyper: [[assistant]]
 g: someone who acts as assistant
 
@@ -48821,11 +48819,11 @@ w: <<aficionado>>
 hyper: [[fan]]
 g: a serious devotee of some particular music genre or musical performer
 
-w: <<affluent>> drf [[file:adj.all.org::affluent]]
+w: <<affluent>> drf [[file:adjs.all.org::affluent]]
 hyper: [[rich_person]]
 g: an affluent person; a person who is financially well off; "the so-called emerging affluents"
 
-w: <<affine>> drf [[file:adj.all.org::affinal]]
+w: <<affine>> drf [[file:adjs.all.org::affinal]]
 hyper: [[kin]]
 dt: [[file:noun.cognition.org::anthropology]]
 g: (anthropology) kin by marriage
@@ -48889,8 +48887,8 @@ hyper: [[witness3]]
 g: a witness whose relationship to the opposing party is such that his or her testimony may be prejudiced against the opposing party; "a hostile witness can be asked leading questions and cross-examined"
 
 w: <<adversary>>
-w: <<antagonist>> drf [[file:adj.all.org::antagonistic]] drf [[file:noun.state.org::antagonism]] drf [[file:noun.relation.org::antagonism]] drf [[file:noun.feeling.org::antagonism2]] ant [[agonist]]
-w: <<opponent>> drf [[file:adj.all.org::opponent]] drf [[file:verb.communication.org::oppose1]]
+w: <<antagonist>> drf [[file:adjs.all.org::antagonistic]] drf [[file:noun.state.org::antagonism]] drf [[file:noun.relation.org::antagonism]] drf [[file:noun.feeling.org::antagonism2]] ant [[agonist]]
+w: <<opponent>> drf [[file:adjs.all.org::opponent]] drf [[file:verb.communication.org::oppose1]]
 w: <<opposer>> drf [[file:verb.social.org::oppose]] drf [[file:verb.competition.org::oppose1]] drf [[file:verb.communication.org::oppose1]] drf [[file:verb.communication.org::oppose]]
 w: <<resister1>> drf [[file:verb.social.org::resist]]
 hyper: [[file:noun.Tops.org::person]]
@@ -48933,7 +48931,7 @@ w: <<adoptee>> drf [[file:verb.change.org::adopt]]
 hyper: [[file:noun.Tops.org::person]]
 g: someone (such as a child) who has been adopted
 
-w: <<adolescent>> drf [[file:adj.all.org::adolescent]] drf [[file:adj.all.org::adolescent]] drf [[file:verb.change.org::adolesce]]
+w: <<adolescent>> drf [[file:adjs.all.org::adolescent]] drf [[file:adjs.all.org::adolescent]] drf [[file:verb.change.org::adolesce]]
 w: <<stripling>>
 w: <<teenager>>
 w: <<teen>>
@@ -48993,7 +48991,7 @@ w: <<claim_agent>>
 hyper: [[investigator]]
 g: one who investigates insurance claims or claims for damages and recommends an effective settlement
 
-w: <<adjunct>> drf [[file:adj.all.org::adjunct]]
+w: <<adjunct>> drf [[file:adjs.all.org::adjunct]]
 hyper: [[associate]]
 g: a person who is an assistant or subordinate to another
 
@@ -49052,7 +49050,7 @@ w: <<active_citizen>>
 hyper: [[citizen]]
 g: a citizen who takes an active role in the community (as in crime prevention and neighborhood watch)
 
-w: <<active>> drf [[file:adj.all.org::active]] drf [[file:adj.all.org::active3]]
+w: <<active>> drf [[file:adjs.all.org::active]] drf [[file:adj.all.org::active3]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person who is a participating member of an organization; "the club issues a list of members, both the actives and the retirees"
 
@@ -49098,12 +49096,12 @@ hyper: [[file:noun.Tops.org::person]]
 g: a person with a record of successes; "his son would never be the achiever that his father was"; "only winners need apply"; "if you want to be a success you have to dress like a success"
 
 w: <<ace>> drf [[file:verb.social.org::ace]]
-w: <<adept>> drf [[file:adj.all.org::adept]]
+w: <<adept>> drf [[file:adjs.all.org::adept]]
 w: <<champion3>>
 w: <<sensation>>
 w: <<maven>>
 w: <<mavin>>
-w: <<virtuoso>> drf [[file:adj.all.org::virtuoso]]
+w: <<virtuoso>> drf [[file:adjs.all.org::virtuoso]]
 w: <<genius1>>
 w: <<hotshot>>
 w: <<star1>> drf [[file:verb.creation.org::star]]
@@ -49148,7 +49146,7 @@ hyper: [[musician1]]
 g: a musician who plays the accordion
 
 w: <<accomplice>>
-w: <<confederate>> drf [[file:adj.all.org::confederate]] drf [[file:verb.social.org::confederate10]] drf [[file:verb.social.org::confederate]]
+w: <<confederate>> drf [[file:adjs.all.org::confederate]] drf [[file:verb.social.org::confederate10]] drf [[file:verb.social.org::confederate]]
 hyper: [[assistant]]
 g: a person who joins with another in carrying out some plan (especially an unethical or illegal plan)
 
@@ -49215,23 +49213,23 @@ w: <<maltreater>> drf [[file:verb.social.org::maltreat]]
 hyper: [[wrongdoer]]
 g: someone who abuses
 
-w: <<abstractionist>> drf [[file:adj.all.org::abstractionist]] drf [[file:noun.cognition.org::abstractionism]] drf [[file:noun.artifact.org::abstractionism]]
+w: <<abstractionist>> drf [[file:adjs.all.org::abstractionist]] drf [[file:noun.cognition.org::abstractionism]] drf [[file:noun.artifact.org::abstractionism]]
 w: <<abstract_artist>>
 hyper: [[painter]]
 g: a painter of abstract pictures
 
 w: <<abstainer1>> drf [[file:verb.consumption.org::abstain]]
-w: <<ascetic>> drf [[file:adj.all.org::ascetic]] drf [[file:adj.pert.org::ascetic]] drf [[file:adj.all.org::ascetical]] drf [[file:adj.pert.org::ascetical]]
+w: <<ascetic>> drf [[file:adjs.all.org::ascetic]] drf [[file:adj.pert.org::ascetic]] drf [[file:adjs.all.org::ascetical]] drf [[file:adj.pert.org::ascetical]]
 hyper: [[religious_person]]
 g: someone who practices self denial as a spiritual discipline
 
 w: <<abstainer>> drf [[file:verb.consumption.org::abstain]]
-w: <<abstinent>> drf [[file:adj.all.org::abstinent]] drf [[file:verb.consumption.org::abstain]]
+w: <<abstinent>> drf [[file:adjs.all.org::abstinent]] drf [[file:verb.consumption.org::abstain]]
 w: <<nondrinker>> ant [[drinker]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person who refrains from drinking intoxicating beverages
 
-w: <<AWOL>> drf [[file:adj.all.org::awol]]
+w: <<AWOL>> drf [[file:adjs.all.org::awol]]
 hyper: [[absentee]]
 g: one who is away or absent without leave
 
@@ -49283,7 +49281,7 @@ w: <<abetter>> drf [[file:verb.social.org::abet]]
 hyper: [[accessory]]
 g: one who helps or encourages or incites another
 
-w: <<aberrant>> drf [[file:adj.all.org::aberrant]] drf [[file:verb.stative.org::aberrate1]]
+w: <<aberrant>> drf [[file:adjs.all.org::aberrant]] drf [[file:verb.stative.org::aberrate1]]
 hyper: [[anomaly]]
 g: one whose behavior departs substantially from the norm of a group
 
@@ -50848,7 +50846,7 @@ hyper: [[Greek]]
 hm: [[file:noun.location.org::Thebes]]
 g: a Greek inhabitant of ancient Thebes
 
-w: <<Arcadian>> drf [[file:adj.all.org::arcadian]]
+w: <<Arcadian>> drf [[file:adjs.all.org::arcadian]]
 hyper: [[Greek]]
 hm: [[file:noun.location.org::Arcadia]]
 g: an inhabitant of Arcadia
@@ -51925,7 +51923,7 @@ hyper: [[Protestant]]
 hm: [[file:noun.group.org::Christian_Science]]
 g: a member of the Protestant church founded in the United States by Mary Baker Eddy
 
-w: <<Christian>> drf [[file:adj.all.org::christianly]] drf [[file:noun.group.org::Christendom]]
+w: <<Christian>> drf [[file:adjs.all.org::christianly]] drf [[file:noun.group.org::Christendom]]
 hyper: [[religious_person]]
 hm: [[file:noun.group.org::church]]
 g: a religious person who believes Jesus is the Christ and who is a member of a Christian denomination
@@ -52854,7 +52852,7 @@ w: <<Mongolian_race>>
 hyper: [[file:noun.group.org::race]]
 g: an Asian race
 
-w: <<Oriental>> drf [[file:adj.all.org::oriental]]
+w: <<Oriental>> drf [[file:adjs.all.org::oriental]]
 w: <<oriental_person>>
 hyper: [[Asian]]
 hm: [[Yellow_race]]
@@ -52972,7 +52970,7 @@ g: a light-skinned race
 
 w: <<White>> drf [[file:adj.all.org::white2]]
 w: <<White_person>>
-w: <<Caucasian>> drf [[file:adj.all.org::Caucasian]]
+w: <<Caucasian>> drf [[file:adjs.all.org::Caucasian]]
 hyper: [[file:noun.Tops.org::person]]
 hm: [[White_race]]
 g: a member of the Caucasoid race
@@ -53025,7 +53023,7 @@ du: [[file:noun.communication.org::disparagement]]
 g: (ethnic slur) offensive term for Black people
 
 w: <<colored_person>>
-w: <<colored>> drf [[file:adj.all.org::colored]]
+w: <<colored>> drf [[file:adjs.all.org::colored]]
 hyper: [[Black]]
 du: [[file:noun.communication.org::archaism]]
 g: a United States term for Blacks that is now considered offensive
@@ -53044,9 +53042,9 @@ hyper: [[man]]
 hyper: [[Black]]
 g: a man who is Black
 
-w: <<African-American>> drf [[file:adj.all.org::African-American]]
+w: <<African-American>> drf [[file:adjs.all.org::African-American]]
 w: <<African_American>>
-w: <<Afro-American>> drf [[file:adj.all.org::Afro-American]]
+w: <<Afro-American>> drf [[file:adjs.all.org::Afro-American]]
 w: <<Black_American>>
 hyper: [[American]]
 g: an American whose ancestors were born in Africa
@@ -53168,12 +53166,12 @@ w: <<lottery_winner>>
 hyper: [[winner1]]
 g: the winner of a lottery
 
-w: <<primitive>> drf [[file:adj.all.org::primitive1]] drf [[file:adj.all.org::primitive]]
+w: <<primitive>> drf [[file:adjs.all.org::primitive1]] drf [[file:adjs.all.org::primitive]]
 w: <<primitive_person>>
 hyper: [[file:noun.Tops.org::person]]
 g: a person who belongs to an early stage of civilization
 
-w: <<preteen>> drf [[file:adj.all.org::preteen]]
+w: <<preteen>> drf [[file:adjs.all.org::preteen]]
 w: <<preteenager>>
 hyper: [[juvenile]]
 g: a preadolescent boy or girl (usually between 9 and 12 years of age); "little league is intended for the preteens"
@@ -53215,7 +53213,7 @@ hyper: [[philosopher]]
 g: a philosopher who subscribes to nativism
 
 w: <<national>> drf [[file:adj.pert.org::national]]
-w: <<subject>> drf [[file:adj.all.org::subject]] drf [[file:verb.social.org::subject]]
+w: <<subject>> drf [[file:adjs.all.org::subject]] drf [[file:verb.social.org::subject]]
 hyper: [[file:noun.Tops.org::person]]
 hm: [[file:noun.group.org::nation1]]
 g: a person who owes allegiance to that nation; "a monarch has a duty to his subjects"
@@ -53245,7 +53243,7 @@ w: <<intercessor>>
 hyper: [[negotiator]]
 g: a negotiator who acts as a link between parties
 
-w: <<male>> drf [[file:adj.all.org::male2]] drf [[file:adj.all.org::male1]] ant [[female]]
+w: <<male>> drf [[file:adjs.all.org::male2]] drf [[file:adjs.all.org::male1]] ant [[female]]
 w: <<male_person>>
 hyper: [[file:noun.Tops.org::person]]
 g: a person who belongs to the sex that cannot have babies
@@ -53317,7 +53315,7 @@ w: <<finisher>> drf [[file:verb.contact.org::finish]]
 hyper: [[worker]]
 g: a worker who performs the last step in a manufacturing process
 
-w: <<female>> drf [[file:adj.all.org::female2]] ant [[male]]
+w: <<female>> drf [[file:adjs.all.org::female2]] ant [[male]]
 w: <<female_person>>
 hyper: [[file:noun.Tops.org::person]]
 g: a person who belongs to the sex that can have babies
@@ -53387,7 +53385,7 @@ g: a person who uses scientific knowledge to solve practical problems
 
 w: <<disputant>> drf [[file:verb.communication.org::dispute1]]
 w: <<controversialist>>
-w: <<eristic>> drf [[file:adj.all.org::eristic]]
+w: <<eristic>> drf [[file:adjs.all.org::eristic]]
 hyper: [[file:noun.Tops.org::person]]
 g: a person who disputes; who is good at or enjoys controversy
 
@@ -53535,7 +53533,7 @@ w: <<auctioneer>> drf [[file:noun.act.org::auction]] drf [[file:verb.possession.
 hyper: [[agent1]]
 g: an agent who conducts an auction
 
-w: <<attendant1>> drf [[file:adj.all.org::attendant]] drf [[file:verb.stative.org::attend]]
+w: <<attendant1>> drf [[file:adjs.all.org::attendant]] drf [[file:verb.stative.org::attend]]
 w: <<attender1>> drf [[file:verb.stative.org::attend]]
 w: <<attendee1>>
 w: <<meeter>> drf [[file:verb.social.org::meet1]]
@@ -53569,11 +53567,11 @@ ihyper: [[liar]]
 dt: [[file:noun.communication.org::New_Testament]]
 g: a habitual liar (after a New Testament character who was struck dead for lying)
 
-w: <<anachronism>> drf [[file:adj.all.org::anachronistic]] drf [[file:adj.all.org::anachronic]] drf [[file:adj.all.org::anachronous]]
+w: <<anachronism>> drf [[file:adjs.all.org::anachronistic]] drf [[file:adjs.all.org::anachronic]] drf [[file:adjs.all.org::anachronous]]
 hyper: [[anomaly]]
 g: a person who seems to be displaced in time; who belongs to another age
 
-w: <<anomaly>> drf [[file:adj.all.org::anomalous]] drf [[anomalist]]
+w: <<anomaly>> drf [[file:adjs.all.org::anomalous]] drf [[anomalist]]
 w: <<unusual_person>>
 hyper: [[file:noun.Tops.org::person]]
 g: a person who is unusual
@@ -53587,8 +53585,8 @@ w: <<venturer>> drf [[file:verb.social.org::venture1]] drf [[file:verb.social.or
 hyper: [[file:noun.Tops.org::person]]
 g: a person who enjoys taking risks
 
-w: <<adult>> drf [[file:adj.all.org::adult]] drf [[file:noun.time.org::adulthood]] drf [[file:noun.state.org::adulthood]] ant [[juvenile]]
-w: <<grownup1>> drf [[file:adj.all.org::grownup]]
+w: <<adult>> drf [[file:adjs.all.org::adult]] drf [[file:noun.time.org::adulthood]] drf [[file:noun.state.org::adulthood]] ant [[juvenile]]
+w: <<grownup1>> drf [[file:adjs.all.org::grownup]]
 hyper: [[file:noun.Tops.org::person]]
 g: a fully developed person from maturity onward
 
@@ -53703,7 +53701,7 @@ w: <<Wilkins_Micawber>>
 ihyper: [[fictional_character]]
 g: fictional character created by Charles Dickens; an eternal optimist
 
-w: <<Mephistopheles>> drf [[file:adj.all.org::mephistophelean]] drf [[file:adj.all.org::mephistophelian]]
+w: <<Mephistopheles>> drf [[file:adjs.all.org::mephistophelean]] drf [[file:adjs.all.org::mephistophelian]]
 ihyper: [[evil_spirit]]
 g: evil spirit to whom Faust sold his soul
 
@@ -54326,7 +54324,7 @@ ihyper: [[mythical_being]]
 dt: [[file:noun.group.org::Greek_mythology]]
 g: (Greek mythology) the first woman; created by Hephaestus on orders from Zeus who presented her to Epimetheus along with a box filled with evils
 
-w: <<Hercules>> drf [[file:adj.all.org::herculean]] drf [[file:adj.all.org::herculean]]
+w: <<Hercules>> drf [[file:adjs.all.org::herculean]] drf [[file:adjs.all.org::herculean]]
 w: <<Heracles>>
 w: <<Herakles>>
 w: <<Alcides>>
@@ -54558,7 +54556,7 @@ ihyper: [[Roman_deity]]
 g: god of the underworld; counterpart of Greek Pluto
 
 w: <<Pluto>>
-w: <<Hades>> drf [[file:adj.all.org::Hadean]]
+w: <<Hades>> drf [[file:adjs.all.org::Hadean]]
 w: <<Aides>>
 w: <<Aidoneus>>
 ihyper: [[Greek_deity]]
@@ -54593,7 +54591,7 @@ ihyper: [[Roman_deity]]
 dt: [[file:noun.group.org::Roman_mythology]]
 g: (Roman mythology) god of the sea; counterpart of Greek Poseidon
 
-w: <<Proteus>> drf [[file:adj.all.org::protean]]
+w: <<Proteus>> drf [[file:adjs.all.org::protean]]
 ihyper: [[Greek_deity]]
 dt: [[file:noun.group.org::Greek_mythology]]
 g: (Greek mythology) a prophetic god who served Poseidon; was capable of changing his shape at will
@@ -54862,7 +54860,7 @@ ihyper: [[Roman_deity]]
 dt: [[file:noun.group.org::Roman_mythology]]
 g: (Roman mythology) god of love; counterpart of Greek Eros
 
-w: <<Eros>> drf [[file:adj.all.org::erotic]]
+w: <<Eros>> drf [[file:adjs.all.org::erotic]]
 ihyper: [[Greek_deity]]
 dt: [[file:noun.group.org::Greek_mythology]]
 g: (Greek mythology) god of love; son of Aphrodite; identified with Roman Cupid
@@ -55189,7 +55187,7 @@ g: the captain of a phantom ship (the Flying Dutchman) who was condemned to sail
 w: <<apparition>>
 w: <<phantom>>
 w: <<phantasm>>
-w: <<phantasma>> drf [[file:adj.all.org::phantasmal]]
+w: <<phantasma>> drf [[file:adjs.all.org::phantasmal]]
 w: <<fantasm>>
 w: <<specter>>
 w: <<spectre>>
@@ -55228,7 +55226,7 @@ w: <<poltergeist>>
 hyper: [[ghost]]
 g: a ghost that announces its presence with rapping and the creation of disorder
 
-w: <<ghost>> drf [[file:adj.all.org::ghostly]] drf [[file:verb.motion.org::ghost]]
+w: <<ghost>> drf [[file:adjs.all.org::ghostly]] drf [[file:verb.motion.org::ghost]]
 hyper: [[soul]]
 g: the visible disembodied soul of a dead person
 
@@ -55236,7 +55234,7 @@ w: <<trickster2>>
 hyper: [[spiritual_being]]
 g: a mischievous supernatural being found in the folklore of many primitive people; sometimes distinguished by prodigious biological drives and exaggerated bodily parts
 
-w: <<spirit>> drf [[file:adj.all.org::spiritual]]
+w: <<spirit>> drf [[file:adjs.all.org::spiritual]]
 w: <<disembodied_spirit>>
 hyper: [[spiritual_being]]
 g: any incorporeal supernatural being that can become visible (or audible) to human beings
@@ -55428,7 +55426,7 @@ w: <<guardian_angel>>
 hyper: [[angel]]
 g: an angel believed to have special affection for a particular individual
 
-w: <<seraph>> drf [[file:adj.all.org::seraphic]] drf [[file:adj.pert.org::seraphic]] drf [[file:adj.pert.org::seraphical]]
+w: <<seraph>> drf [[file:adjs.all.org::seraphic]] drf [[file:adj.pert.org::seraphic]] drf [[file:adj.pert.org::seraphical]]
 hyper: [[angel]]
 g: an angel of the first order; usually portrayed as the winged head of a child
 
@@ -55454,7 +55452,7 @@ w: <<archangel>> drf [[file:adj.pert.org::archangelic]] drf [[file:adj.pert.org:
 hyper: [[angel]]
 g: an angel ranked above the highest rank in the celestial hierarchy
 
-w: <<angel>> drf [[file:adj.pert.org::angelic]] drf [[file:adj.all.org::angelical]] drf [[file:adj.pert.org::angelical]]
+w: <<angel>> drf [[file:adj.pert.org::angelic]] drf [[file:adjs.all.org::angelical]] drf [[file:adj.pert.org::angelical]]
 hyper: [[spiritual_being]]
 hm: [[file:noun.group.org::celestial_hierarchy]]
 g: spiritual being attendant upon God
@@ -55541,12 +55539,12 @@ w: <<Creator1>>
 w: <<Maker1>>
 w: <<Divine1>>
 w: <<God_Almighty>>
-w: <<Almighty>> drf [[file:adj.all.org::almighty]]
+w: <<Almighty>> drf [[file:adjs.all.org::almighty]]
 w: <<Jehovah2>>
 ihyper: [[God]]
 g: terms referring to the Judeo-Christian God
 
-w: <<God>> drf [[file:adj.all.org::godly]]
+w: <<God>> drf [[file:adjs.all.org::godly]]
 w: <<Supreme_Being>>
 ihyper: [[spiritual_being]]
 g: the supernatural being conceived as the perfect and omnipotent and omniscient originator and ruler of the universe; the object of worship in monotheistic religions
@@ -56530,7 +56528,7 @@ hyper: [[deity]]
 g: a person who is part mortal and part god
 
 w: <<deity>> drf [[file:verb.cognition.org::deify]]
-w: <<divinity>> drf [[file:adj.all.org::divine2]]
+w: <<divinity>> drf [[file:adjs.all.org::divine2]]
 w: <<god1>>
 w: <<immortal>>
 hyper: [[spiritual_being]]
@@ -56569,7 +56567,7 @@ hm: [[supernatural]]
 g: an incorporeal being believed to have powers to affect the course of human events
 
 w: <<supernatural>> drf [[file:adj.all.org::supernatural]]
-w: <<occult>> drf [[file:adj.all.org::occult]]
+w: <<occult>> drf [[file:adjs.all.org::occult]]
 hyper: [[file:noun.Tops.org::causal_agent]]
 g: supernatural forces and events and beings collectively; "She doesn't believe in the supernatural"
 
@@ -56700,7 +56698,7 @@ hyper: [[mythical_monster]]
 dt: [[file:noun.group.org::Greek_mythology]]
 g: (Greek mythology) a mythical monster with the head of a bull and the body of a man; slain by Theseus
 
-w: <<Sisyphus>> drf [[file:adj.all.org::Sisyphean]] drf [[file:adj.pert.org::Sisyphean]]
+w: <<Sisyphus>> drf [[file:adjs.all.org::Sisyphean]] drf [[file:adj.pert.org::Sisyphean]]
 ihyper: [[mythical_being]]
 dr: [[file:noun.location.org::Greece]]
 dt: [[file:noun.communication.org::legend1]]
@@ -56976,7 +56974,7 @@ w: <<hobbit>>
 hyper: [[imaginary_being]]
 g: an imaginary being similar to a person but smaller and with hairy feet; invented by J.R.R. Tolkien
 
-w: <<giant2>> drf [[file:adj.all.org::giant]] drf [[file:adj.all.org::gigantic1]]
+w: <<giant2>> drf [[file:adjs.all.org::giant]] drf [[file:adjs.all.org::gigantic1]]
 hyper: [[imaginary_being]]
 g: an imaginary figure of superhuman size and strength; appears in folklore and fairy tales
 
@@ -56985,7 +56983,7 @@ w: <<Reaper1>>
 ihyper: [[Death]]
 g: Death personified as an old man or a skeleton with a scythe
 
-w: <<Gargantua>> drf [[file:adj.all.org::gargantuan]]
+w: <<Gargantua>> drf [[file:adjs.all.org::gargantuan]]
 ihyper: [[imaginary_being]]
 g: a voracious giant in Francois Rabelais' book of the same name
 
@@ -57046,7 +57044,7 @@ ihyper: [[mythical_being]]
 dt: [[file:noun.group.org::Greek_mythology]]
 g: (Greek mythology) a woman who was turned into a kingfisher
 
-w: <<Augeas>> drf [[file:adj.all.org::Augean]]
+w: <<Augeas>> drf [[file:adjs.all.org::Augean]]
 ihyper: [[mythical_being]]
 dt: [[file:noun.group.org::Greek_mythology]]
 g: (Greek mythology) the mythical Greek king who for 30 years did not clean his stables which contained his vast herd of cattle
@@ -57057,7 +57055,7 @@ g: an imaginary being of myth or fable
 
 w: <<extraterrestrial_being>>
 w: <<extraterrestrial>> drf [[file:adj.pert.org::extraterrestrial]]
-w: <<alien2>> drf [[file:adj.all.org::alien]]
+w: <<alien2>> drf [[file:adjs.all.org::alien]]
 hyper: [[hypothetical_creature]]
 g: a form of life assumed to exist outside the Earth or its atmosphere
 

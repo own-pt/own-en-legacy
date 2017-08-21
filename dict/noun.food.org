@@ -42,7 +42,7 @@ w: <<spoilable>>
 hyper: [[foodstuff]]
 g: food that will decay rapidly if not refrigerated
 
-w: <<brine>> drf [[file:adj.all.org::briny]] drf [[file:verb.change.org::brine]]
+w: <<brine>> drf [[file:adjs.all.org::briny]] drf [[file:verb.change.org::brine]]
 hyper: [[file:noun.substance.org::solution]]
 g: a strong solution of salt and water used for pickling
 
@@ -623,7 +623,7 @@ w: <<Irish_coffee>>
 hyper: [[coffee]]
 g: sweetened coffee with Irish whiskey and whipped cream
 
-w: <<fizz>> drf [[file:adj.all.org::fizzy]] drf [[file:verb.change.org::fizz]]
+w: <<fizz>> drf [[file:adjs.all.org::fizzy]] drf [[file:verb.change.org::fizz]]
 hyper: [[beverage]]
 g: an effervescent beverage (usually alcoholic)
 
@@ -1196,8 +1196,8 @@ hyper: [[alcohol]]
 g: nonflavored alcohol of 95 percent or 190 proof used for blending with straight whiskies and in making gin and liqueurs
 
 w: <<liquor>>
-w: <<spirits>> drf [[file:adj.all.org::spirituous]] drf [[file:adj.all.org::spiritous]]
-w: <<booze>> drf [[file:adj.all.org::boozy]] drf [[file:verb.consumption.org::booze]]
+w: <<spirits>> drf [[file:adjs.all.org::spirituous]] drf [[file:adjs.all.org::spiritous]]
+w: <<booze>> drf [[file:adjs.all.org::boozy]] drf [[file:verb.consumption.org::booze]]
 w: <<hard_drink>>
 w: <<hard_liquor>>
 w: <<John_Barleycorn>>
@@ -1512,7 +1512,7 @@ w: <<vintage>>
 hyper: [[wine]]
 g: a season's yield of wine from a vineyard
 
-w: <<wine>> drf [[file:adj.all.org::winy]] drf [[file:adj.all.org::winey]] drf [[file:adj.pert.org::vinous]] drf [[file:adj.pert.org::vinaceous]] drf [[file:verb.consumption.org::wine1]] drf [[file:verb.consumption.org::wine]] drf [[file:verb.change.org::vinify]]
+w: <<wine>> drf [[file:adjs.all.org::winy]] drf [[file:adjs.all.org::winey]] drf [[file:adj.pert.org::vinous]] drf [[file:adj.pert.org::vinaceous]] drf [[file:verb.consumption.org::wine1]] drf [[file:verb.consumption.org::wine]] drf [[file:verb.change.org::vinify]]
 w: <<vino>>
 hyper: [[alcohol]]
 hs: [[grape]]
@@ -1584,7 +1584,7 @@ w: <<Burton>>
 hyper: [[ale]]
 g: a strong dark English ale
 
-w: <<bitter>> drf [[file:adj.all.org::bitter]]
+w: <<bitter>> drf [[file:adjs.all.org::bitter]]
 hyper: [[ale]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: English term for a dry sharp-tasting ale with strong flavor of hops (usually on draft)
@@ -1664,7 +1664,7 @@ w: <<draught_beer>>
 hyper: [[beer]]
 g: beer drawn from a keg
 
-w: <<beer>> drf [[file:adj.all.org::beery]]
+w: <<beer>> drf [[file:adjs.all.org::beery]]
 hyper: [[brew]]
 g: a general name for alcoholic beverages made by fermenting a cereal (or mixture of cereals) flavored with hops
 
@@ -2484,7 +2484,7 @@ w: <<bread_dough>>
 hyper: [[dough]]
 g: any of various doughs for bread
 
-w: <<dough>> drf [[file:adj.all.org::doughy]]
+w: <<dough>> drf [[file:adjs.all.org::doughy]]
 hyper: [[concoction]]
 g: a flour mixture stiff enough to knead or roll
 
@@ -2511,7 +2511,7 @@ w: <<grenadine>>
 hyper: [[syrup]]
 g: thin syrup made from pomegranate juice; used in mixed drinks
 
-w: <<treacle>> drf [[file:adj.all.org::treacly]]
+w: <<treacle>> drf [[file:adjs.all.org::treacly]]
 w: <<golden_syrup>>
 hyper: [[syrup]]
 dr: [[file:noun.location.org::United_Kingdom]]
@@ -2544,7 +2544,7 @@ w: <<saccharin>>
 hyper: [[sweetening]]
 g: a crystalline substance 500 times sweeter than sugar; used as a calorie-free sweetener
 
-w: <<honey>> drf [[file:adj.all.org::honey]] drf [[file:verb.perception.org::honey]]
+w: <<honey>> drf [[file:adjs.all.org::honey]] drf [[file:verb.perception.org::honey]]
 hyper: [[sweetening]]
 hs: [[mead]]
 hs: [[oenomel]]
@@ -2891,7 +2891,7 @@ hyper: [[butter]]
 hyper: [[margarine]]
 g: a rectangular quarter pound block of butter or margarine
 
-w: <<butter>> drf [[file:adj.all.org::buttery]] drf [[file:adj.pert.org::butyraceous]] drf [[file:verb.contact.org::butter]]
+w: <<butter>> drf [[file:adjs.all.org::buttery]] drf [[file:adj.pert.org::butyraceous]] drf [[file:verb.contact.org::butter]]
 hyper: [[dairy_product]]
 hyper: [[food]]
 g: an edible emulsion of fat globules made by churning milk or cream; for cooking and table use
@@ -2931,7 +2931,7 @@ hyper: [[cream]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: thick cream made from scalded milk
 
-w: <<cream>> drf [[file:adj.all.org::creamy]] drf [[file:verb.change.org::cream]] drf [[file:verb.contact.org::cream]]
+w: <<cream>> drf [[file:adjs.all.org::creamy]] drf [[file:verb.change.org::cream]] drf [[file:verb.contact.org::cream]]
 hyper: [[dairy_product]]
 g: the part of milk containing the butterfat
 
@@ -3031,7 +3031,7 @@ w: <<milk2>> drf [[file:verb.change.org::milk1]]
 hyper: [[foodstuff]]
 g: any of several nutritive milklike liquids
 
-w: <<milk1>> drf [[file:adj.all.org::milky]] drf [[file:verb.change.org::milk1]] drf [[file:verb.change.org::milk]]
+w: <<milk1>> drf [[file:adjs.all.org::milky]] drf [[file:verb.change.org::milk1]] drf [[file:verb.change.org::milk]]
 hyper: [[dairy_product]]
 hyper: [[beverage]]
 g: a white nutritious liquid secreted by mammals and used as food by human beings
@@ -3963,7 +3963,7 @@ w: <<black_pepper>>
 hyper: [[pepper1]]
 g: pepper that is ground from whole peppercorns with husks on
 
-w: <<pepper1>> drf [[file:adj.all.org::peppery]] drf [[file:verb.perception.org::pepper]]
+w: <<pepper1>> drf [[file:adjs.all.org::peppery]] drf [[file:verb.perception.org::pepper]]
 w: <<peppercorn>>
 hyper: [[flavorer]]
 hp: [[file:noun.plant.org::pepper1]]
@@ -5832,7 +5832,7 @@ hyper: [[slipskin_grape]]
 hp: [[file:noun.plant.org::fox_grape]]
 g: purplish-black wild grape of the eastern United States with tough skins that slip easily from the flesh; cultivated in many varieties
 
-w: <<grape>> drf [[file:adj.all.org::grapy]] drf [[file:adj.all.org::grapey]]
+w: <<grape>> drf [[file:adjs.all.org::grapy]] drf [[file:adjs.all.org::grapey]]
 hyper: [[edible_fruit]]
 hp: [[file:noun.plant.org::grape]]
 g: any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters
@@ -6148,7 +6148,7 @@ hyper: [[citrus]]
 hp: [[file:noun.plant.org::lime1]]
 g: the green acidic fruit of any of various lime trees
 
-w: <<lemon>> drf [[file:adj.all.org::lemony]]
+w: <<lemon>> drf [[file:adjs.all.org::lemony]]
 hyper: [[citrus]]
 hp: [[file:noun.plant.org::lemon]]
 g: yellow oval fruit with juicy acidic flesh
@@ -7425,7 +7425,7 @@ hyper: [[snack_food]]
 g: thin piece of cornmeal dough fried
 
 w: <<chip>>
-w: <<crisp>> drf [[file:adj.all.org::crisp]] drf [[file:adj.all.org::crispy]] drf [[file:verb.change.org::crisp]]
+w: <<crisp>> drf [[file:adjs.all.org::crisp]] drf [[file:adjs.all.org::crispy]] drf [[file:verb.change.org::crisp]]
 w: <<potato_chip>>
 w: <<Saratoga_chip>>
 hyper: [[snack_food]]
@@ -7661,7 +7661,7 @@ w: <<atole>>
 hyper: [[mush]]
 g: eaten as mush or as a thin gruel
 
-w: <<mush>> drf [[file:adj.all.org::mushy]]
+w: <<mush>> drf [[file:adjs.all.org::mushy]]
 w: <<cornmeal_mush>>
 hyper: [[hot_cereal]]
 g: cornmeal boiled in water
@@ -8648,7 +8648,7 @@ hyper: [[vegetable_oil]]
 g: mild vegetable oil when used as food; especially olive or edible rape oil
 
 w: <<vegetable_oil>>
-w: <<oil>> drf [[file:adj.all.org::oily]]
+w: <<oil>> drf [[file:adjs.all.org::oily]]
 hyper: [[edible_fat]]
 hs: [[margarine]]
 g: any of a group of liquid edible fats that are obtained from plants
@@ -8669,7 +8669,7 @@ w: <<marge>>
 hyper: [[spread]]
 g: a spread made chiefly from vegetable oils and used as a substitute for butter
 
-w: <<suet>> drf [[file:adj.all.org::suety]]
+w: <<suet>> drf [[file:adjs.all.org::suety]]
 hyper: [[edible_fat]]
 g: hard fat around the kidneys and loins in beef and sheep
 
@@ -8971,7 +8971,7 @@ w: <<jerk>>
 hyper: [[meat1]]
 g: meat (especially beef) cut in strips and dried in the sun
 
-w: <<halal>> drf [[file:adj.all.org::halal]]
+w: <<halal>> drf [[file:adjs.all.org::halal]]
 hyper: [[meat1]]
 dt: [[file:noun.cognition.org::Islam]]
 g: (Islam) meat from animals that have been slaughtered in the prescribed way according to the shariah
@@ -9444,7 +9444,7 @@ hp: [[drumstick]]
 hp: [[second_joint]]
 g: the flesh of the legs of fowl used as food
 
-w: <<game>> drf [[file:adj.all.org::gamy]] drf [[file:adj.all.org::gamey]]
+w: <<game>> drf [[file:adjs.all.org::gamy]] drf [[file:adjs.all.org::gamey]]
 hyper: [[meat1]]
 g: the flesh of wild animals that is used for food
 
@@ -10369,7 +10369,7 @@ w: <<breadcrumb>>
 hyper: [[crumb]]
 g: crumb of bread; used especially for coating or thickening
 
-w: <<crumb>> drf [[file:adj.all.org::crumbly]] drf [[file:verb.change.org::crumb]] drf [[file:verb.change.org::crumb1]] drf [[file:verb.contact.org::crumb]]
+w: <<crumb>> drf [[file:adjs.all.org::crumbly]] drf [[file:verb.change.org::crumb]] drf [[file:verb.change.org::crumb1]] drf [[file:verb.contact.org::crumb]]
 hyper: [[morsel]]
 hp: [[baked_goods]]
 g: small piece of e.g. bread or cake
@@ -10749,8 +10749,8 @@ w: <<ambrosia2>>
 hyper: [[dessert]]
 g: fruit dessert made of oranges and bananas with shredded coconut
 
-w: <<ambrosia1>> drf [[file:adj.all.org::ambrosial]]
-w: <<nectar1>> drf [[file:adj.all.org::nectarous]]
+w: <<ambrosia1>> drf [[file:adjs.all.org::ambrosial]]
+w: <<nectar1>> drf [[file:adjs.all.org::nectarous]]
 hyper: [[dainty]]
 dt: [[file:noun.group.org::classical_mythology]]
 g: (classical mythology) the food and drink of the gods; mortals who ate it became immortal
@@ -11240,8 +11240,8 @@ w: <<calf's-foot_jelly>>
 hyper: [[gelatin2]]
 g: a savory jelly made with gelatin obtained by boiling calves' feet
 
-w: <<savory1>> drf [[file:adj.all.org::savory]] drf [[file:adj.all.org::savory]]
-w: <<savoury1>> drf [[file:adj.all.org::savoury]] drf [[file:adj.all.org::savoury]]
+w: <<savory1>> drf [[file:adjs.all.org::savory]] drf [[file:adjs.all.org::savory]]
+w: <<savoury1>> drf [[file:adjs.all.org::savoury]] drf [[file:adjs.all.org::savoury]]
 hyper: [[dainty]]
 g: an aromatic or spicy dish served at the end of dinner or as an hors d'oeuvre
 
@@ -11691,7 +11691,7 @@ w: <<confit>>
 hyper: [[cut]]
 g: a piece of meat (especially a duck) cooked slowly in its own fat
 
-w: <<roast>> drf [[file:adj.all.org::roast]] drf [[file:verb.change.org::roast]]
+w: <<roast>> drf [[file:adjs.all.org::roast]] drf [[file:verb.change.org::roast]]
 w: <<joint>>
 hyper: [[cut]]
 g: a piece of meat roasted or for roasting and of a size for slicing into more than one portion
@@ -11988,9 +11988,9 @@ g: the practice or manner of preparing food or the food so prepared
 
 w: <<nutriment>>
 w: <<nourishment>> drf [[file:verb.consumption.org::nourish]]
-w: <<nutrition>> drf [[file:adj.pert.org::nutritionary]] drf [[file:adj.all.org::nutritious]] drf [[file:adj.pert.org::nutritional]] drf [[file:noun.person.org::nutritionist]]
+w: <<nutrition>> drf [[file:adj.pert.org::nutritionary]] drf [[file:adjs.all.org::nutritious]] drf [[file:adj.pert.org::nutritional]] drf [[file:noun.person.org::nutritionist]]
 w: <<sustenance>> drf [[file:verb.consumption.org::sustain1]]
-w: <<aliment>> drf [[file:adj.all.org::alimentary]] drf [[file:verb.consumption.org::aliment]]
+w: <<aliment>> drf [[file:adjs.all.org::alimentary]] drf [[file:verb.consumption.org::aliment]]
 w: <<alimentation>> drf [[file:verb.consumption.org::aliment]]
 w: <<victuals1>>
 hyper: [[file:noun.Tops.org::food]]
@@ -12008,7 +12008,7 @@ w: <<corn_gluten>>
 hyper: [[gluten]]
 g: gluten prepared from corn
 
-w: <<gluten>> drf [[file:adj.all.org::glutinous]]
+w: <<gluten>> drf [[file:adjs.all.org::glutinous]]
 hyper: [[file:noun.substance.org::protein]]
 g: a protein substance that remains when starch is removed from cereal grains; gives cohesiveness to dough
 
@@ -12044,7 +12044,7 @@ hyper: [[flour]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: flour that does not contain a raising agent
 
-w: <<flour>> drf [[file:adj.all.org::floury]] drf [[file:verb.change.org::flour]] drf [[file:verb.contact.org::flour]]
+w: <<flour>> drf [[file:adjs.all.org::floury]] drf [[file:verb.change.org::flour]] drf [[file:verb.contact.org::flour]]
 hyper: [[foodstuff]]
 hs: [[bread]]
 hs: [[dough]]
@@ -12301,7 +12301,7 @@ hyper: [[nutriment]]
 hp: [[meal]]
 g: a particular item of prepared food; "she prepared a special dish for dinner"
 
-w: <<dainty>> drf [[file:adj.all.org::dainty]]
+w: <<dainty>> drf [[file:adjs.all.org::dainty]]
 w: <<delicacy>>
 w: <<goody>>
 w: <<kickshaw>>

@@ -156,7 +156,9 @@
                       ("r" "adv" 4)))
 
 (defparameter *lex-filenum* '((0 "adj.all" "all adjective clusters")
+                              (100 "adjs.all" "all adjective clusters")
                               (1 "adj.pert" "relational adjectives (pertainyms)")
+                              (101 "adjs.pert" "relational adjectives (pertainyms)")
                               (2 "adv.all" "all adverbs")
                               (3 "noun.Tops" "unique beginner for nouns")
                               (4 "noun.act" "nouns denoting acts or actions")
@@ -199,7 +201,8 @@
                               (41 "verb.social" "verbs of political and social activities and events")
                               (42 "verb.stative" "verbs of being, having, spatial relations")
                               (43 "verb.weather" "verbs of raining, snowing, thawing, thundering")
-                              (44 "adj.ppl" "participial adjectives")))
+                              (44 "adj.ppl" "participial adjectives")
+                              (144 "adjs.ppl" "participial adjectives")))
 
 (defparameter *pointers* '(("n" . (("!" "ant" "Antonym")
                                    ("@" "hyper" "Hypernym")
@@ -350,8 +353,7 @@ need to specify the lex. file of S2."
     (if *org-mode*
         (if (= lnum1 lnum2)
             (format nil "[[~a]]" rw)
-            (format nil "[[file:~a.org::~a]]" (lexfile-name (synset-lnum
-                                                        s2)) rw))
+            (format nil "[[file:~a.org::~a]]" (lexfile-name (synset-lnum s2)) rw))
         (if (= lnum1 lnum2)
             rw
             (format nil "~a:~a" (lexfile-name (synset-lnum s2)) rw)))))
@@ -438,8 +440,12 @@ specification for this word (see MK-POINTER in the flet.)"
      "")))
 
 (defun add-synset (s)
-  (flet ((convert-adj (ty) (if (equal "s" ty) "a" ty)))
-    (let* ((key (format nil "~a-~a" (synset-id s) (convert-adj (synset-type s)))))
+  (flet ((fix-adjective (s)
+           (when (equal "s" (synset-type s))
+             (setf (synset-type s) "a")
+             (setf (synset-lnum s) (+ 100 (synset-lnum s))))))
+    (fix-adjective s)
+    (let* ((key (format nil "~a-~a" (synset-id s) (synset-type s))))
       (setf (gethash key *synsets*) s))))
 
 (defun mk-frames (s)
@@ -489,4 +495,5 @@ applies to all the senses in the synset."
 (defun test ()
   (load-en #p"/home/fcbr/repos/wordnet/WordNet-3.0/dict/"))
 
-(test)
+;; (test)
+

@@ -1468,8 +1468,8 @@ hyper: [[activity]]
 g: any activity that is performed alone without assistance
 
 w: <<precession>> drf [[file:verb.stative.org::precede1]] drf [[file:verb.stative.org::precede]] drf [[file:verb.social.org::precede]]
-w: <<precedence>> drf [[file:adj.all.org::precedent]] drf [[file:verb.social.org::precede]]
-w: <<precedency>> drf [[file:adj.all.org::precedent]] drf [[file:verb.motion.org::precede]]
+w: <<precedence>> drf [[file:adjs.all.org::precedent]] drf [[file:verb.social.org::precede]]
+w: <<precedency>> drf [[file:adjs.all.org::precedent]] drf [[file:verb.motion.org::precede]]
 hyper: [[activity]]
 g: the act of preceding in time or order or rank (as in a ceremony)
 
@@ -1865,7 +1865,7 @@ w: <<work_stoppage>>
 hyper: [[job_action]]
 g: a group's refusal to work in protest against low pay or bad work conditions; "the strike lasted more than a month before it was settled"
 
-w: <<recusancy>> drf [[file:adj.all.org::recusant]] drf [[file:adj.all.org::recusant]]
+w: <<recusancy>> drf [[file:adjs.all.org::recusant]] drf [[file:adjs.all.org::recusant]]
 hyper: [[direct_action]]
 g: refusal to submit to established authority; originally the refusal of Roman Catholics to attend services of the Church of England
 
@@ -1885,7 +1885,7 @@ g: a voluntary fast undertaken as a means of protest
 
 w: <<passive_resistance>>
 w: <<nonviolent_resistance>>
-w: <<nonviolence>> drf [[file:adj.all.org::nonviolent]] drf [[file:adj.all.org::nonviolent]]
+w: <<nonviolence>> drf [[file:adjs.all.org::nonviolent]] drf [[file:adj.all.org::nonviolent]]
 hyper: [[direct_action]]
 g: peaceful resistance to a government by fasting or refusing to cooperate
 
@@ -1930,7 +1930,7 @@ hyper: [[dissolution]]
 dt: [[file:noun.group.org::law]]
 g: (law) a formal termination (of a relationship or a judicial proceeding etc)
 
-w: <<neutrality>> drf [[file:adj.all.org::neutral]] drf [[file:noun.person.org::neutralist]]
+w: <<neutrality>> drf [[file:adjs.all.org::neutral]] drf [[file:noun.person.org::neutralist]]
 hyper: [[non-engagement]]
 g: nonparticipation in a dispute or war
 
@@ -2083,7 +2083,7 @@ w: <<getting_even>>
 hyper: [[group_action]]
 g: a reciprocal group action; "in return we gave them as good as we got"
 
-w: <<truancy>> drf [[file:adj.all.org::truant]]
+w: <<truancy>> drf [[file:adjs.all.org::truant]]
 w: <<hooky>>
 hyper: [[nonattendance]]
 g: failure to attend (especially school)
@@ -2118,7 +2118,7 @@ w: <<coming_into_court>>
 hyper: [[attendance]]
 g: formal attendance (in court or at a hearing) of a party in an action
 
-w: <<attendance>> drf [[file:adj.all.org::attendant]] drf [[file:verb.stative.org::attend]] ant [[nonattendance]]
+w: <<attendance>> drf [[file:adjs.all.org::attendant]] drf [[file:verb.stative.org::attend]] ant [[nonattendance]]
 w: <<attending1>>
 hyper: [[group_action]]
 g: the act of being present (at a meeting or event etc.)
@@ -2215,7 +2215,7 @@ hyper: [[group_action]]
 g: the social act of assembling; "they demanded the right of assembly"
 
 w: <<consideration2>> drf [[file:verb.cognition.org::consider5]]
-w: <<thoughtfulness>> drf [[file:adj.all.org::thoughtful]]
+w: <<thoughtfulness>> drf [[file:adjs.all.org::thoughtful]]
 hyper: [[kindness]]
 g: a considerate and thoughtful act
 
@@ -2238,7 +2238,7 @@ w: <<homage>>
 hyper: [[deference]]
 g: respectful deference; "pay court to the emperor"
 
-w: <<deference>> drf [[file:adj.all.org::deferential]] drf [[file:adj.all.org::deferent]]
+w: <<deference>> drf [[file:adjs.all.org::deferential]] drf [[file:adjs.all.org::deferent]]
 w: <<respect3>> drf [[file:verb.social.org::respect]] drf [[file:verb.cognition.org::respect]]
 hyper: [[politeness]]
 g: a courteous expression (by word or deed) of esteem or regard; "his deference to her wishes was very flattering"; "be sure to give my respects to the dean"
@@ -2332,7 +2332,7 @@ w: <<slight>> drf [[file:verb.cognition.org::slight]]
 hyper: [[discourtesy]]
 g: a deliberate discourteous act (usually as an expression of anger or disapproval)
 
-w: <<presumption>> drf [[file:adj.all.org::presumptuous]] drf [[file:verb.social.org::presume]] drf [[file:verb.body.org::presume]] drf [[file:verb.cognition.org::presume]]
+w: <<presumption>> drf [[file:adjs.all.org::presumptuous]] drf [[file:verb.social.org::presume]] drf [[file:verb.body.org::presume]] drf [[file:verb.cognition.org::presume]]
 hyper: [[discourtesy]]
 g: a kind of discourtesy in the form of an act of presuming; "his presumption was intolerable"
 
@@ -2351,7 +2351,7 @@ w: <<affront>> drf [[file:verb.communication.org::affront]]
 hyper: [[discourtesy]]
 g: a deliberately offensive act or something producing the effect of deliberate disrespect; "turning his back on me was a deliberate insult"
 
-w: <<insolence>> drf [[file:adj.all.org::insolent]]
+w: <<insolence>> drf [[file:adjs.all.org::insolent]]
 hyper: [[discourtesy]]
 g: an offensive disrespectful impudent act
 
@@ -2364,7 +2364,7 @@ hyper: [[derision]]
 g: the act of mocking or ridiculing; "they made a mock of him"
 
 w: <<derision>> drf [[file:verb.communication.org::deride]]
-w: <<ridicule>> drf [[file:adj.all.org::ridiculous]] drf [[file:verb.communication.org::ridicule]]
+w: <<ridicule>> drf [[file:adjs.all.org::ridiculous]] drf [[file:verb.communication.org::ridicule]]
 hyper: [[discourtesy]]
 g: the act of deriding or treating with contempt
 
@@ -2478,8 +2478,8 @@ hyper: [[file:noun.communication.org::criticism]]
 g: strong criticism; "he published an unexpected attack on my work"
 
 w: <<aspersion>> drf [[file:verb.communication.org::asperse]]
-w: <<calumny1>> drf [[file:adj.all.org::calumnious]] drf [[file:verb.communication.org::calumniate]]
-w: <<slander1>> drf [[file:adj.all.org::slanderous]] drf [[file:verb.communication.org::slander]]
+w: <<calumny1>> drf [[file:adjs.all.org::calumnious]] drf [[file:verb.communication.org::calumniate]]
+w: <<slander1>> drf [[file:adjs.all.org::slanderous]] drf [[file:verb.communication.org::slander]]
 w: <<defamation1>> drf [[file:verb.communication.org::defame]]
 w: <<denigration1>> drf [[file:verb.communication.org::denigrate1]]
 hyper: [[attack5]]
@@ -2651,7 +2651,7 @@ w: <<patronage>>
 hyper: [[blessing1]]
 g: the act of providing approval and support; "his vigorous backing of the conservatives got him in trouble with progressives"
 
-w: <<traditionalism>> drf [[file:adj.all.org::traditionalistic]] drf [[file:noun.person.org::traditionalist]]
+w: <<traditionalism>> drf [[file:adjs.all.org::traditionalistic]] drf [[file:noun.person.org::traditionalist]]
 hyper: [[attachment2]]
 dt: [[file:noun.cognition.org::religion]]
 g: adherence to tradition (especially in cultural or religious matters)
@@ -2839,7 +2839,7 @@ hyper: [[commitment]]
 g: commitment to some purpose; "the devotion of his time and wealth to science"
 
 w: <<commitment>> drf [[file:verb.communication.org::commit1]]
-w: <<allegiance>> drf [[file:adj.all.org::allegiant]]
+w: <<allegiance>> drf [[file:adjs.all.org::allegiant]]
 w: <<loyalty>>
 w: <<dedication>> drf [[file:verb.communication.org::dedicate]]
 hyper: [[cooperation1]]
@@ -2894,7 +2894,7 @@ hyper: [[honoring]]
 g: strict observance of formalities
 
 w: <<honoring>> drf [[file:verb.social.org::honor1]]
-w: <<observance2>> drf [[file:adj.all.org::observant]] drf [[file:verb.social.org::observe4]] ant [[nonobservance]]
+w: <<observance2>> drf [[file:adjs.all.org::observant]] drf [[file:verb.social.org::observe4]] ant [[nonobservance]]
 hyper: [[conformity]]
 g: conformity with law or custom or practice etc.
 
@@ -3468,7 +3468,7 @@ hyper: [[contempt_of_court]]
 dt: [[file:noun.group.org::law]]
 g: an act of disrespect that impedes the administration of justice
 
-w: <<contumacy>> drf [[file:adj.all.org::contumacious]]
+w: <<contumacy>> drf [[file:adjs.all.org::contumacious]]
 hyper: [[disobedience]]
 dt: [[file:noun.group.org::law]]
 g: willful refusal to appear before a court or comply with a court order; can result in a finding of contempt of court
@@ -3502,12 +3502,12 @@ w: <<noncompliance>> drf [[file:adj.all.org::noncompliant]] ant [[compliance2]]
 hyper: [[insubordination]]
 g: the failure to obey
 
-w: <<contumacy2>> drf [[file:adj.all.org::contumacious]]
+w: <<contumacy2>> drf [[file:adjs.all.org::contumacious]]
 hyper: [[insubordination]]
 g: obstinate rebelliousness and insubordination; resistance to authority
 
 w: <<insubordination>>
-w: <<rebelliousness>> drf [[file:adj.all.org::rebellious]] drf [[file:adj.all.org::rebellious]]
+w: <<rebelliousness>> drf [[file:adjs.all.org::rebellious]] drf [[file:adjs.all.org::rebellious]]
 hyper: [[resistance]]
 g: an insubordinate act
 
@@ -3554,7 +3554,7 @@ hyper: [[fistfight]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: a fistfight; "the quarrel ended in a punch-up"
 
-w: <<rebellion1>> drf [[file:adj.all.org::rebellious]] drf [[file:adj.all.org::rebellious]] drf [[file:verb.social.org::rebel1]]
+w: <<rebellion1>> drf [[file:adjs.all.org::rebellious]] drf [[file:adjs.all.org::rebellious]] drf [[file:verb.social.org::rebel1]]
 hyper: [[resistance]]
 g: refusal to accept some authority or code or convention; "each generation must have its own rebellion"; "his body was in rebellion against fatigue"
 
@@ -3724,11 +3724,11 @@ g: the art or sport of fighting with swords (especially the use of foils or epee
 w: <<fight2>> drf [[file:verb.competition.org::fight]]
 w: <<fighting>> drf [[file:verb.competition.org::fight]]
 w: <<combat1>> drf [[file:verb.competition.org::combat]]
-w: <<scrap>> drf [[file:adj.all.org::scrappy]] drf [[file:verb.communication.org::scrap]]
+w: <<scrap>> drf [[file:adjs.all.org::scrappy]] drf [[file:verb.communication.org::scrap]]
 hyper: [[conflict]]
 g: the act of fighting; any contest or struggle; "a fight broke out at the hockey game"; "there was fighting in the streets"; "the unhappy couple got into a terrible scrap"
 
-w: <<dispute>> drf [[file:adj.all.org::disputatious]] drf [[file:verb.communication.org::dispute1]]
+w: <<dispute>> drf [[file:adjs.all.org::disputatious]] drf [[file:verb.communication.org::dispute1]]
 w: <<contravention>> drf [[file:verb.social.org::contravene]]
 hyper: [[resistance]]
 g: coming into conflict with
@@ -3737,7 +3737,7 @@ w: <<race_riot>>
 hyper: [[riot]]
 g: a riot caused by hatred for one another of members of different races in the same community
 
-w: <<riot>> drf [[file:adj.all.org::riotous]] drf [[file:verb.social.org::riot]]
+w: <<riot>> drf [[file:adjs.all.org::riotous]] drf [[file:verb.social.org::riot]]
 w: <<public_violence>>
 hyper: [[violence1]]
 g: a public act of violence by an unruly mob
@@ -3764,11 +3764,11 @@ w: <<opposition>> drf [[file:verb.competition.org::oppose1]]
 hyper: [[resistance]]
 g: the act of hostile groups opposing each other; "the government was not ready for a confrontation with the unions"; "the invaders encountered stiff opposition"
 
-w: <<nonresistance>> drf [[file:adj.all.org::nonresistant]]
+w: <<nonresistance>> drf [[file:adjs.all.org::nonresistant]]
 hyper: [[group_action]]
 g: group refusal to resort to violence even in defense against violence
 
-w: <<resistance>> drf [[file:adj.all.org::resistant]] drf [[file:verb.social.org::resist]]
+w: <<resistance>> drf [[file:adjs.all.org::resistant]] drf [[file:verb.social.org::resist]]
 hyper: [[group_action]]
 g: group action in opposition to those in power
 
@@ -3976,7 +3976,7 @@ hyper: [[punishment]]
 g: punishment of a group by cutting off commercial dealings with them; "the economic strangulation of the Jews by the Nazi Party"
 
 w: <<discipline1>> drf [[file:adj.pert.org::disciplinary1]] drf [[file:verb.social.org::discipline]]
-w: <<correction2>> drf [[file:adj.all.org::correctional]] drf [[file:verb.social.org::correct]]
+w: <<correction2>> drf [[file:adjs.all.org::correctional]] drf [[file:verb.social.org::correct]]
 hyper: [[punishment]]
 g: the act of punishing; "the offenders deserved the harsh discipline they received"
 
@@ -4069,7 +4069,7 @@ hyper: [[mobilization1]]
 dt: [[file:noun.group.org::military]]
 g: compulsory military service
 
-w: <<disarming>> drf [[file:adj.all.org::disarming]] drf [[file:verb.competition.org::disarm1]] drf [[file:verb.competition.org::disarm]] ant [[arming]]
+w: <<disarming>> drf [[file:adjs.all.org::disarming]] drf [[file:verb.competition.org::disarm1]] drf [[file:verb.competition.org::disarm]] ant [[arming]]
 w: <<disarmament>> drf [[file:verb.competition.org::disarm1]] drf [[file:verb.competition.org::disarm]] ant [[armament]]
 hyper: [[demobilization]]
 g: act of reducing or depriving of arms; "the disarmament of the aggressor nations must be complete"
@@ -4697,7 +4697,7 @@ w: <<slight_care>>
 hyper: [[care2]]
 g: such care as a careless or inattentive person would exercise
 
-w: <<providence>> drf [[file:adj.all.org::providential]]
+w: <<providence>> drf [[file:adjs.all.org::providential]]
 hyper: [[care2]]
 g: the guardianship and control exercised by a deity; "divine providence"
 
@@ -4758,7 +4758,7 @@ w: <<moral_obligation>>
 hyper: [[duty]]
 g: an obligation arising out of considerations of right and wrong; "he did it out of a feeling of moral obligation"
 
-w: <<duty>> drf [[file:adj.all.org::duteous]]
+w: <<duty>> drf [[file:adjs.all.org::duteous]]
 w: <<responsibility>>
 w: <<obligation>> drf [[file:verb.social.org::obligate]] drf [[file:verb.social.org::oblige]]
 hyper: [[social_control]]
@@ -4768,7 +4768,7 @@ w: <<breeding1>>
 w: <<bringing_up>>
 w: <<fostering>> drf [[file:verb.social.org::foster]] drf [[file:verb.communication.org::foster]]
 w: <<fosterage>> drf [[file:verb.communication.org::foster]]
-w: <<nurture>> drf [[file:adj.all.org::nurtural]] drf [[file:verb.social.org::nurture]] drf [[file:verb.communication.org::nurture]]
+w: <<nurture>> drf [[file:adjs.all.org::nurtural]] drf [[file:verb.social.org::nurture]] drf [[file:verb.communication.org::nurture]]
 w: <<raising1>>
 w: <<rearing>> drf [[file:verb.social.org::rear]]
 w: <<upbringing>>
@@ -5091,7 +5091,7 @@ w: <<viscosimetry>> drf [[file:adj.pert.org::viscosimetric]]
 hyper: [[measurement]]
 g: the measurement of viscosity
 
-w: <<venture1>> drf [[file:adj.all.org::venturous]] drf [[file:verb.social.org::venture]]
+w: <<venture1>> drf [[file:adjs.all.org::venturous]] drf [[file:verb.social.org::venture]]
 hyper: [[commercial_enterprise]]
 g: a commercial undertaking that risks a loss but promises a profit
 
@@ -5712,7 +5712,7 @@ w: <<trade5>> drf [[file:verb.possession.org::trade11]] drf [[file:verb.stative.
 hyper: [[commerce]]
 g: the commercial exchange (buying and selling on domestic or international markets) of goods and services; "Venice was an important center of trade with the East"; "they are accused of conspiring to constrain trade"
 
-w: <<commerce>> drf [[file:adj.all.org::commercial]] drf [[file:adj.pert.org::commercial]] drf [[file:adj.all.org::commercial]]
+w: <<commerce>> drf [[file:adjs.all.org::commercial]] drf [[file:adj.pert.org::commercial]] drf [[file:adj.all.org::commercial]]
 w: <<commercialism>>
 w: <<mercantilism>>
 hyper: [[transaction]]
@@ -5841,7 +5841,7 @@ hyper: [[sharing]]
 g: the act of giving
 
 w: <<generosity>> drf [[file:adj.all.org::generous1]]
-w: <<unselfishness>> drf [[file:adj.all.org::unselfish]] drf [[file:adj.all.org::unselfish]]
+w: <<unselfishness>> drf [[file:adjs.all.org::unselfish]] drf [[file:adj.all.org::unselfish]]
 hyper: [[sharing]]
 g: acting generously
 
@@ -5989,7 +5989,7 @@ hyper: [[prevention]]
 dt: [[sport]]
 g: (sports) the act of preventing the opposition from scoring; "the goalie made a brilliant save"; "the relief pitcher got credit for a save"
 
-w: <<prophylaxis>> drf [[file:adj.all.org::prophylactic]]
+w: <<prophylaxis>> drf [[file:adjs.all.org::prophylactic]]
 hyper: [[prevention]]
 g: the prevention of disease
 
@@ -6041,7 +6041,7 @@ w: <<discouragement>> drf [[file:verb.communication.org::discourage1]]
 hyper: [[deterrence]]
 g: the act of discouraging; "the discouragement of petty theft"
 
-w: <<deterrence>> drf [[file:adj.all.org::deterrent]] drf [[file:verb.communication.org::deter1]]
+w: <<deterrence>> drf [[file:adjs.all.org::deterrent]] drf [[file:verb.communication.org::deter1]]
 hyper: [[hindrance]]
 g: the act or process of discouraging actions or preventing occurrences by instilling fear or doubt or anxiety
 
@@ -6106,7 +6106,7 @@ w: <<splurge>>
 hyper: [[indulgence]]
 g: any act of immoderate indulgence; "an orgy of shopping"; "an emotional binge"; "a splurge of spending"
 
-w: <<overindulgence>> drf [[file:adj.all.org::overindulgent]] drf [[file:verb.consumption.org::overindulge]]
+w: <<overindulgence>> drf [[file:adjs.all.org::overindulgent]] drf [[file:verb.consumption.org::overindulge]]
 w: <<excess>>
 hyper: [[indulgence]]
 g: excessive indulgence; "the child was spoiled by overindulgence"
@@ -6117,7 +6117,7 @@ g: the act of one who pleases
 
 w: <<indulgence>> drf [[file:verb.social.org::indulge1]] drf [[file:verb.social.org::indulge]]
 w: <<indulging>> drf [[file:verb.social.org::indulge]] drf [[file:verb.consumption.org::indulge]]
-w: <<pampering>> drf [[file:adj.all.org::pampering]] drf [[file:verb.social.org::pamper]]
+w: <<pampering>> drf [[file:adjs.all.org::pampering]] drf [[file:verb.social.org::pamper]]
 w: <<humoring>> drf [[file:verb.communication.org::humor]]
 hyper: [[gratification]]
 g: the act of indulging or gratifying a desire
@@ -6168,8 +6168,8 @@ w: <<mercy>>
 hyper: [[lenience]]
 g: leniency and compassion shown toward offenders by a person or agency charged with administering justice; "he threw himself on the mercy of the court"
 
-w: <<lenience>> drf [[file:adj.all.org::lenient]]
-w: <<leniency>> drf [[file:adj.all.org::lenient]]
+w: <<lenience>> drf [[file:adjs.all.org::lenient]]
+w: <<leniency>> drf [[file:adjs.all.org::lenient]]
 hyper: [[tolerance]]
 g: lightening a penalty or excusing from a chore by judges or parents or teachers
 
@@ -6228,7 +6228,7 @@ hyper: [[self-denial]]
 dt: [[file:noun.cognition.org::Christianity]]
 g: (Christianity) the act of mortifying the lusts of the flesh by self-denial and privation (especially by bodily pain or discomfort inflicted on yourself)
 
-w: <<chastity>> drf [[file:adj.all.org::chaste]]
+w: <<chastity>> drf [[file:adjs.all.org::chaste]]
 w: <<celibacy>>
 w: <<sexual_abstention>>
 hyper: [[abstinence]]
@@ -6240,7 +6240,7 @@ w: <<ascesis>>
 hyper: [[self-denial]]
 g: rigorous self-denial and active self-restraint
 
-w: <<abstinence>> drf [[file:adj.all.org::abstinent]]
+w: <<abstinence>> drf [[file:adjs.all.org::abstinent]]
 hyper: [[self-denial]]
 g: act or practice of refraining from indulging an appetite
 
@@ -6337,7 +6337,7 @@ w: <<dolce_far_niente>>
 hyper: [[idleness]]
 g: carefree idleness
 
-w: <<idleness>> drf [[file:adj.all.org::idle]] drf [[file:adj.all.org::idle]]
+w: <<idleness>> drf [[file:adjs.all.org::idle]] drf [[file:adjs.all.org::idle]]
 w: <<idling>> drf [[file:verb.social.org::idle]]
 w: <<loafing>>
 hyper: [[inactivity]]
@@ -6351,9 +6351,9 @@ w: <<vegetation>> drf [[file:verb.stative.org::vegetate]] drf [[file:verb.body.o
 hyper: [[quiescence]]
 g: inactivity that is passive and monotonous, comparable to the inactivity of plant life; "their holiday was spent in sleep and vegetation"
 
-w: <<quiescence>> drf [[file:adj.all.org::quiescent]]
-w: <<quiescency>> drf [[file:adj.all.org::quiescent]]
-w: <<dormancy>> drf [[file:adj.all.org::dormant]]
+w: <<quiescence>> drf [[file:adjs.all.org::quiescent]]
+w: <<quiescency>> drf [[file:adjs.all.org::quiescent]]
+w: <<dormancy>> drf [[file:adjs.all.org::dormant]]
 w: <<sleeping1>>
 hyper: [[rest]]
 g: quiet and inactive restfulness
@@ -6363,7 +6363,7 @@ hyper: [[rest]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: a long stay in bed in the morning
 
-w: <<laziness1>> drf [[file:adj.all.org::lazy]]
+w: <<laziness1>> drf [[file:adjs.all.org::lazy]]
 hyper: [[rest]]
 g: relaxed and easy activity; "the laziness of the day helped her to relax"
 
@@ -6700,7 +6700,7 @@ w: <<money_laundering>>
 hyper: [[concealment]]
 g: concealing the source of illegally gotten money
 
-w: <<stealth>> drf [[file:adj.all.org::stealthy]]
+w: <<stealth>> drf [[file:adjs.all.org::stealthy]]
 w: <<stealing1>> drf [[file:verb.motion.org::steal]]
 hyper: [[concealment]]
 g: avoiding detection by moving carefully
@@ -6780,12 +6780,12 @@ g: the activity of spiritual or physical renewal
 
 w: <<rebirth2>>
 w: <<Renaissance>>
-w: <<Renascence>> drf [[file:adj.all.org::renascent]]
+w: <<Renascence>> drf [[file:adjs.all.org::renascent]]
 hyper: [[revival1]]
 g: the revival of learning and culture
 
 w: <<revival1>> drf [[file:verb.change.org::revive1]] drf [[file:verb.change.org::revive]]
-w: <<resurgence>> drf [[file:adj.all.org::resurgent]] drf [[file:verb.stative.org::resurge]]
+w: <<resurgence>> drf [[file:adjs.all.org::resurgent]] drf [[file:verb.stative.org::resurge]]
 w: <<revitalization>> drf [[file:verb.change.org::revitalize]]
 w: <<revitalisation>> drf [[file:verb.change.org::revitalise]]
 w: <<revivification>> drf [[file:verb.body.org::revivify]]
@@ -6909,7 +6909,7 @@ w: <<self-worship>>
 hyper: [[worship]]
 g: the worship of yourself
 
-w: <<idolatry1>> drf [[file:adj.all.org::idolatrous]]
+w: <<idolatry1>> drf [[file:adjs.all.org::idolatrous]]
 w: <<devotion2>> drf [[file:verb.communication.org::devote]]
 w: <<veneration>>
 w: <<cultism>>
@@ -7206,7 +7206,7 @@ dt: [[file:noun.group.org::Roman_Catholic]]
 dt: [[church_service]]
 g: canonical prayers recited daily by priests (e.g. the breviary of the Roman Catholic Church)
 
-w: <<office>> drf [[file:adj.all.org::official]] drf [[file:verb.social.org::officiate1]] drf [[file:verb.competition.org::officiate]]
+w: <<office>> drf [[file:adjs.all.org::official]] drf [[file:verb.social.org::officiate1]] drf [[file:verb.competition.org::officiate]]
 hyper: [[rite1]]
 g: a religious rite or service prescribed by ecclesiastical authorities; "the offices of the mass"
 
@@ -7287,7 +7287,7 @@ w: <<papism>> drf [[file:noun.person.org::papist]]
 hyper: [[practice]]
 g: offensive terms for the practices and rituals of the Roman Catholic Church
 
-w: <<orgy>> drf [[file:adj.all.org::orgiastic]] drf [[file:adj.all.org::orgiastic]]
+w: <<orgy>> drf [[file:adjs.all.org::orgiastic]] drf [[file:adjs.all.org::orgiastic]]
 hyper: [[rite1]]
 g: secret rite in the cults of ancient Greek or Roman deities involving singing and dancing and drinking and sexual activity
 
@@ -7356,7 +7356,7 @@ dr: [[file:noun.location.org::Rome]]
 dt: [[file:noun.time.org::antiquity]]
 g: a ceremonial purification of the Roman population every five years following the census
 
-w: <<ceremony>> drf [[file:adj.all.org::ceremonial]] drf [[file:adj.all.org::ceremonious]]
+w: <<ceremony>> drf [[file:adjs.all.org::ceremonial]] drf [[file:adjs.all.org::ceremonious]]
 hyper: [[activity]]
 g: the proper or conventional behavior on some solemn occasion; "an inaugural ceremony"
 
@@ -7366,7 +7366,7 @@ hyper: [[ceremony1]]
 dr: [[file:noun.location.org::Japan]]
 g: an ancient ritual for preparing and serving and drinking tea
 
-w: <<ceremony1>> drf [[file:adj.all.org::ceremonial]] drf [[file:adj.all.org::ceremonious]]
+w: <<ceremony1>> drf [[file:adjs.all.org::ceremonial]] drf [[file:adjs.all.org::ceremonious]]
 hyper: [[activity]]
 g: any activity that is performed in an especially solemn elaborate or formal way; "the ceremony of smelling the cork and tasting the wine"; "he makes a ceremony of addressing his golf ball"; "he disposed of it without ceremony"
 
@@ -7556,7 +7556,7 @@ w: <<reiteration>> drf [[file:verb.communication.org::reiterate]]
 hyper: [[repetition]]
 g: the act of repeating over and again (or an instance thereof)
 
-w: <<redundancy>> drf [[file:adj.all.org::redundant]] drf [[file:adj.all.org::redundant2]]
+w: <<redundancy>> drf [[file:adjs.all.org::redundant]] drf [[file:adjs.all.org::redundant2]]
 hyper: [[repetition]]
 g: repetition of an act needlessly
 
@@ -7788,7 +7788,7 @@ hyper: [[succession]]
 g: successive change from one thing or state to another and back again; "a trill is a rapid alternation between the two notes"
 
 w: <<succession>> drf [[file:verb.social.org::succeed1]]
-w: <<sequence>> drf [[file:adj.all.org::sequential]] drf [[file:verb.cognition.org::sequence]]
+w: <<sequence>> drf [[file:adjs.all.org::sequential]] drf [[file:verb.cognition.org::sequence]]
 hyper: [[order]]
 g: the action of following in order; "he played the trumps in sequence"
 
@@ -7941,7 +7941,7 @@ hyper: [[measurement]]
 g: measurement of the amount of radioactive material (usually carbon 14) that an object contains; can be used to estimate the age of the object
 
 w: <<divergence>> drf [[file:adj.all.org::divergent]] drf [[file:verb.motion.org::diverge]]
-w: <<divergency>> drf [[file:adj.all.org::divergent]] drf [[file:adj.all.org::divergent]] drf [[file:verb.stative.org::diverge]] drf [[file:verb.motion.org::diverge]]
+w: <<divergency>> drf [[file:adjs.all.org::divergent]] drf [[file:adj.all.org::divergent]] drf [[file:verb.stative.org::diverge]] drf [[file:verb.motion.org::diverge]]
 hyper: [[separation1]]
 g: the act of moving away in different direction from a common point; "an angle is formed by the divergence of two straight lines"
 
@@ -7950,7 +7950,7 @@ w: <<blending>>
 hyper: [[gradation]]
 g: a gradation involving small or imperceptible differences between grades
 
-w: <<gradation>> drf [[file:adj.all.org::gradational]] drf [[file:verb.contact.org::gradate]] drf [[file:verb.cognition.org::grade5]] drf [[file:verb.cognition.org::grade3]] drf [[file:verb.cognition.org::grade]]
+w: <<gradation>> drf [[file:adjs.all.org::gradational]] drf [[file:verb.contact.org::gradate]] drf [[file:verb.cognition.org::grade5]] drf [[file:verb.cognition.org::grade3]] drf [[file:verb.cognition.org::grade]]
 w: <<graduation>>
 hyper: [[quantification]]
 g: the act of arranging in grades
@@ -8789,7 +8789,7 @@ w: <<Crusade1>> drf [[file:verb.competition.org::crusade]]
 hyper: [[expedition1]]
 g: any of the more or less continuous military expeditions in the 11th to 13th centuries when Christian powers of Europe tried to recapture the Holy Land from the Muslims
 
-w: <<expedition1>> drf [[file:adj.all.org::expeditionary]]
+w: <<expedition1>> drf [[file:adjs.all.org::expeditionary]]
 w: <<military_expedition>>
 w: <<hostile_expedition>>
 hyper: [[campaign]]
@@ -8877,7 +8877,7 @@ w: <<domestic_violence>>
 hyper: [[violence1]]
 g: violence or physical abuse directed toward your spouse or domestic partner; usually violence by men against women
 
-w: <<violence1>> drf [[file:adj.all.org::violent]]
+w: <<violence1>> drf [[file:adjs.all.org::violent]]
 w: <<force1>> drf [[file:verb.contact.org::force3]]
 hyper: [[aggression]]
 g: an act of aggression (as one against a person who resists); "he may accomplish by craft in the long run what he cannot do by force and violence in the short one"
@@ -8891,12 +8891,12 @@ hyper: [[combat]]
 g: a type of armed combat in which the opposing troops fight from trenches that face each other; "instead of the war ending quickly, it became bogged down in trench warfare"
 
 w: <<hostilities1>> drf [[file:adj.all.org::hostile2]]
-w: <<belligerency>> drf [[file:adj.all.org::belligerent]]
+w: <<belligerency>> drf [[file:adjs.all.org::belligerent]]
 hyper: [[combat]]
 g: fighting; acts of overt warfare; "the outbreak of hostilities"
 
 w: <<aggression>> drf [[file:verb.competition.org::aggress]]
-w: <<hostility>> drf [[file:adj.all.org::hostile]]
+w: <<hostility>> drf [[file:adjs.all.org::hostile]]
 hyper: [[action2]]
 g: violent action that is hostile and usually unprovoked
 
@@ -8913,7 +8913,7 @@ ihyper: [[rebellion]]
 dr: [[file:noun.location.org::England]]
 g: a widespread rebellion in 1381 against poll taxes and other inequities that oppressed the poorer people of England; suppressed by Richard II
 
-w: <<mutiny>> drf [[file:noun.person.org::mutineer]] drf [[file:adj.all.org::mutinous]] drf [[file:verb.social.org::mutiny]]
+w: <<mutiny>> drf [[file:noun.person.org::mutineer]] drf [[file:adjs.all.org::mutinous]] drf [[file:verb.social.org::mutiny]]
 hyper: [[rebellion]]
 g: open rebellion against constituted authority (especially by seamen or soldiers against their officers)
 
@@ -8927,7 +8927,7 @@ w: <<intifadah>>
 hyper: [[rebellion]]
 g: an uprising by Palestinian Arabs (in both the Gaza Strip and the West Bank) against Israel in the late 1980s and again in 2000; "the first intifada ended when Israel granted limited autonomy to the Palestine National Authority in 1993"
 
-w: <<insurgency>> drf [[file:adj.all.org::insurgent]]
+w: <<insurgency>> drf [[file:adjs.all.org::insurgent]]
 w: <<insurgence>>
 hyper: [[rebellion]]
 g: an organized rebellion aimed at overthrowing a constituted government through the use of subversion and armed conflict
@@ -8944,7 +8944,7 @@ w: <<civil_war>>
 hyper: [[war]]
 g: a war between factions in the same country
 
-w: <<rebellion>> drf [[file:adj.all.org::rebellious]] drf [[file:adj.all.org::rebellious]] drf [[file:verb.social.org::rebel]]
+w: <<rebellion>> drf [[file:adjs.all.org::rebellious]] drf [[file:adjs.all.org::rebellious]] drf [[file:verb.social.org::rebel]]
 w: <<insurrection>> drf [[file:adj.pert.org::insurrectional]] drf [[file:adj.pert.org::insurrectionary]] drf [[file:noun.person.org::insurrectionist]]
 w: <<revolt>> drf [[file:verb.social.org::revolt]]
 w: <<rising>> drf [[file:verb.social.org::rise]]
@@ -10584,7 +10584,7 @@ w: <<grooming1>> drf [[file:verb.social.org::groom]]
 hyper: [[activity]]
 g: activity leading to skilled behavior
 
-w: <<discipline>> drf [[file:adj.all.org::disciplinary]]
+w: <<discipline>> drf [[file:adjs.all.org::disciplinary]]
 hyper: [[training]]
 g: training to improve strength or self-control
 
@@ -10646,8 +10646,8 @@ w: <<refresher>> drf [[file:verb.cognition.org::refresh]]
 hyper: [[course1]]
 g: a course that reviews and updates a topic for those who have not kept abreast of developments
 
-w: <<propaedeutic>> drf [[file:adj.all.org::propaedeutic]]
-w: <<propaedeutics>> drf [[file:adj.all.org::propaedeutic]]
+w: <<propaedeutic>> drf [[file:adjs.all.org::propaedeutic]]
+w: <<propaedeutics>> drf [[file:adjs.all.org::propaedeutic]]
 hyper: [[course1]]
 g: a course that provides an introduction to an art or science (or to more advanced study generally)
 
@@ -10856,11 +10856,11 @@ w: <<coeducation>>
 hyper: [[education]]
 g: education of men and women in the same institutions
 
-w: <<education>> drf [[file:adj.all.org::educational]] drf [[file:noun.person.org::educationist]] drf [[file:noun.person.org::educationalist]] drf [[file:verb.social.org::educate]] drf [[file:verb.cognition.org::educate]]
+w: <<education>> drf [[file:adjs.all.org::educational]] drf [[file:noun.person.org::educationist]] drf [[file:noun.person.org::educationalist]] drf [[file:verb.social.org::educate]] drf [[file:verb.cognition.org::educate]]
 w: <<instruction1>> drf [[file:adj.pert.org::instructional]] drf [[file:verb.communication.org::instruct]]
 w: <<teaching1>> drf [[file:verb.communication.org::teach]]
 w: <<pedagogy1>> drf [[file:adj.pert.org::pedagogic]] drf [[file:adj.pert.org::pedagogical]]
-w: <<didactics>> drf [[file:adj.all.org::didactical]]
+w: <<didactics>> drf [[file:adjs.all.org::didactical]]
 w: <<educational_activity>>
 hyper: [[activity]]
 g: the activities of educating or instructing; activities that impart knowledge or skill; "he received no formal education"; "our instruction was carefully programmed"; "good classroom teaching is seldom rewarded"
@@ -11056,7 +11056,7 @@ w: <<pleximetry>>
 hyper: [[auscultation]]
 g: tapping a part of the body for diagnostic purposes
 
-w: <<moralism>> drf [[file:adj.all.org::moralistic]] drf [[file:noun.person.org::moralist1]]
+w: <<moralism>> drf [[file:adjs.all.org::moralistic]] drf [[file:noun.person.org::moralist1]]
 hyper: [[value_judgment]]
 g: judgments about another person's morality; "he could not stand her hectoring moralism"
 
@@ -11146,7 +11146,7 @@ w: <<involution1>>
 hyper: [[mathematical_process]]
 g: the process of raising a quantity to some assigned power
 
-w: <<summation1>> drf [[file:adj.all.org::summational]] drf [[file:verb.communication.org::sum]]
+w: <<summation1>> drf [[file:adjs.all.org::summational]] drf [[file:verb.communication.org::sum]]
 w: <<addition1>> drf [[file:verb.communication.org::add]] drf [[file:verb.cognition.org::add]]
 w: <<plus>>
 hyper: [[arithmetic_operation]]
@@ -11186,7 +11186,7 @@ w: <<differentiation1>> drf [[file:verb.cognition.org::differentiate]]
 hyper: [[mathematical_process]]
 g: the mathematical process of obtaining the derivative of a function
 
-w: <<combination1>> drf [[file:adj.all.org::combinatorial]] drf [[file:verb.contact.org::combine3]] drf [[file:verb.change.org::combine2]]
+w: <<combination1>> drf [[file:adjs.all.org::combinatorial]] drf [[file:verb.contact.org::combine3]] drf [[file:verb.change.org::combine2]]
 hyper: [[mathematical_process]]
 g: the act of arranging elements into specified groups without regard to order
 
@@ -11242,8 +11242,8 @@ hyper: [[file:noun.process.org::bodily_process]]
 g: the process of shedding tears (usually accompanied by sobs or other inarticulate sounds); "I hate to hear the crying of a child"; "she was in tears"
 
 w: <<tremble>> drf [[file:verb.motion.org::tremble]]
-w: <<shiver>> drf [[file:adj.all.org::shivery]] drf [[file:verb.body.org::shiver]]
-w: <<shake>> drf [[file:adj.all.org::shaky]] drf [[file:verb.body.org::shake]]
+w: <<shiver>> drf [[file:adjs.all.org::shivery]] drf [[file:verb.body.org::shiver]]
+w: <<shake>> drf [[file:adjs.all.org::shaky]] drf [[file:verb.body.org::shake]]
 hyper: [[reflex]]
 g: a reflex motion caused by cold or fear or excitement
 
@@ -11347,7 +11347,7 @@ w: <<conditioned_response>>
 hyper: [[learned_reaction]]
 g: an acquired response that is under the control of (conditional on the occurrence of) a stimulus
 
-w: <<reflex>> drf [[file:adj.all.org::reflex]]
+w: <<reflex>> drf [[file:adjs.all.org::reflex]]
 w: <<reflex_response>>
 w: <<reflex_action>>
 w: <<instinctive_reflex>>
@@ -11362,7 +11362,7 @@ w: <<double_take>>
 hyper: [[reaction]]
 g: a delayed reaction indicating surprise
 
-w: <<kinesis>> drf [[file:adj.all.org::kinetic]] drf [[file:adj.pert.org::kinetic]]
+w: <<kinesis>> drf [[file:adjs.all.org::kinetic]] drf [[file:adj.pert.org::kinetic]]
 hyper: [[reaction]]
 g: a movement that is a response to a stimulus but is not oriented with respect to the source of stimulation
 
@@ -11472,7 +11472,7 @@ hyper: [[file:noun.process.org::bodily_process]]
 g: a bodily process occurring due to the effect of some antecedent stimulus or agent; "a bad reaction to the medicine"; "his responses have slowed with age"
 
 w: <<doze>> drf [[file:verb.body.org::doze]]
-w: <<drowse>> drf [[file:adj.all.org::drowsy]] drf [[file:verb.body.org::drowse]] drf [[file:verb.body.org::drowse1]]
+w: <<drowse>> drf [[file:adjs.all.org::drowsy]] drf [[file:verb.body.org::drowse]] drf [[file:verb.body.org::drowse1]]
 hyper: [[sleeping]]
 g: a light fitful sleep
 
@@ -11512,11 +11512,11 @@ g: sexual relations between a man and a boy (usually anal intercourse with the b
 
 w: <<heterosexuality>> drf [[file:adj.all.org::heterosexual]]
 w: <<heterosexualism>>
-w: <<straightness>> drf [[file:adj.all.org::straight]]
+w: <<straightness>> drf [[file:adjs.all.org::straight]]
 hyper: [[sexual_activity]]
 g: a sexual attraction to (or sexual relations with) persons of the opposite sex
 
-w: <<tribadism>> drf [[file:adj.all.org::tribadistic]]
+w: <<tribadism>> drf [[file:adjs.all.org::tribadistic]]
 hyper: [[lesbianism]]
 g: a form of lesbianism that simulates heterosexual intercourse
 
@@ -11536,13 +11536,13 @@ g: sexual activity with both men and women
 
 w: <<homosexuality>> drf [[file:adj.all.org::homosexual]]
 w: <<homosexualism>>
-w: <<homoeroticism>> drf [[file:adj.all.org::homoerotic]]
-w: <<queerness>> drf [[file:adj.all.org::queer]]
-w: <<gayness>> drf [[file:adj.all.org::gay]]
+w: <<homoeroticism>> drf [[file:adjs.all.org::homoerotic]]
+w: <<queerness>> drf [[file:adjs.all.org::queer]]
+w: <<gayness>> drf [[file:adjs.all.org::gay]]
 hyper: [[sexual_activity]]
 g: a sexual attraction to (or sexual relations with) persons of the same sex
 
-w: <<lechery>> drf [[file:adj.all.org::lecherous]]
+w: <<lechery>> drf [[file:adjs.all.org::lecherous]]
 hyper: [[sexual_activity]]
 g: unrestrained indulgence in sexual activity
 
@@ -11550,8 +11550,8 @@ w: <<one-night_stand1>>
 hyper: [[promiscuity]]
 g: a brief sexual encounter lasting only for a single night; "he ran through a series of loveless one-night stands"
 
-w: <<promiscuity>> drf [[file:adj.all.org::promiscuous]]
-w: <<promiscuousness>> drf [[file:adj.all.org::promiscuous]]
+w: <<promiscuity>> drf [[file:adjs.all.org::promiscuous]]
+w: <<promiscuousness>> drf [[file:adjs.all.org::promiscuous]]
 w: <<sleeping_around>>
 hyper: [[sexual_activity]]
 g: indulging in promiscuous (casual and indiscriminate) sexual relations
@@ -11578,7 +11578,7 @@ w: <<onanism>> drf [[file:noun.person.org::onanist]]
 hyper: [[autoeroticism]]
 g: manual stimulation of the genital organs (of yourself or another) for sexual pleasure
 
-w: <<autoeroticism>> drf [[file:adj.all.org::autoerotic]]
+w: <<autoeroticism>> drf [[file:adjs.all.org::autoerotic]]
 w: <<autoerotism>>
 hyper: [[sexual_activity]]
 g: using you own body as a sexual object
@@ -11769,7 +11769,7 @@ w: <<fornication>> drf [[file:verb.contact.org::fornicate]]
 hyper: [[extramarital_sex]]
 g: voluntary sexual intercourse between persons not married to each other
 
-w: <<adultery>> drf [[file:adj.all.org::adulterous]] drf [[file:adj.all.org::adulterous]] drf [[file:noun.person.org::adulterer]]
+w: <<adultery>> drf [[file:adjs.all.org::adulterous]] drf [[file:adjs.all.org::adulterous]] drf [[file:noun.person.org::adulterer]]
 w: <<criminal_conversation>>
 w: <<fornication1>>
 hyper: [[extramarital_sex]]
@@ -12084,7 +12084,7 @@ g: a slow inhalation (as of tobacco smoke); "he took a puff on his pipe"; "he to
 w: <<yawn>> drf [[file:verb.body.org::yawn]]
 w: <<yawning>> drf [[file:verb.body.org::yawn]]
 w: <<oscitance>>
-w: <<oscitancy>> drf [[file:adj.all.org::oscitant]]
+w: <<oscitancy>> drf [[file:adjs.all.org::oscitant]]
 hyper: [[reflex]]
 g: an involuntary intake of breath through a wide open mouth; usually triggered by fatigue or boredom; "he could not suppress a yawn"; "the yawning in the audience told him it was time to stop"; "he apologized for his oscitancy"
 
@@ -12110,19 +12110,19 @@ w: <<wind1>>
 hyper: [[exhalation]]
 g: breath; "the collision knocked the wind out of him"
 
-w: <<wheeze>> drf [[file:adj.all.org::wheezy]] drf [[file:verb.body.org::wheeze]]
+w: <<wheeze>> drf [[file:adjs.all.org::wheezy]] drf [[file:verb.body.org::wheeze]]
 hyper: [[breathing]]
 g: breathing with a husky or whistling sound
 
-w: <<snuffle>> drf [[file:adj.all.org::snuffly]] drf [[file:verb.body.org::snuffle1]] drf [[file:verb.body.org::snuffle]]
-w: <<sniffle>> drf [[file:adj.all.org::sniffly]] drf [[file:verb.body.org::sniffle]]
+w: <<snuffle>> drf [[file:adjs.all.org::snuffly]] drf [[file:verb.body.org::snuffle1]] drf [[file:verb.body.org::snuffle]]
+w: <<sniffle>> drf [[file:adjs.all.org::sniffly]] drf [[file:verb.body.org::sniffle]]
 w: <<snivel1>> drf [[file:verb.body.org::snivel]]
 hyper: [[breathing]]
 g: the act of breathing heavily through the nose (as when the nose is congested)
 
 w: <<snore>> drf [[file:verb.body.org::snore]]
 w: <<snoring>> drf [[file:verb.body.org::snore]]
-w: <<stertor>> drf [[file:adj.all.org::stertorous]]
+w: <<stertor>> drf [[file:adjs.all.org::stertorous]]
 hyper: [[breathing]]
 g: the act of snoring or producing a snoring sound
 
@@ -12448,7 +12448,7 @@ w: <<security_measures>>
 hyper: [[precaution]]
 g: measures taken as a precaution against theft or espionage or sabotage etc.; "military security has been stepped up since the recent uprising"
 
-w: <<precaution>> drf [[file:adj.all.org::precautionary]]
+w: <<precaution>> drf [[file:adjs.all.org::precautionary]]
 w: <<safeguard>> drf [[file:verb.competition.org::safeguard]]
 w: <<guard3>>
 hyper: [[measure1]]
@@ -12549,7 +12549,7 @@ hyper: [[protection]]
 g: the activity of protecting something from loss or danger
 
 w: <<hands>>
-w: <<custody2>> drf [[file:adj.all.org::custodial]]
+w: <<custody2>> drf [[file:adjs.all.org::custodial]]
 hyper: [[guardianship]]
 g: (with `in') guardianship over; in divorce cases it is the right to house and care for and discipline a child; "my fate is in your hands"; "too much power in the president's hands"; "your guests are now in my custody"; "the mother was awarded custody of the children"
 
@@ -12693,7 +12693,7 @@ w: <<hold>> drf [[file:verb.contact.org::hold]]
 hyper: [[grasping]]
 g: the act of grasping; "he released his clasp on my arm"; "he has a strong grip for an old man"; "she kept a firm hold on the railing"
 
-w: <<grasping>> drf [[file:adj.all.org::grasping]] drf [[file:verb.contact.org::grasp]]
+w: <<grasping>> drf [[file:adjs.all.org::grasping]] drf [[file:verb.contact.org::grasp]]
 w: <<taking_hold>>
 w: <<seizing>> drf [[file:verb.contact.org::seize]]
 w: <<prehension>> drf [[file:verb.contact.org::prehend]]
@@ -12915,7 +12915,7 @@ hyper: [[activity]]
 g: the activity of managing or exerting control over something; "the control of the mob by the police was admirable"
 
 w: <<doubling1>> drf [[file:verb.change.org::double]]
-w: <<double1>> drf [[file:adj.all.org::double1]] drf [[file:verb.possession.org::double3]]
+w: <<double1>> drf [[file:adjs.all.org::double1]] drf [[file:verb.possession.org::double3]]
 hyper: [[raise1]]
 hp: [[card_game]]
 g: raising the stakes in a card game by a factor of 2; "I decided his double was a bluff"
@@ -12938,12 +12938,12 @@ hyper: [[risk]]
 du: [[file:noun.communication.org::colloquialism]]
 g: a risky and uncertain venture; "getting admitted to the college of your choice has become a crapshoot"
 
-w: <<chance>> drf [[file:adj.all.org::chancy]] drf [[file:verb.social.org::chance]]
+w: <<chance>> drf [[file:adjs.all.org::chancy]] drf [[file:verb.social.org::chance]]
 hyper: [[risk]]
 g: a risk involving danger; "you take a chance when you let her drive"
 
-w: <<risk>> drf [[file:adj.all.org::risky]] drf [[file:adj.all.org::risky]] drf [[file:verb.social.org::risk1]] drf [[file:verb.social.org::risk]]
-w: <<peril>> drf [[file:adj.all.org::perilous]] drf [[file:verb.communication.org::peril]]
+w: <<risk>> drf [[file:adjs.all.org::risky]] drf [[file:adjs.all.org::risky]] drf [[file:verb.social.org::risk1]] drf [[file:verb.social.org::risk]]
+w: <<peril>> drf [[file:adjs.all.org::perilous]] drf [[file:verb.communication.org::peril]]
 w: <<danger>>
 hyper: [[venture]]
 g: a venture undertaken without regard to possible loss or injury; "he saw the rewards but not the risks of crime"; "there was a danger he would do the wrong thing"
@@ -13274,7 +13274,7 @@ g: an energetic attempt to achieve something; "getting through the crowd was a r
 w: <<striving>> drf [[file:verb.social.org::strive]]
 w: <<nisus>>
 w: <<pains>>
-w: <<strain>> drf [[file:adj.all.org::strenuous]] drf [[file:verb.consumption.org::strain]] drf [[file:verb.competition.org::strain]]
+w: <<strain>> drf [[file:adjs.all.org::strenuous]] drf [[file:verb.consumption.org::strain]] drf [[file:verb.competition.org::strain]]
 hyper: [[attempt]]
 g: an effortful attempt to attain a goal
 
@@ -13460,7 +13460,7 @@ w: <<vice_crime>>
 hyper: [[crime]]
 g: a vice that is illegal
 
-w: <<treason>> drf [[file:adj.all.org::treasonous]] drf [[file:noun.person.org::treasonist]]
+w: <<treason>> drf [[file:adjs.all.org::treasonous]] drf [[file:noun.person.org::treasonist]]
 w: <<high_treason>>
 w: <<lese_majesty>>
 hyper: [[crime]]
@@ -13635,7 +13635,7 @@ w: <<seizure2>> drf [[file:verb.contact.org::seize1]]
 hyper: [[felony]]
 g: the act of taking of a person by force
 
-w: <<bigamy>> drf [[file:adj.all.org::bigamous]] drf [[file:noun.person.org::bigamist]]
+w: <<bigamy>> drf [[file:adjs.all.org::bigamous]] drf [[file:noun.person.org::bigamist]]
 hyper: [[statutory_offense]]
 g: the offense of marrying someone while you have a living spouse from whom no valid divorce has occurred
 
@@ -13693,7 +13693,7 @@ w: <<molestation1>> drf [[file:verb.social.org::molest]]
 hyper: [[sexual_assault]]
 g: the act of subjecting someone to unwanted or improper sexual advances or activity (especially women or children)
 
-w: <<sedition>> drf [[file:adj.all.org::seditious]] drf [[file:adj.all.org::seditious]]
+w: <<sedition>> drf [[file:adjs.all.org::seditious]] drf [[file:adjs.all.org::seditious]]
 hyper: [[misdemeanor]]
 dt: [[file:noun.group.org::law]]
 g: an illegal action inciting resistance to lawful authority and tending to cause the disruption or overthrow of the government
@@ -13794,7 +13794,7 @@ hyper: [[falsification]]
 hyper: [[crime]]
 g: criminal falsification by making or altering an instrument with intent to defraud
 
-w: <<felony>> drf [[file:adj.all.org::felonious]]
+w: <<felony>> drf [[file:adjs.all.org::felonious]]
 hyper: [[crime]]
 g: a serious crime (such as murder or arson)
 
@@ -13823,11 +13823,11 @@ w: <<inside_job>>
 hyper: [[transgression]]
 g: some transgression committed with the assistance of someone trusted by the victim; "the police decided that the crime was an inside job"
 
-w: <<crime1>> drf [[file:adj.all.org::criminal]] drf [[file:verb.stative.org::incriminate]]
+w: <<crime1>> drf [[file:adjs.all.org::criminal]] drf [[file:verb.stative.org::incriminate]]
 hyper: [[transgression]]
 g: an evil act not necessarily punishable by law; "crimes of the heart"
 
-w: <<crime>> drf [[file:adj.all.org::criminal]] drf [[file:verb.communication.org::criminate]] drf [[file:verb.stative.org::incriminate]] drf [[file:verb.communication.org::incriminate]] drf [[file:verb.social.org::criminalise]]
+w: <<crime>> drf [[file:adjs.all.org::criminal]] drf [[file:verb.communication.org::criminate]] drf [[file:verb.stative.org::incriminate]] drf [[file:verb.communication.org::incriminate]] drf [[file:verb.social.org::criminalise]]
 w: <<offense1>> drf [[file:verb.social.org::offend]]
 w: <<criminal_offense>>
 w: <<criminal_offence>>
@@ -13924,7 +13924,7 @@ w: <<terror>>
 hyper: [[coercion1]]
 g: the use of extreme fear in order to coerce people (especially for political reasons); "he used terror to make them confess"
 
-w: <<lust>> drf [[file:adj.all.org::lusty]] drf [[file:verb.consumption.org::lust]]
+w: <<lust>> drf [[file:adjs.all.org::lusty]] drf [[file:verb.consumption.org::lust]]
 w: <<luxuria>>
 hyper: [[mortal_sin]]
 g: self-indulgent sexual desire (personified as one of the deadly sins)
@@ -13943,20 +13943,20 @@ hyper: [[mortal_sin]]
 g: belligerence aroused by a real or supposed wrong (personified as one of the deadly sins)
 
 w: <<sloth>>
-w: <<laziness>> drf [[file:adj.all.org::lazy]]
+w: <<laziness>> drf [[file:adjs.all.org::lazy]]
 w: <<acedia>>
 hyper: [[mortal_sin]]
 g: apathy and inactivity in the practice of virtue (personified as one of the deadly sins)
 
-w: <<avarice>> drf [[file:adj.all.org::avaricious]]
-w: <<greed>> drf [[file:adj.all.org::greedy]]
-w: <<covetousness>> drf [[file:adj.all.org::covetous]]
-w: <<rapacity>> drf [[file:adj.all.org::rapacious]]
+w: <<avarice>> drf [[file:adjs.all.org::avaricious]]
+w: <<greed>> drf [[file:adjs.all.org::greedy]]
+w: <<covetousness>> drf [[file:adjs.all.org::covetous]]
+w: <<rapacity>> drf [[file:adjs.all.org::rapacious]]
 w: <<avaritia>>
 hyper: [[mortal_sin]]
 g: reprehensible acquisitiveness; insatiable desire for wealth (personified as one of the deadly sins)
 
-w: <<envy>> drf [[file:adj.all.org::envious]] drf [[file:verb.emotion.org::envy]]
+w: <<envy>> drf [[file:adjs.all.org::envious]] drf [[file:verb.emotion.org::envy]]
 w: <<invidia>>
 hyper: [[mortal_sin]]
 g: spite and resentment at seeing the success of another (personified as one of the deadly sins)
@@ -14030,13 +14030,13 @@ w: <<affectedness>>
 hyper: [[pretense]]
 g: a deliberate pretense or exaggerated display
 
-w: <<make-believe>> drf [[file:adj.all.org::make-believe]] drf [[file:verb.communication.org::make_believe1]]
+w: <<make-believe>> drf [[file:adjs.all.org::make-believe]] drf [[file:verb.communication.org::make_believe1]]
 w: <<pretend>> drf [[file:verb.communication.org::pretend1]]
 hyper: [[pretense]]
 g: the enactment of a pretense; "it was just pretend"
 
 w: <<appearance2>>
-w: <<show1>> drf [[file:adj.all.org::showy]]
+w: <<show1>> drf [[file:adjs.all.org::showy]]
 hyper: [[pretense]]
 g: pretending that something is the case in order to make a good impression; "they try to keep up appearances"; "that ceremony is just for show"
 
@@ -14049,7 +14049,7 @@ hyper: [[deception]]
 g: the act of giving a false appearance; "his conformity was only pretending"
 
 w: <<delusion>> drf [[file:verb.social.org::delude]]
-w: <<illusion>> drf [[file:adj.all.org::illusional]] drf [[file:adj.all.org::illusionary]]
+w: <<illusion>> drf [[file:adjs.all.org::illusional]] drf [[file:adjs.all.org::illusionary]]
 w: <<head_game>>
 hyper: [[deception]]
 g: the act of deluding; deception by creating illusory ideas
@@ -14078,7 +14078,7 @@ du: [[file:noun.communication.org::trope]]
 g: anything that is supposed to be valuable but turns out to be worthless
 
 w: <<fraud1>>
-w: <<fraudulence>> drf [[file:adj.all.org::fraudulent]]
+w: <<fraudulence>> drf [[file:adjs.all.org::fraudulent]]
 w: <<dupery>> drf [[file:verb.communication.org::dupe]]
 w: <<hoax>> drf [[file:verb.social.org::hoax]]
 w: <<humbug>> drf [[file:verb.social.org::humbug]]
@@ -14090,8 +14090,8 @@ w: <<sophistication>> drf [[file:verb.communication.org::sophisticate]]
 hyper: [[falsification]]
 g: falsification by the use of sophistry; misleading by means of specious fallacies; "he practiced the art of sophistication upon reason"
 
-w: <<duplicity>> drf [[file:adj.all.org::duplicitous]]
-w: <<double-dealing>> drf [[file:adj.all.org::double-dealing]]
+w: <<duplicity>> drf [[file:adjs.all.org::duplicitous]]
+w: <<double-dealing>> drf [[file:adjs.all.org::double-dealing]]
 hyper: [[deception]]
 g: acting in bad faith; deception by pretending to entertain one set of intentions while acting under the influence of another
 
@@ -14099,7 +14099,7 @@ w: <<trickery1>> drf [[file:verb.social.org::trick]]
 w: <<chicanery>> drf [[file:verb.competition.org::chicane]]
 w: <<chicane>> drf [[file:verb.competition.org::chicane]]
 w: <<guile>>
-w: <<wile>> drf [[file:adj.all.org::wily]]
+w: <<wile>> drf [[file:adjs.all.org::wily]]
 w: <<shenanigan1>>
 hyper: [[deception]]
 g: the use of tricks to deceive someone (usually to extract money from them)
@@ -14162,7 +14162,7 @@ w: <<trick4>> drf [[file:noun.person.org::trickster1]]
 hyper: [[dishonesty]]
 g: an attempt to get you to do something foolish or imprudent; "that offer was a dirty trick"
 
-w: <<plagiarism>> drf [[file:adj.all.org::plagiaristic]] drf [[file:noun.person.org::plagiarist]] drf [[file:verb.possession.org::plagiarize]] drf [[file:verb.possession.org::plagiarise]]
+w: <<plagiarism>> drf [[file:adjs.all.org::plagiaristic]] drf [[file:noun.person.org::plagiarist]] drf [[file:verb.possession.org::plagiarize]] drf [[file:verb.possession.org::plagiarise]]
 w: <<plagiarization>> drf [[file:verb.possession.org::plagiarize]]
 w: <<plagiarisation>> drf [[file:verb.possession.org::plagiarise]]
 w: <<piracy1>> drf [[file:adj.pert.org::piratical1]] drf [[file:verb.possession.org::pirate]]
@@ -14183,10 +14183,10 @@ w: <<double-crossing>> drf [[file:verb.social.org::double_cross]]
 hyper: [[treachery]]
 g: an act of betrayal; "he gave us the old double cross"; "I could no longer tolerate his impudent double-crossing"
 
-w: <<treachery>> drf [[file:adj.all.org::treacherous]]
+w: <<treachery>> drf [[file:adjs.all.org::treacherous]]
 w: <<betrayal>> drf [[file:verb.social.org::betray]]
 w: <<treason1>> drf [[file:noun.person.org::treasonist]]
-w: <<perfidy>> drf [[file:adj.all.org::perfidious]]
+w: <<perfidy>> drf [[file:adjs.all.org::perfidious]]
 hyper: [[dishonesty]]
 g: an act of deliberate betrayal
 
@@ -14221,15 +14221,15 @@ w: <<drink>> drf [[file:verb.consumption.org::drink2]] drf [[file:verb.consumpti
 w: <<drinking1>> drf [[file:verb.consumption.org::drink2]] drf [[file:verb.consumption.org::drink1]]
 w: <<boozing>>
 w: <<drunkenness>>
-w: <<crapulence>> drf [[file:adj.all.org::crapulous2]] drf [[file:adj.all.org::crapulous1]] drf [[file:adj.all.org::crapulent]]
+w: <<crapulence>> drf [[file:adjs.all.org::crapulous2]] drf [[file:adjs.all.org::crapulous1]] drf [[file:adjs.all.org::crapulent]]
 hyper: [[intemperance1]]
 g: the act of drinking alcoholic beverages to excess; "drink was his downfall"
 
 w: <<profligacy>>
 w: <<dissipation1>> drf [[file:verb.stative.org::dissipate4]]
 w: <<dissolution3>>
-w: <<licentiousness>> drf [[file:adj.all.org::licentious]]
-w: <<looseness>> drf [[file:adj.all.org::loose]]
+w: <<licentiousness>> drf [[file:adjs.all.org::licentious]]
+w: <<looseness>> drf [[file:adjs.all.org::loose]]
 hyper: [[intemperance]]
 g: dissolute indulgence in sensual pleasure
 
@@ -14240,13 +14240,13 @@ hyper: [[vice_crime]]
 g: offering sexual intercourse for pay
 
 w: <<intemperance1>>
-w: <<intemperateness1>> drf [[file:adj.all.org::intemperate]]
+w: <<intemperateness1>> drf [[file:adjs.all.org::intemperate]]
 hyper: [[vice]]
 g: consumption of alcoholic drinks
 
 w: <<intemperance>>
-w: <<intemperateness>> drf [[file:adj.all.org::intemperate]] drf [[file:adj.all.org::intemperate]]
-w: <<self-indulgence>> drf [[file:adj.all.org::self-indulgent]]
+w: <<intemperateness>> drf [[file:adjs.all.org::intemperate]] drf [[file:adj.all.org::intemperate]]
+w: <<self-indulgence>> drf [[file:adjs.all.org::self-indulgent]]
 hyper: [[indulgence]]
 g: excess in action and immoderate indulgence of bodily appetites, especially in passion or indulgence; "the intemperance of their language"
 
@@ -14256,15 +14256,15 @@ w: <<kiddy_porn>>
 hyper: [[pornography]]
 g: the illegal use of children in pornographic pictures or films
 
-w: <<pornography>> drf [[file:adj.all.org::pornographic]] drf [[file:noun.person.org::pornographer]]
+w: <<pornography>> drf [[file:adjs.all.org::pornographic]] drf [[file:noun.person.org::pornographer]]
 w: <<porno>>
 w: <<porn>>
 w: <<erotica>>
-w: <<smut>> drf [[file:adj.all.org::smutty]] drf [[file:verb.change.org::smut2]]
+w: <<smut>> drf [[file:adjs.all.org::smutty]] drf [[file:verb.change.org::smut2]]
 hyper: [[creation]]
 g: creative activity (writing or pictures or films etc.) of no literary or artistic value other than to stimulate sexual desire
 
-w: <<vice>> drf [[file:adj.all.org::vicious]]
+w: <<vice>> drf [[file:adjs.all.org::vicious]]
 hyper: [[transgression]]
 g: a specific form of evildoing; "vice offends the moral standards of the community"
 
@@ -14275,8 +14275,8 @@ g: a corrupt or depraved or degenerate act or practice; "the various turpitudes 
 
 w: <<profanation>> drf [[file:verb.social.org::profane]]
 w: <<desecration>> drf [[file:verb.social.org::desecrate]]
-w: <<blasphemy>> drf [[file:adj.all.org::blasphemous]]
-w: <<sacrilege>> drf [[file:adj.all.org::sacrilegious]]
+w: <<blasphemy>> drf [[file:adjs.all.org::blasphemous]]
+w: <<sacrilege>> drf [[file:adjs.all.org::sacrilegious]]
 hyper: [[irreverence]]
 g: blasphemous behavior; the act of depriving something of its sacred character; "desecration of the Holy Sabbath"
 
@@ -14309,7 +14309,7 @@ g: a criminal or vicious act
 w: <<evil>>
 w: <<immorality>>
 w: <<wickedness>> drf [[file:adj.all.org::wicked]]
-w: <<iniquity>> drf [[file:adj.all.org::iniquitous]]
+w: <<iniquity>> drf [[file:adjs.all.org::iniquitous]]
 hyper: [[transgression]]
 g: morally objectionable behavior
 
@@ -14333,7 +14333,7 @@ g: an act causing pain or damage
 w: <<injustice>>
 w: <<unfairness>> drf [[file:adj.all.org::unfair]]
 w: <<iniquity1>>
-w: <<shabbiness>> drf [[file:adj.all.org::shabby]]
+w: <<shabbiness>> drf [[file:adjs.all.org::shabby]]
 hyper: [[wrongdoing]]
 g: an unjust act
 
@@ -14360,9 +14360,9 @@ w: <<squandering>> drf [[file:verb.consumption.org::squander]]
 hyper: [[waste]]
 g: spending resources lavishly and wastefully; "more wasteful than the squandering of time"
 
-w: <<extravagance>> drf [[file:adj.all.org::extravagant]]
-w: <<prodigality>> drf [[file:adj.all.org::prodigal]]
-w: <<lavishness>> drf [[file:adj.all.org::lavish]]
+w: <<extravagance>> drf [[file:adjs.all.org::extravagant]]
+w: <<prodigality>> drf [[file:adjs.all.org::prodigal]]
+w: <<lavishness>> drf [[file:adjs.all.org::lavish]]
 w: <<highlife>>
 w: <<high_life>>
 hyper: [[waste]]
@@ -14386,7 +14386,7 @@ hyper: [[waste]]
 g: a useless effort
 
 w: <<waste>> drf [[file:verb.possession.org::waste]] drf [[file:verb.consumption.org::waste5]] drf [[file:verb.consumption.org::waste]]
-w: <<wastefulness3>> drf [[file:adj.all.org::wasteful]] drf [[file:adj.all.org::wasteful]]
+w: <<wastefulness3>> drf [[file:adjs.all.org::wasteful]] drf [[file:adjs.all.org::wasteful]]
 w: <<dissipation2>> drf [[file:verb.consumption.org::dissipate]]
 hyper: [[activity]]
 g: useless or profitless activity; using or expending or consuming thoughtlessly or carelessly; "if the effort brings no compensating gain it is a waste"; "mindless dissipation of natural resources"
@@ -14493,7 +14493,7 @@ w: <<peccadillo>>
 hyper: [[misbehavior]]
 g: a petty misdeed
 
-w: <<obscenity>> drf [[file:adj.all.org::obscene]]
+w: <<obscenity>> drf [[file:adjs.all.org::obscene]]
 hyper: [[indecency1]]
 g: an obscene act
 
@@ -14525,18 +14525,18 @@ w: <<paraphilia>>
 hyper: [[perversion1]]
 g: abnormal sexual activity
 
-w: <<indecency1>> drf [[file:adj.all.org::indecent]] drf [[file:adj.all.org::indecent]] drf [[file:adj.all.org::indecent]]
+w: <<indecency1>> drf [[file:adjs.all.org::indecent]] drf [[file:adjs.all.org::indecent]] drf [[file:adj.all.org::indecent]]
 w: <<impropriety1>>
 hyper: [[misbehavior]]
 g: an indecent or improper act
 
 w: <<deviation>> drf [[file:verb.stative.org::deviate]]
-w: <<deviance>> drf [[file:adj.all.org::deviant]] drf [[file:adj.all.org::deviate]]
+w: <<deviance>> drf [[file:adjs.all.org::deviant]] drf [[file:adjs.all.org::deviate]]
 hyper: [[abnormality]]
 g: deviate behavior
 
 w: <<abnormality>> drf [[file:adj.all.org::abnormal]]
-w: <<irregularity>> drf [[file:adj.all.org::irregular]] drf [[file:adj.all.org::irregular]]
+w: <<irregularity>> drf [[file:adjs.all.org::irregular]] drf [[file:adj.all.org::irregular]]
 hyper: [[misbehavior]]
 g: behavior that breaches the rule or etiquette or custom or morality
 
@@ -14560,15 +14560,15 @@ w: <<blaze>>
 hyper: [[mischief]]
 g: noisy and unrestrained mischief; "raising blazes"
 
-w: <<mischief>> drf [[file:adj.all.org::mischievous]]
+w: <<mischief>> drf [[file:adjs.all.org::mischievous]]
 w: <<mischief-making>>
-w: <<mischievousness>> drf [[file:adj.all.org::mischievous]]
+w: <<mischievousness>> drf [[file:adjs.all.org::mischievous]]
 w: <<deviltry1>> drf [[file:verb.emotion.org::devil]]
 w: <<devilry1>> drf [[file:verb.emotion.org::devil]]
 w: <<devilment>> drf [[file:verb.emotion.org::devil]]
 w: <<rascality>>
 w: <<roguery>>
-w: <<roguishness>> drf [[file:adj.all.org::roguish]]
+w: <<roguishness>> drf [[file:adjs.all.org::roguish]]
 w: <<shenanigan>>
 hyper: [[misbehavior]]
 g: reckless or malicious behavior that causes discomfort or annoyance in others
@@ -14995,7 +14995,7 @@ w: <<chore>>
 hyper: [[duty2]]
 g: a specific piece of work required to be done as a duty or for a specific fee; "estimates of the city's loss on that job ranged as high as a million dollars"; "the job of repairing the engine took several hours"; "the endless task of classifying the samples"; "the farmer's morning chores"
 
-w: <<duty2>> drf [[file:adj.all.org::duteous]]
+w: <<duty2>> drf [[file:adjs.all.org::duteous]]
 hyper: [[work]]
 g: work that you are obliged to perform for moral or legal reasons; "the duties of the job"
 
@@ -16042,7 +16042,7 @@ w: <<cataract_surgery>>
 hyper: [[eye_operation]]
 g: eye surgery that involves removing all or part of the lens and replacing it with an intraocular lens implant
 
-w: <<incision>> drf [[file:adj.all.org::incisive]] drf [[file:verb.contact.org::incise]]
+w: <<incision>> drf [[file:adjs.all.org::incisive]] drf [[file:verb.contact.org::incise]]
 w: <<section>>
 w: <<surgical_incision>>
 hyper: [[cut2]]
@@ -16079,7 +16079,7 @@ w: <<hypophysectomy>> drf [[file:verb.change.org::hypophysectomize]] drf [[file:
 hyper: [[ablation]]
 g: surgical removal of the pituitary gland
 
-w: <<hemostasis>> drf [[file:adj.all.org::hemostatic]]
+w: <<hemostasis>> drf [[file:adjs.all.org::hemostatic]]
 w: <<haemostasis>>
 w: <<hemostasia>>
 w: <<haemostasia>>
@@ -16555,7 +16555,7 @@ w: <<baby_sitting>>
 hyper: [[care1]]
 g: the work of a baby sitter; caring for children when their parents are not home
 
-w: <<maternalism>> drf [[file:adj.all.org::maternalistic]]
+w: <<maternalism>> drf [[file:adjs.all.org::maternalistic]]
 hyper: [[care1]]
 g: motherly care; behavior characteristic of a mother; the practice of acting as a mother does toward her children
 
@@ -16661,7 +16661,7 @@ w: <<collation1>> drf [[file:verb.cognition.org::collate]]
 hyper: [[comparison]]
 g: careful examination and comparison to note points of disagreement
 
-w: <<analogy>> drf [[file:adj.all.org::analogous]] drf [[file:noun.person.org::analogist]] drf [[file:adj.all.org::analogical]] drf [[file:verb.cognition.org::analogize]] drf [[file:verb.cognition.org::analogise]]
+w: <<analogy>> drf [[file:adjs.all.org::analogous]] drf [[file:noun.person.org::analogist]] drf [[file:adjs.all.org::analogical]] drf [[file:verb.cognition.org::analogize]] drf [[file:verb.cognition.org::analogise]]
 hyper: [[comparison]]
 g: drawing a comparison in order to show a similarity in some respect; "the operation of a computer presents and interesting analogy to the working of the brain"; "the models show by analogy how matter is built up"
 
@@ -17311,7 +17311,7 @@ w: <<workout>> drf [[file:verb.body.org::work_out]] drf [[file:verb.body.org::wo
 hyper: [[effort1]]
 g: the activity of exerting your muscles in various ways to keep fit; "the doctor recommended regular exercise"; "he did some exercising"; "the physical exertion required by his work kept him fit"
 
-w: <<strain2>> drf [[file:adj.all.org::strenuous]] drf [[file:verb.consumption.org::strain]] drf [[file:verb.emotion.org::strain]] drf [[file:verb.competition.org::strain]]
+w: <<strain2>> drf [[file:adjs.all.org::strenuous]] drf [[file:verb.consumption.org::strain]] drf [[file:verb.emotion.org::strain]] drf [[file:verb.competition.org::strain]]
 w: <<straining1>> drf [[file:verb.consumption.org::strain]]
 hyper: [[effort1]]
 g: an intense or violent exertion
@@ -17406,7 +17406,7 @@ w: <<strikebreaking>>
 hyper: [[confrontation]]
 g: confrontational activities intended to break up a strike by workers
 
-w: <<labor>> drf [[file:adj.all.org::laborious]] drf [[file:verb.social.org::labor]]
+w: <<labor>> drf [[file:adjs.all.org::laborious]] drf [[file:verb.social.org::labor]]
 w: <<labour>> drf [[file:verb.social.org::labour1]] drf [[file:verb.social.org::labour]]
 w: <<toil>> drf [[file:verb.social.org::toil]]
 hyper: [[work]]
@@ -17503,7 +17503,7 @@ hyper: [[trade]]
 g: the shoemaker's trade
 
 w: <<pyrotechnics>> drf [[file:adj.pert.org::pyrotechnical]]
-w: <<pyrotechny>> drf [[file:adj.all.org::pyrotechnic]] drf [[file:adj.pert.org::pyrotechnic]] drf [[file:adj.pert.org::pyrotechnical]]
+w: <<pyrotechny>> drf [[file:adjs.all.org::pyrotechnic]] drf [[file:adj.pert.org::pyrotechnic]] drf [[file:adj.pert.org::pyrotechnical]]
 hyper: [[trade]]
 g: the craft of making fireworks
 
@@ -17969,7 +17969,7 @@ w: <<residency1>>
 hyper: [[position1]]
 g: the position of physician who is receiving special training in a hospital (usually after completing an internship)
 
-w: <<regency>> drf [[file:adj.all.org::regent]]
+w: <<regency>> drf [[file:adjs.all.org::regent]]
 hyper: [[position1]]
 g: the office of a regent
 
@@ -18152,7 +18152,7 @@ w: <<inspectorship>> drf [[file:noun.person.org::inspector1]] drf [[file:noun.pe
 hyper: [[position1]]
 g: the office of inspector
 
-w: <<incumbency>> drf [[file:adj.all.org::incumbent]]
+w: <<incumbency>> drf [[file:adjs.all.org::incumbent]]
 hyper: [[position1]]
 g: the office of an incumbent
 
@@ -19188,7 +19188,7 @@ w: <<wilding>>
 hyper: [[rampage]]
 g: an outrageous rampage usually involving sexual attacks by men on women
 
-w: <<rampage>> drf [[file:adj.all.org::rampageous]] drf [[file:verb.stative.org::ramp]] drf [[file:verb.social.org::rampage]]
+w: <<rampage>> drf [[file:adjs.all.org::rampageous]] drf [[file:verb.stative.org::ramp]] drf [[file:verb.social.org::rampage]]
 w: <<violent_disorder1>>
 hyper: [[disturbance]]
 g: violently angry and destructive behavior
@@ -19260,7 +19260,7 @@ w: <<brouhaha>>
 hyper: [[furor]]
 g: a confused disturbance far greater than its cause merits
 
-w: <<liveliness>> drf [[file:adj.all.org::lively]] drf [[file:adj.all.org::lively]]
+w: <<liveliness>> drf [[file:adjs.all.org::lively]] drf [[file:adj.all.org::lively]]
 w: <<animation1>>
 hyper: [[activity]]
 g: general activity and motion
@@ -19328,7 +19328,7 @@ hyper: [[mime]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: an abbreviation of pantomime
 
-w: <<mime>> drf [[file:adj.all.org::mimic]] drf [[file:verb.creation.org::mime]]
+w: <<mime>> drf [[file:adjs.all.org::mimic]] drf [[file:verb.creation.org::mime]]
 w: <<pantomime>> drf [[file:noun.person.org::pantomimist]] drf [[file:verb.creation.org::pantomime]]
 w: <<dumb_show>>
 hyper: [[acting]]
@@ -19990,7 +19990,7 @@ hp: [[pas_de_deux]]
 g: a slow section of a pas de deux requiring great skill and strength by the dancers
 
 w: <<sport>> drf [[file:verb.motion.org::sport]]
-w: <<athletics>> drf [[file:adj.all.org::athletic]]
+w: <<athletics>> drf [[file:adjs.all.org::athletic]]
 hyper: [[diversion]]
 g: an active diversion requiring physical exertion and competition
 
@@ -20071,7 +20071,7 @@ w: <<floor_show>>
 hyper: [[show]]
 g: a series of acts at a night club
 
-w: <<show>> drf [[file:adj.all.org::showy]] drf [[file:verb.perception.org::show2]]
+w: <<show>> drf [[file:adjs.all.org::showy]] drf [[file:verb.perception.org::show2]]
 hyper: [[entertainment]]
 g: the act of publicly exhibiting or entertaining; "a remarkable show of skill"
 
@@ -20301,13 +20301,13 @@ g: frivolous or trifling behavior; "for actors, memorizing lines is no game"; "f
 w: <<folly>>
 w: <<foolery>> drf [[file:verb.communication.org::fool]]
 w: <<tomfoolery>>
-w: <<craziness>> drf [[file:adj.all.org::crazy]] drf [[file:adj.all.org::crazy]]
-w: <<lunacy>> drf [[file:adj.all.org::lunatic]]
+w: <<craziness>> drf [[file:adjs.all.org::crazy]] drf [[file:adjs.all.org::crazy]]
+w: <<lunacy>> drf [[file:adjs.all.org::lunatic]]
 w: <<indulgence1>>
 hyper: [[play]]
 g: foolish or senseless behavior
 
-w: <<flirt>> drf [[file:adj.all.org::flirtatious]] drf [[file:verb.communication.org::flirt]]
+w: <<flirt>> drf [[file:adjs.all.org::flirtatious]] drf [[file:verb.communication.org::flirt]]
 w: <<flirting>> drf [[file:verb.social.org::flirt]] drf [[file:verb.communication.org::flirt]]
 w: <<flirtation>> drf [[file:verb.communication.org::flirt]]
 w: <<coquetry>> drf [[file:verb.communication.org::coquet]]
@@ -20343,12 +20343,12 @@ w: <<carnival>>
 hyper: [[festival]]
 g: a festival marked by merrymaking and processions
 
-w: <<orgy2>> drf [[file:adj.all.org::orgiastic]] drf [[file:adj.all.org::orgiastic]]
+w: <<orgy2>> drf [[file:adjs.all.org::orgiastic]] drf [[file:adjs.all.org::orgiastic]]
 w: <<debauch>> drf [[file:verb.social.org::debauch]]
 w: <<debauchery>> drf [[file:verb.social.org::debauch]]
 w: <<saturnalia1>>
-w: <<riot1>> drf [[file:adj.all.org::riotous]] drf [[file:verb.social.org::riot1]]
-w: <<bacchanal>> drf [[file:adj.all.org::bacchanal]] drf [[file:adj.all.org::bacchanalian]]
+w: <<riot1>> drf [[file:adjs.all.org::riotous]] drf [[file:verb.social.org::riot1]]
+w: <<bacchanal>> drf [[file:adjs.all.org::bacchanal]] drf [[file:adjs.all.org::bacchanalian]]
 w: <<bacchanalia1>>
 w: <<drunken_revelry>>
 hyper: [[revel]]
@@ -22208,12 +22208,12 @@ w: <<backbend>>
 hyper: [[acrobatic_stunt]]
 g: an acrobatic feat in which the trunk is bent backward from a standing position until the hands touch the floor
 
-w: <<acrobatics>> drf [[file:adj.all.org::acrobatic]]
+w: <<acrobatics>> drf [[file:adjs.all.org::acrobatic]]
 w: <<tumbling>> drf [[file:verb.body.org::tumble]]
 hyper: [[gymnastics]]
 g: the gymnastic moves of an acrobat
 
-w: <<gymnastics>> drf [[file:adj.all.org::gymnastic]] drf [[file:adj.pert.org::gymnastic]]
+w: <<gymnastics>> drf [[file:adjs.all.org::gymnastic]] drf [[file:adj.pert.org::gymnastic]]
 w: <<gymnastic_exercise1>>
 hyper: [[sport]]
 g: a sport that involves exercises intended to display strength and balance and agility
@@ -22279,8 +22279,8 @@ hyper: [[diversion]]
 g: the activity of people seeking nighttime diversion (as at the theater, a nightclub, etc.); "a futile search for intelligent nightlife"; "in the summer the nightlife shifts to the dance clubs"
 
 w: <<jest>> drf [[file:verb.communication.org::jest]] drf [[file:verb.body.org::jest]]
-w: <<joke1>> drf [[file:adj.all.org::jocular]] drf [[file:noun.person.org::jokester]] drf [[file:verb.body.org::joke]] drf [[file:verb.communication.org::joke]]
-w: <<jocularity>> drf [[file:adj.all.org::jocular]]
+w: <<joke1>> drf [[file:adjs.all.org::jocular]] drf [[file:noun.person.org::jokester]] drf [[file:verb.body.org::joke]] drf [[file:verb.communication.org::joke]]
+w: <<jocularity>> drf [[file:adjs.all.org::jocular]]
 hyper: [[diversion]]
 g: activity characterized by good humor
 
@@ -22295,7 +22295,7 @@ hyper: [[diversion]]
 hyper: [[vice]]
 g: the act of playing for stakes in the hope of winning (including the payment of a price for a chance to win a prize); "his gambling cost him a fortune"; "there was heavy play at the blackjack table"
 
-w: <<fun>> drf [[file:adj.all.org::funny]]
+w: <<fun>> drf [[file:adjs.all.org::funny]]
 w: <<merriment>>
 w: <<playfulness>>
 hyper: [[diversion]]
@@ -22333,7 +22333,7 @@ hyper: [[file:noun.cognition.org::performing_arts]]
 g: taking a series of rhythmical steps (and movements) in time to music
 
 w: <<celebration>> drf [[file:verb.social.org::celebrate1]] drf [[file:verb.social.org::celebrate]]
-w: <<festivity>> drf [[file:adj.all.org::festive]]
+w: <<festivity>> drf [[file:adjs.all.org::festive]]
 hyper: [[diversion]]
 g: any joyous diversion
 
@@ -22341,7 +22341,7 @@ w: <<bathing>> drf [[file:verb.body.org::bathe1]]
 hyper: [[diversion]]
 g: immersing the body in water or sunshine
 
-w: <<antic>> drf [[file:adj.all.org::antic]] drf [[file:verb.body.org::antic]]
+w: <<antic>> drf [[file:adjs.all.org::antic]] drf [[file:verb.body.org::antic]]
 w: <<joke>> drf [[file:noun.person.org::jokester]]
 w: <<prank>> drf [[file:noun.person.org::prankster]]
 w: <<trick>> drf [[file:noun.person.org::trickster]]
@@ -22406,13 +22406,13 @@ hyper: [[atrocity]]
 g: a wantonly cruel act
 
 w: <<brutality>>
-w: <<barbarity>> drf [[file:adj.all.org::barbaric]]
+w: <<barbarity>> drf [[file:adjs.all.org::barbaric]]
 w: <<barbarism>>
 w: <<savagery>> drf [[file:verb.competition.org::savage]]
 hyper: [[atrocity]]
 g: a brutal barbarous savage act
 
-w: <<atrocity>> drf [[file:adj.all.org::atrocious]]
+w: <<atrocity>> drf [[file:adjs.all.org::atrocious]]
 w: <<inhumanity>>
 hyper: [[cruelty]]
 g: an act of atrocious cruelty
@@ -22583,7 +22583,7 @@ w: <<squeeze2>>
 hyper: [[embrace]]
 g: a tight or amorous embrace; "come here and give me a big hug"
 
-w: <<cuddle>> drf [[file:adj.all.org::cuddly]] drf [[file:verb.contact.org::cuddle1]] drf [[file:verb.contact.org::cuddle]]
+w: <<cuddle>> drf [[file:adjs.all.org::cuddly]] drf [[file:verb.contact.org::cuddle1]] drf [[file:verb.contact.org::cuddle]]
 w: <<nestle>> drf [[file:verb.contact.org::nestle]]
 w: <<snuggle>> drf [[file:verb.contact.org::snuggle]]
 hyper: [[embrace]]
@@ -22683,7 +22683,7 @@ w: <<hijab>>
 hyper: [[custom]]
 g: the custom in some Islamic societies of women dressing modestly outside the home; "she observes the hijab and does not wear tight clothing"
 
-w: <<habit2>> drf [[file:adj.all.org::habitual]] drf [[file:verb.consumption.org::habituate]]
+w: <<habit2>> drf [[file:adjs.all.org::habitual]] drf [[file:verb.consumption.org::habituate]]
 w: <<use1>>
 hyper: [[custom]]
 dt: [[file:noun.cognition.org::psychology]]
@@ -22710,7 +22710,7 @@ w: <<Americanism>>
 hyper: [[custom]]
 g: a custom that is peculiar to the United States or its citizens
 
-w: <<custom>> drf [[file:adj.all.org::customary]]
+w: <<custom>> drf [[file:adjs.all.org::customary]]
 w: <<usage1>> drf [[file:verb.social.org::use3]]
 w: <<usance>> drf [[file:verb.social.org::use4]]
 hyper: [[practice]]
@@ -22733,12 +22733,12 @@ w: <<ornamentalism>> drf [[file:noun.person.org::ornamentalist]]
 hyper: [[practice]]
 g: the practice of ornamental display
 
-w: <<occult>> drf [[file:adj.all.org::occult]]
+w: <<occult>> drf [[file:adjs.all.org::occult]]
 w: <<occult_arts>>
 hyper: [[practice]]
 g: supernatural practices and techniques; "he is a student of the occult"
 
-w: <<modernism>> drf [[file:adj.all.org::modernistic]]
+w: <<modernism>> drf [[file:adjs.all.org::modernistic]]
 hyper: [[practice]]
 g: practices typical of contemporary life or thought
 
@@ -22781,7 +22781,7 @@ w: <<praxis>>
 hyper: [[implementation]]
 g: translating an idea into action; "a hard theory to put into practice"; "differences between theory and praxis of communism"
 
-w: <<practice>> drf [[file:adj.all.org::practical1]] drf [[file:adj.all.org::practical]] drf [[file:verb.social.org::practice1]]
+w: <<practice>> drf [[file:adjs.all.org::practical1]] drf [[file:adj.all.org::practical]] drf [[file:verb.social.org::practice1]]
 w: <<pattern>> drf [[file:verb.stative.org::pattern]]
 hyper: [[activity]]
 g: a customary way of operation or behavior; "it is their practice to give annual raises"; "they changed their dietary pattern"
@@ -22811,7 +22811,7 @@ w: <<domesticity>> drf [[file:adj.pert.org::domestic]]
 hyper: [[activity]]
 g: domestic activities or life; "making a hobby of domesticity"
 
-w: <<activity>> drf [[file:adj.all.org::active]] drf [[file:adj.all.org::active]] ant [[inactivity]]
+w: <<activity>> drf [[file:adjs.all.org::active]] drf [[file:adjs.all.org::active]] ant [[inactivity]]
 hyper: [[file:noun.Tops.org::act]]
 g: any specific behavior; "they avoided all recreational activity"
 
@@ -22960,7 +22960,7 @@ w: <<metamorphosis2>>
 hyper: [[revision]]
 g: a striking change in appearance or character or circumstances; "the metamorphosis of the old house into something new and exciting"
 
-w: <<metamorphosis1>> drf [[file:adj.all.org::metamorphous]] drf [[file:adj.pert.org::metamorphous]]
+w: <<metamorphosis1>> drf [[file:adjs.all.org::metamorphous]] drf [[file:adj.pert.org::metamorphous]]
 hyper: [[transformation]]
 g: a complete change of physical form or substance especially as by magic or witchcraft
 
@@ -23047,7 +23047,7 @@ w: <<subdivision>> drf [[file:verb.change.org::subdivide1]] drf [[file:verb.chan
 hyper: [[division2]]
 g: the act of subdividing; division of something previously divided
 
-w: <<division2>> drf [[file:adj.all.org::divisional]] drf [[file:verb.motion.org::divide]]
+w: <<division2>> drf [[file:adjs.all.org::divisional]] drf [[file:verb.motion.org::divide]]
 w: <<partition>> drf [[file:noun.person.org::partitionist]] drf [[file:verb.contact.org::partition]] drf [[file:verb.change.org::partition]]
 w: <<partitioning>> drf [[file:verb.contact.org::partition]] drf [[file:verb.change.org::partition]]
 w: <<segmentation>> drf [[file:verb.contact.org::segment]]
@@ -23361,7 +23361,7 @@ w: <<parcellation>> drf [[file:verb.social.org::parcel]] drf [[file:verb.contact
 hyper: [[division]]
 g: the division into parcels; "the increasing parcellation of land with every generation"
 
-w: <<division>> drf [[file:adj.all.org::divisional]] drf [[file:verb.social.org::divide]]
+w: <<division>> drf [[file:adjs.all.org::divisional]] drf [[file:verb.social.org::divide]]
 hyper: [[separation1]]
 g: the act or process of dividing
 
@@ -23446,8 +23446,8 @@ w: <<reunification>> drf [[file:verb.social.org::reunify]]
 hyper: [[union]]
 g: the act of coming together again; "monetary unification precipitated the reunification of the German state in October 1990"
 
-w: <<coalescence>> drf [[file:adj.all.org::coalescent]] drf [[file:verb.contact.org::coalesce]]
-w: <<coalescency>> drf [[file:adj.all.org::coalescent]] drf [[file:verb.contact.org::coalesce]] drf [[file:verb.change.org::coalesce]]
+w: <<coalescence>> drf [[file:adjs.all.org::coalescent]] drf [[file:verb.contact.org::coalesce]]
+w: <<coalescency>> drf [[file:adjs.all.org::coalescent]] drf [[file:verb.contact.org::coalesce]] drf [[file:verb.change.org::coalesce]]
 w: <<coalition>> drf [[file:verb.change.org::coalesce]] drf [[file:verb.contact.org::coalesce]]
 w: <<concretion>> drf [[file:verb.change.org::concrete]]
 w: <<conglutination>> drf [[file:verb.contact.org::conglutinate1]]
@@ -23476,7 +23476,7 @@ w: <<homogenisation>> drf [[file:verb.change.org::homogenise2]] drf [[file:verb.
 hyper: [[blend]]
 g: the act of making something homogeneous or uniform in composition; "the homogenization of cream"; "the network's homogenization of political news"
 
-w: <<confluence1>> drf [[file:adj.all.org::confluent]]
+w: <<confluence1>> drf [[file:adjs.all.org::confluent]]
 w: <<conflux>>
 w: <<merging1>>
 hyper: [[blend]]
@@ -23518,7 +23518,7 @@ w: <<affixation1>> drf [[file:verb.contact.org::affix1]]
 hyper: [[combination]]
 g: the act of attaching or affixing something
 
-w: <<combination>> drf [[file:adj.all.org::combinatorial]]
+w: <<combination>> drf [[file:adjs.all.org::combinatorial]]
 w: <<combining>> drf [[file:verb.possession.org::combine]] drf [[file:verb.contact.org::combine1]] drf [[file:verb.change.org::combine2]] drf [[file:verb.change.org::combine]]
 w: <<compounding>> drf [[file:verb.creation.org::compound]] drf [[file:verb.contact.org::compound]] drf [[file:verb.change.org::compound]]
 hyper: [[change_of_integrity]]
@@ -24220,7 +24220,7 @@ w: <<red_herring>>
 hyper: [[diversion1]]
 g: any diversion intended to distract attention from the main issue
 
-w: <<diversion1>> drf [[file:adj.all.org::diversionary]] drf [[file:noun.person.org::diversionist]] drf [[file:verb.motion.org::divert]]
+w: <<diversion1>> drf [[file:adjs.all.org::diversionary]] drf [[file:noun.person.org::diversionist]] drf [[file:verb.motion.org::divert]]
 w: <<deviation1>> drf [[file:verb.motion.org::deviate1]] drf [[file:verb.motion.org::deviate]]
 w: <<digression>> drf [[file:verb.communication.org::digress]]
 w: <<deflection>> drf [[file:verb.motion.org::deflect1]] drf [[file:verb.motion.org::deflect]]
@@ -24238,8 +24238,8 @@ w: <<change_of_course>>
 hyper: [[change_of_direction]]
 g: a change in the direction that you are moving
 
-w: <<wiggle>> drf [[file:adj.all.org::wiggly]] drf [[file:verb.motion.org::wiggle]]
-w: <<wriggle>> drf [[file:adj.all.org::wriggly]] drf [[file:verb.motion.org::wriggle]]
+w: <<wiggle>> drf [[file:adjs.all.org::wiggly]] drf [[file:verb.motion.org::wiggle]]
+w: <<wriggle>> drf [[file:adjs.all.org::wriggly]] drf [[file:verb.motion.org::wriggle]]
 w: <<squirm>> drf [[file:verb.motion.org::squirm]]
 hyper: [[motion]]
 g: the act of wiggling
@@ -24323,7 +24323,7 @@ hyper: [[reversion1]]
 g: act of pivoting 180 degrees, especially in a military formation
 
 w: <<reversion1>>
-w: <<reverse1>> drf [[file:adj.all.org::reverse2]] drf [[file:verb.change.org::reverse1]] drf [[file:verb.change.org::reverse]]
+w: <<reverse1>> drf [[file:adjs.all.org::reverse2]] drf [[file:verb.change.org::reverse1]] drf [[file:verb.change.org::reverse]]
 w: <<reversal4>> drf [[file:verb.change.org::reverse1]]
 w: <<turnabout>>
 w: <<turnaround>>
@@ -24377,7 +24377,7 @@ w: <<squatting>> drf [[file:verb.contact.org::squat]]
 hyper: [[motion]]
 g: the act of assuming or maintaining a crouching position with the knees bent and the buttocks near the heels
 
-w: <<snap3>> drf [[file:adj.all.org::snappy]] drf [[file:verb.contact.org::snap2]] drf [[file:verb.perception.org::snap]]
+w: <<snap3>> drf [[file:adjs.all.org::snappy]] drf [[file:verb.contact.org::snap2]] drf [[file:verb.perception.org::snap]]
 hyper: [[motion]]
 g: the act of snapping the fingers; movement of a finger from the tip to the base of the thumb on the same hand; "he gave his fingers a snap"
 
@@ -24592,7 +24592,7 @@ w: <<bob>> drf [[file:verb.communication.org::bob]]
 hyper: [[inclination]]
 g: a short abrupt inclination (as of the head); "he gave me a short bob of acknowledgement"
 
-w: <<jerk>> drf [[file:adj.all.org::jerky]] drf [[file:verb.contact.org::jerk]] drf [[file:verb.motion.org::jerk1]] drf [[file:verb.body.org::jerk]] drf [[file:verb.motion.org::jerk]] drf [[file:verb.contact.org::jerk1]]
+w: <<jerk>> drf [[file:adjs.all.org::jerky]] drf [[file:verb.contact.org::jerk]] drf [[file:verb.motion.org::jerk1]] drf [[file:verb.body.org::jerk]] drf [[file:verb.motion.org::jerk]] drf [[file:verb.contact.org::jerk1]]
 w: <<jerking>> drf [[file:verb.motion.org::jerk]] drf [[file:verb.body.org::jerk]]
 w: <<jolt>> drf [[file:adj.all.org::jolty]] drf [[file:verb.motion.org::jolt]]
 w: <<saccade1>>
@@ -24681,7 +24681,7 @@ w: <<motility>>
 hyper: [[change]]
 g: a change of position that does not entail a change of location; "the reflex motion of his eyebrows revealed his surprise"; "movement is a sign of life"; "an impatient move of his hand"; "gastrointestinal motility"
 
-w: <<shift>> drf [[file:adj.all.org::shifty]] drf [[file:verb.motion.org::shift3]] drf [[file:verb.motion.org::shift4]] drf [[file:verb.motion.org::shift1]] drf [[file:verb.motion.org::shift2]] drf [[file:verb.motion.org::shift]]
+w: <<shift>> drf [[file:adjs.all.org::shifty]] drf [[file:verb.motion.org::shift3]] drf [[file:verb.motion.org::shift4]] drf [[file:verb.motion.org::shift1]] drf [[file:verb.motion.org::shift2]] drf [[file:verb.motion.org::shift]]
 w: <<shifting>> drf [[file:verb.motion.org::shift1]] drf [[file:verb.motion.org::shift]]
 hyper: [[motion1]]
 g: the act of moving from one place to another; "his constant shifting disrupted the class"
@@ -24717,7 +24717,7 @@ w: <<speedup>> drf [[file:verb.change.org::speed_up]] drf [[file:verb.change.org
 hyper: [[speed]]
 g: the act of accelerating; increasing the speed
 
-w: <<speed>> drf [[file:adj.all.org::speedy]] drf [[file:verb.motion.org::speed]] drf [[file:verb.change.org::speed2]] drf [[file:verb.motion.org::speed1]] drf [[file:verb.change.org::speed]]
+w: <<speed>> drf [[file:adjs.all.org::speedy]] drf [[file:verb.motion.org::speed]] drf [[file:verb.change.org::speed2]] drf [[file:verb.motion.org::speed1]] drf [[file:verb.change.org::speed]]
 w: <<speeding>> drf [[file:verb.motion.org::speed3]] drf [[file:verb.motion.org::speed1]]
 w: <<hurrying>> drf [[file:verb.motion.org::hurry]]
 hyper: [[motion1]]
@@ -24791,7 +24791,7 @@ w: <<letting_down>>
 hyper: [[movement2]]
 g: the act of causing something to move to a lower level
 
-w: <<flop>> drf [[file:adj.all.org::floppy]] drf [[file:verb.motion.org::flop1]]
+w: <<flop>> drf [[file:adjs.all.org::floppy]] drf [[file:verb.motion.org::flop1]]
 w: <<collapse1>>
 hyper: [[descent]]
 g: the act of throwing yourself down; "he landed on the bed with a great flop"
@@ -25652,7 +25652,7 @@ dt: [[auto_racing]]
 g: the first lap of a car race that prepares the cars for a fast start
 
 w: <<lap1>>
-w: <<circle>> drf [[file:adj.all.org::circular]] drf [[file:verb.motion.org::circulate2]] drf [[file:verb.motion.org::circle1]] drf [[file:verb.motion.org::circle]]
+w: <<circle>> drf [[file:adjs.all.org::circular]] drf [[file:verb.motion.org::circulate2]] drf [[file:verb.motion.org::circle1]] drf [[file:verb.motion.org::circle]]
 w: <<circuit1>>
 hyper: [[locomotion]]
 g: movement once around a course; "he drove an extra lap just for insurance"
@@ -26084,7 +26084,7 @@ w: <<chomping>> drf [[file:verb.consumption.org::chomp]]
 hyper: [[chew]]
 g: the act of chewing noisily
 
-w: <<chew>> drf [[file:adj.all.org::chewy]] drf [[file:adj.all.org::chewy]] drf [[file:verb.consumption.org::chew]]
+w: <<chew>> drf [[file:adjs.all.org::chewy]] drf [[file:adjs.all.org::chewy]] drf [[file:verb.consumption.org::chew]]
 w: <<chewing>> drf [[file:verb.consumption.org::chew]]
 w: <<mastication>> drf [[file:verb.consumption.org::masticate]]
 w: <<manduction>>
@@ -26599,12 +26599,12 @@ hyper: [[redress]]
 g: anything that remedies or heals or soothes; "he needed a salve for his conscience"
 
 w: <<redress>> drf [[file:verb.social.org::redress]]
-w: <<remedy>> drf [[file:adj.all.org::remedial]] drf [[file:verb.change.org::remedy]]
+w: <<remedy>> drf [[file:adjs.all.org::remedial]] drf [[file:verb.change.org::remedy]]
 w: <<remediation>> drf [[file:verb.change.org::remediate]]
 hyper: [[correction]]
 g: act of correcting an error or a fault or an evil
 
-w: <<correction>> drf [[file:adj.all.org::correctional]] drf [[file:verb.change.org::correct]]
+w: <<correction>> drf [[file:adjs.all.org::correctional]] drf [[file:verb.change.org::correct]]
 w: <<rectification>> drf [[file:verb.change.org::rectify8]] drf [[file:verb.change.org::rectify2]] drf [[file:verb.change.org::rectify]]
 hyper: [[improvement]]
 g: the act of offering an improvement to replace a mistake; setting right
@@ -26707,7 +26707,7 @@ w: <<washup1>> drf [[file:verb.contact.org::wash_up2]]
 hyper: [[wash1]]
 g: the act of washing dishes
 
-w: <<ablution>> drf [[file:adj.all.org::ablutionary]]
+w: <<ablution>> drf [[file:adjs.all.org::ablutionary]]
 hyper: [[ritual1]]
 hyper: [[wash1]]
 g: the ritual washing of a priest's hands or of sacred vessels
@@ -26756,13 +26756,13 @@ w: <<high_colonic>>
 hyper: [[colonic_irrigation]]
 g: an enema that injects large amounts of fluid high into the colon for cleansing purposes
 
-w: <<catharsis1>> drf [[file:adj.all.org::cathartic]]
+w: <<catharsis1>> drf [[file:adjs.all.org::cathartic]]
 w: <<katharsis1>>
 w: <<purgation>> drf [[file:verb.body.org::purge]]
 hyper: [[purge]]
 g: purging the body by the use of a cathartic to stimulate evacuation of the bowels
 
-w: <<catharsis>> drf [[file:adj.all.org::cathartic2]]
+w: <<catharsis>> drf [[file:adjs.all.org::cathartic2]]
 w: <<katharsis>>
 w: <<abreaction>> drf [[file:verb.emotion.org::abreact]]
 hyper: [[purge]]
@@ -27039,7 +27039,7 @@ w: <<foundation>> drf [[file:verb.creation.org::found]]
 w: <<institution>> drf [[file:verb.creation.org::institute1]] drf [[file:verb.possession.org::institutionalise]]
 w: <<origination>> drf [[file:verb.stative.org::originate]] drf [[file:verb.creation.org::originate]]
 w: <<creation1>> drf [[file:verb.creation.org::create2]]
-w: <<innovation>> drf [[file:adj.all.org::innovational]] drf [[file:verb.creation.org::innovate]]
+w: <<innovation>> drf [[file:adjs.all.org::innovational]] drf [[file:verb.creation.org::innovate]]
 w: <<introduction2>>
 w: <<instauration>>
 hyper: [[beginning]]
@@ -27439,7 +27439,7 @@ w: <<battue1>>
 hyper: [[slaughter1]]
 g: indiscriminate slaughter; "a bloodbath took place when the leaders of the plot surrendered"; "ten days after the bloodletting Hitler gave the action its name"; "the valley is no stranger to bloodshed and murder"; "a huge prison battue was ordered"
 
-w: <<slaughter1>> drf [[file:adj.all.org::slaughterous]] drf [[file:verb.change.org::slaughter]]
+w: <<slaughter1>> drf [[file:adjs.all.org::slaughterous]] drf [[file:verb.change.org::slaughter]]
 w: <<massacre>> drf [[file:verb.change.org::massacre]]
 w: <<mass_murder>>
 w: <<carnage>>
@@ -27485,7 +27485,7 @@ w: <<self-destruction1>> drf [[file:verb.creation.org::self-destroy]] drf [[file
 hyper: [[destruction]]
 g: the act of destroying yourself; "his insistence was pure self-destruction"
 
-w: <<suicide>> drf [[file:adj.all.org::suicidal]]
+w: <<suicide>> drf [[file:adjs.all.org::suicidal]]
 w: <<self-destruction>> drf [[file:verb.creation.org::self-destroy]] drf [[file:verb.creation.org::self-destruct]]
 w: <<self-annihilation>>
 hyper: [[killing]]
@@ -27546,7 +27546,7 @@ w: <<assassination>> drf [[file:verb.social.org::assassinate]]
 hyper: [[murder]]
 g: murder of a public figure by surprise attack
 
-w: <<murder>> drf [[file:adj.all.org::murderous]] drf [[file:verb.social.org::murder]]
+w: <<murder>> drf [[file:adjs.all.org::murderous]] drf [[file:verb.social.org::murder]]
 w: <<slaying>> drf [[file:verb.social.org::slay]]
 w: <<execution1>> drf [[file:verb.social.org::execute1]]
 hyper: [[homicide]]
@@ -27560,7 +27560,7 @@ w: <<honor_killing>>
 hyper: [[homicide]]
 g: an ancient tradition still sometimes observed; a male member of the family kills a female relative for tarnishing the family image
 
-w: <<homicide>> drf [[file:adj.all.org::homicidal]]
+w: <<homicide>> drf [[file:adjs.all.org::homicidal]]
 hyper: [[killing]]
 g: the killing of a human being by another human being
 
@@ -27573,7 +27573,7 @@ w: <<drive-by_killing>>
 hyper: [[shooting1]]
 g: homicide committed by shooting from a moving automobile
 
-w: <<death>> drf [[file:adj.all.org::deathly]] drf [[file:verb.change.org::die]] drf [[file:verb.perception.org::die]]
+w: <<death>> drf [[file:adjs.all.org::deathly]] drf [[file:verb.change.org::die]] drf [[file:verb.perception.org::die]]
 hyper: [[killing]]
 g: the act of killing; "he had two deaths on his conscience"
 
@@ -27709,7 +27709,7 @@ hyper: [[exemption]]
 g: an exemption granted after influence (e.g., money) is brought to bear; "collusion resulted in tax fixes for gamblers"
 
 w: <<exemption>>
-w: <<immunity>> drf [[file:adj.all.org::immune]]
+w: <<immunity>> drf [[file:adjs.all.org::immune]]
 w: <<granting_immunity>>
 hyper: [[release5]]
 g: an act exempting someone; "he was granted immunity from prosecution"
@@ -28159,7 +28159,7 @@ hyper: [[change]]
 g: the act of changing or altering something slightly but noticeably from the norm or standard; "who is responsible for these variations in taxation?"
 
 w: <<variation>> drf [[file:verb.stative.org::vary]]
-w: <<variance>> drf [[file:adj.all.org::variant]] drf [[file:verb.stative.org::vary]]
+w: <<variance>> drf [[file:adjs.all.org::variant]] drf [[file:verb.stative.org::vary]]
 hyper: [[activity]]
 g: an activity that varies from a norm or standard; "any variation in his routine was immediately reported"
 
@@ -28217,7 +28217,7 @@ w: <<downsizing>>
 hyper: [[economy]]
 g: the reduction of expenditures in order to become financially stable
 
-w: <<economy>> drf [[file:adj.all.org::economic]] drf [[file:adj.all.org::economical]] drf [[file:verb.possession.org::economize2]] drf [[file:verb.possession.org::economize]]
+w: <<economy>> drf [[file:adjs.all.org::economic]] drf [[file:adjs.all.org::economical]] drf [[file:verb.possession.org::economize2]] drf [[file:verb.possession.org::economize]]
 w: <<saving>>
 hyper: [[action2]]
 g: an act of economizing; reduction in cost; "it was a small economy to walk to work every day"; "there was a saving of 50 cents"
@@ -28511,7 +28511,7 @@ hyper: [[adoption]]
 g: a close affectionate and protective acceptance; "his willing embrace of new ideas"; "in the bosom of the family"
 
 w: <<adoption>> drf [[file:verb.possession.org::adopt2]]
-w: <<acceptance>> drf [[file:adj.all.org::acceptant]] drf [[file:verb.cognition.org::accept1]]
+w: <<acceptance>> drf [[file:adjs.all.org::acceptant]] drf [[file:verb.cognition.org::accept1]]
 w: <<acceptation>> drf [[file:verb.possession.org::accept]] drf [[file:verb.communication.org::accept]] drf [[file:verb.cognition.org::accept1]]
 w: <<espousal>> drf [[file:verb.possession.org::espouse]]
 hyper: [[blessing1]]
@@ -28566,7 +28566,7 @@ w: <<crutch>>
 hyper: [[expedient]]
 g: anything that serves as an expedient; "he uses drugs as a psychological crutch"
 
-w: <<makeshift>> drf [[file:adj.all.org::makeshift]]
+w: <<makeshift>> drf [[file:adjs.all.org::makeshift]]
 w: <<stopgap>>
 w: <<make-do>>
 hyper: [[expedient]]
@@ -28672,7 +28672,7 @@ w: <<road>>
 hyper: [[means]]
 g: a way or means to achieve something; "the road to fame"
 
-w: <<instrument>> drf [[file:adj.all.org::instrumental]] drf [[file:verb.possession.org::instrument]]
+w: <<instrument>> drf [[file:adjs.all.org::instrumental]] drf [[file:verb.possession.org::instrument]]
 w: <<tool>>
 hyper: [[means]]
 g: the means whereby some act is accomplished; "my greed was the instrument of my destruction"; "science has given us new tools to fight disease"
@@ -28728,7 +28728,7 @@ hyper: [[trick5]]
 dt: [[file:noun.communication.org::Yiddish]]
 g: (Yiddish) a devious trick; a bit of cheating; "how did you ever fall for a shtik like that?"
 
-w: <<trick5>> drf [[file:adj.all.org::tricksy]] drf [[file:adj.all.org::tricky]] drf [[file:noun.person.org::trickster1]] drf [[file:verb.social.org::trick]]
+w: <<trick5>> drf [[file:adjs.all.org::tricksy]] drf [[file:adjs.all.org::tricky]] drf [[file:noun.person.org::trickster1]] drf [[file:verb.social.org::trick]]
 w: <<fast_one>>
 hyper: [[device]]
 g: a cunning or deceitful action or device; "he played a trick on me"; "he pulled a fast one and got away with it"
@@ -28949,7 +28949,7 @@ w: <<intention>> drf [[file:verb.cognition.org::intend]]
 hyper: [[volition]]
 g: an act of intending; a volition that you intend to carry out; "my intention changed once I saw her"
 
-w: <<volition>> drf [[file:adj.all.org::volitional]]
+w: <<volition>> drf [[file:adjs.all.org::volitional]]
 w: <<willing>> drf [[file:verb.cognition.org::will1]]
 hyper: [[choice]]
 g: the act of making a choice; "followed my father of my own volition"
@@ -29049,7 +29049,7 @@ hyper: [[causing]]
 g: act of bringing about a desired result; "inducement of sleep"
 
 w: <<hypnotism>> drf [[file:noun.person.org::hypnotist]]
-w: <<mesmerism>> drf [[file:adj.all.org::mesmeric]] drf [[file:noun.person.org::mesmerist]] drf [[file:noun.person.org::mesmerizer]]
+w: <<mesmerism>> drf [[file:adjs.all.org::mesmeric]] drf [[file:noun.person.org::mesmerist]] drf [[file:noun.person.org::mesmerizer]]
 w: <<suggestion2>>
 hyper: [[influence]]
 g: the act of inducing hypnosis
@@ -29179,7 +29179,7 @@ w: <<solving>> drf [[file:verb.cognition.org::solve1]] drf [[file:verb.cognition
 hyper: [[determination]]
 g: finding a solution to a problem
 
-w: <<prognosis>> drf [[file:adj.all.org::prognostic]]
+w: <<prognosis>> drf [[file:adjs.all.org::prognostic]]
 w: <<prospect>>
 w: <<medical_prognosis>>
 hyper: [[medical_diagnosis]]
@@ -30463,7 +30463,7 @@ w: <<ball>>
 hyper: [[pitch3]]
 g: a pitch that is not in the strike zone; "he threw nine straight balls before the manager yanked him"
 
-w: <<balk>> drf [[file:adj.all.org::balky]]
+w: <<balk>> drf [[file:adjs.all.org::balky]]
 hyper: [[pitch3]]
 g: an illegal pitching motion while runners are on base
 
@@ -30652,7 +30652,7 @@ g: the act of performing music
 w: <<magic_trick>>
 w: <<conjuring_trick>>
 w: <<trick2>>
-w: <<magic1>> drf [[file:adj.all.org::magical]] drf [[file:noun.person.org::magician1]]
+w: <<magic1>> drf [[file:adjs.all.org::magical]] drf [[file:noun.person.org::magician1]]
 w: <<legerdemain>>
 w: <<conjuration>>
 w: <<thaumaturgy>>
@@ -31086,7 +31086,7 @@ w: <<taking_over>>
 hyper: [[acquisition]]
 g: acquisition of property by descent or by will
 
-w: <<acceptance3>> drf [[file:adj.all.org::acceptant]] drf [[file:verb.possession.org::accept]]
+w: <<acceptance3>> drf [[file:adjs.all.org::acceptant]] drf [[file:verb.possession.org::accept]]
 hyper: [[acquisition]]
 g: the act of taking something that is offered; "her acceptance of the gift encouraged him"; "he anticipated their acceptance of his offer"
 
@@ -31186,7 +31186,7 @@ w: <<annexation>> drf [[file:adj.pert.org::annexational]]
 hyper: [[acquisition]]
 g: the formal act of acquiring something (especially territory) by conquest or occupation; "the French annexation of Madagascar as a colony in 1896"; "a protectorate has frequently been a first step to annexation"
 
-w: <<moneymaking>> drf [[file:adj.all.org::moneymaking]] drf [[file:adj.all.org::moneymaking]]
+w: <<moneymaking>> drf [[file:adjs.all.org::moneymaking]] drf [[file:adjs.all.org::moneymaking]]
 hyper: [[acquisition]]
 g: the act of making money (and accumulating wealth)
 
@@ -31194,7 +31194,7 @@ w: <<incurring>> drf [[file:verb.stative.org::incur]]
 hyper: [[acquisition]]
 g: acquiring or coming into something (usually undesirable); "incurring debts is easier than paying them"
 
-w: <<catching2>> drf [[file:adj.all.org::catching1]]
+w: <<catching2>> drf [[file:adjs.all.org::catching1]]
 w: <<contracting>> drf [[file:verb.body.org::contract]]
 hyper: [[acquiring]]
 g: becoming infected; "catching cold is sometimes unavoidable"; "the contracting of a serious illness can be financially catastrophic"
@@ -31274,7 +31274,7 @@ w: <<spectacle>>
 hyper: [[blunder]]
 g: a blunder that makes you look ridiculous; used in the phrase `make a spectacle of' yourself
 
-w: <<snafu>> drf [[file:adj.all.org::snafu]] drf [[file:verb.change.org::snafu]]
+w: <<snafu>> drf [[file:adjs.all.org::snafu]] drf [[file:verb.change.org::snafu]]
 hyper: [[blunder]]
 du: [[file:noun.communication.org::acronym]]
 g: an acronym often used by soldiers in World War II: situation normal all fucked up
@@ -31287,7 +31287,7 @@ w: <<pratfall>>
 w: <<foul-up>> drf [[file:verb.social.org::foul_up]]
 w: <<fuckup>> drf [[file:verb.social.org::fuck_up]]
 w: <<flub>> drf [[file:verb.social.org::flub]]
-w: <<botch>> drf [[file:adj.all.org::botchy]] drf [[file:verb.social.org::botch]]
+w: <<botch>> drf [[file:adjs.all.org::botchy]] drf [[file:verb.social.org::botch]]
 w: <<boner>>
 w: <<boo-boo>>
 hyper: [[mistake]]
@@ -31385,7 +31385,7 @@ g: (tennis) two successive faults in serving resulting in the loss of the point
 
 w: <<mistake>> drf [[file:verb.cognition.org::mistake1]]
 w: <<error2>> drf [[file:verb.cognition.org::err]]
-w: <<fault>> drf [[file:adj.all.org::faulty]] drf [[file:verb.communication.org::fault]]
+w: <<fault>> drf [[file:adjs.all.org::faulty]] drf [[file:verb.communication.org::fault]]
 hyper: [[nonaccomplishment]]
 g: a wrong action attributable to bad judgment or ignorance or inattention; "he made a bad mistake"; "she was quick to point out my errors"; "I could understand his English in spite of his grammatical faults"
 
@@ -31394,7 +31394,7 @@ hyper: [[breach_of_contract]]
 g: a breach that does not destroy the value of the contract but can give rise to a claim for damages
 
 w: <<motivation>> drf [[file:adj.pert.org::motivational]] drf [[file:verb.creation.org::motivate]]
-w: <<motivating>> drf [[file:adj.all.org::motivating]]
+w: <<motivating>> drf [[file:adjs.all.org::motivating]]
 hyper: [[file:noun.Tops.org::act]]
 g: the act of motivating; providing incentive
 
@@ -31940,7 +31940,7 @@ w: <<return7>>
 hyper: [[appearance]]
 g: the act of someone appearing again; "his reappearance as Hamlet has been long awaited"
 
-w: <<emergence1>> drf [[file:adj.all.org::emergent]]
+w: <<emergence1>> drf [[file:adjs.all.org::emergent]]
 w: <<emersion1>> drf [[file:verb.stative.org::emerge]] drf [[file:verb.motion.org::emerge]] drf [[file:verb.change.org::emerge2]] drf [[file:verb.change.org::emerge1]] drf [[file:verb.change.org::emerge]]
 hyper: [[appearance]]
 g: the act of emerging
@@ -32202,7 +32202,7 @@ w: <<interplay>>
 hyper: [[interaction]]
 g: reciprocal action and reaction
 
-w: <<interaction>> drf [[file:adj.all.org::interactional]] drf [[file:verb.social.org::interact]]
+w: <<interaction>> drf [[file:adjs.all.org::interactional]] drf [[file:verb.social.org::interact]]
 hyper: [[action2]]
 g: a mutual or reciprocal action; interacting
 

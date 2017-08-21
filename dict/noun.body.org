@@ -187,7 +187,7 @@ hyper: [[file:noun.location.org::stratum]]
 dt: [[file:noun.cognition.org::anatomy]]
 g: (anatomy) a layer (a lining or membrane) that encloses a structure; "stomach walls"
 
-w: <<rudiment>> drf [[file:adj.all.org::rudimentary]] drf [[file:adj.all.org::rudimentary]]
+w: <<rudiment>> drf [[file:adjs.all.org::rudimentary]] drf [[file:adjs.all.org::rudimentary]]
 hyper: [[body_part]]
 g: the remains of a body part that was functional at an earlier stage of life; "Meckel's diverticulum is the rudiment of the embryonic yolk sac"
 
@@ -217,7 +217,7 @@ hyper: [[feature]]
 hp: [[face]]
 g: the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth
 
-w: <<jowl1>> drf [[file:adj.all.org::jowly]]
+w: <<jowl1>> drf [[file:adjs.all.org::jowly]]
 hyper: [[feature]]
 hp: [[face]]
 g: a fullness and looseness of the flesh of the lower cheek and jaw (characteristic of aging)
@@ -412,7 +412,7 @@ hyper: [[cavity]]
 hp: [[kidney]]
 g: a structure shaped like a funnel in the outlet of the kidney into which urine is discharged before passing into the ureter
 
-w: <<acetabulum>> drf [[file:adj.all.org::acetabular]]
+w: <<acetabulum>> drf [[file:adjs.all.org::acetabular]]
 w: <<cotyloid_cavity>>
 hyper: [[socket]]
 hp: [[hipbone]]
@@ -851,7 +851,7 @@ w: <<lamina_arcus_vertebrae>>
 hyper: [[lamina]]
 g: lamina of the vertebral arch; the flattened posterior part of the vertebral arch from which the spinous process extends
 
-w: <<lamina>> drf [[file:adj.all.org::laminar]] drf [[file:adj.all.org::laminal]] drf [[file:verb.creation.org::laminate]] drf [[file:verb.contact.org::laminate2]] drf [[file:verb.contact.org::laminate1]] drf [[file:verb.contact.org::laminate]]
+w: <<lamina>> drf [[file:adjs.all.org::laminar]] drf [[file:adjs.all.org::laminal]] drf [[file:verb.creation.org::laminate]] drf [[file:verb.contact.org::laminate2]] drf [[file:verb.contact.org::laminate1]] drf [[file:verb.contact.org::laminate]]
 hyper: [[plate]]
 g: a thin plate or layer (especially of bone or mineral)
 
@@ -1415,7 +1415,7 @@ w: <<stick>>
 hyper: [[leg1]]
 g: informal terms for the leg; "fever left him weak on his sticks"
 
-w: <<leg2>> drf [[file:adj.all.org::leggy1]]
+w: <<leg2>> drf [[file:adjs.all.org::leggy1]]
 hyper: [[limb]]
 g: a structure in animals that is similar to a human leg and used for locomotion
 
@@ -1424,7 +1424,7 @@ hyper: [[limb]]
 hp: [[leg1]]
 g: the leg from the knee to foot
 
-w: <<leg1>> drf [[file:adj.all.org::leggy1]]
+w: <<leg1>> drf [[file:adjs.all.org::leggy1]]
 hyper: [[limb]]
 hp: [[body]]
 g: a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle
@@ -1587,7 +1587,7 @@ du: [[file:noun.communication.org::slang]]
 g: slang for a paunch
 
 w: <<belly2>> drf [[file:verb.change.org::belly]]
-w: <<paunch>> drf [[file:adj.all.org::paunchy]]
+w: <<paunch>> drf [[file:adjs.all.org::paunchy]]
 hyper: [[adipose_tissue]]
 hp: [[torso]]
 g: a protruding abdomen
@@ -1638,7 +1638,7 @@ hp: [[mammary_gland]]
 g: the small projection of a mammary gland
 
 w: <<breast>>
-w: <<bosom>> drf [[file:adj.all.org::bosomy]]
+w: <<bosom>> drf [[file:adjs.all.org::bosomy]]
 w: <<knocker>>
 w: <<boob>>
 w: <<tit1>>
@@ -1673,7 +1673,7 @@ hyper: [[body_part]]
 hp: [[file:noun.animal.org::arthropod]]
 g: the middle region of the body of an arthropod between the head and the abdomen
 
-w: <<bosom1>> drf [[file:adj.all.org::bosomy]] drf [[file:verb.perception.org::bosom]] drf [[file:verb.contact.org::bosom]]
+w: <<bosom1>> drf [[file:adjs.all.org::bosomy]] drf [[file:verb.perception.org::bosom]] drf [[file:verb.contact.org::bosom]]
 hyper: [[breast1]]
 g: a person's breast or chest
 
@@ -1690,7 +1690,7 @@ hp: [[thorax1]]
 g: the cavity in the vertebrate body enclosed by the ribs between the diaphragm and the neck and containing the lungs and heart
 
 w: <<thorax1>>
-w: <<chest>> drf [[file:adj.all.org::chesty]]
+w: <<chest>> drf [[file:adjs.all.org::chesty]]
 w: <<pectus>>
 hyper: [[body_part]]
 hp: [[torso]]
@@ -1735,7 +1735,7 @@ hp: [[male_body]]
 g: the chest of a man
 
 w: <<female_chest>>
-w: <<bust>> drf [[file:adj.all.org::busty]]
+w: <<bust>> drf [[file:adjs.all.org::busty]]
 hyper: [[thorax1]]
 hp: [[female_body]]
 g: the chest of a woman
@@ -1824,7 +1824,7 @@ w: <<bypass>>
 hyper: [[shunt]]
 g: a surgically created shunt (usually around a damaged part)
 
-w: <<fistula>> drf [[file:adj.all.org::fistular]] drf [[file:adj.pert.org::fistulous]]
+w: <<fistula>> drf [[file:adjs.all.org::fistular]] drf [[file:adj.pert.org::fistulous]]
 w: <<sinus3>>
 hyper: [[passage]]
 g: an abnormal passage leading from a suppurating cavity to the body surface
@@ -1833,7 +1833,7 @@ w: <<fauces>> drf [[file:adj.pert.org::faucal]]
 hyper: [[passage]]
 g: the passage between the back of the mouth and the pharynx
 
-w: <<throat>> drf [[file:adj.all.org::throaty]]
+w: <<throat>> drf [[file:adjs.all.org::throaty]]
 w: <<pharynx>> drf [[file:adj.pert.org::pharyngeal]]
 hyper: [[tubular_cavity]]
 hp: [[neck]]
@@ -2380,7 +2380,7 @@ hp: [[nose]]
 hp: [[upper_respiratory_tract]]
 g: either of the two cavities lying between the floor of the cranium and the roof of the mouth and extending from the face to the pharynx
 
-w: <<alveolus>> drf [[file:adj.all.org::alveolate]]
+w: <<alveolus>> drf [[file:adjs.all.org::alveolate]]
 w: <<air_sac3>>
 w: <<air_cell>>
 hyper: [[sac]]
@@ -2446,7 +2446,7 @@ du: [[file:noun.communication.org::obscenity]]
 g: obscene terms for penis
 
 w: <<penis>> drf [[file:adj.pert.org::penial]]
-w: <<phallus>> drf [[file:adj.all.org::phallic]] drf [[file:adj.pert.org::phallic]]
+w: <<phallus>> drf [[file:adjs.all.org::phallic]] drf [[file:adj.pert.org::phallic]]
 w: <<member1>>
 hyper: [[erectile_organ]]
 hp: [[male_genitalia]]
@@ -2696,9 +2696,9 @@ w: <<follicle>> drf [[file:adj.pert.org::follicular]]
 hyper: [[vesicle]]
 g: any small spherical group of cells containing a cavity
 
-w: <<blister>> drf [[file:adj.all.org::blistery]] drf [[file:verb.change.org::blister]]
+w: <<blister>> drf [[file:adjs.all.org::blistery]] drf [[file:verb.change.org::blister]]
 w: <<bulla>>
-w: <<bleb>> drf [[file:adj.all.org::blebby]]
+w: <<bleb>> drf [[file:adjs.all.org::blebby]]
 hyper: [[vesicle]]
 dt: [[file:noun.cognition.org::pathology]]
 g: (pathology) an elevation of the skin filled with serous fluid
@@ -4781,7 +4781,7 @@ w: <<proto-oncogene>>
 hyper: [[gene]]
 g: a normal gene that has the potential to become an oncogene
 
-w: <<polygene>> drf [[file:adj.all.org::polygenic]]
+w: <<polygene>> drf [[file:adjs.all.org::polygenic]]
 hyper: [[gene]]
 g: a gene that by itself has little effect on the phenotype but which can act together with others to produce observable variations
 
@@ -5128,7 +5128,7 @@ hyper: [[membrane]]
 hp: [[eye]]
 g: the innermost light-sensitive membrane covering the back wall of the eyeball; it is continuous with the optic nerve
 
-w: <<membrane>> drf [[file:adj.all.org::membranous]]
+w: <<membrane>> drf [[file:adjs.all.org::membranous]]
 w: <<tissue_layer>>
 hyper: [[animal_tissue]]
 g: a pliable sheet of tissue that covers or lines or connects the organs or cells of animals or plants
@@ -5330,7 +5330,7 @@ w: <<smegma>>
 hyper: [[sebum]]
 g: a white secretion of the sebaceous glands of the foreskin
 
-w: <<sebum>> drf [[file:adj.all.org::sebaceous]]
+w: <<sebum>> drf [[file:adjs.all.org::sebaceous]]
 hyper: [[secretion]]
 g: the oily secretion of the sebaceous glands; with perspiration it moistens and protects the skin
 
@@ -5360,7 +5360,7 @@ w: <<booger>>
 hyper: [[mucus]]
 g: dried nasal mucus
 
-w: <<snot>> drf [[file:adj.all.org::snotty]]
+w: <<snot>> drf [[file:adjs.all.org::snotty]]
 hyper: [[mucus]]
 g: nasal mucus
 
@@ -5673,7 +5673,7 @@ hyper: [[blood]]
 g: blood obtained from the umbilical cord at birth
 
 w: <<blood_clot>>
-w: <<grume>> drf [[file:adj.all.org::grumous]]
+w: <<grume>> drf [[file:adjs.all.org::grumous]]
 hyper: [[blood]]
 g: a semisolid mass of coagulated red and white blood cells
 
@@ -6103,7 +6103,7 @@ w: <<Haversian_canal>>
 hyper: [[duct]]
 g: any of the many tiny canals that contain blood vessels and connective tissue and that form a network in bone
 
-w: <<liver>> drf [[file:adj.all.org::livery]]
+w: <<liver>> drf [[file:adjs.all.org::livery]]
 hyper: [[internal_organ]]
 hp: [[digestive_system]]
 hp: [[circulatory_system]]
@@ -7880,7 +7880,7 @@ hyper: [[cartilaginous_structure]]
 hp: [[auricle2]]
 g: a small cartilaginous flap in front of the external opening of the ear
 
-w: <<auricle2>> drf [[file:adj.pert.org::auricular2]] drf [[file:adj.all.org::auriculate]]
+w: <<auricle2>> drf [[file:adj.pert.org::auricular2]] drf [[file:adjs.all.org::auriculate]]
 w: <<pinna>>
 w: <<ear1>>
 hyper: [[cartilaginous_structure]]
@@ -8287,7 +8287,7 @@ hyper: [[process]]
 hp: [[jaw]]
 g: the part of the upper or lower jawbones in which the teeth are set
 
-w: <<ala>> drf [[file:adj.all.org::alary]] drf [[file:adj.all.org::alate]]
+w: <<ala>> drf [[file:adjs.all.org::alary]] drf [[file:adjs.all.org::alate]]
 hyper: [[process]]
 g: a flat wing-shaped process or winglike part of an organism; "the alae of the nose"; "the alae of a maple seed"; "the flat petals of a pea blossom are alae"
 
@@ -8374,7 +8374,7 @@ hp: [[tooth]]
 g: small elevation on the grinding surface of a tooth
 
 w: <<premolar>>
-w: <<bicuspid>> drf [[file:adj.all.org::bicuspid]]
+w: <<bicuspid>> drf [[file:adjs.all.org::bicuspid]]
 hyper: [[tooth]]
 g: a tooth having two cusps or points; located between the incisors and the molars
 
@@ -8383,7 +8383,7 @@ w: <<canine_tooth>>
 w: <<eyetooth>>
 w: <<eye_tooth>>
 w: <<dogtooth>>
-w: <<cuspid>> drf [[file:adj.all.org::cuspidal]]
+w: <<cuspid>> drf [[file:adjs.all.org::cuspidal]]
 hyper: [[tooth]]
 g: one of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars
 
@@ -8880,7 +8880,7 @@ dt: [[file:noun.cognition.org::anatomy]]
 g: (anatomy) a disk of cartilage that serves as a cushion between the ends of bones that meet at a joint
 
 w: <<cartilage>> drf [[file:adj.pert.org::cartilaginous]]
-w: <<gristle>> drf [[file:adj.all.org::gristly]]
+w: <<gristle>> drf [[file:adjs.all.org::gristly]]
 hyper: [[animal_tissue]]
 hs: [[cartilaginous_structure]]
 g: tough elastic tissue; mostly converted to bone in adults
@@ -9009,7 +9009,7 @@ hyper: [[tooth]]
 g: the last upper premolar and first lower molar teeth of a carnivore; having sharp edges for cutting flesh
 
 w: <<chopper>> drf [[file:verb.contact.org::chop1]] drf [[file:verb.contact.org::chop]]
-w: <<pearly>> drf [[file:adj.all.org::pearly]]
+w: <<pearly>> drf [[file:adjs.all.org::pearly]]
 hyper: [[tooth]]
 g: informal terms for a human `tooth'
 
@@ -9018,7 +9018,7 @@ hyper: [[cavity]]
 hp: [[tooth]]
 g: the central cavity of a tooth containing the pulp (including the root canal)
 
-w: <<tooth>> drf [[file:adj.all.org::toothy]]
+w: <<tooth>> drf [[file:adjs.all.org::toothy]]
 hyper: [[bone]]
 hm: [[dentition]]
 g: hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense
@@ -9331,7 +9331,7 @@ w: <<os_hamatum>>
 hyper: [[carpal_bone]]
 g: the wrist bone in line with the 4th and 5th fingers
 
-w: <<capitate>> drf [[file:adj.all.org::capitate]]
+w: <<capitate>> drf [[file:adjs.all.org::capitate]]
 w: <<capitate_bone>>
 w: <<os_capitatum>>
 hyper: [[carpal_bone]]
@@ -9371,7 +9371,7 @@ g: one of the eight small wrist bones
 
 w: <<scaphoid_bone>>
 w: <<os_scaphoideum>>
-w: <<navicular>> drf [[file:adj.all.org::navicular]]
+w: <<navicular>> drf [[file:adjs.all.org::navicular]]
 hyper: [[carpal_bone]]
 g: the largest wrist bone on the thumb side
 
@@ -9423,7 +9423,7 @@ w: <<atheroma>> drf [[file:adj.pert.org::atheromatic]] drf [[file:adj.pert.org::
 hyper: [[adipose_tissue]]
 g: a fatty deposit in the intima (inner lining) of an artery; can obstruct blood flow
 
-w: <<flab>> drf [[file:adj.all.org::flabby]]
+w: <<flab>> drf [[file:adjs.all.org::flabby]]
 hyper: [[adipose_tissue]]
 g: loose or flaccid body fat
 
@@ -9525,7 +9525,7 @@ w: <<cytosmear>>
 hyper: [[cytologic_specimen]]
 g: a thin tissue or blood sample spread on a glass slide and stained for cytologic examination and diagnosis under a microscope
 
-w: <<nodule>> drf [[file:adj.all.org::nodular]] drf [[file:adj.pert.org::nodular]]
+w: <<nodule>> drf [[file:adjs.all.org::nodular]] drf [[file:adj.pert.org::nodular]]
 hyper: [[node]]
 g: a small node
 
@@ -9546,7 +9546,7 @@ w: <<eschar>>
 hyper: [[scab]]
 g: a dry scab formed on the skin following a burn or cauterization of the skin
 
-w: <<scab>> drf [[file:adj.all.org::scabby]] drf [[file:verb.body.org::scab]]
+w: <<scab>> drf [[file:adjs.all.org::scabby]] drf [[file:verb.body.org::scab]]
 hyper: [[solid_body_substance]]
 hp: [[skin]]
 g: the crustlike surface of a healing skin lesion
@@ -9630,7 +9630,7 @@ w: <<imperial_beard>>
 hyper: [[beard]]
 g: a small tufted beard worn by Emperor Napoleon III
 
-w: <<fuzz>> drf [[file:adj.all.org::fuzzy]]
+w: <<fuzz>> drf [[file:adjs.all.org::fuzzy]]
 hyper: [[beard]]
 g: the first beard of an adolescent boy
 
@@ -9717,7 +9717,7 @@ w: <<finger_wave>>
 hyper: [[wave]]
 g: a wave made with the fingers
 
-w: <<wave>> drf [[file:adj.all.org::wavy]] drf [[file:verb.contact.org::wave1]] drf [[file:verb.body.org::wave]]
+w: <<wave>> drf [[file:adjs.all.org::wavy]] drf [[file:verb.contact.org::wave1]] drf [[file:verb.body.org::wave]]
 hyper: [[hairdo]]
 g: a hairdo that creates undulations in the hair
 
@@ -9822,8 +9822,8 @@ w: <<lanugo>>
 hyper: [[down]]
 g: the fine downy hair covering a human fetus; normally shed during the ninth month of gestation
 
-w: <<down>> drf [[file:adj.all.org::downy]]
-w: <<pile>> drf [[file:adj.all.org::pilary]] drf [[file:adj.all.org::pilous]]
+w: <<down>> drf [[file:adjs.all.org::downy]]
+w: <<pile>> drf [[file:adjs.all.org::pilary]] drf [[file:adjs.all.org::pilous]]
 hyper: [[hair]]
 g: fine soft dense hair (as the fine short hair of cattle or deer or the wool of sheep or the undercoat of certain dogs)
 
@@ -10095,7 +10095,7 @@ hp: [[skin]]
 g: a type of skin disease that causes brown spots on the skin
 
 w: <<freckle>> drf [[file:verb.change.org::freckle]] drf [[file:verb.change.org::freckle1]]
-w: <<lentigo>> drf [[file:adj.all.org::lentiginous]]
+w: <<lentigo>> drf [[file:adjs.all.org::lentiginous]]
 hyper: [[macule]]
 hp: [[skin]]
 g: a small brownish spot (of the pigment melanin) on the skin
@@ -10544,7 +10544,7 @@ hyper: [[carina]]
 hp: [[file:noun.animal.org::carinate]]
 g: the median ridge on the breastbone of birds that fly
 
-w: <<cauda>> drf [[file:adj.all.org::caudal]] drf [[file:adj.pert.org::caudal]]
+w: <<cauda>> drf [[file:adjs.all.org::caudal]] drf [[file:adj.pert.org::caudal]]
 hyper: [[structure]]
 g: any taillike structure
 
@@ -10574,7 +10574,7 @@ w: <<carina>>
 hyper: [[structure]]
 g: any of various keel-shaped structures or ridges such as that on the breastbone of a bird or that formed by the fused petals of a pea blossom
 
-w: <<bulb1>> drf [[file:adj.all.org::bulbous]]
+w: <<bulb1>> drf [[file:adjs.all.org::bulbous]]
 hyper: [[structure]]
 g: a rounded dilation or expansion in a canal or vessel or organ
 
@@ -10794,7 +10794,7 @@ w: <<life_form>>
 hyper: [[body]]
 g: the characteristic bodily form of a mature organism
 
-w: <<body>> drf [[file:adj.all.org::bodily]] drf [[file:adj.pert.org::bodily1]]
+w: <<body>> drf [[file:adjs.all.org::bodily]] drf [[file:adj.pert.org::bodily1]]
 w: <<organic_structure>>
 w: <<physical_structure>>
 hyper: [[file:noun.Tops.org::natural_object]]

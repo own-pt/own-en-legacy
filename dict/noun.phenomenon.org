@@ -37,7 +37,7 @@ w: <<floatation>> drf [[file:verb.motion.org::float2]] drf [[file:verb.motion.or
 hyper: [[physical_phenomenon]]
 g: the phenomenon of floating (remaining on the surface of a liquid without sinking)
 
-w: <<chop>> drf [[file:adj.all.org::choppy]]
+w: <<chop>> drf [[file:adjs.all.org::choppy]]
 hyper: [[physical_phenomenon]]
 g: the irregular motion of waves (usually caused by wind blowing in a direction opposite to the tide); "the boat headed into the chop"
 
@@ -66,7 +66,7 @@ w: <<wind_power>>
 hyper: [[alternative_energy]]
 g: power derived from the wind (as by windmills)
 
-w: <<wind>> drf [[file:adj.all.org::windy]] drf [[file:adj.all.org::windy]]
+w: <<wind>> drf [[file:adjs.all.org::windy]] drf [[file:adjs.all.org::windy]]
 w: <<air_current1>>
 w: <<current_of_air>>
 hyper: [[weather]]
@@ -77,12 +77,12 @@ hyper: [[windstorm]]
 g: a more or less vertical column of air whirling around itself as it moves over the surface of the Earth
 
 w: <<prevailing_westerly>>
-w: <<westerly>> drf [[file:adj.all.org::westerly1]]
+w: <<westerly>> drf [[file:adjs.all.org::westerly1]]
 hyper: [[west_wind]]
 g: the winds from the west that occur in the temperate zones of the Earth
 
 w: <<west_wind>>
-w: <<wester>> drf [[file:adj.all.org::westerly1]]
+w: <<wester>> drf [[file:adjs.all.org::westerly1]]
 hyper: [[wind]]
 g: wind that blows from west to east
 
@@ -116,7 +116,7 @@ g: the phenomena associated with volcanic activity
 
 w: <<life_force>>
 w: <<vital_force>>
-w: <<vitality>> drf [[file:adj.all.org::vital]]
+w: <<vitality>> drf [[file:adjs.all.org::vital]]
 w: <<elan_vital>>
 hyper: [[force]]
 dt: [[file:noun.cognition.org::biology]]
@@ -159,8 +159,8 @@ w: <<updraft>>
 hyper: [[draft]]
 g: a strong upward air current
 
-w: <<draft>> drf [[file:adj.all.org::drafty]]
-w: <<draught>> drf [[file:adj.all.org::draughty]]
+w: <<draft>> drf [[file:adjs.all.org::drafty]]
+w: <<draught>> drf [[file:adjs.all.org::draughty]]
 hyper: [[wind]]
 g: a current of air (usually coming into a chimney or room or vehicle)
 
@@ -174,7 +174,7 @@ w: <<sun-ray1>>
 hyper: [[ultraviolet]]
 g: a ray of artificial ultraviolet light from a sunray lamp
 
-w: <<ultraviolet>> drf [[file:adj.all.org::ultraviolet]]
+w: <<ultraviolet>> drf [[file:adjs.all.org::ultraviolet]]
 w: <<ultraviolet_radiation>>
 w: <<ultraviolet_light>>
 w: <<ultraviolet_illumination>>
@@ -206,8 +206,8 @@ w: <<typhoon>>
 hyper: [[cyclone]]
 g: a tropical cyclone occurring in the western Pacific or Indian oceans
 
-w: <<turbulence>> drf [[file:adj.all.org::turbulent]]
-w: <<turbulency>> drf [[file:adj.all.org::turbulent]]
+w: <<turbulence>> drf [[file:adjs.all.org::turbulent]]
+w: <<turbulency>> drf [[file:adjs.all.org::turbulent]]
 hyper: [[physical_phenomenon]]
 g: unstable flow of a liquid or gas
 
@@ -215,8 +215,8 @@ w: <<trichroism>>
 hyper: [[pleochroism]]
 g: pleochroism of a crystal so that it exhibits three different colors when viewed from three different directions
 
-w: <<transparency>> drf [[file:adj.all.org::transparent]] drf [[file:adj.all.org::transparent]] ant [[opacity]]
-w: <<transparence>> drf [[file:adj.all.org::transparent]]
+w: <<transparency>> drf [[file:adjs.all.org::transparent]] drf [[file:adjs.all.org::transparent]] ant [[opacity]]
+w: <<transparence>> drf [[file:adjs.all.org::transparent]]
 hyper: [[physical_phenomenon]]
 g: permitting the free passage of electromagnetic radiation
 
@@ -280,7 +280,7 @@ w: <<thermal>> drf [[file:adj.pert.org::thermal]]
 hyper: [[wind]]
 g: rising current of warm air
 
-w: <<tempest>> drf [[file:adj.all.org::tempestuous]]
+w: <<tempest>> drf [[file:adjs.all.org::tempestuous]]
 hyper: [[windstorm]]
 dt: [[file:noun.communication.org::literature]]
 g: (literary) a violent wind; "a tempest swept over the island"
@@ -402,7 +402,7 @@ w: <<line_squall>>
 hyper: [[squall]]
 g: a squall advancing along a front that forms a definite line
 
-w: <<squall>> drf [[file:adj.all.org::squally]] drf [[file:verb.weather.org::squall]]
+w: <<squall>> drf [[file:adjs.all.org::squally]] drf [[file:verb.weather.org::squall]]
 hyper: [[wind]]
 g: sudden violent winds; often accompanied by precipitation
 
@@ -469,7 +469,7 @@ hyper: [[electrical_conduction]]
 g: electrical conduction through a gas in an applied electric field
 
 w: <<south_wind>>
-w: <<souther>> drf [[file:adj.all.org::southerly1]]
+w: <<souther>> drf [[file:adjs.all.org::southerly1]]
 w: <<southerly>>
 hyper: [[wind]]
 g: a wind from the south
@@ -573,7 +573,7 @@ w: <<fume>> drf [[file:verb.weather.org::fume]] drf [[file:verb.perception.org::
 hyper: [[aerosol]]
 g: a cloud of fine particles suspended in a gas
 
-w: <<sleet>> drf [[file:adj.all.org::sleety]] drf [[file:verb.weather.org::sleet]]
+w: <<sleet>> drf [[file:adjs.all.org::sleety]] drf [[file:verb.weather.org::sleet]]
 hyper: [[precipitation]]
 g: partially melted snow (or a mixture of rain and snow)
 
@@ -714,12 +714,12 @@ hyper: [[organic_phenomenon]]
 dt: [[file:noun.cognition.org::biology]]
 g: (biology) the ability of one molecule to attach to another molecule that has a complementary shape; "molecular recognition drives all of biology, for instance, hormone and receptor or antibody-antigen interactions or the organization of molecules into larger biologically active entities"
 
-w: <<shower>> drf [[file:adj.all.org::showery]] drf [[file:verb.weather.org::shower]]
+w: <<shower>> drf [[file:adjs.all.org::showery]] drf [[file:verb.weather.org::shower]]
 w: <<rain_shower>>
 hyper: [[rain]]
 g: a brief period of precipitation; "the game was interrupted by a brief shower"
 
-w: <<drizzle>> drf [[file:adj.all.org::drizzly]] drf [[file:verb.weather.org::drizzle]]
+w: <<drizzle>> drf [[file:adjs.all.org::drizzly]] drf [[file:verb.weather.org::drizzle]]
 w: <<mizzle>> drf [[file:verb.weather.org::mizzle]]
 hyper: [[rain]]
 g: very light rain; stronger than mist but less than a shower
@@ -728,7 +728,7 @@ w: <<downpour>>
 w: <<cloudburst>>
 w: <<deluge>> drf [[file:verb.change.org::deluge]] drf [[file:verb.contact.org::deluge]]
 w: <<waterspout1>>
-w: <<torrent1>> drf [[file:adj.all.org::torrential]]
+w: <<torrent1>> drf [[file:adjs.all.org::torrential]]
 w: <<pelter>> drf [[file:verb.weather.org::pelt]]
 w: <<soaker>> drf [[file:verb.change.org::soak1]]
 hyper: [[rain]]
@@ -753,7 +753,7 @@ hyper: [[file:noun.quantity.org::drop]]
 hp: [[rain]]
 g: a drop of rain
 
-w: <<rain>> drf [[file:adj.all.org::rainy]] drf [[file:verb.weather.org::rain]]
+w: <<rain>> drf [[file:adjs.all.org::rainy]] drf [[file:verb.weather.org::rain]]
 w: <<rainfall>>
 hyper: [[precipitation]]
 g: water falling in drops from vapor condensed in the atmosphere
@@ -836,7 +836,7 @@ w: <<pull>> drf [[file:verb.contact.org::pull4]] drf [[file:verb.contact.org::pu
 hyper: [[force]]
 g: the force used in pulling; "the pull of the moon"; "the pull of the current"
 
-w: <<puff>> drf [[file:adj.all.org::puffy]]
+w: <<puff>> drf [[file:adjs.all.org::puffy]]
 w: <<puff_of_air>>
 w: <<whiff>> drf [[file:verb.motion.org::whiff]] drf [[file:verb.communication.org::whiff]]
 hyper: [[gust]]
@@ -995,7 +995,7 @@ w: <<photoelectricity>>
 hyper: [[electricity]]
 g: electricity generated by light or affected by light
 
-w: <<phosphorescence>> drf [[file:adj.all.org::phosphorescent]] drf [[file:verb.stative.org::phosphoresce]]
+w: <<phosphorescence>> drf [[file:adjs.all.org::phosphorescent]] drf [[file:verb.stative.org::phosphoresce]]
 hyper: [[fluorescence]]
 g: a fluorescence that persists after the bombarding radiation has ceased
 
@@ -1071,7 +1071,7 @@ g: the use of a nuclear reactor either to produce electricity to power an engine
 
 w: <<north_wind>>
 w: <<northerly>>
-w: <<norther>> drf [[file:adj.all.org::northerly1]]
+w: <<norther>> drf [[file:adjs.all.org::northerly1]]
 w: <<boreas>> drf [[file:adj.pert.org::boreal1]]
 hyper: [[wind]]
 g: a wind that blows from the north
@@ -1108,7 +1108,7 @@ g: localized death of muscle cell fibers
 
 w: <<necrosis>> drf [[file:adj.pert.org::necrotic]]
 w: <<mortification>> drf [[file:verb.body.org::mortify]]
-w: <<gangrene>> drf [[file:adj.all.org::gangrenous]]
+w: <<gangrene>> drf [[file:adjs.all.org::gangrenous]]
 w: <<sphacelus>> drf [[file:verb.body.org::sphacelate]]
 hyper: [[death]]
 g: the localized death of living cells (as from infection or the interruption of blood supply)
@@ -1230,7 +1230,7 @@ w: <<mistral>>
 hyper: [[north_wind]]
 g: a strong north wind that blows in France during the winter
 
-w: <<mist>> drf [[file:adj.all.org::misty]] drf [[file:adj.all.org::misty]] drf [[file:verb.contact.org::mist]] drf [[file:verb.change.org::mist]]
+w: <<mist>> drf [[file:adjs.all.org::misty]] drf [[file:adjs.all.org::misty]] drf [[file:verb.contact.org::mist]] drf [[file:verb.change.org::mist]]
 hyper: [[fog]]
 g: a thin fog with condensation near the ground
 
@@ -1273,7 +1273,7 @@ w: <<flight>>
 hyper: [[mechanical_phenomenon]]
 g: the path followed by an object moving through space
 
-w: <<ultrasound>> drf [[file:adj.all.org::ultrasonic]]
+w: <<ultrasound>> drf [[file:adjs.all.org::ultrasonic]]
 hyper: [[sound]]
 g: very high frequency sound; used in ultrasonography
 
@@ -1339,7 +1339,7 @@ hyper: [[file:noun.event.org::oscillation]]
 dt: [[file:noun.cognition.org::physics]]
 g: (physics) vibration produced by resonance
 
-w: <<resonance>> drf [[file:adj.all.org::resonant]] drf [[file:verb.perception.org::resonate]]
+w: <<resonance>> drf [[file:adjs.all.org::resonant]] drf [[file:verb.perception.org::resonate]]
 hyper: [[file:noun.event.org::oscillation]]
 g: a vibration of large amplitude produced by a relatively small vibration near the same frequency of vibration as the natural frequency of the resonating system
 
@@ -1374,11 +1374,11 @@ w: <<chemiluminescence>> drf [[file:adj.pert.org::chemiluminescent]]
 hyper: [[luminescence]]
 g: luminescence resulting from a chemical reaction as the oxidation of luciferin in fireflies
 
-w: <<bioluminescence>> drf [[file:adj.all.org::bioluminescent]]
+w: <<bioluminescence>> drf [[file:adjs.all.org::bioluminescent]]
 hyper: [[luminescence]]
 g: luminescence produced by physiological processes (as in the firefly)
 
-w: <<luminescence>> drf [[file:adj.all.org::luminescent]] drf [[file:verb.weather.org::luminesce]]
+w: <<luminescence>> drf [[file:adjs.all.org::luminescent]] drf [[file:verb.weather.org::luminesce]]
 hyper: [[light]]
 g: light not due to incandescence; occurs at low temperatures
 
@@ -1431,7 +1431,7 @@ w: <<life_cycle>>
 hyper: [[organic_phenomenon]]
 g: a series of stages through which an organism passes between recurrences of a primary stage
 
-w: <<aerobiosis>> drf [[file:adj.all.org::aerobiotic]]
+w: <<aerobiosis>> drf [[file:adjs.all.org::aerobiotic]]
 hyper: [[life]]
 g: life sustained in the presence of air or oxygen
 
@@ -1585,7 +1585,7 @@ w: <<incidence>> drf [[file:adj.pert.org::incident]]
 hyper: [[optical_phenomenon]]
 g: the striking of a light beam on a surface; "he measured the angle of incidence of the reflected light"
 
-w: <<incandescence>> drf [[file:adj.all.org::incandescent]] drf [[file:verb.change.org::incandesce1]] drf [[file:verb.change.org::incandesce]]
+w: <<incandescence>> drf [[file:adjs.all.org::incandescent]] drf [[file:verb.change.org::incandesce1]] drf [[file:verb.change.org::incandesce]]
 w: <<glow>> drf [[file:verb.weather.org::glow]]
 hyper: [[light]]
 g: the phenomenon of light emission by a body as its temperature is raised
@@ -1613,7 +1613,7 @@ hyper: [[cyclone]]
 hp: [[file:noun.relation.org::Beaufort_scale]]
 g: a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale)
 
-w: <<sultriness>> drf [[file:adj.all.org::sultry]]
+w: <<sultriness>> drf [[file:adjs.all.org::sultry]]
 hyper: [[hot_weather]]
 g: oppressively hot and humid weather
 
@@ -1638,7 +1638,7 @@ w: <<heat_energy>>
 hyper: [[energy]]
 g: a form of energy that is transferred by a difference in temperature
 
-w: <<haze>> drf [[file:adj.all.org::hazy]] drf [[file:verb.weather.org::haze]]
+w: <<haze>> drf [[file:adjs.all.org::hazy]] drf [[file:verb.weather.org::haze]]
 hyper: [[aerosol]]
 g: atmospheric moisture or dust or smoke that causes reduced visibility
 
@@ -1658,13 +1658,13 @@ w: <<sandblast>> drf [[file:verb.contact.org::sandblast]]
 hyper: [[gust]]
 g: a blast of wind laden with sand
 
-w: <<bluster>> drf [[file:adj.all.org::blustery]] drf [[file:adj.all.org::blusterous]] drf [[file:verb.weather.org::bluster]]
+w: <<bluster>> drf [[file:adjs.all.org::blustery]] drf [[file:adjs.all.org::blusterous]] drf [[file:verb.weather.org::bluster]]
 hyper: [[gust]]
 g: a violent gusty wind
 
-w: <<gust>> drf [[file:adj.all.org::gusty]]
+w: <<gust>> drf [[file:adjs.all.org::gusty]]
 w: <<blast>>
-w: <<blow>> drf [[file:adj.all.org::blowy]] drf [[file:verb.weather.org::blow]] drf [[file:verb.motion.org::blow3]] drf [[file:verb.motion.org::blow]]
+w: <<blow>> drf [[file:adjs.all.org::blowy]] drf [[file:verb.weather.org::blow]] drf [[file:verb.motion.org::blow3]] drf [[file:verb.motion.org::blow]]
 hyper: [[wind]]
 g: a strong current of air; "the tree was bent almost double by the gust"
 
@@ -1688,12 +1688,12 @@ w: <<gravitational_field>>
 hyper: [[field]]
 g: a field of force surrounding a body of finite mass
 
-w: <<serendipity>> drf [[file:adj.all.org::serendipitous]]
+w: <<serendipity>> drf [[file:adjs.all.org::serendipitous]]
 hyper: [[good_luck]]
 g: good luck in making unexpected and fortunate discoveries
 
 w: <<good_luck>>
-w: <<fluke>> drf [[file:adj.all.org::fluky]] drf [[file:adj.all.org::flukey]]
+w: <<fluke>> drf [[file:adjs.all.org::fluky]] drf [[file:adjs.all.org::flukey]]
 w: <<good_fortune>>
 hyper: [[luck1]]
 g: a stroke of luck
@@ -1722,7 +1722,7 @@ hyper: [[electromagnetic_radiation]]
 hp: [[electromagnetic_spectrum]]
 g: electromagnetic radiation emitted during radioactive decay and having an extremely short wavelength
 
-w: <<northeaster>> drf [[file:adj.all.org::northeasterly2]]
+w: <<northeaster>> drf [[file:adjs.all.org::northeasterly2]]
 w: <<noreaster>>
 hyper: [[storm]]
 g: a storm blowing from the northeast
@@ -1845,11 +1845,11 @@ w: <<fogbank>>
 hyper: [[fog]]
 g: a large mass of fog on the sea (as seen from a distance)
 
-w: <<fog>> drf [[file:adj.all.org::foggy]]
+w: <<fog>> drf [[file:adjs.all.org::foggy]]
 hyper: [[aerosol]]
 g: droplets of water vapor suspended in the air near the ground
 
-w: <<fluorescence>> drf [[file:adj.all.org::fluorescent]] drf [[file:verb.perception.org::fluoresce]]
+w: <<fluorescence>> drf [[file:adjs.all.org::fluorescent]] drf [[file:verb.perception.org::fluoresce]]
 hyper: [[light]]
 g: light emitted during absorption of radiation of some other (invisible) wavelength
 
@@ -2058,23 +2058,23 @@ w: <<elastic_potential_energy>>
 hyper: [[potential_energy]]
 g: potential energy that is stored when a body is deformed (as in a coiled spring)
 
-w: <<southeaster>> drf [[file:adj.all.org::southeasterly2]]
+w: <<southeaster>> drf [[file:adjs.all.org::southeasterly2]]
 w: <<sou'easter>>
 hyper: [[wind]]
 g: a strong wind from the southeast
 
-w: <<southwester>> drf [[file:adj.all.org::southwesterly2]]
+w: <<southwester>> drf [[file:adjs.all.org::southwesterly2]]
 w: <<sou'wester>>
 hyper: [[wind]]
 g: a strong wind from the southwest
 
 w: <<northwest_wind>>
-w: <<northwester>> drf [[file:adj.all.org::northwesterly2]]
+w: <<northwester>> drf [[file:adjs.all.org::northwesterly2]]
 hyper: [[wind]]
 g: a wind from the northwest
 
 w: <<east_wind>>
-w: <<easter>> drf [[file:adj.all.org::easterly1]]
+w: <<easter>> drf [[file:adjs.all.org::easterly1]]
 w: <<easterly>>
 hyper: [[wind]]
 g: a wind from the east
@@ -2174,11 +2174,11 @@ attr: [[file:adj.all.org::indehiscent]]
 g: (biology) release of material by splitting open of an organ or tissue; the natural bursting open at maturity of a fruit or other reproductive body to release seeds or spores or the bursting open of a surgically closed wound
 
 w: <<decay>> drf [[file:verb.change.org::decay2]] drf [[file:verb.change.org::decay]]
-w: <<decomposition>> drf [[file:adj.all.org::decompositional]] drf [[file:verb.change.org::decompose1]]
+w: <<decomposition>> drf [[file:adjs.all.org::decompositional]] drf [[file:verb.change.org::decompose1]]
 hyper: [[organic_phenomenon]]
 g: the organic phenomenon of rotting
 
-w: <<decalescence>> drf [[file:adj.all.org::decalescent]]
+w: <<decalescence>> drf [[file:adjs.all.org::decalescent]]
 hyper: [[physical_phenomenon]]
 g: phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal
 
@@ -2294,7 +2294,7 @@ hyper: [[light]]
 g: one or more circles of light seen around a luminous object
 
 w: <<freeze>> drf [[file:verb.weather.org::freeze10]] drf [[file:verb.body.org::freeze]]
-w: <<frost>> drf [[file:adj.all.org::frosty1]] drf [[file:verb.change.org::frost]]
+w: <<frost>> drf [[file:adjs.all.org::frosty1]] drf [[file:verb.change.org::frost]]
 hyper: [[cold_weather]]
 g: weather cold enough to cause freezing
 
@@ -2458,7 +2458,7 @@ w: <<cataclysm>>
 hyper: [[geological_phenomenon]]
 g: a sudden violent change in the earth's surface
 
-w: <<capillarity>> drf [[file:adj.all.org::capillary]]
+w: <<capillarity>> drf [[file:adjs.all.org::capillary]]
 w: <<capillary_action>>
 hyper: [[surface_tension]]
 g: a phenomenon associated with surface tension and resulting in the elevation or depression of liquids in capillaries
@@ -2527,10 +2527,10 @@ w: <<sea_breeze>>
 hyper: [[breeze]]
 g: a cooling breeze from the sea (during the daytime)
 
-w: <<breeze>> drf [[file:adj.all.org::breezy]] drf [[file:verb.weather.org::breeze]]
+w: <<breeze>> drf [[file:adjs.all.org::breezy]] drf [[file:verb.weather.org::breeze]]
 w: <<zephyr>>
 w: <<gentle_wind>>
-w: <<air>> drf [[file:adj.all.org::airy]]
+w: <<air>> drf [[file:adjs.all.org::airy]]
 hyper: [[wind]]
 g: a slight wind (usually refreshing); "the breeze was cooled by the lake"; "as he waited he could feel the air on his neck"
 
@@ -2620,7 +2620,7 @@ w: <<electron_beam>>
 hyper: [[electromagnetic_radiation]]
 g: a group of nearly parallel lines of electromagnetic radiation
 
-w: <<beam>> drf [[file:adj.all.org::beamy]] drf [[file:verb.weather.org::beam3]]
+w: <<beam>> drf [[file:adjs.all.org::beamy]] drf [[file:verb.weather.org::beam3]]
 w: <<beam_of_light>>
 w: <<light_beam>>
 w: <<ray>> drf [[file:verb.weather.org::ray]]
@@ -2637,7 +2637,7 @@ w: <<mishap1>>
 hyper: [[luck]]
 g: an unpredictable outcome that is unfortunate; "if I didn't have bad luck I wouldn't have any luck at all"
 
-w: <<autofluorescence>> drf [[file:adj.all.org::autofluorescent]]
+w: <<autofluorescence>> drf [[file:adjs.all.org::autofluorescent]]
 hyper: [[fluorescence]]
 g: self-induced fluorescence
 
@@ -2846,7 +2846,7 @@ hyper: [[natural_phenomenon]]
 dt: [[file:noun.cognition.org::biology]]
 g: (biology) a natural phenomenon involving living plants and animals
 
-w: <<luck1>> drf [[file:adj.all.org::lucky]] drf [[file:adj.all.org::lucky]]
+w: <<luck1>> drf [[file:adjs.all.org::lucky]] drf [[file:adj.all.org::lucky]]
 w: <<fortune1>>
 hyper: [[file:noun.Tops.org::phenomenon]]
 g: an unknown and unpredictable phenomenon that leads to a favorable outcome; "it was my good luck to be there"; "they say luck is a lady"; "it was as if fortune guided his hand"
@@ -2858,7 +2858,7 @@ w: <<hazard>> drf [[file:verb.communication.org::hazard]]
 hyper: [[file:noun.Tops.org::phenomenon]]
 g: an unknown and unpredictable phenomenon that causes an event to result one way rather than another; "bad luck caused his downfall"; "we ran into each other by pure chance"
 
-w: <<endogeny>> drf [[file:adj.all.org::endogenetic]]
+w: <<endogeny>> drf [[file:adjs.all.org::endogenetic]]
 hyper: [[geological_phenomenon]]
 g: a geological phenomenon below the surface of the earth
 
@@ -3000,7 +3000,7 @@ w: <<aftereffect>>
 hyper: [[consequence]]
 g: any result that follows its cause after an interval
 
-w: <<consequence>> drf [[file:adj.all.org::consequent]]
+w: <<consequence>> drf [[file:adjs.all.org::consequent]]
 w: <<effect>> drf [[file:verb.social.org::effect15]] drf [[file:verb.creation.org::effectuate]]
 w: <<outcome>>
 w: <<result>> drf [[file:verb.stative.org::result2]] drf [[file:verb.stative.org::result]]

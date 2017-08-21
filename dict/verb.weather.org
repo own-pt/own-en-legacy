@@ -158,7 +158,7 @@ w: <<give_off>>
 fr: 8 11
 g: give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.; "The ozone layer blocks some harmful rays which the sun emits"
 
-w: <<radiate>> property [[file:noun.attribute.org::radiance]] event [[file:noun.phenomenon.org::radiation]] drf [[file:adj.all.org::radiant]] drf [[file:noun.phenomenon.org::radiation]] drf [[file:noun.attribute.org::radiancy]] drf [[file:noun.attribute.org::radiance]]
+w: <<radiate>> property [[file:noun.attribute.org::radiance]] event [[file:noun.phenomenon.org::radiation]] drf [[file:adjs.all.org::radiant]] drf [[file:noun.phenomenon.org::radiation]] drf [[file:noun.attribute.org::radiancy]] drf [[file:noun.attribute.org::radiance]]
 hyper: [[emit]]
 fr: 1 11
 g: send out rays or waves; "The sun radiates heat"
@@ -175,13 +175,13 @@ fr: 1
 g: emit or produce sparks; "A high tension wire, brought down by a storm, can continue to spark"
 
 w: <<sparkle>> property [[file:noun.attribute.org::sparkle]] event [[file:noun.event.org::sparkle]] by-means-of [[file:noun.possession.org::sparkler]] drf [[file:noun.attribute.org::sparkle]] drf [[file:noun.event.org::sparkle]] drf [[file:noun.possession.org::sparkler]] drf [[file:noun.event.org::sparkling]]
-w: <<scintillate3>> property [[file:noun.attribute.org::scintillation]] drf [[file:adj.all.org::scintillant]] drf [[file:noun.attribute.org::scintillation]]
-w: <<coruscate>> event [[file:noun.event.org::coruscation]] drf [[file:adj.all.org::coruscant]] drf [[file:noun.event.org::coruscation]]
+w: <<scintillate3>> property [[file:noun.attribute.org::scintillation]] drf [[file:adjs.all.org::scintillant]] drf [[file:noun.attribute.org::scintillation]]
+w: <<coruscate>> event [[file:noun.event.org::coruscation]] drf [[file:adjs.all.org::coruscant]] drf [[file:noun.event.org::coruscation]]
 hyper: [[reflect]]
 fr: 1
 g: reflect brightly; "Unquarried marble sparkled on the hillside"
 
-w: <<luminesce>> result [[file:noun.phenomenon.org::luminescence]] event [[file:noun.attribute.org::luminescence]] drf [[file:adj.all.org::luminescent]] drf [[file:noun.phenomenon.org::luminescence]] drf [[file:noun.attribute.org::luminescence]]
+w: <<luminesce>> result [[file:noun.phenomenon.org::luminescence]] event [[file:noun.attribute.org::luminescence]] drf [[file:adjs.all.org::luminescent]] drf [[file:noun.phenomenon.org::luminescence]] drf [[file:noun.attribute.org::luminescence]]
 hyper: [[reflect]]
 fr: 1
 g: be or become luminescent; exhibit luminescence
@@ -203,7 +203,7 @@ w: <<take_in>>
 fr: 8 11
 g: suck or take up or in; "A black star absorbs all matter"
 
-w: <<opalesce>> property [[file:noun.attribute.org::opalescence]] drf [[file:adj.all.org::opalescent]] drf [[file:noun.attribute.org::opalescence]]
+w: <<opalesce>> property [[file:noun.attribute.org::opalescence]] drf [[file:adjs.all.org::opalescent]] drf [[file:noun.attribute.org::opalescence]]
 hyper: [[reflect]]
 fr: 1
 g: reflect light or colors like an opal; "Distant clouds opalesce like pale brocade"; "raindrops caught in a sunbeam seem to opalesce"
@@ -215,7 +215,7 @@ g: be sharply reflected; "The moon glared back at itself from the lake's surface
 
 w: <<twinkle>> event [[file:noun.event.org::twinkle]] by-means-of [[file:noun.object.org::twinkler]] drf [[file:noun.event.org::twinkle]] drf [[file:noun.object.org::twinkler]]
 w: <<winkle>>
-w: <<scintillate>> event [[file:noun.attribute.org::scintillation1]] drf [[file:adj.all.org::scintillant]] drf [[file:noun.attribute.org::scintillation1]] drf [[file:noun.object.org::scintilla]]
+w: <<scintillate>> event [[file:noun.attribute.org::scintillation1]] drf [[file:adjs.all.org::scintillant]] drf [[file:noun.attribute.org::scintillation1]] drf [[file:noun.object.org::scintilla]]
 hyper: [[shine]]
 dt: [[file:noun.object.org::celestial_body]]
 vg: [[scintillate1]]
@@ -282,8 +282,8 @@ hyper: [[file:verb.change.org::burn]]
 fr: 1
 g: burn brightly; "Every star seemed to flare with new intensity"
 
-w: <<burn2>> drf [[file:adj.all.org::burnable]]
-w: <<combust2>> event [[file:noun.act.org::combustion]] drf [[file:adj.all.org::combustible]] drf [[file:adj.all.org::combustive]] drf [[file:noun.act.org::combustion]]
+w: <<burn2>> drf [[file:adjs.all.org::burnable]]
+w: <<combust2>> event [[file:noun.act.org::combustion]] drf [[file:adj.all.org::combustible]] drf [[file:adjs.all.org::combustive]] drf [[file:noun.act.org::combustion]]
 cause: [[file:verb.change.org::burn]]
 vg: [[erupt]]
 fr: 8 11
@@ -336,10 +336,10 @@ fr: 1
 g: erupt in an uncontrolled manner; "The oil well blew out"
 
 w: <<erupt>>
-w: <<ignite1>> event [[file:noun.act.org::ignition]] drf [[file:adj.all.org::ignitible]] drf [[file:adj.all.org::ignitable]] drf [[file:noun.act.org::ignition]]
+w: <<ignite1>> event [[file:noun.act.org::ignition]] drf [[file:adjs.all.org::ignitible]] drf [[file:adjs.all.org::ignitable]] drf [[file:noun.act.org::ignition]]
 w: <<catch_fire>>
 w: <<take_fire>>
-w: <<combust>> drf [[file:adj.all.org::combustible]] drf [[file:adj.all.org::combustive]]
+w: <<combust>> drf [[file:adj.all.org::combustible]] drf [[file:adjs.all.org::combustive]]
 w: <<conflagrate>>
 hyper: [[file:verb.change.org::change_state]]
 vg: [[burn2]]
@@ -366,7 +366,7 @@ hyper: [[burn2]]
 fr: 8 11
 g: set fire to; cause to start burning; "Lightening set fire to the forest"
 
-w: <<ignite>> material [[file:noun.substance.org::ignitor]] material [[file:noun.substance.org::igniter]] instrument [[file:noun.artifact.org::ignitor]] instrument [[file:noun.artifact.org::igniter]] event [[file:noun.process.org::ignition]] event [[file:noun.act.org::ignition]] drf [[file:adj.all.org::ignitible]] drf [[file:adj.all.org::ignitable]] drf [[file:noun.process.org::ignition]] drf [[file:noun.act.org::ignition]] drf [[file:noun.substance.org::igniter]] drf [[file:noun.artifact.org::igniter]] drf [[file:noun.substance.org::ignitor]] drf [[file:noun.artifact.org::ignitor]] ant [[extinguish]]
+w: <<ignite>> material [[file:noun.substance.org::ignitor]] material [[file:noun.substance.org::igniter]] instrument [[file:noun.artifact.org::ignitor]] instrument [[file:noun.artifact.org::igniter]] event [[file:noun.process.org::ignition]] event [[file:noun.act.org::ignition]] drf [[file:adjs.all.org::ignitible]] drf [[file:adjs.all.org::ignitable]] drf [[file:noun.process.org::ignition]] drf [[file:noun.act.org::ignition]] drf [[file:noun.substance.org::igniter]] drf [[file:noun.artifact.org::igniter]] drf [[file:noun.substance.org::ignitor]] drf [[file:noun.artifact.org::ignitor]] ant [[extinguish]]
 w: <<light>> material [[file:noun.substance.org::lighter]] instrument [[file:noun.artifact.org::lighter]] instrument [[file:noun.artifact.org::light1]] drf [[file:noun.artifact.org::light1]] drf [[file:noun.substance.org::lighter]] drf [[file:noun.artifact.org::lighter]]
 cause: [[file:verb.change.org::burn]]
 hyper: [[burn2]]
@@ -446,7 +446,7 @@ hyper: [[rain]]
 fr: 3
 g: rain lightly; "When it drizzles in summer, hiking can be pleasant"
 
-w: <<liquefy>> event [[file:noun.process.org::liquefaction]] drf [[file:adj.all.org::liquefiable]] drf [[file:noun.process.org::liquefaction]]
+w: <<liquefy>> event [[file:noun.process.org::liquefaction]] drf [[file:adjs.all.org::liquefiable]] drf [[file:noun.process.org::liquefaction]]
 hyper: [[file:verb.change.org::change_state]]
 fr: 1
 g: become liquid; "The garden air overnight liquefied into a morning dew"

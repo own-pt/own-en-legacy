@@ -199,7 +199,7 @@ hyper: [[talk]]
 fr: 2 8
 g: utter meaningless sounds, like a baby, or utter in an incoherent way; "The old man is only babbling--don't pay attention"
 
-w: <<explain1>> event [[file:noun.communication.org::explanation]] drf [[file:adj.all.org::explanatory]] drf [[file:noun.communication.org::explanation]]
+w: <<explain1>> event [[file:noun.communication.org::explanation]] drf [[file:adjs.all.org::explanatory]] drf [[file:noun.communication.org::explanation]]
 hyper: [[state]]
 fr: 26
 g: define; "The committee explained their plan for fund-raising to the Dean"
@@ -261,7 +261,7 @@ hyper: [[communicate]]
 fr: 8
 g: communicate; "I'd like to share this idea with you"
 
-w: <<invite1>> event [[file:noun.communication.org::invitation]] drf [[file:adj.all.org::invitatory]] drf [[file:noun.communication.org::invitation]]
+w: <<invite1>> event [[file:noun.communication.org::invitation]] drf [[file:adjs.all.org::invitatory]] drf [[file:noun.communication.org::invitation]]
 w: <<call_for3>>
 hyper: [[request1]]
 vg: [[request1]]
@@ -350,7 +350,7 @@ g: pass on a communication; "The news was carried to every village in the provin
 
 w: <<carry2>> event [[file:noun.act.org::carry]] drf [[file:noun.act.org::carry]]
 w: <<convey1>>
-w: <<express2>> drf [[file:adj.all.org::expressible]] drf [[file:adj.all.org::expressive]]
+w: <<express2>> drf [[file:adj.all.org::expressible]] drf [[file:adjs.all.org::expressive]]
 vg: [[file:verb.motion.org::impart]]
 hyper: [[communicate]]
 fr: 8 11
@@ -532,7 +532,7 @@ hyper: [[pronounce1]]
 fr: 8
 g: pronounce with a flap, of alveolar sounds
 
-w: <<sibilate3>> event [[file:noun.communication.org::sibilation]] drf [[file:adj.all.org::sibilant]] drf [[file:noun.communication.org::sibilation]] drf [[file:noun.communication.org::sibilant]]
+w: <<sibilate3>> event [[file:noun.communication.org::sibilation]] drf [[file:adjs.all.org::sibilant]] drf [[file:noun.communication.org::sibilation]] drf [[file:noun.communication.org::sibilant]]
 hyper: [[pronounce1]]
 fr: 8
 g: pronounce with an initial sibilant
@@ -572,7 +572,7 @@ hyper: [[utter2]]
 fr: 1
 g: braying characteristic of donkeys
 
-w: <<sibilate2>> event [[file:noun.communication.org::sibilation]] drf [[file:adj.all.org::sibilant]] drf [[file:noun.communication.org::sibilation]] drf [[file:noun.communication.org::sibilant]]
+w: <<sibilate2>> event [[file:noun.communication.org::sibilation]] drf [[file:adjs.all.org::sibilant]] drf [[file:noun.communication.org::sibilation]] drf [[file:noun.communication.org::sibilant]]
 hyper: [[utter2]]
 fr: 2
 g: utter a sibilant
@@ -593,7 +593,7 @@ g: insert a sibilant sound before or after (another sound)
 w: <<hiss>> event [[file:noun.event.org::hiss]] event [[file:noun.communication.org::hiss]] agent [[file:noun.person.org::hisser]] drf [[file:noun.event.org::hiss]] drf [[file:noun.communication.org::hiss]] drf [[file:noun.person.org::hisser]] drf [[file:noun.event.org::hissing]]
 w: <<siss>>
 w: <<sizz>>
-w: <<sibilate>> event [[file:noun.event.org::sibilation]] drf [[file:adj.all.org::sibilant]] drf [[file:noun.event.org::sibilation]]
+w: <<sibilate>> event [[file:noun.event.org::sibilation]] drf [[file:adjs.all.org::sibilant]] drf [[file:noun.event.org::sibilation]]
 hyper: [[utter2]]
 fr: 1 2
 g: make a sharp hissing sound, as if to show disapproval
@@ -920,7 +920,7 @@ hyper: [[talk]]
 fr: 2 8 26
 g: talk indistinctly; usually in a low voice
 
-w: <<susurrate>> event [[file:noun.event.org::susurration]] event [[file:noun.communication.org::susurration]] drf [[file:adj.all.org::susurrant]] drf [[file:noun.event.org::susurrus]] drf [[file:noun.event.org::susurration]] drf [[file:noun.communication.org::susurration]]
+w: <<susurrate>> event [[file:noun.event.org::susurration]] event [[file:noun.communication.org::susurration]] drf [[file:adjs.all.org::susurrant]] drf [[file:noun.event.org::susurrus]] drf [[file:noun.event.org::susurration]] drf [[file:noun.communication.org::susurration]]
 hyper: [[murmur]]
 fr: 2
 g: issue soft noises
@@ -1064,7 +1064,7 @@ hyper: [[sign1]]
 fr: 1
 g: signal by or as if by a flag or light waved according to a code
 
-w: <<signify1>> drf [[file:adj.all.org::significant]]
+w: <<signify1>> drf [[file:adjs.all.org::significant]]
 hyper: [[indicate]]
 fr: 8 26
 g: make known with a word or signal; "He signified his wish to pay the bill for our meal"
@@ -1197,7 +1197,7 @@ hyper: [[agree4]]
 fr: 2
 g: make a compromise; arrive at a compromise; "nobody will get everything he wants; we all must compromise"
 
-w: <<agree4>> event [[file:noun.state.org::agreement1]] event [[file:noun.communication.org::agreement]] drf [[file:adj.all.org::agreeable]] drf [[file:noun.state.org::agreement1]] drf [[file:noun.communication.org::agreement]]
+w: <<agree4>> event [[file:noun.state.org::agreement1]] event [[file:noun.communication.org::agreement]] drf [[file:adjs.all.org::agreeable]] drf [[file:noun.state.org::agreement1]] drf [[file:noun.communication.org::agreement]]
 vg: [[agree]]
 fr: 2 22
 g: achieve harmony of opinion, feeling, or purpose; "No two of my colleagues would agree on whom to elect chairman"
@@ -1351,7 +1351,7 @@ vg: [[file:verb.social.org::excommunicate]]
 fr: 9 10
 g: exclude from a church or a religious community; "The gay priest was excommunicated when he married his partner"
 
-w: <<designate>> event [[file:noun.communication.org::designation]] event [[file:noun.act.org::designation1]] drf [[file:adj.all.org::designative]] drf [[file:noun.communication.org::designation]] drf [[file:noun.act.org::designation1]]
+w: <<designate>> event [[file:noun.communication.org::designation]] event [[file:noun.act.org::designation1]] drf [[file:adjs.all.org::designative]] drf [[file:noun.communication.org::designation]] drf [[file:noun.act.org::designation1]]
 w: <<denominate>> result [[file:noun.group.org::denomination1]] event [[file:noun.communication.org::denomination]] drf [[file:noun.group.org::denomination1]] drf [[file:noun.group.org::denomination]] drf [[file:noun.communication.org::denomination]]
 fr: 8 9 11
 g: assign a name or title to
@@ -1425,7 +1425,7 @@ hyper: [[opine]]
 fr: 2
 g: insert personal opinions into an objective statement
 
-w: <<opine>> event [[file:noun.communication.org::opinion1]] drf [[file:adj.all.org::opinionative]] drf [[file:noun.communication.org::opinion1]]
+w: <<opine>> event [[file:noun.communication.org::opinion1]] drf [[file:adjs.all.org::opinionative]] drf [[file:noun.communication.org::opinion1]]
 w: <<speak_up>>
 w: <<speak_out>>
 w: <<animadvert>>
@@ -1458,7 +1458,7 @@ hyper: [[mean1]]
 fr: 22
 g: move into a desired direction of discourse; "What are you driving at?"
 
-w: <<allude>> event [[file:noun.communication.org::allusion]] drf [[file:adj.all.org::allusive]] drf [[file:noun.communication.org::allusion]]
+w: <<allude>> event [[file:noun.communication.org::allusion]] drf [[file:adjs.all.org::allusive]] drf [[file:noun.communication.org::allusion]]
 w: <<touch9>>
 w: <<advert1>>
 entail: [[denote]]
@@ -1576,7 +1576,7 @@ hyper: [[talk]]
 fr: 2
 g: speak or write in generalities
 
-w: <<universalize>> drf [[file:adj.all.org::universal]]
+w: <<universalize>> drf [[file:adjs.all.org::universal]]
 w: <<universalise>>
 hyper: [[generalize1]]
 fr: 8
@@ -1623,7 +1623,7 @@ fr: 8 26
 g: reach a conclusion after a discussion or deliberation
 
 w: <<exemplify>> uses [[file:noun.cognition.org::example2]] uses [[file:noun.cognition.org::example1]] uses [[file:noun.cognition.org::example]] event [[file:noun.communication.org::exemplification]] event [[file:noun.event.org::example]] drf [[file:noun.communication.org::exemplification]] drf [[file:noun.event.org::example]] drf [[file:noun.cognition.org::example2]] drf [[file:noun.cognition.org::example1]] drf [[file:noun.cognition.org::example]]
-w: <<illustrate>> uses [[file:noun.cognition.org::illustration2]] event [[file:noun.communication.org::illustration1]] drf [[file:adj.all.org::illustrative]] drf [[file:noun.communication.org::illustration1]] drf [[file:noun.cognition.org::illustration2]]
+w: <<illustrate>> uses [[file:noun.cognition.org::illustration2]] event [[file:noun.communication.org::illustration1]] drf [[file:adjs.all.org::illustrative]] drf [[file:noun.communication.org::illustration1]] drf [[file:noun.cognition.org::illustration2]]
 w: <<instance>> uses [[file:noun.cognition.org::instance]] event [[file:noun.cognition.org::instance]] drf [[file:noun.cognition.org::instance]]
 hyper: [[elaborate]]
 fr: 8 11
@@ -1682,7 +1682,7 @@ hyper: [[guarantee]]
 fr: 8 26
 g: give a guarantee or promise of; "They stipulated to release all the prisoners"
 
-w: <<stipulate>> event [[file:noun.act.org::stipulation]] drf [[file:adj.all.org::stipulatory]] drf [[file:noun.act.org::stipulation]]
+w: <<stipulate>> event [[file:noun.act.org::stipulation]] drf [[file:adjs.all.org::stipulatory]] drf [[file:noun.act.org::stipulation]]
 w: <<qualify>> undergoer [[file:noun.attribute.org::qualification]] property [[file:noun.attribute.org::qualification]] drf [[file:noun.attribute.org::qualification]]
 w: <<condition>> undergoer [[file:noun.cognition.org::condition]] result [[file:noun.cognition.org::condition]] event [[file:noun.communication.org::condition2]] event [[file:noun.communication.org::condition1]] by-means-of [[file:noun.communication.org::condition2]] drf [[file:noun.communication.org::condition1]] drf [[file:noun.communication.org::condition2]] drf [[file:noun.cognition.org::condition]]
 w: <<specify3>> undergoer [[file:noun.communication.org::specification]] undergoer [[file:noun.act.org::specification1]] event [[file:noun.act.org::specification1]] by-means-of [[file:noun.communication.org::specification]] drf [[file:noun.communication.org::specification]] drf [[file:noun.act.org::specification1]]
@@ -1724,7 +1724,7 @@ fr: 8 16 26
 g: claim as due or just; "The bank demanded payment of the loan"
 
 w: <<maintain1>>
-w: <<defend1>> drf [[file:adj.all.org::defensible]] drf [[file:adj.all.org::defensive]]
+w: <<defend1>> drf [[file:adjs.all.org::defensible]] drf [[file:adjs.all.org::defensive]]
 hyper: [[affirm1]]
 fr: 8 26
 g: state or assert; "He maintained his innocence"
@@ -1745,7 +1745,7 @@ hyper: [[assert1]]
 fr: 8 26
 g: affirm or declare as an attribute or quality of; "The speech predicated the fitness of the candidate to be President"
 
-w: <<assert1>> event [[file:noun.communication.org::assertion]] drf [[file:adj.all.org::assertable]] drf [[file:noun.communication.org::assertion]]
+w: <<assert1>> event [[file:noun.communication.org::assertion]] drf [[file:adjs.all.org::assertable]] drf [[file:noun.communication.org::assertion]]
 w: <<asseverate>> event [[file:noun.communication.org::asseveration]] agent [[file:noun.person.org::asseverator]] drf [[file:noun.communication.org::asseveration]] drf [[file:noun.person.org::asseverator]]
 w: <<maintain>>
 hyper: [[insist]]
@@ -1778,7 +1778,7 @@ hyper: [[testify2]]
 fr: 8
 g: advance evidence for
 
-w: <<presume>> drf [[file:adj.all.org::presumptive]] drf [[file:adj.all.org::presumptive]]
+w: <<presume>> drf [[file:adjs.all.org::presumptive]] drf [[file:adjs.all.org::presumptive]]
 hyper: [[testify2]]
 fr: 11
 g: constitute reasonable evidence for; "A restaurant bill presumes the consumption of food"
@@ -1866,8 +1866,8 @@ hyper: [[validate]]
 fr: 8 11
 g: give circumstantial evidence for
 
-w: <<validate>> event [[file:noun.cognition.org::validation]] event [[file:noun.act.org::validation]] drf [[file:adj.all.org::validatory]] drf [[file:noun.cognition.org::validation]] drf [[file:noun.act.org::validation]]
-w: <<corroborate>> event [[file:noun.communication.org::corroboration]] drf [[file:adj.all.org::corroborative]] drf [[file:adj.all.org::corroboratory]] drf [[file:noun.communication.org::corroboration]]
+w: <<validate>> event [[file:noun.cognition.org::validation]] event [[file:noun.act.org::validation]] drf [[file:adjs.all.org::validatory]] drf [[file:noun.cognition.org::validation]] drf [[file:noun.act.org::validation]]
+w: <<corroborate>> event [[file:noun.communication.org::corroboration]] drf [[file:adjs.all.org::corroborative]] drf [[file:adjs.all.org::corroboratory]] drf [[file:noun.communication.org::corroboration]]
 hyper: [[confirm]]
 fr: 8 11
 g: give evidence for
@@ -1878,7 +1878,7 @@ dt: [[file:noun.group.org::law]]
 fr: 8
 g: attach or append a legal verification to (a pleading or petition)
 
-w: <<confirm>> by-means-of [[file:noun.communication.org::confirmation]] by-means-of [[file:noun.cognition.org::confirmation]] drf [[file:adj.all.org::confirmatory]] drf [[file:noun.communication.org::confirmation]] drf [[file:noun.cognition.org::confirmation]]
+w: <<confirm>> by-means-of [[file:noun.communication.org::confirmation]] by-means-of [[file:noun.cognition.org::confirmation]] drf [[file:adjs.all.org::confirmatory]] drf [[file:noun.communication.org::confirmation]] drf [[file:noun.cognition.org::confirmation]]
 w: <<reassert>> event [[file:noun.communication.org::reassertion]] drf [[file:noun.communication.org::reassertion]]
 hyper: [[affirm1]]
 fr: 8 26
@@ -1900,7 +1900,7 @@ g: affirm or avow formally or solemnly; "The suspect protested his innocence"
 
 w: <<affirm>> event [[file:noun.communication.org::affirmation2]] event [[file:noun.communication.org::affirmation]] agent [[file:noun.person.org::affirmer]] drf [[file:noun.communication.org::affirmation2]] drf [[file:noun.communication.org::affirmation]] drf [[file:noun.person.org::affirmer]]
 w: <<verify3>>
-w: <<assert>> event [[file:noun.communication.org::assertion1]] agent [[file:noun.person.org::asserter]] drf [[file:adj.all.org::assertable]] drf [[file:noun.communication.org::assertion1]] drf [[file:noun.person.org::asserter]]
+w: <<assert>> event [[file:noun.communication.org::assertion1]] agent [[file:noun.person.org::asserter]] drf [[file:adjs.all.org::assertable]] drf [[file:noun.communication.org::assertion1]] drf [[file:noun.person.org::asserter]]
 w: <<avow>> event [[file:noun.communication.org::avowal]] agent [[file:noun.person.org::avower1]] drf [[file:noun.person.org::avower1]] drf [[file:noun.communication.org::avowal]]
 w: <<aver>> event [[file:noun.communication.org::averment]] drf [[file:noun.communication.org::averment]]
 w: <<swan>>
@@ -2343,7 +2343,7 @@ hyper: [[write]]
 fr: 2 8 22
 g: mark with one's signature; write one's name (on); "She signed the letter and sent it off"; "Please sign here"
 
-w: <<amend>> event [[file:noun.communication.org::amendment]] event [[file:noun.act.org::amendment]] drf [[file:adj.all.org::amendatory]] drf [[file:noun.communication.org::amendment]] drf [[file:noun.act.org::amendment]]
+w: <<amend>> event [[file:noun.communication.org::amendment]] event [[file:noun.act.org::amendment]] drf [[file:adjs.all.org::amendatory]] drf [[file:noun.communication.org::amendment]] drf [[file:noun.act.org::amendment]]
 hyper: [[revise]]
 fr: 8
 g: make amendments to; "amend the document"
@@ -2570,7 +2570,7 @@ hyper: [[express]]
 fr: 8 9 10 11
 g: serve as a means of expressing something; "The flower represents a young girl"
 
-w: <<actualize>> drf [[file:adj.all.org::actual2]] drf [[file:adj.all.org::actual]]
+w: <<actualize>> drf [[file:adjs.all.org::actual2]] drf [[file:adj.all.org::actual]]
 w: <<actualise>>
 hyper: [[represent12]]
 fr: 8 11
@@ -2665,7 +2665,7 @@ hyper: [[utter2]]
 fr: 8
 g: utter fast and forcefully; "She shot back an answer"
 
-w: <<utter2>> by-means-of [[file:noun.communication.org::utterance]] agent [[file:noun.person.org::utterer2]] drf [[file:adj.all.org::utterable]] drf [[file:noun.person.org::utterer2]] drf [[file:noun.communication.org::utterance]]
+w: <<utter2>> by-means-of [[file:noun.communication.org::utterance]] agent [[file:noun.person.org::utterer2]] drf [[file:adjs.all.org::utterable]] drf [[file:noun.person.org::utterer2]] drf [[file:noun.communication.org::utterance]]
 w: <<emit>>
 w: <<let_out2>>
 w: <<let_loose>>
@@ -2844,7 +2844,7 @@ fr: 2
 g: proclaim one's support, sympathy, or opinion for or against; "His wife declared at once for moving to the West Coast"
 
 w: <<proclaim>> event [[file:noun.act.org::proclamation]] drf [[file:noun.act.org::proclamation]]
-w: <<exclaim1>> event [[file:noun.communication.org::exclamation1]] drf [[file:adj.all.org::exclamatory]] drf [[file:noun.communication.org::exclamation1]]
+w: <<exclaim1>> event [[file:noun.communication.org::exclamation1]] drf [[file:adjs.all.org::exclamatory]] drf [[file:noun.communication.org::exclamation1]]
 w: <<promulgate>> event [[file:noun.communication.org::promulgation1]] event [[file:noun.communication.org::promulgation]] event [[file:noun.act.org::promulgation]] drf [[file:noun.communication.org::promulgation1]] drf [[file:noun.communication.org::promulgation]] drf [[file:noun.act.org::promulgation]]
 hyper: [[declare]]
 fr: 8 26
@@ -2977,7 +2977,7 @@ dt: [[file:noun.communication.org::broadcast_medium]]
 fr: 8 11 21
 g: broadcast over the airwaves, as in radio or television; "We cannot air this X-rated song"
 
-w: <<recuse>> event [[file:noun.act.org::recusation]] event [[file:noun.act.org::recusal]] drf [[file:adj.all.org::recusant]] drf [[file:noun.act.org::recusation]] drf [[file:noun.act.org::recusal]]
+w: <<recuse>> event [[file:noun.act.org::recusation]] event [[file:noun.act.org::recusal]] drf [[file:adjs.all.org::recusant]] drf [[file:noun.act.org::recusation]] drf [[file:noun.act.org::recusal]]
 hyper: [[disqualify]]
 dt: [[file:noun.group.org::law]]
 fr: 9
@@ -3046,7 +3046,7 @@ g: spread by propaganda
 
 w: <<popularize>> event [[file:noun.act.org::popularization1]] agent [[file:noun.person.org::popularizer]] drf [[file:noun.act.org::popularization1]] drf [[file:noun.person.org::popularizer]]
 w: <<popularise>> event [[file:noun.act.org::popularisation1]] agent [[file:noun.person.org::populariser]] drf [[file:noun.act.org::popularisation1]] drf [[file:noun.person.org::populariser]]
-w: <<vulgarize>> event [[file:noun.act.org::vulgarization]] agent [[file:noun.person.org::vulgarizer1]] drf [[file:adj.all.org::vulgar]] drf [[file:noun.act.org::vulgarization]] drf [[file:noun.person.org::vulgarizer1]]
+w: <<vulgarize>> event [[file:noun.act.org::vulgarization]] agent [[file:noun.person.org::vulgarizer1]] drf [[file:adjs.all.org::vulgar]] drf [[file:noun.act.org::vulgarization]] drf [[file:noun.person.org::vulgarizer1]]
 w: <<vulgarise>> event [[file:noun.act.org::vulgarisation]] agent [[file:noun.person.org::vulgariser1]] drf [[file:noun.act.org::vulgarisation]] drf [[file:noun.person.org::vulgariser1]]
 w: <<generalize4>>
 w: <<generalise4>>
@@ -3105,12 +3105,12 @@ w: <<circulate>> event [[file:noun.act.org::circulation]] drf [[file:noun.act.or
 w: <<circularize>>
 w: <<circularise>> drf [[file:noun.communication.org::circular]]
 w: <<distribute>>
-w: <<disseminate>> property [[file:noun.attribute.org::dissemination]] event [[file:noun.communication.org::dissemination]] event [[file:noun.act.org::dissemination]] agent [[file:noun.person.org::disseminator]] drf [[file:adj.all.org::disseminative]] drf [[file:noun.communication.org::dissemination]] drf [[file:noun.attribute.org::dissemination]] drf [[file:noun.act.org::dissemination]] drf [[file:noun.person.org::disseminator]]
+w: <<disseminate>> property [[file:noun.attribute.org::dissemination]] event [[file:noun.communication.org::dissemination]] event [[file:noun.act.org::dissemination]] agent [[file:noun.person.org::disseminator]] drf [[file:adjs.all.org::disseminative]] drf [[file:noun.communication.org::dissemination]] drf [[file:noun.attribute.org::dissemination]] drf [[file:noun.act.org::dissemination]] drf [[file:noun.person.org::disseminator]]
 w: <<propagate>> event [[file:noun.communication.org::propagation]] agent [[file:noun.person.org::propagator]] drf [[file:noun.communication.org::propagation]] drf [[file:noun.person.org::propagator]]
 w: <<broadcast>> drf [[file:noun.communication.org::broadcast1]] drf [[file:noun.communication.org::broadcast]]
 w: <<spread>> event [[file:noun.event.org::spread]] event [[file:noun.attribute.org::spread]] event [[file:noun.act.org::spread]] drf [[file:noun.act.org::spread]] drf [[file:noun.attribute.org::spread]] drf [[file:noun.event.org::spread]] drf [[file:noun.communication.org::spreading]]
-w: <<diffuse>> event [[file:noun.act.org::diffusion]] drf [[file:adj.all.org::diffusive]] drf [[file:noun.act.org::diffusion]]
-w: <<disperse>> event [[file:noun.act.org::dispersion]] event [[file:noun.act.org::dispersal]] drf [[file:adj.all.org::dispersive]] drf [[file:noun.act.org::dispersion]] drf [[file:noun.act.org::dispersal]]
+w: <<diffuse>> event [[file:noun.act.org::diffusion]] drf [[file:adjs.all.org::diffusive]] drf [[file:noun.act.org::diffusion]]
+w: <<disperse>> event [[file:noun.act.org::dispersion]] event [[file:noun.act.org::dispersal]] drf [[file:adjs.all.org::dispersive]] drf [[file:noun.act.org::dispersion]] drf [[file:noun.act.org::dispersal]]
 w: <<pass_around>>
 cause: [[go_around]]
 hyper: [[publicize]]
@@ -3275,7 +3275,7 @@ hyper: [[talk1]]
 fr: 12
 g: speak in a condescending manner, as if to a child; "He talks down to her"
 
-w: <<talk1>> event [[file:noun.communication.org::talk3]] event [[file:noun.communication.org::talk]] drf [[file:adj.all.org::talkative]] drf [[file:noun.communication.org::talk3]] drf [[file:noun.communication.org::talk]] drf [[file:noun.communication.org::talking]]
+w: <<talk1>> event [[file:noun.communication.org::talk3]] event [[file:noun.communication.org::talk]] drf [[file:adjs.all.org::talkative]] drf [[file:noun.communication.org::talk3]] drf [[file:noun.communication.org::talk]] drf [[file:noun.communication.org::talking]]
 w: <<speak1>> drf [[file:noun.communication.org::speech4]] see [[file:verb.social.org::speak_for]]
 hyper: [[communicate]]
 fr: 1 2 4 22 27
@@ -3395,9 +3395,9 @@ fr: 2
 g: psychology: repeat a response after the cessation of the original stimulus; "The subjects in this study perseverated"
 
 w: <<repeat>> event [[file:noun.act.org::repetition]] event [[file:noun.event.org::repeat]] drf [[file:noun.event.org::repeat]] drf [[file:noun.act.org::repetition]]
-w: <<reiterate>> event [[file:noun.act.org::reiteration]] drf [[file:adj.all.org::reiterative]] drf [[file:noun.act.org::reiteration]]
+w: <<reiterate>> event [[file:noun.act.org::reiteration]] drf [[file:adjs.all.org::reiterative]] drf [[file:noun.act.org::reiteration]]
 w: <<ingeminate>>
-w: <<iterate>> event [[file:noun.process.org::iteration1]] event [[file:noun.process.org::iteration]] event [[file:noun.act.org::iteration]] drf [[file:adj.all.org::iterative]] drf [[file:noun.process.org::iteration1]] drf [[file:noun.process.org::iteration]] drf [[file:noun.act.org::iteration]]
+w: <<iterate>> event [[file:noun.process.org::iteration1]] event [[file:noun.process.org::iteration]] event [[file:noun.act.org::iteration]] drf [[file:adjs.all.org::iterative]] drf [[file:noun.process.org::iteration1]] drf [[file:noun.process.org::iteration]] drf [[file:noun.act.org::iteration]]
 w: <<restate>> result [[file:noun.communication.org::restatement]] drf [[file:noun.communication.org::restatement]]
 w: <<retell>>
 hyper: [[tell]]
@@ -3472,7 +3472,7 @@ w: <<exposit1>> event [[file:noun.communication.org::exposition1]] drf [[file:no
 w: <<enlarge4>> event [[file:noun.communication.org::enlargement]] drf [[file:noun.communication.org::enlargement]]
 w: <<flesh_out>>
 w: <<expand10>> event [[file:noun.communication.org::expansion]] event [[file:noun.act.org::expansion1]] drf [[file:noun.communication.org::expansion]] drf [[file:noun.act.org::expansion1]] ant [[file:verb.change.org::contract5]]
-w: <<expound>> drf [[file:adj.all.org::expository]] drf [[file:noun.person.org::exponent1]] drf [[file:noun.communication.org::expounding]]
+w: <<expound>> drf [[file:adjs.all.org::expository]] drf [[file:noun.person.org::exponent1]] drf [[file:noun.communication.org::expounding]]
 w: <<dilate10>> event [[file:noun.communication.org::dilation]] drf [[file:noun.communication.org::dilation]]
 hyper: [[clarify]]
 fr: 2 8 11 22
@@ -3540,7 +3540,7 @@ fr: 8 11
 g: twist and turn so as to give an intended interpretation; "The President's spokesmen had to spin the story to make it less embarrassing"
 
 w: <<tell1>> agent [[file:noun.person.org::teller3]] drf [[file:noun.communication.org::tale]] drf [[file:noun.person.org::teller3]] drf [[file:noun.communication.org::telling1]] fr 14
-w: <<narrate>> event [[file:noun.communication.org::narration2]] event [[file:noun.communication.org::narration]] by-means-of [[file:noun.communication.org::narration1]] agent [[file:noun.person.org::narrator]] drf [[file:adj.all.org::narrative]] drf [[file:noun.communication.org::narration2]] drf [[file:noun.communication.org::narration1]] drf [[file:noun.communication.org::narration]] drf [[file:noun.person.org::narrator]]
+w: <<narrate>> event [[file:noun.communication.org::narration2]] event [[file:noun.communication.org::narration]] by-means-of [[file:noun.communication.org::narration1]] agent [[file:noun.person.org::narrator]] drf [[file:adjs.all.org::narrative]] drf [[file:noun.communication.org::narration2]] drf [[file:noun.communication.org::narration1]] drf [[file:noun.communication.org::narration]] drf [[file:noun.person.org::narrator]]
 w: <<recount>> drf [[file:noun.communication.org::recounting]]
 w: <<recite1>> event [[file:noun.communication.org::recital4]] event [[file:noun.communication.org::recital1]] drf [[file:noun.communication.org::recital4]] drf [[file:noun.communication.org::recital1]]
 hyper: [[inform]]
@@ -3667,7 +3667,7 @@ w: <<sum>> result [[file:noun.group.org::sum]] result [[file:noun.cognition.org:
 w: <<sum_up3>>
 w: <<summate>> drf [[file:noun.group.org::sum]] drf [[file:noun.cognition.org::sum1]] drf [[file:noun.artifact.org::sum]]
 w: <<tote_up>>
-w: <<add>> by-means-of [[file:noun.act.org::addition1]] agent [[file:noun.artifact.org::adder]] drf [[file:adj.all.org::addible]] drf [[file:adj.all.org::additive4]] drf [[file:adj.all.org::additive]] drf [[file:adj.all.org::addable]] drf [[file:noun.act.org::addition1]] drf [[file:noun.artifact.org::adder]]
+w: <<add>> by-means-of [[file:noun.act.org::addition1]] agent [[file:noun.artifact.org::adder]] drf [[file:adjs.all.org::addible]] drf [[file:adj.all.org::additive4]] drf [[file:adj.all.org::additive]] drf [[file:adjs.all.org::addable]] drf [[file:noun.act.org::addition1]] drf [[file:noun.artifact.org::adder]]
 w: <<add_together>>
 w: <<tally>> event [[file:noun.act.org::tally]] drf [[file:noun.act.org::tally]]
 w: <<add_up>>
@@ -3698,10 +3698,10 @@ hyper: [[count]]
 fr: 2 8
 g: count wrongly
 
-w: <<count>> instrument [[file:noun.artifact.org::counter6]] instrument [[file:noun.artifact.org::counter1]] by-means-of [[file:noun.artifact.org::counter3]] agent [[file:noun.person.org::counter]] drf [[file:adj.all.org::countable]] drf [[file:noun.artifact.org::counter6]] drf [[file:noun.artifact.org::counter3]] drf [[file:noun.artifact.org::counter1]] drf [[file:noun.act.org::counting]] drf [[file:noun.person.org::counter]]
+w: <<count>> instrument [[file:noun.artifact.org::counter6]] instrument [[file:noun.artifact.org::counter1]] by-means-of [[file:noun.artifact.org::counter3]] agent [[file:noun.person.org::counter]] drf [[file:adjs.all.org::countable]] drf [[file:noun.artifact.org::counter6]] drf [[file:noun.artifact.org::counter3]] drf [[file:noun.artifact.org::counter1]] drf [[file:noun.act.org::counting]] drf [[file:noun.person.org::counter]]
 w: <<number>> undergoer [[file:noun.communication.org::number2]] undergoer [[file:noun.communication.org::number1]] undergoer [[file:noun.attribute.org::number]] state [[file:noun.quantity.org::number]] property [[file:noun.quantity.org::number]] property [[file:noun.communication.org::number2]] property [[file:noun.communication.org::number1]] property [[file:noun.attribute.org::number]] drf [[file:noun.communication.org::number1]] drf [[file:noun.communication.org::number2]] drf [[file:noun.quantity.org::number]] drf [[file:noun.attribute.org::number]]
 w: <<enumerate1>> event [[file:noun.act.org::enumeration]] agent [[file:noun.person.org::enumerator]] drf [[file:noun.act.org::enumeration]] drf [[file:noun.person.org::enumerator]]
-w: <<numerate>> event [[file:noun.act.org::numeration]] drf [[file:adj.all.org::numerable]] drf [[file:noun.act.org::numeration]]
+w: <<numerate>> event [[file:noun.act.org::numeration]] drf [[file:adjs.all.org::numerable]] drf [[file:noun.act.org::numeration]]
 hyper: [[determine]]
 fr: 8 9 11
 g: determine the number or amount of; "Can you count the books on your shelf?"; "Count your change"
@@ -3728,7 +3728,7 @@ g: mention and identify by name; "name your accomplices!"
 
 w: <<specify2>>
 w: <<set>> result [[file:noun.cognition.org::set1]] drf [[file:noun.cognition.org::set1]]
-w: <<determine3>> by-means-of [[file:noun.communication.org::determiner]] by-means-of [[file:noun.cognition.org::determiner]] drf [[file:adj.all.org::determinant]] drf [[file:noun.communication.org::determiner]] drf [[file:noun.cognition.org::determiner]]
+w: <<determine3>> by-means-of [[file:noun.communication.org::determiner]] by-means-of [[file:noun.cognition.org::determiner]] drf [[file:adjs.all.org::determinant]] drf [[file:noun.communication.org::determiner]] drf [[file:noun.cognition.org::determiner]]
 w: <<define1>>
 w: <<fix3>>
 w: <<limit>> property [[file:noun.attribute.org::limit]] event [[file:noun.time.org::limit]] drf [[file:noun.time.org::limit]] drf [[file:noun.attribute.org::limit]]
@@ -3786,7 +3786,7 @@ hyper: [[file:verb.cognition.org::reason1]]
 fr: 26
 g: conclude from evidence; "I gather you have not done your homework"
 
-w: <<deduce>> by-means-of [[file:noun.cognition.org::deduction]] drf [[file:adj.all.org::deducible]] drf [[file:adj.all.org::deductive]] drf [[file:noun.cognition.org::deduction]] drf [[file:adj.pert.org::deductive]]
+w: <<deduce>> by-means-of [[file:noun.cognition.org::deduction]] drf [[file:adjs.all.org::deducible]] drf [[file:adj.all.org::deductive]] drf [[file:noun.cognition.org::deduction]] drf [[file:adj.pert.org::deductive]]
 w: <<infer>> event [[file:noun.cognition.org::inference]] drf [[file:noun.cognition.org::inference]]
 hyper: [[file:verb.cognition.org::reason1]]
 fr: 8 26
@@ -3815,7 +3815,7 @@ hyper: [[express1]]
 fr: 8
 g: manifest or show; "This student gives promise of real creativity"; "The office gave evidence of tampering"
 
-w: <<express1>> drf [[file:adj.all.org::expressible]] drf [[file:adj.all.org::expressive]]
+w: <<express1>> drf [[file:adj.all.org::expressible]] drf [[file:adjs.all.org::expressive]]
 w: <<show2>>
 w: <<evince>>
 hyper: [[convey]]
@@ -3848,7 +3848,7 @@ g: be verbose; "This lawyer verbalizes and is rather tedious"
 
 w: <<talk>> event [[file:noun.communication.org::talk3]] event [[file:noun.communication.org::talk]] agent [[file:noun.person.org::talker]] drf [[file:noun.communication.org::talk3]] drf [[file:noun.communication.org::talk]] drf [[file:noun.person.org::talker]]
 w: <<speak>> agent [[file:noun.person.org::speaker]] drf [[file:noun.communication.org::speech6]] drf [[file:noun.person.org::speaker]] drf [[file:noun.communication.org::speaking1]] see [[speak_up3]]
-w: <<utter>> by-means-of [[file:noun.communication.org::utterance]] agent [[file:noun.person.org::utterer]] drf [[file:adj.all.org::utterable]] drf [[file:noun.person.org::utterer]] drf [[file:noun.communication.org::utterance]]
+w: <<utter>> by-means-of [[file:noun.communication.org::utterance]] agent [[file:noun.person.org::utterer]] drf [[file:adjs.all.org::utterable]] drf [[file:noun.person.org::utterer]] drf [[file:noun.communication.org::utterance]]
 w: <<mouth>> event [[file:noun.communication.org::mouth]] by-means-of [[file:noun.body.org::mouth]] agent [[file:noun.person.org::mouth1]] drf [[file:noun.communication.org::mouth]] drf [[file:noun.person.org::mouth1]] drf [[file:noun.body.org::mouth]] drf [[file:noun.body.org::mouth1]] see [[mouth_off]]
 w: <<verbalize>> event [[file:noun.communication.org::verbalization]] agent [[file:noun.person.org::verbalizer]] drf [[file:noun.communication.org::verbalization]] drf [[file:noun.person.org::verbalizer]]
 w: <<verbalise>> event [[file:noun.communication.org::verbalisation]] drf [[file:noun.communication.org::verbalisation]]
@@ -3893,10 +3893,10 @@ hyper: [[talk]]
 fr: 8
 g: utter indistinctly; "She swallowed the last words of her speech"
 
-w: <<express>> event [[file:noun.communication.org::expression4]] drf [[file:adj.all.org::expressible]] drf [[file:adj.all.org::expressive]] drf [[file:noun.communication.org::expression4]]
+w: <<express>> event [[file:noun.communication.org::expression4]] drf [[file:adj.all.org::expressible]] drf [[file:adjs.all.org::expressive]] drf [[file:noun.communication.org::expression4]]
 w: <<verbalize3>>
 w: <<verbalise3>> event [[file:noun.communication.org::verbalisation]] drf [[file:noun.communication.org::verbalisation]]
-w: <<utter1>> by-means-of [[file:noun.communication.org::utterance]] agent [[file:noun.person.org::utterer2]] drf [[file:adj.all.org::utterable]] drf [[file:noun.person.org::utterer2]] drf [[file:noun.communication.org::utterance]]
+w: <<utter1>> by-means-of [[file:noun.communication.org::utterance]] agent [[file:noun.person.org::utterer2]] drf [[file:adjs.all.org::utterable]] drf [[file:noun.person.org::utterer2]] drf [[file:noun.communication.org::utterance]]
 w: <<give_tongue_to>>
 fr: 8
 g: articulate; either verbally or with a cry, shout, or noise; "She expressed her anger"; "He uttered a curse"
@@ -3908,7 +3908,7 @@ g: make obscure or unclear
 
 w: <<clarify>> by-means-of [[file:noun.communication.org::clarification]] drf [[file:noun.communication.org::clarification]] ant [[obfuscate]]
 w: <<clear_up>>
-w: <<elucidate>> event [[file:noun.communication.org::elucidation1]] event [[file:noun.communication.org::elucidation]] drf [[file:adj.all.org::elucidative]] drf [[file:noun.attribute.org::lucidity]] drf [[file:noun.communication.org::elucidation1]] drf [[file:noun.communication.org::elucidation]]
+w: <<elucidate>> event [[file:noun.communication.org::elucidation1]] event [[file:noun.communication.org::elucidation]] drf [[file:adjs.all.org::elucidative]] drf [[file:noun.attribute.org::lucidity]] drf [[file:noun.communication.org::elucidation1]] drf [[file:noun.communication.org::elucidation]]
 hyper: [[explain]]
 fr: 8 11
 g: make clear and (more) comprehensible; "clarify the mystery surrounding her death"
@@ -3923,7 +3923,7 @@ hyper: [[explain]]
 fr: 8 11
 g: give reasons for; "Can you account for all these absences?"
 
-w: <<explain>> event [[file:noun.communication.org::explanation1]] drf [[file:adj.all.org::explanatory]] drf [[file:noun.communication.org::explanation1]]
+w: <<explain>> event [[file:noun.communication.org::explanation1]] drf [[file:adjs.all.org::explanatory]] drf [[file:noun.communication.org::explanation1]]
 w: <<explicate>> event [[file:noun.communication.org::explication1]] event [[file:noun.communication.org::explication]] drf [[file:noun.communication.org::explication1]] drf [[file:noun.communication.org::explication]]
 hyper: [[inform]]
 fr: 8 9 11 26
@@ -3957,7 +3957,7 @@ fr: 8
 g: interpret the moral meaning of; "moralize a story"
 
 w: <<rede1>>
-w: <<interpret>> uses [[file:noun.communication.org::interpretation]] uses [[file:noun.cognition.org::interpretation1]] uses [[file:noun.cognition.org::interpretation]] event [[file:noun.act.org::interpretation2]] drf [[file:adj.all.org::interpretive]] drf [[file:adj.all.org::interpretative]] drf [[file:noun.communication.org::interpretation]] drf [[file:noun.cognition.org::interpretation1]] drf [[file:noun.cognition.org::interpretation]] drf [[file:noun.act.org::interpretation2]] drf [[file:noun.cognition.org::interpreting]]
+w: <<interpret>> uses [[file:noun.communication.org::interpretation]] uses [[file:noun.cognition.org::interpretation1]] uses [[file:noun.cognition.org::interpretation]] event [[file:noun.act.org::interpretation2]] drf [[file:adjs.all.org::interpretive]] drf [[file:adjs.all.org::interpretative]] drf [[file:noun.communication.org::interpretation]] drf [[file:noun.cognition.org::interpretation1]] drf [[file:noun.cognition.org::interpretation]] drf [[file:noun.act.org::interpretation2]] drf [[file:noun.cognition.org::interpreting]]
 hyper: [[explain]]
 fr: 8 11
 g: give an interpretation or explanation to
@@ -3981,7 +3981,7 @@ g: refrain from divulging sensitive information; keep quiet about confidential i
 
 w: <<spill_the_beans>>
 w: <<let_the_cat_out_of_the_bag>>
-w: <<talk6>> event [[file:noun.communication.org::talk1]] drf [[file:adj.all.org::talkative]] drf [[file:noun.communication.org::talk1]] ant [[keep_quiet]]
+w: <<talk6>> event [[file:noun.communication.org::talk1]] drf [[file:adjs.all.org::talkative]] drf [[file:noun.communication.org::talk1]] ant [[keep_quiet]]
 w: <<tattle1>> event [[file:noun.communication.org::tattle]] agent [[file:noun.person.org::tattler]] drf [[file:noun.communication.org::tattle]] drf [[file:noun.person.org::tattler]]
 w: <<blab>> agent [[file:noun.person.org::blabber]] drf [[file:noun.person.org::blabber]]
 w: <<peach>>
@@ -4135,7 +4135,7 @@ hyper: [[mean1]]
 fr: 11
 g: indicate or signify; "I'm afraid this spells trouble!"
 
-w: <<signify>> undergoer [[file:noun.communication.org::significance]] by-means-of [[file:noun.communication.org::significance]] by-means-of [[file:noun.communication.org::sign5]] by-means-of [[file:noun.communication.org::sign4]] by-means-of [[file:noun.communication.org::sign3]] by-means-of [[file:noun.communication.org::sign1]] drf [[file:adj.all.org::significant]] drf [[file:noun.communication.org::sign4]] drf [[file:noun.communication.org::sign3]] drf [[file:noun.communication.org::sign1]] drf [[file:noun.communication.org::sign5]] drf [[file:noun.communication.org::significance]]
+w: <<signify>> undergoer [[file:noun.communication.org::significance]] by-means-of [[file:noun.communication.org::significance]] by-means-of [[file:noun.communication.org::sign5]] by-means-of [[file:noun.communication.org::sign4]] by-means-of [[file:noun.communication.org::sign3]] by-means-of [[file:noun.communication.org::sign1]] drf [[file:adjs.all.org::significant]] drf [[file:noun.communication.org::sign4]] drf [[file:noun.communication.org::sign3]] drf [[file:noun.communication.org::sign1]] drf [[file:noun.communication.org::sign5]] drf [[file:noun.communication.org::significance]]
 vg: [[mean3]]
 hyper: [[mean1]]
 fr: 11 15 21
@@ -4155,7 +4155,7 @@ vg: [[signify]]
 fr: 11
 g: denote or connote; "`maison' means `house' in French"; "An example sentence would show what this word means"
 
-w: <<denote>> undergoer [[file:noun.cognition.org::denotation]] drf [[file:adj.all.org::denotive]] drf [[file:adj.all.org::denotative]] drf [[file:adj.all.org::denotative]] drf [[file:noun.cognition.org::denotation]]
+w: <<denote>> undergoer [[file:noun.cognition.org::denotation]] drf [[file:adj.all.org::denotive]] drf [[file:adjs.all.org::denotative]] drf [[file:adj.all.org::denotative]] drf [[file:noun.cognition.org::denotation]]
 w: <<refer>> event [[file:noun.cognition.org::reference1]] event [[file:noun.cognition.org::reference]] drf [[file:noun.cognition.org::reference1]] drf [[file:noun.cognition.org::reference]] fr 4 22
 hyper: [[mean3]]
 vg: [[denote1]]
@@ -4173,19 +4173,19 @@ hyper: [[suggest2]]
 fr: 8 9 10 11
 g: imply or suggest; "Your remarks make me out to be stupid"
 
-w: <<suggest2>> event [[file:noun.communication.org::suggestion1]] drf [[file:adj.all.org::suggestible]] drf [[file:adj.all.org::suggestive]] drf [[file:adj.all.org::suggestive]] drf [[file:noun.communication.org::suggestion1]]
+w: <<suggest2>> event [[file:noun.communication.org::suggestion1]] drf [[file:adjs.all.org::suggestible]] drf [[file:adjs.all.org::suggestive]] drf [[file:adjs.all.org::suggestive]] drf [[file:noun.communication.org::suggestion1]]
 w: <<intimate1>> event [[file:noun.communication.org::intimation]] event [[file:noun.cognition.org::intimation]] drf [[file:noun.communication.org::intimation]] drf [[file:noun.cognition.org::intimation]]
 hyper: [[imply1]]
 fr: 11
 g: imply as a possibility; "The evidence suggests a need for more clarification"
 
-w: <<imply1>> event [[file:noun.relation.org::implication1]] drf [[file:adj.all.org::implicative]] drf [[file:noun.relation.org::implication1]]
+w: <<imply1>> event [[file:noun.relation.org::implication1]] drf [[file:adjs.all.org::implicative]] drf [[file:noun.relation.org::implication1]]
 hyper: [[express1]]
 fr: 11
 g: suggest as a logically necessary consequence; in logic
 
 w: <<suggest1>> event [[file:noun.cognition.org::suggestion1]] drf [[file:noun.cognition.org::suggestion1]]
-w: <<evoke1>> event [[file:noun.cognition.org::evocation]] drf [[file:adj.all.org::evocative]] drf [[file:noun.cognition.org::evocation]]
+w: <<evoke1>> event [[file:noun.cognition.org::evocation]] drf [[file:adjs.all.org::evocative]] drf [[file:noun.cognition.org::evocation]]
 w: <<paint_a_picture>>  fr 2
 hyper: [[express1]]
 fr: 11
@@ -4201,7 +4201,7 @@ hyper: [[express1]]
 fr: 2 33
 g: give sudden release to an expression; "We burst out laughing"; "'I hate you,' she burst out"
 
-w: <<imply>> event [[file:noun.cognition.org::implication]] drf [[file:adj.all.org::implicative]] drf [[file:noun.cognition.org::implication]]
+w: <<imply>> event [[file:noun.cognition.org::implication]] drf [[file:adjs.all.org::implicative]] drf [[file:noun.cognition.org::implication]]
 w: <<connote1>> undergoer [[file:noun.cognition.org::connotation]] drf [[file:noun.cognition.org::connotation]]
 hyper: [[express1]]
 fr: 8 11 26
@@ -4243,7 +4243,7 @@ hyper: [[rede]]
 fr: 11
 g: make a treatment inadvisable
 
-w: <<indicate4>> by-means-of [[file:noun.communication.org::indication3]] by-means-of [[file:noun.communication.org::indication2]] drf [[file:adj.all.org::indicative]] drf [[file:noun.communication.org::indication3]] drf [[file:noun.communication.org::indication2]] ant [[contraindicate]]
+w: <<indicate4>> by-means-of [[file:noun.communication.org::indication3]] by-means-of [[file:noun.communication.org::indication2]] drf [[file:adjs.all.org::indicative]] drf [[file:noun.communication.org::indication3]] drf [[file:noun.communication.org::indication2]] ant [[contraindicate]]
 w: <<suggest3>>
 hyper: [[inform]]
 fr: 11
@@ -4267,12 +4267,12 @@ fr: 26
 g: give to understand; "I insinuated that I did not like his wife"
 
 w: <<hint>> event [[file:noun.communication.org::hint2]] event [[file:noun.communication.org::hint1]] event [[file:noun.communication.org::hint]] drf [[file:noun.communication.org::hint2]] drf [[file:noun.communication.org::hint1]] drf [[file:noun.communication.org::hint]]
-w: <<suggest4>> event [[file:noun.communication.org::suggestion]] agent [[file:noun.person.org::suggester]] drf [[file:adj.all.org::suggestible]] drf [[file:noun.communication.org::suggestion]] drf [[file:noun.person.org::suggester]]
+w: <<suggest4>> event [[file:noun.communication.org::suggestion]] agent [[file:noun.person.org::suggester]] drf [[file:adjs.all.org::suggestible]] drf [[file:noun.communication.org::suggestion]] drf [[file:noun.person.org::suggester]]
 hyper: [[convey]]
 fr: 2 22 26
 g: drop a hint; intimate by a hint
 
-w: <<speculate>> event [[file:noun.communication.org::speculation3]] agent [[file:noun.person.org::speculator1]] drf [[file:adj.all.org::speculative]] drf [[file:noun.communication.org::speculation3]] drf [[file:noun.person.org::speculator1]]
+w: <<speculate>> event [[file:noun.communication.org::speculation3]] agent [[file:noun.person.org::speculator1]] drf [[file:adjs.all.org::speculative]] drf [[file:noun.communication.org::speculation3]] drf [[file:noun.person.org::speculator1]]
 hyper: [[file:verb.cognition.org::reason]]
 fr: 2 26
 g: talk over conjecturally, or review in an idle or casual way and with an element of doubt or without sufficient reason to reach a conclusion; "We were speculating whether the President had to resign after the scandal"
@@ -4290,7 +4290,7 @@ fr: 8 11 26
 g: predict or reveal through, or as if through, divine inspiration
 
 w: <<forecast>> event [[file:noun.communication.org::forecast]] agent [[file:noun.person.org::forecaster]] drf [[file:noun.communication.org::forecast]] drf [[file:noun.person.org::forecaster]] drf [[file:noun.communication.org::forecasting]]
-w: <<calculate1>> event [[file:noun.cognition.org::calculation1]] event [[file:noun.act.org::calculation]] drf [[file:adj.all.org::calculable]] drf [[file:adj.all.org::calculative]] drf [[file:noun.cognition.org::calculation1]] drf [[file:noun.act.org::calculation]]
+w: <<calculate1>> event [[file:noun.cognition.org::calculation1]] event [[file:noun.act.org::calculation]] drf [[file:adj.all.org::calculable]] drf [[file:adjs.all.org::calculative]] drf [[file:noun.cognition.org::calculation1]] drf [[file:noun.act.org::calculation]]
 hyper: [[predict]]
 fr: 8 26
 g: predict in advance
@@ -4443,7 +4443,7 @@ g: designate as if by a mark; "This sign marks the border"
 
 w: <<bespeak1>>
 w: <<betoken1>>
-w: <<indicate1>> by-means-of [[file:noun.communication.org::indication2]] by-means-of [[file:noun.communication.org::indication]] drf [[file:adj.all.org::indicative]] drf [[file:noun.communication.org::indication2]] drf [[file:noun.communication.org::indication]] drf [[file:noun.communication.org::indicant1]] drf [[file:noun.communication.org::indicator1]]
+w: <<indicate1>> by-means-of [[file:noun.communication.org::indication2]] by-means-of [[file:noun.communication.org::indication]] drf [[file:adjs.all.org::indicative]] drf [[file:noun.communication.org::indication2]] drf [[file:noun.communication.org::indication]] drf [[file:noun.communication.org::indicant1]] drf [[file:noun.communication.org::indicator1]]
 w: <<point12>>  fr 4
 w: <<signal1>> by-means-of [[file:noun.communication.org::signal]] drf [[file:noun.communication.org::signal]]
 hyper: [[tell]]
@@ -4456,7 +4456,7 @@ hyper: [[guess]]
 fr: 8 26
 g: imagine to be the case or true or probable; "I suspect he is a fugitive"; "I surmised that the butler did it"
 
-w: <<refract>> drf [[file:adj.all.org::refractive]] drf [[file:adj.pert.org::refractive]]
+w: <<refract>> drf [[file:adjs.all.org::refractive]] drf [[file:adj.pert.org::refractive]]
 hyper: [[determine]]
 fr: 8
 g: determine the refracting power of (a lens)
@@ -4470,7 +4470,7 @@ w: <<determine1>> event [[file:noun.act.org::determination]] drf [[file:noun.act
 w: <<check10>> event [[file:noun.act.org::check5]] drf [[file:noun.act.org::check5]]
 w: <<find_out1>>
 w: <<see>>
-w: <<ascertain>> drf [[file:adj.all.org::ascertainable]]
+w: <<ascertain>> drf [[file:adjs.all.org::ascertainable]]
 w: <<watch9>>
 w: <<learn2>>
 vg: [[file:verb.cognition.org::see3]]
@@ -4507,7 +4507,7 @@ g: determine the capacity, volume, or contents of by measurement and calculation
 w: <<determine>> event [[file:noun.act.org::determination1]] event [[file:noun.act.org::determination]] drf [[file:noun.act.org::determination1]] drf [[file:noun.act.org::determination]]
 w: <<find>> result [[file:noun.cognition.org::find]] drf [[file:noun.cognition.org::find]] drf [[file:noun.object.org::finding]]
 w: <<find_out>>
-w: <<ascertain1>> drf [[file:adj.all.org::ascertainable]]
+w: <<ascertain1>> drf [[file:adjs.all.org::ascertainable]]
 vg: [[determine1]]
 vg: [[file:verb.creation.org::discover]]
 fr: 8 29
@@ -4534,12 +4534,12 @@ hyper: [[prophesy]]
 fr: 8
 g: foretell through or as if through the power of prophecy
 
-w: <<predict>> event [[file:noun.cognition.org::prediction]] agent [[file:noun.person.org::predictor]] drf [[file:adj.all.org::predictive]] drf [[file:noun.cognition.org::prediction]] drf [[file:noun.person.org::predictor]]
+w: <<predict>> event [[file:noun.cognition.org::prediction]] agent [[file:noun.person.org::predictor]] drf [[file:adjs.all.org::predictive]] drf [[file:noun.cognition.org::prediction]] drf [[file:noun.person.org::predictor]]
 w: <<foretell>> drf [[file:noun.communication.org::foretelling]]
-w: <<prognosticate>> event [[file:noun.communication.org::prognostication]] event [[file:noun.cognition.org::prognostication]] agent [[file:noun.person.org::prognosticator]] drf [[file:adj.all.org::prognosticative]] drf [[file:noun.communication.org::prognostication]] drf [[file:noun.cognition.org::prognostication]] drf [[file:noun.communication.org::prognosis]] drf [[file:noun.person.org::prognosticator]]
+w: <<prognosticate>> event [[file:noun.communication.org::prognostication]] event [[file:noun.cognition.org::prognostication]] agent [[file:noun.person.org::prognosticator]] drf [[file:adjs.all.org::prognosticative]] drf [[file:noun.communication.org::prognostication]] drf [[file:noun.cognition.org::prognostication]] drf [[file:noun.communication.org::prognosis]] drf [[file:noun.person.org::prognosticator]]
 w: <<call10>>
 w: <<forebode>> drf [[file:noun.feeling.org::foreboding]] drf [[file:noun.event.org::foreboding]]
-w: <<anticipate>> drf [[file:adj.all.org::anticipatory]]
+w: <<anticipate>> drf [[file:adjs.all.org::anticipatory]]
 w: <<promise2>>
 hyper: [[guess]]
 fr: 8 26
@@ -4706,7 +4706,7 @@ hyper: [[talk]]
 fr: 2 8 26
 g: utter in a loud voice; talk in a loud voice (usually denoting characteristic manner of speaking); "My grandmother is hard of hearing--you'll have to shout"
 
-w: <<exclaim>> event [[file:noun.communication.org::exclamation]] drf [[file:adj.all.org::exclamatory]] drf [[file:noun.communication.org::exclamation]] drf [[file:noun.communication.org::exclaiming]]
+w: <<exclaim>> event [[file:noun.communication.org::exclamation]] drf [[file:adjs.all.org::exclamatory]] drf [[file:noun.communication.org::exclamation]] drf [[file:noun.communication.org::exclaiming]]
 w: <<cry7>>
 w: <<cry_out>>
 w: <<outcry>>
@@ -4736,7 +4736,7 @@ fr: 28
 g: express with regret; "I regret to say that you did not gain admission to Harvard"
 
 w: <<deplore1>>
-w: <<lament>> agent [[file:noun.person.org::lamenter]] drf [[file:adj.all.org::lamentable]] drf [[file:noun.person.org::lamenter]]
+w: <<lament>> agent [[file:noun.person.org::lamenter]] drf [[file:adjs.all.org::lamentable]] drf [[file:noun.person.org::lamenter]]
 w: <<bewail>>
 w: <<bemoan>>
 hyper: [[complain]]
@@ -4784,7 +4784,7 @@ hyper: [[protest]]
 fr: 20
 g: speak against in an impassioned manner; "he declaimed against the wasteful ways of modern society"
 
-w: <<protest>> event [[file:noun.communication.org::protestation]] event [[file:noun.communication.org::protest1]] event [[file:noun.communication.org::protest]] agent [[file:noun.person.org::protester1]] agent [[file:noun.person.org::protester]] drf [[file:adj.all.org::protestant]] drf [[file:noun.communication.org::protest1]] drf [[file:noun.communication.org::protest]] drf [[file:noun.communication.org::protestation]] drf [[file:noun.person.org::protester1]] drf [[file:noun.person.org::protester]]
+w: <<protest>> event [[file:noun.communication.org::protestation]] event [[file:noun.communication.org::protest1]] event [[file:noun.communication.org::protest]] agent [[file:noun.person.org::protester1]] agent [[file:noun.person.org::protester]] drf [[file:adjs.all.org::protestant]] drf [[file:noun.communication.org::protest1]] drf [[file:noun.communication.org::protest]] drf [[file:noun.communication.org::protestation]] drf [[file:noun.person.org::protester1]] drf [[file:noun.person.org::protester]]
 hyper: [[complain]]
 fr: 2 22 26
 g: utter words of protest
@@ -4843,7 +4843,7 @@ hyper: [[file:verb.emotion.org::encourage]]
 fr: 8 9 10 11
 g: help develop, help grow; "nurture his talents"
 
-w: <<deter1>> event [[file:noun.act.org::deterrence]] drf [[file:adj.all.org::deterrent]] drf [[file:noun.cognition.org::deterrent]] drf [[file:noun.act.org::deterrence]]
+w: <<deter1>> event [[file:noun.act.org::deterrence]] drf [[file:adjs.all.org::deterrent]] drf [[file:noun.cognition.org::deterrent]] drf [[file:noun.act.org::deterrence]]
 w: <<discourage1>> event [[file:noun.act.org::discouragement]] drf [[file:noun.act.org::discouragement]]
 hyper: [[disapprove]]
 fr: 9 10 11
@@ -4907,7 +4907,7 @@ g: find or declare guilty; "The man was convicted of fraud and sentenced"
 
 w: <<extenuate>> event [[file:noun.communication.org::extenuation]] event [[file:noun.act.org::extenuation]] drf [[file:noun.communication.org::extenuation]] drf [[file:noun.act.org::extenuation]]
 w: <<palliate>> event [[file:noun.act.org::palliation1]] drf [[file:noun.act.org::palliation1]]
-w: <<mitigate>> event [[file:noun.communication.org::mitigation]] event [[file:noun.act.org::mitigation]] drf [[file:adj.all.org::mitigative]] drf [[file:adj.all.org::mitigatory]] drf [[file:noun.communication.org::mitigation]] drf [[file:noun.act.org::mitigation]]
+w: <<mitigate>> event [[file:noun.communication.org::mitigation]] event [[file:noun.act.org::mitigation]] drf [[file:adjs.all.org::mitigative]] drf [[file:adjs.all.org::mitigatory]] drf [[file:noun.communication.org::mitigation]] drf [[file:noun.act.org::mitigation]]
 hyper: [[apologize1]]
 dt: [[file:noun.group.org::law]]
 fr: 11
@@ -4960,7 +4960,7 @@ w: <<acquit>> result [[file:noun.act.org::acquittal]] drf [[file:noun.act.org::a
 w: <<assoil1>>
 w: <<clear>> state [[file:noun.state.org::clear]] drf [[file:noun.state.org::clear]] drf [[file:noun.act.org::clearing]]
 w: <<discharge>>
-w: <<exonerate>> state [[file:noun.state.org::exoneration]] event [[file:noun.act.org::exoneration]] drf [[file:adj.all.org::exonerative]] drf [[file:noun.state.org::exoneration]] drf [[file:noun.act.org::exoneration]]
+w: <<exonerate>> state [[file:noun.state.org::exoneration]] event [[file:noun.act.org::exoneration]] drf [[file:adjs.all.org::exonerative]] drf [[file:noun.state.org::exoneration]] drf [[file:noun.act.org::exoneration]]
 w: <<exculpate>> event [[file:noun.act.org::exculpation]] drf [[file:adj.all.org::exculpatory]] drf [[file:noun.act.org::exculpation]]
 entail: [[file:verb.cognition.org::evaluate1]]
 hyper: [[pronounce]]
@@ -4973,7 +4973,7 @@ fr: 8
 g: forgive; "God will remit their sins"
 
 w: <<shrive>>
-w: <<absolve2>> state [[file:noun.state.org::absolution]] event [[file:noun.act.org::absolution]] agent [[file:noun.person.org::absolver]] drf [[file:adj.all.org::absolvitory]] drf [[file:noun.state.org::absolution]] drf [[file:noun.act.org::absolution]] drf [[file:noun.person.org::absolver]]
+w: <<absolve2>> state [[file:noun.state.org::absolution]] event [[file:noun.act.org::absolution]] agent [[file:noun.person.org::absolver]] drf [[file:adjs.all.org::absolvitory]] drf [[file:noun.state.org::absolution]] drf [[file:noun.act.org::absolution]] drf [[file:noun.person.org::absolver]]
 hyper: [[forgive]]
 fr: 9
 g: grant remission of a sin to; "The priest absolved him and told him to say ten Hail Mary's"
@@ -5011,7 +5011,7 @@ hyper: [[absolve]]
 fr: 22
 g: to absolve oneself of responsibility or future blame; "I wash my hands of this"
 
-w: <<absolve>> drf [[file:adj.all.org::absolvitory]] ant [[blame]]
+w: <<absolve>> drf [[file:adjs.all.org::absolvitory]] ant [[blame]]
 w: <<justify3>> by-means-of [[file:noun.communication.org::justification]] drf [[file:noun.communication.org::justification]]
 w: <<free>>
 hyper: [[forgive]]
@@ -5033,7 +5033,7 @@ g: make a preliminary introduction, usually to a formal document
 w: <<precede3>>
 w: <<preface>> uses [[file:noun.communication.org::preface]] drf [[file:noun.communication.org::preface]]
 w: <<premise1>>
-w: <<introduce1>> drf [[file:adj.all.org::introductory]] drf [[file:adj.all.org::introductory]]
+w: <<introduce1>> drf [[file:adjs.all.org::introductory]] drf [[file:adjs.all.org::introductory]]
 hyper: [[state]]
 fr: 8
 g: furnish with a preface or introduction; "She always precedes her lectures with a joke"; "He prefaced his lecture with a critical remark about the institution"
@@ -5062,7 +5062,7 @@ hyper: [[greet]]
 fr: 2 27
 g: say good-bye or bid farewell
 
-w: <<dismiss1>> event [[file:noun.communication.org::dismissal1]] drf [[file:noun.communication.org::dismissal1]] drf [[file:adj.all.org::dismissive]]
+w: <<dismiss1>> event [[file:noun.communication.org::dismissal1]] drf [[file:noun.communication.org::dismissal1]] drf [[file:adjs.all.org::dismissive]]
 w: <<usher_out>>
 hyper: [[say_farewell]]
 fr: 9
@@ -5180,7 +5180,7 @@ hyper: [[communicate]]
 fr: 9
 g: send greetings to
 
-w: <<justify1>> event [[file:noun.act.org::justification]] by-means-of [[file:noun.communication.org::justification]] by-means-of [[file:noun.cognition.org::justification]] drf [[file:adj.all.org::justificative]] drf [[file:adj.all.org::justificatory]] drf [[file:adj.all.org::justifiable]] drf [[file:noun.communication.org::justification]] drf [[file:noun.cognition.org::justification]] drf [[file:noun.act.org::justification]]
+w: <<justify1>> event [[file:noun.act.org::justification]] by-means-of [[file:noun.communication.org::justification]] by-means-of [[file:noun.cognition.org::justification]] drf [[file:adjs.all.org::justificative]] drf [[file:adjs.all.org::justificatory]] drf [[file:adjs.all.org::justifiable]] drf [[file:noun.communication.org::justification]] drf [[file:noun.cognition.org::justification]] drf [[file:noun.act.org::justification]]
 w: <<warrant>>
 hyper: [[confirm]]
 fr: 11
@@ -5197,8 +5197,8 @@ hyper: [[confirm]]
 fr: 8
 g: support against an opponent; "The appellate court upheld the verdict"
 
-w: <<justify>> by-means-of [[file:noun.communication.org::justification]] by-means-of [[file:noun.cognition.org::justification]] agent [[file:noun.person.org::justifier]] drf [[file:adj.all.org::justificative]] drf [[file:adj.all.org::justificative]] drf [[file:adj.all.org::justificatory]] drf [[file:noun.communication.org::justification]] drf [[file:noun.cognition.org::justification]] drf [[file:noun.person.org::justifier]]
-w: <<vindicate>> uses [[file:noun.communication.org::vindication]] agent [[file:noun.person.org::vindicator]] drf [[file:adj.all.org::vindicatory]] drf [[file:noun.communication.org::vindication]] drf [[file:noun.person.org::vindicator]]
+w: <<justify>> by-means-of [[file:noun.communication.org::justification]] by-means-of [[file:noun.cognition.org::justification]] agent [[file:noun.person.org::justifier]] drf [[file:adjs.all.org::justificative]] drf [[file:adjs.all.org::justificative]] drf [[file:adjs.all.org::justificatory]] drf [[file:noun.communication.org::justification]] drf [[file:noun.cognition.org::justification]] drf [[file:noun.person.org::justifier]]
+w: <<vindicate>> uses [[file:noun.communication.org::vindication]] agent [[file:noun.person.org::vindicator]] drf [[file:adjs.all.org::vindicatory]] drf [[file:noun.communication.org::vindication]] drf [[file:noun.person.org::vindicator]]
 hyper: [[uphold2]]
 fr: 8 11
 g: show to be right by providing justification or proof; "vindicate a claim"
@@ -5229,7 +5229,7 @@ g: argue or speak in defense of; "She supported the motion to strike"
 w: <<apologize1>>
 w: <<apologise1>> drf [[file:noun.communication.org::apology2]] drf [[file:noun.communication.org::apology]]
 w: <<excuse1>> by-means-of [[file:noun.communication.org::excuse]] drf [[file:adj.all.org::excusatory]] drf [[file:noun.communication.org::excuse]]
-w: <<justify2>> event [[file:noun.act.org::justification]] by-means-of [[file:noun.communication.org::justification]] by-means-of [[file:noun.cognition.org::justification]] agent [[file:noun.person.org::justifier]] drf [[file:adj.all.org::justificative]] drf [[file:adj.all.org::justificatory]] drf [[file:adj.all.org::justifiable]] drf [[file:noun.communication.org::justification]] drf [[file:noun.cognition.org::justification]] drf [[file:noun.act.org::justification]] drf [[file:noun.person.org::justifier]]
+w: <<justify2>> event [[file:noun.act.org::justification]] by-means-of [[file:noun.communication.org::justification]] by-means-of [[file:noun.cognition.org::justification]] agent [[file:noun.person.org::justifier]] drf [[file:adjs.all.org::justificative]] drf [[file:adjs.all.org::justificatory]] drf [[file:adjs.all.org::justifiable]] drf [[file:noun.communication.org::justification]] drf [[file:noun.cognition.org::justification]] drf [[file:noun.act.org::justification]] drf [[file:noun.person.org::justifier]]
 w: <<rationalize>> event [[file:noun.cognition.org::rationalization]] drf [[file:noun.cognition.org::rationalization]]
 w: <<rationalise>> event [[file:noun.cognition.org::rationalisation]] drf [[file:noun.cognition.org::rationalisation]]
 hyper: [[defend]]
@@ -5352,7 +5352,7 @@ vg: [[guarantee]]
 fr: 11
 g: make certain of; "This nest egg will ensure a nice retirement for us"; "Preparation will guarantee success!"
 
-w: <<bail>> by-means-of [[file:noun.cognition.org::bail]] agent [[file:noun.person.org::bailor]] drf [[file:adj.all.org::bailable]] drf [[file:noun.person.org::bailor]] drf [[file:noun.cognition.org::bail]]
+w: <<bail>> by-means-of [[file:noun.cognition.org::bail]] agent [[file:noun.person.org::bailor]] drf [[file:adjs.all.org::bailable]] drf [[file:noun.person.org::bailor]] drf [[file:noun.cognition.org::bail]]
 hyper: [[guarantee]]
 vg: [[file:verb.social.org::bail]]
 fr: 9
@@ -5541,7 +5541,7 @@ fr: 26 28
 g: make a promise or commitment
 
 w: <<preen>>
-w: <<congratulate11>> event [[file:noun.communication.org::congratulation]] drf [[file:adj.all.org::congratulatory]] drf [[file:noun.communication.org::congratulation]]
+w: <<congratulate11>> event [[file:noun.communication.org::congratulation]] drf [[file:adjs.all.org::congratulatory]] drf [[file:noun.communication.org::congratulation]]
 hyper: [[gloat]]
 fr: 2
 g: pride or congratulate (oneself) for an achievement
@@ -5605,7 +5605,7 @@ hyper: [[praise]]
 fr: 2 22
 g: praise enthusiastically; "She raved about that new restaurant"
 
-w: <<congratulate1>> event [[file:noun.communication.org::congratulation1]] event [[file:noun.communication.org::congratulation]] drf [[file:adj.all.org::congratulatory]] drf [[file:noun.communication.org::congratulation1]] drf [[file:noun.communication.org::congratulation]]
+w: <<congratulate1>> event [[file:noun.communication.org::congratulation1]] event [[file:noun.communication.org::congratulation]] drf [[file:adjs.all.org::congratulatory]] drf [[file:noun.communication.org::congratulation1]] drf [[file:noun.communication.org::congratulation]]
 w: <<felicitate>> event [[file:noun.communication.org::felicitation1]] event [[file:noun.communication.org::felicitation]] drf [[file:noun.attribute.org::felicity]] drf [[file:noun.communication.org::felicitation1]] drf [[file:noun.communication.org::felicitation]]
 hyper: [[wish]]
 fr: 9 20
@@ -5617,7 +5617,7 @@ fr: 9
 g: express respect or esteem for
 
 w: <<compliment>> undergoer [[file:noun.communication.org::compliment]] event [[file:noun.communication.org::compliment]] drf [[file:noun.communication.org::compliment]]
-w: <<congratulate>> event [[file:noun.communication.org::congratulation1]] drf [[file:adj.all.org::congratulatory]] drf [[file:noun.communication.org::congratulation1]]
+w: <<congratulate>> event [[file:noun.communication.org::congratulation1]] drf [[file:adjs.all.org::congratulatory]] drf [[file:noun.communication.org::congratulation1]]
 hyper: [[praise]]
 fr: 9 20
 g: say something to someone that expresses praise; "He complimented her on her last physics paper"
@@ -5658,7 +5658,7 @@ hyper: [[flatter]]
 fr: 9
 g: treat gingerly or carefully; "You have to stroke the boss"
 
-w: <<adulate>> agent [[file:noun.person.org::adulator]] drf [[file:adj.all.org::adulatory]] drf [[file:noun.person.org::adulator]]
+w: <<adulate>> agent [[file:noun.person.org::adulator]] drf [[file:adjs.all.org::adulatory]] drf [[file:noun.person.org::adulator]]
 hyper: [[flatter]]
 fr: 8 9
 g: flatter in an obsequious manner
@@ -5682,7 +5682,7 @@ hyper: [[request2]]
 fr: 2 27
 g: ask (someone) to marry you; "he popped the question on Sunday night"; "she proposed marriage to the man she had known for only two months"; "The old bachelor finally declared himself to the young woman"
 
-w: <<nominate>> state [[file:noun.state.org::nomination]] event [[file:noun.communication.org::nomination]] event [[file:noun.act.org::nomination]] agent [[file:noun.person.org::nominator]] drf [[file:adj.all.org::nominative]] drf [[file:noun.state.org::nomination]] drf [[file:noun.communication.org::nomination]] drf [[file:noun.act.org::nomination]] drf [[file:noun.person.org::nominator]]
+w: <<nominate>> state [[file:noun.state.org::nomination]] event [[file:noun.communication.org::nomination]] event [[file:noun.act.org::nomination]] agent [[file:noun.person.org::nominator]] drf [[file:adjs.all.org::nominative]] drf [[file:noun.state.org::nomination]] drf [[file:noun.communication.org::nomination]] drf [[file:noun.act.org::nomination]] drf [[file:noun.person.org::nominator]]
 w: <<put_up>>
 w: <<put_forward1>>
 hyper: [[file:verb.social.org::nominate2]]
@@ -5719,7 +5719,7 @@ g: refer for judgment or consideration; "The lawyers submitted the material to t
 
 w: <<submit2>> state [[file:noun.state.org::submission]] event [[file:noun.act.org::submission1]] agent [[file:noun.person.org::submitter1]] drf [[file:adj.all.org::submissive]] drf [[file:noun.state.org::submission]] drf [[file:noun.act.org::submission1]] drf [[file:noun.person.org::submitter1]]
 w: <<bow1>>
-w: <<defer>> event [[file:noun.attribute.org::deference1]] drf [[file:adj.all.org::deferent]] drf [[file:noun.attribute.org::deference1]]
+w: <<defer>> event [[file:noun.attribute.org::deference1]] drf [[file:adjs.all.org::deferent]] drf [[file:noun.attribute.org::deference1]]
 w: <<accede>>
 w: <<give_in2>>
 hyper: [[yield]]
@@ -5741,7 +5741,7 @@ hyper: [[inform]]
 fr: 9 10
 g: assist (somebody acting or reciting) by suggesting the next words of something forgotten or imperfectly learned
 
-w: <<consult2>> event [[file:noun.communication.org::consultation1]] event [[file:noun.communication.org::consultation]] drf [[file:adj.all.org::consultive]] drf [[file:adj.all.org::consultative]] drf [[file:adj.all.org::consultatory]] drf [[file:noun.communication.org::consultation1]] drf [[file:noun.communication.org::consultation]] fr 2
+w: <<consult2>> event [[file:noun.communication.org::consultation1]] event [[file:noun.communication.org::consultation]] drf [[file:adjs.all.org::consultive]] drf [[file:adjs.all.org::consultative]] drf [[file:adjs.all.org::consultatory]] drf [[file:noun.communication.org::consultation1]] drf [[file:noun.communication.org::consultation]] fr 2
 w: <<confer_with>>
 hyper: [[ask]]
 fr: 8 9
@@ -5772,7 +5772,7 @@ hyper: [[hash_out]]
 fr: 2
 g: have a conference in order to talk something over; "We conferred about a plan of action"
 
-w: <<consult>> event [[file:noun.communication.org::consultation1]] drf [[file:adj.all.org::consultive]] drf [[file:adj.all.org::consultative]] drf [[file:adj.all.org::consultatory]] drf [[file:noun.communication.org::consultation1]] drf [[file:noun.person.org::consultant]]
+w: <<consult>> event [[file:noun.communication.org::consultation1]] drf [[file:adjs.all.org::consultive]] drf [[file:adjs.all.org::consultative]] drf [[file:adjs.all.org::consultatory]] drf [[file:noun.communication.org::consultation1]] drf [[file:noun.person.org::consultant]]
 hyper: [[rede]]
 fr: 2 9
 g: advise professionally; "The professor consults for industry"
@@ -5806,14 +5806,14 @@ fr: 8
 g: bring forward for consideration or acceptance; "advance an argument"
 
 w: <<propose>> event [[file:noun.communication.org::proposition2]] event [[file:noun.communication.org::proposal1]] agent [[file:noun.person.org::proposer1]] drf [[file:noun.communication.org::proposition2]] drf [[file:noun.person.org::proposer1]] drf [[file:noun.communication.org::proposal1]]
-w: <<suggest>> event [[file:noun.communication.org::suggestion1]] event [[file:noun.communication.org::suggestion]] agent [[file:noun.person.org::suggester]] drf [[file:adj.all.org::suggestible]] drf [[file:noun.communication.org::suggestion1]] drf [[file:noun.communication.org::suggestion]] drf [[file:noun.person.org::suggester]]
+w: <<suggest>> event [[file:noun.communication.org::suggestion1]] event [[file:noun.communication.org::suggestion]] agent [[file:noun.person.org::suggester]] drf [[file:adjs.all.org::suggestible]] drf [[file:noun.communication.org::suggestion1]] drf [[file:noun.communication.org::suggestion]] drf [[file:noun.person.org::suggester]]
 w: <<advise2>>
 hyper: [[declare]]
 fr: 8
 g: make a proposal, declare a plan for something; "the senator proposed to abolish the sales tax"
 
 w: <<recommend1>> undergoer [[file:noun.communication.org::recommendation]] drf [[file:noun.communication.org::recommendation]]
-w: <<urge3>> drf [[file:adj.all.org::urgent]] drf [[file:noun.communication.org::urgency]]
+w: <<urge3>> drf [[file:adjs.all.org::urgent]] drf [[file:noun.communication.org::urgency]]
 w: <<advocate>>
 hyper: [[propose]]
 fr: 8 11 26
@@ -5854,7 +5854,7 @@ fr: 8
 g: require the presentation of for redemption before maturation; "Call a bond"
 
 w: <<advise1>>
-w: <<notify>> uses [[file:noun.communication.org::notification1]] event [[file:noun.communication.org::notification1]] event [[file:noun.communication.org::notification]] event [[file:noun.communication.org::notice2]] event [[file:noun.communication.org::notice1]] drf [[file:noun.communication.org::notification1]] drf [[file:noun.communication.org::notification]] drf [[file:noun.communication.org::notice2]] drf [[file:noun.communication.org::notice1]] drf [[file:adj.all.org::notifiable]]
+w: <<notify>> uses [[file:noun.communication.org::notification1]] event [[file:noun.communication.org::notification1]] event [[file:noun.communication.org::notification]] event [[file:noun.communication.org::notice2]] event [[file:noun.communication.org::notice1]] drf [[file:noun.communication.org::notification1]] drf [[file:noun.communication.org::notification]] drf [[file:noun.communication.org::notice2]] drf [[file:noun.communication.org::notice1]] drf [[file:adjs.all.org::notifiable]]
 w: <<give_notice>>
 w: <<send_word>>
 w: <<apprise>> event [[file:noun.communication.org::apprisal]] drf [[file:noun.communication.org::apprisal]]
@@ -5870,7 +5870,7 @@ fr: 9 10 24
 g: give insider information or advise to; "He tipped off the police about the terrorist plot"
 
 w: <<rede>>
-w: <<advise>> undergoer [[file:noun.person.org::advisee]] event [[file:noun.cognition.org::advisement]] agent [[file:noun.person.org::advisor]] agent [[file:noun.person.org::adviser]] drf [[file:adj.all.org::advisable]] drf [[file:adj.all.org::advisory]] drf [[file:noun.communication.org::advisory]] drf [[file:noun.cognition.org::advisement]] drf [[file:noun.person.org::advisee]] drf [[file:noun.person.org::advisor]] drf [[file:noun.person.org::adviser]]
+w: <<advise>> undergoer [[file:noun.person.org::advisee]] event [[file:noun.cognition.org::advisement]] agent [[file:noun.person.org::advisor]] agent [[file:noun.person.org::adviser]] drf [[file:adj.all.org::advisable]] drf [[file:adjs.all.org::advisory]] drf [[file:noun.communication.org::advisory]] drf [[file:noun.cognition.org::advisement]] drf [[file:noun.person.org::advisee]] drf [[file:noun.person.org::advisor]] drf [[file:noun.person.org::adviser]]
 w: <<counsel>> by-means-of [[file:noun.communication.org::counsel]] agent [[file:noun.person.org::counselor1]] agent [[file:noun.person.org::counsellor1]] agent [[file:noun.person.org::counsel]] drf [[file:noun.person.org::counsel]] drf [[file:noun.communication.org::counsel]] drf [[file:noun.person.org::counselor1]] drf [[file:noun.person.org::counsellor1]] drf [[file:noun.communication.org::counselling]] drf [[file:noun.communication.org::counseling]]
 hyper: [[hash_out]]
 fr: 9 24
@@ -5897,9 +5897,9 @@ w: <<betoken>>
 w: <<foreshadow>> drf [[file:noun.cognition.org::foreshadowing]]
 w: <<augur>> agent [[file:noun.person.org::augur]] drf [[file:noun.person.org::augur]]
 w: <<foretell1>>
-w: <<prefigure>> drf [[file:adj.all.org::prefigurative]]
+w: <<prefigure>> drf [[file:adjs.all.org::prefigurative]]
 w: <<forecast1>> event [[file:noun.communication.org::forecast]] drf [[file:noun.communication.org::forecast]]
-w: <<predict1>> drf [[file:adj.all.org::predictive]]
+w: <<predict1>> drf [[file:adjs.all.org::predictive]]
 hyper: [[bespeak1]]
 fr: 11
 g: indicate by signs; "These signs bode bad news"
@@ -5920,7 +5920,7 @@ fr: 9 10 11 17 24
 g: to utter intentions of injury or punishment against:"He threatened me when I tried to call the police"
 
 w: <<caution>> event [[file:noun.communication.org::caution]] by-means-of [[file:noun.communication.org::caution]] drf [[file:noun.communication.org::caution]]
-w: <<admonish1>> event [[file:noun.communication.org::admonition1]] agent [[file:noun.person.org::admonisher]] drf [[file:adj.all.org::admonitory]] drf [[file:noun.communication.org::admonition1]] drf [[file:noun.person.org::admonisher]]
+w: <<admonish1>> event [[file:noun.communication.org::admonition1]] agent [[file:noun.person.org::admonisher]] drf [[file:adjs.all.org::admonitory]] drf [[file:noun.communication.org::admonition1]] drf [[file:noun.person.org::admonisher]]
 w: <<monish1>> by-means-of [[file:noun.communication.org::monition1]] drf [[file:noun.communication.org::monition1]]
 hyper: [[warn]]
 fr: 9 10
@@ -5934,7 +5934,7 @@ g: warn in advance or beforehand; give an early warning; "I forewarned him of th
 
 w: <<warn1>> drf [[file:noun.communication.org::warning1]]
 w: <<discourage2>>
-w: <<admonish2>> event [[file:noun.communication.org::admonition1]] agent [[file:noun.person.org::admonisher]] drf [[file:adj.all.org::admonitory]] drf [[file:noun.communication.org::admonition1]] drf [[file:noun.person.org::admonisher]]
+w: <<admonish2>> event [[file:noun.communication.org::admonition1]] agent [[file:noun.person.org::admonisher]] drf [[file:adjs.all.org::admonitory]] drf [[file:noun.communication.org::admonition1]] drf [[file:noun.person.org::admonisher]]
 w: <<monish>> by-means-of [[file:noun.communication.org::monition1]] drf [[file:noun.communication.org::monition1]]
 hyper: [[rede]]
 vg: [[warn]]
@@ -5967,7 +5967,7 @@ hyper: [[challenge1]]
 fr: 9
 g: challenge (somebody) to make good on a statement; charge with or censure for an offense; "He deserves to be called on that"
 
-w: <<challenge1>> event [[file:noun.communication.org::challenge1]] drf [[file:adj.all.org::challengeable]] drf [[file:noun.communication.org::challenge1]]
+w: <<challenge1>> event [[file:noun.communication.org::challenge1]] drf [[file:adjs.all.org::challengeable]] drf [[file:noun.communication.org::challenge1]]
 w: <<dispute>> event [[file:noun.communication.org::dispute]] event [[file:noun.communication.org::disputation1]] drf [[file:noun.communication.org::dispute]] drf [[file:noun.communication.org::disputation1]]
 w: <<gainsay>>
 entail: [[question1]]
@@ -6011,7 +6011,7 @@ hyper: [[challenge]]
 fr: 9
 g: challenge the honesty or veracity of; "the lawyers tried to impeach the credibility of the witnesses"
 
-w: <<account>> result [[file:noun.communication.org::account4]] drf [[file:adj.all.org::accountable]] drf [[file:noun.communication.org::account4]]
+w: <<account>> result [[file:noun.communication.org::account4]] drf [[file:adjs.all.org::accountable]] drf [[file:noun.communication.org::account4]]
 w: <<answer_for>>
 hyper: [[declare]]
 fr: 8
@@ -6062,7 +6062,7 @@ g: heap obscenities upon; "The taxi driver who felt he didn't get a high enough 
 
 w: <<curse1>> event [[file:noun.communication.org::curse2]] event [[file:noun.communication.org::curse1]] drf [[file:noun.communication.org::curse2]] drf [[file:noun.communication.org::curse1]] ant [[bless]]
 w: <<beshrew>>
-w: <<damn>> state [[file:noun.state.org::damnation]] event [[file:noun.communication.org::damnation]] drf [[file:adj.all.org::damnatory]] drf [[file:noun.state.org::damnation]] drf [[file:noun.communication.org::damnation]]
+w: <<damn>> state [[file:noun.state.org::damnation]] event [[file:noun.communication.org::damnation]] drf [[file:adjs.all.org::damnatory]] drf [[file:noun.state.org::damnation]] drf [[file:noun.communication.org::damnation]]
 w: <<bedamn>>
 w: <<anathemize>>
 w: <<anathemise1>>
@@ -6101,7 +6101,7 @@ g: read, write, or edit a shared on-line journal
 w: <<accurse>>
 w: <<execrate>> undergoer [[file:noun.cognition.org::execration]] event [[file:noun.communication.org::execration]] drf [[file:noun.communication.org::execration]] drf [[file:noun.cognition.org::execration]]
 w: <<anathemize1>>
-w: <<comminate>> drf [[file:adj.all.org::comminatory]]
+w: <<comminate>> drf [[file:adjs.all.org::comminatory]]
 w: <<anathemise>>
 w: <<anathematize>> event [[file:noun.act.org::anathematization]] drf [[file:noun.act.org::anathematization]] drf [[file:noun.communication.org::anathema]]
 w: <<anathematise>> event [[file:noun.act.org::anathematization]] event [[file:noun.act.org::anathematisation]] drf [[file:noun.act.org::anathematization]] drf [[file:noun.communication.org::anathema]] drf [[file:noun.act.org::anathematisation]]
@@ -6116,13 +6116,13 @@ g: belittle through talk
 
 w: <<minimize>> event [[file:noun.act.org::minimization]] drf [[file:noun.act.org::minimization]] drf [[file:noun.quantity.org::minimum]]
 w: <<belittle1>>
-w: <<denigrate>> event [[file:noun.communication.org::denigration]] event [[file:noun.act.org::denigration]] drf [[file:adj.all.org::denigrative]] drf [[file:noun.communication.org::denigration]] drf [[file:noun.act.org::denigration]]
-w: <<derogate>> event [[file:noun.communication.org::derogation]] drf [[file:adj.all.org::derogative]] drf [[file:adj.all.org::derogatory]] drf [[file:noun.communication.org::derogation]]
+w: <<denigrate>> event [[file:noun.communication.org::denigration]] event [[file:noun.act.org::denigration]] drf [[file:adjs.all.org::denigrative]] drf [[file:noun.communication.org::denigration]] drf [[file:noun.act.org::denigration]]
+w: <<derogate>> event [[file:noun.communication.org::derogation]] drf [[file:adjs.all.org::derogative]] drf [[file:adjs.all.org::derogatory]] drf [[file:noun.communication.org::derogation]]
 hyper: [[disparage]]
 fr: 8 11
 g: cause to seem less serious; play down; "Don't belittle his influence"
 
-w: <<condemn>> state [[file:noun.state.org::condemnation]] event [[file:noun.communication.org::condemnation]] drf [[file:adj.all.org::condemnatory]] drf [[file:noun.state.org::condemnation]] drf [[file:noun.communication.org::condemnation]]
+w: <<condemn>> state [[file:noun.state.org::condemnation]] event [[file:noun.communication.org::condemnation]] drf [[file:adjs.all.org::condemnatory]] drf [[file:noun.state.org::condemnation]] drf [[file:noun.communication.org::condemnation]]
 w: <<reprobate>> event [[file:noun.cognition.org::reprobation]] drf [[file:noun.cognition.org::reprobation]]
 w: <<decry>>
 w: <<objurgate>>
@@ -6164,7 +6164,7 @@ w: <<round11>>  fr 22
 w: <<assail>> drf [[file:noun.person.org::assailant]]
 w: <<lash_out11>>  fr 22
 w: <<snipe11>>  fr 22
-w: <<assault>> agent [[file:noun.person.org::assaulter]] drf [[file:adj.all.org::assaultive]] drf [[file:noun.person.org::assaulter]]
+w: <<assault>> agent [[file:noun.person.org::assaulter]] drf [[file:adjs.all.org::assaultive]] drf [[file:noun.person.org::assaulter]]
 hyper: [[knock2]]
 fr: 8 9 10 11
 g: attack in speech or writing; "The editors of the left-leaning paper attacked the new House Speaker"
@@ -6228,7 +6228,7 @@ hyper: [[laud]]
 fr: 9
 g: treat as a sacred person; "He canonizes women"
 
-w: <<laud>> agent [[file:noun.person.org::lauder]] drf [[file:adj.all.org::laudatory]] drf [[file:adj.all.org::laudable]] drf [[file:noun.person.org::lauder]]
+w: <<laud>> agent [[file:noun.person.org::lauder]] drf [[file:adjs.all.org::laudatory]] drf [[file:adjs.all.org::laudable]] drf [[file:noun.person.org::lauder]]
 w: <<extol>> agent [[file:noun.person.org::extoller]] drf [[file:noun.person.org::extoller]] drf [[file:noun.communication.org::extolment]]
 w: <<exalt>> event [[file:noun.act.org::exaltation1]] drf [[file:noun.act.org::exaltation1]]
 w: <<glorify>> state [[file:noun.state.org::glorification]] result [[file:noun.state.org::glory]] result [[file:noun.state.org::glorification]] event [[file:noun.act.org::glorification]] drf [[file:noun.state.org::glorification]] drf [[file:noun.act.org::glorification]] drf [[file:noun.state.org::glory]] drf [[file:noun.attribute.org::glory]]
@@ -6242,7 +6242,7 @@ hyper: [[applaud1]]
 fr: 2 8 9
 g: applaud with shouts of `bravo' or `brava'
 
-w: <<applaud>> agent [[file:noun.person.org::applauder]] drf [[file:adj.all.org::applaudable]] drf [[file:noun.person.org::applauder]]
+w: <<applaud>> agent [[file:noun.person.org::applauder]] drf [[file:adjs.all.org::applaudable]] drf [[file:noun.person.org::applauder]]
 hyper: [[praise]]
 fr: 8 9
 g: express approval of; "I applaud your efforts"
@@ -6254,13 +6254,13 @@ hyper: [[cheer]]
 fr: 2
 g: become more cheerful; "after a glass of wine, he lightened up a bit"
 
-w: <<convulse>> event [[file:noun.state.org::convulsion]] drf [[file:adj.all.org::convulsive]] drf [[file:noun.state.org::convulsion]]
+w: <<convulse>> event [[file:noun.state.org::convulsion]] drf [[file:adjs.all.org::convulsive]] drf [[file:noun.state.org::convulsion]]
 cause: [[file:verb.body.org::convulse]]
 hyper: [[amuse]]
 fr: 9 10
 g: make someone convulse with laughter; "The comedian convulsed the crowd"
 
-w: <<amuse>> state [[file:noun.feeling.org::amusement]] drf [[file:adj.all.org::amusive]] drf [[file:noun.feeling.org::amusement]]
+w: <<amuse>> state [[file:noun.feeling.org::amusement]] drf [[file:adjs.all.org::amusive]] drf [[file:noun.feeling.org::amusement]]
 hyper: [[cheer3]]
 fr: 9 10
 g: make (somebody) laugh; "The clown amused the children"
@@ -6289,10 +6289,10 @@ g: become cheerful
 w: <<cheer1>> agent [[file:noun.person.org::cheerer]] drf [[file:noun.person.org::cheerer]] drf [[file:noun.communication.org::cheering]]
 w: <<root_on>>
 w: <<inspire1>>
-w: <<urge1>> drf [[file:adj.all.org::urgent]] drf [[file:noun.act.org::urging]]
+w: <<urge1>> drf [[file:adjs.all.org::urgent]] drf [[file:noun.act.org::urging]]
 w: <<barrack1>>
 w: <<urge_on1>>
-w: <<exhort1>> event [[file:noun.communication.org::exhortation1]] event [[file:noun.communication.org::exhortation]] drf [[file:adj.all.org::exhortatory]] drf [[file:noun.communication.org::exhortation1]] drf [[file:noun.communication.org::exhortation]]
+w: <<exhort1>> event [[file:noun.communication.org::exhortation1]] event [[file:noun.communication.org::exhortation]] drf [[file:adjs.all.org::exhortatory]] drf [[file:noun.communication.org::exhortation1]] drf [[file:noun.communication.org::exhortation]]
 w: <<pep_up>>
 hyper: [[file:verb.emotion.org::encourage]]
 fr: 9
@@ -6313,11 +6313,11 @@ hyper: [[exuberate]]
 fr: 2
 g: rejoice proudly
 
-w: <<exuberate>> drf [[file:adj.all.org::exuberant]] drf [[file:noun.feeling.org::exuberance]] drf [[file:noun.attribute.org::exuberance]]
-w: <<exult>> event [[file:noun.communication.org::exultation]] drf [[file:adj.all.org::exultant]] drf [[file:noun.communication.org::exultation]]
+w: <<exuberate>> drf [[file:adjs.all.org::exuberant]] drf [[file:noun.feeling.org::exuberance]] drf [[file:noun.attribute.org::exuberance]]
+w: <<exult>> event [[file:noun.communication.org::exultation]] drf [[file:adjs.all.org::exultant]] drf [[file:noun.communication.org::exultation]]
 w: <<rejoice>> drf [[file:noun.communication.org::rejoicing]]
-w: <<triumph1>> drf [[file:adj.all.org::triumphant]]
-w: <<jubilate>> undergoer [[file:noun.feeling.org::jubilance]] state [[file:noun.feeling.org::jubilation]] event [[file:noun.communication.org::jubilation]] drf [[file:adj.all.org::jubilant]] drf [[file:adj.all.org::jubilant]] drf [[file:noun.feeling.org::jubilation]] drf [[file:noun.communication.org::jubilation]] drf [[file:noun.feeling.org::jubilancy]] drf [[file:noun.feeling.org::jubilance]]
+w: <<triumph1>> drf [[file:adjs.all.org::triumphant]]
+w: <<jubilate>> undergoer [[file:noun.feeling.org::jubilance]] state [[file:noun.feeling.org::jubilation]] event [[file:noun.communication.org::jubilation]] drf [[file:adjs.all.org::jubilant]] drf [[file:adjs.all.org::jubilant]] drf [[file:noun.feeling.org::jubilation]] drf [[file:noun.communication.org::jubilation]] drf [[file:noun.feeling.org::jubilancy]] drf [[file:noun.feeling.org::jubilance]]
 hyper: [[cheer]]
 fr: 2 22
 g: to express great joy; "Who cannot exult in Spring?"
@@ -6358,7 +6358,7 @@ hyper: [[declare]]
 fr: 8
 g: declare or judge unfit for use or habitation; "The building was condemned by the inspector"
 
-w: <<deprecate1>> event [[file:noun.act.org::deprecation]] drf [[file:adj.all.org::deprecative]] drf [[file:noun.act.org::deprecation]]
+w: <<deprecate1>> event [[file:noun.act.org::deprecation]] drf [[file:adjs.all.org::deprecative]] drf [[file:noun.act.org::deprecation]]
 hyper: [[disapprove]]
 fr: 8 9
 g: express strong disapproval of; deplore
@@ -6369,8 +6369,8 @@ hyper: [[deprecate]]
 fr: 8
 g: reduce or lessen the size or importance of; "The bad review of his work deflated his self-confidence"
 
-w: <<deprecate>> event [[file:noun.act.org::deprecation]] drf [[file:adj.all.org::deprecative]] drf [[file:adj.all.org::deprecatory]] drf [[file:noun.act.org::deprecation]]
-w: <<depreciate>> event [[file:noun.communication.org::depreciation]] agent [[file:noun.person.org::depreciator]] drf [[file:adj.all.org::depreciative]] drf [[file:adj.all.org::depreciatory]] drf [[file:noun.communication.org::depreciation]] drf [[file:noun.person.org::depreciator]]
+w: <<deprecate>> event [[file:noun.act.org::deprecation]] drf [[file:adjs.all.org::deprecative]] drf [[file:adjs.all.org::deprecatory]] drf [[file:noun.act.org::deprecation]]
+w: <<depreciate>> event [[file:noun.communication.org::depreciation]] agent [[file:noun.person.org::depreciator]] drf [[file:adjs.all.org::depreciative]] drf [[file:adjs.all.org::depreciatory]] drf [[file:noun.communication.org::depreciation]] drf [[file:noun.person.org::depreciator]]
 w: <<vilipend>>
 hyper: [[disparage]]
 fr: 8
@@ -6416,7 +6416,7 @@ hyper: [[inform]]
 fr: 9
 g: free from deception or illusion
 
-w: <<deceive>> event [[file:noun.act.org::deception]] agent [[file:noun.person.org::deceiver]] drf [[file:adj.all.org::deceptive]] drf [[file:adj.all.org::deceptive]] drf [[file:noun.act.org::deception]] drf [[file:noun.person.org::deceiver]] ant [[undeceive]]
+w: <<deceive>> event [[file:noun.act.org::deception]] agent [[file:noun.person.org::deceiver]] drf [[file:adjs.all.org::deceptive]] drf [[file:adjs.all.org::deceptive]] drf [[file:noun.act.org::deception]] drf [[file:noun.person.org::deceiver]] ant [[undeceive]]
 w: <<betray3>> agent [[file:noun.person.org::betrayer]] drf [[file:noun.person.org::betrayer]]
 w: <<lead_astray>>
 hyper: [[misinform]]
@@ -6455,7 +6455,7 @@ hyper: [[ridicule]]
 fr: 8
 g: expose while ridiculing; especially of pretentious or false claims and ideas; "The physicist debunked the psychic's claims"
 
-w: <<deride>> event [[file:noun.communication.org::derision]] event [[file:noun.act.org::derision]] drf [[file:adj.all.org::derisory]] drf [[file:adj.all.org::derisive]] drf [[file:noun.communication.org::derision]] drf [[file:noun.act.org::derision]]
+w: <<deride>> event [[file:noun.communication.org::derision]] event [[file:noun.act.org::derision]] drf [[file:adjs.all.org::derisory]] drf [[file:adjs.all.org::derisive]] drf [[file:noun.communication.org::derision]] drf [[file:noun.act.org::derision]]
 hyper: [[mock]]
 fr: 8 9
 g: treat or speak of with contempt; "He derided his student's attempt to solve the biggest problem in mathematics"
@@ -6496,8 +6496,8 @@ hyper: [[incite]]
 fr: 8 11
 g: activate or stir up; "raise a mutiny"
 
-w: <<incite>> event [[file:noun.act.org::incitement2]] event [[file:noun.act.org::incitation]] by-means-of [[file:noun.motive.org::incitation]] agent [[file:noun.person.org::inciter]] drf [[file:adj.all.org::incitive]] drf [[file:noun.act.org::incitement2]] drf [[file:noun.motive.org::incitation]] drf [[file:noun.act.org::incitation]] drf [[file:noun.person.org::inciter]]
-w: <<instigate>> event [[file:noun.act.org::instigation]] agent [[file:noun.person.org::instigator1]] drf [[file:adj.all.org::instigative]] drf [[file:noun.act.org::instigation]] drf [[file:noun.person.org::instigant]] drf [[file:noun.person.org::instigator1]]
+w: <<incite>> event [[file:noun.act.org::incitement2]] event [[file:noun.act.org::incitation]] by-means-of [[file:noun.motive.org::incitation]] agent [[file:noun.person.org::inciter]] drf [[file:adjs.all.org::incitive]] drf [[file:noun.act.org::incitement2]] drf [[file:noun.motive.org::incitation]] drf [[file:noun.act.org::incitation]] drf [[file:noun.person.org::inciter]]
+w: <<instigate>> event [[file:noun.act.org::instigation]] agent [[file:noun.person.org::instigator1]] drf [[file:adjs.all.org::instigative]] drf [[file:noun.act.org::instigation]] drf [[file:noun.person.org::instigant]] drf [[file:noun.person.org::instigator1]]
 w: <<set_off>>
 w: <<stir_up>>
 cause: [[file:verb.social.org::act]]
@@ -6594,7 +6594,7 @@ g: speak unfavorably about; "She badmouths her husband everywhere"
 
 w: <<vilify>> event [[file:noun.communication.org::vilification1]] event [[file:noun.communication.org::vilification]] by-means-of [[file:noun.communication.org::vilification1]] by-means-of [[file:noun.communication.org::vilification]] agent [[file:noun.person.org::vilifier]] drf [[file:noun.communication.org::vilification1]] drf [[file:noun.communication.org::vilification]] drf [[file:noun.person.org::vilifier]]
 w: <<revile>> by-means-of [[file:noun.communication.org::revilement]] drf [[file:noun.communication.org::revilement]]
-w: <<vituperate>> event [[file:noun.communication.org::vituperation]] drf [[file:adj.all.org::vituperative]] drf [[file:noun.communication.org::vituperation]] fr 2
+w: <<vituperate>> event [[file:noun.communication.org::vituperation]] drf [[file:adjs.all.org::vituperative]] drf [[file:noun.communication.org::vituperation]] fr 2
 w: <<rail1>>  fr 2
 hyper: [[abuse]]
 fr: 8 9
@@ -6621,11 +6621,11 @@ hyper: [[defame]]
 fr: 8 9 10 11
 g: destroy or damage seriously, as of someone's reputation; "He assassinated his enemy's character"
 
-w: <<defame>> event [[file:noun.communication.org::defamation]] event [[file:noun.act.org::defamation1]] agent [[file:noun.person.org::defamer]] drf [[file:adj.all.org::defamatory]] drf [[file:noun.communication.org::defamation]] drf [[file:noun.act.org::defamation1]] drf [[file:noun.person.org::defamer]]
+w: <<defame>> event [[file:noun.communication.org::defamation]] event [[file:noun.act.org::defamation1]] agent [[file:noun.person.org::defamer]] drf [[file:adjs.all.org::defamatory]] drf [[file:noun.communication.org::defamation]] drf [[file:noun.act.org::defamation1]] drf [[file:noun.person.org::defamer]]
 w: <<slander>> event [[file:noun.communication.org::slander]] event [[file:noun.act.org::slander1]] agent [[file:noun.person.org::slanderer]] drf [[file:noun.act.org::slander1]] drf [[file:noun.communication.org::slander]] drf [[file:noun.person.org::slanderer]]
 w: <<smirch>> event [[file:noun.act.org::smirch]] drf [[file:noun.act.org::smirch]]
 w: <<asperse>> event [[file:noun.communication.org::aspersion]] event [[file:noun.act.org::aspersion]] drf [[file:noun.communication.org::aspersion]] drf [[file:noun.act.org::aspersion]]
-w: <<denigrate1>> event [[file:noun.act.org::denigration1]] drf [[file:adj.all.org::denigratory]] drf [[file:noun.act.org::denigration1]]
+w: <<denigrate1>> event [[file:noun.act.org::denigration1]] drf [[file:adjs.all.org::denigratory]] drf [[file:noun.act.org::denigration1]]
 w: <<calumniate>> drf [[file:noun.communication.org::calumny]] drf [[file:noun.act.org::calumny1]]
 w: <<smear>> event [[file:noun.communication.org::smear]] drf [[file:noun.communication.org::smear]]
 w: <<sully>>
@@ -6663,7 +6663,7 @@ hyper: [[abuse]]
 fr: 9
 g: abuse with coarse language
 
-w: <<abuse>> by-means-of [[file:noun.communication.org::abuse]] agent [[file:noun.person.org::abuser]] drf [[file:adj.all.org::abusive]] drf [[file:noun.communication.org::abuse]] drf [[file:noun.person.org::abuser]]
+w: <<abuse>> by-means-of [[file:noun.communication.org::abuse]] agent [[file:noun.person.org::abuser]] drf [[file:adjs.all.org::abusive]] drf [[file:noun.communication.org::abuse]] drf [[file:noun.person.org::abuser]]
 w: <<clapperclaw>>
 w: <<blackguard>>
 w: <<shout12>>  fr 22
@@ -6688,7 +6688,7 @@ hyper: [[charge]]
 fr: 9
 g: charge (a public official) with an offense or misdemeanor committed while in office; "The President was impeached"
 
-w: <<recriminate>> drf [[file:adj.all.org::recriminative]] drf [[file:adj.all.org::recriminatory]]
+w: <<recriminate>> drf [[file:adjs.all.org::recriminative]] drf [[file:adjs.all.org::recriminatory]]
 hyper: [[accuse]]
 fr: 9
 g: return an accusation against someone or engage in mutual accusations; charge in return
@@ -6714,14 +6714,14 @@ fr: 9 10
 g: accuse of a wrong or an inadequacy
 
 w: <<charge2>> event [[file:noun.communication.org::charge4]] event [[file:noun.communication.org::charge]] drf [[file:noun.communication.org::charge4]] drf [[file:noun.communication.org::charge]] fr 17
-w: <<accuse1>> event [[file:noun.communication.org::accusation1]] event [[file:noun.communication.org::accusal]] agent [[file:noun.person.org::accuser]] drf [[file:adj.all.org::accusive]] drf [[file:adj.all.org::accusative]] drf [[file:adj.all.org::accusatory]] drf [[file:noun.communication.org::accusation1]] drf [[file:noun.person.org::accuser]] drf [[file:noun.communication.org::accusal]]
+w: <<accuse1>> event [[file:noun.communication.org::accusation1]] event [[file:noun.communication.org::accusal]] agent [[file:noun.person.org::accuser]] drf [[file:adjs.all.org::accusive]] drf [[file:adjs.all.org::accusative]] drf [[file:adjs.all.org::accusatory]] drf [[file:noun.communication.org::accusation1]] drf [[file:noun.person.org::accuser]] drf [[file:noun.communication.org::accusal]]
 fr: 9
 g: blame for, make a claim of wrongdoing or misbehavior against; "he charged the director with indifference"
 
-w: <<accuse>> event [[file:noun.communication.org::accusation]] event [[file:noun.communication.org::accusal]] agent [[file:noun.person.org::accuser]] drf [[file:adj.all.org::accusive]] drf [[file:adj.all.org::accusative]] drf [[file:adj.all.org::accusatory]] drf [[file:noun.communication.org::accusation]] drf [[file:noun.person.org::accuser]] drf [[file:noun.communication.org::accusal]]
+w: <<accuse>> event [[file:noun.communication.org::accusation]] event [[file:noun.communication.org::accusal]] agent [[file:noun.person.org::accuser]] drf [[file:adjs.all.org::accusive]] drf [[file:adjs.all.org::accusative]] drf [[file:adjs.all.org::accusatory]] drf [[file:noun.communication.org::accusation]] drf [[file:noun.person.org::accuser]] drf [[file:noun.communication.org::accusal]]
 w: <<impeach>>
 w: <<incriminate>> event [[file:noun.communication.org::incrimination]] drf [[file:noun.communication.org::incrimination]] drf [[file:noun.act.org::crime]]
-w: <<criminate>> drf [[file:adj.all.org::criminative]] drf [[file:adj.all.org::criminatory]] drf [[file:noun.act.org::crime]]
+w: <<criminate>> drf [[file:adjs.all.org::criminative]] drf [[file:adjs.all.org::criminatory]] drf [[file:noun.act.org::crime]]
 hyper: [[charge2]]
 fr: 9 18
 g: bring an accusation against; level a charge against; "The neighbors accused the man of spousal abuse"
@@ -6733,7 +6733,7 @@ hyper: [[knock2]]
 fr: 8 9
 g: harass with constant criticism; "Don't always pick on your little brother"
 
-w: <<blame>> event [[file:noun.communication.org::blame1]] drf [[file:adj.all.org::blameable]] drf [[file:adj.all.org::blamable]] drf [[file:noun.communication.org::blame1]] ant [[absolve]]
+w: <<blame>> event [[file:noun.communication.org::blame1]] drf [[file:adjs.all.org::blameable]] drf [[file:adjs.all.org::blamable]] drf [[file:noun.communication.org::blame1]] ant [[absolve]]
 w: <<fault>> undergoer [[file:noun.attribute.org::fault1]] event [[file:noun.act.org::fault]] drf [[file:noun.attribute.org::fault1]] drf [[file:noun.act.org::fault]]
 hyper: [[charge2]]
 fr: 8 9 10 11 17
@@ -6801,7 +6801,7 @@ hyper: [[overstate]]
 fr: 8 26
 g: place special or excessive emphasis on; "I cannot overemphasize the importance of this book"
 
-w: <<trivialize>> drf [[file:adj.all.org::trivial]] drf [[file:adj.all.org::trivial]]
+w: <<trivialize>> drf [[file:adjs.all.org::trivial]] drf [[file:adjs.all.org::trivial]]
 w: <<trivialise>>
 hyper: [[understate]]
 fr: 8
@@ -7079,7 +7079,7 @@ hyper: [[teach]]
 fr: 9
 g: introduce or initiate; "The young geisha was inducted into the ways of her profession"
 
-w: <<teach>> by-means-of [[file:noun.cognition.org::teacher]] agent [[file:noun.person.org::teacher]] drf [[file:adj.all.org::teachable]] drf [[file:noun.person.org::teacher]] drf [[file:noun.cognition.org::teacher]] drf [[file:noun.act.org::teaching1]] fr 2 14 15
+w: <<teach>> by-means-of [[file:noun.cognition.org::teacher]] agent [[file:noun.person.org::teacher]] drf [[file:adjs.all.org::teachable]] drf [[file:noun.person.org::teacher]] drf [[file:noun.cognition.org::teacher]] drf [[file:noun.act.org::teaching1]] fr 2 14 15
 w: <<learn>>
 w: <<instruct>> event [[file:noun.act.org::instruction1]] agent [[file:noun.person.org::instructor]] drf [[file:adj.all.org::instructive]] drf [[file:noun.act.org::instruction1]] drf [[file:noun.person.org::instructor]]
 cause: [[file:verb.cognition.org::learn]]
@@ -7164,7 +7164,7 @@ hyper: [[knock2]]
 fr: 8
 g: express strong disapproval of; "We deplore the government's treatment of political prisoners"
 
-w: <<reprehend>> event [[file:noun.communication.org::reprehension]] drf [[file:adj.all.org::reprehensible]] drf [[file:noun.communication.org::reprehension]]
+w: <<reprehend>> event [[file:noun.communication.org::reprehension]] drf [[file:adjs.all.org::reprehensible]] drf [[file:noun.communication.org::reprehension]]
 hyper: [[knock2]]
 fr: 9
 g: express strong disapproval of
@@ -7226,12 +7226,12 @@ w: <<chastise>> event [[file:noun.communication.org::chastisement]] event [[file
 w: <<castigate>> event [[file:noun.communication.org::castigation]] event [[file:noun.act.org::castigation]] drf [[file:noun.communication.org::castigation]] drf [[file:noun.act.org::castigation]]
 w: <<objurgate1>> event [[file:noun.communication.org::objurgation]] drf [[file:noun.communication.org::objurgation]]
 w: <<chasten>>
-w: <<correct>> drf [[file:adj.all.org::corrective]]
+w: <<correct>> drf [[file:adjs.all.org::corrective]]
 hyper: [[call_on_the_carpet]]
 fr: 9
 g: censure severely; "She chastised him for his insensitive remarks"
 
-w: <<admonish>> event [[file:noun.communication.org::admonition]] event [[file:noun.communication.org::admonishment]] drf [[file:adj.all.org::admonitory]] drf [[file:noun.communication.org::admonishment]] drf [[file:noun.communication.org::admonition]]
+w: <<admonish>> event [[file:noun.communication.org::admonition]] event [[file:noun.communication.org::admonishment]] drf [[file:adjs.all.org::admonitory]] drf [[file:noun.communication.org::admonishment]] drf [[file:noun.communication.org::admonition]]
 w: <<reprove>> event [[file:noun.communication.org::reproval]] agent [[file:noun.person.org::reprover]] drf [[file:noun.person.org::reprover]] drf [[file:noun.communication.org::reproval]]
 hyper: [[knock2]]
 fr: 9
@@ -7252,7 +7252,7 @@ hyper: [[knock2]]
 fr: 9
 g: rebuke formally
 
-w: <<contradict>> event [[file:noun.communication.org::contradiction]] drf [[file:adj.all.org::contradictory]] drf [[file:adj.all.org::contradictory]] drf [[file:noun.communication.org::contradiction]]
+w: <<contradict>> event [[file:noun.communication.org::contradiction]] drf [[file:adjs.all.org::contradictory]] drf [[file:adjs.all.org::contradictory]] drf [[file:noun.communication.org::contradiction]]
 w: <<negate>> event [[file:noun.communication.org::negation]] by-means-of [[file:noun.communication.org::negation1]] drf [[file:adj.all.org::negative1]] drf [[file:noun.communication.org::negation1]] drf [[file:noun.communication.org::negation]]
 w: <<contravene>>
 hyper: [[disagree]]
@@ -7285,7 +7285,7 @@ hyper: [[file:verb.cognition.org::evaluate1]]
 fr: 5 14
 g: declare to be; "She was declared incompetent"; "judge held that the defendant was innocent"
 
-w: <<certify1>> drf [[file:adj.all.org::certifiable]]
+w: <<certify1>> drf [[file:adjs.all.org::certifiable]]
 hyper: [[declare4]]
 fr: 9
 g: declare legally insane
@@ -7316,7 +7316,7 @@ g: give evidence of the quality of; "The mess in his dorm room reflects on the s
 w: <<attest1>> uses [[file:noun.communication.org::attestation1]] drf [[file:noun.communication.org::attestation1]]
 w: <<certify>> result [[file:noun.communication.org::certification]] event [[file:noun.communication.org::certification]] drf [[file:noun.communication.org::certification]]
 w: <<manifest>> event [[file:noun.communication.org::manifestation1]] event [[file:noun.communication.org::manifestation]] drf [[file:noun.communication.org::manifestation1]] drf [[file:noun.communication.org::manifestation]]
-w: <<demonstrate>> drf [[file:adj.all.org::demonstrative]]
+w: <<demonstrate>> drf [[file:adjs.all.org::demonstrative]]
 w: <<evidence>> uses [[file:noun.communication.org::evidence1]] drf [[file:noun.communication.org::evidence1]]
 hyper: [[testify2]]
 vg: [[attest4]]
@@ -7423,7 +7423,7 @@ fr: 22
 g: acknowledge freely and openly; "He makes no bones about the fact that he is gay"
 
 w: <<admit>> event [[file:noun.communication.org::admission]] drf [[file:noun.communication.org::admission]] ant [[deny]]
-w: <<acknowledge>> state [[file:noun.state.org::acknowledgment]] drf [[file:adj.all.org::acknowledgeable]] drf [[file:noun.state.org::acknowledgment]]
+w: <<acknowledge>> state [[file:noun.state.org::acknowledgment]] drf [[file:adjs.all.org::acknowledgeable]] drf [[file:noun.state.org::acknowledgment]]
 hyper: [[declare4]]
 fr: 8 26
 g: declare to be true or admit the existence or reality or truth of; "He admitted his errors"; "She acknowledged that she might have forgotten"
@@ -7438,7 +7438,7 @@ hyper: [[disown]]
 fr: 8 26
 g: refuse to accept or believe; "He denied his fatal illness"
 
-w: <<repudiate4>> event [[file:noun.act.org::repudiation]] drf [[file:adj.all.org::repudiative]] drf [[file:noun.act.org::repudiation]]
+w: <<repudiate4>> event [[file:noun.act.org::repudiation]] drf [[file:adjs.all.org::repudiative]] drf [[file:noun.act.org::repudiation]]
 hyper: [[deny]]
 fr: 8
 g: reject as untrue, unfounded, or unjust; "She repudiated the accusations"
@@ -7544,8 +7544,8 @@ hyper: [[debate]]
 fr: 8
 g: subject to prolonged examination, discussion, or deliberation; "vex the subject of the death penalty"
 
-w: <<debate>> event [[file:noun.communication.org::debate1]] event [[file:noun.communication.org::debate]] agent [[file:noun.person.org::debater]] drf [[file:adj.all.org::debatable]] drf [[file:adj.all.org::debatable]] drf [[file:noun.communication.org::debate1]] drf [[file:noun.communication.org::debate]] drf [[file:noun.person.org::debater]]
-w: <<deliberate>> property [[file:noun.attribute.org::deliberation]] event [[file:noun.communication.org::deliberation]] event [[file:noun.cognition.org::deliberation1]] drf [[file:adj.all.org::deliberative]] drf [[file:noun.communication.org::deliberation]] drf [[file:noun.cognition.org::deliberation1]] drf [[file:noun.attribute.org::deliberation]]
+w: <<debate>> event [[file:noun.communication.org::debate1]] event [[file:noun.communication.org::debate]] agent [[file:noun.person.org::debater]] drf [[file:adjs.all.org::debatable]] drf [[file:adjs.all.org::debatable]] drf [[file:noun.communication.org::debate1]] drf [[file:noun.communication.org::debate]] drf [[file:noun.person.org::debater]]
+w: <<deliberate>> property [[file:noun.attribute.org::deliberation]] event [[file:noun.communication.org::deliberation]] event [[file:noun.cognition.org::deliberation1]] drf [[file:adjs.all.org::deliberative]] drf [[file:noun.communication.org::deliberation]] drf [[file:noun.cognition.org::deliberation1]] drf [[file:noun.attribute.org::deliberation]]
 hyper: [[hash_out]]
 fr: 2 8
 g: discuss the pros and cons of an issue
@@ -7713,7 +7713,7 @@ hyper: [[approve]]
 fr: 8 11
 g: give religious sanction to, such as through on oath; "sanctify the marriage"
 
-w: <<approve>> event [[file:noun.act.org::approval2]] event [[file:noun.communication.org::approbation]] agent [[file:noun.person.org::approver]] drf [[file:adj.all.org::approbative]] drf [[file:noun.communication.org::approbation]] drf [[file:noun.person.org::approver]] drf [[file:noun.act.org::approval2]] ant [[disapprove]]
+w: <<approve>> event [[file:noun.act.org::approval2]] event [[file:noun.communication.org::approbation]] agent [[file:noun.person.org::approver]] drf [[file:adjs.all.org::approbative]] drf [[file:noun.communication.org::approbation]] drf [[file:noun.person.org::approver]] drf [[file:noun.act.org::approval2]] ant [[disapprove]]
 w: <<O.K.>> by-means-of [[file:noun.communication.org::O.K.]] drf [[file:noun.communication.org::OK]] drf [[file:noun.communication.org::O.K.]]
 w: <<okay>> uses [[file:noun.communication.org::okay]] drf [[file:noun.communication.org::okay]]
 w: <<sanction1>> uses [[file:noun.communication.org::sanction]] drf [[file:noun.communication.org::sanction]]
@@ -7740,7 +7740,7 @@ hyper: [[agree]]
 fr: 2 22
 g: be in agreement; "We never saw eye to eye on this question"
 
-w: <<agree>> event [[file:noun.communication.org::agreement]] drf [[file:adj.all.org::agreeable]] drf [[file:noun.communication.org::agreement]] ant [[disagree]]
+w: <<agree>> event [[file:noun.communication.org::agreement]] drf [[file:adjs.all.org::agreeable]] drf [[file:noun.communication.org::agreement]] ant [[disagree]]
 w: <<hold15>>
 w: <<concur>> event [[file:noun.communication.org::concurrence]] drf [[file:noun.communication.org::concurrence]]
 w: <<concord>> event [[file:noun.communication.org::concordance2]] event [[file:noun.communication.org::concord]] drf [[file:noun.communication.org::concord]] drf [[file:noun.communication.org::concordance2]]
@@ -7755,12 +7755,12 @@ g: disagree violently; "We clashed over the new farm policies"
 
 w: <<disagree>> drf [[file:noun.state.org::disagreement]] drf [[file:noun.communication.org::disagreement]] ant [[agree]] fr 13
 w: <<differ>> event [[file:noun.communication.org::difference]] drf [[file:noun.communication.org::difference]]
-w: <<dissent1>> event [[file:noun.communication.org::dissent3]] event [[file:noun.communication.org::dissent2]] event [[file:noun.state.org::dissension]] event [[file:noun.communication.org::dissension]] agent [[file:noun.person.org::dissenter]] drf [[file:adj.all.org::dissentient]] drf [[file:noun.communication.org::dissent3]] drf [[file:noun.communication.org::dissent2]] drf [[file:noun.state.org::dissension]] drf [[file:noun.communication.org::dissension]] drf [[file:noun.person.org::dissenter]]
+w: <<dissent1>> event [[file:noun.communication.org::dissent3]] event [[file:noun.communication.org::dissent2]] event [[file:noun.state.org::dissension]] event [[file:noun.communication.org::dissension]] agent [[file:noun.person.org::dissenter]] drf [[file:adjs.all.org::dissentient]] drf [[file:noun.communication.org::dissent3]] drf [[file:noun.communication.org::dissent2]] drf [[file:noun.state.org::dissension]] drf [[file:noun.communication.org::dissension]] drf [[file:noun.person.org::dissenter]]
 w: <<take_issue>>
 fr: 1 2
 g: be of different opinions; "I beg to differ!"; "She disagrees with her husband on many questions"
 
-w: <<dissent>> drf [[file:adj.all.org::dissentient]] ant [[assent]]
+w: <<dissent>> drf [[file:adjs.all.org::dissentient]] ant [[assent]]
 hyper: [[disagree]]
 fr: 2
 g: withhold assent; "Several Republicans dissented"
@@ -7774,9 +7774,9 @@ hyper: [[accept]]
 fr: 2 27
 g: consent reluctantly
 
-w: <<assent>> event [[file:noun.communication.org::assent]] drf [[file:adj.all.org::assentient]] drf [[file:noun.communication.org::assent]] ant [[dissent]] drf [[file:noun.person.org::assenter]]
+w: <<assent>> event [[file:noun.communication.org::assent]] drf [[file:adjs.all.org::assentient]] drf [[file:noun.communication.org::assent]] ant [[dissent]] drf [[file:noun.person.org::assenter]]
 w: <<accede1>> event [[file:noun.communication.org::accession2]] drf [[file:noun.communication.org::accession2]]
-w: <<acquiesce>> event [[file:noun.state.org::acquiescence]] event [[file:noun.communication.org::acquiescence]] drf [[file:adj.all.org::acquiescent]] drf [[file:noun.state.org::acquiescence]] drf [[file:noun.communication.org::acquiescence]]
+w: <<acquiesce>> event [[file:noun.state.org::acquiescence]] event [[file:noun.communication.org::acquiescence]] drf [[file:adjs.all.org::acquiescent]] drf [[file:noun.state.org::acquiescence]] drf [[file:noun.communication.org::acquiescence]]
 hyper: [[agree1]]
 fr: 2 22
 g: to agree or express agreement; "The Maestro assented to the request for an encore"
@@ -7807,7 +7807,7 @@ fr: 8 9
 g: allow the presence of or allow (an activity) without opposing or prohibiting; "We don't allow dogs here"; "Children are not permitted beyond this point"; "We cannot tolerate smoking in the hospital"
 
 w: <<permit>> event [[file:noun.act.org::permit]] event [[file:noun.act.org::permission]] by-means-of [[file:noun.communication.org::permit2]] drf [[file:adj.all.org::permissible]] drf [[file:adj.all.org::permissive1]] drf [[file:noun.act.org::permit]] drf [[file:noun.communication.org::permit2]] drf [[file:noun.act.org::permission]] ant [[forbid]]
-w: <<allow>> drf [[file:adj.all.org::allowable]] ant [[disallow]]
+w: <<allow>> drf [[file:adjs.all.org::allowable]] ant [[disallow]]
 w: <<let2>>
 w: <<countenance>> uses [[file:noun.communication.org::countenance]] result [[file:noun.communication.org::countenance]] drf [[file:noun.communication.org::countenance]]
 vg: [[file:verb.possession.org::allow]]
@@ -7847,7 +7847,7 @@ hyper: [[count]]
 fr: 8
 g: count again; "We had to recount all the votes after an accusation of fraud was made"
 
-w: <<dismiss>> drf [[file:adj.all.org::dismissive]]
+w: <<dismiss>> drf [[file:adjs.all.org::dismissive]]
 w: <<disregard>> state [[file:noun.cognition.org::disregard]] state [[file:noun.act.org::disregard1]] drf [[file:noun.cognition.org::disregard]] drf [[file:noun.act.org::disregard1]]
 w: <<brush_aside>>
 w: <<brush_off1>> drf [[file:noun.act.org::brush-off]]
@@ -7892,7 +7892,7 @@ w: <<revoke>> event [[file:noun.act.org::revocation]] drf [[file:noun.act.org::r
 w: <<annul>> event [[file:noun.act.org::annulment1]] drf [[file:noun.act.org::annulment1]]
 w: <<lift>>
 w: <<countermand>> event [[file:noun.communication.org::countermand]] drf [[file:noun.communication.org::countermand]]
-w: <<reverse>> event [[file:noun.relation.org::reverse]] event [[file:noun.cognition.org::reversal]] drf [[file:adj.all.org::reversible]] drf [[file:noun.relation.org::reverse]] drf [[file:noun.cognition.org::reversal]]
+w: <<reverse>> event [[file:noun.relation.org::reverse]] event [[file:noun.cognition.org::reversal]] drf [[file:adjs.all.org::reversible]] drf [[file:noun.relation.org::reverse]] drf [[file:noun.cognition.org::reversal]]
 w: <<repeal>> event [[file:noun.act.org::repeal]] drf [[file:noun.act.org::repeal]]
 w: <<overturn>>
 w: <<rescind>> event [[file:noun.act.org::rescission]] event [[file:noun.act.org::recission]] drf [[file:noun.act.org::recission]] drf [[file:noun.act.org::rescission]]
@@ -8061,12 +8061,12 @@ fr: 11
 g: cause (a stream or river) to erode, as by an uplift of the land
 
 w: <<provoke>> by-means-of [[file:noun.motive.org::provocation]] by-means-of [[file:noun.communication.org::provocation]] drf [[file:adj.all.org::provocative]] drf [[file:noun.motive.org::provocation]] drf [[file:noun.communication.org::provocation]]
-w: <<stimulate>> drf [[file:adj.all.org::stimulant]] drf [[file:noun.cognition.org::stimulus]]
+w: <<stimulate>> drf [[file:adjs.all.org::stimulant]] drf [[file:noun.cognition.org::stimulus]]
 hyper: [[challenge]]
 fr: 9 10 24
 g: provide the needed stimulus for
 
-w: <<tempt1>> event [[file:noun.feeling.org::temptation]] agent [[file:noun.person.org::tempter]] drf [[file:adj.all.org::temptable]] drf [[file:noun.feeling.org::temptation]] drf [[file:noun.person.org::tempter]]
+w: <<tempt1>> event [[file:noun.feeling.org::temptation]] agent [[file:noun.person.org::tempter]] drf [[file:adjs.all.org::temptable]] drf [[file:noun.feeling.org::temptation]] drf [[file:noun.person.org::tempter]]
 w: <<allure>> event [[file:noun.act.org::allurement]] by-means-of [[file:noun.attribute.org::allurement]] by-means-of [[file:noun.attribute.org::allure]] drf [[file:noun.attribute.org::allurement]] drf [[file:noun.act.org::allurement]] drf [[file:noun.attribute.org::allure]]
 hyper: [[invite]]
 entail: [[file:verb.emotion.org::attract]]
@@ -8074,7 +8074,7 @@ fr: 9 10 24
 g: dispose or incline or entice to; "We were tempted by the delicious-looking food"
 
 w: <<invite>> event [[file:noun.communication.org::invitation]] drf [[file:noun.communication.org::invitation]]
-w: <<bid>> drf [[file:adj.all.org::biddable]] drf [[file:noun.communication.org::bidding]]
+w: <<bid>> drf [[file:adjs.all.org::biddable]] drf [[file:noun.communication.org::bidding]]
 hyper: [[request2]]
 fr: 25
 g: ask someone in a friendly way to do something
@@ -8271,8 +8271,8 @@ vg: [[file:verb.cognition.org::test6]]
 fr: 9 20
 g: examine someone's knowledge of something; "The teacher tests us every week"; "We got quizzed on French irregular verbs"
 
-w: <<investigate1>> event [[file:noun.cognition.org::investigation]] event [[file:noun.act.org::investigation]] agent [[file:noun.person.org::investigator2]] drf [[file:adj.all.org::investigative]] drf [[file:adj.all.org::investigatory]] drf [[file:noun.cognition.org::investigation]] drf [[file:noun.act.org::investigation]] drf [[file:noun.person.org::investigator2]] drf [[file:noun.act.org::investigating]]
-w: <<inquire2>> drf [[file:adj.all.org::inquisitive]] drf [[file:noun.act.org::inquiry]] drf [[file:noun.communication.org::inquiring]]
+w: <<investigate1>> event [[file:noun.cognition.org::investigation]] event [[file:noun.act.org::investigation]] agent [[file:noun.person.org::investigator2]] drf [[file:adjs.all.org::investigative]] drf [[file:adjs.all.org::investigatory]] drf [[file:noun.cognition.org::investigation]] drf [[file:noun.act.org::investigation]] drf [[file:noun.person.org::investigator2]] drf [[file:noun.act.org::investigating]]
+w: <<inquire2>> drf [[file:adjs.all.org::inquisitive]] drf [[file:noun.act.org::inquiry]] drf [[file:noun.communication.org::inquiring]]
 w: <<enquire2>> agent [[file:noun.person.org::enquirer]] drf [[file:noun.person.org::enquirer]] drf [[file:noun.act.org::enquiry]]
 hyper: [[probe]]
 fr: 2 8 9
@@ -8323,7 +8323,7 @@ hyper: [[communicate]]
 fr: 2 14 20 22 29
 g: inquire about; "I asked about their special today"; "He had to ask directions several times"
 
-w: <<tempt3>> agent [[file:noun.person.org::tempter]] drf [[file:adj.all.org::temptable]] drf [[file:noun.person.org::tempter]]
+w: <<tempt3>> agent [[file:noun.person.org::tempter]] drf [[file:adjs.all.org::temptable]] drf [[file:noun.person.org::tempter]]
 hyper: [[persuade]]
 fr: 9
 g: try presumptuously; "St. Anthony was tempted in the desert"
@@ -8369,7 +8369,7 @@ g: entice and trap; "The car salesman had snared three potential customers"
 
 w: <<entice>> property [[file:noun.attribute.org::enticement]] event [[file:noun.act.org::enticement]] by-means-of [[file:noun.cognition.org::enticement]] drf [[file:noun.cognition.org::enticement]] drf [[file:noun.attribute.org::enticement]] drf [[file:noun.act.org::enticement]]
 w: <<lure>> by-means-of [[file:noun.cognition.org::lure]] by-means-of [[file:noun.attribute.org::lure]] by-means-of [[file:noun.artifact.org::lure]] drf [[file:noun.artifact.org::lure]] drf [[file:noun.cognition.org::lure]] drf [[file:noun.attribute.org::lure]]
-w: <<tempt4>> event [[file:noun.act.org::temptation]] agent [[file:noun.person.org::tempter]] drf [[file:adj.all.org::temptable]] drf [[file:noun.act.org::temptation]] drf [[file:noun.person.org::tempter]]
+w: <<tempt4>> event [[file:noun.act.org::temptation]] agent [[file:noun.person.org::tempter]] drf [[file:adjs.all.org::temptable]] drf [[file:noun.act.org::temptation]] drf [[file:noun.person.org::tempter]]
 hyper: [[provoke]]
 fr: 9 30
 g: provoke someone to do something through (often false or exaggerated) promises or persuasion; "He lured me into temptation"
@@ -8418,7 +8418,7 @@ hyper: [[talk1]]
 fr: 2 28 33
 g: continue talking; "I know it's hard," he continued, "but there is no choice"; "carry on--pretend we are not in the room"
 
-w: <<digress>> event [[file:noun.communication.org::digression]] event [[file:noun.act.org::digression]] drf [[file:adj.all.org::digressive]] drf [[file:noun.communication.org::digression]] drf [[file:noun.act.org::digression]]
+w: <<digress>> event [[file:noun.communication.org::digression]] event [[file:noun.act.org::digression]] drf [[file:adjs.all.org::digressive]] drf [[file:noun.communication.org::digression]] drf [[file:noun.act.org::digression]]
 w: <<stray>>
 w: <<divagate>> event [[file:noun.communication.org::divagation]] event [[file:noun.act.org::divagation]] drf [[file:noun.communication.org::divagation]] drf [[file:noun.act.org::divagation]]
 w: <<wander>>
@@ -8544,7 +8544,7 @@ g: chatter inarticulately; of monkeys
 
 w: <<charm>> by-means-of [[file:noun.attribute.org::charm]] drf [[file:noun.attribute.org::charm]]
 w: <<influence>> event [[file:noun.phenomenon.org::influence]] by-means-of [[file:noun.phenomenon.org::influence]] by-means-of [[file:noun.attribute.org::influence]] agent [[file:noun.person.org::influence]] drf [[file:noun.person.org::influence]] drf [[file:noun.phenomenon.org::influence]] drf [[file:noun.attribute.org::influence]]
-w: <<tempt>> event [[file:noun.act.org::temptation]] agent [[file:noun.person.org::tempter]] drf [[file:adj.all.org::temptable]] drf [[file:noun.act.org::temptation]] drf [[file:noun.person.org::tempter]]
+w: <<tempt>> event [[file:noun.act.org::temptation]] agent [[file:noun.person.org::tempter]] drf [[file:adjs.all.org::temptable]] drf [[file:noun.act.org::temptation]] drf [[file:noun.person.org::tempter]]
 hyper: [[persuade]]
 fr: 9 30
 g: induce into action by using one's charm; "She charmed him into giving her all his money"
@@ -8554,14 +8554,14 @@ hyper: [[persuade]]
 fr: 18 24
 g: assure somebody of the truth of something with the intention of giving the listener confidence; "I assured him that traveling to Cambodia was safe"
 
-w: <<oppose>> agent [[file:noun.person.org::opposer]] drf [[file:adj.all.org::opponent]] drf [[file:noun.person.org::opposer]]
+w: <<oppose>> agent [[file:noun.person.org::opposer]] drf [[file:adjs.all.org::opponent]] drf [[file:noun.person.org::opposer]]
 w: <<controvert>>
 w: <<contradict1>>
 hyper: [[refute]]
 fr: 8
 g: be resistant to; "The board opposed his motion"
 
-w: <<oppose1>> event [[file:noun.act.org::opposition1]] agent [[file:noun.person.org::opposer]] drf [[file:adj.all.org::opponent]] drf [[file:noun.act.org::opposition1]] drf [[file:noun.person.org::opposer]] drf [[file:noun.person.org::opponent]]
+w: <<oppose1>> event [[file:noun.act.org::opposition1]] agent [[file:noun.person.org::opposer]] drf [[file:adjs.all.org::opponent]] drf [[file:noun.act.org::opposition1]] drf [[file:noun.person.org::opposer]] drf [[file:noun.person.org::opponent]]
 hyper: [[argue]]
 fr: 8 9
 g: be against; express opposition to; "We oppose the ban on abortion"
@@ -8572,7 +8572,7 @@ fr: 2 22
 g: have a breach in relations; "We fell out over a trivial question"
 
 w: <<quarrel>> event [[file:noun.communication.org::quarrel]] agent [[file:noun.person.org::quarreller]] agent [[file:noun.person.org::quarreler]] drf [[file:noun.communication.org::quarrel]] drf [[file:noun.person.org::quarreller]] drf [[file:noun.person.org::quarreler]]
-w: <<dispute1>> event [[file:noun.communication.org::dispute]] event [[file:noun.act.org::dispute]] event [[file:noun.communication.org::disputation1]] event [[file:noun.communication.org::disputation]] drf [[file:adj.all.org::disputative]] drf [[file:noun.act.org::dispute]] drf [[file:noun.communication.org::dispute]] drf [[file:noun.communication.org::disputation1]] drf [[file:noun.communication.org::disputation]] drf [[file:noun.person.org::disputant]]
+w: <<dispute1>> event [[file:noun.communication.org::dispute]] event [[file:noun.act.org::dispute]] event [[file:noun.communication.org::disputation1]] event [[file:noun.communication.org::disputation]] drf [[file:adjs.all.org::disputative]] drf [[file:noun.act.org::dispute]] drf [[file:noun.communication.org::dispute]] drf [[file:noun.communication.org::disputation1]] drf [[file:noun.communication.org::disputation]] drf [[file:noun.person.org::disputant]]
 w: <<scrap>> event [[file:noun.act.org::scrap]] agent [[file:noun.person.org::scrapper]] drf [[file:noun.act.org::scrap]] drf [[file:noun.person.org::scrapper]]
 w: <<argufy>>
 w: <<altercate>>
@@ -8627,7 +8627,7 @@ g: dispute or argue stubbornly (especially minor points)
 
 w: <<argue>> event [[file:noun.communication.org::argument3]] agent [[file:noun.person.org::arguer]] drf [[file:adj.all.org::argumentative]] drf [[file:noun.communication.org::argument3]] drf [[file:noun.person.org::arguer]]
 w: <<contend1>> event [[file:noun.communication.org::contention]] drf [[file:noun.communication.org::contention]]
-w: <<debate1>> event [[file:noun.communication.org::debate1]] drf [[file:adj.all.org::debatable]] drf [[file:noun.communication.org::debate1]]
+w: <<debate1>> event [[file:noun.communication.org::debate1]] drf [[file:adjs.all.org::debatable]] drf [[file:noun.communication.org::debate1]]
 w: <<fence>>
 hyper: [[converse]]
 entail: [[disagree]]
@@ -8647,7 +8647,7 @@ fr: 8 15
 g: bring forward and present to the mind; "We presented the arguments to him"; "We cannot represent this knowledge to our formal reason"
 
 w: <<argue1>> event [[file:noun.communication.org::argumentation]] event [[file:noun.cognition.org::argumentation]] by-means-of [[file:noun.communication.org::argument2]] drf [[file:noun.communication.org::argument2]] drf [[file:noun.communication.org::argumentation]] drf [[file:noun.cognition.org::argumentation]]
-w: <<indicate2>> event [[file:noun.communication.org::indication3]] event [[file:noun.cognition.org::indication]] by-means-of [[file:noun.communication.org::indication]] drf [[file:adj.all.org::indicative]] drf [[file:noun.communication.org::indication3]] drf [[file:noun.communication.org::indication]] drf [[file:noun.cognition.org::indication]] drf [[file:noun.communication.org::indicant1]]
+w: <<indicate2>> event [[file:noun.communication.org::indication3]] event [[file:noun.cognition.org::indication]] by-means-of [[file:noun.communication.org::indication]] drf [[file:adjs.all.org::indicative]] drf [[file:noun.communication.org::indication3]] drf [[file:noun.communication.org::indication]] drf [[file:noun.cognition.org::indication]] drf [[file:noun.communication.org::indicant1]]
 hyper: [[present]]
 fr: 8 11
 g: give evidence of; "The evidence argues for your claim"; "The results indicate the need for more work"
@@ -8657,7 +8657,7 @@ hyper: [[argue2]]
 fr: 8
 g: argue again; "This politician will be forced into re-arguing an old national campaign"
 
-w: <<argue2>> event [[file:noun.communication.org::argumentation]] event [[file:noun.cognition.org::argumentation]] event [[file:noun.communication.org::argument]] agent [[file:noun.person.org::arguer]] drf [[file:adj.all.org::arguable]] drf [[file:noun.communication.org::argument]] drf [[file:noun.communication.org::argumentation]] drf [[file:noun.cognition.org::argumentation]] drf [[file:noun.person.org::arguer]]
+w: <<argue2>> event [[file:noun.communication.org::argumentation]] event [[file:noun.cognition.org::argumentation]] event [[file:noun.communication.org::argument]] agent [[file:noun.person.org::arguer]] drf [[file:adjs.all.org::arguable]] drf [[file:noun.communication.org::argument]] drf [[file:noun.communication.org::argumentation]] drf [[file:noun.cognition.org::argumentation]] drf [[file:noun.person.org::arguer]]
 w: <<reason>> state [[file:noun.state.org::reason]] by-means-of [[file:noun.cognition.org::reason]] agent [[file:noun.person.org::reasoner]] drf [[file:noun.state.org::reason]] drf [[file:noun.cognition.org::reason]] drf [[file:noun.person.org::reasoner]]
 hyper: [[present]]
 fr: 26
@@ -8695,7 +8695,7 @@ hyper: [[induce]]
 fr: 9
 g: incite, move, or persuade to some act of lawlessness or insubordination; "He was accused of soliciting his colleagues to destroy the documents"
 
-w: <<induce>> event [[file:noun.act.org::induction3]] by-means-of [[file:noun.motive.org::inducement]] agent [[file:noun.person.org::inducer]] drf [[file:adj.all.org::inducive]] drf [[file:noun.motive.org::inducement]] drf [[file:noun.act.org::induction3]] drf [[file:noun.person.org::inducer]] drf [[file:noun.act.org::inducing]] fr 24
+w: <<induce>> event [[file:noun.act.org::induction3]] by-means-of [[file:noun.motive.org::inducement]] agent [[file:noun.person.org::inducer]] drf [[file:adjs.all.org::inducive]] drf [[file:noun.motive.org::inducement]] drf [[file:noun.act.org::induction3]] drf [[file:noun.person.org::inducer]] drf [[file:noun.act.org::inducing]] fr 24
 w: <<stimulate1>> event [[file:noun.cognition.org::stimulation]] event [[file:noun.act.org::stimulation]] drf [[file:noun.cognition.org::stimulation]] drf [[file:noun.act.org::stimulation]] drf [[file:noun.cognition.org::stimulus]] fr 24
 w: <<cause>> event [[file:noun.act.org::causation]] by-means-of [[file:noun.event.org::cause]] by-means-of [[file:noun.communication.org::cause]] agent [[file:noun.Tops.org::cause]] drf [[file:adj.all.org::causative]] drf [[file:noun.act.org::causation]] drf [[file:noun.event.org::cause]] drf [[file:noun.communication.org::cause]] drf [[file:noun.Tops.org::cause]] fr 24
 w: <<have>>
@@ -8705,7 +8705,7 @@ fr: 25
 g: cause to do; cause to act in a specified manner; "The ads induced me to buy a VCR"; "My children finally got me to buy a computer"; "My wife made me buy a new sofa"
 
 w: <<dissuade>> event [[file:noun.communication.org::dissuasion]] by-means-of [[file:noun.communication.org::dissuasion1]] drf [[file:adj.all.org::dissuasive]] drf [[file:noun.communication.org::dissuasion1]] drf [[file:noun.communication.org::dissuasion]] ant [[persuade]]
-w: <<deter>> event [[file:noun.communication.org::determent]] by-means-of [[file:noun.communication.org::deterrence]] drf [[file:adj.all.org::deterrent]] drf [[file:noun.communication.org::determent]] drf [[file:noun.communication.org::deterrence]]
+w: <<deter>> event [[file:noun.communication.org::determent]] by-means-of [[file:noun.communication.org::deterrence]] drf [[file:adjs.all.org::deterrent]] drf [[file:noun.communication.org::determent]] drf [[file:noun.communication.org::deterrence]]
 hyper: [[rede]]
 fr: 9
 g: turn away from by persuasion; "Negative campaigning will only dissuade people"
@@ -8724,7 +8724,7 @@ g: convert to another faith or religion
 
 w: <<convert>>
 w: <<win_over>>
-w: <<convince>> drf [[file:adj.all.org::convincible]]
+w: <<convince>> drf [[file:adjs.all.org::convincible]]
 hyper: [[persuade]]
 fr: 9
 g: make (someone) agree, understand, or realize the truth or validity of something; "He had finally convinced several customers of the advantages of his product"
@@ -8739,7 +8739,7 @@ hyper: [[flatter]]
 fr: 9
 g: use flattering talk on somebody
 
-w: <<elocute>> event [[file:noun.communication.org::elocution]] drf [[file:adj.all.org::eloquent]] drf [[file:noun.communication.org::elocution]]
+w: <<elocute>> event [[file:noun.communication.org::elocution]] drf [[file:adjs.all.org::eloquent]] drf [[file:noun.communication.org::elocution]]
 hyper: [[declaim]]
 fr: 2 8
 g: declaim in an elocutionary manner; "The poet elocuted beautifully"
@@ -8818,7 +8818,7 @@ hyper: [[persuade]]
 fr: 2
 g: pressure or urge someone into an action
 
-w: <<persuade>> event [[file:noun.communication.org::persuasion]] agent [[file:noun.person.org::persuader]] drf [[file:adj.all.org::persuasible]] drf [[file:adj.all.org::persuasive]] drf [[file:noun.communication.org::persuasion]] drf [[file:noun.person.org::persuader]] ant [[dissuade]] fr 9 24
+w: <<persuade>> event [[file:noun.communication.org::persuasion]] agent [[file:noun.person.org::persuader]] drf [[file:adjs.all.org::persuasible]] drf [[file:adj.all.org::persuasive]] drf [[file:noun.communication.org::persuasion]] drf [[file:noun.person.org::persuader]] ant [[dissuade]] fr 9 24
 hyper: [[induce]]
 fr: 30
 g: cause somebody to adopt a certain position, belief, or course of action; twist somebody's arm; "You can't persuade me to buy this ugly vase!"
@@ -8835,10 +8835,10 @@ hyper: [[urge]]
 fr: 8 9 10 11 24
 g: press, drive, or impel (someone) to action or completion of an action; "He pushed her to finish her doctorate"
 
-w: <<urge>> drf [[file:adj.all.org::urgent]] drf [[file:noun.communication.org::urging]]
+w: <<urge>> drf [[file:adjs.all.org::urgent]] drf [[file:noun.communication.org::urging]]
 w: <<urge_on>>
 w: <<press>> drf [[file:noun.attribute.org::pressure]]
-w: <<exhort>> event [[file:noun.communication.org::exhortation1]] event [[file:noun.communication.org::exhortation]] drf [[file:adj.all.org::exhortatory]] drf [[file:noun.communication.org::exhortation1]] drf [[file:noun.communication.org::exhortation]]
+w: <<exhort>> event [[file:noun.communication.org::exhortation1]] event [[file:noun.communication.org::exhortation]] drf [[file:adjs.all.org::exhortatory]] drf [[file:noun.communication.org::exhortation1]] drf [[file:noun.communication.org::exhortation]]
 hyper: [[rede]]
 fr: 24
 g: force or impel in an indicated direction; "I urged him to finish his studies"
@@ -8848,8 +8848,8 @@ hyper: [[request1]]
 fr: 2 22 27
 g: ask (for something); "He applied for a leave of absence"; "She applied for college"; "apply for a job"
 
-w: <<propitiate>> event [[file:noun.act.org::propitiation]] drf [[file:adj.all.org::propitiative]] drf [[file:adj.all.org::propitiatory]] drf [[file:noun.act.org::propitiation]]
-w: <<appease>> agent [[file:noun.person.org::appeaser]] drf [[file:adj.all.org::appeasable]] drf [[file:noun.person.org::appeaser]]
+w: <<propitiate>> event [[file:noun.act.org::propitiation]] drf [[file:adjs.all.org::propitiative]] drf [[file:adjs.all.org::propitiatory]] drf [[file:noun.act.org::propitiation]]
+w: <<appease>> agent [[file:noun.person.org::appeaser]] drf [[file:adjs.all.org::appeasable]] drf [[file:noun.person.org::appeaser]]
 hyper: [[reconcile]]
 fr: 9
 g: make peace with
@@ -8874,7 +8874,7 @@ dt: [[file:noun.group.org::law]]
 fr: 2
 g: agree to plead guilty in return for a lesser charge; "If he plea-bargains, he will be sent to a medium-security prison for 8 years"
 
-w: <<agree1>> event [[file:noun.communication.org::agreement1]] event [[file:noun.communication.org::agreement]] drf [[file:adj.all.org::agreeable]] drf [[file:noun.communication.org::agreement1]] drf [[file:noun.communication.org::agreement]]
+w: <<agree1>> event [[file:noun.communication.org::agreement1]] event [[file:noun.communication.org::agreement]] drf [[file:adjs.all.org::agreeable]] drf [[file:noun.communication.org::agreement1]] drf [[file:noun.communication.org::agreement]]
 hyper: [[accept]]
 fr: 2 28
 g: consent or assent to a condition, or agree to do something; "She agreed to all my conditions"; "He agreed to leave her alone"
@@ -8946,7 +8946,7 @@ fr: 8
 g: revise the terms of in order to limit or regain excess profits gained by the contractor; "We renegociated our old mortgage now that the interest rates have come down"
 
 w: <<negociate>>
-w: <<negotiate>> event [[file:noun.communication.org::negotiation]] agent [[file:noun.person.org::negotiator]] drf [[file:adj.all.org::negotiable]] drf [[file:adj.all.org::negotiable]] drf [[file:noun.communication.org::negotiation]] drf [[file:noun.person.org::negotiant]] drf [[file:noun.person.org::negotiator]]
+w: <<negotiate>> event [[file:noun.communication.org::negotiation]] agent [[file:noun.person.org::negotiator]] drf [[file:adjs.all.org::negotiable]] drf [[file:adjs.all.org::negotiable]] drf [[file:noun.communication.org::negotiation]] drf [[file:noun.person.org::negotiant]] drf [[file:noun.person.org::negotiator]]
 w: <<talk_terms>>
 hyper: [[hash_out]]
 fr: 8
@@ -9000,10 +9000,10 @@ hyper: [[commune2]]
 fr: 2 26 27
 g: address a deity, a prophet, a saint or an object of worship; say a prayer; "pray to the Lord"
 
-w: <<bid2>> event [[file:noun.communication.org::bid3]] drf [[file:adj.all.org::biddable]] drf [[file:noun.communication.org::bid3]] drf [[file:noun.communication.org::bidding2]]
+w: <<bid2>> event [[file:noun.communication.org::bid3]] drf [[file:adjs.all.org::biddable]] drf [[file:noun.communication.org::bid3]] drf [[file:noun.communication.org::bidding2]]
 w: <<beseech>>
 w: <<entreat>>
-w: <<adjure1>> event [[file:noun.communication.org::adjuration]] drf [[file:adj.all.org::adjuratory]] drf [[file:noun.communication.org::adjuration]]
+w: <<adjure1>> event [[file:noun.communication.org::adjuration]] drf [[file:adjs.all.org::adjuratory]] drf [[file:noun.communication.org::adjuration]]
 w: <<press1>>
 w: <<conjure3>>
 hyper: [[plead]]
@@ -9022,19 +9022,19 @@ hyper: [[plead]]
 fr: 22 24
 g: call upon in supplication; entreat; "I beg you to stop!"
 
-w: <<supplicate2>> drf [[file:adj.all.org::supplicatory]] drf [[file:adj.all.org::supplicant]]
+w: <<supplicate2>> drf [[file:adjs.all.org::supplicatory]] drf [[file:adjs.all.org::supplicant]]
 vg: [[supplicate]]
 hyper: [[petition]]
 fr: 2
 g: make a humble, earnest petition; "supplicate for permission"
 
-w: <<supplicate1>> drf [[file:adj.all.org::supplicatory]] drf [[file:adj.all.org::supplicant]]
+w: <<supplicate1>> drf [[file:adjs.all.org::supplicatory]] drf [[file:adjs.all.org::supplicant]]
 vg: [[supplicate]]
 hyper: [[request1]]
 fr: 8 33
 g: ask for humbly or earnestly, as in prayer; "supplicate God's blessing"
 
-w: <<supplicate>> event [[file:noun.communication.org::supplication1]] drf [[file:adj.all.org::supplicatory]] drf [[file:adj.all.org::supplicant]] drf [[file:noun.communication.org::supplication1]] drf [[file:noun.person.org::supplicant]] drf [[file:noun.person.org::suppliant]]
+w: <<supplicate>> event [[file:noun.communication.org::supplication1]] drf [[file:adjs.all.org::supplicatory]] drf [[file:adjs.all.org::supplicant]] drf [[file:noun.communication.org::supplication1]] drf [[file:noun.person.org::supplicant]] drf [[file:noun.person.org::suppliant]]
 hyper: [[beg]]
 vg: [[supplicate1]]
 vg: [[supplicate2]]
@@ -9130,7 +9130,7 @@ hyper: [[request1]]
 fr: 12
 g: request earnestly (something from somebody); ask for aid or protection; "appeal to somebody for help"; "Invoke God in times of trouble"
 
-w: <<adjure>> event [[file:noun.communication.org::adjuration]] drf [[file:adj.all.org::adjuratory1]] drf [[file:noun.communication.org::adjuration]]
+w: <<adjure>> event [[file:noun.communication.org::adjuration]] drf [[file:adjs.all.org::adjuratory1]] drf [[file:noun.communication.org::adjuration]]
 hyper: [[charge1]]
 fr: 24
 g: command solemnly
@@ -9221,7 +9221,7 @@ hyper: [[order1]]
 fr: 24
 g: make someone do something
 
-w: <<mandate2>> by-means-of [[file:noun.communication.org::mandate]] drf [[file:adj.all.org::mandatory]] drf [[file:noun.communication.org::mandate]]
+w: <<mandate2>> by-means-of [[file:noun.communication.org::mandate]] drf [[file:adjs.all.org::mandatory]] drf [[file:noun.communication.org::mandate]]
 hyper: [[order2]]
 fr: 8
 g: make mandatory; "the new director of the school board mandated regular tests"

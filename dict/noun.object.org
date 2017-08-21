@@ -221,7 +221,7 @@ w: <<webbing>>
 hyper: [[web]]
 g: something forming a web (as between the toes of birds)
 
-w: <<web>> drf [[file:adj.all.org::webby]] drf [[file:verb.creation.org::web]]
+w: <<web>> drf [[file:adjs.all.org::webby]] drf [[file:verb.creation.org::web]]
 hyper: [[file:noun.Tops.org::object]]
 g: an intricate network suggesting something that was formed by weaving or interweaving; "the trees cast a delicate web of shadows over the lawn"
 
@@ -450,7 +450,7 @@ w: <<valence_electron>>
 hyper: [[electron]]
 g: an electron in the outer shell of an atom which can combine with other atoms to form molecules
 
-w: <<vagabond>> drf [[file:adj.all.org::vagabond2]] drf [[file:adj.all.org::vagabond1]] drf [[file:verb.motion.org::vagabond]]
+w: <<vagabond>> drf [[file:adjs.all.org::vagabond2]] drf [[file:adjs.all.org::vagabond1]] drf [[file:verb.motion.org::vagabond]]
 hyper: [[file:noun.Tops.org::object]]
 g: anything that resembles a vagabond in having no fixed place; "pirate ships were vagabonds of the sea"
 
@@ -501,11 +501,11 @@ w: <<uphill>>
 hyper: [[ascent]]
 g: the upward slope of a hill
 
-w: <<universe>> drf [[file:adj.all.org::universal]]
+w: <<universe>> drf [[file:adjs.all.org::universal]]
 w: <<existence>>
 w: <<creation>>
 w: <<world1>>
-w: <<cosmos>> drf [[file:adj.all.org::cosmic]] drf [[file:adj.pert.org::cosmic]]
+w: <<cosmos>> drf [[file:adjs.all.org::cosmic]] drf [[file:adj.pert.org::cosmic]]
 w: <<macrocosm>> drf [[file:adj.pert.org::macrocosmic]]
 hyper: [[file:noun.Tops.org::natural_object]]
 g: everything that exists anywhere; "they study the evolution of the universe"; "the biggest tree in existence"
@@ -936,7 +936,7 @@ w: <<belt>>
 hyper: [[path]]
 g: a path or strip (as cut by one course of mowing)
 
-w: <<swamp>> drf [[file:adj.all.org::swampy]] drf [[file:verb.weather.org::swamp]]
+w: <<swamp>> drf [[file:adjs.all.org::swampy]] drf [[file:verb.weather.org::swamp]]
 w: <<swampland>>
 hyper: [[wetland]]
 g: low land that is seasonally flooded; has more woody plants than a marsh and better drainage than a bog
@@ -973,7 +973,7 @@ w: <<supernova>>
 hyper: [[star]]
 g: a star that explodes and becomes extremely luminous in the process
 
-w: <<supernatant>> drf [[file:adj.all.org::supernatant]]
+w: <<supernatant>> drf [[file:adjs.all.org::supernatant]]
 hyper: [[file:noun.substance.org::liquid4]]
 g: the clear liquid that lies above a sediment or precipitate
 
@@ -1170,7 +1170,7 @@ hyper: [[file:noun.shape.org::cylinder]]
 hp: [[cave]]
 g: a cylinder of calcium carbonate hanging from the roof of a limestone cave
 
-w: <<spume>> drf [[file:verb.change.org::spume]] drf [[file:adj.all.org::spumy]]
+w: <<spume>> drf [[file:verb.change.org::spume]] drf [[file:adjs.all.org::spumy]]
 hyper: [[foam]]
 g: foam or froth on the sea
 
@@ -1190,7 +1190,7 @@ w: <<split1>> drf [[file:verb.change.org::split1]]
 hyper: [[crack]]
 g: a lengthwise crack in wood; "he inserted the wedge into a split in the log"
 
-w: <<splinter>> drf [[file:adj.all.org::splintery]] drf [[file:adj.pert.org::splintery]] drf [[file:verb.change.org::splinter]] drf [[file:verb.social.org::splinter1]]
+w: <<splinter>> drf [[file:adjs.all.org::splintery]] drf [[file:adj.pert.org::splintery]] drf [[file:verb.change.org::splinter]] drf [[file:verb.social.org::splinter1]]
 w: <<sliver1>> drf [[file:adj.pert.org::slivery]] drf [[file:verb.change.org::sliver1]] drf [[file:verb.change.org::sliver]]
 hyper: [[bit]]
 g: a small thin sharp bit or wood or glass or metal; "he got a splinter in his finger"; "it broke into slivers"
@@ -1317,7 +1317,7 @@ w: <<Small_Magellanic_Cloud>>
 hyper: [[Magellanic_Cloud]]
 g: the smaller of the two Magellanic Clouds visible from the southern hemisphere
 
-w: <<slough2>> drf [[file:adj.all.org::sloughy]]
+w: <<slough2>> drf [[file:adjs.all.org::sloughy]]
 hyper: [[bog]]
 g: a hollow filled with mud
 
@@ -1352,7 +1352,7 @@ w: <<slash>>
 hyper: [[land]]
 g: an open tract of land in a forest that is strewn with debris from logging (or fire or wind)
 
-w: <<slack>> drf [[file:adj.all.org::slack]]
+w: <<slack>> drf [[file:adjs.all.org::slack]]
 w: <<slack_water>>
 hyper: [[stretch]]
 g: a stretch of water without current or movement; "suddenly they were in a slack and the water was motionless"
@@ -1467,7 +1467,7 @@ dt: [[ocean]]
 dt: [[river]]
 g: the land along the edge of a body of water
 
-w: <<shoal2>> drf [[file:adj.all.org::shoaly]]
+w: <<shoal2>> drf [[file:adjs.all.org::shoaly]]
 hyper: [[sandbank]]
 g: a sandbank in a stretch of water that is visible at low tide
 
@@ -1534,7 +1534,7 @@ ihyper: [[river]]
 hp: [[Africa]]
 g: an African river that flows northwest into Lake Chad
 
-w: <<shag>> drf [[file:adj.all.org::shaggy]]
+w: <<shag>> drf [[file:adjs.all.org::shaggy]]
 hyper: [[tangle]]
 g: a matted tangle of hair or fiber; "the dog's woolly shag"
 
@@ -1975,8 +1975,8 @@ ihyper: [[range]]
 hp: [[North_America]]
 g: the chief mountain range of western North America; extends from British Columbia to northern New Mexico; forms the continental divide
 
-w: <<rock1>> drf [[file:adj.all.org::rocky]]
-w: <<stone>> drf [[file:adj.all.org::stony]] drf [[file:verb.contact.org::stone]]
+w: <<rock1>> drf [[file:adjs.all.org::rocky]]
+w: <<stone>> drf [[file:adjs.all.org::stony]] drf [[file:verb.contact.org::stone]]
 hyper: [[file:noun.Tops.org::natural_object]]
 g: a lump or mass of hard consolidated mineral matter; "he threw a rock at me"
 
@@ -2072,8 +2072,8 @@ w: <<ridge>> drf [[file:verb.stative.org::ridge]]
 hyper: [[natural_elevation]]
 g: a long narrow natural elevation or striation
 
-w: <<ribbon>> drf [[file:adj.all.org::ribbony]]
-w: <<thread>> drf [[file:adj.all.org::thready]] drf [[file:verb.motion.org::thread]]
+w: <<ribbon>> drf [[file:adjs.all.org::ribbony]]
+w: <<thread>> drf [[file:adjs.all.org::thready]] drf [[file:verb.motion.org::thread]]
 hyper: [[file:noun.Tops.org::object]]
 g: any long object resembling a thin line; "a mere ribbon of land"; "the lighted ribbon of traffic"; "from the air the road was a grey thread"; "a thread of smoke climbed upward"
 
@@ -2148,7 +2148,7 @@ ihyper: [[star]]
 hm: [[Leo]]
 g: the brightest star in Leo
 
-w: <<reef>> drf [[file:adj.all.org::reefy]]
+w: <<reef>> drf [[file:adjs.all.org::reefy]]
 hyper: [[ridge]]
 g: a submerged ridge of rock or coral near the surface of the water
 
@@ -2295,8 +2295,8 @@ w: <<pulsar>>
 hyper: [[neutron_star]]
 g: a degenerate neutron star; small and extremely dense; rotates very fast and emits regular pulses of polarized radiation
 
-w: <<pulp>> drf [[file:adj.all.org::pulpy]] drf [[file:verb.change.org::pulp]]
-w: <<mush>> drf [[file:adj.all.org::mushy]]
+w: <<pulp>> drf [[file:adjs.all.org::pulpy]] drf [[file:verb.change.org::pulp]]
+w: <<mush>> drf [[file:adjs.all.org::mushy]]
 hyper: [[mass]]
 g: any soft or soggy mass; "he pounded it to a pulp"
 
@@ -2360,7 +2360,7 @@ hyper: [[celestial_body]]
 dt: [[file:noun.cognition.org::astronomy]]
 g: (astronomy) a celestial body (especially a star) relative to other objects in orbit around it
 
-w: <<precipice>> drf [[file:adj.all.org::precipitous]]
+w: <<precipice>> drf [[file:adjs.all.org::precipitous]]
 hyper: [[cliff]]
 g: a very steep cliff
 
@@ -2645,7 +2645,7 @@ hp: [[file:noun.location.org::New_Mexico]]
 hp: [[file:noun.location.org::Texas]]
 g: a tributary of the Rio Grande that flows southeastward from New Mexico through western Texas
 
-w: <<pebble>> drf [[file:adj.all.org::pebbly]]
+w: <<pebble>> drf [[file:adjs.all.org::pebbly]]
 hyper: [[rock1]]
 g: a small smooth rounded rock
 
@@ -2962,7 +2962,7 @@ w: <<Davy_Jones>>
 hyper: [[bed]]
 g: the bottom of a sea or ocean
 
-w: <<ocean>> drf [[file:adj.pert.org::oceanic]] drf [[file:adj.all.org::oceanic]]
+w: <<ocean>> drf [[file:adj.pert.org::oceanic]] drf [[file:adjs.all.org::oceanic]]
 hyper: [[body_of_water]]
 hp: [[hydrosphere]]
 g: a large body of water constituting a principal part of the hydrosphere
@@ -3081,7 +3081,7 @@ w: <<Norma>>
 ihyper: [[constellation]]
 g: a small constellation in the southern hemisphere near Lupus and Ara in the Milky Way
 
-w: <<nodule>> drf [[file:adj.all.org::nodular]] drf [[file:adj.pert.org::nodular]]
+w: <<nodule>> drf [[file:adjs.all.org::nodular]] drf [[file:adj.pert.org::nodular]]
 hyper: [[hunk]]
 dt: [[file:noun.cognition.org::mineralogy]]
 g: (mineralogy) a small rounded lump of mineral substance (usually harder than the surrounding rock or sediment)
@@ -3211,10 +3211,10 @@ w: <<neck>>
 hyper: [[land]]
 g: a narrow elongated projecting strip of land
 
-w: <<necessity>> drf [[file:adj.all.org::necessitous]] drf [[file:adj.all.org::necessary]] drf [[file:verb.stative.org::necessitate]]
-w: <<essential>> drf [[file:adj.all.org::essential]] ant [[inessential]]
+w: <<necessity>> drf [[file:adjs.all.org::necessitous]] drf [[file:adj.all.org::necessary]] drf [[file:verb.stative.org::necessitate]]
+w: <<essential>> drf [[file:adjs.all.org::essential]] ant [[inessential]]
 w: <<requirement>> drf [[file:verb.consumption.org::require]]
-w: <<requisite>> drf [[file:adj.all.org::requisite]]
+w: <<requisite>> drf [[file:adjs.all.org::requisite]]
 w: <<necessary>>
 hyper: [[file:noun.Tops.org::thing]]
 g: anything indispensable; "food and shelter are necessities of life"; "the essentials of the good life"; "allow farmers to buy their requirements under favorable conditions"; "a place where the requisites of water fuel and fodder can be obtained"
@@ -3392,12 +3392,12 @@ hyper: [[file:noun.location.org::peak]]
 hp: [[mountain]]
 g: the summit of a mountain
 
-w: <<mountain>> drf [[file:adj.all.org::mountainous]] drf [[file:adj.all.org::mountainous]] drf [[file:noun.person.org::mountaineer]]
+w: <<mountain>> drf [[file:adjs.all.org::mountainous]] drf [[file:adjs.all.org::mountainous]] drf [[file:noun.person.org::mountaineer]]
 w: <<mount>>
 hyper: [[natural_elevation]]
 g: a land mass that projects well above its surroundings; higher than a hill
 
-w: <<motor>> drf [[file:adj.all.org::motor]]
+w: <<motor>> drf [[file:adjs.all.org::motor]]
 hyper: [[agent]]
 g: a nonspecific agent that imparts motion; "happiness is the aim of all men and the motor of all action"
 
@@ -3509,9 +3509,9 @@ ihyper: [[river]]
 hp: [[file:noun.location.org::United_States]]
 g: a major North American river and the chief river of the United States; rises in northern Minnesota and flows southward into the Gulf of Mexico
 
-w: <<mire>> drf [[file:adj.all.org::miry]] drf [[file:verb.contact.org::mire]] drf [[file:verb.motion.org::mire]] drf [[file:verb.motion.org::mire1]]
+w: <<mire>> drf [[file:adjs.all.org::miry]] drf [[file:verb.contact.org::mire]] drf [[file:verb.motion.org::mire]] drf [[file:verb.motion.org::mire1]]
 w: <<quagmire>>
-w: <<quag>> drf [[file:adj.all.org::quaggy]]
+w: <<quag>> drf [[file:adjs.all.org::quaggy]]
 w: <<morass>>
 w: <<slack1>>
 hyper: [[bog]]
@@ -3619,7 +3619,7 @@ hp: [[file:noun.location.org::Minnesota]]
 g: a range of hills in northeastern Minnesota where rich iron ore deposits were discovered in 1887
 
 w: <<mesa>>
-w: <<table>> drf [[file:adj.all.org::tabular]]
+w: <<table>> drf [[file:adjs.all.org::tabular]]
 hyper: [[tableland]]
 g: flat tableland with steep edges; "the tribe was relatively safe on the mesa but they had to descend into the valley for water"
 
@@ -3677,7 +3677,7 @@ w: <<Mediterranean_Sea>>
 ihyper: [[sea]]
 g: the largest inland sea; between Europe and Africa and Asia
 
-w: <<mechanism>> drf [[file:adj.all.org::mechanistic]]
+w: <<mechanism>> drf [[file:adjs.all.org::mechanistic]]
 hyper: [[file:noun.Tops.org::natural_object]]
 g: a natural object resembling a machine in structure or function; "the mechanism of the ear"; "the mechanism of infection"
 
@@ -3734,7 +3734,7 @@ w: <<mass>>
 hyper: [[body]]
 g: a body of matter without definite shape; "a huge ice mass"
 
-w: <<marsh>> drf [[file:adj.all.org::marshy]]
+w: <<marsh>> drf [[file:adjs.all.org::marshy]]
 w: <<marshland>>
 w: <<fen>>
 w: <<fenland>>
@@ -3794,7 +3794,7 @@ hyper: [[land]]
 g: the main land mass of a country or continent; as distinguished from an island or peninsula
 
 w: <<main>>
-w: <<briny>> drf [[file:adj.all.org::briny]]
+w: <<briny>> drf [[file:adjs.all.org::briny]]
 hyper: [[body_of_water]]
 hp: [[hydrosphere]]
 g: any very large body of (salt) water
@@ -4082,7 +4082,7 @@ du: [[file:noun.communication.org::plural]]
 g: the sediment from fermentation of an alcoholic beverage
 
 w: <<ledge>>
-w: <<shelf>> drf [[file:adj.all.org::shelfy]]
+w: <<shelf>> drf [[file:adjs.all.org::shelfy]]
 hyper: [[ridge]]
 g: a projecting ridge on a mountain or submerged under water
 
@@ -4570,7 +4570,7 @@ hp: [[file:noun.location.org::North_Dakota]]
 hp: [[file:noun.location.org::South_Dakota]]
 g: a river that rises in North Dakota and flows southward across South Dakota to the Missouri
 
-w: <<jag>> drf [[file:adj.all.org::jaggy]] drf [[file:verb.contact.org::jag]]
+w: <<jag>> drf [[file:adjs.all.org::jaggy]] drf [[file:verb.contact.org::jag]]
 hyper: [[file:noun.shape.org::projection]]
 g: a sharp projection on an edge or surface; "he clutched a jag of the rock"
 
@@ -4717,7 +4717,7 @@ hyper: [[agent]]
 g: an agent capable of producing infection
 
 w: <<inessential>> ant [[essential]]
-w: <<nonessential>> drf [[file:adj.all.org::nonessential]]
+w: <<nonessential>> drf [[file:adjs.all.org::nonessential]]
 hyper: [[file:noun.Tops.org::thing]]
 g: anything that is not essential; "they discarded all their inessentials"
 
@@ -4865,7 +4865,7 @@ ihyper: [[constellation]]
 g: a long faint constellation in the southern hemisphere near the equator stretching between Virgo and Cancer
 
 w: <<hunk>>
-w: <<lump>> drf [[file:adj.all.org::lumpy]] drf [[file:adj.all.org::lumpy]] drf [[file:verb.contact.org::lump]] drf [[file:verb.cognition.org::lump13]]
+w: <<lump>> drf [[file:adjs.all.org::lumpy]] drf [[file:adjs.all.org::lumpy]] drf [[file:verb.contact.org::lump]] drf [[file:verb.cognition.org::lump13]]
 hyper: [[part]]
 g: a large piece of something without definite shape; "a hunk of bread"; "a lump of coal"
 
@@ -4951,7 +4951,7 @@ w: <<hollow>> drf [[file:adj.all.org::hollow]] drf [[file:verb.contact.org::holl
 hyper: [[natural_depression]]
 g: a depression hollowed out of solid matter
 
-w: <<hole1>> drf [[file:adj.all.org::holey]] drf [[file:verb.contact.org::hole]]
+w: <<hole1>> drf [[file:adjs.all.org::holey]] drf [[file:verb.contact.org::hole]]
 hyper: [[opening]]
 g: an opening into or through something
 
@@ -4981,7 +4981,7 @@ hyper: [[slope]]
 hp: [[hill]]
 g: the side or slope of a hill
 
-w: <<hill>> drf [[file:adj.all.org::hilly]] drf [[file:verb.creation.org::hill]]
+w: <<hill>> drf [[file:adjs.all.org::hilly]] drf [[file:verb.creation.org::hill]]
 hyper: [[natural_elevation]]
 g: a local and well-defined elevation of the land; "they loved to roam the hills of West Virginia"
 
@@ -4997,7 +4997,7 @@ hyper: [[natural_elevation]]
 g: elevated (e.g., mountainous) land
 
 w: <<heterocyclic_ring>>
-w: <<heterocycle>> drf [[file:adj.all.org::heterocyclic]]
+w: <<heterocycle>> drf [[file:adjs.all.org::heterocyclic]]
 hyper: [[closed_chain]]
 g: a ring of atoms of more than one kind; especially a ring of carbon atoms containing at least one atom that is not carbon
 
@@ -5349,7 +5349,7 @@ hp: [[Colorado_Plateau]]
 hp: [[file:noun.location.org::Arizona]]
 g: the enormous gorge of the Colorado River in northern Arizona
 
-w: <<grain>> drf [[file:adj.all.org::grainy]] drf [[file:adj.all.org::granular]] drf [[file:verb.contact.org::grain1]] drf [[file:verb.change.org::grain1]] drf [[file:verb.change.org::grain]]
+w: <<grain>> drf [[file:adjs.all.org::grainy]] drf [[file:adjs.all.org::granular]] drf [[file:verb.contact.org::grain1]] drf [[file:verb.change.org::grain1]] drf [[file:verb.change.org::grain]]
 hyper: [[file:noun.substance.org::atom1]]
 g: a relatively small granular particle of a substance; "a grain of sand"; "a grain of sugar"
 
@@ -5493,7 +5493,7 @@ w: <<free_electron>>
 hyper: [[electron]]
 g: electron that is not attached to an atom or ion or molecule but is free to move under the influence of an electric field
 
-w: <<fragment1>> drf [[file:adj.all.org::fragmentary]] drf [[file:adj.all.org::fragmental]] drf [[file:verb.change.org::fragment]] drf [[file:verb.change.org::fragmentize]]
+w: <<fragment1>> drf [[file:adjs.all.org::fragmentary]] drf [[file:adjs.all.org::fragmental]] drf [[file:verb.change.org::fragment]] drf [[file:verb.change.org::fragmentize]]
 hyper: [[part]]
 g: a piece broken off or cut off of something else; "a fragment of rock"
 
@@ -5557,12 +5557,12 @@ w: <<vehicle>>
 hyper: [[file:noun.Tops.org::object]]
 g: any inanimate object (as a towel or money or clothing or dishes or books or toys etc.) that can transmit infectious agents from one person to another
 
-w: <<folium>> drf [[file:adj.all.org::foliaceous]]
+w: <<folium>> drf [[file:adjs.all.org::foliaceous]]
 hyper: [[geological_formation]]
 g: a thin layer or stratum of (especially metamorphic) rock
 
-w: <<foam>> drf [[file:verb.change.org::foam5]] drf [[file:adj.all.org::foamy]]
-w: <<froth>> drf [[file:verb.change.org::froth1]] drf [[file:verb.change.org::froth]] drf [[file:adj.all.org::frothy]]
+w: <<foam>> drf [[file:verb.change.org::foam5]] drf [[file:adjs.all.org::foamy]]
+w: <<froth>> drf [[file:verb.change.org::froth1]] drf [[file:verb.change.org::froth]] drf [[file:adjs.all.org::frothy]]
 hyper: [[bubble]]
 g: a mass of small bubbles formed in or on a liquid; "the beer had a thick head of foam"
 
@@ -5690,7 +5690,7 @@ w: <<fatigue_crack>>
 hyper: [[crack]]
 g: a crack in metal resulting from metal fatigue
 
-w: <<fallow>> drf [[file:adj.all.org::fallow]]
+w: <<fallow>> drf [[file:adjs.all.org::fallow]]
 hyper: [[cultivated_land]]
 g: cultivated land that is not seeded for one or more growing seasons
 
@@ -5872,7 +5872,7 @@ g: part of the Pacific Ocean near eastern Asia
 w: <<Earth>> drf [[file:noun.person.org::earthling]]
 w: <<earth2>> drf [[file:noun.person.org::earthling]]
 w: <<world>>
-w: <<globe>> drf [[file:adj.all.org::global]]
+w: <<globe>> drf [[file:adjs.all.org::global]]
 ihyper: [[terrestrial_planet]]
 hm: [[solar_system]]
 g: the 3rd planet from the sun; the planet we live on; "the Earth moves around the sun"; "he sailed around the world"
@@ -5922,7 +5922,7 @@ w: <<down_quark>>
 hyper: [[quark]]
 g: a stable quark with an electric charge of -1/3 and a mass 607 times that of an electron
 
-w: <<downhill>> drf [[file:adj.all.org::downhill]]
+w: <<downhill>> drf [[file:adjs.all.org::downhill]]
 hyper: [[descent]]
 g: the downward slope of a hill
 
@@ -6032,7 +6032,7 @@ hyper: [[necessity]]
 g: something desired as a necessity; "the desiderata for a vacation are time and money"
 
 w: <<descent>> ant [[ascent]]
-w: <<declivity>> drf [[file:adj.all.org::declivitous]]
+w: <<declivity>> drf [[file:adjs.all.org::declivitous]]
 w: <<fall>> drf [[file:verb.motion.org::fall11]]
 w: <<decline>> drf [[file:verb.motion.org::decline]]
 w: <<declination>> drf [[file:verb.motion.org::decline]]
@@ -6213,7 +6213,7 @@ w: <<crystallization>> drf [[file:verb.change.org::crystallize1]] drf [[file:ver
 hyper: [[rock1]]
 g: a rock formed by the solidification of a substance; has regularly repeating internal structure; external plane faces
 
-w: <<crust1>> drf [[file:adj.all.org::crusty]] drf [[file:verb.change.org::crust]]
+w: <<crust1>> drf [[file:adjs.all.org::crusty]] drf [[file:verb.change.org::crust]]
 w: <<incrustation>> drf [[file:verb.contact.org::incrust]] drf [[file:verb.change.org::incrust]]
 w: <<encrustation>> drf [[file:verb.contact.org::encrust]] drf [[file:verb.change.org::encrust]]
 hyper: [[covering]]
@@ -6544,12 +6544,12 @@ w: <<drop-off>>
 hyper: [[geological_formation]]
 g: a steep high face of rock; "he stood on a high cliff overlooking the town"; "a steep drop"
 
-w: <<clastic_rock>> drf [[file:adj.all.org::clastic]]
+w: <<clastic_rock>> drf [[file:adjs.all.org::clastic]]
 hyper: [[rock1]]
 dt: [[file:noun.cognition.org::geology]]
 g: (geology) a rock composed of broken pieces of older rocks
 
-w: <<clast>> drf [[file:adj.all.org::clastic]]
+w: <<clast>> drf [[file:adjs.all.org::clastic]]
 hyper: [[fragment1]]
 hp: [[clastic_rock]]
 dt: [[file:noun.cognition.org::geology]]
@@ -6753,7 +6753,7 @@ w: <<cavern1>> drf [[file:verb.contact.org::cavern]]
 hyper: [[enclosure]]
 g: any large dark enclosed space; "his eyes were dark caverns"
 
-w: <<cavern>> drf [[file:adj.all.org::cavernous]] drf [[file:verb.contact.org::cavern]]
+w: <<cavern>> drf [[file:adjs.all.org::cavernous]] drf [[file:verb.contact.org::cavern]]
 hyper: [[cave]]
 g: a large cave or a large chamber in a cave
 
@@ -7030,7 +7030,7 @@ w: <<bullet_hole>>
 hyper: [[hole1]]
 g: a hole made by a bullet passing through it
 
-w: <<bubble>> drf [[file:adj.all.org::bubbly]] drf [[file:verb.perception.org::bubble]] drf [[file:verb.change.org::bubble]] drf [[file:verb.body.org::bubble]]
+w: <<bubble>> drf [[file:adjs.all.org::bubbly]] drf [[file:verb.perception.org::bubble]] drf [[file:verb.change.org::bubble]] drf [[file:verb.body.org::bubble]]
 hyper: [[globule]]
 g: a hollow globule of gas (e.g., air or carbon dioxide)
 
@@ -7090,7 +7090,7 @@ hyper: [[hillside]]
 dr: [[file:noun.location.org::Scotland]]
 g: a slope or hillside
 
-w: <<boulder>> drf [[file:adj.all.org::bouldery]]
+w: <<boulder>> drf [[file:adjs.all.org::bouldery]]
 w: <<bowlder>>
 hyper: [[rock1]]
 g: a large smooth mass of rock detached from its place of origin
@@ -7147,7 +7147,7 @@ hp: [[Yellow_Sea]]
 hp: [[file:noun.location.org::China]]
 g: an inlet of the Yellow Sea, on the coast of Eastern China
 
-w: <<bog>> drf [[file:adj.all.org::boggy]]
+w: <<bog>> drf [[file:adjs.all.org::boggy]]
 w: <<peat_bog>>
 hyper: [[wetland]]
 g: wet spongy ground of decomposing vegetation; has poorer drainage than a swamp; soil is unfit for cultivation but can be cut and dried and used for fuel
@@ -7583,7 +7583,7 @@ hyper: [[file:noun.location.org::layer]]
 hp: [[crust]]
 g: the lower layer of the crust
 
-w: <<asteroid>> drf [[file:adj.all.org::asteroid]] drf [[file:adj.pert.org::asteroidal]]
+w: <<asteroid>> drf [[file:adjs.all.org::asteroid]] drf [[file:adj.pert.org::asteroidal]]
 hyper: [[minor_planet]]
 g: any of numerous small celestial bodies composed of rock and metal that move around the sun (mainly between the orbits of Mars and Jupiter)
 
@@ -7599,7 +7599,7 @@ hp: [[Eurasia]]
 g: the largest continent with 60% of the earth's population; it is joined to Europe on the west to form Eurasia; it is the site of some of the world's earliest civilizations
 
 w: <<ascent>> drf [[file:verb.motion.org::ascend1]] ant [[descent]]
-w: <<acclivity>> drf [[file:adj.all.org::acclivitous]]
+w: <<acclivity>> drf [[file:adjs.all.org::acclivitous]]
 w: <<rise>>
 w: <<raise>> drf [[file:verb.motion.org::raise]]
 w: <<climb>> drf [[file:verb.motion.org::climb6]] drf [[file:verb.motion.org::climb]]
@@ -8077,7 +8077,7 @@ ihyper: [[sea]]
 hp: [[Mediterranean]]
 g: an arm of the Mediterranean between Slovenia and Croatia and Montenegro and Albania on the east and Italy on the west
 
-w: <<adjunct>> drf [[file:adj.all.org::adjunct]]
+w: <<adjunct>> drf [[file:adjs.all.org::adjunct]]
 hyper: [[inessential]]
 g: something added to another thing but not an essential part of it
 
@@ -8117,7 +8117,7 @@ hp: [[Andes]]
 hp: [[file:noun.location.org::Argentina]]
 g: the highest mountain in the western hemisphere; located in the Andes in western Argentina (22,834 feet high)
 
-w: <<acicula>> drf [[file:adj.all.org::acicular]]
+w: <<acicula>> drf [[file:adjs.all.org::acicular]]
 hyper: [[part]]
 g: a needlelike part or structure of a plant or animal or crystal; as a spine or bristle or crystal
 
@@ -8125,7 +8125,7 @@ w: <<achondrite>> drf [[file:adj.pert.org::achondritic]]
 hyper: [[rock1]]
 g: a stony meteor lacking chondrules
 
-w: <<Acheron>> drf [[file:adj.all.org::Acheronian]]
+w: <<Acheron>> drf [[file:adjs.all.org::Acheronian]]
 w: <<River_Acheron>>
 ihyper: [[river]]
 hp: [[file:noun.cognition.org::Hell2]]
@@ -8136,8 +8136,8 @@ w: <<abyssal_zone>>
 hyper: [[ocean_floor]]
 g: the deep sea (2000 meters or more) where there is no light
 
-w: <<abyss>> drf [[file:adj.all.org::abyssal]]
-w: <<abysm>> drf [[file:adj.all.org::abysmal]]
+w: <<abyss>> drf [[file:adjs.all.org::abyssal]]
+w: <<abysm>> drf [[file:adjs.all.org::abysmal]]
 hyper: [[chasm]]
 g: a bottomless gulf or pit; any unfathomable (or apparently unfathomable) cavity or chasm or void extending below (often used figuratively)
 

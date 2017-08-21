@@ -145,7 +145,7 @@ g: upset and make nauseated; "The smell of the food turned the pregnant woman's 
 w: <<disgust>> event [[file:noun.feeling.org::disgust]] drf [[file:noun.feeling.org::disgust]]
 w: <<gross_out>>
 w: <<revolt>>
-w: <<repel>> drf [[file:adj.all.org::repulsive]] drf [[file:adj.all.org::repulsive]] drf [[file:adj.all.org::repellant]] drf [[file:adj.all.org::repellant]] drf [[file:adj.all.org::repellent]]
+w: <<repel>> drf [[file:adjs.all.org::repulsive]] drf [[file:adjs.all.org::repulsive]] drf [[file:adjs.all.org::repellant]] drf [[file:adjs.all.org::repellant]] drf [[file:adjs.all.org::repellent]]
 hyper: [[stimulate]]
 fr: 9 10
 g: fill with distaste; "This spoilt food disgusts me"
@@ -182,7 +182,7 @@ hyper: [[taste]]
 fr: 8
 g: taste appreciatively; "savor the soup"
 
-w: <<discriminate>> event [[file:noun.cognition.org::discrimination]] drf [[file:adj.all.org::discriminative]] drf [[file:adj.all.org::discriminatory]] drf [[file:noun.cognition.org::discrimination]]
+w: <<discriminate>> event [[file:noun.cognition.org::discrimination]] drf [[file:adjs.all.org::discriminative]] drf [[file:adjs.all.org::discriminatory]] drf [[file:noun.cognition.org::discrimination]]
 hyper: [[spot2]]
 fr: 2
 g: distinguish; "I could not discriminate the different tastes in this complicated dish"
@@ -197,7 +197,7 @@ w: <<spot2>>
 w: <<recognize1>>
 w: <<recognise1>>
 w: <<distinguish>>
-w: <<discern>> event [[file:noun.cognition.org::discernment2]] drf [[file:adj.all.org::discernible]] drf [[file:adj.all.org::discernible]] drf [[file:adj.all.org::discernible]] drf [[file:noun.cognition.org::discernment2]]
+w: <<discern>> event [[file:noun.cognition.org::discernment2]] drf [[file:adjs.all.org::discernible]] drf [[file:adjs.all.org::discernible]] drf [[file:adj.all.org::discernible]] drf [[file:noun.cognition.org::discernment2]]
 w: <<pick_out>>
 w: <<make_out>>
 w: <<tell_apart>>
@@ -290,7 +290,7 @@ g: become louder; "The room loudened considerably"
 w: <<quieten>> ant [[louden]]
 w: <<hush>> event [[file:noun.attribute.org::hush]] drf [[file:noun.attribute.org::hush]]
 w: <<quiet>> event [[file:noun.attribute.org::quiet2]] drf [[file:noun.attribute.org::quiet2]]
-w: <<quiesce>> drf [[file:adj.all.org::quiescent]]
+w: <<quiesce>> drf [[file:adjs.all.org::quiescent]]
 w: <<quiet_down>>
 w: <<pipe_down>>
 hyper: [[change_intensity]]
@@ -514,10 +514,10 @@ hyper: [[resound1]]
 fr: 1
 g: sound in sympathy
 
-w: <<resound1>> drf [[file:adj.all.org::resonant]]
+w: <<resound1>> drf [[file:adjs.all.org::resonant]]
 w: <<echo>> event [[file:noun.attribute.org::echo]] drf [[file:noun.attribute.org::echo]]
 w: <<ring4>> event [[file:noun.attribute.org::ring]] drf [[file:noun.attribute.org::ring]] drf [[file:noun.attribute.org::ringing]]
-w: <<reverberate>> property [[file:noun.attribute.org::reverberance]] event [[file:noun.attribute.org::reverberation]] drf [[file:adj.all.org::reverberative]] drf [[file:adj.all.org::reverberant]] drf [[file:noun.attribute.org::reverberation]] drf [[file:noun.attribute.org::reverberance]]
+w: <<reverberate>> property [[file:noun.attribute.org::reverberance]] event [[file:noun.attribute.org::reverberation]] drf [[file:adjs.all.org::reverberative]] drf [[file:adj.all.org::reverberant]] drf [[file:noun.attribute.org::reverberation]] drf [[file:noun.attribute.org::reverberance]]
 hyper: [[sound]]
 fr: 1 22
 g: ring or echo with sound; "the hall resounded with laughter"
@@ -729,7 +729,7 @@ fr: 1 2 6 7
 g: make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'"
 
 w: <<resonate>> property [[file:noun.attribute.org::resonance1]] property [[file:noun.attribute.org::resonance]] event [[file:noun.phenomenon.org::resonance]] by-means-of [[file:noun.artifact.org::resonator2]] by-means-of [[file:noun.artifact.org::resonator]] drf [[file:noun.artifact.org::resonator2]] drf [[file:noun.artifact.org::resonator]] drf [[file:noun.phenomenon.org::resonance]] drf [[file:noun.attribute.org::resonance1]] drf [[file:noun.attribute.org::resonance]]
-w: <<vibrate>> drf [[file:adj.all.org::vibratory]] drf [[file:adj.all.org::vibrant]] drf [[file:noun.attribute.org::vibrancy]]
+w: <<vibrate>> drf [[file:adjs.all.org::vibratory]] drf [[file:adjs.all.org::vibrant]] drf [[file:noun.attribute.org::vibrancy]]
 hyper: [[sound]]
 fr: 1 11
 g: sound with resonance; "The sound resonates well in this theater"
@@ -820,7 +820,7 @@ fr: 1
 g: make a loud, piercing sound; "Fighter planes are screaming through the skies"
 
 w: <<make_noise>>
-w: <<resound>> drf [[file:adj.all.org::resonant]]
+w: <<resound>> drf [[file:adjs.all.org::resonant]]
 w: <<noise>> event [[file:noun.event.org::noise]] event [[file:noun.cognition.org::noise]] drf [[file:noun.cognition.org::noise]] drf [[file:noun.event.org::noise]]
 hyper: [[sound]]
 fr: 1 2
@@ -890,7 +890,7 @@ g: pay attention to exclusively and obsessively; "The media are fixating on Prin
 
 w: <<attend>> undergoer [[file:noun.cognition.org::attention2]] property [[file:noun.cognition.org::attention1]] event [[file:noun.cognition.org::attention]] agent [[file:noun.person.org::attender2]] drf [[file:adj.all.org::attentive4]] drf [[file:adj.all.org::attentive]] drf [[file:noun.cognition.org::attention2]] drf [[file:noun.cognition.org::attention1]] drf [[file:noun.cognition.org::attention]] drf [[file:noun.person.org::attender2]]
 w: <<hang>>  fr 22
-w: <<advert>> event [[file:noun.cognition.org::advertence]] drf [[file:adj.all.org::advertent]] drf [[file:noun.cognition.org::advertency]] drf [[file:noun.cognition.org::advertence]]
+w: <<advert>> event [[file:noun.cognition.org::advertence]] drf [[file:adjs.all.org::advertent]] drf [[file:noun.cognition.org::advertency]] drf [[file:noun.cognition.org::advertence]]
 w: <<pay_heed>>
 w: <<give_ear>>
 hyper: [[listen]]
@@ -918,7 +918,7 @@ hyper: [[perceive]]
 fr: 2 8 9
 g: perceive (sound) via the auditory sense
 
-w: <<observe>> result [[file:noun.communication.org::observation]] result [[file:noun.cognition.org::observation2]] event [[file:noun.cognition.org::observation]] event [[file:noun.act.org::observation]] event [[file:noun.act.org::observance]] drf [[file:adj.all.org::observable]] drf [[file:noun.communication.org::observation]] drf [[file:noun.cognition.org::observation2]] drf [[file:noun.cognition.org::observation]] drf [[file:noun.act.org::observation]] drf [[file:noun.act.org::observance]]
+w: <<observe>> result [[file:noun.communication.org::observation]] result [[file:noun.cognition.org::observation2]] event [[file:noun.cognition.org::observation]] event [[file:noun.act.org::observation]] event [[file:noun.act.org::observance]] drf [[file:adjs.all.org::observable]] drf [[file:noun.communication.org::observation]] drf [[file:noun.cognition.org::observation2]] drf [[file:noun.cognition.org::observation]] drf [[file:noun.act.org::observation]] drf [[file:noun.act.org::observance]]
 hyper: [[watch]]
 fr: 2 8 9
 g: watch attentively; "Please observe the reaction of these two chemicals"
@@ -1178,7 +1178,7 @@ hyper: [[fluoresce]]
 fr: 1
 g: physics: fluoresce momentarily when struck by a charged particle or high-energy photon; "the phosphor fluoresced"
 
-w: <<fluoresce>> event [[file:noun.phenomenon.org::fluorescence]] drf [[file:adj.all.org::fluorescent]] drf [[file:adj.all.org::fluorescent]] drf [[file:noun.phenomenon.org::fluorescence]]
+w: <<fluoresce>> event [[file:noun.phenomenon.org::fluorescence]] drf [[file:adjs.all.org::fluorescent]] drf [[file:adjs.all.org::fluorescent]] drf [[file:noun.phenomenon.org::fluorescence]]
 hyper: [[glow]]
 fr: 1
 g: exhibit or undergo fluorescence
@@ -1194,7 +1194,7 @@ hyper: [[radiate]]
 fr: 1
 g: shine brightly, like a star or a light
 
-w: <<radiate>> property [[file:noun.attribute.org::radiance]] drf [[file:adj.all.org::radiant]] drf [[file:noun.attribute.org::radiance]]
+w: <<radiate>> property [[file:noun.attribute.org::radiance]] drf [[file:adjs.all.org::radiant]] drf [[file:noun.attribute.org::radiance]]
 hyper: [[cause_to_be_perceived]]
 fr: 1
 g: cause to be seen by emitting light as if in rays; "The sun is radiating"
@@ -1358,7 +1358,7 @@ fr: 11
 g: detect some circumstance or entity automatically; "This robot can sense the presence of people in the room"; "particle detectors sense ionization"
 
 w: <<detect>> instrument [[file:noun.artifact.org::detector1]] instrument [[file:noun.artifact.org::detector]] event [[file:noun.act.org::detection]] drf [[file:noun.act.org::detection]] drf [[file:noun.artifact.org::detector1]] drf [[file:noun.artifact.org::detector]] drf [[file:noun.act.org::detecting]]
-w: <<observe2>> result [[file:noun.communication.org::observation]] result [[file:noun.cognition.org::observation2]] event [[file:noun.act.org::observation1]] event [[file:noun.cognition.org::observance]] agent [[file:noun.person.org::observer]] drf [[file:adj.all.org::observable]] drf [[file:adj.all.org::observant]] drf [[file:noun.person.org::observer]] drf [[file:noun.communication.org::observation]] drf [[file:noun.cognition.org::observation2]] drf [[file:noun.act.org::observation1]] drf [[file:noun.cognition.org::observance]]
+w: <<observe2>> result [[file:noun.communication.org::observation]] result [[file:noun.cognition.org::observation2]] event [[file:noun.act.org::observation1]] event [[file:noun.cognition.org::observance]] agent [[file:noun.person.org::observer]] drf [[file:adjs.all.org::observable]] drf [[file:adjs.all.org::observant]] drf [[file:noun.person.org::observer]] drf [[file:noun.communication.org::observation]] drf [[file:noun.cognition.org::observation2]] drf [[file:noun.act.org::observation1]] drf [[file:noun.cognition.org::observance]]
 w: <<find2>> event [[file:noun.act.org::find]] agent [[file:noun.person.org::finder]] drf [[file:noun.act.org::find]] drf [[file:noun.person.org::finder]] drf [[file:noun.object.org::finding]] drf [[file:noun.act.org::finding]]
 w: <<discover3>> agent [[file:noun.person.org::discoverer]] drf [[file:noun.person.org::discoverer]] drf [[file:noun.communication.org::discovery]] drf [[file:noun.cognition.org::discovery]] drf [[file:noun.act.org::discovery]]
 w: <<notice4>> event [[file:noun.cognition.org::notice]] drf [[file:noun.cognition.org::notice]]
@@ -1467,7 +1467,7 @@ fr: 8
 g: view the outline of by means of an X-ray; "The radiologist can visualize the cancerous liver"
 
 w: <<watch5>> event [[file:noun.act.org::watch]] drf [[file:noun.act.org::watch]]
-w: <<view2>> event [[file:noun.cognition.org::view1]] event [[file:noun.act.org::view]] by-means-of [[file:noun.location.org::view]] agent [[file:noun.person.org::viewer1]] drf [[file:adj.all.org::viewable]] drf [[file:noun.location.org::view]] drf [[file:noun.act.org::view]] drf [[file:noun.cognition.org::view1]] drf [[file:noun.person.org::viewer1]]
+w: <<view2>> event [[file:noun.cognition.org::view1]] event [[file:noun.act.org::view]] by-means-of [[file:noun.location.org::view]] agent [[file:noun.person.org::viewer1]] drf [[file:adjs.all.org::viewable]] drf [[file:noun.location.org::view]] drf [[file:noun.act.org::view]] drf [[file:noun.cognition.org::view1]] drf [[file:noun.person.org::viewer1]]
 w: <<see3>> agent [[file:noun.person.org::seer2]] drf [[file:noun.person.org::seer2]]
 w: <<catch2>>
 w: <<take_in6>>
@@ -1564,7 +1564,7 @@ hyper: [[disguise]]
 fr: 9
 g: take part in a masquerade
 
-w: <<dissimulate>> event [[file:noun.act.org::dissimulation]] drf [[file:adj.all.org::dissimulative]] drf [[file:noun.act.org::dissimulation]]
+w: <<dissimulate>> event [[file:noun.act.org::dissimulation]] drf [[file:adjs.all.org::dissimulative]] drf [[file:noun.act.org::dissimulation]]
 hyper: [[disguise]]
 fr: 8
 g: hide (feelings) from other people
@@ -1639,7 +1639,7 @@ hyper: [[conceal]]
 fr: 11
 g: hide from view; "The lids were occulting her eyes"
 
-w: <<secrete2>> drf [[file:adj.all.org::secretive]]
+w: <<secrete2>> drf [[file:adjs.all.org::secretive]]
 hyper: [[hide]]
 fr: 8
 g: place out of sight; keep secret; "The money was secreted from his children"
@@ -1659,7 +1659,7 @@ hyper: [[file:verb.creation.org::realize]]
 fr: 11
 g: manifest the effects of (a gene or genetic trait); "Many of the laboratory animals express the trait"
 
-w: <<reveal4>> event [[file:noun.communication.org::revelation1]] drf [[file:adj.all.org::revelatory]] drf [[file:noun.communication.org::revelation1]] drf [[file:noun.communication.org::Revelation]]
+w: <<reveal4>> event [[file:noun.communication.org::revelation1]] drf [[file:adjs.all.org::revelatory]] drf [[file:noun.communication.org::revelation1]] drf [[file:noun.communication.org::Revelation]]
 hyper: [[file:verb.communication.org::unwrap]]
 dt: [[file:noun.cognition.org::theology]]
 fr: 8
@@ -1696,7 +1696,7 @@ hyper: [[show]]
 fr: 8 11
 g: make visible; "Summer brings out bright clothes"; "He brings out the best in her"
 
-w: <<ramp>> drf [[file:adj.all.org::rampant]]
+w: <<ramp>> drf [[file:adjs.all.org::rampant]]
 hyper: [[model1]]
 dt: [[file:noun.cognition.org::heraldry]]
 fr: 1
@@ -1931,7 +1931,7 @@ hyper: [[sound3]]
 fr: 11
 g: sound sharply or shrilly; "The scream pierced the night"
 
-w: <<dissonate>> drf [[file:adj.all.org::dissonant2]]
+w: <<dissonate>> drf [[file:adjs.all.org::dissonant2]]
 hyper: [[sound3]]
 fr: 1
 g: be dissonant or harsh; "The violins in this piece dissonated disturbingly"
@@ -1945,7 +1945,7 @@ hyper: [[look1]]
 fr: 6 7
 g: appear in a certain way; "This sounds interesting"
 
-w: <<appear1>> drf [[file:adj.all.org::apparent]] drf [[file:adj.all.org::apparent]]
+w: <<appear1>> drf [[file:adjs.all.org::apparent]] drf [[file:adjs.all.org::apparent]]
 w: <<seem1>>
 hyper: [[file:verb.stative.org::be3]]
 fr: 34
@@ -2384,7 +2384,7 @@ g: fail to notice
 
 w: <<note2>>
 w: <<take_note>>  fr 2
-w: <<observe1>> result [[file:noun.communication.org::observation]] result [[file:noun.cognition.org::observation2]] event [[file:noun.cognition.org::observation]] event [[file:noun.act.org::observation]] agent [[file:noun.person.org::observer]] drf [[file:adj.all.org::observable]] drf [[file:adj.all.org::observant]] drf [[file:noun.person.org::observer]] drf [[file:noun.communication.org::observation]] drf [[file:noun.cognition.org::observation2]] drf [[file:noun.cognition.org::observation]] drf [[file:noun.act.org::observation]]
+w: <<observe1>> result [[file:noun.communication.org::observation]] result [[file:noun.cognition.org::observation2]] event [[file:noun.cognition.org::observation]] event [[file:noun.act.org::observation]] agent [[file:noun.person.org::observer]] drf [[file:adjs.all.org::observable]] drf [[file:adjs.all.org::observant]] drf [[file:noun.person.org::observer]] drf [[file:noun.communication.org::observation]] drf [[file:noun.cognition.org::observation2]] drf [[file:noun.cognition.org::observation]] drf [[file:noun.act.org::observation]]
 entail: [[perceive]]
 fr: 8 9
 g: observe with care or pay close attention to; "Take note of this chemical reaction"
@@ -2394,7 +2394,7 @@ hyper: [[notice]]
 fr: 22
 g: observe with special attention; "Take notice of the great architecture"
 
-w: <<notice>> event [[file:noun.cognition.org::notice]] agent [[file:noun.person.org::noticer1]] drf [[file:adj.all.org::noticeable]] drf [[file:adj.all.org::noticeable]] drf [[file:adj.all.org::noticeable]] drf [[file:noun.cognition.org::notice]] drf [[file:noun.person.org::noticer1]] ant [[ignore]]
+w: <<notice>> event [[file:noun.cognition.org::notice]] agent [[file:noun.person.org::noticer1]] drf [[file:adjs.all.org::noticeable]] drf [[file:adjs.all.org::noticeable]] drf [[file:adj.all.org::noticeable]] drf [[file:noun.cognition.org::notice]] drf [[file:noun.person.org::noticer1]] ant [[ignore]]
 w: <<mark>> by-means-of [[file:noun.communication.org::mark5]] drf [[file:noun.communication.org::mark5]]
 w: <<note>>
 entail: [[perceive]]
@@ -2418,7 +2418,7 @@ hyper: [[perceive]]
 fr: 2 8
 g: perceive incorrectly
 
-w: <<hallucinate>> event [[file:noun.state.org::hallucination]] event [[file:noun.cognition.org::hallucination1]] event [[file:noun.cognition.org::hallucination]] drf [[file:adj.all.org::hallucinatory]] drf [[file:noun.state.org::hallucination]] drf [[file:noun.cognition.org::hallucination1]] drf [[file:noun.cognition.org::hallucination]]
+w: <<hallucinate>> event [[file:noun.state.org::hallucination]] event [[file:noun.cognition.org::hallucination1]] event [[file:noun.cognition.org::hallucination]] drf [[file:adjs.all.org::hallucinatory]] drf [[file:noun.state.org::hallucination]] drf [[file:noun.cognition.org::hallucination1]] drf [[file:noun.cognition.org::hallucination]]
 hyper: [[perceive]]
 fr: 2 8
 g: perceive what is not there; have illusions
@@ -2461,8 +2461,8 @@ vg: [[horripilate1]]
 fr: 9 10
 g: cause (someone's) hair to stand on end and to have goosebumps; "Hitchcock movies horripilate me"
 
-w: <<stimulate>> drf [[file:adj.all.org::stimulative]] drf [[file:adj.all.org::stimulant]] drf [[file:noun.cognition.org::stimulus]]
-w: <<excite>> state [[file:noun.state.org::excitement1]] state [[file:noun.state.org::excitation1]] drf [[file:adj.all.org::excitant]] drf [[file:noun.state.org::excitement1]] drf [[file:noun.state.org::excitation1]]
+w: <<stimulate>> drf [[file:adj.all.org::stimulative]] drf [[file:adjs.all.org::stimulant]] drf [[file:noun.cognition.org::stimulus]]
+w: <<excite>> state [[file:noun.state.org::excitement1]] state [[file:noun.state.org::excitation1]] drf [[file:adjs.all.org::excitant]] drf [[file:noun.state.org::excitement1]] drf [[file:noun.state.org::excitation1]]
 w: <<stir>> event [[file:noun.feeling.org::stir]] drf [[file:noun.feeling.org::stir]]
 hyper: [[sensitize]]
 fr: 8 9 10
@@ -2589,7 +2589,7 @@ hyper: [[subject3]]
 fr: 9 20
 g: expose or make accessible to some action or influence; "Expose your students to art"; "expose the blanket to sunshine"
 
-w: <<refract>> event [[file:noun.phenomenon.org::refraction]] drf [[file:adj.all.org::refractive]] drf [[file:adj.pert.org::refractive]] drf [[file:noun.phenomenon.org::refraction]]
+w: <<refract>> event [[file:noun.phenomenon.org::refraction]] drf [[file:adjs.all.org::refractive]] drf [[file:adj.pert.org::refractive]] drf [[file:noun.phenomenon.org::refraction]]
 hyper: [[subject3]]
 dt: [[file:noun.cognition.org::optics]]
 fr: 8 11
@@ -2704,7 +2704,7 @@ hyper: [[divine]]
 fr: 2 8
 g: divine by reading someone's palms; "The Gypsies chiromanced"; "She refused to chiromance my fate"
 
-w: <<divine>> result [[file:noun.communication.org::divination]] by-means-of [[file:noun.cognition.org::divination]] agent [[file:noun.person.org::diviner]] drf [[file:adj.all.org::divinatory]] drf [[file:noun.communication.org::divination]] drf [[file:noun.cognition.org::divination]] drf [[file:noun.person.org::diviner]]
+w: <<divine>> result [[file:noun.communication.org::divination]] by-means-of [[file:noun.cognition.org::divination]] agent [[file:noun.person.org::diviner]] drf [[file:adjs.all.org::divinatory]] drf [[file:noun.communication.org::divination]] drf [[file:noun.cognition.org::divination]] drf [[file:noun.person.org::diviner]]
 hyper: [[perceive]]
 fr: 8 26
 g: perceive intuitively or through some inexplicable perceptive powers
@@ -2715,7 +2715,7 @@ fr: 22
 g: receive a communication from someone; "We heard nothing from our son for five years"
 
 w: <<pick_up1>>
-w: <<receive>> instrument [[file:noun.artifact.org::receiver]] body-part [[file:noun.body.org::receptor]] drf [[file:adj.all.org::receptive]] drf [[file:noun.artifact.org::receiver]] drf [[file:noun.body.org::receptor]]
+w: <<receive>> instrument [[file:noun.artifact.org::receiver]] body-part [[file:noun.body.org::receptor]] drf [[file:adjs.all.org::receptive]] drf [[file:noun.artifact.org::receiver]] drf [[file:noun.body.org::receptor]]
 hyper: [[perceive]]
 fr: 11
 g: register (perceptual input); "pick up a signal"
@@ -2726,13 +2726,13 @@ dt: [[file:noun.cognition.org::psychology]]
 fr: 8 9
 g: perceive in terms of a past experience
 
-w: <<perceive>> event [[file:noun.act.org::perception]] agent [[file:noun.person.org::perceiver]] drf [[file:adj.all.org::perceptible]] drf [[file:adj.all.org::perceptible]] drf [[file:adj.pert.org::perceptive]] drf [[file:noun.act.org::perception]] drf [[file:noun.person.org::perceiver]]
+w: <<perceive>> event [[file:noun.act.org::perception]] agent [[file:noun.person.org::perceiver]] drf [[file:adjs.all.org::perceptible]] drf [[file:adjs.all.org::perceptible]] drf [[file:adj.pert.org::perceptive]] drf [[file:noun.act.org::perception]] drf [[file:noun.person.org::perceiver]]
 w: <<comprehend>> property [[file:noun.cognition.org::comprehension]] drf [[file:noun.cognition.org::comprehension]]
 fr: 8 9
 g: to become aware of through the senses; "I could perceive the ship coming over the horizon"
 
 w: <<feel>> property [[file:noun.attribute.org::feel]] drf [[file:noun.attribute.org::feel]] drf [[file:noun.cognition.org::feeling1]]
-w: <<sense>> instrument [[file:noun.artifact.org::sensor]] event [[file:noun.cognition.org::sensation]] by-means-of [[file:noun.cognition.org::sense2]] by-means-of [[file:noun.cognition.org::sensation1]] drf [[file:adj.all.org::sensible]] drf [[file:adj.all.org::sensible]] drf [[file:adj.all.org::sensitive4]] drf [[file:adj.all.org::sensitive1]] drf [[file:noun.cognition.org::sense2]] drf [[file:noun.cognition.org::sensation1]] drf [[file:noun.cognition.org::sensation]] drf [[file:noun.artifact.org::sensor]] drf [[file:noun.act.org::sensing]]
+w: <<sense>> instrument [[file:noun.artifact.org::sensor]] event [[file:noun.cognition.org::sensation]] by-means-of [[file:noun.cognition.org::sense2]] by-means-of [[file:noun.cognition.org::sensation1]] drf [[file:adjs.all.org::sensible]] drf [[file:adj.all.org::sensible]] drf [[file:adj.all.org::sensitive4]] drf [[file:adj.all.org::sensitive1]] drf [[file:noun.cognition.org::sense2]] drf [[file:noun.cognition.org::sensation1]] drf [[file:noun.cognition.org::sensation]] drf [[file:noun.artifact.org::sensor]] drf [[file:noun.act.org::sensing]]
 hyper: [[perceive]]
 vg: [[file:verb.stative.org::feel]]
 fr: 8 9

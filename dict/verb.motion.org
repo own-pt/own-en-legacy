@@ -105,7 +105,7 @@ hyper: [[travel]]
 fr: 8
 g: sit on and control a vehicle; "He rides his bicycle to work every day"; "She loves to ride her new motorcycle through town"
 
-w: <<itinerate>> drf [[file:adj.all.org::itinerant]]
+w: <<itinerate>> drf [[file:adjs.all.org::itinerant]]
 hyper: [[travel5]]
 fr: 2
 g: travel from place to place, as for work; "an itinerating merchant"
@@ -757,7 +757,7 @@ fr: 4 22
 g: move headlong at high speed; "The cars careered down the road"; "The mob careered through the streets"
 
 w: <<start3>>
-w: <<protrude>> undergoer [[file:noun.shape.org::protrusion]] drf [[file:adj.all.org::protrusible]] drf [[file:adj.all.org::protrusive]] drf [[file:noun.shape.org::protrusion]]
+w: <<protrude>> undergoer [[file:noun.shape.org::protrusion]] drf [[file:adjs.all.org::protrusible]] drf [[file:adj.all.org::protrusive]] drf [[file:noun.shape.org::protrusion]]
 w: <<pop>>
 w: <<pop_out1>>
 w: <<bulge>> undergoer [[file:noun.shape.org::bulge]] drf [[file:noun.shape.org::bulge]]
@@ -902,7 +902,7 @@ hyper: [[expand]]
 fr: 8
 g: spread abroad or out; "The sun dispread its beams"
 
-w: <<expand>> drf [[file:adj.all.org::expansible]] drf [[file:adj.all.org::expansible]] drf [[file:adj.all.org::expandible]] drf [[file:adj.all.org::expandible]] drf [[file:adj.all.org::expansive]] ant [[file:verb.change.org::contract4]]
+w: <<expand>> drf [[file:adjs.all.org::expansible]] drf [[file:adjs.all.org::expansible]] drf [[file:adjs.all.org::expandible]] drf [[file:adjs.all.org::expandible]] drf [[file:adj.all.org::expansive]] ant [[file:verb.change.org::contract4]]
 w: <<spread_out1>>
 hyper: [[file:verb.change.org::grow]]
 fr: 1 4
@@ -919,7 +919,7 @@ hyper: [[depart]]
 fr: 2
 g: leave a camp; "The hikers decamped before dawn"
 
-w: <<vacate>> drf [[file:adj.all.org::vacant1]]
+w: <<vacate>> drf [[file:adjs.all.org::vacant1]]
 w: <<empty>>
 w: <<abandon>>
 hyper: [[leave1]]
@@ -988,7 +988,7 @@ hyper: [[flee]]
 fr: 1 2 22
 g: run away from confinement; "The convicted murderer escaped from a high security prison"
 
-w: <<elude>> event [[file:noun.act.org::elusion]] drf [[file:adj.all.org::elusive]] drf [[file:noun.act.org::elusion]] drf [[file:noun.act.org::eluding]]
+w: <<elude>> event [[file:noun.act.org::elusion]] drf [[file:adjs.all.org::elusive]] drf [[file:noun.act.org::elusion]] drf [[file:noun.act.org::eluding]]
 w: <<evade>> event [[file:noun.act.org::evasion]] drf [[file:noun.act.org::evasion]]
 w: <<bilk>>
 hyper: [[escape]]
@@ -1665,7 +1665,7 @@ hyper: [[approach]]
 fr: 1 2
 g: draw near; "The probe closed with the space station"
 
-w: <<approach>> event [[file:noun.event.org::approach]] event [[file:noun.act.org::approach]] drf [[file:adj.all.org::approachable]] drf [[file:noun.event.org::approach]] drf [[file:noun.act.org::approach]]
+w: <<approach>> event [[file:noun.event.org::approach]] event [[file:noun.act.org::approach]] drf [[file:adjs.all.org::approachable]] drf [[file:noun.event.org::approach]] drf [[file:noun.act.org::approach]]
 w: <<near>>
 w: <<come_on>>
 w: <<go_up3>>
@@ -2196,7 +2196,7 @@ hyper: [[slope]]
 fr: 1
 g: sag, bend, bend over or down; "the rocks stooped down over the hiking path"
 
-w: <<ascend1>> undergoer [[file:noun.communication.org::ascender1]] drf [[file:adj.all.org::ascensive]] drf [[file:adj.all.org::ascendent]] drf [[file:adj.all.org::ascendant]] drf [[file:noun.object.org::ascent]] drf [[file:noun.communication.org::ascender1]]
+w: <<ascend1>> undergoer [[file:noun.communication.org::ascender1]] drf [[file:adjs.all.org::ascensive]] drf [[file:adjs.all.org::ascendent]] drf [[file:adjs.all.org::ascendant]] drf [[file:noun.object.org::ascent]] drf [[file:noun.communication.org::ascender1]]
 hyper: [[slope]]
 fr: 1
 g: slope upwards; "The path ascended to the top of the hill"
@@ -2238,7 +2238,7 @@ hyper: [[bend]]
 fr: 1
 g: bend inwards; "The body incurvates a little at the back"
 
-w: <<bend>> result [[file:noun.shape.org::bend2]] result [[file:noun.shape.org::bend1]] instrument [[file:noun.artifact.org::bender]] drf [[file:adj.all.org::bendable]] drf [[file:noun.artifact.org::bender]] drf [[file:noun.shape.org::bend2]] drf [[file:noun.shape.org::bend1]] ant [[straighten]]
+w: <<bend>> result [[file:noun.shape.org::bend2]] result [[file:noun.shape.org::bend1]] instrument [[file:noun.artifact.org::bender]] drf [[file:adjs.all.org::bendable]] drf [[file:noun.artifact.org::bender]] drf [[file:noun.shape.org::bend2]] drf [[file:noun.shape.org::bend1]] ant [[straighten]]
 w: <<flex>> drf [[file:noun.act.org::flexure]] drf [[file:noun.shape.org::flexure]]
 hyper: [[file:verb.change.org::change_shape]]
 fr: 1 2 8 11
@@ -2311,7 +2311,7 @@ hyper: [[swerve]]
 fr: 1 2
 g: swerve off course momentarily; "the ship yawed when the huge waves hit it"
 
-w: <<deflect>> instrument [[file:noun.artifact.org::deflector]] event [[file:noun.act.org::deflexion]] event [[file:noun.act.org::deflection]] drf [[file:adj.all.org::deflective]] drf [[file:noun.act.org::deflexion]] drf [[file:noun.act.org::deflection]] drf [[file:noun.artifact.org::deflector]]
+w: <<deflect>> instrument [[file:noun.artifact.org::deflector]] event [[file:noun.act.org::deflexion]] event [[file:noun.act.org::deflection]] drf [[file:adjs.all.org::deflective]] drf [[file:noun.act.org::deflexion]] drf [[file:noun.act.org::deflection]] drf [[file:noun.artifact.org::deflector]]
 hyper: [[turn]]
 fr: 1 2
 g: turn aside and away from an initial or intended course
@@ -2388,7 +2388,7 @@ hyper: [[separate1]]
 fr: 8 11
 g: separate with a railing; "rail off the crowds from the Presidential palace"
 
-w: <<separate1>> drf [[file:adj.all.org::separative1]]
+w: <<separate1>> drf [[file:adjs.all.org::separative1]]
 w: <<divide>> event [[file:noun.act.org::division2]] drf [[file:adj.all.org::divisible]] drf [[file:noun.act.org::division2]]
 fr: 8 9 10 11
 g: make a division or separation
@@ -2614,7 +2614,7 @@ hyper: [[file:verb.social.org::meet]]
 fr: 2 22
 g: come together, usually for a purpose; "The crowds congregated in front of the Vatican on Christmas Eve"
 
-w: <<intersect>> event [[file:noun.act.org::intersection]] drf [[file:adj.all.org::intersectant]] drf [[file:noun.act.org::intersection]]
+w: <<intersect>> event [[file:noun.act.org::intersection]] drf [[file:adjs.all.org::intersectant]] drf [[file:noun.act.org::intersection]]
 w: <<cross3>> drf [[file:noun.location.org::crossing]] drf [[file:noun.artifact.org::crossing1]]
 hyper: [[meet1]]
 fr: 1 2 4 22
@@ -2730,7 +2730,7 @@ fr: 8
 g: enter someone else's territory and take spoils; "The pirates raided the coastal villages regularly"
 
 w: <<intrude_on>>
-w: <<invade>> event [[file:noun.event.org::invasion]] agent [[file:noun.person.org::invader]] drf [[file:adj.all.org::invasive]] drf [[file:noun.event.org::invasion]] drf [[file:noun.person.org::invader]]
+w: <<invade>> event [[file:noun.event.org::invasion]] agent [[file:noun.person.org::invader]] drf [[file:adjs.all.org::invasive]] drf [[file:noun.event.org::invasion]] drf [[file:noun.person.org::invader]]
 w: <<obtrude_upon>>
 w: <<encroach_upon>>
 hyper: [[enter]]
@@ -4290,7 +4290,7 @@ hyper: [[descend]]
 fr: 1
 g: go down in value; "the stock market corrected"; "prices slumped"
 
-w: <<descend>> drf [[file:adj.all.org::descendant]] drf [[file:adj.all.org::descendent]] drf [[file:noun.event.org::descent]] ant [[ascend2]]
+w: <<descend>> drf [[file:adjs.all.org::descendant]] drf [[file:adjs.all.org::descendent]] drf [[file:noun.event.org::descent]] ant [[ascend2]]
 w: <<fall>> event [[file:noun.event.org::fall4]] drf [[file:noun.event.org::fall4]] ant [[rise]] see [[fall_in]]
 w: <<go_down2>>
 w: <<come_down>>
@@ -4309,7 +4309,7 @@ g: disappear beyond the horizon; "the sun sets early these days"
 w: <<rise8>> event [[file:noun.event.org::rise2]] drf [[file:noun.event.org::rise2]] ant [[set]]
 w: <<come_up>>
 w: <<uprise2>>
-w: <<ascend3>> event [[file:noun.event.org::ascension1]] drf [[file:adj.all.org::ascendent]] drf [[file:noun.event.org::ascension1]]
+w: <<ascend3>> event [[file:noun.event.org::ascension1]] drf [[file:adjs.all.org::ascendent]] drf [[file:noun.event.org::ascension1]]
 hyper: [[rise]]
 dt: [[file:noun.cognition.org::astronomy]]
 fr: 1
@@ -4344,7 +4344,7 @@ hyper: [[rise]]
 fr: 1
 g: lift up from the earth, as by geologic forces; "the earth's movement uplifted this part of town"
 
-w: <<ascend2>> event [[file:noun.event.org::ascension]] event [[file:noun.act.org::ascension]] agent [[file:noun.person.org::ascender]] drf [[file:adj.all.org::ascendable]] drf [[file:adj.all.org::ascensive]] drf [[file:adj.all.org::ascendant]] drf [[file:noun.event.org::ascension]] drf [[file:noun.act.org::ascension]] drf [[file:noun.event.org::ascent]] drf [[file:noun.act.org::ascent]] drf [[file:noun.person.org::ascender]] ant [[descend]]
+w: <<ascend2>> event [[file:noun.event.org::ascension]] event [[file:noun.act.org::ascension]] agent [[file:noun.person.org::ascender]] drf [[file:adjs.all.org::ascendable]] drf [[file:adjs.all.org::ascensive]] drf [[file:adjs.all.org::ascendant]] drf [[file:noun.event.org::ascension]] drf [[file:noun.act.org::ascension]] drf [[file:noun.event.org::ascent]] drf [[file:noun.act.org::ascent]] drf [[file:noun.person.org::ascender]] ant [[descend]]
 w: <<go_up10>>
 hyper: [[travel]]
 fr: 2 8
@@ -5546,7 +5546,7 @@ fr: 2
 g: be at or take the helm of; "helm the ship"
 
 w: <<steer>> agent [[file:noun.person.org::steerer1]] drf [[file:noun.person.org::steerer1]] drf [[file:noun.act.org::steerage]] drf [[file:noun.act.org::steering2]] drf [[file:noun.act.org::steering1]]
-w: <<maneuver>> agent [[file:noun.person.org::maneuverer]] drf [[file:adj.all.org::maneuverable]] drf [[file:noun.person.org::maneuverer]]
+w: <<maneuver>> agent [[file:noun.person.org::maneuverer]] drf [[file:adjs.all.org::maneuverable]] drf [[file:noun.person.org::maneuverer]]
 w: <<manoeuver>>
 w: <<manoeuvre>> event [[file:noun.act.org::manoeuvre3]] drf [[file:noun.act.org::manoeuvre3]]
 w: <<direct3>>
@@ -5754,7 +5754,7 @@ fr: 2 22
 g: hike with a backpack; "Every summer they are backpacking in the Rockies"
 
 w: <<stray>> agent [[file:noun.person.org::strayer]] drf [[file:noun.person.org::strayer]]
-w: <<err>> drf [[file:adj.all.org::errant]]
+w: <<err>> drf [[file:adjs.all.org::errant]]
 w: <<drift4>> event [[file:noun.process.org::drift1]] drf [[file:noun.event.org::driftage]] drf [[file:noun.process.org::drift1]] drf [[file:noun.act.org::drifting]]
 vg: [[roll9]]
 hyper: [[travel]]
@@ -6208,7 +6208,7 @@ hyper: [[walk]]
 fr: 22
 g: to go stealthily or furtively; "..stead of sneaking around spying on the neighbor's house"
 
-w: <<ambulate>> event [[file:noun.act.org::ambulation]] drf [[file:adj.all.org::ambulatory]] drf [[file:adj.all.org::ambulant]] drf [[file:noun.act.org::amble]] drf [[file:noun.act.org::ambulation]]
+w: <<ambulate>> event [[file:noun.act.org::ambulation]] drf [[file:adjs.all.org::ambulatory]] drf [[file:adjs.all.org::ambulant]] drf [[file:noun.act.org::amble]] drf [[file:noun.act.org::ambulation]]
 hyper: [[walk]]
 fr: 22
 g: walk about; not be bedridden or incapable of walking
@@ -6394,7 +6394,7 @@ hyper: [[travel]]
 fr: 1 2 22
 g: use one's feet to advance; advance by steps; "Walk, don't run!"; "We walked instead of driving"; "She walks with a slight limp"; "The patient cannot walk yet"; "Walk over to the cabinet"
 
-w: <<buoy>> by-means-of [[file:noun.communication.org::buoy]] drf [[file:adj.all.org::buoyant]] drf [[file:noun.communication.org::buoy]]
+w: <<buoy>> by-means-of [[file:noun.communication.org::buoy]] drf [[file:adjs.all.org::buoyant]] drf [[file:noun.communication.org::buoy]]
 hyper: [[float1]]
 fr: 1 2
 g: float on the surface of water
@@ -6849,7 +6849,7 @@ fr: 1 2
 g: move up and down repeatedly
 
 w: <<bounce>> property [[file:noun.attribute.org::bounce]] event [[file:noun.event.org::bounce]] drf [[file:noun.event.org::bounce]] drf [[file:noun.attribute.org::bounce]]
-w: <<resile>> drf [[file:adj.all.org::resilient]] drf [[file:noun.event.org::resiliency]]
+w: <<resile>> drf [[file:adjs.all.org::resilient]] drf [[file:noun.event.org::resiliency]]
 w: <<take_a_hop>>
 w: <<spring>> event [[file:noun.act.org::spring]] drf [[file:noun.act.org::spring]]
 w: <<bound>> event [[file:noun.act.org::bound]] drf [[file:noun.act.org::bound]]
@@ -6934,7 +6934,7 @@ hyper: [[move]]
 fr: 1 2 8 9 11
 g: move or cause to move back and forth; "The chemist shook the flask vigorously"; "My hands were shaking"
 
-w: <<palpitate2>> event [[file:noun.state.org::palpitation]] drf [[file:adj.all.org::palpitant]] drf [[file:noun.state.org::palpitation]]
+w: <<palpitate2>> event [[file:noun.state.org::palpitation]] drf [[file:adjs.all.org::palpitant]] drf [[file:noun.state.org::palpitation]]
 vg: [[palpitate]]
 hyper: [[shake]]
 fr: 8 11
@@ -6942,7 +6942,7 @@ g: cause to throb or beat rapidly; "Her violent feelings palpitated the young wo
 
 w: <<quiver>> event [[file:noun.state.org::quiver]] event [[file:noun.act.org::quiver]] drf [[file:noun.act.org::quiver]] drf [[file:noun.state.org::quiver]] drf [[file:noun.state.org::quivering]]
 w: <<quake1>> agent [[file:noun.person.org::quaker1]] drf [[file:noun.person.org::quaker1]]
-w: <<palpitate1>> event [[file:noun.state.org::palpitation1]] drf [[file:adj.all.org::palpitant]] drf [[file:noun.state.org::palpitation1]]
+w: <<palpitate1>> event [[file:noun.state.org::palpitation1]] drf [[file:adjs.all.org::palpitant]] drf [[file:noun.state.org::palpitation1]]
 hyper: [[tremble]]
 fr: 1 2
 g: shake with fast, tremulous movements; "His nostrils palpitated"
@@ -7235,7 +7235,7 @@ hyper: [[move]]
 fr: 1 4
 g: move rhythmically; "Her heart was beating fast"
 
-w: <<palpitate>> event [[file:noun.state.org::palpitation]] drf [[file:adj.all.org::palpitant]] drf [[file:noun.state.org::palpitation]]
+w: <<palpitate>> event [[file:noun.state.org::palpitation]] drf [[file:adjs.all.org::palpitant]] drf [[file:noun.state.org::palpitation]]
 w: <<flutter>> event [[file:noun.state.org::flutter]] drf [[file:noun.state.org::flutter]]
 hyper: [[beat]]
 vg: [[palpitate2]]
@@ -7290,7 +7290,7 @@ hyper: [[oscillate]]
 fr: 1
 g: oscillate about a desired speed, position, or state to an undesirable extent; "The oscillator hunts about the correct frequency"
 
-w: <<oscillate>> event [[file:noun.event.org::oscillation1]] event [[file:noun.event.org::oscillation]] drf [[file:adj.all.org::oscillatory]] drf [[file:noun.event.org::oscillation1]] drf [[file:noun.event.org::oscillation]]
+w: <<oscillate>> event [[file:noun.event.org::oscillation1]] event [[file:noun.event.org::oscillation]] drf [[file:adjs.all.org::oscillatory]] drf [[file:noun.event.org::oscillation1]] drf [[file:noun.event.org::oscillation]]
 w: <<vibrate1>> instrument [[file:noun.artifact.org::vibrator1]] event [[file:noun.event.org::vibration]] event [[file:noun.act.org::vibration]] drf [[file:noun.artifact.org::vibrator1]] drf [[file:noun.event.org::vibration]] drf [[file:noun.act.org::vibration]]
 hyper: [[swing]]
 fr: 1 4
@@ -7358,7 +7358,7 @@ hyper: [[move1]]
 fr: 8 9 10 11
 g: cause to move back and forth; "rock the cradle"; "rock the baby"; "the wind swayed the trees gently"
 
-w: <<reciprocate>> event [[file:noun.act.org::reciprocation1]] drf [[file:adj.all.org::reciprocatory]] drf [[file:noun.act.org::reciprocation1]] drf [[file:adj.all.org::reciprocative]]
+w: <<reciprocate>> event [[file:noun.act.org::reciprocation1]] drf [[file:adjs.all.org::reciprocatory]] drf [[file:noun.act.org::reciprocation1]] drf [[file:adjs.all.org::reciprocative]]
 hyper: [[move]]
 fr: 8 11
 g: alternate the direction of motion of; "the engine reciprocates the propeller"
@@ -7452,7 +7452,7 @@ fr: 8 9 10 11
 g: push out of the way
 
 w: <<push_out>>
-w: <<obtrude>> drf [[file:adj.all.org::obtrusive]]
+w: <<obtrude>> drf [[file:adjs.all.org::obtrusive]]
 w: <<thrust_out>>
 hyper: [[push]]
 fr: 8 9
@@ -7477,7 +7477,7 @@ fr: 8 9 10 11
 g: press against forcefully without moving; "she pushed against the wall with all her strength"
 
 w: <<push>> vehicle [[file:noun.artifact.org::pusher]] event [[file:noun.act.org::push]] by-means-of [[file:noun.phenomenon.org::push]] drf [[file:noun.phenomenon.org::push]] drf [[file:noun.act.org::push]] drf [[file:noun.artifact.org::pusher]] drf [[file:noun.act.org::pushing]] ant [[file:verb.contact.org::pull]]
-w: <<force>> by-means-of [[file:noun.phenomenon.org::force]] drf [[file:adj.all.org::forcible]] drf [[file:noun.phenomenon.org::force]] see [[force_out]] see [[force_out1]]
+w: <<force>> by-means-of [[file:noun.phenomenon.org::force]] drf [[file:adjs.all.org::forcible]] drf [[file:noun.phenomenon.org::force]] see [[force_out]] see [[force_out1]]
 entail: [[file:verb.contact.org::press]]
 entail: [[move]]
 hyper: [[move1]]
@@ -7945,13 +7945,13 @@ hyper: [[stay_in_place]]
 fr: 1 2 4 22
 g: stay put (in a certain place); "We are staying in Detroit; we are not moving to Cincinnati"; "Stay put in the corner here!"; "Stick around and you will learn something!"
 
-w: <<migrate1>> event [[file:noun.event.org::migration]] drf [[file:adj.all.org::migratory]] drf [[file:adj.all.org::migratory]] drf [[file:adj.all.org::migrant]] drf [[file:noun.event.org::migration]]
+w: <<migrate1>> event [[file:noun.event.org::migration]] drf [[file:adjs.all.org::migratory]] drf [[file:adj.all.org::migratory]] drf [[file:adjs.all.org::migrant]] drf [[file:noun.event.org::migration]]
 vg: [[migrate]]
 hyper: [[move2]]
 fr: 1 2 4 22
 g: move periodically or seasonally; "birds migrate in the Winter"; "The workers migrate to where the crops need harvesting"
 
-w: <<migrate>> event [[file:noun.act.org::migration]] agent [[file:noun.person.org::migrator]] agent [[file:noun.animal.org::migrator]] agent [[file:noun.group.org::migration]] drf [[file:adj.all.org::migratory]] drf [[file:noun.group.org::migration]] drf [[file:noun.act.org::migration]] drf [[file:noun.person.org::migrant]] drf [[file:noun.person.org::migrator]] drf [[file:noun.animal.org::migrator]]
+w: <<migrate>> event [[file:noun.act.org::migration]] agent [[file:noun.person.org::migrator]] agent [[file:noun.animal.org::migrator]] agent [[file:noun.group.org::migration]] drf [[file:adjs.all.org::migratory]] drf [[file:noun.group.org::migration]] drf [[file:noun.act.org::migration]] drf [[file:noun.person.org::migrant]] drf [[file:noun.person.org::migrator]] drf [[file:noun.animal.org::migrator]]
 w: <<transmigrate>>
 hyper: [[move2]]
 vg: [[migrate1]]
@@ -8094,7 +8094,7 @@ hyper: [[move1]]
 fr: 8
 g: move in an agitated manner; "His fingers worked with tension"
 
-w: <<move1>> event [[file:noun.act.org::movement4]] event [[file:noun.act.org::movement2]] event [[file:noun.act.org::move4]] agent [[file:noun.person.org::mover2]] agent [[file:noun.group.org::mover]] drf [[file:adj.all.org::moveable]] drf [[file:adj.all.org::movable]] drf [[file:adj.all.org::movable]] drf [[file:noun.act.org::move4]] drf [[file:noun.act.org::movement4]] drf [[file:noun.act.org::movement2]] drf [[file:noun.person.org::mover2]] drf [[file:noun.group.org::mover]]
+w: <<move1>> event [[file:noun.act.org::movement4]] event [[file:noun.act.org::movement2]] event [[file:noun.act.org::move4]] agent [[file:noun.person.org::mover2]] agent [[file:noun.group.org::mover]] drf [[file:adjs.all.org::moveable]] drf [[file:adjs.all.org::movable]] drf [[file:adjs.all.org::movable]] drf [[file:noun.act.org::move4]] drf [[file:noun.act.org::movement4]] drf [[file:noun.act.org::movement2]] drf [[file:noun.person.org::mover2]] drf [[file:noun.group.org::mover]]
 w: <<displace2>>
 cause: [[move]]
 vg: [[travel]]
@@ -8206,7 +8206,7 @@ g: traverse or travel on (a body of water); "We sailed the Atlantic"; "He sailed
 
 w: <<voyage>> event [[file:noun.act.org::voyage1]] event [[file:noun.act.org::voyage]] agent [[file:noun.person.org::voyager]] drf [[file:noun.act.org::voyage1]] drf [[file:noun.act.org::voyage]] drf [[file:noun.person.org::voyager]]
 w: <<sail2>> event [[file:noun.act.org::sail]] drf [[file:noun.act.org::sail]]
-w: <<navigate2>> event [[file:noun.act.org::navigation2]] drf [[file:adj.all.org::navigable]] drf [[file:noun.act.org::navigation2]]
+w: <<navigate2>> event [[file:noun.act.org::navigation2]] drf [[file:adjs.all.org::navigable]] drf [[file:noun.act.org::navigation2]]
 hyper: [[travel4]]
 fr: 1 2 20
 g: travel on water propelled by wind or by other means; "The QE2 will sail to Southampton tomorrow"

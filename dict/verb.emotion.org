@@ -3,7 +3,7 @@ hyper: [[file:verb.cognition.org::chew_over]]
 fr: 22
 g: be uncertain about; think about without fully understanding or being able to decide; "We puzzled over her sudden departure"
 
-w: <<obsess3>> event [[file:noun.cognition.org::obsession]] drf [[file:adj.all.org::obsessive]] drf [[file:noun.cognition.org::obsession]]
+w: <<obsess3>> event [[file:noun.cognition.org::obsession]] drf [[file:adjs.all.org::obsessive]] drf [[file:noun.cognition.org::obsession]]
 hyper: [[worry]]
 fr: 22
 g: be preoccupied with something; "She is obsessing over her weight"
@@ -238,7 +238,7 @@ g: arouse hostility or indifference in where there had formerly been love, affec
 
 w: <<wallow>>
 w: <<rejoice2>> drf [[file:noun.feeling.org::rejoicing]]
-w: <<triumph>> event [[file:noun.feeling.org::triumph]] drf [[file:adj.all.org::triumphant]] drf [[file:noun.feeling.org::triumph]]
+w: <<triumph>> event [[file:noun.feeling.org::triumph]] drf [[file:adjs.all.org::triumphant]] drf [[file:noun.feeling.org::triumph]]
 hyper: [[exult]]
 fr: 21
 g: be ecstatic with joy
@@ -266,7 +266,7 @@ hyper: [[commiserate]]
 fr: 2 22
 g: express one's sympathetic grief, on the occasion of someone's death; "You must condole the widow"
 
-w: <<commiserate>> state [[file:noun.feeling.org::commiseration]] event [[file:noun.communication.org::commiseration]] drf [[file:adj.all.org::commiserative]] drf [[file:noun.feeling.org::commiseration]] drf [[file:noun.communication.org::commiseration]]
+w: <<commiserate>> state [[file:noun.feeling.org::commiseration]] event [[file:noun.communication.org::commiseration]] drf [[file:adjs.all.org::commiserative]] drf [[file:noun.feeling.org::commiseration]] drf [[file:noun.communication.org::commiseration]]
 w: <<sympathize>> agent [[file:noun.person.org::sympathizer1]] drf [[file:noun.person.org::sympathizer1]] drf [[file:noun.feeling.org::sympathy]]
 w: <<sympathise>> agent [[file:noun.person.org::sympathiser1]] drf [[file:noun.person.org::sympathiser1]] drf [[file:noun.feeling.org::sympathy]]
 hyper: [[feel_for]]
@@ -450,7 +450,7 @@ hyper: [[satisfy]]
 fr: 9 10
 g: make content; "I am contented"
 
-w: <<dissatisfy>> state [[file:noun.feeling.org::dissatisfaction]] drf [[file:adj.all.org::dissatisfactory]] drf [[file:noun.feeling.org::dissatisfaction]] ant [[satisfy]]
+w: <<dissatisfy>> state [[file:noun.feeling.org::dissatisfaction]] drf [[file:adjs.all.org::dissatisfactory]] drf [[file:noun.feeling.org::dissatisfaction]] ant [[satisfy]]
 entail: [[disappoint]]
 hyper: [[displease]]
 fr: 9 10
@@ -467,7 +467,7 @@ hyper: [[stimulate]]
 fr: 9 10
 g: excite pleasurably or erotically; "A titillating story appeared in the usually conservative magazine"
 
-w: <<please3>> drf [[file:adj.all.org::pleasant]]
+w: <<please3>> drf [[file:adjs.all.org::pleasant]]
 vg: [[please]]
 hyper: [[satisfy]]
 fr: 9 10
@@ -498,7 +498,7 @@ g: lessen the intensity of or calm; "The news eased my conscience"; "still the f
 
 w: <<comfort1>> event [[file:noun.act.org::comfort]] agent [[file:noun.person.org::comforter1]] agent [[file:noun.person.org::comforter]] drf [[file:noun.act.org::comfort]] drf [[file:noun.person.org::comforter1]] drf [[file:noun.person.org::comforter]]
 w: <<soothe>>
-w: <<console>> state [[file:noun.feeling.org::consolation]] event [[file:noun.act.org::consolation]] drf [[file:adj.all.org::consolable]] drf [[file:adj.all.org::consolatory]] drf [[file:noun.feeling.org::consolation]] drf [[file:noun.act.org::consolation]]
+w: <<console>> state [[file:noun.feeling.org::consolation]] event [[file:noun.act.org::consolation]] drf [[file:adj.all.org::consolable]] drf [[file:adjs.all.org::consolatory]] drf [[file:noun.feeling.org::consolation]] drf [[file:noun.act.org::consolation]]
 w: <<solace>> uses [[file:noun.state.org::solace]] uses [[file:noun.feeling.org::solace]] result [[file:noun.state.org::solacement]] result [[file:noun.feeling.org::solacement]] event [[file:noun.act.org::solace]] drf [[file:noun.act.org::solace]] drf [[file:noun.state.org::solace]] drf [[file:noun.feeling.org::solace]] drf [[file:noun.state.org::solacement]] drf [[file:noun.feeling.org::solacement]]
 fr: 9 10
 g: give moral or emotional strength to
@@ -535,7 +535,7 @@ hyper: [[feel]]
 fr: 2 22
 g: feel happiness or joy
 
-w: <<exult>> state [[file:noun.feeling.org::exultation]] drf [[file:adj.all.org::exultant]] drf [[file:noun.feeling.org::exultation]]
+w: <<exult>> state [[file:noun.feeling.org::exultation]] drf [[file:adjs.all.org::exultant]] drf [[file:noun.feeling.org::exultation]]
 w: <<walk_on_air>> drf [[file:noun.state.org::walking_on_air]]
 w: <<be_on_cloud_nine>>
 w: <<jump_for_joy>>
@@ -614,7 +614,7 @@ hyper: [[desire]]
 fr: 2 22 26
 g: be optimistic; be full of hope; have hopes; "I am still hoping that all will turn out well"
 
-w: <<despond>> state [[file:noun.feeling.org::despondence]] drf [[file:adj.all.org::despondent]] drf [[file:noun.feeling.org::despondency]] drf [[file:noun.feeling.org::despondence]]
+w: <<despond>> state [[file:noun.feeling.org::despondence]] drf [[file:adjs.all.org::despondent]] drf [[file:noun.feeling.org::despondency]] drf [[file:noun.feeling.org::despondence]]
 hyper: [[despair]]
 fr: 2
 g: lose confidence or hope; become dejected; "The supporters of the Presidential candidate desponded when they learned the early results of the election"
@@ -624,7 +624,7 @@ fr: 2 22
 g: abandon hope; give up hope; lose heart; "Don't despair--help is on the way!"
 
 w: <<shock2>> event [[file:noun.feeling.org::shock1]] agent [[file:noun.person.org::shocker]] drf [[file:noun.feeling.org::shock1]] drf [[file:noun.person.org::shocker]]
-w: <<offend2>> drf [[file:adj.all.org::offensive]] drf [[file:adj.all.org::offensive4]] drf [[file:adj.all.org::offensive1]]
+w: <<offend2>> drf [[file:adjs.all.org::offensive]] drf [[file:adj.all.org::offensive4]] drf [[file:adj.all.org::offensive1]]
 w: <<scandalize>> event [[file:noun.act.org::scandalization]] event [[file:noun.event.org::scandal]] by-means-of [[file:noun.communication.org::scandal]] drf [[file:noun.act.org::scandalization]] drf [[file:noun.event.org::scandal]] drf [[file:noun.communication.org::scandal]]
 w: <<scandalise>> event [[file:noun.act.org::scandalisation]] event [[file:noun.event.org::scandal]] by-means-of [[file:noun.communication.org::scandal]] drf [[file:noun.act.org::scandalisation]] drf [[file:noun.event.org::scandal]] drf [[file:noun.communication.org::scandal]]
 w: <<appal>>
@@ -683,7 +683,7 @@ hyper: [[file:verb.cognition.org::surprise]]
 fr: 9 10
 g: surprise greatly; knock someone's socks off; "I was floored when I heard that I was promoted"
 
-w: <<repel>> drf [[file:adj.all.org::repulsive]] drf [[file:adj.all.org::repulsive]] drf [[file:adj.all.org::repellant]] drf [[file:adj.all.org::repellant]] drf [[file:adj.all.org::repellent]] drf [[file:noun.substance.org::repellent]] drf [[file:noun.substance.org::repellant]] ant [[attract]]
+w: <<repel>> drf [[file:adjs.all.org::repulsive]] drf [[file:adjs.all.org::repulsive]] drf [[file:adjs.all.org::repellant]] drf [[file:adjs.all.org::repellant]] drf [[file:adjs.all.org::repellent]] drf [[file:noun.substance.org::repellent]] drf [[file:noun.substance.org::repellant]] ant [[attract]]
 w: <<repulse>>
 hyper: [[displease]]
 fr: 9 10
@@ -715,12 +715,12 @@ w: <<appeal>> property [[file:noun.attribute.org::appeal]] drf [[file:noun.attri
 fr: 4 9 10
 g: be attractive to; "The idea of a vacation appeals to me"; "The beautiful garden attracted many people"
 
-w: <<tempt1>> agent [[file:noun.person.org::tempter]] drf [[file:adj.all.org::temptable]] drf [[file:noun.person.org::tempter]]
+w: <<tempt1>> agent [[file:noun.person.org::tempter]] drf [[file:adjs.all.org::temptable]] drf [[file:noun.person.org::tempter]]
 hyper: [[arouse1]]
 fr: 9
 g: try to seduce
 
-w: <<tempt>> by-means-of [[file:noun.cognition.org::temptation]] agent [[file:noun.person.org::tempter]] drf [[file:adj.all.org::temptable]] drf [[file:noun.cognition.org::temptation]] drf [[file:noun.person.org::tempter]]
+w: <<tempt>> by-means-of [[file:noun.cognition.org::temptation]] agent [[file:noun.person.org::tempter]] drf [[file:adjs.all.org::temptable]] drf [[file:noun.cognition.org::temptation]] drf [[file:noun.person.org::tempter]]
 w: <<invite>> by-means-of [[file:noun.attribute.org::invitation]] drf [[file:noun.attribute.org::invitation]]
 hyper: [[stimulate]]
 fr: 10
@@ -777,7 +777,7 @@ hyper: [[file:verb.change.org::fix3]]
 fr: 9
 g: prepare (oneself) for something unpleasant or difficult
 
-w: <<appreciate>> drf [[file:adj.all.org::appreciative]]
+w: <<appreciate>> drf [[file:adjs.all.org::appreciative]]
 hyper: [[file:verb.communication.org::acknowledge1]]
 fr: 8
 g: recognize with gratitude; be grateful for
@@ -816,7 +816,7 @@ hyper: [[file:verb.cognition.org::consider1]]
 fr: 8
 g: become excited about; "He warmed to the idea of a trip to Antarctica"
 
-w: <<anticipate>> drf [[file:adj.all.org::anticipative]]
+w: <<anticipate>> drf [[file:adjs.all.org::anticipative]]
 w: <<look_for>>
 w: <<look_to>>
 hyper: [[file:verb.cognition.org::expect1]]
@@ -833,7 +833,7 @@ hyper: [[ingratiate]]
 fr: 22
 g: ingratiate oneself to; often with insincere behavior; "She is playing up to the chairman"
 
-w: <<ingratiate>> drf [[file:adj.all.org::ingratiatory]]
+w: <<ingratiate>> drf [[file:adjs.all.org::ingratiatory]]
 hyper: [[manipulate]]
 fr: 9 20
 g: gain favor with somebody by deliberate efforts
@@ -843,7 +843,7 @@ hyper: [[manipulate]]
 fr: 8
 g: show and train; "The prize-winning poodle was handled by Mrs. Priscilla Prescott"
 
-w: <<manipulate>> event [[file:noun.act.org::manipulation]] drf [[file:adj.all.org::manipulative]] drf [[file:noun.act.org::manipulation]]
+w: <<manipulate>> event [[file:noun.act.org::manipulation]] drf [[file:adjs.all.org::manipulative]] drf [[file:noun.act.org::manipulation]]
 w: <<keep_in_line>>
 w: <<control6>> event [[file:noun.act.org::control]] agent [[file:noun.person.org::controller1]] drf [[file:noun.person.org::controller1]] drf [[file:noun.act.org::control]]
 hyper: [[file:verb.social.org::interact]]
@@ -1023,7 +1023,7 @@ hyper: [[afflict]]
 fr: 10
 g: oppress or trouble greatly
 
-w: <<afflict>> state [[file:noun.state.org::affliction2]] by-means-of [[file:noun.event.org::affliction]] drf [[file:adj.all.org::afflictive]] drf [[file:noun.state.org::affliction2]] drf [[file:noun.event.org::affliction]]
+w: <<afflict>> state [[file:noun.state.org::affliction2]] by-means-of [[file:noun.event.org::affliction]] drf [[file:adjs.all.org::afflictive]] drf [[file:noun.state.org::affliction2]] drf [[file:noun.event.org::affliction]]
 hyper: [[upset1]]
 fr: 10
 g: cause great unhappiness for; distress; "she was afflicted by the death of her parents"
@@ -1505,7 +1505,7 @@ hyper: [[frighten]]
 fr: 9 10
 g: fill with apprehension or alarm; cause to be unpleasantly surprised; "I was horrified at the thought of being late for my interview"; "The news of the executions horrified us"
 
-w: <<apprehend>> state [[file:noun.feeling.org::apprehension]] state [[file:noun.cognition.org::apprehension1]] agent [[file:noun.person.org::apprehender1]] drf [[file:adj.all.org::apprehensive]] drf [[file:adj.all.org::apprehensive]] drf [[file:noun.feeling.org::apprehension]] drf [[file:noun.cognition.org::apprehension1]] drf [[file:noun.person.org::apprehender1]]
+w: <<apprehend>> state [[file:noun.feeling.org::apprehension]] state [[file:noun.cognition.org::apprehension1]] agent [[file:noun.person.org::apprehender1]] drf [[file:adjs.all.org::apprehensive]] drf [[file:adjs.all.org::apprehensive]] drf [[file:noun.feeling.org::apprehension]] drf [[file:noun.cognition.org::apprehension1]] drf [[file:noun.person.org::apprehender1]]
 w: <<quail_at>>
 entail: [[fear]]
 hyper: [[anticipate]]
@@ -1616,7 +1616,7 @@ g: show devotion to (a deity); "Many Hindus worship Shiva"
 
 w: <<reverence>> state [[file:noun.feeling.org::reverence]] property [[file:noun.cognition.org::reverence]] event [[file:noun.feeling.org::reverence]] event [[file:noun.cognition.org::reverence]] drf [[file:noun.cognition.org::reverence]] drf [[file:noun.feeling.org::reverence]]
 w: <<fear1>> state [[file:noun.feeling.org::fear2]] drf [[file:noun.feeling.org::fear2]]
-w: <<revere>> event [[file:noun.feeling.org::reverence]] drf [[file:adj.all.org::reverent]] drf [[file:adj.all.org::reverent]] drf [[file:noun.feeling.org::reverence]]
+w: <<revere>> event [[file:noun.feeling.org::reverence]] drf [[file:adjs.all.org::reverent]] drf [[file:adj.all.org::reverent]] drf [[file:noun.feeling.org::reverence]]
 w: <<venerate>> event [[file:noun.feeling.org::veneration]] agent [[file:noun.person.org::venerator]] drf [[file:noun.feeling.org::veneration]] drf [[file:noun.person.org::venerator]]
 hyper: [[file:verb.cognition.org::respect]]
 fr: 8 9
@@ -1626,12 +1626,12 @@ w: <<idolize>> event [[file:noun.act.org::idolization1]] event [[file:noun.act.o
 w: <<idolise>> event [[file:noun.act.org::idolisation1]] event [[file:noun.act.org::idolisation]] drf [[file:noun.act.org::idolisation1]] drf [[file:noun.act.org::idolisation]] drf [[file:noun.person.org::idol]] drf [[file:noun.cognition.org::idol]] drf [[file:noun.artifact.org::idol]]
 w: <<worship>> event [[file:noun.feeling.org::worship1]] agent [[file:noun.person.org::worshipper1]] agent [[file:noun.person.org::worshiper1]] drf [[file:noun.feeling.org::worship1]] drf [[file:noun.person.org::worshiper1]] drf [[file:noun.person.org::worshipper1]]
 w: <<hero-worship>>
-w: <<revere1>> event [[file:noun.cognition.org::reverence]] drf [[file:adj.all.org::reverent]] drf [[file:adj.all.org::reverent]] drf [[file:noun.cognition.org::reverence]]
+w: <<revere1>> event [[file:noun.cognition.org::reverence]] drf [[file:adjs.all.org::reverent]] drf [[file:adj.all.org::reverent]] drf [[file:noun.cognition.org::reverence]]
 hyper: [[adore]]
 fr: 8 9
 g: love unquestioningly and uncritically or to excess; venerate as an idol; "Many teenagers idolized the Beatles"
 
-w: <<adore>> drf [[file:adj.all.org::adorable]] drf [[file:noun.person.org::adorer]]
+w: <<adore>> drf [[file:adjs.all.org::adorable]] drf [[file:noun.person.org::adorer]]
 hyper: [[love]]
 fr: 8 9 28 32
 g: love intensely; "he just adored his wife"
@@ -1661,7 +1661,7 @@ hyper: [[like5]]
 fr: 22
 g: take a liking to; "cotton to something"
 
-w: <<like4>> drf [[file:adj.all.org::likeable]] drf [[file:adj.all.org::likeable2]] drf [[file:adj.all.org::likable]] drf [[file:adj.all.org::likable2]]
+w: <<like4>> drf [[file:adjs.all.org::likeable]] drf [[file:adj.all.org::likeable2]] drf [[file:adjs.all.org::likable]] drf [[file:adj.all.org::likable2]]
 fr: 8 9
 g: be fond of; "I like my nephews"
 
@@ -1723,9 +1723,9 @@ hyper: [[hate]]
 fr: 8 9
 g: look down on with disdain; "He despises the people he has to work for"; "The professor scorns the students who don't catch on immediately"
 
-w: <<abhor>> state [[file:noun.feeling.org::abhorrence]] drf [[file:adj.all.org::abhorrent]] drf [[file:noun.person.org::abhorrer]] drf [[file:noun.feeling.org::abhorrence]]
+w: <<abhor>> state [[file:noun.feeling.org::abhorrence]] drf [[file:adjs.all.org::abhorrent]] drf [[file:noun.person.org::abhorrer]] drf [[file:noun.feeling.org::abhorrence]]
 w: <<loathe>> agent [[file:noun.person.org::loather]] drf [[file:noun.person.org::loather]] drf [[file:noun.feeling.org::loathing]]
-w: <<abominate>> undergoer [[file:noun.person.org::abomination]] result [[file:noun.feeling.org::abomination]] event [[file:noun.act.org::abomination]] agent [[file:noun.person.org::abominator]] drf [[file:adj.all.org::abominable]] drf [[file:noun.person.org::abomination]] drf [[file:noun.feeling.org::abomination]] drf [[file:noun.act.org::abomination]] drf [[file:noun.person.org::abominator]]
+w: <<abominate>> undergoer [[file:noun.person.org::abomination]] result [[file:noun.feeling.org::abomination]] event [[file:noun.act.org::abomination]] agent [[file:noun.person.org::abominator]] drf [[file:adjs.all.org::abominable]] drf [[file:noun.person.org::abomination]] drf [[file:noun.feeling.org::abomination]] drf [[file:noun.act.org::abomination]] drf [[file:noun.person.org::abominator]]
 w: <<execrate>> undergoer [[file:noun.cognition.org::execration]] state [[file:noun.feeling.org::execration]] drf [[file:noun.feeling.org::execration]] drf [[file:noun.cognition.org::execration]]
 hyper: [[hate]]
 fr: 8 9
@@ -1782,7 +1782,7 @@ hyper: [[arouse]]
 fr: 9 10
 g: arouse or elicit a feeling
 
-w: <<emote>> event [[file:noun.feeling.org::emotion]] drf [[file:adj.all.org::emotive]] drf [[file:noun.feeling.org::emotion]]
+w: <<emote>> event [[file:noun.feeling.org::emotion]] drf [[file:adjs.all.org::emotive]] drf [[file:noun.feeling.org::emotion]]
 hyper: [[file:verb.creation.org::act]]
 fr: 8
 g: give expression or emotion to, in a stage or movie role
@@ -1795,7 +1795,7 @@ g: have strong suppressed feelings
 
 w: <<pride>> event [[file:noun.feeling.org::pride1]] drf [[file:noun.feeling.org::pride1]]
 w: <<plume>>
-w: <<congratulate>> event [[file:noun.communication.org::congratulation1]] drf [[file:adj.all.org::congratulatory]] drf [[file:noun.communication.org::congratulation1]]
+w: <<congratulate>> event [[file:noun.communication.org::congratulation1]] drf [[file:adjs.all.org::congratulatory]] drf [[file:noun.communication.org::congratulation1]]
 hyper: [[feel]]
 fr: 20
 g: be proud of; "He prides himself on making it into law school"
@@ -1911,8 +1911,8 @@ hyper: [[affect]]
 fr: 4
 g: impress or affect deeply; "The event engraved itself into her memory"
 
-w: <<affect>> event [[file:noun.feeling.org::affect]] drf [[file:adj.all.org::affective]] drf [[file:noun.feeling.org::affect]]
-w: <<impress1>> drf [[file:adj.all.org::impressible]] drf [[file:adj.all.org::impressive]] drf [[file:adj.all.org::impressive]]
+w: <<affect>> event [[file:noun.feeling.org::affect]] drf [[file:adjs.all.org::affective]] drf [[file:noun.feeling.org::affect]]
+w: <<impress1>> drf [[file:adj.all.org::impressible]] drf [[file:adjs.all.org::impressive]] drf [[file:adj.all.org::impressive]]
 w: <<move>>
 w: <<strike>>
 vg: [[file:verb.perception.org::hit]]
@@ -1984,9 +1984,9 @@ w: <<pacify>> result [[file:noun.state.org::peace1]] result [[file:noun.feeling.
 w: <<lenify>>
 w: <<conciliate>> state [[file:noun.state.org::conciliation]] event [[file:noun.act.org::conciliation]] agent [[file:noun.person.org::conciliator]] drf [[file:adj.all.org::conciliative]] drf [[file:noun.state.org::conciliation]] drf [[file:noun.act.org::conciliation]] drf [[file:noun.person.org::conciliator]]
 w: <<assuage>>
-w: <<appease>> drf [[file:adj.all.org::appeasable]]
+w: <<appease>> drf [[file:adjs.all.org::appeasable]]
 w: <<mollify>> state [[file:noun.state.org::mollification]] event [[file:noun.state.org::mollification]] event [[file:noun.act.org::mollification]] drf [[file:noun.state.org::mollification]] drf [[file:noun.act.org::mollification]]
-w: <<placate>> event [[file:noun.act.org::placation]] drf [[file:adj.all.org::placative]] drf [[file:adj.all.org::placatory]] drf [[file:noun.act.org::placation]]
+w: <<placate>> event [[file:noun.act.org::placation]] drf [[file:adjs.all.org::placative]] drf [[file:adjs.all.org::placatory]] drf [[file:noun.act.org::placation]]
 w: <<gentle>>
 w: <<gruntle>>
 hyper: [[calm]]
@@ -2067,12 +2067,12 @@ hyper: [[disturb]]
 fr: 9 10
 g: disturb (someone's) composure; "The audience was jolted by the play"
 
-w: <<agitate>> drf [[file:adj.all.org::agitative]] ant [[calm]]
+w: <<agitate>> drf [[file:adjs.all.org::agitative]] ant [[calm]]
 w: <<rouse4>> drf [[file:noun.act.org::rousing]]
 w: <<turn_on2>> drf [[file:noun.cognition.org::turn-on]]
 w: <<charge5>> event [[file:noun.feeling.org::charge]] drf [[file:noun.feeling.org::charge]]
 w: <<commove>>
-w: <<excite3>> by-means-of [[file:noun.act.org::excitement]] drf [[file:adj.all.org::excitant]] drf [[file:noun.act.org::excitement]]
+w: <<excite3>> by-means-of [[file:noun.act.org::excitement]] drf [[file:adjs.all.org::excitant]] drf [[file:noun.act.org::excitement]]
 w: <<charge_up>>
 hyper: [[disturb]]
 fr: 9 10
@@ -2106,7 +2106,7 @@ hyper: [[inflame]]
 fr: 8 9 10 11
 g: work up into agitation or excitement; "Islam is fermenting Africa"
 
-w: <<inflame>> event [[file:noun.act.org::inflammation]] drf [[file:adj.all.org::inflammatory]] drf [[file:noun.act.org::inflammation]] drf [[file:noun.act.org::inflaming]]
+w: <<inflame>> event [[file:noun.act.org::inflammation]] drf [[file:adjs.all.org::inflammatory]] drf [[file:noun.act.org::inflammation]] drf [[file:noun.act.org::inflaming]]
 w: <<stir_up>>
 w: <<wake>>
 w: <<ignite>>
@@ -2153,7 +2153,7 @@ w: <<arouse>> event [[file:noun.act.org::arousal]] drf [[file:noun.act.org::arou
 w: <<elicit>> event [[file:noun.cognition.org::elicitation]] drf [[file:noun.cognition.org::elicitation]]
 w: <<enkindle>>
 w: <<kindle>>
-w: <<evoke>> event [[file:noun.cognition.org::evocation1]] drf [[file:adj.all.org::evocative]] drf [[file:noun.cognition.org::evocation1]]
+w: <<evoke>> event [[file:noun.cognition.org::evocation1]] drf [[file:adjs.all.org::evocative]] drf [[file:noun.cognition.org::evocation1]]
 w: <<fire>>
 w: <<raise8>>
 w: <<provoke>> by-means-of [[file:noun.motive.org::provocation]] drf [[file:adj.all.org::provocative]] drf [[file:noun.motive.org::provocation]]

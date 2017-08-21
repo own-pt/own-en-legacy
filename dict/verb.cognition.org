@@ -174,7 +174,7 @@ hyper: [[file:verb.communication.org::communicate1]]
 fr: 21
 g: put firmly in the mind; "Plant a thought in the students' minds"
 
-w: <<abstract1>> undergoer [[file:noun.cognition.org::abstract]] drf [[file:adj.all.org::abstractive]] drf [[file:noun.cognition.org::abstract]]
+w: <<abstract1>> undergoer [[file:noun.cognition.org::abstract]] drf [[file:adjs.all.org::abstractive]] drf [[file:noun.cognition.org::abstract]]
 hyper: [[consider1]]
 fr: 22
 g: consider apart from a particular case or instance; "Let's abstract away from this particular example"
@@ -338,7 +338,7 @@ fr: 8 21
 g: regard as objective
 
 w: <<wonder>> state [[file:noun.cognition.org::wonder]] event [[file:noun.cognition.org::wonder]] agent [[file:noun.person.org::wonderer1]] drf [[file:noun.cognition.org::wonder]] drf [[file:noun.person.org::wonderer1]]
-w: <<inquire>> drf [[file:adj.all.org::inquisitive]] drf [[file:adj.all.org::inquisitive]]
+w: <<inquire>> drf [[file:adjs.all.org::inquisitive]] drf [[file:adjs.all.org::inquisitive]]
 w: <<enquire2>>
 hyper: [[file:verb.communication.org::question]]
 fr: 29
@@ -352,7 +352,7 @@ hyper: [[analyze]]
 fr: 8
 g: follow, discover, or ascertain the course of development of something; "We must follow closely the economic development is Cuba" ; "trace the student's progress"
 
-w: <<penetrate>> event [[file:noun.cognition.org::penetration]] drf [[file:adj.all.org::penetrative]] drf [[file:noun.cognition.org::penetration]]
+w: <<penetrate>> event [[file:noun.cognition.org::penetration]] drf [[file:adjs.all.org::penetrative]] drf [[file:noun.cognition.org::penetration]]
 w: <<fathom>>
 w: <<bottom>>
 hyper: [[understand]]
@@ -375,7 +375,7 @@ hyper: [[know1]]
 fr: 8 26
 g: be fully aware or cognizant of
 
-w: <<impress>> drf [[file:adj.all.org::impressive]]
+w: <<impress>> drf [[file:adjs.all.org::impressive]]
 w: <<ingrain>>
 w: <<instill>> drf [[file:noun.act.org::instilling]]
 hyper: [[file:verb.emotion.org::affect]]
@@ -388,7 +388,7 @@ hyper: [[file:verb.body.org::affect]]
 fr: 1
 g: enter into someone's consciousness; "Did this event register in your parents' minds?"
 
-w: <<blame>> event [[file:noun.communication.org::blame1]] drf [[file:adj.all.org::blameable]] drf [[file:adj.all.org::blamable]] drf [[file:noun.communication.org::blame1]]
+w: <<blame>> event [[file:noun.communication.org::blame1]] drf [[file:adjs.all.org::blameable]] drf [[file:adjs.all.org::blamable]] drf [[file:noun.communication.org::blame1]]
 w: <<charge10>>
 hyper: [[impute]]
 fr: 8
@@ -435,7 +435,7 @@ fr: 15 21
 g: attribute (responsibility or fault) to a cause or source; "The teacher imputed the student's failure to his nervousness"
 
 w: <<impute>> event [[file:noun.cognition.org::imputation]] drf [[file:noun.cognition.org::imputation]]
-w: <<ascribe>> event [[file:noun.cognition.org::ascription]] drf [[file:adj.all.org::ascribable]] drf [[file:noun.cognition.org::ascription]]
+w: <<ascribe>> event [[file:noun.cognition.org::ascription]] drf [[file:adjs.all.org::ascribable]] drf [[file:noun.cognition.org::ascription]]
 w: <<assign2>>
 w: <<attribute>> drf [[file:adj.all.org::attributable]]
 hyper: [[evaluate1]]
@@ -496,7 +496,7 @@ fr: 8 9
 g: be concerned with or about something or somebody
 
 w: <<allow1>> undergoer [[file:noun.possession.org::allowance]] drf [[file:noun.possession.org::allowance]]
-w: <<appropriate>> drf [[file:adj.all.org::appropriable]]
+w: <<appropriate>> drf [[file:adjs.all.org::appropriable]]
 w: <<earmark>> property [[file:noun.attribute.org::earmark]] drf [[file:noun.attribute.org::earmark]]
 w: <<set_aside>>
 w: <<reserve>> undergoer [[file:noun.possession.org::reserve]] drf [[file:noun.possession.org::reserve]]
@@ -514,7 +514,7 @@ hyper: [[allow]]
 fr: 8 9
 g: calculate enough money for; provide for in the budget; "I have not budgeted for these expensive meals"
 
-w: <<allow>> drf [[file:adj.all.org::allowable]]
+w: <<allow>> drf [[file:adjs.all.org::allowable]]
 w: <<take_into_account>>
 hyper: [[calculate3]]
 fr: 8 24
@@ -581,7 +581,7 @@ vg: [[file:verb.creation.org::discover]]
 fr: 26
 g: make a discovery; "She found that he had lied to her"; "The story is false, so far as I can discover"
 
-w: <<ascertain1>> drf [[file:adj.all.org::ascertainable]]
+w: <<ascertain1>> drf [[file:adjs.all.org::ascertainable]]
 hyper: [[learn1]]
 fr: 26
 g: learn or discover with certainty
@@ -615,7 +615,7 @@ hyper: [[expect1]]
 fr: 22
 g: expect or hope for; "I look to hear from you soon"
 
-w: <<expect1>> event [[file:noun.state.org::expectation]] drf [[file:adj.all.org::expectant]] drf [[file:noun.state.org::expectation]] drf [[file:noun.cognition.org::expectancy]]
+w: <<expect1>> event [[file:noun.state.org::expectation]] drf [[file:adjs.all.org::expectant]] drf [[file:noun.state.org::expectation]] drf [[file:noun.cognition.org::expectancy]]
 w: <<look>>  fr 28
 w: <<await>>
 w: <<wait>> agent [[file:noun.person.org::waiter1]] drf [[file:noun.person.org::waiter1]] fr 28
@@ -623,7 +623,7 @@ vg: [[expect]]
 fr: 8 9 33
 g: look forward to the probable occurrence of; "We were expecting a visit from our relatives"; "She is looking to a promotion"; "he is waiting to be drafted"
 
-w: <<expect>> state [[file:noun.feeling.org::expectation]] by-means-of [[file:noun.cognition.org::expectation]] drf [[file:adj.all.org::expectant]] drf [[file:noun.feeling.org::expectation]] drf [[file:noun.cognition.org::expectation]]
+w: <<expect>> state [[file:noun.feeling.org::expectation]] by-means-of [[file:noun.cognition.org::expectation]] drf [[file:adjs.all.org::expectant]] drf [[file:noun.feeling.org::expectation]] drf [[file:noun.cognition.org::expectation]]
 w: <<anticipate>>
 hyper: [[evaluate1]]
 vg: [[expect1]]
@@ -635,7 +635,7 @@ hyper: [[react]]
 fr: 8
 g: respond to a signal; "answer the door"; "answer the telephone"
 
-w: <<accept1>> result [[file:noun.state.org::acceptance]] event [[file:noun.state.org::acceptation]] event [[file:noun.act.org::acceptation]] event [[file:noun.act.org::acceptance]] drf [[file:adj.all.org::acceptive]] drf [[file:adj.all.org::acceptive]] drf [[file:adj.all.org::acceptant]] drf [[file:noun.state.org::acceptation]] drf [[file:noun.act.org::acceptation]] drf [[file:noun.state.org::acceptance]] drf [[file:noun.act.org::acceptance]]
+w: <<accept1>> result [[file:noun.state.org::acceptance]] event [[file:noun.state.org::acceptation]] event [[file:noun.act.org::acceptation]] event [[file:noun.act.org::acceptance]] drf [[file:adjs.all.org::acceptive]] drf [[file:adj.all.org::acceptive]] drf [[file:adjs.all.org::acceptant]] drf [[file:noun.state.org::acceptation]] drf [[file:noun.act.org::acceptation]] drf [[file:noun.state.org::acceptance]] drf [[file:noun.act.org::acceptance]]
 hyper: [[react]]
 vg: [[accept]]
 fr: 8 9
@@ -682,8 +682,8 @@ hyper: [[react]]
 fr: 2
 g: react in an excited, delighted, or surprised way; "he flipped when he heard that he was accepted into Princeton University"
 
-w: <<react>> event [[file:noun.phenomenon.org::reaction1]] event [[file:noun.act.org::reaction]] drf [[file:adj.all.org::reactive]] drf [[file:noun.phenomenon.org::reaction1]] drf [[file:noun.act.org::reaction]]
-w: <<respond>> agent [[file:noun.person.org::responder]] drf [[file:adj.all.org::responsive]] drf [[file:adj.all.org::respondent]] drf [[file:noun.person.org::responder]] drf [[file:noun.person.org::respondent]]
+w: <<react>> event [[file:noun.phenomenon.org::reaction1]] event [[file:noun.act.org::reaction]] drf [[file:adjs.all.org::reactive]] drf [[file:noun.phenomenon.org::reaction1]] drf [[file:noun.act.org::reaction]]
+w: <<respond>> agent [[file:noun.person.org::responder]] drf [[file:adj.all.org::responsive]] drf [[file:adjs.all.org::respondent]] drf [[file:noun.person.org::responder]] drf [[file:noun.person.org::respondent]]
 hyper: [[file:verb.social.org::act]]
 fr: 2 12 22
 g: show a response or a reaction to something
@@ -695,7 +695,7 @@ fr: 8
 g: take something as preexisting and given
 
 w: <<insist>>
-w: <<assert>> event [[file:noun.communication.org::assertion1]] drf [[file:adj.all.org::assertable]] drf [[file:noun.communication.org::assertion1]]
+w: <<assert>> event [[file:noun.communication.org::assertion1]] drf [[file:adjs.all.org::assertable]] drf [[file:noun.communication.org::assertion1]]
 hyper: [[postulate]]
 fr: 8
 g: assert to be true; "The letter asserts a free society"
@@ -778,12 +778,12 @@ fr: 17 31
 g: conceive of as united or associated; "Sex activity is closely identified with the hypothalamus"
 
 w: <<decouple>>
-w: <<dissociate>> state [[file:noun.state.org::dissociation]] event [[file:noun.act.org::dissociation]] drf [[file:adj.all.org::dissociative]] drf [[file:noun.state.org::dissociation]] drf [[file:noun.act.org::dissociation]] ant [[associate]]
+w: <<dissociate>> state [[file:noun.state.org::dissociation]] event [[file:noun.act.org::dissociation]] drf [[file:adjs.all.org::dissociative]] drf [[file:noun.state.org::dissociation]] drf [[file:noun.act.org::dissociation]] ant [[associate]]
 hyper: [[distinguish]]
 fr: 8
 g: regard as unconnected; "you must dissociate these two events!"; "decouple our foreign policy from ideology"
 
-w: <<correlate>> event [[file:noun.relation.org::correlation]] event [[file:noun.cognition.org::correlation1]] event [[file:noun.cognition.org::correlation]] drf [[file:adj.all.org::correlative]] drf [[file:noun.relation.org::correlation]] drf [[file:noun.cognition.org::correlation1]] drf [[file:noun.cognition.org::correlation]]
+w: <<correlate>> event [[file:noun.relation.org::correlation]] event [[file:noun.cognition.org::correlation1]] event [[file:noun.cognition.org::correlation]] drf [[file:adjs.all.org::correlative]] drf [[file:noun.relation.org::correlation]] drf [[file:noun.cognition.org::correlation1]] drf [[file:noun.cognition.org::correlation]]
 vg: [[file:verb.stative.org::correlate]]
 hyper: [[associate]]
 fr: 8 11
@@ -795,13 +795,13 @@ hyper: [[associate]]
 fr: 8
 g: place into a mutual relationship; "I cannot interrelate these two events"
 
-w: <<associate>> state [[file:noun.state.org::association2]] event [[file:noun.cognition.org::association]] drf [[file:adj.all.org::associative]] drf [[file:adj.all.org::associable]] drf [[file:adj.all.org::associatory]] drf [[file:noun.state.org::association2]] drf [[file:noun.cognition.org::association]] ant [[dissociate]]
+w: <<associate>> state [[file:noun.state.org::association2]] event [[file:noun.cognition.org::association]] drf [[file:adj.all.org::associative]] drf [[file:adjs.all.org::associable]] drf [[file:adj.all.org::associatory]] drf [[file:noun.state.org::association2]] drf [[file:noun.cognition.org::association]] ant [[dissociate]]
 w: <<tie_in>>
 w: <<relate>> event [[file:noun.Tops.org::relation]] drf [[file:noun.Tops.org::relation]]
 w: <<link>> state [[file:noun.state.org::link]] drf [[file:noun.state.org::link]] drf [[file:noun.relation.org::linkage]]
 w: <<colligate2>> state [[file:noun.state.org::colligation]] event [[file:noun.cognition.org::colligation]] drf [[file:noun.state.org::colligation]] drf [[file:noun.cognition.org::colligation]]
 w: <<link_up>>
-w: <<connect>> event [[file:noun.cognition.org::connexion]] event [[file:noun.cognition.org::connection]] drf [[file:adj.all.org::connective]] drf [[file:noun.cognition.org::connection]] drf [[file:noun.cognition.org::connexion]]
+w: <<connect>> event [[file:noun.cognition.org::connexion]] event [[file:noun.cognition.org::connection]] drf [[file:adjs.all.org::connective]] drf [[file:noun.cognition.org::connection]] drf [[file:noun.cognition.org::connexion]]
 hyper: [[think]]
 fr: 17 31
 g: make a logical or causal connection; "I cannot connect these two pieces of evidence in my mind"; "colligate these facts"; "I cannot relate these events at all"
@@ -905,7 +905,7 @@ g: plan and oversee the development and details of; "The meeting between the two
 
 w: <<mastermind>> agent [[file:noun.person.org::mastermind]] drf [[file:noun.person.org::mastermind]]
 w: <<engineer>> agent [[file:noun.person.org::engineer]] drf [[file:noun.person.org::engineer]]
-w: <<direct>> drf [[file:adj.all.org::directive]]
+w: <<direct>> drf [[file:adjs.all.org::directive]]
 w: <<organize>> event [[file:noun.act.org::organization1]] event [[file:noun.act.org::organization]] agent [[file:noun.person.org::organizer1]] agent [[file:noun.group.org::organization1]] drf [[file:noun.person.org::organizer1]] drf [[file:noun.group.org::organization1]] drf [[file:noun.act.org::organization1]] drf [[file:noun.act.org::organization]]
 w: <<organise>> event [[file:noun.act.org::organisation1]] event [[file:noun.act.org::organisation]] agent [[file:noun.group.org::organisation1]] drf [[file:noun.act.org::organisation1]] drf [[file:noun.group.org::organisation1]] drf [[file:noun.act.org::organisation]]
 w: <<orchestrate>> event [[file:noun.act.org::orchestration2]] drf [[file:noun.act.org::orchestration2]]
@@ -974,7 +974,7 @@ fr: 2 22
 g: form intrigues (for) in an underhand manner
 
 w: <<conspire1>> drf [[file:adj.pert.org::conspirative]] drf [[file:noun.communication.org::conspiracy]]
-w: <<collude>> event [[file:noun.communication.org::collusion]] event [[file:noun.cognition.org::collusion]] drf [[file:adj.all.org::collusive]] drf [[file:noun.communication.org::collusion]] drf [[file:noun.cognition.org::collusion]]
+w: <<collude>> event [[file:noun.communication.org::collusion]] event [[file:noun.cognition.org::collusion]] drf [[file:adjs.all.org::collusive]] drf [[file:noun.communication.org::collusion]] drf [[file:noun.cognition.org::collusion]]
 hyper: [[file:verb.social.org::interact]]
 fr: 1 2 28
 g: act in unison or agreement and in secret towards a deceitful or illegal purpose; "The two companies conspired to cause the value of the stock to fall"
@@ -1038,7 +1038,7 @@ fr: 8
 g: aim too high; "The plan overshoots its aim"
 
 w: <<draw_a_bead_on>>  fr 8
-w: <<aspire>> undergoer [[file:noun.feeling.org::aspiration]] undergoer [[file:noun.attribute.org::aspiration]] agent [[file:noun.person.org::aspirer]] drf [[file:adj.all.org::aspirant]] drf [[file:noun.feeling.org::aspiration]] drf [[file:noun.attribute.org::aspiration]] drf [[file:noun.person.org::aspirant]] drf [[file:noun.person.org::aspirer]]
+w: <<aspire>> undergoer [[file:noun.feeling.org::aspiration]] undergoer [[file:noun.attribute.org::aspiration]] agent [[file:noun.person.org::aspirer]] drf [[file:adjs.all.org::aspirant]] drf [[file:noun.feeling.org::aspiration]] drf [[file:noun.attribute.org::aspiration]] drf [[file:noun.person.org::aspirant]] drf [[file:noun.person.org::aspirer]]
 w: <<aim>>
 w: <<shoot_for>>  fr 8
 hyper: [[plan1]]
@@ -1062,8 +1062,8 @@ fr: 8 33
 g: make plans for something; "He is planning a trip with his family"
 
 w: <<study4>> state [[file:noun.cognition.org::study4]] event [[file:noun.cognition.org::study1]] drf [[file:noun.cognition.org::study1]] drf [[file:noun.cognition.org::study4]]
-w: <<meditate2>> event [[file:noun.cognition.org::meditation1]] event [[file:noun.cognition.org::meditation]] drf [[file:adj.all.org::meditative]] drf [[file:noun.cognition.org::meditation1]] drf [[file:noun.cognition.org::meditation]]
-w: <<contemplate>> event [[file:noun.cognition.org::contemplation]] drf [[file:adj.all.org::contemplative]] drf [[file:noun.cognition.org::contemplation]]
+w: <<meditate2>> event [[file:noun.cognition.org::meditation1]] event [[file:noun.cognition.org::meditation]] drf [[file:adjs.all.org::meditative]] drf [[file:noun.cognition.org::meditation1]] drf [[file:noun.cognition.org::meditation]]
+w: <<contemplate>> event [[file:noun.cognition.org::contemplation]] drf [[file:adjs.all.org::contemplative]] drf [[file:noun.cognition.org::contemplation]]
 hyper: [[think]]
 fr: 2
 g: think intently and at length, as for spiritual purposes; "He is meditating in his study"
@@ -1089,7 +1089,7 @@ hyper: [[file:verb.communication.org::consider2]]
 fr: 29
 g: deliberate or decide; "See whether you can come tomorrow"; "let's see--which movie should we see tonight?"
 
-w: <<cogitate1>> event [[file:noun.cognition.org::cogitation1]] event [[file:noun.cognition.org::cogitation]] drf [[file:adj.all.org::cogitative]] drf [[file:noun.cognition.org::cogitation1]] drf [[file:noun.cognition.org::cogitation]]
+w: <<cogitate1>> event [[file:noun.cognition.org::cogitation1]] event [[file:noun.cognition.org::cogitation]] drf [[file:adjs.all.org::cogitative]] drf [[file:noun.cognition.org::cogitation1]] drf [[file:noun.cognition.org::cogitation]]
 hyper: [[chew_over]]
 fr: 8 29
 g: consider carefully and deeply; reflect upon; turn over in one's mind
@@ -1250,7 +1250,7 @@ g: calculate as being; "I make the height about 100 feet"
 
 w: <<decide>> event [[file:noun.act.org::decision]] drf [[file:adj.all.org::decisive1]] drf [[file:noun.act.org::decision]] drf [[file:noun.cognition.org::deciding]] fr 2 26 29
 w: <<make_up_one's_mind>>  fr 2
-w: <<determine>> result [[file:noun.cognition.org::determination]] event [[file:noun.act.org::determination1]] drf [[file:adj.all.org::determinant]] drf [[file:noun.cognition.org::determination]] drf [[file:noun.act.org::determination1]] fr 26 29
+w: <<determine>> result [[file:noun.cognition.org::determination]] event [[file:noun.act.org::determination1]] drf [[file:adjs.all.org::determinant]] drf [[file:noun.cognition.org::determination]] drf [[file:noun.act.org::determination1]] fr 26 29
 entail: [[file:verb.communication.org::debate]]
 fr: 8
 g: reach, make, or come to a decision about something; "We finally decided after lengthy deliberations"
@@ -1346,7 +1346,7 @@ g: esteem very highly; "She thinks the world of her adviser"
 
 w: <<respect>> property [[file:noun.state.org::respect]] property [[file:noun.cognition.org::respect1]] event [[file:noun.act.org::respect3]] agent [[file:noun.person.org::respecter]] drf [[file:noun.act.org::respect3]] drf [[file:noun.cognition.org::respect1]] drf [[file:noun.state.org::respect]] drf [[file:noun.person.org::respecter]] ant [[disrespect]]
 w: <<esteem1>> state [[file:noun.state.org::esteem]] state [[file:noun.feeling.org::esteem]] state [[file:noun.cognition.org::esteem]] drf [[file:noun.cognition.org::esteem]] drf [[file:noun.feeling.org::esteem]] drf [[file:noun.state.org::esteem]] ant [[disesteem]]
-w: <<value1>> undergoer [[file:noun.cognition.org::value1]] drf [[file:adj.all.org::valuable]] drf [[file:noun.cognition.org::value1]]
+w: <<value1>> undergoer [[file:noun.cognition.org::value1]] drf [[file:adjs.all.org::valuable]] drf [[file:noun.cognition.org::value1]]
 w: <<prize>>
 w: <<prise>>
 hyper: [[see]]
@@ -1399,7 +1399,7 @@ hyper: [[see]]
 fr: 8
 g: consider an abstract concept to be real
 
-w: <<abstract>> undergoer [[file:noun.cognition.org::abstraction]] undergoer [[file:noun.Tops.org::abstraction]] undergoer [[file:noun.cognition.org::abstract]] event [[file:noun.cognition.org::abstraction2]] drf [[file:adj.all.org::abstractive]] drf [[file:noun.cognition.org::abstraction]] drf [[file:noun.Tops.org::abstraction]] drf [[file:noun.cognition.org::abstraction2]] drf [[file:noun.cognition.org::abstract]]
+w: <<abstract>> undergoer [[file:noun.cognition.org::abstraction]] undergoer [[file:noun.Tops.org::abstraction]] undergoer [[file:noun.cognition.org::abstract]] event [[file:noun.cognition.org::abstraction2]] drf [[file:adjs.all.org::abstractive]] drf [[file:noun.cognition.org::abstraction]] drf [[file:noun.Tops.org::abstraction]] drf [[file:noun.cognition.org::abstraction2]] drf [[file:noun.cognition.org::abstract]]
 hyper: [[see]]
 fr: 8
 g: consider a concept without thinking of a specific example; consider abstractly or theoretically
@@ -1498,7 +1498,7 @@ g: change one's mind; "He rethought his decision to take a vacation"
 
 w: <<trust>> event [[file:noun.cognition.org::trust1]] drf [[file:noun.cognition.org::trust1]] ant [[mistrust]] ant [[distrust]]
 w: <<swear10>>
-w: <<rely11>> event [[file:noun.state.org::reliance]] event [[file:noun.cognition.org::reliance]] drf [[file:adj.all.org::reliant]] drf [[file:noun.state.org::reliance]] drf [[file:noun.cognition.org::reliance]]
+w: <<rely11>> event [[file:noun.state.org::reliance]] event [[file:noun.cognition.org::reliance]] drf [[file:adjs.all.org::reliant]] drf [[file:noun.state.org::reliance]] drf [[file:noun.cognition.org::reliance]]
 w: <<bank2>>
 hyper: [[believe]]
 fr: 22
@@ -1541,12 +1541,12 @@ hyper: [[accept]]
 fr: 8
 g: accept (documents) as valid
 
-w: <<receive>> drf [[file:adj.all.org::receptive]] drf [[file:adj.all.org::receptive]]
+w: <<receive>> drf [[file:adjs.all.org::receptive]] drf [[file:adj.all.org::receptive]]
 hyper: [[accept]]
 fr: 8 9
 g: accept as true or valid; "He received Christ"
 
-w: <<accept>> result [[file:noun.cognition.org::acceptance]] event [[file:noun.state.org::acceptation]] event [[file:noun.communication.org::acceptation]] drf [[file:adj.all.org::acceptant]] drf [[file:noun.state.org::acceptation]] drf [[file:noun.communication.org::acceptation]] drf [[file:noun.cognition.org::acceptance]] ant [[reject]]
+w: <<accept>> result [[file:noun.cognition.org::acceptance]] event [[file:noun.state.org::acceptation]] event [[file:noun.communication.org::acceptation]] drf [[file:adjs.all.org::acceptant]] drf [[file:noun.state.org::acceptation]] drf [[file:noun.communication.org::acceptation]] drf [[file:noun.cognition.org::acceptance]] ant [[reject]]
 vg: [[accept1]]
 hyper: [[evaluate1]]
 fr: 8 26
@@ -1558,7 +1558,7 @@ dt: [[file:noun.group.org::law]]
 fr: 9 10
 g: challenge or except to a judge as being incompetent or interested, in canon and civil law
 
-w: <<repudiate>> event [[file:noun.communication.org::repudiation1]] drf [[file:adj.all.org::repudiative]] drf [[file:noun.communication.org::repudiation1]]
+w: <<repudiate>> event [[file:noun.communication.org::repudiation1]] drf [[file:adjs.all.org::repudiative]] drf [[file:noun.communication.org::repudiation1]]
 hyper: [[reject]]
 fr: 8 11
 g: refuse to acknowledge, ratify, or recognize as valid; "The woman repudiated the divorce settlement"
@@ -1662,16 +1662,16 @@ hyper: [[measure1]]
 fr: 8
 g: evaluate by comparing with a standard
 
-w: <<assess1>> result [[file:noun.attribute.org::assessment]] drf [[file:adj.all.org::assessable]] drf [[file:noun.attribute.org::assessment]]
+w: <<assess1>> result [[file:noun.attribute.org::assessment]] drf [[file:adjs.all.org::assessable]] drf [[file:noun.attribute.org::assessment]]
 vg: [[measure1]]
 hyper: [[estimate]]
 fr: 8
 g: estimate the value of (property) for taxation; "Our house hasn't been assessed in years"
 
 w: <<measure1>> undergoer [[file:noun.Tops.org::measure]] instrument [[file:noun.artifact.org::measure]] event [[file:noun.act.org::measure]] drf [[file:noun.artifact.org::measure]] drf [[file:noun.act.org::measure]] drf [[file:noun.Tops.org::measure]]
-w: <<evaluate>> event [[file:noun.cognition.org::evaluation]] event [[file:noun.act.org::evaluation]] agent [[file:noun.person.org::evaluator]] drf [[file:adj.all.org::evaluative]] drf [[file:noun.possession.org::value]] drf [[file:noun.attribute.org::value]] drf [[file:noun.cognition.org::evaluation]] drf [[file:noun.act.org::evaluation]] drf [[file:noun.person.org::evaluator]]
+w: <<evaluate>> event [[file:noun.cognition.org::evaluation]] event [[file:noun.act.org::evaluation]] agent [[file:noun.person.org::evaluator]] drf [[file:adjs.all.org::evaluative]] drf [[file:noun.possession.org::value]] drf [[file:noun.attribute.org::value]] drf [[file:noun.cognition.org::evaluation]] drf [[file:noun.act.org::evaluation]] drf [[file:noun.person.org::evaluator]]
 w: <<valuate>> event [[file:noun.cognition.org::valuation]] agent [[file:noun.person.org::valuator]] drf [[file:noun.cognition.org::valuation]] drf [[file:noun.possession.org::value]] drf [[file:noun.attribute.org::value]] drf [[file:noun.person.org::valuator]]
-w: <<assess>> event [[file:noun.cognition.org::assessment]] agent [[file:noun.person.org::assessor]] drf [[file:adj.all.org::assessable]] drf [[file:noun.cognition.org::assessment]] drf [[file:noun.person.org::assessor]]
+w: <<assess>> event [[file:noun.cognition.org::assessment]] agent [[file:noun.person.org::assessor]] drf [[file:adjs.all.org::assessable]] drf [[file:noun.cognition.org::assessment]] drf [[file:noun.person.org::assessor]]
 w: <<appraise1>> event [[file:noun.cognition.org::appraisal]] agent [[file:noun.person.org::appraiser2]] agent [[file:noun.person.org::appraiser1]] drf [[file:noun.person.org::appraiser2]] drf [[file:noun.person.org::appraiser1]] drf [[file:noun.cognition.org::appraisal]]
 w: <<value>> uses [[file:noun.possession.org::value]] agent [[file:noun.person.org::valuer]] drf [[file:noun.possession.org::value]] drf [[file:noun.person.org::valuer]]
 hyper: [[evaluate1]]
@@ -1810,7 +1810,7 @@ hyper: [[choose]]
 fr: 8 21
 g: take out of a literary work in order to cite or copy
 
-w: <<elect>> drf [[file:adj.all.org::elective]]
+w: <<elect>> drf [[file:adjs.all.org::elective]]
 hyper: [[choose]]
 fr: 8 9 28
 g: choose; "I elected to have my funds deposited automatically"
@@ -1859,7 +1859,7 @@ g: choose by or as if by divine intervention; "She was anointed the head of the 
 
 w: <<choose>>  fr 2
 w: <<take1>>
-w: <<select>> event [[file:noun.act.org::selection]] agent [[file:noun.person.org::selector]] drf [[file:adj.all.org::selective]] drf [[file:adj.all.org::selective]] drf [[file:noun.act.org::selection]] drf [[file:noun.person.org::selector]]
+w: <<select>> event [[file:noun.act.org::selection]] agent [[file:noun.person.org::selector]] drf [[file:adjs.all.org::selective]] drf [[file:adjs.all.org::selective]] drf [[file:noun.act.org::selection]] drf [[file:noun.person.org::selector]]
 w: <<pick_out>>
 hyper: [[decide]]
 fr: 8 9
@@ -1881,7 +1881,7 @@ hyper: [[disapprove]]
 fr: 8
 g: look disapprovingly upon
 
-w: <<approve>> state [[file:noun.feeling.org::approval]] event [[file:noun.feeling.org::approbation]] event [[file:noun.communication.org::approbation]] drf [[file:adj.all.org::approbative]] drf [[file:adj.all.org::approbatory]] drf [[file:noun.feeling.org::approbation]] drf [[file:noun.communication.org::approbation]] drf [[file:noun.feeling.org::approval]] ant [[disapprove]]
+w: <<approve>> state [[file:noun.feeling.org::approval]] event [[file:noun.feeling.org::approbation]] event [[file:noun.communication.org::approbation]] drf [[file:adjs.all.org::approbative]] drf [[file:adjs.all.org::approbatory]] drf [[file:noun.feeling.org::approbation]] drf [[file:noun.communication.org::approbation]] drf [[file:noun.feeling.org::approval]] ant [[disapprove]]
 hyper: [[evaluate1]]
 fr: 2 8 9
 g: judge to be right or commendable; think well of
@@ -1918,7 +1918,7 @@ g: approximate (a signal varying continuously in amplitude) by one whose amplitu
 
 w: <<estimate>> event [[file:noun.communication.org::estimation]] event [[file:noun.cognition.org::estimation]] event [[file:noun.act.org::estimation1]] by-means-of [[file:noun.communication.org::estimate1]] by-means-of [[file:noun.communication.org::estimate]] by-means-of [[file:noun.cognition.org::estimate]] drf [[file:noun.communication.org::estimate1]] drf [[file:noun.communication.org::estimate]] drf [[file:noun.cognition.org::estimate]] drf [[file:noun.communication.org::estimation]] drf [[file:noun.cognition.org::estimation]] drf [[file:noun.act.org::estimation1]] see [[overestimate]] see [[underestimate]]
 w: <<gauge>>
-w: <<approximate>> drf [[file:adj.all.org::approximative]]
+w: <<approximate>> drf [[file:adjs.all.org::approximative]]
 w: <<guess1>> event [[file:noun.communication.org::guess]] agent [[file:noun.person.org::guesser]] drf [[file:noun.communication.org::guess]] drf [[file:noun.person.org::guesser]]
 w: <<judge1>> event [[file:noun.cognition.org::judgment]] event [[file:noun.person.org::judge1]] drf [[file:noun.person.org::judge1]] drf [[file:noun.cognition.org::judgment]] drf [[file:noun.cognition.org::judging]]
 hyper: [[calculate]]
@@ -1963,7 +1963,7 @@ hyper: [[evaluate1]]
 fr: 22
 g: have or maintain a position or stand on an issue; "Where do you stand on the War?"
 
-w: <<evaluate1>> drf [[file:adj.all.org::evaluative]]
+w: <<evaluate1>> drf [[file:adjs.all.org::evaluative]]
 w: <<pass_judgment>>
 w: <<judge>> event [[file:noun.act.org::judgment2]] event [[file:noun.person.org::judge1]] drf [[file:noun.person.org::judge1]] drf [[file:noun.act.org::judgment2]] drf [[file:noun.cognition.org::judging]]
 hyper: [[think]]
@@ -2026,9 +2026,9 @@ w: <<digest3>>
 w: <<endure>> by-means-of [[file:noun.attribute.org::endurance]] drf [[file:noun.attribute.org::endurance]]
 w: <<stick_out>>
 w: <<stomach>>
-w: <<bear>> drf [[file:adj.all.org::bearable]]
+w: <<bear>> drf [[file:adjs.all.org::bearable]]
 w: <<stand>>
-w: <<tolerate>> event [[file:noun.attribute.org::toleration]] event [[file:noun.act.org::tolerance]] drf [[file:adj.all.org::tolerant]] drf [[file:adj.all.org::tolerant]] drf [[file:noun.attribute.org::toleration]] drf [[file:noun.act.org::tolerance]]
+w: <<tolerate>> event [[file:noun.attribute.org::toleration]] event [[file:noun.act.org::tolerance]] drf [[file:adjs.all.org::tolerant]] drf [[file:adjs.all.org::tolerant]] drf [[file:noun.attribute.org::toleration]] drf [[file:noun.act.org::tolerance]]
 w: <<support4>>
 w: <<brook>>
 w: <<abide>> event [[file:noun.act.org::abidance]] drf [[file:noun.act.org::abidance]]
@@ -2052,12 +2052,12 @@ fr: 8 11
 g: prove to be false or incorrect
 
 w: <<disprove>> agent [[file:noun.person.org::disprover]] drf [[file:noun.person.org::disprover]] ant [[prove]]
-w: <<confute>> event [[file:noun.communication.org::confutation]] by-means-of [[file:noun.cognition.org::confutation]] agent [[file:noun.person.org::confuter]] drf [[file:adj.all.org::confutative]] drf [[file:noun.person.org::confuter]] drf [[file:noun.communication.org::confutation]] drf [[file:noun.cognition.org::confutation]]
+w: <<confute>> event [[file:noun.communication.org::confutation]] by-means-of [[file:noun.cognition.org::confutation]] agent [[file:noun.person.org::confuter]] drf [[file:adjs.all.org::confutative]] drf [[file:noun.person.org::confuter]] drf [[file:noun.communication.org::confutation]] drf [[file:noun.cognition.org::confutation]]
 hyper: [[negate]]
 fr: 8 11 26
 g: prove to be false; "The physicist disproved his colleagues' theories"
 
-w: <<validate>> event [[file:noun.cognition.org::validation]] event [[file:noun.act.org::validation]] drf [[file:adj.all.org::validatory]] drf [[file:noun.cognition.org::validation]] drf [[file:noun.act.org::validation]] ant [[invalidate]]
+w: <<validate>> event [[file:noun.cognition.org::validation]] event [[file:noun.act.org::validation]] drf [[file:adjs.all.org::validatory]] drf [[file:noun.cognition.org::validation]] drf [[file:noun.act.org::validation]] ant [[invalidate]]
 hyper: [[confirm]]
 fr: 8 11
 g: prove valid; show or confirm the validity of something
@@ -2085,12 +2085,12 @@ hyper: [[confirm]]
 fr: 8 11
 g: support or supply with references; "Can you document your claims?"
 
-w: <<confirm>> by-means-of [[file:noun.communication.org::confirmation]] by-means-of [[file:noun.cognition.org::confirmation]] drf [[file:adj.all.org::confirmative]] drf [[file:adj.all.org::confirmatory]] drf [[file:noun.communication.org::confirmation]] drf [[file:noun.cognition.org::confirmation]]
-w: <<corroborate>> event [[file:noun.communication.org::corroboration]] drf [[file:adj.all.org::corroborative]] drf [[file:adj.all.org::corroboratory]] drf [[file:noun.communication.org::corroboration]]
+w: <<confirm>> by-means-of [[file:noun.communication.org::confirmation]] by-means-of [[file:noun.cognition.org::confirmation]] drf [[file:adjs.all.org::confirmative]] drf [[file:adjs.all.org::confirmatory]] drf [[file:noun.communication.org::confirmation]] drf [[file:noun.cognition.org::confirmation]]
+w: <<corroborate>> event [[file:noun.communication.org::corroboration]] drf [[file:adjs.all.org::corroborative]] drf [[file:adjs.all.org::corroboratory]] drf [[file:noun.communication.org::corroboration]]
 w: <<sustain>> drf [[file:adj.pert.org::sustainable]]
-w: <<substantiate>> event [[file:noun.cognition.org::substantiation]] event [[file:noun.act.org::substantiation]] drf [[file:adj.all.org::substantiative]] drf [[file:noun.cognition.org::substantiation]] drf [[file:noun.act.org::substantiation]]
+w: <<substantiate>> event [[file:noun.cognition.org::substantiation]] event [[file:noun.act.org::substantiation]] drf [[file:adjs.all.org::substantiative]] drf [[file:noun.cognition.org::substantiation]] drf [[file:noun.act.org::substantiation]]
 w: <<support>> event [[file:noun.act.org::support2]] drf [[file:noun.act.org::support2]]
-w: <<affirm>> event [[file:noun.act.org::affirmation]] drf [[file:adj.all.org::affirmable]] drf [[file:noun.act.org::affirmation]] ant [[negate]]
+w: <<affirm>> event [[file:noun.act.org::affirmation]] drf [[file:adjs.all.org::affirmable]] drf [[file:noun.act.org::affirmation]] ant [[negate]]
 fr: 8 11 26
 g: establish or strengthen as with new evidence or facts; "his story confirmed my doubts"; "The evidence supports the defendant"
 
@@ -2124,7 +2124,7 @@ fr: 2
 g: show one's ability or courage
 
 w: <<prove>> ant [[disprove]]
-w: <<demonstrate>> drf [[file:adj.all.org::demonstrative]]
+w: <<demonstrate>> drf [[file:adjs.all.org::demonstrative]]
 w: <<establish>> event [[file:noun.cognition.org::establishment]] drf [[file:noun.cognition.org::establishment]]
 w: <<show>>
 w: <<shew>>
@@ -2132,7 +2132,7 @@ hyper: [[confirm]]
 fr: 8 11 26
 g: establish the validity of something, as by an example, explanation or experiment; "The experiment demonstrated the instability of the compound"; "The mathematician showed the validity of the conjecture"
 
-w: <<verify1>> by-means-of [[file:noun.cognition.org::verification]] agent [[file:noun.person.org::verifier]] drf [[file:adj.all.org::verificatory]] drf [[file:adj.all.org::verifiable]] drf [[file:adj.all.org::verifiable]] drf [[file:noun.cognition.org::verification]] drf [[file:noun.person.org::verifier]]
+w: <<verify1>> by-means-of [[file:noun.cognition.org::verification]] agent [[file:noun.person.org::verifier]] drf [[file:adjs.all.org::verificatory]] drf [[file:adjs.all.org::verifiable]] drf [[file:adjs.all.org::verifiable]] drf [[file:noun.cognition.org::verification]] drf [[file:noun.person.org::verifier]]
 hyper: [[confirm]]
 fr: 8 11 26
 g: confirm the truth of; "Please verify that the doors are closed"; "verify a claim"
@@ -2407,7 +2407,7 @@ hyper: [[classify]]
 fr: 21
 g: think of, regard, or classify under a subsuming principle or with a general group or in relation to another; "This plant can be referred to a known species"
 
-w: <<isolate5>> by-means-of [[file:noun.process.org::isolation]] drf [[file:adj.all.org::isolable]] drf [[file:noun.process.org::isolation]]
+w: <<isolate5>> by-means-of [[file:noun.process.org::isolation]] drf [[file:adjs.all.org::isolable]] drf [[file:noun.process.org::isolation]]
 hyper: [[classify]]
 dt: [[file:noun.cognition.org::psychology]]
 fr: 8
@@ -2545,7 +2545,7 @@ hyper: [[discriminate]]
 fr: 8
 g: mark fine distinctions and subtleties, as among words
 
-w: <<discriminate>> event [[file:noun.cognition.org::discrimination]] agent [[file:noun.person.org::discriminator]] drf [[file:adj.all.org::discriminative]] drf [[file:adj.all.org::discriminatory]] drf [[file:noun.cognition.org::discrimination]] drf [[file:noun.person.org::discriminator]]
+w: <<discriminate>> event [[file:noun.cognition.org::discrimination]] agent [[file:noun.person.org::discriminator]] drf [[file:adjs.all.org::discriminative]] drf [[file:adjs.all.org::discriminatory]] drf [[file:noun.cognition.org::discrimination]] drf [[file:noun.person.org::discriminator]]
 w: <<know_apart>>
 hyper: [[distinguish]]
 fr: 8 21
@@ -2781,7 +2781,7 @@ dt: [[file:noun.cognition.org::arithmetic]]
 fr: 8
 g: multiply (a number) by itself a specified number of times: 8 is 2 raised to the power 3
 
-w: <<multiply>> undergoer [[file:noun.quantity.org::multiplier]] by-means-of [[file:noun.act.org::multiplication]] drf [[file:adj.all.org::multiplicative]] drf [[file:noun.act.org::multiplication]] drf [[file:noun.quantity.org::multiplier]] ant [[divide]]
+w: <<multiply>> undergoer [[file:noun.quantity.org::multiplier]] by-means-of [[file:noun.act.org::multiplication]] drf [[file:adjs.all.org::multiplicative]] drf [[file:noun.act.org::multiplication]] drf [[file:noun.quantity.org::multiplier]] ant [[divide]]
 hyper: [[calculate]]
 dt: [[file:noun.cognition.org::arithmetic]]
 fr: 8
@@ -2807,7 +2807,7 @@ dt: [[file:noun.cognition.org::arithmetic]]
 fr: 8
 g: add a column of numbers
 
-w: <<add>> by-means-of [[file:noun.act.org::addition1]] agent [[file:noun.artifact.org::adder]] drf [[file:adj.all.org::additive]] drf [[file:adj.all.org::addable]] drf [[file:noun.act.org::addition1]] drf [[file:noun.artifact.org::adder]] ant [[subtract]] see [[file:verb.stative.org::add_up3]]
+w: <<add>> by-means-of [[file:noun.act.org::addition1]] agent [[file:noun.artifact.org::adder]] drf [[file:adj.all.org::additive]] drf [[file:adjs.all.org::addable]] drf [[file:noun.act.org::addition1]] drf [[file:noun.artifact.org::adder]] ant [[subtract]] see [[file:verb.stative.org::add_up3]]
 w: <<add_together>>
 vg: [[file:verb.communication.org::total]]
 hyper: [[calculate]]
@@ -2970,7 +2970,7 @@ hyper: [[solve]]
 fr: 8
 g: explain a riddle
 
-w: <<answer3>> drf [[file:adj.all.org::answerable]]
+w: <<answer3>> drf [[file:adjs.all.org::answerable]]
 w: <<resolve4>>
 hyper: [[solve]]
 fr: 8 11
@@ -2981,7 +2981,7 @@ w: <<work_out4>>
 w: <<figure_out>>
 w: <<puzzle_out>>
 w: <<lick>>
-w: <<work13>> drf [[file:adj.all.org::workable]]
+w: <<work13>> drf [[file:adjs.all.org::workable]]
 hyper: [[understand]]
 entail: [[reason]]
 fr: 8
@@ -3008,7 +3008,7 @@ hyper: [[speculate1]]
 fr: 8 26
 g: reassemble mentally; "reconstruct the events of 20 years ago"
 
-w: <<speculate1>> event [[file:noun.cognition.org::speculation]] agent [[file:noun.person.org::speculator1]] drf [[file:adj.all.org::speculative]] drf [[file:noun.cognition.org::speculation]] drf [[file:noun.person.org::speculator1]]
+w: <<speculate1>> event [[file:noun.cognition.org::speculation]] agent [[file:noun.person.org::speculator1]] drf [[file:adjs.all.org::speculative]] drf [[file:noun.cognition.org::speculation]] drf [[file:noun.person.org::speculator1]]
 w: <<theorize>> agent [[file:noun.person.org::theorizer]] drf [[file:noun.person.org::theorizer]] drf [[file:noun.cognition.org::theory2]] drf [[file:noun.cognition.org::theory1]]
 w: <<theorise>> event [[file:noun.cognition.org::theorisation]] agent [[file:noun.person.org::theoriser]] drf [[file:noun.person.org::theoriser]] drf [[file:noun.cognition.org::theorisation]] drf [[file:noun.cognition.org::theory2]] drf [[file:noun.cognition.org::theory1]]
 w: <<conjecture>> event [[file:noun.cognition.org::conjecture1]] event [[file:noun.cognition.org::conjecture]] drf [[file:noun.cognition.org::conjecture1]] drf [[file:noun.cognition.org::conjecture]]
@@ -3020,7 +3020,7 @@ hyper: [[expect]]
 fr: 26
 g: to believe especially on uncertain or tentative grounds; "Scientists supposed that large dinosaurs lived in swamps"
 
-w: <<ratiocinate>> event [[file:noun.cognition.org::ratiocination]] agent [[file:noun.person.org::ratiocinator]] drf [[file:adj.all.org::ratiocinative]] drf [[file:noun.cognition.org::ratiocination]] drf [[file:noun.cognition.org::rationale]] drf [[file:noun.person.org::ratiocinator]]
+w: <<ratiocinate>> event [[file:noun.cognition.org::ratiocination]] agent [[file:noun.person.org::ratiocinator]] drf [[file:adjs.all.org::ratiocinative]] drf [[file:noun.cognition.org::ratiocination]] drf [[file:noun.cognition.org::rationale]] drf [[file:noun.person.org::ratiocinator]]
 hyper: [[reason]]
 fr: 2
 g: reason methodologically and logically
@@ -3042,8 +3042,8 @@ hyper: [[think]]
 fr: 2 26
 g: think logically; "The children must learn to reason"
 
-w: <<assume>> event [[file:noun.communication.org::assumption]] event [[file:noun.cognition.org::assumption]] event [[file:noun.act.org::assumption1]] drf [[file:adj.all.org::assumptive]] drf [[file:noun.communication.org::assumption]] drf [[file:noun.cognition.org::assumption]] drf [[file:noun.act.org::assumption1]]
-w: <<presume>> result [[file:noun.cognition.org::presumption1]] result [[file:noun.cognition.org::presumption]] event [[file:noun.act.org::presumption]] drf [[file:adj.all.org::presumptive]] drf [[file:adj.all.org::presumptive]] drf [[file:noun.cognition.org::presumption1]] drf [[file:noun.cognition.org::presumption]] drf [[file:noun.act.org::presumption]]
+w: <<assume>> event [[file:noun.communication.org::assumption]] event [[file:noun.cognition.org::assumption]] event [[file:noun.act.org::assumption1]] drf [[file:adjs.all.org::assumptive]] drf [[file:noun.communication.org::assumption]] drf [[file:noun.cognition.org::assumption]] drf [[file:noun.act.org::assumption1]]
+w: <<presume>> result [[file:noun.cognition.org::presumption1]] result [[file:noun.cognition.org::presumption]] event [[file:noun.act.org::presumption]] drf [[file:adjs.all.org::presumptive]] drf [[file:adjs.all.org::presumptive]] drf [[file:noun.cognition.org::presumption1]] drf [[file:noun.cognition.org::presumption]] drf [[file:noun.act.org::presumption]]
 w: <<take_for_granted>>
 hyper: [[expect]]
 fr: 8 11 26
@@ -3077,16 +3077,16 @@ g: think or reflect beforehand or in advance; "I rarely premeditate, which is a 
 
 w: <<chew_over>>  fr 8
 w: <<think_over>>  fr 8
-w: <<meditate>> event [[file:noun.cognition.org::meditation]] drf [[file:adj.all.org::meditative]] drf [[file:noun.cognition.org::meditation]]
+w: <<meditate>> event [[file:noun.cognition.org::meditation]] drf [[file:adjs.all.org::meditative]] drf [[file:noun.cognition.org::meditation]]
 w: <<ponder>> agent [[file:noun.person.org::ponderer]] drf [[file:noun.person.org::ponderer]]
-w: <<excogitate>> drf [[file:adj.all.org::excogitative]]
-w: <<contemplate1>> event [[file:noun.cognition.org::contemplation]] drf [[file:adj.all.org::contemplative]] drf [[file:noun.cognition.org::contemplation]]
+w: <<excogitate>> drf [[file:adjs.all.org::excogitative]]
+w: <<contemplate1>> event [[file:noun.cognition.org::contemplation]] drf [[file:adjs.all.org::contemplative]] drf [[file:noun.cognition.org::contemplation]]
 w: <<muse>> agent [[file:noun.person.org::muser]] drf [[file:noun.cognition.org::muse]] drf [[file:noun.person.org::muser]] drf [[file:noun.cognition.org::musing]]
-w: <<reflect>> drf [[file:adj.all.org::reflective]] drf [[file:adj.all.org::reflective]]
+w: <<reflect>> drf [[file:adjs.all.org::reflective]] drf [[file:adjs.all.org::reflective]]
 w: <<mull>> agent [[file:noun.person.org::muller6]] drf [[file:noun.person.org::muller6]]
 w: <<mull_over>>
-w: <<ruminate>> event [[file:noun.cognition.org::rumination]] agent [[file:noun.person.org::ruminator]] drf [[file:adj.all.org::ruminative]] drf [[file:noun.cognition.org::rumination]] drf [[file:noun.person.org::ruminator]]
-w: <<speculate>> event [[file:noun.cognition.org::speculation1]] drf [[file:adj.all.org::speculative]] drf [[file:noun.cognition.org::speculation1]]
+w: <<ruminate>> event [[file:noun.cognition.org::rumination]] agent [[file:noun.person.org::ruminator]] drf [[file:adjs.all.org::ruminative]] drf [[file:noun.cognition.org::rumination]] drf [[file:noun.person.org::ruminator]]
+w: <<speculate>> event [[file:noun.cognition.org::speculation1]] drf [[file:adjs.all.org::speculative]] drf [[file:noun.cognition.org::speculation1]]
 hyper: [[think]]
 fr: 22
 g: reflect deeply on a subject; "I mulled over the events of the afternoon"; "philosophers have speculated on the question of God for thousands of years"; "The scientist must stop to observe and start to excogitate"
@@ -3125,7 +3125,7 @@ fr: 2
 g: think rationally; employ logic or reason; "When one wonders why one is doing certain things, one should rationalize"
 
 w: <<think>> event [[file:noun.cognition.org::think]] agent [[file:noun.person.org::thinker1]] agent [[file:noun.person.org::thinker]] drf [[file:noun.cognition.org::thought]] drf [[file:noun.cognition.org::think]] drf [[file:noun.person.org::thinker]] drf [[file:noun.person.org::thinker1]] drf [[file:noun.cognition.org::thinking]] see [[think_over]] see [[think_out]] see [[file:verb.creation.org::think_up]]
-w: <<cogitate>> event [[file:noun.cognition.org::cogitation]] drf [[file:adj.all.org::cogitative]] drf [[file:adj.pert.org::cogitative]] drf [[file:noun.cognition.org::cogitation]]
+w: <<cogitate>> event [[file:noun.cognition.org::cogitation]] drf [[file:adjs.all.org::cogitative]] drf [[file:adj.pert.org::cogitative]] drf [[file:noun.cognition.org::cogitation]]
 w: <<cerebrate>> event [[file:noun.cognition.org::cerebration]] drf [[file:noun.cognition.org::cerebration]]
 fr: 2
 g: use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere"
@@ -3358,7 +3358,7 @@ w: <<straighten_out>>
 w: <<sort_out1>>
 w: <<enlighten>>
 w: <<illuminate>> event [[file:noun.communication.org::illumination]] drf [[file:noun.communication.org::illumination]]
-w: <<elucidate>> event [[file:noun.communication.org::elucidation1]] event [[file:noun.communication.org::elucidation]] drf [[file:adj.all.org::elucidative]] drf [[file:noun.state.org::lucidity]] drf [[file:noun.attribute.org::lucidity]] drf [[file:noun.communication.org::elucidation1]] drf [[file:noun.communication.org::elucidation]]
+w: <<elucidate>> event [[file:noun.communication.org::elucidation1]] event [[file:noun.communication.org::elucidation]] drf [[file:adjs.all.org::elucidative]] drf [[file:noun.state.org::lucidity]] drf [[file:noun.attribute.org::lucidity]] drf [[file:noun.communication.org::elucidation1]] drf [[file:noun.communication.org::elucidation]]
 hyper: [[file:verb.communication.org::clarify]]
 fr: 8
 g: make free from confusion or ambiguity; make clear; "Could you clarify these remarks?"; "Clear up the question of who is at fault"
@@ -3477,7 +3477,7 @@ hyper: [[neglect1]]
 fr: 8
 g: disregard intentionally or let pass
 
-w: <<receive8>> drf [[file:adj.all.org::receptive]] drf [[file:adj.all.org::receptive]]
+w: <<receive8>> drf [[file:adjs.all.org::receptive]] drf [[file:adj.all.org::receptive]]
 hyper: [[see]]
 fr: 8 9
 g: regard favorably or with disapproval; "Her new collection of poems was not well received"
@@ -3511,11 +3511,11 @@ w: <<neglect5>> property [[file:noun.attribute.org::neglect]] event [[file:noun.
 fr: 8 9
 g: fail to attend to; "he neglects his children"
 
-w: <<exclude1>> event [[file:noun.cognition.org::exclusion]] drf [[file:adj.all.org::exclusive]] drf [[file:noun.cognition.org::exclusion]] ant [[include]]
+w: <<exclude1>> event [[file:noun.cognition.org::exclusion]] drf [[file:adjs.all.org::exclusive]] drf [[file:noun.cognition.org::exclusion]] ant [[include]]
 w: <<except>> event [[file:noun.cognition.org::exception]] drf [[file:noun.cognition.org::exception]]
 w: <<leave_out1>>
 w: <<leave_off>>
-w: <<omit1>> result [[file:noun.act.org::omission1]] drf [[file:adj.all.org::omissible]] drf [[file:noun.act.org::omission1]]
+w: <<omit1>> result [[file:noun.act.org::omission1]] drf [[file:adjs.all.org::omissible]] drf [[file:noun.act.org::omission1]]
 w: <<take_out>>
 hyper: [[file:verb.change.org::extinguish3]]
 fr: 8 10
@@ -3533,7 +3533,7 @@ g: leave or strike out; "This vowel is usually elided before a single consonant"
 
 w: <<neglect>> event [[file:noun.act.org::neglect]] agent [[file:noun.person.org::neglecter]] drf [[file:noun.act.org::neglect]] drf [[file:noun.person.org::neglecter]] ant [[attend_to]]
 w: <<pretermit>> event [[file:noun.cognition.org::pretermission]] drf [[file:noun.cognition.org::pretermission]]
-w: <<omit>> result [[file:noun.cognition.org::omission]] result [[file:noun.act.org::omission1]] drf [[file:adj.all.org::omissible]] drf [[file:adj.pert.org::omissive]] drf [[file:noun.cognition.org::omission]] drf [[file:noun.act.org::omission1]]
+w: <<omit>> result [[file:noun.cognition.org::omission]] result [[file:noun.act.org::omission1]] drf [[file:adjs.all.org::omissible]] drf [[file:adj.pert.org::omissive]] drf [[file:noun.cognition.org::omission]] drf [[file:noun.act.org::omission1]]
 w: <<drop>>
 w: <<miss>>
 w: <<leave_out>>
@@ -3633,7 +3633,7 @@ w: <<think_back>>
 fr: 2 8
 g: recapture the past; indulge in memories; "he remembered how he used to pick flowers"
 
-w: <<reminisce>> event [[file:noun.cognition.org::reminiscence2]] event [[file:noun.cognition.org::reminiscence1]] drf [[file:adj.all.org::reminiscent]] drf [[file:noun.cognition.org::reminiscence2]] drf [[file:noun.cognition.org::reminiscence1]]
+w: <<reminisce>> event [[file:noun.cognition.org::reminiscence2]] event [[file:noun.cognition.org::reminiscence1]] drf [[file:adjs.all.org::reminiscent]] drf [[file:noun.cognition.org::reminiscence2]] drf [[file:noun.cognition.org::reminiscence1]]
 hyper: [[remember2]]
 fr: 2 22
 g: recall the past; "The grandparents sat there, reminiscing all afternoon"
@@ -3867,8 +3867,8 @@ g: teach new skills; "We must retrain the linguists who cannot find employment"
 
 w: <<train1>> undergoer [[file:noun.person.org::trainee]] agent [[file:noun.person.org::trainer]] drf [[file:noun.person.org::trainee]] drf [[file:noun.person.org::trainer]] drf [[file:noun.act.org::training]]
 w: <<develop>>
-w: <<prepare1>> event [[file:noun.act.org::preparation]] drf [[file:adj.all.org::preparatory]] drf [[file:noun.act.org::preparation]]
-w: <<educate>> result [[file:noun.cognition.org::education]] event [[file:noun.cognition.org::education1]] event [[file:noun.act.org::education]] by-means-of [[file:noun.act.org::education1]] drf [[file:adj.all.org::educative]] drf [[file:noun.cognition.org::education1]] drf [[file:noun.cognition.org::education]] drf [[file:noun.act.org::education1]] drf [[file:noun.act.org::education]]
+w: <<prepare1>> event [[file:noun.act.org::preparation]] drf [[file:adjs.all.org::preparatory]] drf [[file:noun.act.org::preparation]]
+w: <<educate>> result [[file:noun.cognition.org::education]] event [[file:noun.cognition.org::education1]] event [[file:noun.act.org::education]] by-means-of [[file:noun.act.org::education1]] drf [[file:adjs.all.org::educative]] drf [[file:noun.cognition.org::education1]] drf [[file:noun.cognition.org::education]] drf [[file:noun.act.org::education1]] drf [[file:noun.act.org::education]]
 vg: [[train]]
 vg: [[file:verb.social.org::prepare]]
 hyper: [[file:verb.communication.org::teach]]
@@ -3882,7 +3882,7 @@ fr: 2
 g: train again; "He is retraining to become an IT worker"
 
 w: <<train>> undergoer [[file:noun.person.org::trainee]] drf [[file:noun.person.org::trainee]]
-w: <<prepare>> event [[file:noun.act.org::preparation1]] drf [[file:adj.all.org::preparatory]] drf [[file:noun.act.org::preparation1]]
+w: <<prepare>> event [[file:noun.act.org::preparation1]] drf [[file:adjs.all.org::preparatory]] drf [[file:noun.act.org::preparation1]]
 hyper: [[learn2]]
 vg: [[train1]]
 vg: [[file:verb.social.org::prepare]]
@@ -4115,8 +4115,7 @@ g: fail to keep informed or aware; "She has so many books, she just lost track a
 w: <<keep_track>> ant [[lose_track]]
 hyper: [[know1]]
 fr: 2 22
-g: keep informed or fully aware.
-e: I keep track of the stock market developments.
+g: keep informed of fully aware; "I keep track of the stock market developments"
 
 w: <<know1>> agent [[file:noun.person.org::knower]] drf [[file:adj.all.org::knowable]] drf [[file:noun.person.org::knower]] drf [[file:noun.cognition.org::knowing]] ant [[ignore1]]
 w: <<cognize>> state [[file:noun.cognition.org::cognizance]] drf [[file:adj.pert.org::cognitive]] drf [[file:adj.all.org::cognizant]] drf [[file:noun.cognition.org::cognizance]]
@@ -4134,11 +4133,11 @@ w: <<sympathize>> drf [[file:noun.cognition.org::sympathy]]
 w: <<sympathise>> drf [[file:noun.cognition.org::sympathy]]
 w: <<empathize>> drf [[file:noun.feeling.org::empathy]]
 w: <<empathise>> drf [[file:noun.feeling.org::empathy]]
-w: <<understand4>> drf [[file:adj.all.org::understandable]] drf [[file:noun.cognition.org::understanding3]]
+w: <<understand4>> drf [[file:adjs.all.org::understandable]] drf [[file:noun.cognition.org::understanding3]]
 fr: 8 9
 g: be understanding of; "You don't need to explain--I understand!"
 
-w: <<understand3>> drf [[file:adj.all.org::understandable]]
+w: <<understand3>> drf [[file:adjs.all.org::understandable]]
 w: <<read4>>
 w: <<interpret2>>
 w: <<translate>>
@@ -4216,12 +4215,12 @@ cause: [[understand]]
 fr: 1
 g: become clear or enter one's consciousness or emotions; "It dawned on him that she had betrayed him"; "she was penetrated with sorrow"
 
-w: <<perceive>> event [[file:noun.cognition.org::perception]] drf [[file:adj.all.org::perceptible]] drf [[file:adj.all.org::perceptive]] drf [[file:adj.all.org::percipient]] drf [[file:noun.cognition.org::perception]]
+w: <<perceive>> event [[file:noun.cognition.org::perception]] drf [[file:adj.all.org::perceptible]] drf [[file:adj.all.org::perceptive]] drf [[file:adjs.all.org::percipient]] drf [[file:noun.cognition.org::perception]]
 hyper: [[understand1]]
 fr: 8 26
 g: become conscious of; "She finally perceived the futility of her protest"
 
-w: <<understand1>> drf [[file:adj.all.org::understandable]] drf [[file:noun.cognition.org::understanding1]]
+w: <<understand1>> drf [[file:adjs.all.org::understandable]] drf [[file:noun.cognition.org::understanding1]]
 w: <<realize>> event [[file:noun.cognition.org::realization]] drf [[file:noun.cognition.org::realization]]
 w: <<realise>> event [[file:noun.cognition.org::realisation]] drf [[file:noun.cognition.org::realisation]]
 w: <<see1>>
@@ -4235,7 +4234,7 @@ hyper: [[grok]]
 fr: 8
 g: arrange and integrate in the mind; "I cannot digest all this information"
 
-w: <<intuit>> event [[file:noun.cognition.org::intuition1]] event [[file:noun.cognition.org::intuition]] drf [[file:adj.all.org::intuitive]] drf [[file:noun.cognition.org::intuition1]] drf [[file:noun.cognition.org::intuition]]
+w: <<intuit>> event [[file:noun.cognition.org::intuition1]] event [[file:noun.cognition.org::intuition]] drf [[file:adjs.all.org::intuitive]] drf [[file:noun.cognition.org::intuition1]] drf [[file:noun.cognition.org::intuition]]
 hyper: [[grok]]
 fr: 8 26
 g: know or grasp by intuition or feeling
@@ -4278,7 +4277,7 @@ g: grasp the meaning; "Can you follow her argument?"; "When he lectures, I canno
 
 w: <<smell>>
 w: <<smell_out>>
-w: <<sense3>> property [[file:noun.cognition.org::sense5]] drf [[file:adj.all.org::sensible]] drf [[file:adj.all.org::sensitive2]] drf [[file:noun.cognition.org::sense5]]
+w: <<sense3>> property [[file:noun.cognition.org::sense5]] drf [[file:adjs.all.org::sensible]] drf [[file:adj.all.org::sensitive2]] drf [[file:noun.cognition.org::sense5]]
 hyper: [[perceive]]
 fr: 8 26
 g: become aware of not through the senses but instinctively; "I sense his hostility"; "i smell trouble"; "smell out corruption"
@@ -4288,7 +4287,7 @@ hyper: [[understand]]
 fr: 8 26
 g: comprehend; "I sensed the real meaning of his letter"
 
-w: <<understand>> drf [[file:adj.all.org::understandable]] drf [[file:noun.cognition.org::understanding1]]
+w: <<understand>> drf [[file:adjs.all.org::understandable]] drf [[file:noun.cognition.org::understanding1]]
 fr: 2 8 9 26
 g: know and comprehend the nature or meaning of; "She did not understand her husband"; "I understand what she means"
 
@@ -4304,7 +4303,7 @@ w: <<savvy>> event [[file:noun.cognition.org::savvy]] drf [[file:noun.cognition.
 w: <<dig>>
 w: <<grasp>> event [[file:noun.cognition.org::grasp]] drf [[file:noun.cognition.org::grasp]] drf [[file:noun.cognition.org::grasping]]
 w: <<compass>>
-w: <<apprehend>> state [[file:noun.cognition.org::apprehension]] agent [[file:noun.person.org::apprehender1]] drf [[file:adj.all.org::apprehensible]] drf [[file:adj.all.org::apprehensive]] drf [[file:noun.cognition.org::apprehension]] drf [[file:noun.person.org::apprehender1]]
+w: <<apprehend>> state [[file:noun.cognition.org::apprehension]] agent [[file:noun.person.org::apprehender1]] drf [[file:adjs.all.org::apprehensible]] drf [[file:adjs.all.org::apprehensive]] drf [[file:noun.cognition.org::apprehension]] drf [[file:noun.person.org::apprehender1]]
 hyper: [[understand]]
 fr: 8 26
 g: get the meaning of something; "Do you comprehend the meaning of this letter?"

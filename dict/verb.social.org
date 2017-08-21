@@ -108,7 +108,7 @@ hyper: [[act]]
 fr: 22
 g: take precautions in order to avoid some unwanted consequence; "guard against becoming too friendly with the staff"; "guard against infection"
 
-w: <<book3>> drf [[file:adj.all.org::bookable]] drf [[file:noun.act.org::booking]]
+w: <<book3>> drf [[file:adjs.all.org::bookable]] drf [[file:noun.act.org::booking]]
 hyper: [[register]]
 fr: 2
 g: register in a hotel booker
@@ -535,7 +535,7 @@ fr: 9
 g: influence by corruption
 
 w: <<carry2>>
-w: <<persuade>> drf [[file:adj.all.org::persuasible]] drf [[file:adj.all.org::persuasive]]
+w: <<persuade>> drf [[file:adjs.all.org::persuasible]] drf [[file:adj.all.org::persuasive]]
 w: <<sway>> by-means-of [[file:noun.attribute.org::sway]] drf [[file:noun.attribute.org::sway]]
 vg: [[file:verb.competition.org::carry1]]
 hyper: [[influence]]
@@ -556,7 +556,7 @@ fr: 9
 g: harass by imposing humiliating or painful tasks, as in military institutions
 
 w: <<persecute>> event [[file:noun.act.org::persecution]] agent [[file:noun.person.org::persecutor]] drf [[file:noun.act.org::persecution]] drf [[file:noun.person.org::persecutor]]
-w: <<oppress1>> agent [[file:noun.person.org::oppressor]] drf [[file:adj.all.org::oppressive]] drf [[file:noun.person.org::oppressor]]
+w: <<oppress1>> agent [[file:noun.person.org::oppressor]] drf [[file:adjs.all.org::oppressive]] drf [[file:noun.person.org::oppressor]]
 hyper: [[file:verb.emotion.org::torment1]]
 fr: 9
 g: cause to suffer; "Jews were persecuted in the former Soviet Union"
@@ -610,7 +610,7 @@ hyper: [[rebel]]
 fr: 2 22
 g: make revolution; "The people revolted when bread prices tripled again"
 
-w: <<resist>> event [[file:noun.act.org::resistance]] agent [[file:noun.person.org::resister1]] agent [[file:noun.person.org::resister]] drf [[file:adj.all.org::resistive]] drf [[file:adj.all.org::resistant]] drf [[file:noun.person.org::resister1]] drf [[file:noun.person.org::resister]] drf [[file:noun.act.org::resistance]]
+w: <<resist>> event [[file:noun.act.org::resistance]] agent [[file:noun.person.org::resister1]] agent [[file:noun.person.org::resister]] drf [[file:adjs.all.org::resistive]] drf [[file:adjs.all.org::resistant]] drf [[file:noun.person.org::resister1]] drf [[file:noun.person.org::resister]] drf [[file:noun.act.org::resistance]]
 w: <<balk>> agent [[file:noun.person.org::balker]] drf [[file:noun.person.org::balker]]
 w: <<baulk>> agent [[file:noun.person.org::baulker]] drf [[file:noun.person.org::baulker]]
 w: <<jib>>
@@ -655,7 +655,7 @@ hyper: [[file:verb.communication.org::challenge]]
 fr: 2
 g: engage in legal proceedings
 
-w: <<action>> event [[file:noun.act.org::action1]] drf [[file:adj.all.org::actionable]] drf [[file:noun.act.org::action1]]
+w: <<action>> event [[file:noun.act.org::action1]] drf [[file:adjs.all.org::actionable]] drf [[file:noun.act.org::action1]]
 w: <<sue>> agent [[file:noun.person.org::suer]] drf [[file:noun.act.org::suit]] drf [[file:noun.person.org::suer]] fr 2
 w: <<litigate>> event [[file:noun.act.org::litigation]] drf [[file:noun.act.org::litigation]]
 w: <<process>> by-means-of [[file:noun.communication.org::process]] drf [[file:noun.communication.org::process]]
@@ -717,8 +717,8 @@ hyper: [[corrupt]]
 fr: 8 9 10 11
 g: corrupt with ideas or an ideology; "society was infected by racism"
 
-w: <<corrupt>> event [[file:noun.act.org::corruption]] drf [[file:adj.all.org::corruptible]] drf [[file:adj.all.org::corruptive]] drf [[file:noun.act.org::corruption]]
-w: <<pervert>> agent [[file:noun.person.org::pervert]] drf [[file:adj.all.org::perversive]] drf [[file:noun.person.org::pervert]]
+w: <<corrupt>> event [[file:noun.act.org::corruption]] drf [[file:adjs.all.org::corruptible]] drf [[file:adjs.all.org::corruptive]] drf [[file:noun.act.org::corruption]]
+w: <<pervert>> agent [[file:noun.person.org::pervert]] drf [[file:adjs.all.org::perversive]] drf [[file:noun.person.org::pervert]]
 w: <<subvert3>> event [[file:noun.act.org::subversion]] drf [[file:noun.act.org::subversion]]
 w: <<demoralize>> event [[file:noun.act.org::demoralization]] drf [[file:noun.act.org::demoralization]]
 w: <<demoralise>> event [[file:noun.act.org::demoralisation]] drf [[file:noun.act.org::demoralisation]]
@@ -748,7 +748,7 @@ w: <<keep3>> drf [[file:noun.act.org::keeping1]] ant [[break]]
 fr: 8
 g: conform one's action or practice to; "keep appointments"; "she never keeps her promises"; "We kept to the original conditions of the contract"
 
-w: <<observe2>> event [[file:noun.event.org::observance1]] drf [[file:adj.all.org::observant]] drf [[file:noun.event.org::observance1]]
+w: <<observe2>> event [[file:noun.event.org::observance1]] drf [[file:adjs.all.org::observant]] drf [[file:noun.event.org::observance1]]
 w: <<celebrate1>> event [[file:noun.event.org::celebration]] event [[file:noun.act.org::celebration1]] event [[file:noun.act.org::celebration]] agent [[file:noun.person.org::celebrator]] drf [[file:noun.event.org::celebration]] drf [[file:noun.act.org::celebration1]] drf [[file:noun.act.org::celebration]] drf [[file:noun.person.org::celebrant1]] drf [[file:noun.person.org::celebrator]]
 w: <<keep5>>
 fr: 8
@@ -850,9 +850,9 @@ hyper: [[deceive]]
 fr: 2
 g: act as a shill; "The shill bid for the expensive carpet during the auction in order to drive the price up"
 
-w: <<deceive>> event [[file:noun.act.org::deception]] by-means-of [[file:noun.communication.org::deception]] drf [[file:adj.all.org::deceptive]] drf [[file:adj.all.org::deceptive]] drf [[file:noun.communication.org::deception]] drf [[file:noun.act.org::deception]]
+w: <<deceive>> event [[file:noun.act.org::deception]] by-means-of [[file:noun.communication.org::deception]] drf [[file:adjs.all.org::deceptive]] drf [[file:adjs.all.org::deceptive]] drf [[file:noun.communication.org::deception]] drf [[file:noun.act.org::deception]]
 w: <<lead_on>>
-w: <<delude>> result [[file:noun.state.org::delusion]] result [[file:noun.cognition.org::delusion]] event [[file:noun.act.org::delusion]] drf [[file:adj.all.org::delusive]] drf [[file:adj.all.org::delusory]] drf [[file:noun.state.org::delusion]] drf [[file:noun.cognition.org::delusion]] drf [[file:noun.act.org::delusion]]
+w: <<delude>> result [[file:noun.state.org::delusion]] result [[file:noun.cognition.org::delusion]] event [[file:noun.act.org::delusion]] drf [[file:adjs.all.org::delusive]] drf [[file:adjs.all.org::delusory]] drf [[file:noun.state.org::delusion]] drf [[file:noun.cognition.org::delusion]] drf [[file:noun.act.org::delusion]]
 w: <<cozen1>>
 hyper: [[victimize1]]
 fr: 9 10
@@ -1074,7 +1074,7 @@ g: practice anal sex upon
 w: <<desecrate>> event [[file:noun.act.org::desecration]] drf [[file:noun.act.org::desecration]]
 w: <<profane>> event [[file:noun.act.org::profanation]] drf [[file:noun.act.org::profanation]]
 w: <<outrage1>>
-w: <<violate2>> event [[file:noun.act.org::violation3]] event [[file:noun.act.org::violation1]] drf [[file:adj.all.org::violative]] drf [[file:noun.act.org::violation3]] drf [[file:noun.act.org::violation1]]
+w: <<violate2>> event [[file:noun.act.org::violation3]] event [[file:noun.act.org::violation1]] drf [[file:adjs.all.org::violative]] drf [[file:noun.act.org::violation3]] drf [[file:noun.act.org::violation1]]
 hyper: [[file:verb.competition.org::assail]]
 fr: 8
 g: violate the sacred character of a place or language; "desecrate a cemetery"; "violate the sanctity of the church"; "profane the name of God"
@@ -1087,7 +1087,7 @@ g: rape (someone) successively with several attackers; "The prisoner was gang-ra
 w: <<rape>> event [[file:noun.act.org::rape]] agent [[file:noun.person.org::raper]] drf [[file:noun.act.org::rape]] drf [[file:noun.person.org::raper]]
 w: <<ravish>> event [[file:noun.act.org::ravishment]] agent [[file:noun.person.org::ravisher]] drf [[file:noun.act.org::ravishment]] drf [[file:noun.person.org::ravisher]]
 w: <<violate1>> event [[file:noun.act.org::violation2]] agent [[file:noun.person.org::violator]] drf [[file:noun.act.org::violation2]] drf [[file:noun.person.org::violator]]
-w: <<assault3>> drf [[file:adj.all.org::assaultive]]
+w: <<assault3>> drf [[file:adjs.all.org::assaultive]]
 w: <<dishonor2>> drf [[file:noun.state.org::dishonor]]
 w: <<dishonour2>>
 w: <<outrage>> event [[file:noun.act.org::outrage1]] drf [[file:noun.act.org::outrage1]]
@@ -1109,9 +1109,9 @@ fr: 22
 g: go against, as of rules and laws; "He ran afoul of the law"; "This behavior conflicts with our rules"
 
 w: <<transgress>> event [[file:noun.act.org::transgression]] agent [[file:noun.person.org::transgressor]] drf [[file:noun.act.org::transgression]] drf [[file:noun.person.org::transgressor]]
-w: <<offend>> event [[file:noun.act.org::offence1]] agent [[file:noun.person.org::offender]] drf [[file:adj.all.org::offensive]] drf [[file:adj.all.org::offensive4]] drf [[file:noun.person.org::offender]] drf [[file:noun.act.org::offence1]] drf [[file:noun.act.org::offense1]]
+w: <<offend>> event [[file:noun.act.org::offence1]] agent [[file:noun.person.org::offender]] drf [[file:adjs.all.org::offensive]] drf [[file:adj.all.org::offensive4]] drf [[file:noun.person.org::offender]] drf [[file:noun.act.org::offence1]] drf [[file:noun.act.org::offense1]]
 w: <<infract>> event [[file:noun.act.org::infraction]] drf [[file:noun.act.org::infraction]]
-w: <<violate>> agent [[file:noun.person.org::violator1]] drf [[file:adj.all.org::violable]] drf [[file:adj.all.org::violative]] drf [[file:noun.person.org::violator1]]
+w: <<violate>> agent [[file:noun.person.org::violator1]] drf [[file:adj.all.org::violable]] drf [[file:adjs.all.org::violative]] drf [[file:noun.person.org::violator1]]
 w: <<go_against>>
 w: <<breach>> event [[file:noun.act.org::breach1]] drf [[file:noun.act.org::breach1]]
 w: <<break>> ant [[keep3]]
@@ -1147,7 +1147,7 @@ hyper: [[transgress]]
 fr: 2
 g: commit a sin; violate a law of God or a moral law
 
-w: <<anticipate>> agent [[file:noun.person.org::anticipator]] drf [[file:adj.all.org::anticipatory]] drf [[file:noun.person.org::anticipator]]
+w: <<anticipate>> agent [[file:noun.person.org::anticipator]] drf [[file:adjs.all.org::anticipatory]] drf [[file:noun.person.org::anticipator]]
 w: <<foresee>>
 w: <<forestall>> drf [[file:noun.act.org::forestalling]]
 w: <<counter>>
@@ -1280,7 +1280,7 @@ fr: 8
 g: adhere to or practice; "These people still follow the laws of their ancient religion"
 
 w: <<practice1>> event [[file:noun.act.org::practice3]] event [[file:noun.act.org::practice]] drf [[file:noun.act.org::practice3]] drf [[file:noun.act.org::practice]]
-w: <<apply1>> event [[file:noun.act.org::application2]] drf [[file:adj.all.org::applicable]] drf [[file:noun.act.org::application2]]
+w: <<apply1>> event [[file:noun.act.org::application2]] drf [[file:adjs.all.org::applicable]] drf [[file:noun.act.org::application2]]
 w: <<use4>> undergoer [[file:noun.attribute.org::use2]] event [[file:noun.act.org::usance]] drf [[file:noun.attribute.org::use2]] drf [[file:noun.act.org::usance]]
 vg: [[file:verb.consumption.org::use1]]
 fr: 8
@@ -1315,7 +1315,7 @@ g: compel to behave in a certain way; "Social relations impose courtesy"
 
 w: <<enforce>> event [[file:noun.act.org::enforcement]] agent [[file:noun.person.org::enforcer]] drf [[file:noun.act.org::enforcement]] drf [[file:noun.person.org::enforcer]] ant [[exempt]]
 w: <<implement>>
-w: <<apply6>> drf [[file:adj.all.org::applicative]]
+w: <<apply6>> drf [[file:adjs.all.org::applicative]]
 hyper: [[compel]]
 fr: 8
 g: ensure observance of laws and rules; "Apply the rules to everyone";
@@ -1369,7 +1369,7 @@ w: <<spoil>>
 w: <<scotch>>
 w: <<foil>> drf [[file:noun.act.org::foiling]]
 w: <<cross>> event [[file:noun.state.org::cross]] drf [[file:noun.state.org::cross]] see [[double_cross]]
-w: <<frustrate>> state [[file:noun.feeling.org::frustration1]] state [[file:noun.feeling.org::frustration]] event [[file:noun.act.org::frustration2]] drf [[file:adj.all.org::frustrative]] drf [[file:noun.feeling.org::frustration1]] drf [[file:noun.feeling.org::frustration]] drf [[file:noun.act.org::frustration2]]
+w: <<frustrate>> state [[file:noun.feeling.org::frustration1]] state [[file:noun.feeling.org::frustration]] event [[file:noun.act.org::frustration2]] drf [[file:adjs.all.org::frustrative]] drf [[file:noun.feeling.org::frustration1]] drf [[file:noun.feeling.org::frustration]] drf [[file:noun.act.org::frustration2]]
 w: <<baffle>>
 w: <<bilk1>>
 hyper: [[prevent1]]
@@ -1432,9 +1432,9 @@ w: <<back_up>> drf [[file:noun.act.org::backup]]
 fr: 8 9 10 11
 g: give moral or psychological support, aid, or courage to; "She supported him during the illness"; "Her children always backed her up"
 
-w: <<contribute12>> drf [[file:adj.all.org::contributive]] drf [[file:adj.all.org::contributory]]
+w: <<contribute12>> drf [[file:adjs.all.org::contributive]] drf [[file:adjs.all.org::contributory]]
 w: <<lead12>>
-w: <<conduce12>> drf [[file:adj.all.org::conducive]]
+w: <<conduce12>> drf [[file:adjs.all.org::conducive]]
 hyper: [[promote1]]
 fr: 4
 g: be conducive to; "The use of computers in the classroom lead to better writing"
@@ -1454,7 +1454,7 @@ hyper: [[promote1]]
 fr: 8 11
 g: contribute to the furtherance of; "This money will help the development of literacy in developing countries"
 
-w: <<promote1>> event [[file:noun.communication.org::promotion1]] event [[file:noun.act.org::promotion2]] drf [[file:adj.all.org::promotive]] drf [[file:noun.communication.org::promotion1]] drf [[file:noun.act.org::promotion2]]
+w: <<promote1>> event [[file:noun.communication.org::promotion1]] event [[file:noun.act.org::promotion2]] drf [[file:adjs.all.org::promotive]] drf [[file:noun.communication.org::promotion1]] drf [[file:noun.act.org::promotion2]]
 w: <<advance1>> event [[file:noun.event.org::advance1]] drf [[file:noun.event.org::advance1]]
 w: <<boost>> event [[file:noun.act.org::boost1]] agent [[file:noun.person.org::booster2]] agent [[file:noun.person.org::booster1]] drf [[file:noun.person.org::booster2]] drf [[file:noun.person.org::booster1]] drf [[file:noun.act.org::boost1]]
 w: <<further>> event [[file:noun.communication.org::furtherance]] drf [[file:noun.communication.org::furtherance]]
@@ -1500,7 +1500,7 @@ fr: 8 9
 g: develop (children's) behavior by instruction and practice; especially to teach self-control; "Parents must discipline their children"; "Is this dog trained?"
 
 w: <<discipline>> event [[file:noun.act.org::discipline1]] drf [[file:noun.act.org::discipline1]]
-w: <<correct>> event [[file:noun.act.org::correction2]] drf [[file:adj.all.org::corrigible]] drf [[file:adj.all.org::corrective]] drf [[file:noun.act.org::correction2]]
+w: <<correct>> event [[file:noun.act.org::correction2]] drf [[file:adj.all.org::corrigible]] drf [[file:adjs.all.org::corrective]] drf [[file:noun.act.org::correction2]]
 w: <<sort_out>>
 hyper: [[punish]]
 fr: 9
@@ -1516,13 +1516,13 @@ hyper: [[restore1]]
 fr: 8
 g: stop the fibrillation and restore normal contractions, usually by means of electric shocks; "The patient's heart had to be defibrillated to save his life"
 
-w: <<rehabilitate3>> event [[file:noun.act.org::rehabilitation2]] event [[file:noun.act.org::rehabilitation]] drf [[file:adj.all.org::rehabilitative]] drf [[file:noun.act.org::rehabilitation2]] drf [[file:noun.act.org::rehabilitation]]
+w: <<rehabilitate3>> event [[file:noun.act.org::rehabilitation2]] event [[file:noun.act.org::rehabilitation]] drf [[file:adjs.all.org::rehabilitative]] drf [[file:noun.act.org::rehabilitation2]] drf [[file:noun.act.org::rehabilitation]]
 hyper: [[restore1]]
 fr: 8
 g: restore to a state of good condition or operation
 
 w: <<restore1>> state [[file:noun.state.org::restoration]] event [[file:noun.act.org::restoration]] agent [[file:noun.person.org::restorer]] drf [[file:noun.act.org::restoration]] drf [[file:noun.person.org::restorer]] drf [[file:noun.state.org::restoration]]
-w: <<reconstruct4>> drf [[file:adj.all.org::reconstructive]]
+w: <<reconstruct4>> drf [[file:adjs.all.org::reconstructive]]
 hyper: [[file:verb.creation.org::regenerate]]
 fr: 8 9 10 11
 g: return to its original or usable and functioning condition; "restore the forest to its original pristine condition"
@@ -1545,7 +1545,7 @@ fr: 8 9 10
 g: bring into safety; "We pulled through most of the victims of the bomb attack"
 
 w: <<deliver3>> agent [[file:noun.person.org::Deliverer3]] agent [[file:noun.person.org::deliverer]] drf [[file:noun.person.org::Deliverer3]] drf [[file:noun.person.org::deliverer]]
-w: <<redeem4>> event [[file:noun.act.org::redemption1]] agent [[file:noun.person.org::Redeemer]] drf [[file:adj.all.org::redemptive]] drf [[file:adj.pert.org::redemptive]] drf [[file:adj.pert.org::redemptory]] drf [[file:noun.act.org::redemption1]] drf [[file:noun.person.org::Redeemer]]
+w: <<redeem4>> event [[file:noun.act.org::redemption1]] agent [[file:noun.person.org::Redeemer]] drf [[file:adjs.all.org::redemptive]] drf [[file:adj.pert.org::redemptive]] drf [[file:adj.pert.org::redemptory]] drf [[file:noun.act.org::redemption1]] drf [[file:noun.person.org::Redeemer]]
 w: <<save2>>
 dt: [[file:noun.group.org::religion]]
 fr: 9 10
@@ -1616,7 +1616,7 @@ hyper: [[care13]]
 fr: 22
 g: take charge of or deal with; "Could you see about lunch?"; "I must attend to this matter"; "She took care of this business"
 
-w: <<minister12>> event [[file:noun.act.org::ministration]] drf [[file:adj.all.org::ministrant]] drf [[file:noun.act.org::ministration]]
+w: <<minister12>> event [[file:noun.act.org::ministration]] drf [[file:adjs.all.org::ministrant]] drf [[file:noun.act.org::ministration]]
 hyper: [[attend12]]
 fr: 12
 g: attend to the wants and needs of others; "I have to minister to my mother all the time"
@@ -1643,7 +1643,7 @@ hyper: [[help]]
 fr: 9 10
 g: help in a difficult situation
 
-w: <<subserve>> state [[file:noun.state.org::subservience]] drf [[file:adj.all.org::subservient]] drf [[file:noun.state.org::subservience]]
+w: <<subserve>> state [[file:noun.state.org::subservience]] drf [[file:adjs.all.org::subservient]] drf [[file:noun.state.org::subservience]]
 hyper: [[help]]
 fr: 11
 g: be helpful or useful
@@ -1659,7 +1659,7 @@ fr: 8 9
 g: help as a benefactor; "The father benefacted his daughter in more ways than she was aware of"
 
 w: <<help>> event [[file:noun.act.org::help]] by-means-of [[file:noun.attribute.org::help]] agent [[file:noun.person.org::helper1]] agent [[file:noun.person.org::helper]] agent [[file:noun.person.org::help]] drf [[file:noun.person.org::helper1]] drf [[file:noun.person.org::helper]] drf [[file:noun.person.org::help]] drf [[file:noun.attribute.org::help]] drf [[file:noun.act.org::help]] fr 28
-w: <<assist2>> event [[file:noun.act.org::assistance]] event [[file:noun.act.org::assist1]] drf [[file:adj.all.org::assistive]] drf [[file:noun.person.org::assistant]] drf [[file:noun.act.org::assist1]] drf [[file:noun.act.org::assistance]]
+w: <<assist2>> event [[file:noun.act.org::assistance]] event [[file:noun.act.org::assist1]] drf [[file:adjs.all.org::assistive]] drf [[file:noun.person.org::assistant]] drf [[file:noun.act.org::assist1]] drf [[file:noun.act.org::assistance]]
 w: <<aid>> by-means-of [[file:noun.attribute.org::aid]] drf [[file:noun.attribute.org::aid]]
 hyper: [[support]]
 fr: 1 2 8 9 10
@@ -1756,7 +1756,7 @@ hyper: [[counteract3]]
 fr: 8
 g: counteract the normal operation of (an automatic gear shift in a vehicle)
 
-w: <<counteract3>> event [[file:noun.act.org::counteraction]] drf [[file:adj.all.org::counteractive]] drf [[file:noun.act.org::counteraction]]
+w: <<counteract3>> event [[file:noun.act.org::counteraction]] drf [[file:adjs.all.org::counteractive]] drf [[file:noun.act.org::counteraction]]
 w: <<countervail>>
 w: <<neutralize2>> event [[file:noun.act.org::neutralization]] drf [[file:noun.act.org::neutralization]]
 w: <<counterbalance>> by-means-of [[file:noun.possession.org::counterbalance]] drf [[file:noun.possession.org::counterbalance]]
@@ -1779,7 +1779,7 @@ hyper: [[disobey]]
 fr: 2
 g: participate in an act of civil disobedience
 
-w: <<disobey>> event [[file:noun.act.org::disobedience]] drf [[file:adj.all.org::disobedient]] drf [[file:adj.all.org::disobedient]] drf [[file:noun.act.org::disobedience]] ant [[obey]]
+w: <<disobey>> event [[file:noun.act.org::disobedience]] drf [[file:adjs.all.org::disobedient]] drf [[file:adj.all.org::disobedient]] drf [[file:noun.act.org::disobedience]] ant [[obey]]
 hyper: [[file:verb.communication.org::refuse]]
 fr: 8 9
 g: refuse to go along with; refuse to follow; be disobedient; "He disobeyed his supervisor and was fired"
@@ -1813,12 +1813,12 @@ hyper: [[represent2]]
 fr: 8 10
 g: be a spokesperson for; "He represents the Government's position"
 
-w: <<represent2>> drf [[file:adj.all.org::representative]]
+w: <<represent2>> drf [[file:adjs.all.org::representative]]
 hyper: [[file:verb.stative.org::be3]]
 fr: 8 9 10 11
 g: be representative or typical for; "This period is represented by Beethoven"
 
-w: <<represent>> state [[file:noun.state.org::representation]] event [[file:noun.act.org::representation1]] agent [[file:noun.group.org::representation]] drf [[file:adj.all.org::representative]] drf [[file:noun.state.org::representation]] drf [[file:noun.group.org::representation]] drf [[file:noun.act.org::representation1]]
+w: <<represent>> state [[file:noun.state.org::representation]] event [[file:noun.act.org::representation1]] agent [[file:noun.group.org::representation]] drf [[file:adjs.all.org::representative]] drf [[file:noun.state.org::representation]] drf [[file:noun.group.org::representation]] drf [[file:noun.act.org::representation1]]
 hyper: [[file:verb.competition.org::serve]]
 fr: 8 9
 g: be a delegate or spokesperson for; represent somebody's interest or be a proxy or substitute for, as of politicians and office holders representing their constituents, or of a tenant representing other tenants in a housing dispute; "I represent the silent majority"
@@ -1965,7 +1965,7 @@ hyper: [[file:verb.change.org::affect]]
 fr: 8 9 10 11
 g: have and exert influence or effect; "The artist's work influenced the young painter"; "She worked on her friends to support the political candidate"
 
-w: <<manipulate>> event [[file:noun.act.org::manipulation]] drf [[file:adj.all.org::manipulative]] drf [[file:noun.act.org::manipulation]]
+w: <<manipulate>> event [[file:noun.act.org::manipulation]] drf [[file:adjs.all.org::manipulative]] drf [[file:noun.act.org::manipulation]]
 w: <<pull_strings>>
 w: <<pull_wires>>
 hyper: [[influence]]
@@ -2260,9 +2260,9 @@ hyper: [[achieve]]
 fr: 11
 g: achieve or accomplish in the least degree, usually used in the negative; "This economic measure doesn't even begin to deal with the problem of inflation"; "You cannot even begin to understand the problem we had to deal with during the war"
 
-w: <<achieve>> event [[file:noun.act.org::achievement]] agent [[file:noun.person.org::achiever]] drf [[file:adj.all.org::achievable]] drf [[file:noun.act.org::achievement]] drf [[file:noun.person.org::achiever]]
+w: <<achieve>> event [[file:noun.act.org::achievement]] agent [[file:noun.person.org::achiever]] drf [[file:adjs.all.org::achievable]] drf [[file:noun.act.org::achievement]] drf [[file:noun.person.org::achiever]]
 w: <<accomplish>> event [[file:noun.act.org::accomplishment]] drf [[file:noun.act.org::accomplishment]]
-w: <<attain>> event [[file:noun.act.org::attainment]] drf [[file:adj.all.org::attainable]] drf [[file:noun.act.org::attainment]]
+w: <<attain>> event [[file:noun.act.org::attainment]] drf [[file:adjs.all.org::attainable]] drf [[file:noun.act.org::attainment]]
 w: <<reach>>
 hyper: [[succeed]]
 fr: 8 11 26
@@ -2278,7 +2278,7 @@ hyper: [[fail]]
 fr: 2 9
 g: fail by aiming too high or trying too hard
 
-w: <<work3>> result [[file:noun.artifact.org::work]] drf [[file:adj.all.org::workable]] drf [[file:noun.artifact.org::work]]
+w: <<work3>> result [[file:noun.artifact.org::work]] drf [[file:adjs.all.org::workable]] drf [[file:noun.artifact.org::work]]
 w: <<act6>>
 vg: [[file:verb.creation.org::bring]]
 hyper: [[succeed]]
@@ -2386,9 +2386,9 @@ hyper: [[protest]]
 fr: 2 22
 g: march in protest; take part in a demonstration; "Thousands demonstrated against globalization during the meeting of the most powerful economic nations in Seattle"
 
-w: <<protest>> event [[file:noun.act.org::protest]] agent [[file:noun.person.org::protester1]] agent [[file:noun.person.org::protester]] drf [[file:adj.all.org::protestant]] drf [[file:noun.act.org::protest]] drf [[file:noun.person.org::protester1]] drf [[file:noun.person.org::protester]]
-w: <<resist2>> drf [[file:adj.all.org::resistive]] drf [[file:adj.all.org::resistant]]
-w: <<dissent>> event [[file:noun.act.org::dissent1]] agent [[file:noun.person.org::dissenter]] drf [[file:adj.all.org::dissentient]] drf [[file:noun.act.org::dissent1]] drf [[file:noun.person.org::dissenter]]
+w: <<protest>> event [[file:noun.act.org::protest]] agent [[file:noun.person.org::protester1]] agent [[file:noun.person.org::protester]] drf [[file:adjs.all.org::protestant]] drf [[file:noun.act.org::protest]] drf [[file:noun.person.org::protester1]] drf [[file:noun.person.org::protester]]
+w: <<resist2>> drf [[file:adjs.all.org::resistive]] drf [[file:adjs.all.org::resistant]]
+w: <<dissent>> event [[file:noun.act.org::dissent1]] agent [[file:noun.person.org::dissenter]] drf [[file:adjs.all.org::dissentient]] drf [[file:noun.act.org::dissent1]] drf [[file:noun.person.org::dissenter]]
 hyper: [[file:verb.communication.org::oppose]]
 fr: 2 22
 g: express opposition through action or words; "dissent to the laws of the country"
@@ -2531,7 +2531,7 @@ g: treat badly; abuse; "They won't have me to kick around any more!"
 
 w: <<mistreat>> event [[file:noun.act.org::mistreatment]] drf [[file:noun.act.org::mistreatment]]
 w: <<maltreat>> event [[file:noun.act.org::maltreatment]] agent [[file:noun.person.org::maltreater]] drf [[file:noun.act.org::maltreatment]] drf [[file:noun.person.org::maltreater]]
-w: <<abuse>> event [[file:noun.act.org::abuse2]] agent [[file:noun.person.org::abuser]] drf [[file:adj.all.org::abusive]] drf [[file:noun.act.org::abuse2]] drf [[file:noun.person.org::abuser]]
+w: <<abuse>> event [[file:noun.act.org::abuse2]] agent [[file:noun.person.org::abuser]] drf [[file:adjs.all.org::abusive]] drf [[file:noun.act.org::abuse2]] drf [[file:noun.person.org::abuser]]
 w: <<ill-use>> drf [[file:noun.act.org::ill-usage]]
 w: <<step>>  fr 21
 w: <<ill-treat>> event [[file:noun.act.org::ill-treatment]] drf [[file:noun.act.org::ill-treatment]]
@@ -2661,8 +2661,8 @@ hyper: [[discriminate12]]
 fr: 8
 g: discriminate in selling or renting housing in certain areas of a neighborhood
 
-w: <<discriminate12>> event [[file:noun.act.org::discrimination]] agent [[file:noun.person.org::discriminator]] drf [[file:adj.all.org::discriminatory]] drf [[file:adj.all.org::discriminatory]] drf [[file:adj.all.org::discriminatory4]] drf [[file:noun.act.org::discrimination]] drf [[file:noun.person.org::discriminator]] fr 2 22
-w: <<separate>> drf [[file:adj.all.org::separative1]]
+w: <<discriminate12>> event [[file:noun.act.org::discrimination]] agent [[file:noun.person.org::discriminator]] drf [[file:adjs.all.org::discriminatory]] drf [[file:adjs.all.org::discriminatory]] drf [[file:adj.all.org::discriminatory4]] drf [[file:noun.act.org::discrimination]] drf [[file:noun.person.org::discriminator]] fr 2 22
+w: <<separate>> drf [[file:adjs.all.org::separative1]]
 w: <<single_out>>
 hyper: [[file:verb.cognition.org::distinguish]]
 fr: 8 9
@@ -2750,7 +2750,7 @@ hyper: [[control1]]
 fr: 8
 g: cause to grow in a certain way by tying and pruning it; "train the vine"
 
-w: <<restrict>> event [[file:noun.act.org::restriction]] drf [[file:adj.all.org::restrictive]] drf [[file:noun.act.org::restriction]] ant [[derestrict]]
+w: <<restrict>> event [[file:noun.act.org::restriction]] drf [[file:adjs.all.org::restrictive]] drf [[file:noun.act.org::restriction]] ant [[derestrict]]
 hyper: [[control1]]
 fr: 8
 g: place under restrictions; limit access to; "This substance is controlled"
@@ -2778,7 +2778,7 @@ g: burn with a branding iron to indicate ownership; of animals
 w: <<stigmatize>> event [[file:noun.act.org::stigmatization]] drf [[file:noun.act.org::stigmatization]] drf [[file:noun.communication.org::stigma]]
 w: <<stigmatise>> event [[file:noun.act.org::stigmatisation]] drf [[file:noun.act.org::stigmatisation]]
 w: <<brand>> by-means-of [[file:noun.communication.org::brand1]] drf [[file:noun.communication.org::brand1]]
-w: <<denounce>> event [[file:noun.communication.org::denouncement]] drf [[file:adj.all.org::denunciative]] drf [[file:noun.communication.org::denouncement]]
+w: <<denounce>> event [[file:noun.communication.org::denouncement]] drf [[file:adjs.all.org::denunciative]] drf [[file:noun.communication.org::denouncement]]
 w: <<mark>> by-means-of [[file:noun.communication.org::mark1]] drf [[file:noun.communication.org::mark1]]
 hyper: [[file:verb.communication.org::label]]
 fr: 8 9
@@ -2875,7 +2875,7 @@ hyper: [[coerce]]
 fr: 2 22
 g: apply great or increased pressure; "The Democrats turned up the heat on their candidate to concede the election"
 
-w: <<coerce>> event [[file:noun.act.org::coercion1]] event [[file:noun.act.org::coercion]] drf [[file:adj.all.org::coercive]] drf [[file:noun.act.org::coercion1]] drf [[file:noun.act.org::coercion]]
+w: <<coerce>> event [[file:noun.act.org::coercion1]] event [[file:noun.act.org::coercion]] drf [[file:adjs.all.org::coercive]] drf [[file:noun.act.org::coercion1]] drf [[file:noun.act.org::coercion]]
 w: <<hale>>
 w: <<squeeze1>> event [[file:noun.act.org::squeeze1]] drf [[file:noun.act.org::squeeze1]]
 w: <<pressure>> by-means-of [[file:noun.state.org::pressure]] by-means-of [[file:noun.attribute.org::pressure]] drf [[file:noun.state.org::pressure]] drf [[file:noun.attribute.org::pressure]]
@@ -2939,7 +2939,7 @@ vg: [[file:verb.communication.org::reject2]]
 fr: 9 10
 g: refuse entrance or membership; "They turned away hundreds of fans"; "Black people were often rejected by country clubs"
 
-w: <<admit1>> event [[file:noun.act.org::admission]] by-means-of [[file:noun.possession.org::admission]] drf [[file:adj.all.org::admittible]] drf [[file:adj.all.org::admittable]] drf [[file:noun.possession.org::admission]] drf [[file:noun.act.org::admission]] ant [[reject]]
+w: <<admit1>> event [[file:noun.act.org::admission]] by-means-of [[file:noun.possession.org::admission]] drf [[file:adjs.all.org::admittible]] drf [[file:adjs.all.org::admittable]] drf [[file:noun.possession.org::admission]] drf [[file:noun.act.org::admission]] ant [[reject]]
 w: <<allow_in>>
 w: <<let_in2>>
 w: <<intromit>> event [[file:noun.act.org::intromission]] drf [[file:noun.act.org::intromission]]
@@ -3011,7 +3011,7 @@ w: <<get_it>>
 fr: 2
 g: receive punishment; "You are going to get it!"
 
-w: <<amerce>> drf [[file:adj.all.org::amerciable]]
+w: <<amerce>> drf [[file:adjs.all.org::amerciable]]
 hyper: [[punish]]
 vg: [[amerce1]]
 fr: 9
@@ -3041,7 +3041,7 @@ hyper: [[judge9]]
 fr: 9
 g: subject to trial by court-martial
 
-w: <<amerce1>> result [[file:noun.possession.org::amercement]] drf [[file:adj.all.org::amerciable]] drf [[file:noun.possession.org::amercement]]
+w: <<amerce1>> result [[file:noun.possession.org::amercement]] drf [[file:adjs.all.org::amerciable]] drf [[file:noun.possession.org::amercement]]
 vg: [[amerce]]
 hyper: [[ticket]]
 fr: 9
@@ -3055,7 +3055,7 @@ g: issue a ticket or a fine to as a penalty; "I was fined for parking on the wro
 
 w: <<reserve>> undergoer [[file:noun.cognition.org::reservation1]] event [[file:noun.act.org::reservation1]] drf [[file:noun.cognition.org::reservation1]] drf [[file:noun.act.org::reservation1]]
 w: <<hold>>
-w: <<book1>> drf [[file:adj.all.org::bookable]] drf [[file:noun.act.org::booking]]
+w: <<book1>> drf [[file:adjs.all.org::bookable]] drf [[file:noun.act.org::booking]]
 entail: [[file:verb.possession.org::procure]]
 hyper: [[file:verb.communication.org::request1]]
 vg: [[file:verb.communication.org::reserve]]
@@ -3107,7 +3107,7 @@ fr: 9
 g: make a slave of; bring into servitude
 
 w: <<manumit>> event [[file:noun.act.org::manumission]] agent [[file:noun.person.org::manumitter]] drf [[file:noun.act.org::manumission]] drf [[file:noun.person.org::manumitter]]
-w: <<emancipate>> event [[file:noun.act.org::emancipation]] agent [[file:noun.person.org::emancipator]] drf [[file:adj.all.org::emancipative]] drf [[file:noun.act.org::emancipation]] drf [[file:noun.person.org::emancipator]]
+w: <<emancipate>> event [[file:noun.act.org::emancipation]] agent [[file:noun.person.org::emancipator]] drf [[file:adjs.all.org::emancipative]] drf [[file:noun.act.org::emancipation]] drf [[file:noun.person.org::emancipator]]
 hyper: [[liberate]]
 fr: 9
 g: free from slavery or servitude
@@ -3224,7 +3224,7 @@ hyper: [[visit2]]
 fr: 8
 g: visit for entertainment; "take in the sights"
 
-w: <<amuse>> event [[file:noun.act.org::amusement]] drf [[file:adj.all.org::amusive]] drf [[file:noun.act.org::amusement]]
+w: <<amuse>> event [[file:noun.act.org::amusement]] drf [[file:adjs.all.org::amusive]] drf [[file:noun.act.org::amusement]]
 w: <<divert>> event [[file:noun.act.org::diversion]] drf [[file:noun.act.org::diversion]]
 w: <<disport>>
 hyper: [[entertain]]
@@ -3642,7 +3642,7 @@ hyper: [[distribute]]
 fr: 8
 g: circulate or distribute or equip with; "issue a new uniform to the children"; "supply blankets for the beds"
 
-w: <<sanction1>> uses [[file:noun.communication.org::sanction]] uses [[file:noun.attribute.org::sanction]] event [[file:noun.act.org::sanction1]] drf [[file:adj.all.org::sanctionative]] drf [[file:noun.act.org::sanction1]] drf [[file:noun.communication.org::sanction]] drf [[file:noun.attribute.org::sanction]]
+w: <<sanction1>> uses [[file:noun.communication.org::sanction]] uses [[file:noun.attribute.org::sanction]] event [[file:noun.act.org::sanction1]] drf [[file:adjs.all.org::sanctionative]] drf [[file:noun.act.org::sanction1]] drf [[file:noun.communication.org::sanction]] drf [[file:noun.attribute.org::sanction]]
 hyper: [[empower]]
 fr: 8
 g: give authority or permission to
@@ -3673,7 +3673,7 @@ g: invalidate by judicial action; "The will was broken"
 w: <<invalidate>> event [[file:noun.act.org::invalidation]] agent [[file:noun.person.org::invalidator]] drf [[file:noun.act.org::invalidation]] drf [[file:noun.person.org::invalidator]] ant [[validate]]
 w: <<annul>> event [[file:noun.act.org::annulment]] drf [[file:noun.act.org::annulment]]
 w: <<quash1>>
-w: <<void>> event [[file:noun.state.org::void]] agent [[file:noun.person.org::voider]] drf [[file:adj.all.org::voidable]] drf [[file:noun.state.org::void]] drf [[file:noun.person.org::voider]]
+w: <<void>> event [[file:noun.state.org::void]] agent [[file:noun.person.org::voider]] drf [[file:adjs.all.org::voidable]] drf [[file:noun.state.org::void]] drf [[file:noun.person.org::voider]]
 w: <<avoid>>
 w: <<nullify>> event [[file:noun.act.org::nullification]] by-means-of [[file:noun.cognition.org::nullification]] agent [[file:noun.person.org::nullifier1]] agent [[file:noun.person.org::nullifier]] drf [[file:noun.person.org::nullifier1]] drf [[file:noun.cognition.org::nullification]] drf [[file:noun.act.org::nullification]] drf [[file:noun.person.org::nullifier]]
 hyper: [[cancel]]
@@ -3911,7 +3911,7 @@ fr: 22
 g: be or act in association with; "We must walk with our dispossessed brothers and sisters"; "Walk with God"
 
 w: <<consociate>>
-w: <<associate>> result [[file:noun.relation.org::association]] result [[file:noun.group.org::association]] event [[file:noun.state.org::association]] event [[file:noun.act.org::association]] agent [[file:noun.person.org::associate]] drf [[file:adj.all.org::associable]] drf [[file:noun.state.org::association]] drf [[file:noun.relation.org::association]] drf [[file:noun.group.org::association1]] drf [[file:noun.group.org::association]] drf [[file:noun.act.org::association]] drf [[file:noun.person.org::associate]]
+w: <<associate>> result [[file:noun.relation.org::association]] result [[file:noun.group.org::association]] event [[file:noun.state.org::association]] event [[file:noun.act.org::association]] agent [[file:noun.person.org::associate]] drf [[file:adjs.all.org::associable]] drf [[file:noun.state.org::association]] drf [[file:noun.relation.org::association]] drf [[file:noun.group.org::association1]] drf [[file:noun.group.org::association]] drf [[file:noun.act.org::association]] drf [[file:noun.person.org::associate]]
 hyper: [[unite]]
 fr: 1 2 8 9
 g: bring or come into association or action; "The churches consociated to fight their dissolution"
@@ -4054,7 +4054,7 @@ hyper: [[ostracize]]
 fr: 8
 g: refuse to sponsor; refuse to do business with
 
-w: <<probate>> event [[file:noun.act.org::probate]] by-means-of [[file:noun.communication.org::probate]] drf [[file:adj.all.org::probative]] drf [[file:noun.communication.org::probate]] drf [[file:noun.act.org::probate]]
+w: <<probate>> event [[file:noun.act.org::probate]] by-means-of [[file:noun.communication.org::probate]] drf [[file:adjs.all.org::probative]] drf [[file:noun.communication.org::probate]] drf [[file:noun.act.org::probate]]
 hyper: [[validate]]
 dt: [[file:noun.group.org::law]]
 fr: 8
@@ -4282,13 +4282,13 @@ hyper: [[relate]]
 fr: 8 9
 g: show a lack of respect for
 
-w: <<tolerate1>> event [[file:noun.act.org::toleration]] drf [[file:adj.all.org::tolerant]] drf [[file:adj.all.org::tolerant]] drf [[file:noun.act.org::toleration]]
+w: <<tolerate1>> event [[file:noun.act.org::toleration]] drf [[file:adjs.all.org::tolerant]] drf [[file:adj.all.org::tolerant]] drf [[file:noun.act.org::toleration]]
 hyper: [[respect]]
 fr: 8 9 10 11
 g: recognize and respect (rights and beliefs of others); "We must tolerate the religions of others"
 
 w: <<respect>> uses [[file:noun.feeling.org::respect]] uses [[file:noun.cognition.org::respect1]] uses [[file:noun.attribute.org::respect]] uses [[file:noun.act.org::respect3]] property [[file:noun.state.org::respect]] agent [[file:noun.person.org::respecter]] drf [[file:noun.attribute.org::respect]] drf [[file:noun.feeling.org::respect]] drf [[file:noun.act.org::respect3]] drf [[file:noun.cognition.org::respect1]] drf [[file:noun.state.org::respect]] drf [[file:noun.person.org::respecter]] ant [[disrespect]]
-w: <<honor1>> drf [[file:adj.all.org::honorable]] drf [[file:noun.act.org::honoring]]
+w: <<honor1>> drf [[file:adjs.all.org::honorable]] drf [[file:noun.act.org::honoring]]
 w: <<honour1>>
 w: <<abide_by1>>
 w: <<observe1>>
@@ -4556,7 +4556,7 @@ dt: [[file:noun.group.org::business2]]
 fr: 2
 g: form a corporation
 
-w: <<certify>> uses [[file:noun.communication.org::certification1]] uses [[file:noun.communication.org::certificate]] event [[file:noun.act.org::certification1]] event [[file:noun.act.org::certification]] by-means-of [[file:noun.communication.org::certification1]] drf [[file:adj.all.org::certifiable]] drf [[file:noun.communication.org::certification1]] drf [[file:noun.act.org::certification1]] drf [[file:noun.act.org::certification]] drf [[file:noun.communication.org::certificate]]
+w: <<certify>> uses [[file:noun.communication.org::certification1]] uses [[file:noun.communication.org::certificate]] event [[file:noun.act.org::certification1]] event [[file:noun.act.org::certification]] by-means-of [[file:noun.communication.org::certification1]] drf [[file:adjs.all.org::certifiable]] drf [[file:noun.communication.org::certification1]] drf [[file:noun.act.org::certification1]] drf [[file:noun.act.org::certification]] drf [[file:noun.communication.org::certificate]]
 w: <<endorse1>> event [[file:noun.communication.org::endorsement]] drf [[file:noun.communication.org::endorsement]]
 w: <<indorse1>> event [[file:noun.communication.org::indorsement]] drf [[file:noun.communication.org::indorsement]]
 hyper: [[file:verb.communication.org::guarantee2]]
@@ -4645,7 +4645,7 @@ g: cause to be no longer approved or accepted; "Carter derecognized Taiwan in 19
 
 w: <<license>> undergoer [[file:noun.person.org::licensee]] event [[file:noun.act.org::license]] by-means-of [[file:noun.communication.org::license]] agent [[file:noun.person.org::licenser]] drf [[file:noun.act.org::license]] drf [[file:noun.communication.org::license]] drf [[file:noun.person.org::licensee]] drf [[file:noun.person.org::licenser]]
 w: <<licence>> uses [[file:noun.state.org::licence1]] event [[file:noun.state.org::licence1]] drf [[file:noun.person.org::licensee]] drf [[file:noun.state.org::licence1]]
-w: <<certify2>> event [[file:noun.act.org::certification1]] event [[file:noun.act.org::certification]] by-means-of [[file:noun.communication.org::certification1]] drf [[file:adj.all.org::certificatory]] drf [[file:noun.communication.org::certification1]] drf [[file:noun.act.org::certification1]] drf [[file:noun.act.org::certification]] ant [[decertify]]
+w: <<certify2>> event [[file:noun.act.org::certification1]] event [[file:noun.act.org::certification]] by-means-of [[file:noun.communication.org::certification1]] drf [[file:adjs.all.org::certificatory]] drf [[file:noun.communication.org::certification1]] drf [[file:noun.act.org::certification1]] drf [[file:noun.act.org::certification]] ant [[decertify]]
 hyper: [[file:verb.communication.org::authorize]]
 entail: [[file:verb.communication.org::approve]]
 fr: 8 9 24
@@ -4788,7 +4788,7 @@ hyper: [[direct]]
 fr: 8 9 10 11
 g: be a guiding or motivating force or drive; "The teacher steered the gifted students towards the more challenging courses"
 
-w: <<direct>> agent [[file:noun.person.org::director]] drf [[file:adj.all.org::directive]] drf [[file:noun.person.org::director]]
+w: <<direct>> agent [[file:noun.person.org::director]] drf [[file:adjs.all.org::directive]] drf [[file:noun.person.org::director]]
 cause: [[act]]
 hyper: [[manage]]
 fr: 8 9
@@ -4869,7 +4869,7 @@ hyper: [[manage]]
 fr: 8
 g: deal with (a problem or a subject); "I still have not come to grips with the death of my parents"
 
-w: <<work12>> drf [[file:adj.all.org::workable]]
+w: <<work12>> drf [[file:adjs.all.org::workable]]
 hyper: [[manage]]
 vg: [[work11]]
 fr: 8
@@ -4926,7 +4926,7 @@ hyper: [[unite]]
 fr: 9 11
 g: unite formally; of interest groups or countries
 
-w: <<confederate10>> state [[file:noun.state.org::confederation]] event [[file:noun.act.org::confederation]] agent [[file:noun.person.org::confederate]] drf [[file:adj.all.org::confederative]] drf [[file:noun.state.org::confederation]] drf [[file:noun.act.org::confederation]] drf [[file:noun.person.org::confederate]] drf [[file:noun.group.org::confederacy]]
+w: <<confederate10>> state [[file:noun.state.org::confederation]] event [[file:noun.act.org::confederation]] agent [[file:noun.person.org::confederate]] drf [[file:adjs.all.org::confederative]] drf [[file:noun.state.org::confederation]] drf [[file:noun.act.org::confederation]] drf [[file:noun.person.org::confederate]] drf [[file:noun.group.org::confederacy]]
 hyper: [[unite]]
 fr: 22
 g: form a confederation with; of nations
@@ -4993,8 +4993,8 @@ hyper: [[administer]]
 fr: 2
 g: administer a pontifical office
 
-w: <<administer>> by-means-of [[file:noun.act.org::administration]] agent [[file:noun.group.org::administration]] drf [[file:adj.pert.org::administrative]] drf [[file:adj.all.org::administrable]] drf [[file:noun.time.org::administration]] drf [[file:noun.group.org::administration]] drf [[file:noun.act.org::administration]]
-w: <<administrate>> agent [[file:noun.person.org::administrator2]] agent [[file:noun.person.org::administrator1]] agent [[file:noun.person.org::administrator]] drf [[file:adj.all.org::administrable]] drf [[file:adj.pert.org::administrative]] drf [[file:noun.person.org::administrator2]] drf [[file:noun.person.org::administrator1]] drf [[file:noun.person.org::administrator]]
+w: <<administer>> by-means-of [[file:noun.act.org::administration]] agent [[file:noun.group.org::administration]] drf [[file:adj.pert.org::administrative]] drf [[file:adjs.all.org::administrable]] drf [[file:noun.time.org::administration]] drf [[file:noun.group.org::administration]] drf [[file:noun.act.org::administration]]
+w: <<administrate>> agent [[file:noun.person.org::administrator2]] agent [[file:noun.person.org::administrator1]] agent [[file:noun.person.org::administrator]] drf [[file:adjs.all.org::administrable]] drf [[file:adj.pert.org::administrative]] drf [[file:noun.person.org::administrator2]] drf [[file:noun.person.org::administrator1]] drf [[file:noun.person.org::administrator]]
 hyper: [[manage]]
 fr: 2 8
 g: work in an administrative capacity; supervise or be in charge of; "administer a program"; "she administers the funds"
@@ -5019,7 +5019,7 @@ fr: 8 11
 g: have force or influence; bring about an effect or change; "Politeness militated against this opinion being expressed"
 
 w: <<imprint>> result [[file:noun.cognition.org::imprint]] drf [[file:noun.cognition.org::imprint]] drf [[file:noun.cognition.org::imprinting]]
-w: <<form2>> drf [[file:adj.all.org::formative1]]
+w: <<form2>> drf [[file:adjs.all.org::formative1]]
 hyper: [[influence]]
 fr: 19
 g: establish or impress firmly in the mind; "We imprint our ideas onto our children"
@@ -5116,7 +5116,7 @@ hyper: [[abolish]]
 fr: 8
 g: discard or do away with; "cashier the literal sense of this word"
 
-w: <<abolish>> event [[file:noun.act.org::abolition]] event [[file:noun.act.org::abolishment]] drf [[file:adj.all.org::abolishable]] drf [[file:noun.act.org::abolishment]] drf [[file:noun.act.org::abolition]] ant [[establish]]
+w: <<abolish>> event [[file:noun.act.org::abolition]] event [[file:noun.act.org::abolishment]] drf [[file:adjs.all.org::abolishable]] drf [[file:noun.act.org::abolishment]] drf [[file:noun.act.org::abolition]] ant [[establish]]
 w: <<get_rid_of>>
 fr: 8 11
 g: do away with; "Slavery was abolished in the mid-19th century in America and in Russia"
@@ -5180,8 +5180,8 @@ hyper: [[work2]]
 fr: 2 22
 g: do volunteer work
 
-w: <<oppress>> event [[file:noun.act.org::oppression]] agent [[file:noun.person.org::oppressor]] drf [[file:adj.all.org::oppressive]] drf [[file:noun.act.org::oppression]] drf [[file:noun.person.org::oppressor]]
-w: <<suppress1>> event [[file:noun.act.org::suppression2]] agent [[file:noun.person.org::suppresser]] drf [[file:adj.all.org::suppressive]] drf [[file:noun.act.org::suppression2]] drf [[file:noun.person.org::suppresser]]
+w: <<oppress>> event [[file:noun.act.org::oppression]] agent [[file:noun.person.org::oppressor]] drf [[file:adjs.all.org::oppressive]] drf [[file:noun.act.org::oppression]] drf [[file:noun.person.org::oppressor]]
+w: <<suppress1>> event [[file:noun.act.org::suppression2]] agent [[file:noun.person.org::suppresser]] drf [[file:adjs.all.org::suppressive]] drf [[file:noun.act.org::suppression2]] drf [[file:noun.person.org::suppresser]]
 w: <<crush>> drf [[file:noun.act.org::crushing]]
 fr: 8 9 10
 g: come down on or keep down by unjust use of one's authority; "The government oppresses political activists"
@@ -5191,7 +5191,7 @@ hyper: [[subjugate]]
 fr: 9 11
 g: subjugate by imposing troops
 
-w: <<repress>> state [[file:noun.state.org::repression]] event [[file:noun.act.org::repression]] drf [[file:adj.all.org::repressive]] drf [[file:noun.state.org::repression]] drf [[file:noun.act.org::repression]]
+w: <<repress>> state [[file:noun.state.org::repression]] event [[file:noun.act.org::repression]] drf [[file:adjs.all.org::repressive]] drf [[file:noun.state.org::repression]] drf [[file:noun.act.org::repression]]
 w: <<quash>>
 w: <<keep_down>>
 w: <<subdue>> agent [[file:noun.person.org::subduer]] drf [[file:noun.person.org::subduer]]
@@ -5268,7 +5268,7 @@ hyper: [[free]]
 fr: 8
 g: set animals loose to graze
 
-w: <<bail>> by-means-of [[file:noun.possession.org::bail]] by-means-of [[file:noun.cognition.org::bail]] drf [[file:adj.all.org::bailable]] drf [[file:noun.possession.org::bail]] drf [[file:noun.cognition.org::bail]]
+w: <<bail>> by-means-of [[file:noun.possession.org::bail]] by-means-of [[file:noun.cognition.org::bail]] drf [[file:adjs.all.org::bailable]] drf [[file:noun.possession.org::bail]] drf [[file:noun.cognition.org::bail]]
 vg: [[file:verb.communication.org::bail]]
 hyper: [[free]]
 fr: 9
@@ -5418,16 +5418,14 @@ vg: [[collaborate]]
 fr: 2
 g: cooperate as a traitor; "he collaborated with the Nazis when they occupied Paris"
 
-w: <<collaborate>> event [[file:noun.act.org::collaboration1]] agent [[file:noun.person.org::collaborator]] drf [[file:adj.all.org::collaborative]] drf [[file:noun.act.org::collaboration1]] drf [[file:noun.person.org::collaborator]]
+w: <<collaborate>> event [[file:noun.act.org::collaboration1]] agent [[file:noun.person.org::collaborator]] drf [[file:adjs.all.org::collaborative]] drf [[file:noun.act.org::collaboration1]] drf [[file:noun.person.org::collaborator]]
 w: <<join_forces>>
-w: <<cooperate>> event [[file:noun.act.org::cooperation2]] event [[file:noun.act.org::cooperation1]] agent [[file:noun.person.org::cooperator]] drf [[file:adj.all.org::cooperative]] drf [[file:adj.all.org::cooperative]] drf [[file:noun.act.org::cooperation2]] drf [[file:noun.act.org::cooperation1]] drf [[file:noun.person.org::cooperator]]
+w: <<cooperate>> event [[file:noun.act.org::cooperation2]] event [[file:noun.act.org::cooperation1]] agent [[file:noun.person.org::cooperator]] drf [[file:adjs.all.org::cooperative]] drf [[file:adj.all.org::cooperative]] drf [[file:noun.act.org::cooperation2]] drf [[file:noun.act.org::cooperation1]] drf [[file:noun.person.org::cooperator]]
 w: <<get_together>>
 vg: [[collaborate1]]
 hyper: [[work2]]
 fr: 2 22
-g: Work together on a common enterprise or project.
-e: The soprano and the pianist did not get together very well.
-e: We joined forces with another research group.
+g: work together on a common enterprise of project; "The soprano and the pianist did not get together very well"; "We joined forces with another research group"
 
 w: <<dabble1>> agent [[file:noun.person.org::dabbler]] drf [[file:noun.person.org::dabbler]] fr 2
 w: <<smatter>>
@@ -5475,7 +5473,7 @@ hyper: [[work2]]
 fr: 2 22
 g: work hard on something
 
-w: <<assist>> drf [[file:adj.all.org::assistant]] drf [[file:noun.person.org::assistant]]
+w: <<assist>> drf [[file:adjs.all.org::assistant]] drf [[file:noun.person.org::assistant]]
 hyper: [[work2]]
 fr: 2 9
 g: act as an assistant in a subordinate or supportive function
@@ -5605,7 +5603,7 @@ fr: 9
 g: engage or hire for work; "They hired two new secretaries in the department"; "How many people has she employed?"
 
 w: <<overwork>> event [[file:noun.act.org::overwork]] drf [[file:noun.act.org::overwork]] drf [[file:noun.act.org::overworking]]
-w: <<exploit>> event [[file:noun.act.org::exploitation]] drf [[file:adj.all.org::exploitive]] drf [[file:adj.all.org::exploitative]] drf [[file:adj.all.org::exploitatory]] drf [[file:noun.act.org::exploitation]]
+w: <<exploit>> event [[file:noun.act.org::exploitation]] drf [[file:adjs.all.org::exploitive]] drf [[file:adjs.all.org::exploitative]] drf [[file:adjs.all.org::exploitatory]] drf [[file:noun.act.org::exploitation]]
 hyper: [[work1]]
 fr: 8 9
 g: work excessively hard; "he is exploiting the students"
@@ -5670,7 +5668,7 @@ vg: [[file:verb.communication.org::push1]]
 fr: 28
 g: strive and make an effort to reach a goal; "She tugged for years to make a decent living"; "We have to push a little to make the deadline!"; "She is driving away at her doctoral thesis"
 
-w: <<succeed1>> event [[file:noun.attribute.org::succession]] event [[file:noun.act.org::succession]] agent [[file:noun.person.org::successor1]] agent [[file:noun.person.org::successor]] agent [[file:noun.cognition.org::successor]] drf [[file:adj.all.org::successive]] drf [[file:noun.attribute.org::succession]] drf [[file:noun.act.org::succession]] drf [[file:noun.person.org::successor1]] drf [[file:noun.person.org::successor]] drf [[file:noun.cognition.org::successor]] ant [[precede]]
+w: <<succeed1>> event [[file:noun.attribute.org::succession]] event [[file:noun.act.org::succession]] agent [[file:noun.person.org::successor1]] agent [[file:noun.person.org::successor]] agent [[file:noun.cognition.org::successor]] drf [[file:adjs.all.org::successive]] drf [[file:noun.attribute.org::succession]] drf [[file:noun.act.org::succession]] drf [[file:noun.person.org::successor1]] drf [[file:noun.person.org::successor]] drf [[file:noun.cognition.org::successor]] ant [[precede]]
 w: <<come_after>>
 w: <<follow1>>
 fr: 2 9 22
@@ -5771,7 +5769,7 @@ w: <<displace4>>
 w: <<fire>> drf [[file:noun.act.org::firing1]] ant [[hire]]
 w: <<give_notice>>
 w: <<can>>
-w: <<dismiss>> event [[file:noun.act.org::dismission]] event [[file:noun.act.org::dismissal]] drf [[file:adj.all.org::dismissible]] drf [[file:noun.act.org::dismission]] drf [[file:noun.act.org::dismissal]]
+w: <<dismiss>> event [[file:noun.act.org::dismission]] event [[file:noun.act.org::dismissal]] drf [[file:adjs.all.org::dismissible]] drf [[file:noun.act.org::dismission]] drf [[file:noun.act.org::dismissal]]
 w: <<give_the_axe>>  fr 22
 w: <<send_away>>
 w: <<sack>> event [[file:noun.act.org::sack]] drf [[file:noun.act.org::sack]] drf [[file:noun.act.org::sacking]]
@@ -5788,7 +5786,7 @@ fr: 8
 g: overthrow by a revolution, of governments
 
 w: <<overthrow>> event [[file:noun.act.org::overthrow1]] drf [[file:noun.act.org::overthrow1]]
-w: <<subvert>> event [[file:noun.act.org::subversion1]] agent [[file:noun.person.org::subverter]] drf [[file:adj.all.org::subversive]] drf [[file:noun.act.org::subversion1]] drf [[file:noun.person.org::subverter]]
+w: <<subvert>> event [[file:noun.act.org::subversion1]] agent [[file:noun.person.org::subverter]] drf [[file:adjs.all.org::subversive]] drf [[file:noun.act.org::subversion1]] drf [[file:noun.person.org::subverter]]
 w: <<overturn>>
 w: <<bring_down>>
 hyper: [[depose]]
@@ -5816,7 +5814,7 @@ hyper: [[remove]]
 fr: 9 22
 g: remove from a position or office; "The chairman was ousted after he misappropriated funds"
 
-w: <<nominate2>> agent [[file:noun.person.org::nominator]] drf [[file:adj.all.org::nominative]] drf [[file:noun.person.org::nominator]]
+w: <<nominate2>> agent [[file:noun.person.org::nominator]] drf [[file:adjs.all.org::nominative]] drf [[file:noun.person.org::nominator]]
 w: <<propose>>
 hyper: [[file:verb.cognition.org::choose]]
 fr: 9 14
@@ -5961,7 +5959,7 @@ fr: 9
 g: name again or anew; "He was renamed Minister of the Interior"
 
 w: <<name1>> drf [[file:noun.act.org::naming]]
-w: <<nominate1>> event [[file:noun.act.org::nomination]] drf [[file:adj.all.org::nominative]] drf [[file:noun.act.org::nomination]]
+w: <<nominate1>> event [[file:noun.act.org::nomination]] drf [[file:adjs.all.org::nominative]] drf [[file:noun.act.org::nomination]]
 w: <<make3>>
 hyper: [[appoint]]
 fr: 14
@@ -5974,7 +5972,7 @@ g: set up a committee or legislative body with one's own supporters so as to inf
 
 w: <<appoint1>> undergoer [[file:noun.person.org::appointee1]] undergoer [[file:noun.person.org::appointee]] drf [[file:adj.pert.org::appointive]] drf [[file:adj.all.org::appointive]] drf [[file:noun.person.org::appointee1]] drf [[file:noun.person.org::appointee]]
 w: <<name>> drf [[file:noun.act.org::naming]]
-w: <<nominate>> event [[file:noun.act.org::nomination]] drf [[file:adj.all.org::nominative]] drf [[file:noun.act.org::nomination]]
+w: <<nominate>> event [[file:noun.act.org::nomination]] drf [[file:adjs.all.org::nominative]] drf [[file:noun.act.org::nomination]]
 w: <<constitute>>
 hyper: [[file:verb.creation.org::establish]]
 fr: 8 9
@@ -6152,7 +6150,7 @@ hyper: [[socialize1]]
 fr: 2
 g: be a social swinger; socialize a lot
 
-w: <<connect1>> agent [[file:noun.person.org::connection1]] drf [[file:adj.all.org::connective]] drf [[file:noun.person.org::connection1]]
+w: <<connect1>> agent [[file:noun.person.org::connection1]] drf [[file:adjs.all.org::connective]] drf [[file:noun.person.org::connection1]]
 vg: [[get_in_touch]]
 hyper: [[relate]]
 fr: 22
@@ -6203,12 +6201,12 @@ hyper: [[educate]]
 fr: 9
 g: educate persons of both sexes together
 
-w: <<educate>> undergoer [[file:noun.person.org::educatee]] event [[file:noun.act.org::education]] by-means-of [[file:noun.act.org::education1]] agent [[file:noun.person.org::educator]] agent [[file:noun.group.org::Education]] drf [[file:adj.all.org::educative]] drf [[file:noun.person.org::educatee]] drf [[file:noun.group.org::Education]] drf [[file:noun.act.org::education1]] drf [[file:noun.act.org::education]] drf [[file:noun.person.org::educator]]
+w: <<educate>> undergoer [[file:noun.person.org::educatee]] event [[file:noun.act.org::education]] by-means-of [[file:noun.act.org::education1]] agent [[file:noun.person.org::educator]] agent [[file:noun.group.org::Education]] drf [[file:adjs.all.org::educative]] drf [[file:noun.person.org::educatee]] drf [[file:noun.group.org::Education]] drf [[file:noun.act.org::education1]] drf [[file:noun.act.org::education]] drf [[file:noun.person.org::educator]]
 hyper: [[file:verb.change.org::better1]]
 fr: 9
 g: give an education to; "We must educate our youngsters better"
 
-w: <<prepare>> by-means-of [[file:noun.act.org::preparation]] drf [[file:adj.all.org::preparative]] drf [[file:adj.all.org::preparatory]] drf [[file:noun.act.org::preparation]]
+w: <<prepare>> by-means-of [[file:noun.act.org::preparation]] drf [[file:adjs.all.org::preparative]] drf [[file:adjs.all.org::preparatory]] drf [[file:noun.act.org::preparation]]
 w: <<groom>> drf [[file:noun.act.org::grooming1]]
 w: <<train>> undergoer [[file:noun.person.org::trainee]] agent [[file:noun.person.org::trainer]] drf [[file:noun.person.org::trainee]] drf [[file:noun.person.org::trainer]] drf [[file:noun.act.org::training]]
 vg: [[file:verb.cognition.org::train]]
@@ -6273,13 +6271,13 @@ hyper: [[leave_office]]
 fr: 1 2
 g: lose office or power; "The government fell overnight"; "The Qing Dynasty fell with Sun Yat-sen"
 
-w: <<invite1>> undergoer [[file:noun.person.org::invitee]] event [[file:noun.communication.org::invite]] event [[file:noun.communication.org::invitation]] drf [[file:adj.all.org::invitatory]] drf [[file:noun.communication.org::invite]] drf [[file:noun.person.org::invitee]] drf [[file:noun.communication.org::invitation]] see [[invite_out]]
+w: <<invite1>> undergoer [[file:noun.person.org::invitee]] event [[file:noun.communication.org::invite]] event [[file:noun.communication.org::invitation]] drf [[file:adjs.all.org::invitatory]] drf [[file:noun.communication.org::invite]] drf [[file:noun.person.org::invitee]] drf [[file:noun.communication.org::invitation]] see [[invite_out]]
 w: <<pay_for>>
 hyper: [[interact]]
 fr: 9
 g: have as a guest; "I invited them to a restaurant"
 
-w: <<invite>> undergoer [[file:noun.person.org::invitee]] event [[file:noun.communication.org::invite]] event [[file:noun.communication.org::invitation]] drf [[file:adj.all.org::invitatory]] drf [[file:noun.communication.org::invite]] drf [[file:noun.person.org::invitee]] drf [[file:noun.communication.org::invitation]]
+w: <<invite>> undergoer [[file:noun.person.org::invitee]] event [[file:noun.communication.org::invite]] event [[file:noun.communication.org::invitation]] drf [[file:adjs.all.org::invitatory]] drf [[file:noun.communication.org::invite]] drf [[file:noun.person.org::invitee]] drf [[file:noun.communication.org::invitation]]
 w: <<ask_over>>
 w: <<ask_round>>
 vg: [[file:verb.contact.org::invite]]
@@ -6429,7 +6427,7 @@ w: <<take_up>>
 fr: 8
 g: begin work or acting in a certain capacity, office or job; "Take up a position"; "start a new job"
 
-w: <<abdicate>> event [[file:noun.communication.org::abdication1]] event [[file:noun.communication.org::abdication]] agent [[file:noun.person.org::abdicator]] drf [[file:adj.all.org::abdicable]] drf [[file:noun.communication.org::abdication1]] drf [[file:noun.communication.org::abdication]] drf [[file:noun.person.org::abdicator]]
+w: <<abdicate>> event [[file:noun.communication.org::abdication1]] event [[file:noun.communication.org::abdication]] agent [[file:noun.person.org::abdicator]] drf [[file:adjs.all.org::abdicable]] drf [[file:noun.communication.org::abdication1]] drf [[file:noun.communication.org::abdication]] drf [[file:noun.person.org::abdicator]]
 w: <<renounce1>> event [[file:noun.communication.org::renunciation]] event [[file:noun.act.org::renunciation]] event [[file:noun.communication.org::renouncement]] drf [[file:noun.communication.org::renunciation]] drf [[file:noun.act.org::renunciation]] drf [[file:noun.communication.org::renouncement]]
 hyper: [[vacate]]
 fr: 2
@@ -6449,7 +6447,7 @@ fr: 8
 g: resist; "buck the trend"
 
 w: <<react>>
-w: <<oppose>> agent [[file:noun.person.org::opposer]] drf [[file:adj.all.org::opponent]] drf [[file:noun.person.org::opposer]]
+w: <<oppose>> agent [[file:noun.person.org::opposer]] drf [[file:adjs.all.org::opponent]] drf [[file:noun.person.org::opposer]]
 hyper: [[act]]
 fr: 2 22
 g: act against or in opposition to; "She reacts negatively to everything I say"
@@ -6484,7 +6482,7 @@ hyper: [[interact]]
 fr: 9 10
 g: relegate to a lower or outer edge, as of specific groups of people; "We must not marginalize the poor in our society"
 
-w: <<interact>> event [[file:noun.act.org::interaction]] drf [[file:adj.all.org::interactive]] drf [[file:noun.act.org::interaction]]
+w: <<interact>> event [[file:noun.act.org::interaction]] drf [[file:adjs.all.org::interactive]] drf [[file:noun.act.org::interaction]]
 hyper: [[act]]
 fr: 2 22
 g: act together or towards others or with others; "He should interact more with his colleagues"
@@ -6500,7 +6498,7 @@ hyper: [[act]]
 fr: 8
 g: regulate one's behavior in accordance with certain information, ideas, or advice; "The Founding Fathers acted on certain moral principles"
 
-w: <<pursue1>> event [[file:noun.act.org::pursuance]] drf [[file:adj.all.org::pursuant]] drf [[file:noun.act.org::pursuance]]
+w: <<pursue1>> event [[file:noun.act.org::pursuance]] drf [[file:adjs.all.org::pursuant]] drf [[file:noun.act.org::pursuance]]
 w: <<follow_up_on>>
 w: <<act_on>>
 hyper: [[react]]
@@ -6619,7 +6617,7 @@ hyper: [[act]]
 fr: 4 6 7 22
 g: follow a procedure or take a course; "We should go farther in this matter"; "She went through a lot of trouble"; "go about the world in a certain manner"; "Messages must go through diplomatic channels"
 
-w: <<reciprocate>> event [[file:noun.act.org::reciprocation2]] event [[file:noun.act.org::reciprocation]] drf [[file:adj.all.org::reciprocative]] drf [[file:noun.act.org::reciprocation2]] drf [[file:noun.act.org::reciprocation]] drf [[file:adj.all.org::reciprocatory1]] drf [[file:adj.all.org::reciprocative1]]
+w: <<reciprocate>> event [[file:noun.act.org::reciprocation2]] event [[file:noun.act.org::reciprocation]] drf [[file:adjs.all.org::reciprocative]] drf [[file:noun.act.org::reciprocation2]] drf [[file:noun.act.org::reciprocation]] drf [[file:adjs.all.org::reciprocatory1]] drf [[file:adjs.all.org::reciprocative1]]
 hyper: [[act]]
 fr: 2
 g: act, feel, or give mutually or in return; "We always invite the neighbors and they never reciprocate!"
@@ -6684,7 +6682,7 @@ hyper: [[act]]
 fr: 28
 g: to work as fast as possible towards a goal, sometimes in competition with others; "We are racing to find a cure for AIDS"
 
-w: <<evade>> drf [[file:adj.all.org::evasive]]
+w: <<evade>> drf [[file:adjs.all.org::evasive]]
 hyper: [[act]]
 fr: 2
 g: practice evasion; "This man always hesitates and evades"
@@ -6712,7 +6710,7 @@ w: <<move>> drf [[file:noun.act.org::move]]
 fr: 1 2 22
 g: perform an action, or work out or perform (an action); "think before you act"; "We must move quickly"; "The governor should act on the new energy bill"; "The nanny acted quickly by grabbing the toddler and covering him with a wet towel"
 
-w: <<vacate>> drf [[file:adj.all.org::vacant1]] fr 2
+w: <<vacate>> drf [[file:adjs.all.org::vacant1]] fr 2
 w: <<resign>> event [[file:noun.communication.org::resignation]] drf [[file:noun.communication.org::resignation]] fr 2
 w: <<renounce>>
 w: <<give_up5>>

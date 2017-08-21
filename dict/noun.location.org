@@ -13497,8 +13497,8 @@ w: <<winner's_circle>>
 hyper: [[area1]]
 g: a small area at a racecourse where awards are given to the owners of winning horses
 
-w: <<wilderness>> drf [[file:adj.all.org::wild]] drf [[file:adj.all.org::wild1]]
-w: <<wild>> drf [[file:adj.all.org::wild]]
+w: <<wilderness>> drf [[file:adjs.all.org::wild]] drf [[file:adj.all.org::wild1]]
+w: <<wild>> drf [[file:adjs.all.org::wild]]
 hyper: [[geographical_area]]
 g: a wild and uninhabited area left in its natural condition; "it was a wilderness preserved for the hawks and mountaineers"
 
@@ -13523,7 +13523,7 @@ attr: [[file:adj.all.org::western2]]
 g: the region of the United States lying to the west of the Mississippi River
 
 w: <<West>>
-w: <<Occident>> drf [[file:adj.all.org::occidental]]
+w: <<Occident>> drf [[file:adjs.all.org::occidental]]
 ihyper: [[region1]]
 attr: [[file:adj.all.org::western1]]
 g: the countries of (originally) Europe and (now including) North America and South America
@@ -13659,7 +13659,7 @@ g: a great circle on the celestial sphere passing through the zenith and perpend
 
 w: <<vertex>>
 w: <<peak1>>
-w: <<apex>> drf [[file:adj.all.org::apical]]
+w: <<apex>> drf [[file:adjs.all.org::apical]]
 w: <<acme>>
 hyper: [[extreme_point]]
 g: the highest point (of something); "at the peak of the pyramid"
@@ -13733,7 +13733,7 @@ w: <<Tropic_of_Cancer>>
 ihyper: [[tropic]]
 g: a line of latitude about 23 degrees to the north of the equator
 
-w: <<tropic>> drf [[file:adj.all.org::tropical]] drf [[file:adj.all.org::tropical]] drf [[file:adj.pert.org::tropical]]
+w: <<tropic>> drf [[file:adjs.all.org::tropical]] drf [[file:adjs.all.org::tropical]] drf [[file:adj.pert.org::tropical]]
 hyper: [[latitude1]]
 g: either of two parallels of latitude about 23.5 degrees to the north and south of the equator representing the points farthest north and south at which the sun can shine directly overhead and constituting the boundaries of the Torrid Zone or tropics
 
@@ -13841,7 +13841,7 @@ g: an urban area with a fixed boundary that is smaller than a city; "they drive 
 
 w: <<Torrid_Zone>>
 w: <<tropical_zone>>
-w: <<tropics>> drf [[file:adj.all.org::tropic]]
+w: <<tropics>> drf [[file:adjs.all.org::tropic]]
 ihyper: [[climatic_zone]]
 g: the part of the Earth's surface between the Tropic of Cancer and the Tropic of Capricorn; characterized by a hot climate
 
@@ -14107,7 +14107,7 @@ w: <<air>> drf [[file:adj.all.org::aerial]]
 hyper: [[region]]
 g: the region above the ground; "her hand stopped in mid air"; "he threw the ball into the air"
 
-w: <<space>> drf [[file:adj.all.org::spacious]]
+w: <<space>> drf [[file:adjs.all.org::spacious]]
 hyper: [[area1]]
 g: an area reserved for some particular purpose; "the laboratory's floor space"
 
@@ -14115,7 +14115,7 @@ w: <<south_celestial_pole>>
 ihyper: [[pole1]]
 g: the celestial pole above the southern hemisphere
 
-w: <<South_Pole>> drf [[file:adj.all.org::south-polar]]
+w: <<South_Pole>> drf [[file:adjs.all.org::south-polar]]
 ihyper: [[pole]]
 hp: [[file:noun.object.org::Antarctica]]
 g: the southernmost point of the Earth's axis
@@ -14144,7 +14144,7 @@ w: <<shantytown>>
 hyper: [[slum]]
 g: a city district inhabited by people living in huts and shanties
 
-w: <<slum>> drf [[file:adj.all.org::slummy]] drf [[file:verb.social.org::slum]]
+w: <<slum>> drf [[file:adjs.all.org::slummy]] drf [[file:verb.social.org::slum]]
 w: <<slum_area>>
 hyper: [[city_district]]
 g: a district of a city marked by poverty and inferior living conditions
@@ -14567,8 +14567,8 @@ w: <<loxodrome>>
 hyper: [[line]]
 g: a line on a sphere that cuts all meridians at the same angle; the path taken by a ship or plane that maintains a constant compass direction
 
-w: <<open1>> drf [[file:adj.all.org::open]]
-w: <<clear>> drf [[file:adj.all.org::clear]] drf [[file:verb.change.org::clear9]] drf [[file:verb.change.org::clear2]] drf [[file:verb.change.org::clear1]]
+w: <<open1>> drf [[file:adjs.all.org::open]]
+w: <<clear>> drf [[file:adjs.all.org::clear]] drf [[file:verb.change.org::clear9]] drf [[file:verb.change.org::clear2]] drf [[file:verb.change.org::clear1]]
 hyper: [[area1]]
 g: a clear or unobstructed space or expanse of land or water; "finally broke out of the forest into the open"
 
@@ -14609,17 +14609,17 @@ w: <<red_line>>
 hyper: [[line1]]
 g: a line that is colored red and that bisects an ice hockey rink
 
-w: <<rearward>> drf [[file:adj.all.org::rearward]] drf [[file:adj.all.org::rearward]]
+w: <<rearward>> drf [[file:adjs.all.org::rearward]] drf [[file:adjs.all.org::rearward]]
 hyper: [[rear]]
 g: direction toward the rear; "his outfit marched to the rearward of the tank divisions"
 
-w: <<rear>> drf [[file:adj.all.org::rear]] ant [[front]]
+w: <<rear>> drf [[file:adjs.all.org::rear]] ant [[front]]
 w: <<backside>>
 w: <<back_end>>
 hyper: [[side]]
 g: the side of an object that is opposite its front; "his room was toward the rear of the hotel"
 
-w: <<range2>> drf [[file:adj.all.org::rangy]] drf [[file:adj.all.org::rangy]] drf [[file:verb.consumption.org::range]] drf [[file:verb.contact.org::range2]]
+w: <<range2>> drf [[file:adjs.all.org::rangy]] drf [[file:adjs.all.org::rangy]] drf [[file:verb.consumption.org::range]] drf [[file:verb.contact.org::range2]]
 hyper: [[tract]]
 g: a large tract of grassy open land on which livestock can graze; "they used to drive the cattle across the open range every spring"; "he dreamed of a home on the range"
 
@@ -14696,17 +14696,17 @@ hyper: [[urban_area]]
 dr: [[United_Kingdom]]
 g: a planned urban community created in a rural or undeveloped area and designed to be self-sufficient with its own housing and education and commerce and recreation
 
-w: <<municipality>> drf [[file:adj.all.org::municipal]] drf [[file:adj.pert.org::municipal]]
+w: <<municipality>> drf [[file:adjs.all.org::municipal]] drf [[file:adj.pert.org::municipal]]
 hyper: [[urban_area]]
 hyper: [[administrative_district]]
 g: an urban district having corporate status and powers of self-government
 
-w: <<front2>> drf [[file:adj.all.org::frontal1]] drf [[file:verb.stative.org::front]] ant [[back2]]
+w: <<front2>> drf [[file:adjs.all.org::frontal1]] drf [[file:verb.stative.org::front]] ant [[back2]]
 hyper: [[position]]
 g: the part of something that is nearest to the normal viewer; "he walked to the front of the stage"
 
 w: <<back2>> ant [[front2]]
-w: <<rear1>> drf [[file:adj.all.org::rear]]
+w: <<rear1>> drf [[file:adjs.all.org::rear]]
 hyper: [[position]]
 g: the part of something that is furthest from the normal viewer; "he stood at the back of the stage"; "it was hidden in the rear of the store"
 
@@ -15025,18 +15025,17 @@ w: <<outpost>>
 hyper: [[post]]
 g: a station in a remote or sparsely populated location
 
-w: <<outdoors>> drf [[file:adj.all.org::outdoorsy]]
+w: <<outdoors>> drf [[file:adjs.all.org::outdoorsy]]
 w: <<out-of-doors>>
 w: <<open_air>>
-w: <<open2>> drf [[file:adj.all.org::open]]
+w: <<open2>> drf [[file:adjs.all.org::open]]
 hyper: [[outside1]]
 g: where the air is unconfined; "he wanted to get outdoors a little"; "the concert was held in the open air"; "camping in the open"
 
 w: <<outside1>> ant [[inside1]]
 w: <<exterior1>>
 hyper: [[region]]
-g: The region that is outside of something.
-e: The kids were playing outside.
+g: the region that is outside of something
 
 w: <<outside>> ant [[inside]]
 w: <<exterior>>
@@ -15087,7 +15086,7 @@ w: <<old_country>>
 hyper: [[fatherland]]
 g: the country of origin of an immigrant
 
-w: <<North_Pole>> drf [[file:adj.all.org::north-polar]]
+w: <<North_Pole>> drf [[file:adjs.all.org::north-polar]]
 ihyper: [[pole]]
 g: the northernmost point of the Earth's axis
 
@@ -15561,7 +15560,7 @@ w: <<line1>>
 hyper: [[file:noun.communication.org::mark3]]
 g: in games or sports; a mark indicating positions or bounds of the playing area
 
-w: <<line>> drf [[file:adj.all.org::lineal]]
+w: <<line>> drf [[file:adjs.all.org::lineal]]
 hyper: [[file:noun.Tops.org::location]]
 g: a spatial location defined by a real or imaginary unidimensional extent
 
@@ -15632,11 +15631,11 @@ hyper: [[jurisdiction]]
 du: [[file:noun.communication.org::colloquialism]]
 g: range of jurisdiction or influence; "a bureaucracy...chiefly concerned with turf...and protecting the retirement system"
 
-w: <<jurisdiction>> drf [[file:adj.all.org::jurisdictional]]
+w: <<jurisdiction>> drf [[file:adjs.all.org::jurisdictional]]
 hyper: [[district]]
 g: in law; the territory within which power can be exercised
 
-w: <<isotherm>> drf [[file:adj.all.org::isothermal]]
+w: <<isotherm>> drf [[file:adjs.all.org::isothermal]]
 hyper: [[isogram]]
 hp: [[file:noun.artifact.org::weather_map]]
 dt: [[file:noun.cognition.org::meteorology]]
@@ -16044,13 +16043,13 @@ hyper: [[dump]]
 g: an accumulation of refuse and discarded matter
 
 w: <<battlefront>>
-w: <<front1>> drf [[file:adj.all.org::frontal]]
+w: <<front1>> drf [[file:adjs.all.org::frontal]]
 w: <<front_line>>
 hyper: [[line2]]
 hp: [[battlefield]]
 g: the line along which opposing armies face each other
 
-w: <<front>> drf [[file:adj.all.org::frontal1]] drf [[file:verb.competition.org::front]] drf [[file:verb.stative.org::front]] ant [[rear]]
+w: <<front>> drf [[file:adjs.all.org::frontal1]] drf [[file:verb.competition.org::front]] drf [[file:verb.stative.org::front]] ant [[rear]]
 w: <<front_end>>
 w: <<forepart>>
 hyper: [[side]]
@@ -16186,7 +16185,7 @@ w: <<extremum>>
 hyper: [[extremity]]
 g: the point located farthest from the middle of something
 
-w: <<extremity>> drf [[file:adj.all.org::extreme]]
+w: <<extremity>> drf [[file:adjs.all.org::extreme]]
 hyper: [[region]]
 g: the outermost or farthest region or point
 
@@ -16263,7 +16262,7 @@ hyper: [[boundary]]
 g: the boundary of a surface
 
 w: <<Eden>>
-w: <<paradise1>> drf [[file:adj.all.org::paradisiacal]] drf [[file:adj.all.org::paradisal]]
+w: <<paradise1>> drf [[file:adjs.all.org::paradisiacal]] drf [[file:adjs.all.org::paradisal]]
 w: <<nirvana>>
 w: <<heaven1>>
 w: <<promised_land1>>
@@ -16341,7 +16340,7 @@ hp: [[East]]
 g: a popular expression for the countries of eastern Asia (usually including China and Mongolia and Taiwan and Japan and Korea and Indochina and eastern Siberia)
 
 w: <<East>>
-w: <<Orient>> drf [[file:adj.all.org::oriental]]
+w: <<Orient>> drf [[file:adjs.all.org::oriental]]
 ihyper: [[file:noun.group.org::Asia]]
 attr: [[file:adj.all.org::eastern1]]
 g: the countries of Asia
@@ -16441,7 +16440,7 @@ w: <<home_from_home>>
 hyper: [[home4]]
 g: a place where you are just as comfortable and content as if you were home
 
-w: <<home4>> drf [[file:adj.all.org::homely]] drf [[file:verb.motion.org::home]]
+w: <<home4>> drf [[file:adjs.all.org::homely]] drf [[file:verb.motion.org::home]]
 w: <<place6>> drf [[file:verb.social.org::place]]
 hyper: [[residence]]
 g: where you live at a particular time; "deliver the package to my home"; "he doesn't have a home to go to"; "your place or mine?"
@@ -16757,7 +16756,7 @@ hyper: [[celestial_point]]
 dt: [[file:noun.cognition.org::astronomy]]
 g: (astronomy) a heavenly body's highest celestial point above an observer's horizon
 
-w: <<cross_section>> drf [[file:adj.all.org::cross-sectional]]
+w: <<cross_section>> drf [[file:adjs.all.org::cross-sectional]]
 hyper: [[section]]
 g: a section created by a plane cutting a solid perpendicular to its longest axis
 
@@ -16873,7 +16872,7 @@ hyper: [[district]]
 hp: [[American_state]]
 g: a territorial division of a state; entitled to elect one member to the United States House of Representatives
 
-w: <<confluence>> drf [[file:adj.all.org::confluent]]
+w: <<confluence>> drf [[file:adjs.all.org::confluent]]
 w: <<meeting>>
 hyper: [[geographic_point]]
 dt: [[file:noun.object.org::river]]
@@ -17039,7 +17038,7 @@ w: <<centre_stage>>
 hyper: [[center1]]
 g: the central area on a theater stage
 
-w: <<center1>> drf [[file:adj.all.org::central1]] drf [[file:adj.all.org::centric]] drf [[file:adj.all.org::centrical]]
+w: <<center1>> drf [[file:adj.all.org::central1]] drf [[file:adjs.all.org::centric]] drf [[file:adjs.all.org::centrical]]
 w: <<centre1>>
 w: <<middle>> drf [[file:verb.contact.org::middle]]
 w: <<heart>>
@@ -17085,7 +17084,7 @@ hyper: [[center_of_mass]]
 dt: [[file:noun.cognition.org::physics]]
 g: (physics) the center of mass of the immersed part of ship or other floating object
 
-w: <<center>> drf [[file:adj.all.org::center]] drf [[file:adj.all.org::central1]] drf [[file:adj.all.org::centric]] drf [[file:adj.all.org::centrical]] drf [[file:verb.motion.org::center]]
+w: <<center>> drf [[file:adjs.all.org::center]] drf [[file:adj.all.org::central1]] drf [[file:adjs.all.org::centric]] drf [[file:adjs.all.org::centrical]] drf [[file:verb.motion.org::center]]
 w: <<centre>> drf [[file:verb.motion.org::centre]]
 w: <<midpoint>>
 hyper: [[point]]
@@ -17303,7 +17302,7 @@ w: <<fence_line>>
 hyper: [[boundary_line]]
 g: a boundary line created by a fence
 
-w: <<circumference>> drf [[file:adj.all.org::circumferential]] drf [[file:adj.all.org::circumferent]]
+w: <<circumference>> drf [[file:adjs.all.org::circumferential]] drf [[file:adjs.all.org::circumferent]]
 w: <<circuit1>>
 hyper: [[boundary_line]]
 g: the boundary line encompassing an area or object; "he had walked the full circumference of his land"; "a danger to all races over the whole circumference of the globe"
@@ -17524,7 +17523,7 @@ ihyper: [[outback]]
 hp: [[Australian_Desert]]
 g: the remote outback of Australia; unpopulated desert country
 
-w: <<outback>> drf [[file:adj.all.org::outback]]
+w: <<outback>> drf [[file:adjs.all.org::outback]]
 hyper: [[bush]]
 hp: [[Australian_Desert]]
 g: the bush country of the interior of Australia
@@ -17539,8 +17538,8 @@ hyper: [[barren]]
 dr: [[United_Kingdom]]
 g: a tract of level wasteland; uncultivated land with sandy soil and scrubby vegetation
 
-w: <<barren>> drf [[file:adj.all.org::barren]]
-w: <<waste>> drf [[file:adj.all.org::waste]]
+w: <<barren>> drf [[file:adjs.all.org::barren]]
+w: <<waste>> drf [[file:adjs.all.org::waste]]
 w: <<wasteland>>
 hyper: [[wilderness]]
 g: an uninhabited wilderness that is worthless for cultivation; "the barrens of central Africa"; "the trackless wastes of the desert"
@@ -17660,7 +17659,7 @@ hyper: [[colony1]]
 g: a British colony controlled by the British Crown, represented by a governor
 
 w: <<colony1>> drf [[file:adj.pert.org::colonial]] drf [[file:noun.person.org::colonist]]
-w: <<dependency>> drf [[file:adj.all.org::dependent]]
+w: <<dependency>> drf [[file:adjs.all.org::dependent]]
 hyper: [[geographical_area]]
 g: a geographical area politically controlled by a distant country
 
@@ -17730,7 +17729,7 @@ w: <<polar_circle>>
 hyper: [[latitude1]]
 g: a line of latitude at the north or south poles
 
-w: <<Arctic>> drf [[file:adj.all.org::Arctic]]
+w: <<Arctic>> drf [[file:adjs.all.org::Arctic]]
 w: <<Arctic_Zone>>
 w: <<North_Frigid_Zone>>
 ihyper: [[Frigid_Zone]]
@@ -17770,7 +17769,7 @@ w: <<antapex>> ant [[apex1]]
 hyper: [[celestial_point]]
 g: the point opposite in direction from the solar apex; the point the solar system is moving away from
 
-w: <<apex1>> drf [[file:adj.all.org::apical]] ant [[antapex]]
+w: <<apex1>> drf [[file:adjs.all.org::apical]] ant [[antapex]]
 w: <<solar_apex>>
 w: <<apex_of_the_sun's_way>>
 hyper: [[celestial_point]]
@@ -17788,7 +17787,7 @@ w: <<Antarctic_Circle>>
 ihyper: [[polar_circle]]
 g: a line of latitude north of the south pole
 
-w: <<Antarctic>> drf [[file:adj.all.org::Antarctic]]
+w: <<Antarctic>> drf [[file:adjs.all.org::Antarctic]]
 w: <<Antarctic_Zone>>
 w: <<South_Frigid_Zone>>
 ihyper: [[Frigid_Zone]]

@@ -181,7 +181,7 @@ hyper: [[agency]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: an administrative unit of local government
 
-w: <<head>> drf [[file:adj.all.org::heady]] drf [[file:verb.stative.org::head1]] drf [[file:verb.motion.org::head]] drf [[file:verb.motion.org::head2]] drf [[file:verb.motion.org::head1]] ant [[rear]]
+w: <<head>> drf [[file:adjs.all.org::heady]] drf [[file:verb.stative.org::head1]] drf [[file:verb.motion.org::head]] drf [[file:verb.motion.org::head2]] drf [[file:verb.motion.org::head1]] ant [[rear]]
 hyper: [[formation]]
 dt: [[military]]
 g: the front of a military formation or procession; "the head of the column advanced boldly"; "they were at the head of the attack"
@@ -335,7 +335,7 @@ hyper: [[people]]
 du: [[file:noun.communication.org::plural]]
 g: people who are involuntarily out of work (considered as a group); "the long-term unemployed need assistance"
 
-w: <<unconfessed>> drf [[file:adj.all.org::unconfessed]]
+w: <<unconfessed>> drf [[file:adjs.all.org::unconfessed]]
 hyper: [[people]]
 g: people who have not confessed; "the unconfessed cannot be forgiven"
 
@@ -450,7 +450,7 @@ dr: [[file:noun.location.org::China]]
 g: a spiritual movement that began in China in the latter half of the 20th century and is based on Buddhist and Taoist teachings and practices
 
 w: <<ecumenism>>
-w: <<oecumenism>> drf [[file:adj.all.org::oecumenical]]
+w: <<oecumenism>> drf [[file:adjs.all.org::oecumenical]]
 hyper: [[movement]]
 g: a movement promoting union between religions (especially between Christian churches)
 
@@ -483,7 +483,7 @@ w: <<symbolism>> drf [[file:noun.person.org::symbolist]]
 hyper: [[artistic_movement]]
 g: an artistic movement in the late 19th century that tried to express abstract or mystical ideas through the symbolic use of images
 
-w: <<surrealism>> drf [[file:adj.all.org::surrealistic]] drf [[file:noun.person.org::surrealist]]
+w: <<surrealism>> drf [[file:adjs.all.org::surrealistic]] drf [[file:noun.person.org::surrealist]]
 hyper: [[artistic_movement]]
 g: a 20th century movement of artists and writers (developing out of dadaism) who used fantastic images and incongruous juxtapositions in order to represent unconscious thoughts and dreams
 
@@ -506,7 +506,7 @@ w: <<needy>>
 hyper: [[poor_people]]
 g: needy people collectively; "they try to help the needy"
 
-w: <<naturalism>> drf [[file:adj.all.org::naturalistic]]
+w: <<naturalism>> drf [[file:adjs.all.org::naturalistic]]
 w: <<realism>> drf [[file:noun.person.org::realist1]]
 hyper: [[artistic_movement]]
 g: an artistic movement in 19th century France; artists and writers strove for detailed realistic and factual description
@@ -748,7 +748,7 @@ w: <<series1>>
 hyper: [[file:noun.Tops.org::group]]
 g: a group of postage stamps having a common theme or a group of coins or currency selected as a group for study or collection; "the Post Office issued a series commemorating famous American entertainers"; "his coin collection included the complete series of Indian-head pennies"
 
-w: <<series>> drf [[file:adj.all.org::serial]] drf [[file:adj.pert.org::serial2]] drf [[file:adj.pert.org::serial]]
+w: <<series>> drf [[file:adjs.all.org::serial]] drf [[file:adj.pert.org::serial2]] drf [[file:adj.pert.org::serial]]
 hyper: [[ordering]]
 g: similar things placed in order or happening one after another; "they were investigating a series of bank robberies"
 
@@ -935,7 +935,7 @@ w: <<rainforest>>
 hyper: [[forest]]
 g: a forest with heavy annual rainfall
 
-w: <<jungle1>> drf [[file:adj.all.org::jungly]]
+w: <<jungle1>> drf [[file:adjs.all.org::jungly]]
 hyper: [[forest]]
 g: an impenetrable equatorial forest
 
@@ -943,13 +943,13 @@ w: <<grove>>
 hyper: [[forest]]
 g: a small growth of trees without underbrush
 
-w: <<bosk>> drf [[file:adj.all.org::bosky]]
+w: <<bosk>> drf [[file:adjs.all.org::bosky]]
 hyper: [[forest]]
 g: a small wooded area
 
 w: <<forest>> drf [[file:verb.contact.org::forest]]
 w: <<wood>>
-w: <<woods>> drf [[file:adj.all.org::woodsy1]]
+w: <<woods>> drf [[file:adjs.all.org::woodsy1]]
 hyper: [[vegetation]]
 g: the trees and other plants in a large densely wooded area
 
@@ -957,9 +957,9 @@ w: <<stand>>
 hyper: [[vegetation]]
 g: a growth of similar plants (usually trees) in a particular area; "they cut down a stand of trees"
 
-w: <<scrub>> drf [[file:adj.all.org::scrubby]]
+w: <<scrub>> drf [[file:adjs.all.org::scrubby]]
 w: <<chaparral>>
-w: <<bush>> drf [[file:adj.all.org::bushy]]
+w: <<bush>> drf [[file:adjs.all.org::bushy]]
 hyper: [[vegetation]]
 g: dense vegetation consisting of stunted trees or bushes
 
@@ -976,11 +976,11 @@ w: <<canebrake>>
 hyper: [[brush]]
 g: a dense growth of cane (especially giant cane)
 
-w: <<brake>> drf [[file:adj.all.org::braky]]
+w: <<brake>> drf [[file:adjs.all.org::braky]]
 hyper: [[brush]]
 g: an area thickly overgrown usually with one kind of plant
 
-w: <<brush>> drf [[file:adj.all.org::brushy]]
+w: <<brush>> drf [[file:adjs.all.org::brushy]]
 w: <<brushwood>>
 w: <<coppice>>
 w: <<copse>>
@@ -1477,7 +1477,7 @@ w: <<agent_bank1>>
 hyper: [[depository_financial_institution]]
 g: a bank that acts as an agent for a foreign bank
 
-w: <<aggregate>> drf [[file:adj.all.org::aggregate1]]
+w: <<aggregate>> drf [[file:adjs.all.org::aggregate1]]
 w: <<congeries>>
 w: <<conglomeration>> drf [[file:verb.change.org::conglomerate]]
 hyper: [[sum]]
@@ -2054,7 +2054,7 @@ w: <<variety1>>
 w: <<salmagundi>>
 w: <<smorgasbord>>
 w: <<potpourri>>
-w: <<motley>> drf [[file:adj.all.org::motley]] drf [[file:verb.change.org::motley1]]
+w: <<motley>> drf [[file:adjs.all.org::motley]] drf [[file:verb.change.org::motley1]]
 hyper: [[collection]]
 g: a collection containing a variety of sorts of things; "a great assortment of cars was on display"; "he had a variety of disorders"; "a veritable smorgasbord of religions"
 
@@ -2304,7 +2304,7 @@ dr: [[file:noun.location.org::France]]
 g: members of the nobility (especially of the French nobility)
 
 w: <<nobility>> drf [[file:adj.all.org::noble2]]
-w: <<aristocracy1>> drf [[file:adj.all.org::aristocratic1]]
+w: <<aristocracy1>> drf [[file:adjs.all.org::aristocratic1]]
 hyper: [[elite]]
 g: a privileged class holding hereditary titles
 
@@ -2344,7 +2344,7 @@ hyper: [[elite]]
 g: an educated and intellectual elite
 
 w: <<gentry>>
-w: <<aristocracy2>> drf [[file:adj.all.org::aristocratic1]]
+w: <<aristocracy2>> drf [[file:adjs.all.org::aristocratic1]]
 hyper: [[upper_class]]
 g: the most powerful members of a society
 
@@ -2354,11 +2354,11 @@ hyper: [[elite]]
 g: the best people or things in a group; "the cream of England's young men were killed in the Great War"
 
 w: <<chosen>>
-w: <<elect>> drf [[file:adj.all.org::elect]] drf [[file:verb.social.org::elect]]
+w: <<elect>> drf [[file:adjs.all.org::elect]] drf [[file:verb.social.org::elect]]
 hyper: [[elite]]
 g: an exclusive group of people; "one of the elect who have power inside the government"
 
-w: <<elite>> drf [[file:adj.all.org::elite]]
+w: <<elite>> drf [[file:adjs.all.org::elite]]
 w: <<elite_group>>
 hyper: [[upper_class]]
 g: a group or class of persons enjoying superior intellectual or social or economic status
@@ -2677,7 +2677,7 @@ w: <<combination4>>
 hyper: [[sequence]]
 g: a coordinated sequence of chess moves
 
-w: <<combination2>> drf [[file:adj.all.org::combinatorial]]
+w: <<combination2>> drf [[file:adjs.all.org::combinatorial]]
 hyper: [[sequence]]
 g: a sequence of numbers or letters that opens a combination lock; "he forgot the combination to the safe"
 
@@ -2799,7 +2799,7 @@ hyper: [[Bolshevism]]
 g: a moderate evolutionary form of Marxism
 
 w: <<Bolshevism>> drf [[file:adj.pert.org::Bolshevistic]] drf [[file:noun.person.org::Bolshevist]]
-w: <<collectivism>> drf [[file:adj.all.org::collectivistic]] drf [[file:noun.person.org::collectivist]]
+w: <<collectivism>> drf [[file:adjs.all.org::collectivistic]] drf [[file:noun.person.org::collectivist]]
 w: <<sovietism>>
 hyper: [[communism]]
 g: Soviet communism
@@ -2902,7 +2902,7 @@ w: <<parliamentary_monarchy>>
 hyper: [[monarchy]]
 g: a monarchy having a parliament
 
-w: <<monarchy>> drf [[file:adj.all.org::monarchal]] drf [[file:adj.all.org::monarchic]] drf [[file:adj.all.org::monarchical]]
+w: <<monarchy>> drf [[file:adjs.all.org::monarchal]] drf [[file:adjs.all.org::monarchic]] drf [[file:adjs.all.org::monarchical]]
 hyper: [[autocracy]]
 g: an autocracy governed by a monarch who usually inherits the authority
 
@@ -2976,7 +2976,7 @@ w: <<Maquis>>
 hyper: [[underground]]
 g: the French underground that fought against the German occupation in World War II
 
-w: <<underground>> drf [[file:adj.all.org::underground]]
+w: <<underground>> drf [[file:adjs.all.org::underground]]
 w: <<resistance>>
 hyper: [[revolutionary_group]]
 g: a secret group organized to overthrow a government or occupation force
@@ -3720,7 +3720,7 @@ w: <<judicature1>>
 hyper: [[assembly]]
 g: an assembly (including one or more judges) to conduct judicial business
 
-w: <<court2>> drf [[file:adj.all.org::courtly]]
+w: <<court2>> drf [[file:adjs.all.org::courtly]]
 w: <<royal_court2>>
 hyper: [[cortege]]
 g: the family and retinue of a sovereign or prince
@@ -4182,7 +4182,7 @@ w: <<psychotherapy_group>>
 hyper: [[meeting]]
 g: a meeting of people for psychotherapeutic purposes
 
-w: <<plenum>> drf [[file:adj.all.org::plenary]]
+w: <<plenum>> drf [[file:adjs.all.org::plenary]]
 hyper: [[meeting]]
 g: a meeting of a legislative body at which all members are present; "the plenum will vote on all tax increases"
 
@@ -4593,7 +4593,7 @@ hyper: [[cult]]
 dt: [[file:noun.location.org::Jamaica]]
 g: (Jamaica) a Black youth subculture and religious movement that arose in the ghettos of Kingston, Jamaica, in the 1950s; males grow hair in long dreadlocks and wear woolen caps; use marijuana and listen to reggae music
 
-w: <<psychedelia>> drf [[file:adj.all.org::psychedelic]]
+w: <<psychedelia>> drf [[file:adjs.all.org::psychedelic]]
 hyper: [[subculture]]
 g: the subculture of users of psychedelic drugs
 
@@ -4999,7 +4999,7 @@ w: <<educational_institution>>
 hyper: [[institution]]
 g: an institution dedicated to education
 
-w: <<pointillism>> drf [[file:adj.all.org::pointillistic]]
+w: <<pointillism>> drf [[file:adjs.all.org::pointillistic]]
 hyper: [[school2]]
 hyper: [[artistic_movement]]
 g: a school of painters who used a technique of painting with tiny dots of pure colors that would blend in the viewer's eye; developed by Georges Seurat and his followers late in 19th century France
@@ -5096,7 +5096,7 @@ hyper: [[unit]]
 hm: [[ship's_company]]
 g: the men and women who man a vehicle (ship, aircraft, etc.)
 
-w: <<combination1>> drf [[file:adj.all.org::combinatorial]] drf [[file:verb.social.org::combine]] drf [[file:verb.contact.org::combine3]]
+w: <<combination1>> drf [[file:adjs.all.org::combinatorial]] drf [[file:verb.social.org::combine]] drf [[file:verb.contact.org::combine3]]
 hyper: [[unit]]
 g: a group of people (often temporary) having a common purpose; "they were a winning combination"
 
@@ -5168,7 +5168,7 @@ hyper: [[collection]]
 dt: [[file:noun.cognition.org::astronomy]]
 g: (astronomy) a hypothetical huge collection of comets orbiting the sun far beyond the orbit of Pluto; perturbations (as by other stars) can upset a comet's orbit and may send it tumbling toward the sun
 
-w: <<diagonal>> drf [[file:adj.all.org::diagonal]]
+w: <<diagonal>> drf [[file:adjs.all.org::diagonal]]
 hyper: [[line1]]
 hyper: [[line3]]
 hp: [[file:noun.artifact.org::checkerboard]]
@@ -5224,7 +5224,7 @@ w: <<principal_diagonal>>
 hyper: [[diagonal]]
 g: the diagonal of a square matrix running from the upper left entry to the lower right entry
 
-w: <<diagonal1>> drf [[file:adj.all.org::diagonal]] drf [[file:verb.change.org::diagonalize]] drf [[file:verb.change.org::diagonalise]]
+w: <<diagonal1>> drf [[file:adjs.all.org::diagonal]] drf [[file:verb.change.org::diagonalize]] drf [[file:verb.change.org::diagonalise]]
 hyper: [[set2]]
 hp: [[square_matrix]]
 dt: [[file:noun.cognition.org::mathematics]]
@@ -5493,7 +5493,7 @@ hyper: [[social_gathering]]
 g: a social gathering where a light evening meal is served; "her suppers often included celebrities"
 
 w: <<sociable>> drf [[file:adj.all.org::sociable]]
-w: <<social>> drf [[file:adj.all.org::social]] drf [[file:adj.all.org::social]]
+w: <<social>> drf [[file:adjs.all.org::social]] drf [[file:adjs.all.org::social]]
 w: <<mixer>>
 hyper: [[party]]
 g: a party of people assembled to promote sociability and communal activity
@@ -5619,7 +5619,7 @@ w: <<splinter_group>>
 hyper: [[faction]]
 g: a faction or sect that has broken away from its parent organization
 
-w: <<faction>> drf [[file:adj.all.org::factious]]
+w: <<faction>> drf [[file:adjs.all.org::factious]]
 w: <<sect>>
 hyper: [[clique]]
 g: a dissenting clique
@@ -5947,7 +5947,7 @@ w: <<brain_trust>>
 hyper: [[clique]]
 g: an inner circle of unofficial advisors to the head of a government
 
-w: <<bohemia>> drf [[file:adj.all.org::bohemian]]
+w: <<bohemia>> drf [[file:adjs.all.org::bohemian]]
 hyper: [[clique]]
 g: a group of artists and writers with real or pretended artistic or intellectual aspirations and usually an unconventional life style
 
@@ -6330,7 +6330,7 @@ w: <<fellowship>> drf [[file:noun.person.org::fellow3]]
 hyper: [[association]]
 g: an association of people who share common beliefs or activities; "the message was addressed not just to employees but to every member of the company family"; "the church welcomed new members into its fellowship"
 
-w: <<club>> drf [[file:adj.all.org::clubby]] drf [[file:verb.social.org::club10]] drf [[file:verb.social.org::club3]]
+w: <<club>> drf [[file:adjs.all.org::clubby]] drf [[file:verb.social.org::club10]] drf [[file:verb.social.org::club3]]
 w: <<social_club>>
 w: <<society1>>
 w: <<guild>>
@@ -6424,7 +6424,7 @@ w: <<house4>>
 hyper: [[community]]
 g: the members of a religious community living together
 
-w: <<convent>> drf [[file:adj.all.org::conventual]]
+w: <<convent>> drf [[file:adjs.all.org::conventual]]
 hyper: [[community]]
 hp: [[sect1]]
 g: a community of people in a religious order (especially nuns) living together
@@ -6592,7 +6592,7 @@ hyper: [[gang]]
 hp: [[work_force]]
 g: a crew of workers who work for a specific period of time
 
-w: <<complement>> drf [[file:adj.all.org::complemental]]
+w: <<complement>> drf [[file:adjs.all.org::complemental]]
 w: <<full_complement>>
 hyper: [[work_force]]
 g: number needed to make up a whole force; "a full complement of workers"
@@ -6933,7 +6933,7 @@ hyper: [[military]]
 dt: [[military]]
 g: armed forces that are not on active duty but can be called in an emergency
 
-w: <<military>> drf [[file:adj.all.org::militaristic]] drf [[file:verb.competition.org::militarize]] drf [[file:verb.competition.org::militarise]]
+w: <<military>> drf [[file:adjs.all.org::militaristic]] drf [[file:verb.competition.org::militarize]] drf [[file:verb.competition.org::militarise]]
 w: <<armed_forces>>
 w: <<armed_services>>
 w: <<military_machine>>
@@ -7304,7 +7304,7 @@ hyper: [[company1]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: a company that is organized to give its owners limited liability
 
-w: <<attendance>> drf [[file:adj.all.org::attendant]]
+w: <<attendance>> drf [[file:adjs.all.org::attendant]]
 hyper: [[company]]
 g: the number of people that are present; "attendance was up by 50 per cent"
 
@@ -7405,7 +7405,7 @@ hyper: [[middle_class]]
 g: lower middle class (shopkeepers and clerical staff etc.)
 
 w: <<commonalty>>
-w: <<commonality>> drf [[file:adj.all.org::common]] drf [[file:adj.all.org::common]]
+w: <<commonality>> drf [[file:adjs.all.org::common]] drf [[file:adjs.all.org::common]]
 w: <<commons>>
 hyper: [[class1]]
 g: a class composed of persons lacking clerical or noble rank
@@ -7445,7 +7445,7 @@ g: the source of trained people from which workers can be hired
 w: <<labor>>
 w: <<labour>>
 w: <<working_class>>
-w: <<proletariat>> drf [[file:adj.all.org::proletarian]]
+w: <<proletariat>> drf [[file:adjs.all.org::proletarian]]
 hyper: [[class1]]
 g: a social class comprising those who do manual labor or work for wages; "there is a shortage of skilled labor in this field"
 
@@ -8131,7 +8131,7 @@ w: <<pantheon>>
 hyper: [[collection]]
 g: all the gods of a religion
 
-w: <<laity>> drf [[file:adj.all.org::lay]] ant [[clergy]]
+w: <<laity>> drf [[file:adjs.all.org::lay]] ant [[clergy]]
 w: <<temporalty>>
 hyper: [[multitude1]]
 g: in Christianity, members of a religious community that do not have the priestly responsibilities of ordained clergy
@@ -9138,7 +9138,7 @@ dt: [[file:noun.cognition.org::biology]]
 g: (biology) the taxonomic group whose characteristics are used to define the next higher taxon
 
 w: <<form2>>
-w: <<variant>> drf [[file:adj.all.org::variant]]
+w: <<variant>> drf [[file:adjs.all.org::variant]]
 w: <<strain1>>
 w: <<var.>>
 hyper: [[taxonomic_group]]
@@ -9760,7 +9760,7 @@ w: <<Christianity2>> drf [[file:adj.pert.org::Christian]]
 hyper: [[body]]
 g: the collective body of Christians throughout the world and history (found predominantly in Europe and the Americas and Australia); "for a thousand years the Roman Catholic Church was the principal church of Christendom"
 
-w: <<religion>> drf [[file:adj.all.org::religious]] drf [[file:noun.person.org::religionist]]
+w: <<religion>> drf [[file:adjs.all.org::religious]] drf [[file:noun.person.org::religionist]]
 w: <<faith>>
 w: <<organized_religion>>
 hyper: [[institution]]
@@ -10402,7 +10402,7 @@ w: <<large_cap>>
 hyper: [[corporation]]
 g: a corporation with a large capitalization; "he works for a large cap"
 
-w: <<conglomerate>> drf [[file:adj.all.org::conglomerate]]
+w: <<conglomerate>> drf [[file:adjs.all.org::conglomerate]]
 w: <<empire2>>
 hyper: [[corporation]]
 g: a group of diverse companies under common ownership and run as a single organization
@@ -10447,7 +10447,7 @@ w: <<collective>> drf [[file:verb.social.org::collectivize]] drf [[file:verb.soc
 hyper: [[enterprise]]
 g: members of a cooperative enterprise
 
-w: <<giant>> drf [[file:adj.all.org::gigantic1]]
+w: <<giant>> drf [[file:adjs.all.org::gigantic1]]
 hyper: [[enterprise]]
 g: an unusually large enterprise; "Walton built a retail giant"
 
@@ -10562,7 +10562,7 @@ w: <<Court_of_Saint_James's>>
 hyper: [[court1]]
 g: the British royal court
 
-w: <<court1>> drf [[file:adj.all.org::courtly]]
+w: <<court1>> drf [[file:adjs.all.org::courtly]]
 w: <<royal_court1>>
 hyper: [[government]]
 g: the sovereign and his advisers who are the governing power of a state
@@ -11674,7 +11674,7 @@ hyper: [[company1]]
 g: a company providing transportation
 
 w: <<subsidiary_company>>
-w: <<subsidiary>> drf [[file:adj.all.org::subsidiary]]
+w: <<subsidiary>> drf [[file:adjs.all.org::subsidiary]]
 hyper: [[company1]]
 g: a company that is completely controlled by another company
 
@@ -12227,7 +12227,7 @@ w: <<classical_mythology>>
 hyper: [[mythology]]
 g: the system of mythology of the Greeks and Romans together; much of Roman mythology (especially the gods) was borrowed from the Greeks
 
-w: <<mythology>> drf [[file:adj.all.org::mythologic]] drf [[file:adj.all.org::mythological]] drf [[file:noun.person.org::mythologist]] drf [[file:verb.change.org::mythologize]]
+w: <<mythology>> drf [[file:adjs.all.org::mythologic]] drf [[file:adjs.all.org::mythological]] drf [[file:noun.person.org::mythologist]] drf [[file:verb.change.org::mythologize]]
 hyper: [[collection]]
 g: myths collectively; the body of stories associated with a culture or institution or person
 
@@ -12355,7 +12355,7 @@ w: <<matriarchate>>
 hyper: [[social_organization]]
 g: a form of social organization in which a female is the family head and title is traced through the female line
 
-w: <<patriarchy>> drf [[file:adj.all.org::patriarchic]] drf [[file:adj.all.org::patriarchal]]
+w: <<patriarchy>> drf [[file:adjs.all.org::patriarchic]] drf [[file:adj.all.org::patriarchal]]
 w: <<patriarchate>>
 hyper: [[social_organization]]
 g: a form of social organization in which a male is the family head and title is traced through the male line
@@ -12416,10 +12416,10 @@ hyper: [[kin]]
 dt: [[file:noun.communication.org::Yiddish]]
 g: (Yiddish) the entire family network of relatives by blood or marriage (and sometimes close friends); "she invited the whole mishpocha"
 
-w: <<kin>> drf [[file:adj.all.org::kin]] drf [[file:noun.relation.org::kinship]]
+w: <<kin>> drf [[file:adjs.all.org::kin]] drf [[file:noun.relation.org::kinship]]
 w: <<kin_group>>
 w: <<kinship_group>>
-w: <<kindred>> drf [[file:adj.all.org::kindred]]
+w: <<kindred>> drf [[file:adjs.all.org::kindred]]
 w: <<clan>>
 w: <<tribe2>> drf [[file:adj.pert.org::tribal]]
 hyper: [[social_group]]
@@ -12515,7 +12515,7 @@ dt: [[law]]
 dr: [[file:noun.location.org::United_States]]
 g: (law) any monopoly or contract or combination or conspiracy intended to restrain commerce (which are illegal according to antitrust laws of the United States)
 
-w: <<combination3>> drf [[file:adj.all.org::combinatorial]] drf [[file:verb.social.org::combine]] drf [[file:verb.contact.org::combine3]]
+w: <<combination3>> drf [[file:adjs.all.org::combinatorial]] drf [[file:verb.social.org::combine]] drf [[file:verb.contact.org::combine3]]
 hyper: [[alliance]]
 dt: [[file:noun.cognition.org::politics]]
 g: an alliance of people or corporations or countries for a special purpose (formerly to achieve some antisocial end but now for general political or economic purposes)
@@ -12599,9 +12599,9 @@ g: a heap of manure and vegetation and other organic residues that are decaying 
 w: <<pile>> drf [[file:verb.contact.org::pile3]] drf [[file:verb.motion.org::pile]] drf [[file:verb.contact.org::pile]]
 w: <<heap>> drf [[file:verb.contact.org::heap]]
 w: <<mound>>
-w: <<agglomerate>> drf [[file:adj.all.org::agglomerate]] drf [[file:verb.contact.org::agglomerate]]
+w: <<agglomerate>> drf [[file:adjs.all.org::agglomerate]] drf [[file:verb.contact.org::agglomerate]]
 w: <<cumulation>> drf [[file:verb.change.org::cumulate]]
-w: <<cumulus>> drf [[file:adj.all.org::cumulous]] drf [[file:verb.change.org::cumulate]]
+w: <<cumulus>> drf [[file:adjs.all.org::cumulous]] drf [[file:verb.change.org::cumulate]]
 hyper: [[collection]]
 g: a collection of objects laid on top of each other
 
@@ -12617,9 +12617,9 @@ g: a lump of slimy stuff; "a gob of phlegm"
 w: <<ball1>>
 w: <<clod>>
 w: <<glob>>
-w: <<lump>> drf [[file:adj.all.org::lumpy]]
+w: <<lump>> drf [[file:adjs.all.org::lumpy]]
 w: <<clump1>>
-w: <<chunk>> drf [[file:adj.all.org::chunky]] drf [[file:verb.cognition.org::chunk13]]
+w: <<chunk>> drf [[file:adjs.all.org::chunky]] drf [[file:verb.cognition.org::chunk13]]
 hyper: [[agglomeration]]
 g: a compact mass; "a ball of mud caught him on the shoulder"
 
@@ -12645,7 +12645,7 @@ w: <<knot>>
 hyper: [[bunch]]
 g: a tight cluster of people or things; "a small knot of women listened to his sermon"; "the bird had a knot of feathers forming a crest"
 
-w: <<bunch>> drf [[file:adj.all.org::bunchy]] drf [[file:verb.motion.org::bunch]] drf [[file:verb.contact.org::bunch]]
+w: <<bunch>> drf [[file:adjs.all.org::bunchy]] drf [[file:verb.motion.org::bunch]] drf [[file:verb.contact.org::bunch]]
 w: <<clump>> drf [[file:verb.motion.org::clump1]] drf [[file:verb.contact.org::clump]]
 w: <<cluster>> drf [[file:verb.motion.org::cluster]] drf [[file:verb.contact.org::cluster]]
 w: <<clustering>> drf [[file:verb.motion.org::cluster]] drf [[file:verb.contact.org::cluster]]
@@ -12669,7 +12669,7 @@ hyper: [[collection]]
 g: a jumbled collection or mass
 
 w: <<sum>> drf [[file:verb.communication.org::sum]] drf [[file:verb.social.org::summate]] drf [[file:verb.communication.org::summate]]
-w: <<summation>> drf [[file:adj.all.org::summational]]
+w: <<summation>> drf [[file:adjs.all.org::summational]]
 w: <<sum_total>>
 hyper: [[collection]]
 g: the final aggregate; "the sum of all our troubles did not equal the misery they suffered"
@@ -12868,7 +12868,7 @@ w: <<slain>>
 hyper: [[dead]]
 g: people who have been slain (as in battle)
 
-w: <<sick>> drf [[file:adj.all.org::sick]] drf [[file:adj.all.org::sick1]] drf [[file:verb.body.org::sick]]
+w: <<sick>> drf [[file:adjs.all.org::sick]] drf [[file:adj.all.org::sick1]] drf [[file:verb.body.org::sick]]
 hyper: [[people]]
 g: people who are sick; "they devote their lives to caring for the sick"
 
@@ -12898,20 +12898,20 @@ w: <<developmentally_challenged>>
 hyper: [[people]]
 g: people collectively who are mentally retarded; "he started a school for the retarded"
 
-w: <<uninitiate>> drf [[file:adj.all.org::uninitiate]] ant [[initiate]]
+w: <<uninitiate>> drf [[file:adjs.all.org::uninitiate]] ant [[initiate]]
 hyper: [[people]]
 g: people who have not been introduced to the mysteries of some field or activity; "it diverts the attention of the uninitiate"
 
 w: <<initiate>> drf [[file:verb.social.org::initiate1]] ant [[uninitiate]]
-w: <<enlightened>> drf [[file:adj.all.org::enlightened]]
+w: <<enlightened>> drf [[file:adjs.all.org::enlightened]]
 hyper: [[people]]
 g: people who have been introduced to the mysteries of some field or activity; "it is very familiar to the initiate"
 
-w: <<homeless>> drf [[file:adj.all.org::homeless]]
+w: <<homeless>> drf [[file:adjs.all.org::homeless]]
 hyper: [[poor_people]]
 g: poor people who unfortunately do not have a home to live in; "the homeless became a problem in the large cities"
 
-w: <<homebound>> drf [[file:adj.all.org::homebound]]
+w: <<homebound>> drf [[file:adjs.all.org::homebound]]
 hyper: [[people]]
 g: people who are confined to their homes
 
@@ -12934,7 +12934,7 @@ hyper: [[folk]]
 g: people of good family and breeding and high social status
 
 w: <<folk>>
-w: <<folks1>> drf [[file:adj.all.org::folksy]]
+w: <<folks1>> drf [[file:adjs.all.org::folksy]]
 w: <<common_people>>
 hyper: [[people]]
 g: people in general (often used in the plural); "they're just country folk"; "folks around here drink moonshine"; "the common people determine the group character and preserve its customs from one generation to the next"
@@ -12955,7 +12955,7 @@ w: <<enemy1>>
 hyper: [[people]]
 g: any hostile group of people; "he viewed lawyers as the real enemy"
 
-w: <<doomed>> drf [[file:adj.all.org::doomed]]
+w: <<doomed>> drf [[file:adjs.all.org::doomed]]
 w: <<lost>>
 hyper: [[people]]
 g: people who are destined to die soon; "the agony of the doomed was in his voice"
@@ -12965,13 +12965,13 @@ hyper: [[disabled]]
 du: [[file:noun.communication.org::archaism]]
 g: (archaic) lame persons collectively; "the poor, and the maimed, and the halt, and the blind"--Luke 14:21
 
-w: <<disabled>> drf [[file:adj.all.org::disabled]]
+w: <<disabled>> drf [[file:adjs.all.org::disabled]]
 w: <<handicapped>>
 hyper: [[people]]
 g: people collectively who are crippled or otherwise physically handicapped; "technology to help the elderly and the disabled"
 
 w: <<defeated>>
-w: <<discomfited>> drf [[file:adj.all.org::discomfited]]
+w: <<discomfited>> drf [[file:adjs.all.org::discomfited]]
 hyper: [[people]]
 g: people who are defeated; "the Romans had no pity for the defeated"
 
@@ -12987,7 +12987,7 @@ w: <<dead>> ant [[living]]
 hyper: [[people]]
 g: people who are no longer living; "they buried the dead"
 
-w: <<damned>> drf [[file:adj.all.org::damned]]
+w: <<damned>> drf [[file:adjs.all.org::damned]]
 hyper: [[people]]
 g: people who are condemned to eternal punishment; "he felt he had visited the realm of the damned"
 
@@ -13033,7 +13033,7 @@ w: <<youth>>
 hyper: [[age_group]]
 g: young people collectively; "rock music appeals to the young"; "youth everywhere rises in revolt"
 
-w: <<aged>> drf [[file:adj.all.org::aged1]] ant [[young]]
+w: <<aged>> drf [[file:adjs.all.org::aged1]] ant [[young]]
 w: <<elderly>>
 hyper: [[age_group]]
 g: people who are old collectively; "special arrangements were available for the aged"
@@ -13109,8 +13109,8 @@ w: <<trichotomy>>
 hyper: [[classification]]
 g: being threefold; a classification into three parts or subclasses
 
-w: <<dichotomy>> drf [[file:adj.all.org::dichotomous]] drf [[file:verb.cognition.org::dichotomize]]
-w: <<duality>> drf [[file:adj.all.org::dual]]
+w: <<dichotomy>> drf [[file:adjs.all.org::dichotomous]] drf [[file:verb.cognition.org::dichotomize]]
+w: <<duality>> drf [[file:adjs.all.org::dual]]
 hyper: [[classification]]
 g: being twofold; a classification into two opposed parts or subclasses; "the dichotomy between eastern and western culture"
 
@@ -13124,7 +13124,7 @@ w: <<array>> drf [[file:verb.contact.org::array]]
 hyper: [[arrangement]]
 g: an orderly arrangement; "an array of troops in battle order"
 
-w: <<straggle>> drf [[file:adj.all.org::straggly]] drf [[file:verb.motion.org::straggle1]] drf [[file:verb.motion.org::straggle]]
+w: <<straggle>> drf [[file:adjs.all.org::straggly]] drf [[file:verb.motion.org::straggle1]] drf [[file:verb.motion.org::straggle]]
 hyper: [[file:noun.Tops.org::group]]
 g: a wandering or disorderly grouping (of things or persons); "a straggle of outbuildings"; "a straggle of followers"
 

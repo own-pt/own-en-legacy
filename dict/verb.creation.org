@@ -62,7 +62,7 @@ hyper: [[create_by_mental_act]]
 fr: 8
 g: create by organizing and linking ideas, arguments, or concepts; "construct a proof"; "construct an argument"
 
-w: <<facilitate3>> event [[file:noun.phenomenon.org::facilitation]] drf [[file:adj.all.org::facilitatory]] drf [[file:noun.phenomenon.org::facilitation]]
+w: <<facilitate3>> event [[file:noun.phenomenon.org::facilitation]] drf [[file:adjs.all.org::facilitatory]] drf [[file:noun.phenomenon.org::facilitation]]
 hyper: [[cause]]
 dt: [[file:noun.attribute.org::physiology]]
 fr: 11
@@ -193,7 +193,7 @@ hyper: [[make]]
 fr: 8 11
 g: create by pressing; "Press little holes into the soft clay"
 
-w: <<create2>> result [[file:noun.artifact.org::creation]] event [[file:noun.event.org::creation]] event [[file:noun.act.org::Creation2]] event [[file:noun.act.org::creation1]] event [[file:noun.act.org::creation]] drf [[file:adj.all.org::creative]] drf [[file:noun.event.org::creation]] drf [[file:noun.artifact.org::creation]] drf [[file:noun.act.org::Creation2]] drf [[file:noun.act.org::creation1]] drf [[file:noun.act.org::creation]]
+w: <<create2>> result [[file:noun.artifact.org::creation]] event [[file:noun.event.org::creation]] event [[file:noun.act.org::Creation2]] event [[file:noun.act.org::creation1]] event [[file:noun.act.org::creation]] drf [[file:adjs.all.org::creative]] drf [[file:noun.event.org::creation]] drf [[file:noun.artifact.org::creation]] drf [[file:noun.act.org::Creation2]] drf [[file:noun.act.org::creation1]] drf [[file:noun.act.org::creation]]
 fr: 8 11
 g: bring into existence; "The company was created 25 years ago"; "He created a new movement in painting"
 
@@ -776,7 +776,7 @@ g: reproduce or make an exact copy of; "replicate the cell"; "copy the genetic i
 w: <<duplicate>>
 w: <<reduplicate>>
 w: <<double>> result [[file:noun.cognition.org::double]] drf [[file:noun.cognition.org::double]]
-w: <<repeat>> event [[file:noun.act.org::repetition]] event [[file:noun.event.org::repeat]] agent [[file:noun.person.org::repeater1]] agent [[file:noun.person.org::repeater]] drf [[file:adj.all.org::repetitive]] drf [[file:noun.event.org::repeat]] drf [[file:noun.act.org::repetition]] drf [[file:noun.person.org::repeater1]] drf [[file:noun.person.org::repeater]] drf [[file:noun.act.org::repeating]]
+w: <<repeat>> event [[file:noun.act.org::repetition]] event [[file:noun.event.org::repeat]] agent [[file:noun.person.org::repeater1]] agent [[file:noun.person.org::repeater]] drf [[file:adjs.all.org::repetitive]] drf [[file:noun.event.org::repeat]] drf [[file:noun.act.org::repetition]] drf [[file:noun.person.org::repeater1]] drf [[file:noun.person.org::repeater]] drf [[file:noun.act.org::repeating]]
 w: <<replicate>> event [[file:noun.act.org::replication1]] drf [[file:noun.act.org::replication1]] drf [[file:noun.artifact.org::replica]]
 hyper: [[reproduce]]
 fr: 8
@@ -856,7 +856,7 @@ dt: [[file:noun.act.org::music]]
 fr: 2
 g: play a percussion instrument
 
-w: <<interpret>> uses [[file:noun.cognition.org::interpretation]] event [[file:noun.act.org::interpretation2]] agent [[file:noun.person.org::interpreter2]] drf [[file:adj.all.org::interpretive]] drf [[file:adj.all.org::interpretative]] drf [[file:noun.cognition.org::interpretation]] drf [[file:noun.act.org::interpretation2]] drf [[file:noun.person.org::interpreter2]]
+w: <<interpret>> uses [[file:noun.cognition.org::interpretation]] event [[file:noun.act.org::interpretation2]] agent [[file:noun.person.org::interpreter2]] drf [[file:adjs.all.org::interpretive]] drf [[file:adjs.all.org::interpretative]] drf [[file:noun.cognition.org::interpretation]] drf [[file:noun.act.org::interpretation2]] drf [[file:noun.person.org::interpreter2]]
 w: <<render3>> event [[file:noun.act.org::rendition1]] drf [[file:noun.act.org::rendition1]] drf [[file:noun.communication.org::rendering1]] drf [[file:noun.act.org::rendering1]]
 hyper: [[perform]]
 dt: [[file:noun.cognition.org::performing_arts]]
@@ -1794,7 +1794,7 @@ hyper: [[file:verb.communication.org::joke]]
 fr: 2
 g: make a play on words; "Japanese like to pun--their language is well suited to punning"
 
-w: <<alliterate>> event [[file:noun.communication.org::alliteration]] agent [[file:noun.person.org::alliterator]] drf [[file:adj.all.org::alliterative]] drf [[file:noun.communication.org::alliteration]] drf [[file:noun.person.org::alliterator]]
+w: <<alliterate>> event [[file:noun.communication.org::alliteration]] agent [[file:noun.person.org::alliterator]] drf [[file:adjs.all.org::alliterative]] drf [[file:noun.communication.org::alliteration]] drf [[file:noun.person.org::alliterator]]
 hyper: [[rhyme]]
 dt: [[file:noun.communication.org::poetry2]]
 fr: 2
@@ -1948,7 +1948,7 @@ fr: 8
 g: construct a model of; "model an airplane"
 
 w: <<model>> event [[file:noun.artifact.org::model]] event [[file:noun.act.org::model]] drf [[file:noun.act.org::model]] drf [[file:noun.artifact.org::model]] drf [[file:noun.act.org::modelling1]] drf [[file:noun.artifact.org::modeling]] drf [[file:noun.act.org::modeling1]]
-w: <<mold2>> result [[file:noun.artifact.org::mold2]] event [[file:noun.shape.org::mold]] drf [[file:adj.all.org::moldable]] drf [[file:noun.artifact.org::mold2]] drf [[file:noun.artifact.org::mold]] drf [[file:noun.shape.org::mold]] drf [[file:noun.act.org::molding1]] drf [[file:noun.act.org::molding]]
+w: <<mold2>> result [[file:noun.artifact.org::mold2]] event [[file:noun.shape.org::mold]] drf [[file:adjs.all.org::moldable]] drf [[file:noun.artifact.org::mold2]] drf [[file:noun.artifact.org::mold]] drf [[file:noun.shape.org::mold]] drf [[file:noun.act.org::molding1]] drf [[file:noun.act.org::molding]]
 w: <<mould2>> result [[file:noun.artifact.org::mould2]] drf [[file:noun.artifact.org::mould2]] drf [[file:noun.act.org::moulding]]
 hyper: [[shape]]
 dt: [[file:noun.act.org::art]]
@@ -2185,7 +2185,7 @@ hyper: [[delineate]]
 fr: 8
 g: form by tracing with lipstick; "The clown had lipsticked circles on his cheeks"
 
-w: <<delineate>> result [[file:noun.artifact.org::delineation]] result [[file:noun.act.org::delineation]] drf [[file:adj.all.org::delineative]] drf [[file:noun.artifact.org::delineation]] drf [[file:noun.act.org::delineation]]
+w: <<delineate>> result [[file:noun.artifact.org::delineation]] result [[file:noun.act.org::delineation]] drf [[file:adjs.all.org::delineative]] drf [[file:noun.artifact.org::delineation]] drf [[file:noun.act.org::delineation]]
 w: <<limn1>>
 w: <<outline1>> result [[file:noun.location.org::outline]] drf [[file:noun.location.org::outline]]
 hyper: [[draw]]
@@ -2211,7 +2211,7 @@ fr: 8 9
 g: write, draw, or trace with a pencil; "he penciled a figure"
 
 w: <<portray>> result [[file:noun.cognition.org::portrayal]] drf [[file:noun.person.org::portraitist]] drf [[file:noun.act.org::portraiture]] drf [[file:noun.cognition.org::portraying]] drf [[file:noun.cognition.org::portrayal]]
-w: <<depict1>> result [[file:noun.cognition.org::depiction]] drf [[file:adj.all.org::depictive]] drf [[file:noun.cognition.org::depiction]] drf [[file:noun.artifact.org::picture1]] drf [[file:noun.cognition.org::depicting]]
+w: <<depict1>> result [[file:noun.cognition.org::depiction]] drf [[file:adjs.all.org::depictive]] drf [[file:noun.cognition.org::depiction]] drf [[file:noun.artifact.org::picture1]] drf [[file:noun.cognition.org::depicting]]
 w: <<limn>> agent [[file:noun.person.org::limner]] drf [[file:noun.person.org::limner]]
 hyper: [[represent1]]
 dt: [[file:noun.act.org::art]]
@@ -2238,14 +2238,14 @@ dt: [[file:noun.act.org::art]]
 fr: 8
 g: represent according to a conventional style; "a stylized female head"
 
-w: <<illustrate>> uses [[file:noun.communication.org::illustration]] uses [[file:noun.artifact.org::illustration]] drf [[file:adj.all.org::illustrative]] drf [[file:noun.communication.org::illustration]] drf [[file:noun.artifact.org::illustration]]
+w: <<illustrate>> uses [[file:noun.communication.org::illustration]] uses [[file:noun.artifact.org::illustration]] drf [[file:adjs.all.org::illustrative]] drf [[file:noun.communication.org::illustration]] drf [[file:noun.artifact.org::illustration]]
 hyper: [[picture]]
 dt: [[file:noun.act.org::art]]
 fr: 8
 g: depict with an illustration
 
 w: <<picture>> by-means-of [[file:noun.communication.org::picture]] by-means-of [[file:noun.artifact.org::picture1]] by-means-of [[file:noun.artifact.org::picture]] drf [[file:noun.communication.org::picture]] drf [[file:noun.artifact.org::picture1]] drf [[file:noun.artifact.org::picture]] drf [[file:noun.act.org::picturing]]
-w: <<depict>> result [[file:noun.act.org::depiction]] drf [[file:adj.all.org::depictive]] drf [[file:noun.act.org::depiction]] drf [[file:noun.communication.org::picture]] drf [[file:noun.artifact.org::picture]] drf [[file:noun.cognition.org::depicting]]
+w: <<depict>> result [[file:noun.act.org::depiction]] drf [[file:adjs.all.org::depictive]] drf [[file:noun.act.org::depiction]] drf [[file:noun.communication.org::picture]] drf [[file:noun.artifact.org::picture]] drf [[file:noun.cognition.org::depicting]]
 w: <<render4>>
 w: <<show>>
 hyper: [[represent1]]
@@ -2289,7 +2289,7 @@ dt: [[file:noun.cognition.org::architecture]]
 fr: 2
 g: be engaged in building; "These architects build in interesting and new styles"
 
-w: <<create1>> event [[file:noun.act.org::creation]] agent [[file:noun.person.org::creator]] drf [[file:adj.all.org::creative]] drf [[file:adj.all.org::creative]] drf [[file:noun.act.org::creation]] drf [[file:noun.person.org::creator]]
+w: <<create1>> event [[file:noun.act.org::creation]] agent [[file:noun.person.org::creator]] drf [[file:adjs.all.org::creative]] drf [[file:adj.all.org::creative]] drf [[file:noun.act.org::creation]] drf [[file:noun.person.org::creator]]
 hyper: [[file:verb.social.org::act]]
 fr: 2
 g: pursue a creative activity; be engaged in a creative activity; "Don't disturb him--he is creating"
@@ -2575,7 +2575,7 @@ hyper: [[decorate]]
 fr: 2
 g: adorn unnecessarily (something that is already beautiful)
 
-w: <<decorate>> event [[file:noun.act.org::decoration]] by-means-of [[file:noun.artifact.org::decoration]] by-means-of [[file:noun.artifact.org::decor]] agent [[file:noun.person.org::decorator]] drf [[file:adj.all.org::decorative]] drf [[file:noun.artifact.org::decor]] drf [[file:noun.artifact.org::decoration]] drf [[file:noun.act.org::decoration]] drf [[file:noun.person.org::decorator]]
+w: <<decorate>> event [[file:noun.act.org::decoration]] by-means-of [[file:noun.artifact.org::decoration]] by-means-of [[file:noun.artifact.org::decor]] agent [[file:noun.person.org::decorator]] drf [[file:adjs.all.org::decorative]] drf [[file:noun.artifact.org::decor]] drf [[file:noun.artifact.org::decoration]] drf [[file:noun.act.org::decoration]] drf [[file:noun.person.org::decorator]]
 w: <<adorn>> event [[file:noun.act.org::adornment]] drf [[file:noun.act.org::adornment]]
 w: <<grace>> result [[file:noun.attribute.org::grace1]] drf [[file:noun.attribute.org::grace1]]
 w: <<ornament>> event [[file:noun.act.org::ornamentation]] by-means-of [[file:noun.artifact.org::ornament]] drf [[file:noun.act.org::ornamentation]] drf [[file:noun.artifact.org::ornament]]
@@ -2851,7 +2851,7 @@ hyper: [[work]]
 fr: 8
 g: roll, press, forge, or shape (metal) while hot
 
-w: <<work>> drf [[file:adj.all.org::workable]]
+w: <<work>> drf [[file:adjs.all.org::workable]]
 w: <<work_on>>
 w: <<process>> event [[file:noun.act.org::process]] drf [[file:noun.act.org::process]]
 vg: [[shape]]
@@ -3049,7 +3049,7 @@ fr: 8
 g: cast again; "The bell cracked and had to be recast"
 
 w: <<cast>> result [[file:noun.artifact.org::cast]] agent [[file:noun.person.org::caster]] drf [[file:noun.artifact.org::cast]] drf [[file:noun.person.org::caster]] drf [[file:noun.artifact.org::casting1]] drf [[file:noun.act.org::casting1]]
-w: <<mold>> result [[file:noun.artifact.org::mold2]] event [[file:noun.shape.org::mold]] by-means-of [[file:noun.artifact.org::mold]] drf [[file:adj.all.org::moldable]] drf [[file:noun.artifact.org::mold2]] drf [[file:noun.artifact.org::mold]] drf [[file:noun.shape.org::mold]] drf [[file:noun.artifact.org::molding2]] drf [[file:noun.act.org::molding1]]
+w: <<mold>> result [[file:noun.artifact.org::mold2]] event [[file:noun.shape.org::mold]] by-means-of [[file:noun.artifact.org::mold]] drf [[file:adjs.all.org::moldable]] drf [[file:noun.artifact.org::mold2]] drf [[file:noun.artifact.org::mold]] drf [[file:noun.shape.org::mold]] drf [[file:noun.artifact.org::molding2]] drf [[file:noun.act.org::molding1]]
 w: <<mould>> result [[file:noun.artifact.org::mould2]] drf [[file:noun.artifact.org::mould2]] drf [[file:noun.artifact.org::moulding2]]
 hyper: [[shape]]
 fr: 8
@@ -3372,7 +3372,7 @@ g: prepare or position for action or operation; "lay a fire"; "lay the foundatio
 
 w: <<organize>> event [[file:noun.act.org::organization2]] event [[file:noun.act.org::organization]] agent [[file:noun.group.org::organization]] drf [[file:noun.group.org::organization]] drf [[file:noun.act.org::organization2]] drf [[file:noun.act.org::organization]]
 w: <<organise>> result [[file:noun.group.org::organisation]] event [[file:noun.act.org::organisation2]] drf [[file:noun.group.org::organisation]] drf [[file:noun.act.org::organisation2]]
-w: <<prepare>> drf [[file:adj.all.org::preparative]]
+w: <<prepare>> drf [[file:adjs.all.org::preparative]]
 w: <<devise1>> agent [[file:noun.person.org::deviser]] drf [[file:noun.person.org::deviser]] drf [[file:noun.act.org::devising]]
 w: <<get_up>>
 w: <<machinate>> result [[file:noun.cognition.org::machination]] drf [[file:noun.cognition.org::machination]]
@@ -3404,13 +3404,13 @@ hyper: [[file:verb.change.org::begin1]]
 fr: 8 11
 g: get off the ground; "Who started this company?"; "We embarked on an exciting enterprise"; "I start my day with a good breakfast"; "We began the new semester"; "The afternoon session begins at 4 PM"; "The blood shed started when the partisans launched a surprise attack"
 
-w: <<impel>> by-means-of [[file:noun.phenomenon.org::impulsion]] drf [[file:adj.all.org::impulsive]] drf [[file:noun.phenomenon.org::impulsion]]
+w: <<impel>> by-means-of [[file:noun.phenomenon.org::impulsion]] drf [[file:adjs.all.org::impulsive]] drf [[file:noun.phenomenon.org::impulsion]]
 w: <<force>> by-means-of [[file:noun.attribute.org::force1]] drf [[file:noun.attribute.org::force1]]
 hyper: [[cause]]
 fr: 24
 g: urge or force (a person) to an action; constrain or motivate
 
-w: <<motivate>> state [[file:noun.motive.org::motivator]] state [[file:noun.state.org::motivation]] event [[file:noun.act.org::motivation]] by-means-of [[file:noun.motive.org::motivator]] by-means-of [[file:noun.Tops.org::motivation]] drf [[file:adj.all.org::motivative]] drf [[file:noun.state.org::motivation]] drf [[file:noun.act.org::motivation]] drf [[file:noun.Tops.org::motivation]] drf [[file:noun.Tops.org::motive]] drf [[file:noun.motive.org::motivator]]
+w: <<motivate>> state [[file:noun.motive.org::motivator]] state [[file:noun.state.org::motivation]] event [[file:noun.act.org::motivation]] by-means-of [[file:noun.motive.org::motivator]] by-means-of [[file:noun.Tops.org::motivation]] drf [[file:adjs.all.org::motivative]] drf [[file:noun.state.org::motivation]] drf [[file:noun.act.org::motivation]] drf [[file:noun.Tops.org::motivation]] drf [[file:noun.Tops.org::motive]] drf [[file:noun.motive.org::motivator]]
 w: <<actuate2>> drf [[file:noun.Tops.org::act]]
 w: <<propel>> event [[file:noun.act.org::propulsion]] drf [[file:noun.act.org::propulsion]]
 w: <<move>>
@@ -3579,7 +3579,7 @@ g: make concrete and real
 
 w: <<realize>> result [[file:noun.act.org::realization2]] event [[file:noun.act.org::realization]] drf [[file:noun.act.org::realization2]] drf [[file:noun.act.org::realization]]
 w: <<realise>> result [[file:noun.act.org::realisation2]] event [[file:noun.act.org::realisation]] drf [[file:noun.act.org::realisation2]] drf [[file:noun.act.org::realisation]]
-w: <<actualize>> event [[file:noun.act.org::actualization]] drf [[file:adj.all.org::actual2]] drf [[file:adj.all.org::actual]] drf [[file:adj.all.org::actual]] drf [[file:noun.act.org::actualization]]
+w: <<actualize>> event [[file:noun.act.org::actualization]] drf [[file:adjs.all.org::actual2]] drf [[file:adjs.all.org::actual]] drf [[file:adj.all.org::actual]] drf [[file:noun.act.org::actualization]]
 w: <<actualise>> event [[file:noun.act.org::actualisation]] drf [[file:noun.act.org::actualisation]]
 w: <<substantiate4>>
 hyper: [[make]]
@@ -3594,7 +3594,7 @@ hyper: [[effect]]
 fr: 8 11
 g: cause to occur rapidly; "the infection precipitated a high fever and allergic reactions"
 
-w: <<precipitate>> event [[file:noun.attribute.org::precipitation]] drf [[file:adj.all.org::precipitant]] drf [[file:noun.attribute.org::precipitation]]
+w: <<precipitate>> event [[file:noun.attribute.org::precipitation]] drf [[file:adjs.all.org::precipitant]] drf [[file:noun.attribute.org::precipitation]]
 hyper: [[effect]]
 fr: 8 11
 g: bring about abruptly; "The crisis precipitated by Russia's revolution"
@@ -3603,7 +3603,7 @@ w: <<bring_on1>>
 fr: 8 11
 g: cause to appear; "bring on the birthday cake"
 
-w: <<induce>> event [[file:noun.act.org::induction]] event [[file:noun.act.org::inducement]] drf [[file:adj.all.org::inducive]] drf [[file:noun.act.org::inducement]] drf [[file:noun.act.org::induction]] drf [[file:noun.act.org::inducing]]
+w: <<induce>> event [[file:noun.act.org::induction]] event [[file:noun.act.org::inducement]] drf [[file:adjs.all.org::inducive]] drf [[file:noun.act.org::inducement]] drf [[file:noun.act.org::induction]] drf [[file:noun.act.org::inducing]]
 w: <<bring_on>>
 hyper: [[generate]]
 fr: 8 11
@@ -3636,7 +3636,7 @@ dt: [[file:noun.act.org::baseball]]
 fr: 8
 g: earn or achieve a base by being walked by the pitcher; "He drew a base on balls"
 
-w: <<effect>> result [[file:noun.cognition.org::effect]] agent [[file:noun.person.org::effecter]] drf [[file:adj.all.org::effective]] drf [[file:adj.all.org::effective]] drf [[file:noun.cognition.org::effect]] drf [[file:noun.person.org::effecter]]
+w: <<effect>> result [[file:noun.cognition.org::effect]] agent [[file:noun.person.org::effecter]] drf [[file:adjs.all.org::effective]] drf [[file:adj.all.org::effective]] drf [[file:noun.cognition.org::effect]] drf [[file:noun.person.org::effecter]]
 w: <<effectuate>> event [[file:noun.act.org::effectuation]] drf [[file:noun.state.org::effect]] drf [[file:noun.phenomenon.org::effect]] drf [[file:noun.act.org::effectuation]]
 w: <<set_up3>>
 cause: [[file:verb.change.org::happen]]
@@ -3655,7 +3655,7 @@ fr: 8
 g: introduce gradually
 
 w: <<introduce>>
-w: <<innovate>> result [[file:noun.artifact.org::innovation]] event [[file:noun.act.org::innovation]] agent [[file:noun.person.org::innovator]] drf [[file:adj.all.org::innovative]] drf [[file:noun.artifact.org::innovation]] drf [[file:noun.act.org::innovation]] drf [[file:noun.person.org::innovator]]
+w: <<innovate>> result [[file:noun.artifact.org::innovation]] event [[file:noun.act.org::innovation]] agent [[file:noun.person.org::innovator]] drf [[file:adjs.all.org::innovative]] drf [[file:noun.artifact.org::innovation]] drf [[file:noun.act.org::innovation]] drf [[file:noun.person.org::innovator]]
 hyper: [[initiate]]
 fr: 8
 g: bring something new to an environment; "A new word processor was introduced"
@@ -3693,7 +3693,7 @@ fr: 8
 g: to bring (a necessary but unpleasant task) to an end; "Let's get this job over with"; "It's a question of getting over an unpleasant task"
 
 w: <<carry_through>>
-w: <<accomplish>> event [[file:noun.act.org::accomplishment]] drf [[file:adj.all.org::accomplishable]] drf [[file:noun.act.org::accomplishment]]
+w: <<accomplish>> event [[file:noun.act.org::accomplishment]] drf [[file:adjs.all.org::accomplishable]] drf [[file:noun.act.org::accomplishment]]
 w: <<execute>> event [[file:noun.act.org::execution3]] drf [[file:adj.pert.org::executive]] drf [[file:noun.act.org::execution3]]
 w: <<carry_out>>
 w: <<action>>
@@ -3711,7 +3711,7 @@ vg: [[design7]]
 fr: 8
 g: create the design for; create or execute in an artistic or highly skilled manner; "Chanel designed the famous suit"
 
-w: <<create13>> event [[file:noun.event.org::creation]] drf [[file:adj.all.org::creative]] drf [[file:adj.all.org::creative]] drf [[file:noun.event.org::creation]]
+w: <<create13>> event [[file:noun.event.org::creation]] drf [[file:adjs.all.org::creative]] drf [[file:adj.all.org::creative]] drf [[file:noun.event.org::creation]]
 w: <<make9>> drf [[file:noun.act.org::making]]
 hyper: [[make]]
 vg: [[produce]]
@@ -3810,7 +3810,7 @@ hyper: [[imagine]]
 fr: 8
 g: portray in the mind; "he is fantasizing the ideal wife"
 
-w: <<imagine>> event [[file:noun.cognition.org::imagination1]] by-means-of [[file:noun.cognition.org::imagination2]] drf [[file:adj.all.org::imaginative]] drf [[file:noun.cognition.org::imagination2]] drf [[file:noun.cognition.org::imagination1]]
+w: <<imagine>> event [[file:noun.cognition.org::imagination1]] by-means-of [[file:noun.cognition.org::imagination2]] drf [[file:adjs.all.org::imaginative]] drf [[file:noun.cognition.org::imagination2]] drf [[file:noun.cognition.org::imagination1]]
 w: <<conceive_of1>>
 w: <<ideate1>> event [[file:noun.cognition.org::ideation]] drf [[file:noun.cognition.org::idea]] drf [[file:noun.cognition.org::ideation]]
 w: <<envisage>>
@@ -3901,7 +3901,7 @@ g: conceive or fashion in the mind; invent; "She designed a good excuse for not 
 
 w: <<gestate3>> event [[file:noun.cognition.org::gestation]] drf [[file:noun.cognition.org::gestation]]
 w: <<conceive>> event [[file:noun.cognition.org::conception3]] agent [[file:noun.person.org::conceiver]] drf [[file:noun.cognition.org::conception3]] drf [[file:noun.cognition.org::concept]] drf [[file:noun.person.org::conceiver]]
-w: <<conceptualize>> event [[file:noun.cognition.org::conceptualization]] event [[file:noun.act.org::conceptualization]] drf [[file:adj.all.org::conceptual]] drf [[file:noun.cognition.org::conceptualization]] drf [[file:noun.act.org::conceptualization]] drf [[file:noun.cognition.org::concept]]
+w: <<conceptualize>> event [[file:noun.cognition.org::conceptualization]] event [[file:noun.act.org::conceptualization]] drf [[file:adjs.all.org::conceptual]] drf [[file:noun.cognition.org::conceptualization]] drf [[file:noun.act.org::conceptualization]] drf [[file:noun.cognition.org::concept]]
 w: <<conceptualise>> event [[file:noun.cognition.org::conceptualisation]] event [[file:noun.act.org::conceptualisation]] drf [[file:noun.cognition.org::conceptualisation]] drf [[file:noun.act.org::conceptualisation]] drf [[file:noun.cognition.org::concept]]
 hyper: [[create_by_mental_act]]
 fr: 8 22
@@ -3921,7 +3921,7 @@ hyper: [[file:verb.motion.org::send1]]
 fr: 8 11
 g: put or send forth; "She threw the flashlight beam into the corner"; "The setting sun threw long shadows"; "cast a spell"; "cast a warm light"
 
-w: <<invent>> event [[file:noun.cognition.org::invention]] event [[file:noun.act.org::invention]] agent [[file:noun.person.org::inventor]] drf [[file:adj.all.org::inventive]] drf [[file:noun.cognition.org::invention]] drf [[file:noun.act.org::invention]] drf [[file:noun.person.org::inventor]]
+w: <<invent>> event [[file:noun.cognition.org::invention]] event [[file:noun.act.org::invention]] agent [[file:noun.person.org::inventor]] drf [[file:adjs.all.org::inventive]] drf [[file:noun.cognition.org::invention]] drf [[file:noun.act.org::invention]] drf [[file:noun.person.org::inventor]]
 w: <<contrive>> event [[file:noun.act.org::contrivance1]] drf [[file:noun.act.org::contrivance1]]
 w: <<devise>> event [[file:noun.act.org::devisal]] agent [[file:noun.person.org::deviser]] drf [[file:noun.person.org::deviser]] drf [[file:noun.act.org::devising]] drf [[file:noun.act.org::devisal]]
 w: <<excogitate>> event [[file:noun.cognition.org::excogitation1]] event [[file:noun.cognition.org::excogitation]] agent [[file:noun.person.org::excogitator]] drf [[file:noun.cognition.org::excogitation1]] drf [[file:noun.cognition.org::excogitation]] drf [[file:noun.person.org::excogitator]]
@@ -3992,7 +3992,7 @@ fr: 8 11
 g: summon into action or bring into existence, often as if by magic; "raise the specter of unemployment"; "he conjured wild birds in the air"; "call down the spirits from the mountain"
 
 w: <<bring>> see [[bring_on]] see [[file:verb.social.org::bring_off]] see [[bring_up]]
-w: <<work1>> drf [[file:adj.all.org::workable]]
+w: <<work1>> drf [[file:adjs.all.org::workable]]
 w: <<play13>>
 w: <<wreak>>
 w: <<make_for>>
@@ -4025,7 +4025,7 @@ fr: 8
 g: apply or start; "set fire to a building"
 
 w: <<originate>> event [[file:noun.act.org::origination]] agent [[file:noun.person.org::originator]] drf [[file:adj.all.org::originative]] drf [[file:noun.event.org::origin]] drf [[file:noun.act.org::origination]] drf [[file:noun.person.org::originator]] see [[file:verb.stative.org::originate_in]]
-w: <<initiate1>> event [[file:noun.act.org::initiation2]] event [[file:noun.act.org::initiation1]] drf [[file:adj.all.org::initiative]] drf [[file:adj.all.org::initiatory]] drf [[file:noun.act.org::initiation2]] drf [[file:noun.act.org::initiation1]]
+w: <<initiate1>> event [[file:noun.act.org::initiation2]] event [[file:noun.act.org::initiation1]] drf [[file:adjs.all.org::initiative]] drf [[file:adjs.all.org::initiatory]] drf [[file:noun.act.org::initiation2]] drf [[file:noun.act.org::initiation1]]
 w: <<start>> event [[file:noun.time.org::start]] event [[file:noun.event.org::start]] event [[file:noun.act.org::start]] drf [[file:noun.act.org::start]] drf [[file:noun.time.org::start]] drf [[file:noun.event.org::start]] drf [[file:noun.person.org::starter1]]
 hyper: [[make]]
 fr: 8 11

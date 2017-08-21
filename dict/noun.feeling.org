@@ -2,7 +2,7 @@ w: <<technophilia>>
 hyper: [[enthusiasm]]
 g: enthusiasm for new technology
 
-w: <<exuberance>> drf [[file:adj.all.org::exuberant]] drf [[file:verb.communication.org::exuberate]]
+w: <<exuberance>> drf [[file:adjs.all.org::exuberant]] drf [[file:verb.communication.org::exuberate]]
 hyper: [[enthusiasm]]
 hyper: [[joy]]
 g: joyful enthusiasm
@@ -10,13 +10,13 @@ g: joyful enthusiasm
 w: <<ardor1>>
 w: <<ardour1>>
 w: <<elan>>
-w: <<zeal1>> drf [[file:adj.all.org::zealous]]
+w: <<zeal1>> drf [[file:adjs.all.org::zealous]]
 hyper: [[eagerness]]
 g: a feeling of strong eagerness (usually in favor of a person or cause); "they were imbued with a revolutionary ardor"; "he felt a kind of religious zeal"
 
 w: <<eagerness>> drf [[file:adj.all.org::eager]]
-w: <<avidity1>> drf [[file:adj.all.org::avid]]
-w: <<avidness>> drf [[file:adj.all.org::avid]]
+w: <<avidity1>> drf [[file:adjs.all.org::avid]]
+w: <<avidness>> drf [[file:adjs.all.org::avid]]
 w: <<keenness>>
 hyper: [[enthusiasm]]
 g: a positive feeling of wanting to push ahead with something
@@ -25,7 +25,7 @@ w: <<enthusiasm>> drf [[file:adj.all.org::enthusiastic]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: a feeling of excitement
 
-w: <<empathy>> drf [[file:adj.all.org::empathetic]] drf [[file:verb.cognition.org::empathize]] drf [[file:verb.cognition.org::empathise]]
+w: <<empathy>> drf [[file:adjs.all.org::empathetic]] drf [[file:verb.cognition.org::empathize]] drf [[file:verb.cognition.org::empathise]]
 hyper: [[sympathy]]
 g: understanding and entering into another's feelings
 
@@ -43,18 +43,18 @@ hyper: [[compassion]]
 g: the feeling that motivates compassion
 
 w: <<tenderness3>> drf [[file:adj.all.org::tender3]]
-w: <<tenderheartedness>> drf [[file:adj.all.org::tenderhearted]] drf [[file:adj.all.org::tenderhearted]]
+w: <<tenderheartedness>> drf [[file:adjs.all.org::tenderhearted]] drf [[file:adjs.all.org::tenderhearted]]
 hyper: [[compassion]]
 g: warm compassionate feelings
 
-w: <<mellowness>> drf [[file:adj.all.org::mellow]]
+w: <<mellowness>> drf [[file:adjs.all.org::mellow]]
 hyper: [[kindheartedness]]
 g: kindheartedness through maturity or old age
 
 w: <<commiseration>> drf [[file:verb.emotion.org::commiserate]]
-w: <<pity>> drf [[file:adj.all.org::piteous]] drf [[file:verb.emotion.org::pity]]
+w: <<pity>> drf [[file:adjs.all.org::piteous]] drf [[file:verb.emotion.org::pity]]
 w: <<ruth>>
-w: <<pathos>> drf [[file:adj.all.org::pathetic]]
+w: <<pathos>> drf [[file:adjs.all.org::pathetic]]
 hyper: [[sympathy]]
 g: a feeling of sympathy and sorrow for the misfortunes of others; "the blind are too often objects of pity"
 
@@ -63,7 +63,7 @@ w: <<compassionateness>> drf [[file:adj.all.org::compassionate]]
 hyper: [[sympathy]]
 g: a deep awareness of and sympathy for another's suffering
 
-w: <<kindheartedness>> drf [[file:adj.all.org::kindhearted]]
+w: <<kindheartedness>> drf [[file:adjs.all.org::kindhearted]]
 w: <<kind-heartedness>>
 hyper: [[sympathy]]
 g: sympathy arising from a kind heart
@@ -77,36 +77,36 @@ w: <<pet>>
 hyper: [[irritability]]
 g: a fit of petulance or sulkiness (especially at what is felt to be a slight)
 
-w: <<testiness>> drf [[file:adj.all.org::testy]]
-w: <<touchiness1>> drf [[file:adj.all.org::touchy]]
-w: <<tetchiness>> drf [[file:adj.all.org::tetchy]]
+w: <<testiness>> drf [[file:adjs.all.org::testy]]
+w: <<touchiness1>> drf [[file:adjs.all.org::touchy]]
+w: <<tetchiness>> drf [[file:adjs.all.org::tetchy]]
 hyper: [[irritability]]
 g: feeling easily irritated
 
-w: <<irritability>> drf [[file:adj.all.org::irritable]]
+w: <<irritability>> drf [[file:adjs.all.org::irritable]]
 w: <<crossness>>
-w: <<fretfulness>> drf [[file:adj.all.org::fretful]]
-w: <<fussiness>> drf [[file:adj.all.org::fussy]]
-w: <<peevishness>> drf [[file:adj.all.org::peevish]]
-w: <<petulance>> drf [[file:adj.all.org::petulant]]
+w: <<fretfulness>> drf [[file:adjs.all.org::fretful]]
+w: <<fussiness>> drf [[file:adjs.all.org::fussy]]
+w: <<peevishness>> drf [[file:adjs.all.org::peevish]]
+w: <<petulance>> drf [[file:adjs.all.org::petulant]]
 w: <<choler2>>
 hyper: [[ill_humor]]
 g: an irritable petulant feeling
 
-w: <<irascibility>> drf [[file:adj.all.org::irascible]] drf [[file:adj.all.org::irascible]]
+w: <<irascibility>> drf [[file:adjs.all.org::irascible]] drf [[file:adjs.all.org::irascible]]
 w: <<short_temper>>
-w: <<spleen>> drf [[file:adj.all.org::splenetic]]
+w: <<spleen>> drf [[file:adjs.all.org::splenetic]]
 w: <<quick_temper>>
 hyper: [[bad_temper]]
 g: a feeling of resentful anger
 
-w: <<moroseness>> drf [[file:adj.all.org::morose]]
-w: <<glumness>> drf [[file:adj.all.org::glum]] drf [[file:adj.all.org::glum]]
-w: <<sullenness>> drf [[file:adj.all.org::sullen]]
+w: <<moroseness>> drf [[file:adjs.all.org::morose]]
+w: <<glumness>> drf [[file:adjs.all.org::glum]] drf [[file:adjs.all.org::glum]]
+w: <<sullenness>> drf [[file:adjs.all.org::sullen]]
 hyper: [[moodiness]]
 g: a gloomy ill-tempered feeling
 
-w: <<moodiness>> drf [[file:adj.all.org::moody]]
+w: <<moodiness>> drf [[file:adjs.all.org::moody]]
 hyper: [[ill_humor]]
 g: a sullen gloomy feeling
 
@@ -116,9 +116,9 @@ w: <<distemper>>
 hyper: [[temper]]
 g: an angry and disagreeable mood
 
-w: <<jollity>> drf [[file:adj.all.org::jolly]]
-w: <<jolliness>> drf [[file:adj.all.org::jolly]]
-w: <<joviality>> drf [[file:adj.all.org::jovial]]
+w: <<jollity>> drf [[file:adjs.all.org::jolly]]
+w: <<jolliness>> drf [[file:adjs.all.org::jolly]]
+w: <<joviality>> drf [[file:adjs.all.org::jovial]]
 hyper: [[good_humor]]
 hyper: [[gaiety]]
 g: feeling jolly and jovial and full of good humor
@@ -126,12 +126,12 @@ g: feeling jolly and jovial and full of good humor
 w: <<good_humor>> ant [[ill_humor]]
 w: <<good_humour>>
 w: <<good_temper>>
-w: <<amiability>> drf [[file:adj.all.org::amiable]] drf [[file:adj.all.org::amiable]]
+w: <<amiability>> drf [[file:adjs.all.org::amiable]] drf [[file:adjs.all.org::amiable]]
 hyper: [[temper]]
 g: a cheerful and agreeable mood
 
-w: <<sulk>> drf [[file:adj.all.org::sulky]] drf [[file:verb.stative.org::sulk]]
-w: <<sulkiness1>> drf [[file:adj.all.org::sulky]]
+w: <<sulk>> drf [[file:adjs.all.org::sulky]] drf [[file:verb.stative.org::sulk]]
+w: <<sulkiness1>> drf [[file:adjs.all.org::sulky]]
 hyper: [[temper]]
 g: a mood or display of sullen aloofness or withdrawal; "stayed home in a sulk"
 
@@ -140,22 +140,22 @@ hyper: [[temper]]
 g: an annoyed or irritated mood
 
 w: <<temper>>
-w: <<mood>> drf [[file:adj.all.org::moody]]
+w: <<mood>> drf [[file:adjs.all.org::moody]]
 w: <<humor>> drf [[file:verb.communication.org::humor]]
 w: <<humour>> drf [[file:verb.communication.org::humour]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: a characteristic (habitual or relatively temporary) state of feeling; "whether he praised or cursed me depended on his temper at the time"; "he was in a bad humor"
 
-w: <<vindictiveness>> drf [[file:adj.all.org::vindictive]] drf [[file:adj.all.org::vindictive]]
-w: <<vengefulness>> drf [[file:adj.all.org::vengeful]]
+w: <<vindictiveness>> drf [[file:adjs.all.org::vindictive]] drf [[file:adjs.all.org::vindictive]]
+w: <<vengefulness>> drf [[file:adjs.all.org::vengeful]]
 hyper: [[malevolence]]
 g: a malevolent desire for revenge
 
 w: <<malice>> drf [[file:adj.all.org::malicious]]
 w: <<maliciousness>> drf [[file:adj.all.org::malicious]]
 w: <<spite>> drf [[file:verb.emotion.org::spite]]
-w: <<spitefulness>> drf [[file:adj.all.org::spiteful]]
-w: <<venom>> drf [[file:adj.all.org::venomous]]
+w: <<spitefulness>> drf [[file:adjs.all.org::spiteful]]
+w: <<venom>> drf [[file:adjs.all.org::venomous]]
 hyper: [[malevolence]]
 g: feeling a need to see others suffer
 
@@ -163,7 +163,7 @@ w: <<maleficence>> drf [[file:adj.all.org::maleficent]] ant [[beneficence]]
 hyper: [[malevolence]]
 g: doing or causing evil
 
-w: <<malevolence>> drf [[file:adj.all.org::malevolent]] ant [[benevolence]]
+w: <<malevolence>> drf [[file:adjs.all.org::malevolent]] ant [[benevolence]]
 w: <<malignity>>
 hyper: [[hate]]
 g: wishing evil to others
@@ -183,7 +183,7 @@ hyper: [[envy]]
 g: an envious eagerness to possess something
 
 w: <<envy>> drf [[file:verb.emotion.org::envy1]] drf [[file:verb.emotion.org::envy]]
-w: <<enviousness>> drf [[file:adj.all.org::envious]]
+w: <<enviousness>> drf [[file:adjs.all.org::envious]]
 hyper: [[resentment]]
 g: a feeling of grudging admiration and desire to have something that is possessed by another
 
@@ -193,8 +193,8 @@ w: <<grievance>>
 hyper: [[resentment]]
 g: a resentment strong enough to justify retaliation; "holding a grudge"; "settling a score"
 
-w: <<sulkiness>> drf [[file:adj.all.org::sulky]]
-w: <<huffishness>> drf [[file:adj.all.org::huffish]]
+w: <<sulkiness>> drf [[file:adjs.all.org::sulky]]
+w: <<huffishness>> drf [[file:adjs.all.org::huffish]]
 hyper: [[resentment]]
 g: a feeling of sulky resentment
 
@@ -203,9 +203,9 @@ hyper: [[resentment]]
 g: intense resentment; "his promotion caused much heartburning among his rivals"
 
 w: <<resentment>> drf [[file:verb.emotion.org::resent]]
-w: <<bitterness>> drf [[file:adj.all.org::bitter]]
+w: <<bitterness>> drf [[file:adjs.all.org::bitter]]
 w: <<gall>> drf [[file:verb.emotion.org::gall]]
-w: <<rancor>> drf [[file:adj.all.org::rancorous]]
+w: <<rancor>> drf [[file:adjs.all.org::rancorous]]
 w: <<rancour>>
 hyper: [[hostility]]
 g: a feeling of deep and bitter anger and ill-will
@@ -214,8 +214,8 @@ w: <<warpath>>
 hyper: [[belligerence]]
 g: hostile or belligerent mood; "the chief is on the warpath today"
 
-w: <<belligerence>> drf [[file:adj.all.org::belligerent]]
-w: <<belligerency>> drf [[file:adj.all.org::belligerent]]
+w: <<belligerence>> drf [[file:adjs.all.org::belligerent]]
+w: <<belligerency>> drf [[file:adjs.all.org::belligerent]]
 hyper: [[hostility]]
 g: hostile or warlike attitude or nature
 
@@ -240,7 +240,7 @@ hyper: [[hostility]]
 g: a feeling of ill will arousing active hostility
 
 w: <<hostility>> drf [[file:adj.all.org::hostile1]]
-w: <<enmity>> drf [[file:adj.all.org::inimical]]
+w: <<enmity>> drf [[file:adjs.all.org::inimical]]
 w: <<ill_will>>
 hyper: [[hate]]
 g: the feeling of a hostile person; "he could no longer contain his hostility"
@@ -250,7 +250,7 @@ w: <<despising>> drf [[file:verb.emotion.org::despise]]
 hyper: [[hate]]
 g: a feeling of scornful hatred
 
-w: <<murderousness>> drf [[file:adj.all.org::murderous]]
+w: <<murderousness>> drf [[file:adjs.all.org::murderous]]
 hyper: [[hate]]
 g: a bloodthirsty hatred arousing murderous impulses
 
@@ -270,7 +270,7 @@ w: <<misology>>
 hyper: [[hate]]
 g: hatred of reasoning
 
-w: <<misogyny>> drf [[file:adj.all.org::misogynic]] drf [[file:adj.all.org::misogynous]] ant [[philogyny]] drf [[file:noun.person.org::misogynist]]
+w: <<misogyny>> drf [[file:adjs.all.org::misogynic]] drf [[file:adjs.all.org::misogynous]] ant [[philogyny]] drf [[file:noun.person.org::misogynist]]
 w: <<misogynism>>
 hyper: [[hate]]
 g: hatred of women
@@ -279,7 +279,7 @@ w: <<misogamy>> drf [[file:noun.person.org::misogamist]]
 hyper: [[hate]]
 g: hatred of marriage
 
-w: <<misanthropy>> drf [[file:adj.all.org::misanthropic]] drf [[file:adj.all.org::misanthropical]] drf [[file:noun.person.org::misanthropist]]
+w: <<misanthropy>> drf [[file:adjs.all.org::misanthropic]] drf [[file:adjs.all.org::misanthropical]] drf [[file:noun.person.org::misanthropist]]
 hyper: [[hate]]
 g: hatred of mankind
 
@@ -298,7 +298,7 @@ hyper: [[lovingness]]
 g: a warmhearted feeling
 
 w: <<lovingness>> drf [[file:adj.all.org::loving]]
-w: <<caring1>> drf [[file:adj.all.org::caring]] drf [[file:verb.emotion.org::care2]]
+w: <<caring1>> drf [[file:adjs.all.org::caring]] drf [[file:verb.emotion.org::care2]]
 hyper: [[love]]
 g: a loving feeling
 
@@ -324,7 +324,7 @@ w: <<respect>> drf [[file:verb.social.org::respect]]
 hyper: [[affection]]
 g: a feeling of friendship and esteem; "she mistook his manly regard for love"; "he inspires respect"
 
-w: <<protectiveness>> drf [[file:adj.all.org::protective]]
+w: <<protectiveness>> drf [[file:adjs.all.org::protective]]
 hyper: [[affection]]
 g: a feeling of protective affection
 
@@ -334,18 +334,18 @@ hyper: [[affection]]
 g: a feeling of affection for a person or an institution
 
 w: <<affection>>
-w: <<affectionateness>> drf [[file:adj.all.org::affectionate]]
-w: <<fondness>> drf [[file:adj.all.org::fond2]]
-w: <<tenderness1>> drf [[file:adj.all.org::tender]]
-w: <<heart4>> drf [[file:adj.all.org::hearty]]
-w: <<warmness>> drf [[file:adj.all.org::warm]] drf [[file:adj.all.org::warm2]]
+w: <<affectionateness>> drf [[file:adjs.all.org::affectionate]]
+w: <<fondness>> drf [[file:adjs.all.org::fond2]]
+w: <<tenderness1>> drf [[file:adjs.all.org::tender]]
+w: <<heart4>> drf [[file:adjs.all.org::hearty]]
+w: <<warmness>> drf [[file:adjs.all.org::warm]] drf [[file:adj.all.org::warm2]]
 w: <<warmheartedness>> drf [[file:adj.all.org::warmhearted]]
 w: <<philia>>
 hyper: [[file:noun.Tops.org::feeling]]
 g: a positive feeling of liking; "he had trouble expressing the affection he felt"; "the child won everyone's heart"; "the warmness of his welcome made us feel right at home"
 
 w: <<devotion>>
-w: <<devotedness>> drf [[file:adj.all.org::devoted2]]
+w: <<devotedness>> drf [[file:adjs.all.org::devoted2]]
 hyper: [[love]]
 g: feelings of ardent love; "their devotion to each other was beautiful"
 
@@ -356,8 +356,8 @@ w: <<infatuation2>> drf [[file:verb.emotion.org::infatuate]]
 hyper: [[love]]
 g: temporary love of an adolescent
 
-w: <<amorousness1>> drf [[file:adj.all.org::amorous1]]
-w: <<enamoredness>> drf [[file:adj.all.org::enamored]]
+w: <<amorousness1>> drf [[file:adjs.all.org::amorous1]]
+w: <<enamoredness>> drf [[file:adjs.all.org::enamored]]
 hyper: [[love]]
 g: a feeling of love or fondness
 
@@ -411,7 +411,7 @@ w: <<surrender>>
 hyper: [[despair]]
 g: acceptance of despair
 
-w: <<hopelessness>> drf [[file:adj.all.org::hopeless3]] drf [[file:adj.all.org::hopeless]] ant [[hopefulness]]
+w: <<hopelessness>> drf [[file:adjs.all.org::hopeless3]] drf [[file:adj.all.org::hopeless]] ant [[hopefulness]]
 hyper: [[despair]]
 g: the despair you feel when you have abandoned hope of comfort or success
 
@@ -419,12 +419,12 @@ w: <<despair>> drf [[file:verb.emotion.org::despair]] ant [[hope]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: the feeling that everything is wrong and nothing will turn out well; "they moaned in despair and dismay"; "one harsh word would send her into the depths of despair"
 
-w: <<sanguinity>> drf [[file:adj.all.org::sanguine]]
-w: <<sanguineness>> drf [[file:adj.all.org::sanguine]]
+w: <<sanguinity>> drf [[file:adjs.all.org::sanguine]]
+w: <<sanguineness>> drf [[file:adjs.all.org::sanguine]]
 hyper: [[optimism]]
 g: feeling sanguine; optimistically cheerful and confident
 
-w: <<optimism>> drf [[file:adj.all.org::optimistic]] drf [[file:adj.all.org::optimistic]] drf [[file:noun.person.org::optimist]] ant [[pessimism]]
+w: <<optimism>> drf [[file:adjs.all.org::optimistic]] drf [[file:adj.all.org::optimistic]] drf [[file:noun.person.org::optimist]] ant [[pessimism]]
 hyper: [[hope]]
 g: the optimistic feeling that all is going to turn out well
 
@@ -466,7 +466,7 @@ g: a general feeling of boredom and dissatisfaction
 
 w: <<boredom>>
 w: <<ennui>>
-w: <<tedium>> drf [[file:adj.all.org::tedious]]
+w: <<tedium>> drf [[file:adjs.all.org::tedious]]
 hyper: [[dissatisfaction]]
 g: the feeling of being bored by something tedious
 
@@ -489,18 +489,18 @@ w: <<discontentedness>> drf [[file:adj.all.org::discontented]]
 hyper: [[longing]]
 g: a longing for something better than the present situation
 
-w: <<weight>> drf [[file:adj.all.org::weighty]]
+w: <<weight>> drf [[file:adjs.all.org::weighty]]
 hyper: [[oppression]]
 g: an oppressive feeling of heavy force; "bowed down by the weight of responsibility"
 
 w: <<oppression>>
-w: <<oppressiveness>> drf [[file:adj.all.org::oppressive]]
+w: <<oppressiveness>> drf [[file:adjs.all.org::oppressive]]
 hyper: [[depression]]
 g: a feeling of being oppressed
 
-w: <<despondency>> drf [[file:adj.all.org::despondent]] drf [[file:verb.emotion.org::despond]]
-w: <<despondence>> drf [[file:adj.all.org::despondent]] drf [[file:verb.emotion.org::despond]]
-w: <<heartsickness>> drf [[file:adj.all.org::heartsick]] drf [[file:adj.all.org::heartsick]]
+w: <<despondency>> drf [[file:adjs.all.org::despondent]] drf [[file:verb.emotion.org::despond]]
+w: <<despondence>> drf [[file:adjs.all.org::despondent]] drf [[file:verb.emotion.org::despond]]
+w: <<heartsickness>> drf [[file:adjs.all.org::heartsick]] drf [[file:adjs.all.org::heartsick]]
 w: <<disconsolateness>> drf [[file:adj.all.org::disconsolate4]]
 hyper: [[depression]]
 g: feeling downcast and disheartened and hopeless
@@ -509,7 +509,7 @@ w: <<self-pity>>
 hyper: [[sorrow]]
 g: a feeling of sorrow (often self-indulgent) over your own sufferings
 
-w: <<helplessness>> drf [[file:adj.all.org::helpless]] drf [[file:adj.all.org::helpless]]
+w: <<helplessness>> drf [[file:adjs.all.org::helpless]] drf [[file:adjs.all.org::helpless]]
 hyper: [[depression]]
 g: a feeling of being unable to manage
 
@@ -518,11 +518,11 @@ w: <<demoralisation>> drf [[file:verb.emotion.org::demoralise]]
 hyper: [[depression]]
 g: depression resulting from an undermining of your morale
 
-w: <<downheartedness>> drf [[file:adj.all.org::downhearted]]
+w: <<downheartedness>> drf [[file:adjs.all.org::downhearted]]
 w: <<dejectedness>>
-w: <<low-spiritedness>> drf [[file:adj.all.org::low-spirited]]
-w: <<lowness>> drf [[file:adj.all.org::low]] drf [[file:adj.all.org::low]]
-w: <<dispiritedness>> drf [[file:adj.all.org::dispirited]] drf [[file:adj.all.org::dispirited]]
+w: <<low-spiritedness>> drf [[file:adjs.all.org::low-spirited]]
+w: <<lowness>> drf [[file:adjs.all.org::low]] drf [[file:adjs.all.org::low]]
+w: <<dispiritedness>> drf [[file:adjs.all.org::dispirited]] drf [[file:adjs.all.org::dispirited]]
 hyper: [[sadness]]
 g: a feeling of low spirits; "he felt responsible for her lowness of spirits"
 
@@ -545,7 +545,7 @@ hyper: [[sadness]]
 g: a feeling of dreary or pessimistic sadness
 
 w: <<repentance>> drf [[file:adj.all.org::repentant]] drf [[file:verb.emotion.org::repent]]
-w: <<penitence>> drf [[file:adj.all.org::penitential]] drf [[file:adj.all.org::penitentiary]] drf [[file:adj.all.org::penitent]]
+w: <<penitence>> drf [[file:adjs.all.org::penitential]] drf [[file:adjs.all.org::penitentiary]] drf [[file:adj.all.org::penitent]]
 w: <<penance>>
 hyper: [[compunction]]
 g: remorse for your past conduct
@@ -555,7 +555,7 @@ hyper: [[guilt]]
 hp: [[file:noun.state.org::posttraumatic_stress_disorder]]
 g: a deep feeling of guilt often experienced by those who have survived some catastrophe that took the lives of many others; derives in part from a feeling that they did not do enough to save the others who perished and in part from feelings of being unworthy relative to those who died; "survivor guilt was first noted in those who survived the Holocaust"
 
-w: <<guilt>> drf [[file:adj.all.org::guilty]]
+w: <<guilt>> drf [[file:adjs.all.org::guilty]]
 w: <<guilty_conscience>>
 w: <<guilt_feelings>>
 w: <<guilt_trip>>
@@ -571,30 +571,30 @@ g: a feeling of deep regret (usually for some misdeed)
 w: <<sorrow1>> drf [[file:verb.emotion.org::sorrow]]
 w: <<regret>> drf [[file:verb.communication.org::regret2]] drf [[file:verb.emotion.org::regret1]] drf [[file:verb.emotion.org::regret]]
 w: <<rue>> drf [[file:verb.emotion.org::rue]]
-w: <<ruefulness>> drf [[file:adj.all.org::rueful]]
+w: <<ruefulness>> drf [[file:adjs.all.org::rueful]]
 hyper: [[sadness]]
 g: sadness associated with some wrong done or some disappointment; "he drank to drown his sorrows"; "he wrote a note expressing his regret"; "to his rue, the error cost him the game"
 
-w: <<dolor>> drf [[file:adj.all.org::dolourous]] drf [[file:adj.all.org::dolorous]]
+w: <<dolor>> drf [[file:adjs.all.org::dolourous]] drf [[file:adjs.all.org::dolorous]]
 w: <<dolour>>
 hyper: [[grief]]
 dt: [[file:noun.communication.org::poetry2]]
 g: (poetry) painful grief
 
-w: <<plaintiveness>> drf [[file:adj.all.org::plaintive]]
+w: <<plaintiveness>> drf [[file:adjs.all.org::plaintive]]
 hyper: [[mournfulness]]
 g: expressing sorrowfulness
 
-w: <<mournfulness>> drf [[file:adj.all.org::mournful1]] drf [[file:adj.all.org::mournful]]
+w: <<mournfulness>> drf [[file:adjs.all.org::mournful1]] drf [[file:adjs.all.org::mournful]]
 w: <<sorrowfulness>> drf [[file:adj.all.org::sorrowful]]
-w: <<ruthfulness>> drf [[file:adj.all.org::ruthful]]
+w: <<ruthfulness>> drf [[file:adjs.all.org::ruthful]]
 hyper: [[sorrow]]
 g: a state of gloomy sorrow
 
 w: <<grief>>
 w: <<heartache>>
 w: <<heartbreak>>
-w: <<brokenheartedness>> drf [[file:adj.all.org::brokenhearted]]
+w: <<brokenheartedness>> drf [[file:adjs.all.org::brokenhearted]]
 hyper: [[sorrow]]
 g: intense sorrow caused by loss of a loved one (especially by death)
 
@@ -604,7 +604,7 @@ g: devastating sorrow and despair; "he is recovering from a broken heart"; "a br
 
 w: <<attrition>>
 w: <<contrition>>
-w: <<contriteness>> drf [[file:adj.all.org::contrite]]
+w: <<contriteness>> drf [[file:adjs.all.org::contrite]]
 hyper: [[sorrow1]]
 g: sorrow for sin arising from fear of damnation
 
@@ -612,13 +612,13 @@ w: <<sorrow>> drf [[file:verb.emotion.org::sorrow]] ant [[joy]]
 hyper: [[sadness]]
 g: an emotion of great sadness associated with loss or bereavement; "he tried to express his sorrow at her loss"
 
-w: <<weepiness>> drf [[file:adj.all.org::weepy]]
-w: <<tearfulness>> drf [[file:adj.all.org::tearful]] drf [[file:adj.all.org::tearful]]
+w: <<weepiness>> drf [[file:adjs.all.org::weepy]]
+w: <<tearfulness>> drf [[file:adjs.all.org::tearful]] drf [[file:adj.all.org::tearful]]
 hyper: [[sadness]]
 g: sadness expressed by weeping
 
 w: <<forlornness>>
-w: <<loneliness>> drf [[file:adj.all.org::lonely]]
+w: <<loneliness>> drf [[file:adjs.all.org::lonely]]
 w: <<desolation2>> drf [[file:verb.cognition.org::desolate]]
 hyper: [[sadness]]
 g: sadness resulting from being forsaken or abandoned
@@ -628,28 +628,28 @@ hyper: [[sadness]]
 g: a feeling of intense unhappiness; "she was exhausted by her misery and grief"
 
 w: <<woe>>
-w: <<woefulness>> drf [[file:adj.all.org::woeful]]
+w: <<woefulness>> drf [[file:adjs.all.org::woeful]]
 hyper: [[mournfulness]]
 g: intense mournfulness
 
-w: <<world-weariness>> drf [[file:adj.all.org::world-weary]]
+w: <<world-weariness>> drf [[file:adjs.all.org::world-weary]]
 w: <<Weltschmerz>>
 hyper: [[melancholy]]
 g: sadness on thinking about the evils of the world
 
-w: <<pensiveness>> drf [[file:adj.all.org::pensive]]
+w: <<pensiveness>> drf [[file:adjs.all.org::pensive]]
 w: <<brooding>>
 hyper: [[melancholy]]
 g: persistent morbid meditation on a problem
 
-w: <<heavyheartedness>> drf [[file:adj.all.org::heavyhearted]]
+w: <<heavyheartedness>> drf [[file:adjs.all.org::heavyhearted]]
 hyper: [[melancholy]]
 g: a feeling of dispirited melancholy
 
 w: <<gloom>>
-w: <<gloominess>> drf [[file:adj.all.org::gloomy]]
-w: <<somberness>> drf [[file:adj.all.org::somber]] drf [[file:adj.all.org::somber]]
-w: <<sombreness>> drf [[file:adj.all.org::sombre]] drf [[file:adj.all.org::sombre]]
+w: <<gloominess>> drf [[file:adjs.all.org::gloomy]]
+w: <<somberness>> drf [[file:adjs.all.org::somber]] drf [[file:adjs.all.org::somber]]
+w: <<sombreness>> drf [[file:adjs.all.org::sombre]] drf [[file:adjs.all.org::sombre]]
 hyper: [[melancholy]]
 hyper: [[apprehension]]
 g: a feeling of melancholy apprehension
@@ -662,7 +662,7 @@ w: <<heaviness>> drf [[file:adj.all.org::heavy2]]
 hyper: [[sadness]]
 g: persisting sadness; "nothing lifted the heaviness of her heart after her loss"
 
-w: <<dolefulness>> drf [[file:adj.all.org::doleful]]
+w: <<dolefulness>> drf [[file:adjs.all.org::doleful]]
 hyper: [[sadness]]
 g: sadness caused by grief or affliction
 
@@ -682,13 +682,13 @@ w: <<fulfilment>> drf [[file:verb.consumption.org::fulfil]]
 hyper: [[satisfaction]]
 g: a feeling of satisfaction at having achieved your desires
 
-w: <<smugness>> drf [[file:adj.all.org::smug]]
+w: <<smugness>> drf [[file:adjs.all.org::smug]]
 hyper: [[complacency]]
 g: an excessive feeling of self-satisfaction
 
-w: <<complacency>> drf [[file:adj.all.org::complacent]]
-w: <<complacence>> drf [[file:adj.all.org::complacent]]
-w: <<self-complacency>> drf [[file:adj.all.org::self-complacent]]
+w: <<complacency>> drf [[file:adjs.all.org::complacent]]
+w: <<complacence>> drf [[file:adjs.all.org::complacent]]
+w: <<self-complacency>> drf [[file:adjs.all.org::self-complacent]]
 w: <<self-satisfaction>>
 hyper: [[satisfaction]]
 g: the feeling you have when you are satisfied with yourself; "his complacency was absolutely disgusting"
@@ -705,24 +705,24 @@ w: <<contentment>> drf [[file:verb.consumption.org::content]] ant [[discontentme
 hyper: [[happiness]]
 g: happiness with one's situation in life
 
-w: <<carefreeness>> drf [[file:adj.all.org::carefree]]
-w: <<insouciance>> drf [[file:adj.all.org::insouciant]]
-w: <<lightheartedness>> drf [[file:adj.all.org::lighthearted]]
-w: <<lightsomeness>> drf [[file:adj.all.org::lightsome]]
+w: <<carefreeness>> drf [[file:adjs.all.org::carefree]]
+w: <<insouciance>> drf [[file:adjs.all.org::insouciant]]
+w: <<lightheartedness>> drf [[file:adjs.all.org::lighthearted]]
+w: <<lightsomeness>> drf [[file:adjs.all.org::lightsome]]
 hyper: [[cheerfulness]]
 g: the cheerful feeling you have when nothing is troubling you
 
-w: <<buoyancy>> drf [[file:adj.all.org::buoyant]]
-w: <<perkiness>> drf [[file:adj.all.org::perky]]
+w: <<buoyancy>> drf [[file:adjs.all.org::buoyant]]
+w: <<perkiness>> drf [[file:adjs.all.org::perky]]
 hyper: [[cheerfulness]]
 g: cheerfulness that bubbles to the surface
 
-w: <<cheerfulness>> drf [[file:adj.all.org::cheerful]] ant [[cheerlessness]]
-w: <<blitheness>> drf [[file:adj.all.org::cheerful]]
+w: <<cheerfulness>> drf [[file:adjs.all.org::cheerful]] ant [[cheerlessness]]
+w: <<blitheness>> drf [[file:adjs.all.org::cheerful]]
 hyper: [[happiness]]
 g: a feeling of spontaneous good spirits; "his cheerfulness made everyone feel better"
 
-w: <<togetherness>> drf [[file:adj.all.org::together]]
+w: <<togetherness>> drf [[file:adjs.all.org::together]]
 hyper: [[closeness]]
 g: affectionate closeness; "togetherness is the new wonder ingredient in marriage"
 
@@ -739,8 +739,8 @@ w: <<belonging>>
 hyper: [[happiness]]
 g: happiness felt in a secure relationship; "with his classmates he felt a sense of belonging"
 
-w: <<jocundity>> drf [[file:adj.all.org::jocund]]
-w: <<jocularity>> drf [[file:adj.all.org::jocular]]
+w: <<jocundity>> drf [[file:adjs.all.org::jocund]]
+w: <<jocularity>> drf [[file:adjs.all.org::jocular]]
 hyper: [[gaiety]]
 g: a feeling facetious merriment
 
@@ -748,11 +748,11 @@ w: <<rejoicing>> drf [[file:verb.emotion.org::rejoice2]] drf [[file:verb.emotion
 hyper: [[happiness]]
 g: a feeling of great happiness
 
-w: <<hilarity>> drf [[file:adj.all.org::hilarious]]
+w: <<hilarity>> drf [[file:adjs.all.org::hilarious]]
 w: <<mirth>>
-w: <<mirthfulness>> drf [[file:adj.all.org::mirthful]] drf [[file:adj.all.org::mirthful]]
+w: <<mirthfulness>> drf [[file:adjs.all.org::mirthful]] drf [[file:adjs.all.org::mirthful]]
 w: <<glee>>
-w: <<gleefulness>> drf [[file:adj.all.org::gleeful]]
+w: <<gleefulness>> drf [[file:adjs.all.org::gleeful]]
 hyper: [[gaiety]]
 g: great merriment
 
@@ -789,13 +789,13 @@ w: <<excitement>> drf [[file:verb.emotion.org::excite2]]
 hyper: [[joy]]
 g: the feeling of lively and cheerful joy; "he could hardly conceal his excitement when she agreed"
 
-w: <<triumph>> drf [[file:adj.all.org::triumphal]] drf [[file:verb.emotion.org::triumph]]
+w: <<triumph>> drf [[file:adjs.all.org::triumphal]] drf [[file:verb.emotion.org::triumph]]
 hyper: [[exultation]]
 g: the exultation of victory
 
 w: <<exultation>> drf [[file:verb.emotion.org::exult]]
-w: <<jubilance>> drf [[file:adj.all.org::jubilant]] drf [[file:adj.all.org::jubilant]] drf [[file:verb.communication.org::jubilate]]
-w: <<jubilancy>> drf [[file:adj.all.org::jubilant]] drf [[file:adj.all.org::jubilant]] drf [[file:verb.communication.org::jubilate]]
+w: <<jubilance>> drf [[file:adjs.all.org::jubilant]] drf [[file:adjs.all.org::jubilant]] drf [[file:verb.communication.org::jubilate]]
+w: <<jubilancy>> drf [[file:adjs.all.org::jubilant]] drf [[file:adjs.all.org::jubilant]] drf [[file:verb.communication.org::jubilate]]
 w: <<jubilation>> drf [[file:verb.communication.org::jubilate]]
 hyper: [[joy]]
 g: a feeling of extreme joy
@@ -808,13 +808,13 @@ g: a feeling of joy and pride
 
 w: <<joy>> drf [[file:adj.all.org::joyous]] drf [[file:verb.emotion.org::joy1]] drf [[file:verb.emotion.org::joy]] ant [[sorrow]]
 w: <<joyousness>> drf [[file:adj.all.org::joyous]]
-w: <<joyfulness>> drf [[file:adj.all.org::joyful]] drf [[file:adj.all.org::joyful]]
+w: <<joyfulness>> drf [[file:adjs.all.org::joyful]] drf [[file:adj.all.org::joyful]]
 hyper: [[emotion]]
 g: the emotion of great happiness
 
-w: <<gladness>> drf [[file:adj.all.org::glad]] drf [[file:adj.all.org::glad]] drf [[file:adj.all.org::glad]]
+w: <<gladness>> drf [[file:adjs.all.org::glad]] drf [[file:adjs.all.org::glad]] drf [[file:adj.all.org::glad]]
 w: <<gladfulness>>
-w: <<gladsomeness>> drf [[file:adj.all.org::gladsome]]
+w: <<gladsomeness>> drf [[file:adjs.all.org::gladsome]]
 hyper: [[happiness]]
 g: experiencing joy and pleasure
 
@@ -829,7 +829,7 @@ attr: [[file:adj.all.org::happy]]
 attr: [[file:adj.all.org::unhappy]]
 g: emotions experienced when in a state of well-being
 
-w: <<confidence>> drf [[file:adj.all.org::confidential]] ant [[diffidence]]
+w: <<confidence>> drf [[file:adjs.all.org::confidential]] ant [[diffidence]]
 hyper: [[security]]
 attr: [[file:adj.all.org::confident]]
 attr: [[file:adj.all.org::diffident]]
@@ -839,7 +839,7 @@ w: <<security>> drf [[file:adj.all.org::secure1]]
 hyper: [[fearlessness]]
 g: freedom from anxiety or fear; "the watch dog gave her a feeling of security"
 
-w: <<fearlessness>> drf [[file:adj.all.org::fearless]] ant [[fear]] drf [[file:adj.all.org::fearless]]
+w: <<fearlessness>> drf [[file:adjs.all.org::fearless]] ant [[fear]] drf [[file:adj.all.org::fearless]]
 w: <<bravery>>
 hyper: [[file:noun.Tops.org::feeling]]
 g: feeling no fear
@@ -848,10 +848,10 @@ w: <<angst>>
 hyper: [[anxiety]]
 g: an acute but unspecific feeling of anxiety; usually reserved for philosophical anxiety about the world or about personal freedom
 
-w: <<jitteriness>> drf [[file:adj.all.org::jittery]]
-w: <<jumpiness>> drf [[file:adj.all.org::jumpy]]
-w: <<nervousness>> drf [[file:adj.all.org::nervous]] drf [[file:adj.all.org::nervous]]
-w: <<restiveness>> drf [[file:adj.all.org::restive]]
+w: <<jitteriness>> drf [[file:adjs.all.org::jittery]]
+w: <<jumpiness>> drf [[file:adjs.all.org::jumpy]]
+w: <<nervousness>> drf [[file:adjs.all.org::nervous]] drf [[file:adjs.all.org::nervous]]
+w: <<restiveness>> drf [[file:adjs.all.org::restive]]
 hyper: [[anxiety]]
 g: the anxious feeling you have when you have the jitters
 
@@ -870,7 +870,7 @@ w: <<willies>>
 hyper: [[edginess]]
 g: feelings of uneasiness; "that guy gave me the willies"
 
-w: <<edginess>> drf [[file:adj.all.org::edgy]]
+w: <<edginess>> drf [[file:adjs.all.org::edgy]]
 w: <<uneasiness2>> drf [[file:adj.all.org::uneasy]]
 w: <<inquietude>>
 w: <<disquietude>>
@@ -881,7 +881,7 @@ w: <<insecurity>> drf [[file:adj.all.org::insecure1]]
 hyper: [[anxiety]]
 g: the anxiety you experience when you feel vulnerable and insecure
 
-w: <<anxiousness>> drf [[file:adj.all.org::anxious]]
+w: <<anxiousness>> drf [[file:adjs.all.org::anxious]]
 w: <<disquiet>> drf [[file:verb.emotion.org::disquiet]]
 hyper: [[anxiety]]
 g: a feeling of mild anxiety about possible developments
@@ -909,12 +909,12 @@ w: <<unassertiveness>> drf [[file:adj.all.org::unassertive]]
 hyper: [[diffidence]]
 g: diffidence about self promotion
 
-w: <<hesitance>> drf [[file:adj.all.org::hesitant]]
-w: <<hesitancy>> drf [[file:adj.all.org::hesitant]]
+w: <<hesitance>> drf [[file:adjs.all.org::hesitant]]
+w: <<hesitancy>> drf [[file:adjs.all.org::hesitant]]
 hyper: [[diffidence]]
 g: a feeling of diffidence and indecision about doing something
 
-w: <<diffidence>> drf [[file:adj.all.org::diffident]] ant [[confidence]] drf [[file:adj.all.org::diffident]]
+w: <<diffidence>> drf [[file:adjs.all.org::diffident]] ant [[confidence]] drf [[file:adj.all.org::diffident]]
 w: <<self-doubt>>
 w: <<self-distrust>>
 hyper: [[timidity]]
@@ -929,8 +929,8 @@ hyper: [[timidity]]
 g: timidity that prevents the continuation of a course of action; "I was going to tell him but I got cold feet"
 
 w: <<timidity>> drf [[file:adj.all.org::timid]]
-w: <<timidness>> drf [[file:adj.all.org::timid]] drf [[file:adj.all.org::timid]] drf [[file:adj.all.org::timid9]]
-w: <<timorousness>> drf [[file:adj.all.org::timid]]
+w: <<timidness>> drf [[file:adjs.all.org::timid]] drf [[file:adj.all.org::timid]] drf [[file:adj.all.org::timid9]]
+w: <<timorousness>> drf [[file:adjs.all.org::timid]]
 hyper: [[fear]]
 g: fear of the unknown or unfamiliar or fear of making decisions
 
@@ -958,8 +958,8 @@ hyper: [[apprehension]]
 g: a feeling of alarm or dread
 
 w: <<apprehension>> drf [[file:verb.emotion.org::apprehend]]
-w: <<apprehensiveness>> drf [[file:adj.all.org::apprehensive]] drf [[file:adj.all.org::apprehensive]]
-w: <<dread>> drf [[file:adj.all.org::dread]] drf [[file:verb.emotion.org::dread]]
+w: <<apprehensiveness>> drf [[file:adjs.all.org::apprehensive]] drf [[file:adjs.all.org::apprehensive]]
+w: <<dread>> drf [[file:adjs.all.org::dread]] drf [[file:verb.emotion.org::dread]]
 hyper: [[fear]]
 g: fearful expectation or anticipation; "the student looked around the examination room with apprehension"
 
@@ -967,13 +967,13 @@ w: <<stage_fright>>
 hyper: [[fear]]
 g: fear that affects a person about to face an audience
 
-w: <<scare>> drf [[file:adj.all.org::scarey]] drf [[file:verb.emotion.org::scare]]
+w: <<scare>> drf [[file:adjs.all.org::scarey]] drf [[file:verb.emotion.org::scare]]
 w: <<panic_attack>>
 hyper: [[fear]]
 g: a sudden attack of fear
 
 w: <<fear2>> drf [[file:verb.emotion.org::fear1]]
-w: <<reverence>> drf [[file:adj.all.org::reverential]] drf [[file:adj.all.org::reverent]] drf [[file:verb.emotion.org::reverence]] drf [[file:verb.emotion.org::revere]]
+w: <<reverence>> drf [[file:adjs.all.org::reverential]] drf [[file:adjs.all.org::reverent]] drf [[file:verb.emotion.org::reverence]] drf [[file:verb.emotion.org::revere]]
 w: <<awe>>
 w: <<veneration>> drf [[file:verb.emotion.org::venerate]]
 hyper: [[emotion]]
@@ -983,13 +983,13 @@ w: <<swivet>>
 hyper: [[panic]]
 g: a panic or extreme discomposure; "it threw her into a swivet"
 
-w: <<panic>> drf [[file:adj.all.org::panicky]] drf [[file:verb.emotion.org::panic1]] drf [[file:verb.emotion.org::panic]]
+w: <<panic>> drf [[file:adjs.all.org::panicky]] drf [[file:verb.emotion.org::panic1]] drf [[file:verb.emotion.org::panic]]
 w: <<terror>> drf [[file:noun.person.org::terrorist]] drf [[file:verb.social.org::terrorize]] drf [[file:verb.emotion.org::terrorize]] drf [[file:verb.social.org::terrorise]] drf [[file:verb.emotion.org::terrorise]] drf [[file:verb.emotion.org::terrify]]
 w: <<affright>> drf [[file:verb.emotion.org::affright]]
 hyper: [[fear]]
 g: an overwhelming feeling of fear and anxiety
 
-w: <<hysteria1>> drf [[file:adj.all.org::hysterical]]
+w: <<hysteria1>> drf [[file:adjs.all.org::hysterical]]
 hyper: [[fear]]
 g: excessive or uncontrollable fear
 
@@ -998,10 +998,10 @@ hyper: [[fear]]
 g: intense and profound fear
 
 w: <<frisson>>
-w: <<shiver>> drf [[file:adj.all.org::shivery]] drf [[file:verb.motion.org::shiver]]
+w: <<shiver>> drf [[file:adjs.all.org::shivery]] drf [[file:verb.motion.org::shiver]]
 w: <<chill2>>
 w: <<quiver>>
-w: <<shudder>> drf [[file:adj.all.org::shuddery]]
+w: <<shudder>> drf [[file:adjs.all.org::shuddery]]
 w: <<thrill2>> drf [[file:verb.emotion.org::thrill1]] drf [[file:verb.emotion.org::thrill2]]
 w: <<tingle>> drf [[file:verb.perception.org::tingle]]
 hyper: [[fear]]
@@ -1021,7 +1021,7 @@ attr: [[file:adj.all.org::unalarming]]
 g: fear resulting from the awareness of danger
 
 w: <<fear>> drf [[file:verb.emotion.org::fear]] ant [[fearlessness]]
-w: <<fearfulness>> drf [[file:adj.all.org::fearful]]
+w: <<fearfulness>> drf [[file:adjs.all.org::fearful]]
 w: <<fright>> drf [[file:verb.emotion.org::fright]]
 hyper: [[emotion]]
 attr: [[file:adj.all.org::afraid]]
@@ -1064,7 +1064,7 @@ w: <<hackles>>
 hyper: [[anger]]
 g: a feeling of anger and animosity; "having one's hackles or dander up"
 
-w: <<huffiness>> drf [[file:adj.all.org::huffy]] drf [[file:adj.all.org::huffy]]
+w: <<huffiness>> drf [[file:adjs.all.org::huffy]] drf [[file:adjs.all.org::huffy]]
 hyper: [[anger]]
 g: a passing state of anger and resentment
 
@@ -1073,7 +1073,7 @@ w: <<outrage>> drf [[file:verb.emotion.org::outrage1]]
 hyper: [[anger]]
 g: a feeling of righteous anger
 
-w: <<umbrage>> drf [[file:adj.all.org::umbrageous]]
+w: <<umbrage>> drf [[file:adjs.all.org::umbrageous]]
 w: <<offense>>
 w: <<offence>> drf [[file:verb.emotion.org::offend1]]
 hyper: [[anger]]
@@ -1084,13 +1084,13 @@ w: <<enragement>> drf [[file:verb.emotion.org::enrage]]
 hyper: [[anger]]
 g: a feeling of intense anger
 
-w: <<lividity>> drf [[file:adj.all.org::livid]]
+w: <<lividity>> drf [[file:adjs.all.org::livid]]
 hyper: [[fury]]
 g: a state of fury so great the face becomes discolored
 
-w: <<fury>> drf [[file:adj.all.org::furious]] drf [[file:verb.emotion.org::infuriate]]
+w: <<fury>> drf [[file:adjs.all.org::furious]] drf [[file:verb.emotion.org::infuriate]]
 w: <<rage>> drf [[file:verb.stative.org::rage1]] drf [[file:verb.emotion.org::rage]]
-w: <<madness>> drf [[file:adj.all.org::mad]]
+w: <<madness>> drf [[file:adjs.all.org::mad]]
 hyper: [[anger]]
 g: a feeling of intense anger; "hell hath no fury like a woman scorned"; "his face turned red with rage"
 
@@ -1104,13 +1104,13 @@ hyper: [[indignation]]
 g: a feeling of intense indignation (now used only in the phrase `in high dudgeon')
 
 w: <<anger>> drf [[file:adj.all.org::angry]] drf [[file:verb.emotion.org::anger1]] drf [[file:verb.emotion.org::anger]]
-w: <<choler1>> drf [[file:adj.all.org::choleric]] drf [[file:adj.all.org::choleric]] drf [[file:adj.all.org::choleric]]
+w: <<choler1>> drf [[file:adjs.all.org::choleric]] drf [[file:adjs.all.org::choleric]] drf [[file:adjs.all.org::choleric]]
 w: <<ire>>
 hyper: [[emotion]]
 g: a strong emotion; a feeling that is oriented toward some real or supposed grievance
 
 w: <<languor>>
-w: <<dreaminess>> drf [[file:adj.all.org::dreamy]] drf [[file:adj.all.org::dreamy]]
+w: <<dreaminess>> drf [[file:adjs.all.org::dreamy]] drf [[file:adjs.all.org::dreamy]]
 hyper: [[easiness]]
 g: a relaxed comfortable feeling
 
@@ -1129,25 +1129,25 @@ w: <<ataraxis>>
 hyper: [[tranquillity]]
 g: the absence of mental stress or anxiety
 
-w: <<tranquillity>> drf [[file:adj.all.org::tranquil]]
-w: <<tranquility>> drf [[file:adj.all.org::tranquil]]
-w: <<quietness>> drf [[file:adj.all.org::quiet]] drf [[file:adj.all.org::quiet2]]
+w: <<tranquillity>> drf [[file:adjs.all.org::tranquil]]
+w: <<tranquility>> drf [[file:adjs.all.org::tranquil]]
+w: <<quietness>> drf [[file:adjs.all.org::quiet]] drf [[file:adj.all.org::quiet2]]
 w: <<quietude>>
 hyper: [[calmness]]
 g: a state of peace and quiet
 
-w: <<coolness>> drf [[file:adj.all.org::cool]]
-w: <<imperturbability>> drf [[file:adj.all.org::imperturbable]]
-w: <<imperturbableness>> drf [[file:adj.all.org::imperturbable]]
+w: <<coolness>> drf [[file:adjs.all.org::cool]]
+w: <<imperturbability>> drf [[file:adjs.all.org::imperturbable]]
+w: <<imperturbableness>> drf [[file:adjs.all.org::imperturbable]]
 hyper: [[calmness]]
 g: calm and unruffled self-assurance; "he performed with all the coolness of a veteran"
 
 w: <<placidity>>
-w: <<placidness>> drf [[file:adj.all.org::placid]] drf [[file:adj.all.org::placid]]
+w: <<placidness>> drf [[file:adjs.all.org::placid]] drf [[file:adjs.all.org::placid]]
 hyper: [[calmness]]
 g: a feeling of calmness; a quiet and undisturbed feeling
 
-w: <<calmness>> drf [[file:adj.all.org::calm]] ant [[agitation]]
+w: <<calmness>> drf [[file:adjs.all.org::calm]] ant [[agitation]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: a feeling of calm; an absence of agitation or excitement
 
@@ -1155,7 +1155,7 @@ w: <<sensation>>
 hyper: [[stir]]
 g: a general feeling of excitement and heightened interest; "anticipation produced in me a sensation somewhere between hope and fear"
 
-w: <<electricity>> drf [[file:adj.all.org::electric]] drf [[file:verb.emotion.org::electrify]]
+w: <<electricity>> drf [[file:adjs.all.org::electric]] drf [[file:verb.emotion.org::electrify]]
 hyper: [[stir]]
 g: keen and shared excitement; "the stage crackled with electricity whenever she was on it"
 
@@ -1172,12 +1172,12 @@ w: <<stewing>>
 hyper: [[agitation]]
 g: an extreme state of worry and agitation; "his stewing over the fight kept him awake most of the night"
 
-w: <<impatience>> drf [[file:adj.all.org::impatient]]
+w: <<impatience>> drf [[file:adjs.all.org::impatient]]
 hyper: [[fidget]]
 g: a restless desire for change and excitement
 
-w: <<fidget>> drf [[file:verb.motion.org::fidget]] drf [[file:adj.all.org::fidgety]]
-w: <<fidgetiness>> drf [[file:adj.all.org::fidgety]]
+w: <<fidget>> drf [[file:verb.motion.org::fidget]] drf [[file:adjs.all.org::fidgety]]
+w: <<fidgetiness>> drf [[file:adjs.all.org::fidgety]]
 w: <<restlessness>>
 hyper: [[agitation]]
 g: a feeling of agitation expressed in continual motion; "he's got the fidgets"; "waiting gave him a feeling of restlessness"
@@ -1190,7 +1190,7 @@ w: <<agitation>> ant [[calmness]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: the feeling of being agitated; not calm
 
-w: <<sensuousness>> drf [[file:adj.all.org::sensuous]]
+w: <<sensuousness>> drf [[file:adjs.all.org::sensuous]]
 hyper: [[sensibility]]
 g: a sensuous feeling
 
@@ -1208,7 +1208,7 @@ w: <<sensibility>>
 hyper: [[sensitivity]]
 g: refined sensitivity to pleasurable or painful impressions; "cruelty offended his sensibility"
 
-w: <<oversensitiveness>> drf [[file:adj.all.org::oversensitive]]
+w: <<oversensitiveness>> drf [[file:adjs.all.org::oversensitive]]
 hyper: [[sensitivity]]
 g: sensitivity leading to easy irritation or upset
 
@@ -1219,14 +1219,14 @@ attr: [[file:adj.all.org::sensitive2]]
 attr: [[file:adj.all.org::insensitive2]]
 g: sensitivity to emotional feelings (of self and others)
 
-w: <<earnestness>> drf [[file:adj.all.org::earnest]]
+w: <<earnestness>> drf [[file:adjs.all.org::earnest]]
 w: <<seriousness>>
-w: <<sincerity>> drf [[file:adj.all.org::sincere]]
+w: <<sincerity>> drf [[file:adjs.all.org::sincere]]
 hyper: [[gravity]]
 g: an earnest and sincere feeling
 
 w: <<gravity>> ant [[levity]]
-w: <<solemnity1>> drf [[file:adj.all.org::solemn1]] drf [[file:adj.all.org::solemn]]
+w: <<solemnity1>> drf [[file:adjs.all.org::solemn1]] drf [[file:adjs.all.org::solemn]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: a solemn and dignified feeling
 
@@ -1260,7 +1260,7 @@ hyper: [[anticipation]]
 g: excited anticipation of an approaching climax; "the play kept the audience in suspense"
 
 w: <<anticipation>>
-w: <<expectancy>> drf [[file:adj.all.org::expectant]]
+w: <<expectancy>> drf [[file:adjs.all.org::expectant]]
 hyper: [[expectation]]
 g: an expectation
 
@@ -1305,7 +1305,7 @@ w: <<self-depreciation>>
 hyper: [[humility]]
 g: a feeling of being of little worth
 
-w: <<meekness>> drf [[file:adj.all.org::meek]] drf [[file:adj.all.org::meek]]
+w: <<meekness>> drf [[file:adjs.all.org::meek]] drf [[file:adjs.all.org::meek]]
 w: <<submission>>
 hyper: [[humility]]
 g: the feeling of patient, submissive humbleness
@@ -1318,13 +1318,13 @@ g: a humble feeling; "he was filled with humility at the sight of the Pope"
 w: <<amour_propre>>
 w: <<conceit>>
 w: <<self-love>>
-w: <<vanity>> drf [[file:adj.all.org::vain]]
+w: <<vanity>> drf [[file:adjs.all.org::vain]]
 hyper: [[pride]]
 g: feelings of excessive pride
 
 w: <<ego1>>
-w: <<egotism>> drf [[file:adj.all.org::egotistic]] drf [[file:noun.person.org::egotist]]
-w: <<self-importance>> drf [[file:adj.all.org::self-important]]
+w: <<egotism>> drf [[file:adjs.all.org::egotistic]] drf [[file:noun.person.org::egotist]]
+w: <<self-importance>> drf [[file:adjs.all.org::self-important]]
 hyper: [[pride]]
 g: an inflated feeling of pride in your superiority to others
 
@@ -1334,7 +1334,7 @@ hyper: [[pride]]
 g: a feeling of pride in yourself
 
 w: <<pride>> ant [[humility]]
-w: <<pridefulness>> drf [[file:adj.all.org::prideful]]
+w: <<pridefulness>> drf [[file:adjs.all.org::prideful]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: a feeling of self-respect and personal worth
 
@@ -1347,7 +1347,7 @@ hyper: [[anxiety]]
 g: anxious embarrassment
 
 w: <<abashment>> drf [[file:verb.emotion.org::abash]]
-w: <<bashfulness>> drf [[file:adj.all.org::bashful]]
+w: <<bashfulness>> drf [[file:adjs.all.org::bashful]]
 hyper: [[embarrassment]]
 g: feeling embarrassed due to modesty
 
@@ -1362,13 +1362,13 @@ w: <<mortification>> drf [[file:verb.emotion.org::mortify1]]
 hyper: [[embarrassment]]
 g: strong feelings of embarrassment
 
-w: <<shamefacedness>> drf [[file:adj.all.org::shamefaced2]] drf [[file:adj.all.org::shamefaced1]] drf [[file:adj.all.org::shamefaced]]
-w: <<sheepishness>> drf [[file:adj.all.org::sheepish]]
+w: <<shamefacedness>> drf [[file:adjs.all.org::shamefaced2]] drf [[file:adjs.all.org::shamefaced1]] drf [[file:adjs.all.org::shamefaced]]
+w: <<sheepishness>> drf [[file:adjs.all.org::sheepish]]
 hyper: [[embarrassment]]
 g: feeling embarrassed about yourself
 
-w: <<self-consciousness>> drf [[file:adj.all.org::self-conscious]]
-w: <<uneasiness1>> drf [[file:adj.all.org::uneasy]]
+w: <<self-consciousness>> drf [[file:adjs.all.org::self-conscious]]
+w: <<uneasiness1>> drf [[file:adjs.all.org::uneasy]]
 w: <<uncomfortableness>> drf [[file:adj.all.org::uncomfortable1]]
 hyper: [[embarrassment]]
 g: embarrassment deriving from the feeling that others are critically aware of you
@@ -1392,14 +1392,14 @@ g: a painful emotion resulting from an awareness of inadequacy or guilt
 
 w: <<cruelty>>
 w: <<mercilessness>> drf [[file:adj.all.org::merciless]]
-w: <<pitilessness>> drf [[file:adj.all.org::pitiless]]
-w: <<ruthlessness>> drf [[file:adj.all.org::ruthless]]
+w: <<pitilessness>> drf [[file:adjs.all.org::pitiless]]
+w: <<ruthlessness>> drf [[file:adjs.all.org::ruthless]]
 hyper: [[heartlessness]]
 g: feelings of extreme heartlessness
 
 w: <<heartlessness>> drf [[file:adj.all.org::heartless2]]
 w: <<coldheartedness>> drf [[file:adj.all.org::coldhearted]]
-w: <<hardheartedness>> drf [[file:adj.all.org::hardhearted]] drf [[file:adj.all.org::hardhearted]]
+w: <<hardheartedness>> drf [[file:adjs.all.org::hardhearted]] drf [[file:adj.all.org::hardhearted]]
 hyper: [[unconcern]]
 g: an absence of concern for the welfare of others
 
@@ -1408,12 +1408,12 @@ w: <<detachment>>
 hyper: [[indifference]]
 g: avoiding emotional involvement
 
-w: <<distance>> drf [[file:adj.all.org::distant]] drf [[file:verb.stative.org::distance]]
+w: <<distance>> drf [[file:adjs.all.org::distant]] drf [[file:verb.stative.org::distance]]
 w: <<aloofness2>>
 hyper: [[indifference]]
 g: indifference by personal withdrawal; "emotional distance"
 
-w: <<indifference>> drf [[file:adj.all.org::indifferent2]] drf [[file:adj.all.org::indifferent]] drf [[file:adj.all.org::indifferent]] drf [[file:adj.all.org::indifferent]]
+w: <<indifference>> drf [[file:adjs.all.org::indifferent2]] drf [[file:adjs.all.org::indifferent]] drf [[file:adjs.all.org::indifferent]] drf [[file:adjs.all.org::indifferent]]
 hyper: [[unconcern]]
 g: unbiased impartial unconcern
 
@@ -1427,7 +1427,7 @@ hyper: [[concern]]
 g: a feeling of concern for the welfare of someone (especially someone defenseless)
 
 w: <<solicitude>>
-w: <<solicitousness>> drf [[file:adj.all.org::solicitous]] drf [[file:adj.all.org::solicitous]]
+w: <<solicitousness>> drf [[file:adjs.all.org::solicitous]] drf [[file:adjs.all.org::solicitous]]
 hyper: [[concern]]
 g: a feeling of excessive concern
 
@@ -1446,7 +1446,7 @@ g: a lack of gratitude
 
 w: <<gratefulness>> drf [[file:adj.all.org::grateful]]
 w: <<thankfulness>> drf [[file:adj.all.org::thankful]]
-w: <<appreciativeness>> drf [[file:adj.all.org::appreciative]]
+w: <<appreciativeness>> drf [[file:adjs.all.org::appreciative]]
 hyper: [[gratitude]]
 g: warm friendly feelings of gratitude
 
@@ -1458,11 +1458,11 @@ w: <<technophobia>>
 hyper: [[dislike]]
 g: dislike for new technology
 
-w: <<nausea>> drf [[file:adj.all.org::nauseous]] drf [[file:verb.perception.org::nauseate]] drf [[file:verb.emotion.org::nauseate]]
+w: <<nausea>> drf [[file:adjs.all.org::nauseous]] drf [[file:verb.perception.org::nauseate]] drf [[file:verb.emotion.org::nauseate]]
 hyper: [[disgust]]
 g: disgust so strong it makes you feel sick
 
-w: <<repugnance>> drf [[file:adj.all.org::repugnant]]
+w: <<repugnance>> drf [[file:adjs.all.org::repugnant]]
 w: <<repulsion>>
 w: <<revulsion>>
 w: <<horror>>
@@ -1478,12 +1478,12 @@ w: <<creepy-crawlies>>
 hyper: [[dislike]]
 g: feelings of dislike and anxiety; "the cave gave me the creepy-crawlies"
 
-w: <<abhorrence>> drf [[file:adj.all.org::abhorrent]] drf [[file:verb.emotion.org::abhor]]
+w: <<abhorrence>> drf [[file:adjs.all.org::abhorrent]] drf [[file:verb.emotion.org::abhor]]
 w: <<abomination>> drf [[file:verb.emotion.org::abominate]]
 w: <<detestation>> drf [[file:verb.emotion.org::detest]]
 w: <<execration>> drf [[file:verb.emotion.org::execrate]]
 w: <<loathing>> drf [[file:verb.emotion.org::loathe]]
-w: <<odium>> drf [[file:adj.all.org::odious]]
+w: <<odium>> drf [[file:adjs.all.org::odious]]
 hyper: [[hate]]
 hyper: [[disgust]]
 g: hate coupled with disgust
@@ -1492,7 +1492,7 @@ w: <<disgust>> drf [[file:verb.emotion.org::disgust]] drf [[file:verb.perception
 hyper: [[dislike]]
 g: strong feelings of dislike
 
-w: <<contempt>> drf [[file:adj.all.org::contemptuous]]
+w: <<contempt>> drf [[file:adjs.all.org::contemptuous]]
 w: <<disdain>> drf [[file:verb.emotion.org::disdain]]
 w: <<scorn>> drf [[file:verb.emotion.org::scorn]]
 w: <<despite>>
@@ -1503,7 +1503,7 @@ w: <<disapproval>> drf [[file:verb.cognition.org::disapprove]] ant [[approval]]
 hyper: [[dislike]]
 g: a feeling of disliking something or what someone is doing
 
-w: <<antipathy>> drf [[file:adj.all.org::antipathetic]] drf [[file:adj.all.org::antipathetic]] drf [[file:adj.all.org::antipathetical]]
+w: <<antipathy>> drf [[file:adjs.all.org::antipathetic]] drf [[file:adjs.all.org::antipathetic]] drf [[file:adjs.all.org::antipathetical]]
 w: <<aversion>>
 w: <<distaste>>
 hyper: [[dislike]]
@@ -1519,7 +1519,7 @@ w: <<estrangement>> drf [[file:verb.social.org::estrange]]
 hyper: [[dislike]]
 g: the feeling of being alienated from other people
 
-w: <<unfriendliness>> drf [[file:adj.all.org::unfriendly1]] ant [[friendliness]]
+w: <<unfriendliness>> drf [[file:adjs.all.org::unfriendly1]] ant [[friendliness]]
 hyper: [[dislike]]
 g: dislike experienced as an absence of friendliness
 
@@ -1588,7 +1588,7 @@ w: <<amicableness>>
 hyper: [[friendliness]]
 g: a disinclination to quarrel
 
-w: <<friendliness>> drf [[file:adj.all.org::friendly]] ant [[unfriendliness]]
+w: <<friendliness>> drf [[file:adjs.all.org::friendly]] ant [[unfriendliness]]
 hyper: [[liking]]
 g: a feeling of liking for another person; enjoyment in their company
 
@@ -1636,7 +1636,7 @@ w: <<fascination>> drf [[file:verb.emotion.org::fascinate1]]
 hyper: [[liking]]
 g: a feeling of great liking for something wonderful and unusual
 
-w: <<fondness1>> drf [[file:adj.all.org::fond]]
+w: <<fondness1>> drf [[file:adjs.all.org::fond]]
 w: <<fancy>> drf [[file:verb.emotion.org::fancy]]
 w: <<partiality>>
 hyper: [[liking]]
@@ -1681,7 +1681,7 @@ hyper: [[file:noun.state.org::tenderness]]
 g: soreness or irritation of the skin caused by friction
 
 w: <<discomfort>>
-w: <<soreness>> drf [[file:adj.all.org::sore]] drf [[file:adj.all.org::sore]]
+w: <<soreness>> drf [[file:adjs.all.org::sore]] drf [[file:adjs.all.org::sore]]
 w: <<irritation>> drf [[file:verb.body.org::irritate]]
 hyper: [[suffering1]]
 g: an uncomfortable feeling of mental painfulness or distress
@@ -1692,7 +1692,7 @@ g: violent pangs of suffering; "death throes"
 
 w: <<agony>> drf [[file:adj.pert.org::agonal]] drf [[file:noun.person.org::agonist1]] drf [[file:noun.person.org::agonist]] drf [[file:verb.emotion.org::agonise1]] drf [[file:verb.emotion.org::agonise]]
 w: <<torment1>> drf [[file:verb.emotion.org::torment]]
-w: <<torture1>> drf [[file:adj.all.org::torturous]] drf [[file:verb.emotion.org::torture]]
+w: <<torture1>> drf [[file:adjs.all.org::torturous]] drf [[file:verb.emotion.org::torture]]
 hyper: [[suffering1]]
 g: intense feelings of suffering; acute mental or physical pain; "an agony of doubt"; "the torments of the damned"
 
@@ -1724,7 +1724,7 @@ hyper: [[pain]]
 g: emotional distress arising during adolescence
 
 w: <<pain>> drf [[file:verb.emotion.org::pain]] ant [[pleasure]]
-w: <<painfulness>> drf [[file:adj.all.org::painful]] drf [[file:adj.all.org::painful]]
+w: <<painfulness>> drf [[file:adjs.all.org::painful]] drf [[file:adj.all.org::painful]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: emotional distress; a fundamental feeling that people try to avoid; "the pain of loneliness"
 
@@ -1779,14 +1779,14 @@ w: <<afterglow>>
 hyper: [[pleasantness]]
 g: the pleasure of remembering some pleasant event; "he basked in the afterglow of his victory"
 
-w: <<pleasantness>> drf [[file:adj.all.org::pleasant]] ant [[unpleasantness]]
+w: <<pleasantness>> drf [[file:adjs.all.org::pleasant]] ant [[unpleasantness]]
 hyper: [[pleasure]]
 g: the feeling caused by agreeable stimuli; one pole of a continuum of states of feeling
 
 w: <<gusto>>
 w: <<relish2>> drf [[file:verb.emotion.org::relish]]
-w: <<zest>> drf [[file:adj.all.org::zesty]]
-w: <<zestfulness>> drf [[file:adj.all.org::zestful]]
+w: <<zest>> drf [[file:adjs.all.org::zesty]]
+w: <<zestfulness>> drf [[file:adjs.all.org::zestful]]
 hyper: [[enjoyment]]
 hyper: [[enthusiasm]]
 g: vigorous and enthusiastic enjoyment
@@ -1823,7 +1823,7 @@ w: <<pleasance>> drf [[file:adj.all.org::pleasant]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: a fundamental feeling that is hard to define but that people desire to experience; "he was tingling with pleasure"
 
-w: <<caprice>> drf [[file:adj.all.org::capricious]]
+w: <<caprice>> drf [[file:adjs.all.org::capricious]]
 w: <<impulse1>>
 w: <<whim>>
 hyper: [[desire]]
@@ -1834,10 +1834,10 @@ w: <<itch>> drf [[file:verb.emotion.org::itch]]
 hyper: [[desire]]
 g: a strong restless desire; "why this urge to travel?"
 
-w: <<prurience>> drf [[file:adj.all.org::prurient]]
-w: <<pruriency>> drf [[file:adj.all.org::prurient]]
-w: <<lasciviousness>> drf [[file:adj.all.org::lascivious]]
-w: <<carnality>> drf [[file:adj.all.org::carnal]]
+w: <<prurience>> drf [[file:adjs.all.org::prurient]]
+w: <<pruriency>> drf [[file:adjs.all.org::prurient]]
+w: <<lasciviousness>> drf [[file:adjs.all.org::lascivious]]
+w: <<carnality>> drf [[file:adjs.all.org::carnal]]
 w: <<lubricity>>
 hyper: [[amorousness2]]
 g: feeling morbid sexual desire or a propensity to lewdness
@@ -1850,17 +1850,17 @@ w: <<satyriasis>>
 hyper: [[sexual_desire]]
 g: abnormally intense sexual desire in men
 
-w: <<nymphomania>> drf [[file:adj.all.org::nymphomaniacal]]
+w: <<nymphomania>> drf [[file:adjs.all.org::nymphomaniacal]]
 hyper: [[sexual_desire]]
 g: abnormally intense sexual desire in women
 
-w: <<lecherousness>> drf [[file:adj.all.org::lecherous]]
-w: <<lust>> drf [[file:adj.all.org::lusty]] drf [[file:verb.consumption.org::lust]]
-w: <<lustfulness>> drf [[file:adj.all.org::lustful2]] drf [[file:adj.all.org::lustful1]] drf [[file:adj.all.org::lustful]]
+w: <<lecherousness>> drf [[file:adjs.all.org::lecherous]]
+w: <<lust>> drf [[file:adjs.all.org::lusty]] drf [[file:verb.consumption.org::lust]]
+w: <<lustfulness>> drf [[file:adjs.all.org::lustful2]] drf [[file:adjs.all.org::lustful1]] drf [[file:adjs.all.org::lustful]]
 hyper: [[sexual_desire]]
 g: a strong sexual desire
 
-w: <<libido>> drf [[file:adj.all.org::libidinous]] drf [[file:adj.pert.org::libidinal]]
+w: <<libido>> drf [[file:adjs.all.org::libidinous]] drf [[file:adj.pert.org::libidinal]]
 hyper: [[sexual_desire]]
 dt: [[file:noun.act.org::psychoanalysis]]
 g: (psychoanalysis) a Freudian term for sexual urge or desire
@@ -1869,16 +1869,16 @@ w: <<fetish>>
 hyper: [[sexual_desire]]
 g: a form of sexual desire in which gratification depends to an abnormal degree on some object or item of clothing or part of the body; "common male fetishes are breasts, legs, hair, shoes, and underwear"
 
-w: <<amorousness2>> drf [[file:adj.all.org::amorous2]]
+w: <<amorousness2>> drf [[file:adjs.all.org::amorous2]]
 w: <<eroticism>>
 w: <<erotism>>
 w: <<sexiness>> drf [[file:adj.all.org::sexy4]] drf [[file:adj.all.org::sexy]]
-w: <<amativeness>> drf [[file:adj.all.org::amative]]
+w: <<amativeness>> drf [[file:adjs.all.org::amative]]
 hyper: [[sexual_desire]]
 g: the arousal of feelings of sexual desire
 
-w: <<sensuality>> drf [[file:adj.all.org::sensual]]
-w: <<sensualness>> drf [[file:adj.all.org::sensual]] drf [[file:adj.all.org::sensual]]
+w: <<sensuality>> drf [[file:adjs.all.org::sensual]]
+w: <<sensualness>> drf [[file:adjs.all.org::sensual]] drf [[file:adjs.all.org::sensual]]
 w: <<sensualism>> drf [[file:noun.person.org::sensualist]]
 hyper: [[sexual_desire]]
 g: desire for sensual pleasures
@@ -1902,8 +1902,8 @@ hyper: [[sexual_desire]]
 g: a deep feeling of sexual desire and attraction; "their love left them indifferent to their surroundings"; "she was his first love"
 
 w: <<sexual_desire>>
-w: <<eros>> drf [[file:adj.all.org::erotic]]
-w: <<concupiscence>> drf [[file:adj.all.org::concupiscent]]
+w: <<eros>> drf [[file:adjs.all.org::erotic]]
+w: <<concupiscence>> drf [[file:adjs.all.org::concupiscent]]
 w: <<physical_attraction>>
 hyper: [[desire]]
 g: a desire for sexual intimacy
@@ -1913,19 +1913,19 @@ w: <<sexual_urge>>
 hyper: [[file:noun.Tops.org::feeling]]
 g: all of the feelings resulting from the urge to gratify sexual impulses; "he wanted a better sex life"; "the film contained no sex or violence"
 
-w: <<homesickness>> drf [[file:adj.all.org::homesick]]
+w: <<homesickness>> drf [[file:adjs.all.org::homesick]]
 hyper: [[nostalgia]]
 g: a longing to return home
 
-w: <<lovesickness>> drf [[file:adj.all.org::lovesick]]
+w: <<lovesickness>> drf [[file:adjs.all.org::lovesick]]
 hyper: [[pining]]
 g: a pining for a loved one
 
-w: <<nostalgia>> drf [[file:adj.all.org::nostalgic]]
+w: <<nostalgia>> drf [[file:adjs.all.org::nostalgic]]
 hyper: [[longing]]
 g: longing for something past
 
-w: <<wistfulness>> drf [[file:adj.all.org::wistful1]]
+w: <<wistfulness>> drf [[file:adjs.all.org::wistful1]]
 hyper: [[longing]]
 g: a sadly pensive longing
 
@@ -1944,7 +1944,7 @@ g: a yearning for something or to do something
 
 w: <<longing>> drf [[file:verb.emotion.org::long2]]
 w: <<yearning>> drf [[file:verb.emotion.org::yearn1]] drf [[file:verb.emotion.org::yearn]]
-w: <<hungriness>> drf [[file:adj.all.org::hungry]]
+w: <<hungriness>> drf [[file:adjs.all.org::hungry]]
 hyper: [[desire]]
 g: prolonged unfulfilled desire or need
 
@@ -1971,8 +1971,8 @@ hyper: [[appetite]]
 g: an appetite for food; "exercise gave him a good stomach for dinner"
 
 w: <<appetite>>
-w: <<appetency>> drf [[file:adj.all.org::appetent]]
-w: <<appetence>> drf [[file:adj.all.org::appetent]]
+w: <<appetency>> drf [[file:adjs.all.org::appetent]]
+w: <<appetence>> drf [[file:adjs.all.org::appetent]]
 hyper: [[craving]]
 g: a feeling of craving something; "an appetite for life"; "the object of life is to satisfy as many appetencies as possible"- Granville Hicks
 
@@ -2000,7 +2000,7 @@ w: <<American_Dream>>
 hyper: [[ambition]]
 g: the widespread aspiration of Americans to live better than their parents did
 
-w: <<ambition>> drf [[file:adj.all.org::ambitious]] drf [[file:verb.emotion.org::ambition]]
+w: <<ambition>> drf [[file:adjs.all.org::ambitious]] drf [[file:verb.emotion.org::ambition]]
 w: <<aspiration>> drf [[file:verb.cognition.org::aspire]]
 w: <<dream>>
 hyper: [[desire]]
@@ -2012,21 +2012,21 @@ g: the feeling that accompanies an unsatisfied state
 
 w: <<languor1>>
 w: <<lassitude>>
-w: <<listlessness>> drf [[file:adj.all.org::listless]] drf [[file:adj.all.org::listless]]
+w: <<listlessness>> drf [[file:adjs.all.org::listless]] drf [[file:adjs.all.org::listless]]
 hyper: [[apathy]]
 g: a feeling of lack of interest or energy
 
-w: <<emotionlessness>> drf [[file:adj.all.org::emotionless]]
-w: <<impassivity>> drf [[file:adj.all.org::impassive]]
-w: <<impassiveness>> drf [[file:adj.all.org::impassive]] drf [[file:adj.all.org::impassive]]
-w: <<phlegm>> drf [[file:adj.all.org::phlegmatic]] drf [[file:adj.all.org::phlegmatical]]
+w: <<emotionlessness>> drf [[file:adjs.all.org::emotionless]]
+w: <<impassivity>> drf [[file:adjs.all.org::impassive]]
+w: <<impassiveness>> drf [[file:adjs.all.org::impassive]] drf [[file:adjs.all.org::impassive]]
+w: <<phlegm>> drf [[file:adjs.all.org::phlegmatic]] drf [[file:adjs.all.org::phlegmatical]]
 w: <<indifference1>>
-w: <<stolidity>> drf [[file:adj.all.org::stolid]]
+w: <<stolidity>> drf [[file:adjs.all.org::stolid]]
 w: <<unemotionality>>
 hyper: [[apathy]]
 g: apathy demonstrated by an absence of emotional reactions
 
-w: <<apathy>> drf [[file:adj.all.org::apathetic]] drf [[file:adj.all.org::apathetic]]
+w: <<apathy>> drf [[file:adjs.all.org::apathetic]] drf [[file:adjs.all.org::apathetic]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: an absence of emotion or enthusiasm
 
@@ -2034,7 +2034,7 @@ w: <<conflict>> drf [[file:verb.stative.org::conflict]]
 hyper: [[ambivalence]]
 g: opposition between two simultaneous but incompatible feelings; "he was immobilized by conflict and indecision"
 
-w: <<ambivalence>> drf [[file:adj.all.org::ambivalent]]
+w: <<ambivalence>> drf [[file:adjs.all.org::ambivalent]]
 w: <<ambivalency>>
 hyper: [[file:noun.Tops.org::feeling]]
 g: mixed feelings or emotions
@@ -2062,24 +2062,24 @@ hyper: [[sentiment]]
 dr: [[file:noun.location.org::Soviet_Union]]
 g: the sentimental feeling you have about someone you once loved but no longer do
 
-w: <<mawkishness>> drf [[file:adj.all.org::mawkish]]
+w: <<mawkishness>> drf [[file:adjs.all.org::mawkish]]
 w: <<bathos>>
 hyper: [[sentimentality]]
 g: insincere pathos
 
-w: <<sentimentality>> drf [[file:adj.all.org::sentimental]]
+w: <<sentimentality>> drf [[file:adjs.all.org::sentimental]]
 hyper: [[sentiment]]
 g: extravagant or affected feeling or emotion
 
-w: <<sentiment>> drf [[file:adj.all.org::sentimental]] drf [[file:adj.all.org::sentimental]]
+w: <<sentiment>> drf [[file:adjs.all.org::sentimental]] drf [[file:adjs.all.org::sentimental]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: tender, romantic, or nostalgic feeling or emotion
 
-w: <<zeal2>> drf [[file:adj.all.org::zealous]]
+w: <<zeal2>> drf [[file:adjs.all.org::zealous]]
 hyper: [[ardor2]]
 g: excessive fervor to do something or accomplish some end; "he had an absolute zeal for litigation"
 
-w: <<storminess>> drf [[file:adj.all.org::stormy]]
+w: <<storminess>> drf [[file:adjs.all.org::stormy]]
 hyper: [[passion]]
 g: violent passion in speech or action; "frightened by the storminess of their argument"
 
@@ -2087,13 +2087,13 @@ w: <<ardor2>>
 w: <<ardour2>>
 w: <<fervor>>
 w: <<fervour>>
-w: <<fervency>> drf [[file:adj.all.org::fervent]]
-w: <<fire>> drf [[file:adj.all.org::fiery]]
-w: <<fervidness>> drf [[file:adj.all.org::fervid]]
+w: <<fervency>> drf [[file:adjs.all.org::fervent]]
+w: <<fire>> drf [[file:adjs.all.org::fiery]]
+w: <<fervidness>> drf [[file:adjs.all.org::fervid]]
 hyper: [[passion]]
 g: feelings of great warmth and intensity; "he spoke with great ardor"
 
-w: <<wildness>> drf [[file:adj.all.org::wild]]
+w: <<wildness>> drf [[file:adjs.all.org::wild]]
 w: <<abandon>>
 hyper: [[passion]]
 g: a feeling of extreme emotional intensity; "the wildness of his anger"
@@ -2108,11 +2108,11 @@ hyper: [[file:noun.Tops.org::feeling]]
 g: a strong feeling or emotion
 
 w: <<soul>>
-w: <<soulfulness>> drf [[file:adj.all.org::soulful]]
+w: <<soulfulness>> drf [[file:adjs.all.org::soulful]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: deep feeling or emotion
 
-w: <<faintness>> drf [[file:adj.all.org::faint]]
+w: <<faintness>> drf [[file:adjs.all.org::faint]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: a feeling of faintness and of being ready to swoon
 
@@ -2128,7 +2128,7 @@ w: <<emotion>> drf [[file:adj.pert.org::emotional]] drf [[file:adj.all.org::emot
 hyper: [[file:noun.Tops.org::feeling]]
 g: any strong feeling
 
-w: <<affect>> drf [[file:adj.all.org::affectional]] drf [[file:verb.emotion.org::affect]]
+w: <<affect>> drf [[file:adjs.all.org::affectional]] drf [[file:verb.emotion.org::affect]]
 hyper: [[file:noun.Tops.org::feeling]]
 g: the conscious subjective aspect of feeling or emotion
 

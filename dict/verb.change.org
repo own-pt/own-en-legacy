@@ -214,7 +214,7 @@ fr: 8 11
 g: destroy completely by or as if by fire; "The wildfire scorched the forest and several homes"; "the invaders scorched the land"
 
 w: <<vulgarise1>> event [[file:noun.act.org::vulgarisation1]] drf [[file:noun.act.org::vulgarisation1]]
-w: <<vulgarize1>> event [[file:noun.act.org::vulgarization1]] drf [[file:adj.all.org::vulgar]] drf [[file:noun.act.org::vulgarization1]]
+w: <<vulgarize1>> event [[file:noun.act.org::vulgarization1]] drf [[file:adjs.all.org::vulgar]] drf [[file:noun.act.org::vulgarization1]]
 hyper: [[change1]]
 fr: 8 11
 g: debase and make vulgar; "The Press has vulgarized Love and Marriage"
@@ -687,13 +687,13 @@ hyper: [[change1]]
 fr: 8 9 10
 g: make sexual, endow with sex, attribute sex to; "The god was sexualized and married to another god"; "Some languages sexualize all nouns and do not have a neuter gender"
 
-w: <<obsolesce>> event [[file:noun.process.org::obsolescence]] drf [[file:adj.all.org::obsolescent]] drf [[file:noun.process.org::obsolescence]]
+w: <<obsolesce>> event [[file:noun.process.org::obsolescence]] drf [[file:adjs.all.org::obsolescent]] drf [[file:noun.process.org::obsolescence]]
 hyper: [[change]]
 fr: 1
 g: become obsolete, fall into disuse; "This word has not obsolesced, although it is rarely used"
 
 w: <<disharmonize>>
-w: <<dissonate>> event [[file:noun.cognition.org::dissonance]] event [[file:noun.attribute.org::dissonance]] drf [[file:adj.all.org::dissonant2]] drf [[file:noun.cognition.org::dissonance]] drf [[file:noun.attribute.org::dissonance]]
+w: <<dissonate>> event [[file:noun.cognition.org::dissonance]] event [[file:noun.attribute.org::dissonance]] drf [[file:adjs.all.org::dissonant2]] drf [[file:noun.cognition.org::dissonance]] drf [[file:noun.attribute.org::dissonance]]
 hyper: [[change1]]
 fr: 8
 g: cause to sound harsh and unpleasant
@@ -965,7 +965,7 @@ hyper: [[break]]
 fr: 1 4
 g: become injured, broken, or distorted by pressure; "The plastic bottle crushed against the wall"
 
-w: <<excite2>> drf [[file:adj.all.org::excitatory]]
+w: <<excite2>> drf [[file:adjs.all.org::excitatory]]
 w: <<energize>> agent [[file:noun.person.org::energizer]] drf [[file:noun.person.org::energizer]] drf [[file:noun.attribute.org::energy1]] drf [[file:noun.attribute.org::energy]] drf [[file:noun.state.org::energy]] drf [[file:noun.phenomenon.org::energy]] drf [[file:noun.act.org::energizing]]
 w: <<energise>> agent [[file:noun.person.org::energiser]] drf [[file:noun.person.org::energiser]]
 hyper: [[change1]]
@@ -1104,7 +1104,7 @@ hyper: [[change1]]
 fr: 8
 g: make less offensive or more acceptable by removing objectionable features; "sanitize a document before releasing it to the press"; "sanitize history"; "sanitize the language in a book"
 
-w: <<disrupt1>> event [[file:noun.act.org::disruption]] drf [[file:adj.all.org::disruptive]] drf [[file:noun.act.org::disruption]]
+w: <<disrupt1>> event [[file:noun.act.org::disruption]] drf [[file:adjs.all.org::disruptive]] drf [[file:noun.act.org::disruption]]
 fr: 8 9 10 11
 g: throw into disorder; "This event disrupted the orderly process"
 
@@ -1146,7 +1146,7 @@ hyper: [[change1]]
 fr: 8 10
 g: make famous forever; "This melody immortalized its composer"
 
-w: <<deliquesce1>> drf [[file:adj.all.org::deliquescent]]
+w: <<deliquesce1>> drf [[file:adjs.all.org::deliquescent]]
 hyper: [[decay2]]
 fr: 2
 g: melt away in the process of decay; "The fungi eventually deliquesced"
@@ -1168,8 +1168,8 @@ hyper: [[change1]]
 fr: 8 10 11
 g: make uniform; "the data have been uniformized"
 
-w: <<volatilize>> drf [[file:adj.all.org::volatile]] drf [[file:adj.all.org::volatilizable]]
-w: <<volatilise>> drf [[file:adj.all.org::volatilisable]]
+w: <<volatilize>> drf [[file:adj.all.org::volatile]] drf [[file:adjs.all.org::volatilizable]]
+w: <<volatilise>> drf [[file:adjs.all.org::volatilisable]]
 hyper: [[change1]]
 dt: [[file:noun.cognition.org::chemistry]]
 fr: 8 11
@@ -1542,13 +1542,13 @@ vg: [[ream1]]
 fr: 8
 g: enlarge with a reamer; "ream a hole"
 
-w: <<expand12>> drf [[file:adj.all.org::expansible]] drf [[file:adj.all.org::expandible]] drf [[file:adj.all.org::expansive]]
+w: <<expand12>> drf [[file:adjs.all.org::expansible]] drf [[file:adjs.all.org::expandible]] drf [[file:adj.all.org::expansive]]
 hyper: [[enlarge3]]
 fr: 8 11
 g: make bigger or wider in size, volume, or quantity; "expand the house by adding another wing"
 
 w: <<extend9>>
-w: <<expand9>> drf [[file:adj.all.org::expandible]] drf [[file:adj.all.org::expansive]]
+w: <<expand9>> drf [[file:adjs.all.org::expandible]] drf [[file:adj.all.org::expansive]]
 vg: [[widen1]]
 hyper: [[change1]]
 fr: 8
@@ -1568,7 +1568,7 @@ g: extend by adding territory
 
 w: <<widen1>>
 w: <<broaden2>>
-w: <<extend1>> event [[file:noun.act.org::extension2]] drf [[file:adj.all.org::extensive]] drf [[file:noun.act.org::extension2]] drf [[file:noun.state.org::extent]]
+w: <<extend1>> event [[file:noun.act.org::extension2]] drf [[file:adjs.all.org::extensive]] drf [[file:noun.act.org::extension2]] drf [[file:noun.state.org::extent]]
 hyper: [[increase2]]
 vg: [[extend9]]
 fr: 8 11
@@ -1594,7 +1594,7 @@ fr: 11
 g: pass through (a barrier); "Registrations cracked through the 30,000 mark in the county"
 
 w: <<lead_up>>
-w: <<initiate>> event [[file:noun.act.org::initiation2]] drf [[file:adj.all.org::initiative]] drf [[file:noun.act.org::initiation2]]
+w: <<initiate>> event [[file:noun.act.org::initiation2]] drf [[file:adjs.all.org::initiative]] drf [[file:noun.act.org::initiation2]]
 hyper: [[file:verb.creation.org::originate]]
 fr: 8 11
 g: set in motion, start an event or prepare the way for; "Hitler's attack on Poland led up to World War II"
@@ -1858,7 +1858,7 @@ fr: 10
 g: make dizzy or giddy; "a dizzying pace"
 
 w: <<take_away3>>
-w: <<detract4>> event [[file:noun.act.org::detraction]] agent [[file:noun.person.org::detractor]] drf [[file:adj.all.org::detractive]] drf [[file:noun.act.org::detraction]] drf [[file:noun.person.org::detractor]]
+w: <<detract4>> event [[file:noun.act.org::detraction]] agent [[file:noun.person.org::detractor]] drf [[file:adjs.all.org::detractive]] drf [[file:noun.act.org::detraction]] drf [[file:noun.person.org::detractor]]
 hyper: [[reduce]]
 fr: 11
 g: take away a part from; diminish; "His bad manners detract from his good character"
@@ -1944,7 +1944,7 @@ hyper: [[issue]]
 fr: 1 4
 g: enter or escape as through a hole or crack or fissure; "Water leaked out of the can into the backpack"; "Gas leaked into the basement"
 
-w: <<radiate2>> by-means-of [[file:noun.object.org::radiator]] drf [[file:adj.all.org::radiant]] drf [[file:noun.object.org::radiator]]
+w: <<radiate2>> by-means-of [[file:noun.object.org::radiator]] drf [[file:adjs.all.org::radiant]] drf [[file:noun.object.org::radiator]]
 hyper: [[issue]]
 fr: 4 22
 g: issue or emerge in rays or waves; "Heat radiated from the metal box"
@@ -1993,7 +1993,7 @@ dt: [[file:noun.act.org::cooking]]
 fr: 8
 g: cure by salting; "dun codfish"
 
-w: <<cure2>> drf [[file:adj.all.org::curable]]
+w: <<cure2>> drf [[file:adjs.all.org::curable]]
 hyper: [[harden]]
 fr: 8 11
 g: make (substances) hard and improve their usability; "cure resin"; "cure cement"; "cure soap"
@@ -2306,7 +2306,7 @@ hyper: [[obscure2]]
 fr: 8 11
 g: make mysterious; "mystify the story"
 
-w: <<facilitate>> state [[file:noun.state.org::facilitation]] event [[file:noun.act.org::facilitation]] agent [[file:noun.person.org::facilitator]] drf [[file:adj.all.org::facilitative]] drf [[file:noun.state.org::facilitation]] drf [[file:noun.act.org::facilitation]] drf [[file:noun.person.org::facilitator]]
+w: <<facilitate>> state [[file:noun.state.org::facilitation]] event [[file:noun.act.org::facilitation]] agent [[file:noun.person.org::facilitator]] drf [[file:adjs.all.org::facilitative]] drf [[file:noun.state.org::facilitation]] drf [[file:noun.act.org::facilitation]] drf [[file:noun.person.org::facilitator]]
 w: <<ease>> drf [[file:noun.event.org::easing]]
 w: <<alleviate>>
 hyper: [[file:verb.social.org::help]]
@@ -2745,7 +2745,7 @@ hyper: [[irritate]]
 fr: 1 11
 g: irritate as if by a nip, pinch, or tear; "smooth surfaces can vellicate the teeth"; "the pain is as if sharp points pinch your back"
 
-w: <<irritate>> event [[file:noun.state.org::irritation1]] drf [[file:adj.all.org::irritative]] drf [[file:noun.state.org::irritation1]]
+w: <<irritate>> event [[file:noun.state.org::irritation1]] drf [[file:adjs.all.org::irritative]] drf [[file:noun.state.org::irritation1]]
 hyper: [[stimulate]]
 dt: [[file:noun.cognition.org::physiology]]
 fr: 11
@@ -2757,8 +2757,8 @@ dt: [[file:noun.cognition.org::physiology]]
 fr: 8 11
 g: stimulate to action; "innervate a muscle or a nerve"
 
-w: <<stimulate>> drf [[file:adj.all.org::stimulative]] drf [[file:adj.all.org::stimulant]] drf [[file:noun.cognition.org::stimulus]] drf [[file:noun.cognition.org::stimulant]] ant [[stifle]]
-w: <<excite>> by-means-of [[file:noun.act.org::excitement]] by-means-of [[file:noun.act.org::excitation]] drf [[file:adj.all.org::excitatory]] drf [[file:adj.all.org::excitant]] drf [[file:noun.act.org::excitement]] drf [[file:noun.act.org::excitation]]
+w: <<stimulate>> drf [[file:adj.all.org::stimulative]] drf [[file:adjs.all.org::stimulant]] drf [[file:noun.cognition.org::stimulus]] drf [[file:noun.cognition.org::stimulant]] ant [[stifle]]
+w: <<excite>> by-means-of [[file:noun.act.org::excitement]] by-means-of [[file:noun.act.org::excitation]] drf [[file:adjs.all.org::excitatory]] drf [[file:adjs.all.org::excitant]] drf [[file:noun.act.org::excitement]] drf [[file:noun.act.org::excitation]]
 hyper: [[affect]]
 fr: 1 8 9 10 11
 g: act as a stimulant; "The book stimulated her imagination"; "This play stimulates"
@@ -2966,7 +2966,7 @@ dt: [[file:noun.cognition.org::chemistry]]
 fr: 8
 g: isolate beforehand
 
-w: <<isolate1>> drf [[file:adj.all.org::isolable]]
+w: <<isolate1>> drf [[file:adjs.all.org::isolable]]
 hyper: [[file:verb.possession.org::get]]
 dt: [[file:noun.cognition.org::chemistry]]
 fr: 8
@@ -3036,7 +3036,7 @@ hyper: [[isolate]]
 fr: 8 11
 g: separate or isolate (one thing) from another and place in a group apart from others; "the sun segregates the carbon"; "large mining claims are segregated into smaller claims"
 
-w: <<isolate>> state [[file:noun.state.org::isolation]] drf [[file:adj.all.org::isolable]] drf [[file:noun.state.org::isolation]]
+w: <<isolate>> state [[file:noun.state.org::isolation]] drf [[file:adjs.all.org::isolable]] drf [[file:noun.state.org::isolation]]
 w: <<insulate>> state [[file:noun.state.org::insulation]] drf [[file:noun.state.org::insulation]]
 hyper: [[file:verb.social.org::discriminate12]]
 fr: 8 9 10 11
@@ -3066,7 +3066,7 @@ dt: [[file:noun.cognition.org::metallurgy]]
 fr: 8 11
 g: lower in value by increasing the base-metal content
 
-w: <<contaminate1>> state [[file:noun.state.org::contamination]] event [[file:noun.act.org::contamination]] by-means-of [[file:noun.substance.org::contamination]] drf [[file:adj.all.org::contaminative]] drf [[file:noun.substance.org::contamination]] drf [[file:noun.state.org::contamination]] drf [[file:noun.act.org::contamination]] ant [[decontaminate]]
+w: <<contaminate1>> state [[file:noun.state.org::contamination]] event [[file:noun.act.org::contamination]] by-means-of [[file:noun.substance.org::contamination]] drf [[file:adjs.all.org::contaminative]] drf [[file:noun.substance.org::contamination]] drf [[file:noun.state.org::contamination]] drf [[file:noun.act.org::contamination]] ant [[decontaminate]]
 hyper: [[change1]]
 fr: 8 11
 g: make radioactive by adding radioactive material; "Don't drink the water--it's contaminated"
@@ -3078,7 +3078,7 @@ g: rid of contamination; "The soil around the housing development had to be deco
 
 w: <<pollute>> state [[file:noun.state.org::pollution2]] state [[file:noun.state.org::pollution]] event [[file:noun.act.org::pollution]] agent [[file:noun.person.org::polluter]] drf [[file:noun.state.org::pollution2]] drf [[file:noun.state.org::pollution]] drf [[file:noun.act.org::pollution]] drf [[file:noun.person.org::polluter]] drf [[file:noun.substance.org::pollutant]]
 w: <<foul3>>
-w: <<contaminate>> state [[file:noun.state.org::contamination]] event [[file:noun.act.org::contamination]] by-means-of [[file:noun.substance.org::contamination]] drf [[file:adj.all.org::contaminative]] drf [[file:noun.substance.org::contamination]] drf [[file:noun.state.org::contamination]] drf [[file:noun.act.org::contamination]] drf [[file:noun.substance.org::contaminant]]
+w: <<contaminate>> state [[file:noun.state.org::contamination]] event [[file:noun.act.org::contamination]] by-means-of [[file:noun.substance.org::contamination]] drf [[file:adjs.all.org::contaminative]] drf [[file:noun.substance.org::contamination]] drf [[file:noun.state.org::contamination]] drf [[file:noun.act.org::contamination]] drf [[file:noun.substance.org::contaminant]]
 hyper: [[file:verb.contact.org::dirty]]
 fr: 8 11
 g: make impure; "The industrial wastes polluted the lake"
@@ -3338,7 +3338,7 @@ hyper: [[end1]]
 fr: 2 33
 g: come or bring to a finish or an end; "He finished the dishes"; "She completed the requirements for her Master's Degree"; "The fastest runner finished the race in just over 2 hours; others finished in over 4 hours"
 
-w: <<compartmentalize>> state [[file:noun.state.org::compartmentalization]] location [[file:noun.artifact.org::compartment1]] location [[file:noun.artifact.org::compartment]] event [[file:noun.act.org::compartmentalization]] drf [[file:adj.all.org::compartmental]] drf [[file:noun.state.org::compartmentalization]] drf [[file:noun.act.org::compartmentalization]] drf [[file:noun.artifact.org::compartment1]] drf [[file:noun.artifact.org::compartment]]
+w: <<compartmentalize>> state [[file:noun.state.org::compartmentalization]] location [[file:noun.artifact.org::compartment1]] location [[file:noun.artifact.org::compartment]] event [[file:noun.act.org::compartmentalization]] drf [[file:adjs.all.org::compartmental]] drf [[file:noun.state.org::compartmentalization]] drf [[file:noun.act.org::compartmentalization]] drf [[file:noun.artifact.org::compartment1]] drf [[file:noun.artifact.org::compartment]]
 w: <<compartmentalise>> state [[file:noun.state.org::compartmentalisation]] location [[file:noun.artifact.org::compartment1]] location [[file:noun.artifact.org::compartment]] event [[file:noun.act.org::compartmentalisation]] drf [[file:noun.state.org::compartmentalisation]] drf [[file:noun.act.org::compartmentalisation]] drf [[file:noun.artifact.org::compartment1]] drf [[file:noun.artifact.org::compartment]]
 w: <<cut_up1>>
 hyper: [[file:verb.contact.org::separate1]]
@@ -3441,7 +3441,7 @@ hyper: [[automatize]]
 fr: 8 11
 g: make semiautomatic; "Can we semi-automatize the semantic tagging process?"
 
-w: <<automatize5>> drf [[file:adj.all.org::automatic]] drf [[file:noun.person.org::automaton1]] drf [[file:noun.artifact.org::automaton]]
+w: <<automatize5>> drf [[file:adjs.all.org::automatic]] drf [[file:noun.person.org::automaton1]] drf [[file:noun.artifact.org::automaton]]
 w: <<automatise5>> drf [[file:noun.person.org::automaton1]]
 hyper: [[change1]]
 fr: 8
@@ -3485,7 +3485,7 @@ fr: 9
 g: kill by submerging in water; "He drowned the kittens"
 
 w: <<kill>>
-w: <<obliterate2>> event [[file:noun.event.org::obliteration]] drf [[file:adj.all.org::obliterable]] drf [[file:noun.event.org::obliteration]]
+w: <<obliterate2>> event [[file:noun.event.org::obliteration]] drf [[file:adjs.all.org::obliterable]] drf [[file:noun.event.org::obliteration]]
 w: <<wipe_out2>> drf [[file:noun.event.org::wipeout]]
 hyper: [[take_away]]
 fr: 8 11
@@ -3639,7 +3639,7 @@ hyper: [[perfect]]
 fr: 8 11
 g: bring to a highly developed, finished, or refined state; "polish your social manners"
 
-w: <<perfect>> event [[file:noun.act.org::perfection]] agent [[file:noun.person.org::perfecter]] drf [[file:adj.all.org::perfectible]] drf [[file:noun.act.org::perfection]] drf [[file:noun.person.org::perfecter]]
+w: <<perfect>> event [[file:noun.act.org::perfection]] agent [[file:noun.person.org::perfecter]] drf [[file:adjs.all.org::perfectible]] drf [[file:noun.act.org::perfection]] drf [[file:noun.person.org::perfecter]]
 w: <<hone>>
 hyper: [[better1]]
 fr: 8 11
@@ -3680,7 +3680,7 @@ hyper: [[extinguish3]]
 fr: 8 11
 g: eliminate; "knock out a target"
 
-w: <<obliterate3>> event [[file:noun.event.org::obliteration]] event [[file:noun.act.org::obliteration]] agent [[file:noun.object.org::obliterator]] drf [[file:adj.all.org::obliterable]] drf [[file:noun.event.org::obliteration]] drf [[file:noun.act.org::obliteration]] drf [[file:noun.object.org::obliterator]]
+w: <<obliterate3>> event [[file:noun.event.org::obliteration]] event [[file:noun.act.org::obliteration]] agent [[file:noun.object.org::obliterator]] drf [[file:adjs.all.org::obliterable]] drf [[file:noun.event.org::obliteration]] drf [[file:noun.act.org::obliteration]] drf [[file:noun.object.org::obliterator]]
 hyper: [[extinguish3]]
 fr: 8 11
 g: do away with completely, without leaving a trace
@@ -3718,7 +3718,7 @@ fr: 9
 g: kill one in every ten, as of mutineers in Roman armies
 
 w: <<eliminate>>
-w: <<annihilate>> event [[file:noun.event.org::annihilation]] event [[file:noun.act.org::annihilation]] agent [[file:noun.person.org::annihilator]] drf [[file:adj.all.org::annihilative]] drf [[file:noun.event.org::annihilation]] drf [[file:noun.act.org::annihilation]] drf [[file:noun.person.org::annihilator]]
+w: <<annihilate>> event [[file:noun.event.org::annihilation]] event [[file:noun.act.org::annihilation]] agent [[file:noun.person.org::annihilator]] drf [[file:adjs.all.org::annihilative]] drf [[file:noun.event.org::annihilation]] drf [[file:noun.act.org::annihilation]] drf [[file:noun.person.org::annihilator]]
 w: <<extinguish1>> event [[file:noun.event.org::extinction]] drf [[file:noun.event.org::extinction]]
 w: <<eradicate>>
 w: <<wipe_out>> drf [[file:noun.event.org::wipeout]]
@@ -3731,7 +3731,7 @@ g: kill in large numbers; "the plague wiped out an entire population"
 
 w: <<commercialize>> event [[file:noun.act.org::commercialization]] drf [[file:noun.act.org::commercialization]]
 w: <<commercialise>> event [[file:noun.act.org::commercialisation]] drf [[file:noun.act.org::commercialisation]]
-w: <<market>> event [[file:noun.act.org::market]] drf [[file:adj.all.org::marketable2]] drf [[file:adj.all.org::marketable1]] drf [[file:adj.all.org::marketable]] drf [[file:noun.act.org::market]] drf [[file:noun.act.org::marketing2]]
+w: <<market>> event [[file:noun.act.org::market]] drf [[file:adjs.all.org::marketable2]] drf [[file:adjs.all.org::marketable1]] drf [[file:adjs.all.org::marketable]] drf [[file:noun.act.org::market]] drf [[file:noun.act.org::marketing2]]
 hyper: [[change1]]
 dt: [[file:noun.act.org::commerce]]
 fr: 8
@@ -3834,7 +3834,7 @@ hyper: [[integrate1]]
 fr: 11
 g: become integrated into the genome of (a bacterium)
 
-w: <<integrate>> event [[file:noun.act.org::integration2]] drf [[file:adj.all.org::integrative]] drf [[file:adj.all.org::integrative]] drf [[file:noun.act.org::integration2]] ant [[disintegrate]]
+w: <<integrate>> event [[file:noun.act.org::integration2]] drf [[file:adjs.all.org::integrative]] drf [[file:adj.all.org::integrative]] drf [[file:noun.act.org::integration2]] ant [[disintegrate]]
 w: <<incorporate>> event [[file:noun.act.org::incorporation1]] event [[file:noun.act.org::incorporation]] drf [[file:noun.act.org::incorporation1]] drf [[file:noun.act.org::incorporation]]
 hyper: [[file:verb.contact.org::compound]]
 fr: 8 21
@@ -3961,12 +3961,12 @@ hyper: [[suppress]]
 fr: 8
 g: get rid of, silence, or suppress; "burke an issue"
 
-w: <<inhibit1>> material [[file:noun.substance.org::inhibitor]] drf [[file:adj.all.org::inhibitory]] drf [[file:noun.substance.org::inhibitor]]
+w: <<inhibit1>> material [[file:noun.substance.org::inhibitor]] drf [[file:adjs.all.org::inhibitory]] drf [[file:noun.substance.org::inhibitor]]
 hyper: [[restrict]]
 fr: 8 11
 g: limit the range or extent of; "Contact between the young was inhibited by strict social customs"
 
-w: <<suppress>> instrument [[file:noun.artifact.org::suppresser]] event [[file:noun.act.org::suppression2]] event [[file:noun.act.org::suppression1]] agent [[file:noun.person.org::suppressor]] agent [[file:noun.person.org::suppresser]] drf [[file:adj.all.org::suppressive]] drf [[file:noun.act.org::suppression2]] drf [[file:noun.act.org::suppression1]] drf [[file:noun.artifact.org::suppresser]] drf [[file:noun.person.org::suppresser]] drf [[file:noun.person.org::suppressor]]
+w: <<suppress>> instrument [[file:noun.artifact.org::suppresser]] event [[file:noun.act.org::suppression2]] event [[file:noun.act.org::suppression1]] agent [[file:noun.person.org::suppressor]] agent [[file:noun.person.org::suppresser]] drf [[file:adjs.all.org::suppressive]] drf [[file:noun.act.org::suppression2]] drf [[file:noun.act.org::suppression1]] drf [[file:noun.artifact.org::suppresser]] drf [[file:noun.person.org::suppresser]] drf [[file:noun.person.org::suppressor]]
 w: <<stamp_down>>
 w: <<inhibit>> event [[file:noun.act.org::inhibition1]] event [[file:noun.act.org::inhibition]] drf [[file:noun.act.org::inhibition1]] drf [[file:noun.act.org::inhibition]]
 w: <<subdue1>> agent [[file:noun.person.org::subduer]] drf [[file:noun.person.org::subduer]]
@@ -4194,7 +4194,7 @@ hyper: [[water]]
 fr: 8 11
 g: cause to flow or flood with or as if with water; "flush the meadows"
 
-w: <<suffuse>> event [[file:noun.process.org::suffusion]] drf [[file:adj.all.org::suffusive]] drf [[file:noun.process.org::suffusion]]
+w: <<suffuse>> event [[file:noun.process.org::suffusion]] drf [[file:adjs.all.org::suffusive]] drf [[file:noun.process.org::suffusion]]
 hyper: [[change]]
 fr: 1 4
 g: to become overspread as with a fluid, a colour, a gleam of light; "His whole frame suffused with a cold dew"
@@ -4204,7 +4204,7 @@ hyper: [[flush3]]
 fr: 8 11
 g: force a fluid through (a body part or tissue); "perfuse a liver with a salt solution"
 
-w: <<suffuse1>> event [[file:noun.process.org::suffusion]] drf [[file:adj.all.org::suffusive]] drf [[file:noun.process.org::suffusion]]
+w: <<suffuse1>> event [[file:noun.process.org::suffusion]] drf [[file:adjs.all.org::suffusive]] drf [[file:noun.process.org::suffusion]]
 w: <<perfuse>>
 hyper: [[flush3]]
 fr: 11 21
@@ -4376,7 +4376,7 @@ fr: 1
 g: become empty or void of its content; "The room emptied"
 
 w: <<invalidate>> event [[file:noun.act.org::invalidation]] drf [[file:noun.act.org::invalidation]] ant [[validate]]
-w: <<void>> drf [[file:adj.all.org::voidable]]
+w: <<void>> drf [[file:adjs.all.org::voidable]]
 w: <<vitiate>> event [[file:noun.act.org::vitiation]] drf [[file:noun.act.org::vitiation]]
 hyper: [[change1]]
 fr: 8 11
@@ -4488,7 +4488,7 @@ dt: [[file:noun.act.org::cooking]]
 fr: 8
 g: melt (fat or lard) in order to separate out impurities; "try the yak butter"; "render fat in a casserole"
 
-w: <<melt1>> event [[file:noun.process.org::melt]] drf [[file:adj.all.org::meltable]] drf [[file:noun.process.org::melt]] drf [[file:noun.process.org::melting]]
+w: <<melt1>> event [[file:noun.process.org::melt]] drf [[file:adjs.all.org::meltable]] drf [[file:noun.process.org::melt]] drf [[file:noun.process.org::melting]]
 w: <<run>>
 w: <<melt_down>>
 hyper: [[dissolve1]]
@@ -4496,8 +4496,8 @@ vg: [[file:verb.motion.org::run8]]
 fr: 1 8 11
 g: reduce or cause to be reduced from a solid to a liquid state, usually by heating; "melt butter"; "melt down gold"; "The wax melted in the sun"
 
-w: <<liquefy1>> event [[file:noun.process.org::liquefaction]] drf [[file:adj.all.org::liquefiable]] drf [[file:noun.process.org::liquefaction]]
-w: <<liquify1>> result [[file:noun.substance.org::liquid]] result [[file:noun.state.org::liquid]] drf [[file:adj.all.org::liquifiable]] drf [[file:noun.substance.org::liquid]] drf [[file:noun.state.org::liquid]]
+w: <<liquefy1>> event [[file:noun.process.org::liquefaction]] drf [[file:adjs.all.org::liquefiable]] drf [[file:noun.process.org::liquefaction]]
+w: <<liquify1>> result [[file:noun.substance.org::liquid]] result [[file:noun.state.org::liquid]] drf [[file:adjs.all.org::liquifiable]] drf [[file:noun.substance.org::liquid]] drf [[file:noun.state.org::liquid]]
 w: <<liquidize>> instrument [[file:noun.artifact.org::liquidizer]] drf [[file:noun.artifact.org::liquidizer]]
 w: <<liquidise>> instrument [[file:noun.artifact.org::liquidizer]] drf [[file:noun.artifact.org::liquidizer]]
 hyper: [[change1]]
@@ -4505,9 +4505,9 @@ dt: [[file:noun.cognition.org::physics]]
 fr: 8 11
 g: make (a solid substance) liquid, as by heating; "liquefy the silver"
 
-w: <<liquefy>> event [[file:noun.process.org::liquefaction]] drf [[file:adj.all.org::liquefiable]] drf [[file:noun.process.org::liquefaction]]
+w: <<liquefy>> event [[file:noun.process.org::liquefaction]] drf [[file:adjs.all.org::liquefiable]] drf [[file:noun.process.org::liquefaction]]
 w: <<flux1>> event [[file:noun.event.org::flux]] drf [[file:noun.event.org::flux]]
-w: <<liquify>> result [[file:noun.substance.org::liquid]] result [[file:noun.state.org::liquid]] drf [[file:adj.all.org::liquifiable]] drf [[file:noun.substance.org::liquid]] drf [[file:noun.state.org::liquid]]
+w: <<liquify>> result [[file:noun.substance.org::liquid]] result [[file:noun.state.org::liquid]] drf [[file:adjs.all.org::liquifiable]] drf [[file:noun.substance.org::liquid]] drf [[file:noun.state.org::liquid]]
 hyper: [[change_integrity]]
 dt: [[file:noun.cognition.org::physics]]
 fr: 1
@@ -4554,7 +4554,7 @@ fr: 1
 g: become gelatinous; "the liquid jelled after we added the enzyme"
 
 w: <<gasify>> result [[file:noun.substance.org::gas3]] result [[file:noun.substance.org::gas]] result [[file:noun.state.org::gas]] event [[file:noun.process.org::gasification]] drf [[file:noun.process.org::gasification]] drf [[file:noun.substance.org::gas3]] drf [[file:noun.substance.org::gas2]] drf [[file:noun.substance.org::gas]] drf [[file:noun.state.org::gas]]
-w: <<vaporize>> result [[file:noun.substance.org::vapor1]] event [[file:noun.process.org::vaporization]] event [[file:noun.process.org::vapor]] drf [[file:adj.all.org::vaporizable]] drf [[file:noun.process.org::vaporization]] drf [[file:noun.substance.org::vapor1]] drf [[file:noun.process.org::vapor]]
+w: <<vaporize>> result [[file:noun.substance.org::vapor1]] event [[file:noun.process.org::vaporization]] event [[file:noun.process.org::vapor]] drf [[file:adjs.all.org::vaporizable]] drf [[file:noun.process.org::vaporization]] drf [[file:noun.substance.org::vapor1]] drf [[file:noun.process.org::vapor]]
 w: <<vaporise>> result [[file:noun.substance.org::vapor1]] event [[file:noun.process.org::vaporisation]] event [[file:noun.process.org::vapor]] drf [[file:noun.process.org::vaporisation]] drf [[file:noun.substance.org::vapor1]] drf [[file:noun.process.org::vapor]]
 w: <<aerify>> drf [[file:noun.substance.org::air]]
 hyper: [[change_integrity]]
@@ -4638,7 +4638,7 @@ hyper: [[increase2]]
 fr: 8
 g: increase the number of rotations per minute; "rev up an engine"
 
-w: <<accelerate1>> instrument [[file:noun.artifact.org::accelerator2]] instrument [[file:noun.artifact.org::accelerator]] event [[file:noun.attribute.org::acceleration]] event [[file:noun.act.org::acceleration]] drf [[file:adj.all.org::acceleratory]] drf [[file:adj.all.org::accelerative]] drf [[file:noun.attribute.org::acceleration]] drf [[file:noun.act.org::acceleration]] drf [[file:noun.artifact.org::accelerator2]] drf [[file:noun.artifact.org::accelerator]] ant [[decelerate1]]
+w: <<accelerate1>> instrument [[file:noun.artifact.org::accelerator2]] instrument [[file:noun.artifact.org::accelerator]] event [[file:noun.attribute.org::acceleration]] event [[file:noun.act.org::acceleration]] drf [[file:adjs.all.org::acceleratory]] drf [[file:adjs.all.org::accelerative]] drf [[file:noun.attribute.org::acceleration]] drf [[file:noun.act.org::acceleration]] drf [[file:noun.artifact.org::accelerator2]] drf [[file:noun.artifact.org::accelerator]] ant [[decelerate1]]
 w: <<speed2>> property [[file:noun.time.org::speed]] property [[file:noun.attribute.org::speed]] event [[file:noun.act.org::speed]] drf [[file:noun.act.org::speed]] drf [[file:noun.time.org::speed]] drf [[file:noun.attribute.org::speed]]
 w: <<speed_up1>> drf [[file:noun.act.org::speedup]]
 hyper: [[change1]]
@@ -4671,7 +4671,7 @@ hyper: [[change1]]
 fr: 8 9 10 11
 g: reduce the speed of; "He slowed down the car"
 
-w: <<accelerate>> drf [[file:adj.all.org::acceleratory]] drf [[file:adj.all.org::accelerative]] ant [[decelerate]]
+w: <<accelerate>> drf [[file:adjs.all.org::acceleratory]] drf [[file:adjs.all.org::accelerative]] ant [[decelerate]]
 w: <<speed_up>> drf [[file:noun.act.org::speedup]]
 w: <<speed>> property [[file:noun.time.org::speed]] property [[file:noun.attribute.org::speed]] event [[file:noun.act.org::speed]] drf [[file:noun.act.org::speed]] drf [[file:noun.time.org::speed]] drf [[file:noun.attribute.org::speed]]
 w: <<quicken1>> drf [[file:noun.act.org::quickening]]
@@ -4710,7 +4710,7 @@ hyper: [[change1]]
 fr: 8 11
 g: make (more) diverse; "diversify a course of study"
 
-w: <<vary4>> event [[file:noun.act.org::variation1]] drf [[file:adj.all.org::variable]] drf [[file:adj.all.org::variant]] drf [[file:noun.act.org::variation1]]
+w: <<vary4>> event [[file:noun.act.org::variation1]] drf [[file:adjs.all.org::variable]] drf [[file:adjs.all.org::variant]] drf [[file:noun.act.org::variation1]]
 w: <<variegate>> event [[file:noun.act.org::variegation]] drf [[file:noun.act.org::variegation]]
 w: <<motley1>> result [[file:noun.group.org::motley]] drf [[file:noun.group.org::motley]]
 hyper: [[diversify2]]
@@ -4962,7 +4962,7 @@ dt: [[file:noun.act.org::sailing]]
 fr: 8
 g: reduce the pressure of wind on (a sail)
 
-w: <<reduce>> event [[file:noun.act.org::reduction]] drf [[file:adj.all.org::reductive]] drf [[file:noun.act.org::reduction]]
+w: <<reduce>> event [[file:noun.act.org::reduction]] drf [[file:adjs.all.org::reductive]] drf [[file:noun.act.org::reduction]]
 w: <<cut_down>>
 w: <<cut_back1>> drf [[file:noun.act.org::cutback]]
 w: <<trim>> event [[file:noun.act.org::trim]] drf [[file:noun.act.org::trim]]
@@ -5081,7 +5081,7 @@ hyper: [[appear]]
 fr: 1 2
 g: come, usually in answer to an invitation or summons; "How many people turned out that evening?"
 
-w: <<fulminate1>> drf [[file:adj.all.org::fulminant]]
+w: <<fulminate1>> drf [[file:adjs.all.org::fulminant]]
 hyper: [[appear2]]
 fr: 1
 g: come on suddenly and intensely; "the disease fulminated"
@@ -5164,7 +5164,7 @@ hyper: [[appear]]
 fr: 4
 g: appear as though from hiding; "the new moon peeped through the tree tops"
 
-w: <<appear>> property [[file:noun.attribute.org::appearance]] event [[file:noun.event.org::appearance]] event [[file:noun.act.org::apparition]] drf [[file:adj.all.org::apparent]] drf [[file:noun.act.org::apparition]] drf [[file:noun.event.org::appearance]] drf [[file:noun.attribute.org::appearance]] ant [[disappear]]
+w: <<appear>> property [[file:noun.attribute.org::appearance]] event [[file:noun.event.org::appearance]] event [[file:noun.act.org::apparition]] drf [[file:adjs.all.org::apparent]] drf [[file:noun.act.org::apparition]] drf [[file:noun.event.org::appearance]] drf [[file:noun.attribute.org::appearance]] ant [[disappear]]
 fr: 1 2 4 22
 g: come into sight or view; "He suddenly appeared at the wedding"; "A new star appeared on the horizon"
 
@@ -5174,7 +5174,7 @@ hyper: [[disappear]]
 fr: 1 2
 g: lose freshness, vigor, or vitality; "Her bloom was fading"
 
-w: <<evanesce>> event [[file:noun.event.org::evanescence]] drf [[file:adj.all.org::evanescent]] drf [[file:noun.event.org::evanescence]]
+w: <<evanesce>> event [[file:noun.event.org::evanescence]] drf [[file:adjs.all.org::evanescent]] drf [[file:noun.event.org::evanescence]]
 w: <<fade>>
 w: <<blow_over>>
 w: <<pass_off1>>
@@ -5534,7 +5534,7 @@ hyper: [[change1]]
 fr: 8 9
 g: make American in character; "The year in the US has completely Americanized him"
 
-w: <<bestialize>> drf [[file:adj.all.org::bestial]]
+w: <<bestialize>> drf [[file:adjs.all.org::bestial]]
 w: <<bestialise>>
 hyper: [[change1]]
 fr: 10 11
@@ -5637,7 +5637,7 @@ fr: 22
 g: take measures in preparation for; "provide for the proper care of the passengers on the cruise ship"
 
 w: <<fix3>>
-w: <<prepare>> state [[file:noun.state.org::preparation]] event [[file:noun.act.org::preparation2]] drf [[file:adj.all.org::preparative]] drf [[file:adj.all.org::preparatory]] drf [[file:noun.state.org::preparation]] drf [[file:noun.act.org::preparation2]] fr 2
+w: <<prepare>> state [[file:noun.state.org::preparation]] event [[file:noun.act.org::preparation2]] drf [[file:adjs.all.org::preparative]] drf [[file:adjs.all.org::preparatory]] drf [[file:noun.state.org::preparation]] drf [[file:noun.act.org::preparation2]] fr 2
 w: <<set_up2>>
 w: <<ready>> state [[file:noun.state.org::ready]] drf [[file:noun.state.org::ready]] drf [[file:noun.act.org::readying]]
 w: <<gear_up>>  fr 2
@@ -5816,7 +5816,7 @@ dt: [[file:noun.cognition.org::physics]]
 fr: 8 11
 g: make magnetic; "The strong magnet magnetized the iron shavings"
 
-w: <<putrefy>> result [[file:noun.state.org::putrefaction]] event [[file:noun.process.org::putrefaction]] drf [[file:adj.all.org::putrefactive]] drf [[file:adj.all.org::putrefacient]] drf [[file:noun.state.org::putrefaction]] drf [[file:noun.process.org::putrefaction]]
+w: <<putrefy>> result [[file:noun.state.org::putrefaction]] event [[file:noun.process.org::putrefaction]] drf [[file:adjs.all.org::putrefactive]] drf [[file:adjs.all.org::putrefacient]] drf [[file:noun.state.org::putrefaction]] drf [[file:noun.process.org::putrefaction]]
 hyper: [[decay2]]
 entail: [[file:verb.perception.org::smell]]
 fr: 1 4
@@ -5883,14 +5883,14 @@ hyper: [[disintegrate]]
 fr: 1 4
 g: break or fall apart into fragments; "The cookies crumbled"; "The Sphinx is crumbling"
 
-w: <<fuse3>> drf [[file:adj.all.org::fusible]]
+w: <<fuse3>> drf [[file:adjs.all.org::fusible]]
 hyper: [[liquefy]]
 entail: [[heat]]
 vg: [[fuse2]]
 fr: 1
 g: become plastic or fluid or liquefied from heat; "The substances fused at a very high temperature"
 
-w: <<fuse2>> event [[file:noun.act.org::fusion]] drf [[file:adj.all.org::fusible]] drf [[file:noun.act.org::fusion]]
+w: <<fuse2>> event [[file:noun.act.org::fusion]] drf [[file:adjs.all.org::fusible]] drf [[file:noun.act.org::fusion]]
 vg: [[fuse3]]
 hyper: [[melt1]]
 fr: 8 11
@@ -5915,7 +5915,7 @@ dt: [[file:noun.cognition.org::chemistry]]
 fr: 8
 g: unite chemically so that the product is easily broken down into the original compounds
 
-w: <<accrete>> drf [[file:adj.all.org::accretive]]
+w: <<accrete>> drf [[file:adjs.all.org::accretive]]
 hyper: [[blend]]
 dt: [[file:noun.Tops.org::plant]]
 fr: 1
@@ -5954,7 +5954,7 @@ w: <<mix>> instrument [[file:noun.artifact.org::mixer]] event [[file:noun.event.
 w: <<conflate>>
 w: <<commingle>>
 w: <<immix>>
-w: <<fuse>> event [[file:noun.event.org::fusion]] event [[file:noun.act.org::fusion]] drf [[file:adj.all.org::fusible]] drf [[file:noun.event.org::fusion]] drf [[file:noun.act.org::fusion]]
+w: <<fuse>> event [[file:noun.event.org::fusion]] event [[file:noun.act.org::fusion]] drf [[file:adjs.all.org::fusible]] drf [[file:noun.event.org::fusion]] drf [[file:noun.act.org::fusion]]
 w: <<coalesce>> state [[file:noun.state.org::coalition]] event [[file:noun.act.org::coalition]] drf [[file:noun.act.org::coalition]] drf [[file:noun.state.org::coalition]] drf [[file:noun.act.org::coalescency]]
 w: <<meld>>
 w: <<combine>> result [[file:noun.group.org::combination]] event [[file:noun.event.org::combine]] drf [[file:noun.group.org::combination]] drf [[file:noun.event.org::combine]] drf [[file:noun.act.org::combining]]
@@ -6132,7 +6132,7 @@ fr: 9 10
 g: weaken mentally or morally
 
 w: <<enfeeble>> event [[file:noun.event.org::enfeeblement]] drf [[file:noun.event.org::enfeeblement]]
-w: <<debilitate>> event [[file:noun.event.org::debilitation]] drf [[file:adj.all.org::debilitative]] drf [[file:noun.state.org::debility]] drf [[file:noun.event.org::debilitation]]
+w: <<debilitate>> event [[file:noun.event.org::debilitation]] drf [[file:adjs.all.org::debilitative]] drf [[file:noun.state.org::debility]] drf [[file:noun.event.org::debilitation]]
 w: <<drain4>>
 hyper: [[weaken1]]
 fr: 10
@@ -6189,12 +6189,12 @@ hyper: [[change1]]
 fr: 8
 g: make according to requirements; "customize a car"
 
-w: <<resile2>> event [[file:noun.event.org::resilience]] by-means-of [[file:noun.attribute.org::resilience]] drf [[file:adj.all.org::resilient]] drf [[file:noun.attribute.org::resiliency]] drf [[file:noun.event.org::resilience]] drf [[file:noun.attribute.org::resilience]]
+w: <<resile2>> event [[file:noun.event.org::resilience]] by-means-of [[file:noun.attribute.org::resilience]] drf [[file:adjs.all.org::resilient]] drf [[file:noun.attribute.org::resiliency]] drf [[file:noun.event.org::resilience]] drf [[file:noun.attribute.org::resilience]]
 hyper: [[revert]]
 fr: 1
 g: return to the original position or state after being stretched or compressed; "The rubber tubes resile"
 
-w: <<revert>> event [[file:noun.act.org::reversion2]] drf [[file:adj.all.org::reversive]] drf [[file:noun.act.org::reversion2]] drf [[file:noun.act.org::reverting]]
+w: <<revert>> event [[file:noun.act.org::reversion2]] drf [[file:adjs.all.org::reversive]] drf [[file:noun.act.org::reversion2]] drf [[file:noun.act.org::reverting]]
 w: <<return>> event [[file:noun.event.org::return2]] drf [[file:noun.event.org::return2]]
 w: <<retrovert>> event [[file:noun.act.org::retroversion]] drf [[file:noun.act.org::retroversion]]
 w: <<regress1>> event [[file:noun.act.org::regression]] event [[file:noun.act.org::regress]] drf [[file:noun.act.org::regress]] drf [[file:noun.act.org::regression]]
@@ -6278,7 +6278,7 @@ hyper: [[reform4]]
 fr: 9 10
 g: improve the morals of
 
-w: <<reform4>> event [[file:noun.act.org::reformation1]] event [[file:noun.act.org::reform2]] drf [[file:adj.all.org::reformative]] drf [[file:adj.all.org::reformatory]] drf [[file:noun.act.org::reform2]] drf [[file:noun.person.org::reformist]] drf [[file:noun.act.org::reformation1]]
+w: <<reform4>> event [[file:noun.act.org::reformation1]] event [[file:noun.act.org::reform2]] drf [[file:adjs.all.org::reformative]] drf [[file:adjs.all.org::reformatory]] drf [[file:noun.act.org::reform2]] drf [[file:noun.person.org::reformist]] drf [[file:noun.act.org::reformation1]]
 w: <<reclaim8>> event [[file:noun.act.org::reclamation]] drf [[file:noun.act.org::reclamation]]
 w: <<regenerate5>>
 w: <<rectify8>> event [[file:noun.act.org::rectification]] drf [[file:noun.act.org::rectification]]
@@ -6428,7 +6428,7 @@ fr: 8
 g: cause blisters to form on; "the tight shoes and perspiration blistered her feet"
 
 w: <<blister>> result [[file:noun.body.org::blister]] body-part [[file:noun.body.org::blister]] drf [[file:noun.body.org::blister]]
-w: <<vesicate>> event [[file:noun.process.org::vesication]] drf [[file:adj.all.org::vesicatory]] drf [[file:adj.all.org::vesicant]] drf [[file:noun.process.org::vesication]]
+w: <<vesicate>> event [[file:noun.process.org::vesication]] drf [[file:adjs.all.org::vesicatory]] drf [[file:adjs.all.org::vesicant]] drf [[file:noun.process.org::vesication]]
 hyper: [[swell]]
 vg: [[blister1]]
 fr: 1
@@ -6458,7 +6458,7 @@ hyper: [[burn2]]
 fr: 2
 g: set a controlled fire to halt an advancing forest to prairie fire
 
-w: <<burn2>> location [[file:noun.attribute.org::burn]] drf [[file:adj.all.org::burnable]] drf [[file:noun.attribute.org::burn]]
+w: <<burn2>> location [[file:noun.attribute.org::burn]] drf [[file:adjs.all.org::burnable]] drf [[file:noun.attribute.org::burn]]
 w: <<fire1>> event [[file:noun.process.org::fire]] event [[file:noun.event.org::fire]] drf [[file:noun.artifact.org::fire]] drf [[file:noun.process.org::fire]] drf [[file:noun.event.org::fire]]
 w: <<burn_down2>>
 vg: [[burn]]
@@ -6479,7 +6479,7 @@ hyper: [[burn_down]]
 fr: 1
 g: become reduced to ashes; "The paper incinerated quickly"
 
-w: <<burn1>> location [[file:noun.attribute.org::burn]] instrument [[file:noun.artifact.org::burner]] event [[file:noun.act.org::burn]] drf [[file:adj.all.org::burnable]] drf [[file:noun.attribute.org::burn]] drf [[file:noun.act.org::burn]] drf [[file:noun.artifact.org::burner]]
+w: <<burn1>> location [[file:noun.attribute.org::burn]] instrument [[file:noun.artifact.org::burner]] event [[file:noun.act.org::burn]] drf [[file:adjs.all.org::burnable]] drf [[file:noun.attribute.org::burn]] drf [[file:noun.act.org::burn]] drf [[file:noun.artifact.org::burner]]
 w: <<incinerate>> instrument [[file:noun.artifact.org::incinerator]] event [[file:noun.act.org::incineration]] drf [[file:noun.act.org::incineration]] drf [[file:noun.artifact.org::incinerator]]
 hyper: [[change_integrity]]
 vg: [[incinerate1]]
@@ -6511,8 +6511,8 @@ hyper: [[burn]]
 fr: 1
 g: burn completely; be consumed or destroyed by fire; "The hut burned down"; "The mountain of paper went up in flames"
 
-w: <<burn>> event [[file:noun.act.org::burn]] drf [[file:adj.all.org::burnable]] drf [[file:noun.act.org::burn]]
-w: <<combust>> event [[file:noun.process.org::combustion]] drf [[file:adj.all.org::combustible]] drf [[file:adj.all.org::combustive]] drf [[file:noun.process.org::combustion]]
+w: <<burn>> event [[file:noun.act.org::burn]] drf [[file:adjs.all.org::burnable]] drf [[file:noun.act.org::burn]]
+w: <<combust>> event [[file:noun.process.org::combustion]] drf [[file:adj.all.org::combustible]] drf [[file:adjs.all.org::combustive]] drf [[file:noun.process.org::combustion]]
 hyper: [[change_state]]
 vg: [[burn2]]
 fr: 1
@@ -6525,7 +6525,7 @@ hyper: [[dissolve7]]
 fr: 1 8 11
 g: make or become free of frost or ice; "Defrost the car window"
 
-w: <<deliquesce>> drf [[file:adj.all.org::deliquescent]]
+w: <<deliquesce>> drf [[file:adjs.all.org::deliquescent]]
 hyper: [[dissolve7]]
 fr: 1
 g: melt or become liquid by absorbing moisture from the air; "this type of salt deliquesces easily"
@@ -6535,7 +6535,7 @@ w: <<thaw>> event [[file:noun.process.org::thaw]] event [[file:noun.phenomenon.o
 w: <<unfreeze>>
 w: <<unthaw>>
 w: <<dethaw>>
-w: <<melt>> event [[file:noun.process.org::melt]] agent [[file:noun.person.org::melter]] drf [[file:adj.all.org::meltable]] drf [[file:noun.process.org::melt]] drf [[file:noun.person.org::melter]] drf [[file:noun.process.org::melting]]
+w: <<melt>> event [[file:noun.process.org::melt]] agent [[file:noun.person.org::melter]] drf [[file:adjs.all.org::meltable]] drf [[file:noun.process.org::melt]] drf [[file:noun.person.org::melter]] drf [[file:noun.process.org::melting]]
 hyper: [[liquefy]]
 fr: 1 8 11
 g: become or cause to become soft or liquid; "The sun melted the ice"; "the ice thawed"; "the ice cream melted"; "The heat melted the wax"; "The giant iceberg dissolved over the years during the global warming phase"; "dethaw the meat"
@@ -6639,7 +6639,7 @@ hyper: [[change1]]
 fr: 8 11
 g: make warm or warmer; "The blanket will warm you"
 
-w: <<heat>> result [[file:noun.cognition.org::heat]] result [[file:noun.attribute.org::heat1]] by-means-of [[file:noun.phenomenon.org::heat]] by-means-of [[file:noun.artifact.org::heat]] drf [[file:adj.all.org::heatable]] drf [[file:noun.artifact.org::heat]] drf [[file:noun.cognition.org::heat]] drf [[file:noun.attribute.org::heat1]] drf [[file:noun.phenomenon.org::heat]] drf [[file:noun.process.org::heating]] ant [[cool]]
+w: <<heat>> result [[file:noun.cognition.org::heat]] result [[file:noun.attribute.org::heat1]] by-means-of [[file:noun.phenomenon.org::heat]] by-means-of [[file:noun.artifact.org::heat]] drf [[file:adjs.all.org::heatable]] drf [[file:noun.artifact.org::heat]] drf [[file:noun.cognition.org::heat]] drf [[file:noun.attribute.org::heat1]] drf [[file:noun.phenomenon.org::heat]] drf [[file:noun.process.org::heating]] ant [[cool]]
 w: <<hot_up2>>
 w: <<heat_up1>>
 hyper: [[change_state]]
@@ -6668,7 +6668,7 @@ hyper: [[heat1]]
 fr: 8
 g: heat a metal prior to working it
 
-w: <<refrigerate1>> instrument [[file:noun.artifact.org::refrigerator]] event [[file:noun.process.org::refrigeration]] drf [[file:adj.all.org::refrigerant]] drf [[file:noun.process.org::refrigeration]] drf [[file:noun.artifact.org::refrigerator]]
+w: <<refrigerate1>> instrument [[file:noun.artifact.org::refrigerator]] event [[file:noun.process.org::refrigeration]] drf [[file:adjs.all.org::refrigerant]] drf [[file:noun.process.org::refrigeration]] drf [[file:noun.artifact.org::refrigerator]]
 hyper: [[preserve]]
 fr: 8
 g: preserve by chilling; "many foods must be refrigerated or else they will spoil"
@@ -6683,14 +6683,14 @@ hyper: [[heat1]]
 fr: 8
 g: heat to the boiling point; "scald the milk"
 
-w: <<heat1>> uses [[file:noun.cognition.org::heat]] uses [[file:noun.attribute.org::heat1]] instrument [[file:noun.artifact.org::heater]] by-means-of [[file:noun.phenomenon.org::heat]] drf [[file:adj.all.org::heatable]] drf [[file:noun.cognition.org::heat]] drf [[file:noun.attribute.org::heat1]] drf [[file:noun.phenomenon.org::heat]] drf [[file:noun.artifact.org::heater]] ant [[cool1]]
+w: <<heat1>> uses [[file:noun.cognition.org::heat]] uses [[file:noun.attribute.org::heat1]] instrument [[file:noun.artifact.org::heater]] by-means-of [[file:noun.phenomenon.org::heat]] drf [[file:adjs.all.org::heatable]] drf [[file:noun.cognition.org::heat]] drf [[file:noun.attribute.org::heat1]] drf [[file:noun.phenomenon.org::heat]] drf [[file:noun.artifact.org::heater]] ant [[cool1]]
 w: <<heat_up>>
 cause: [[heat]]
 hyper: [[change1]]
 fr: 8 10 11
 g: make hot or hotter; "the sun heats the oceans"; "heat the water on the stove"
 
-w: <<refrigerate>> instrument [[file:noun.artifact.org::refrigerator]] event [[file:noun.process.org::refrigeration]] drf [[file:adj.all.org::refrigerant]] drf [[file:noun.process.org::refrigeration]] drf [[file:noun.substance.org::refrigerant]] drf [[file:noun.artifact.org::refrigerator]]
+w: <<refrigerate>> instrument [[file:noun.artifact.org::refrigerator]] event [[file:noun.process.org::refrigeration]] drf [[file:adjs.all.org::refrigerant]] drf [[file:noun.process.org::refrigeration]] drf [[file:noun.substance.org::refrigerant]] drf [[file:noun.artifact.org::refrigerator]]
 hyper: [[cool1]]
 fr: 8
 g: cool or chill in or as if in a refrigerator; "refrigerate this medicine"
@@ -6812,7 +6812,7 @@ fr: 8 11
 g: cause (a liquid) to evaporate through a semipermeable membrane
 
 w: <<evaporate>> event [[file:noun.process.org::vapor]] event [[file:noun.process.org::evaporation1]] drf [[file:noun.process.org::vapor]] drf [[file:noun.process.org::evaporation1]]
-w: <<vaporize1>> result [[file:noun.substance.org::vapor1]] event [[file:noun.process.org::vaporization]] agent [[file:noun.process.org::vapor]] drf [[file:adj.all.org::vaporizable]] drf [[file:noun.process.org::vaporization]] drf [[file:noun.substance.org::vapor1]] drf [[file:noun.process.org::vapor]]
+w: <<vaporize1>> result [[file:noun.substance.org::vapor1]] event [[file:noun.process.org::vaporization]] agent [[file:noun.process.org::vapor]] drf [[file:adjs.all.org::vaporizable]] drf [[file:noun.process.org::vaporization]] drf [[file:noun.substance.org::vapor1]] drf [[file:noun.process.org::vapor]]
 w: <<vaporise1>> result [[file:noun.substance.org::vapor1]] event [[file:noun.process.org::vaporisation]] event [[file:noun.process.org::vapor]] drf [[file:noun.process.org::vaporisation]] drf [[file:noun.substance.org::vapor1]] drf [[file:noun.process.org::vapor]]
 hyper: [[change_integrity]]
 fr: 1 8 11
@@ -7050,7 +7050,7 @@ du: [[file:noun.communication.org::slang]]
 fr: 2
 g: be killed or die;
 
-w: <<suffocate2>> event [[file:noun.act.org::suffocation]] drf [[file:adj.all.org::suffocative]] drf [[file:noun.act.org::suffocation]]
+w: <<suffocate2>> event [[file:noun.act.org::suffocation]] drf [[file:adjs.all.org::suffocative]] drf [[file:noun.act.org::suffocation]]
 w: <<stifle3>>
 w: <<asphyxiate>> state [[file:noun.state.org::asphyxiation]] event [[file:noun.act.org::asphyxiation]] drf [[file:noun.state.org::asphyxiation]] drf [[file:noun.act.org::asphyxiation]] drf [[file:noun.state.org::asphyxia]]
 vg: [[file:verb.contact.org::smother]]
@@ -7234,7 +7234,7 @@ hyper: [[end1]]
 fr: 8 10
 g: bring to a head or to the highest point; "Seurat culminated pointillism"
 
-w: <<abort>> event [[file:noun.event.org::abortion]] drf [[file:adj.all.org::abortive]] drf [[file:noun.event.org::abortion]]
+w: <<abort>> event [[file:noun.event.org::abortion]] drf [[file:adjs.all.org::abortive]] drf [[file:noun.event.org::abortion]]
 hyper: [[end1]]
 fr: 8
 g: terminate before completion; "abort the mission"; "abort the process running on my computer"
@@ -7247,7 +7247,7 @@ fr: 14
 g: terminate a relationship abruptly; "Mary gave John the axe after she saw him with another woman"
 
 w: <<end1>> event [[file:noun.time.org::end]] event [[file:noun.state.org::end]] by-means-of [[file:noun.event.org::end]] by-means-of [[file:noun.cognition.org::end]] drf [[file:noun.state.org::end]] drf [[file:noun.cognition.org::end]] drf [[file:noun.event.org::end]] drf [[file:noun.time.org::end]] drf [[file:noun.act.org::ending]] ant [[begin1]] ant [[begin]]
-w: <<terminate1>> event [[file:noun.act.org::termination]] drf [[file:adj.all.org::terminative]] drf [[file:noun.act.org::termination]]
+w: <<terminate1>> event [[file:noun.act.org::termination]] drf [[file:adjs.all.org::terminative]] drf [[file:noun.act.org::termination]]
 cause: [[file:verb.stative.org::end]]
 hyper: [[change1]]
 fr: 8 11
@@ -7324,7 +7324,7 @@ fr: 2
 g: persist stubbornly; "he obstinates himself against all rational arguments"
 
 w: <<persevere>> event [[file:noun.cognition.org::perseveration]] event [[file:noun.act.org::perseveration]] event [[file:noun.act.org::perseverance]] drf [[file:noun.cognition.org::perseveration]] drf [[file:noun.act.org::perseveration]] drf [[file:noun.act.org::perseverance]]
-w: <<persist1>> event [[file:noun.act.org::persistence]] drf [[file:adj.all.org::persistent]] drf [[file:noun.attribute.org::persistency]] drf [[file:noun.act.org::persistence]] fr 28
+w: <<persist1>> event [[file:noun.act.org::persistence]] drf [[file:adjs.all.org::persistent]] drf [[file:noun.attribute.org::persistency]] drf [[file:noun.act.org::persistence]] fr 28
 w: <<hang_in>>
 w: <<hang_on>>
 w: <<hold_on>>
@@ -7484,8 +7484,8 @@ hyper: [[file:verb.stative.org::begin]]
 fr: 1
 g: start abruptly; "After 1989, peace broke out in the former East Bloc"
 
-w: <<concur>> property [[file:noun.attribute.org::concurrence]] drf [[file:adj.all.org::concurrent]] drf [[file:noun.attribute.org::concurrence]]
-w: <<coincide>> property [[file:noun.attribute.org::coincidence1]] drf [[file:adj.all.org::coincident]] drf [[file:noun.attribute.org::coincidence1]]
+w: <<concur>> property [[file:noun.attribute.org::concurrence]] drf [[file:adjs.all.org::concurrent]] drf [[file:noun.attribute.org::concurrence]]
+w: <<coincide>> property [[file:noun.attribute.org::coincidence1]] drf [[file:adjs.all.org::coincident]] drf [[file:noun.attribute.org::coincidence1]]
 hyper: [[happen]]
 fr: 1
 g: happen simultaneously; "The two events coincided"
@@ -7546,15 +7546,15 @@ hyper: [[recur]]
 fr: 1
 g: recur in repeating sequences
 
-w: <<iterate1>> drf [[file:adj.all.org::iterative]]
+w: <<iterate1>> drf [[file:adjs.all.org::iterative]]
 hyper: [[recur]]
 dt: [[file:noun.cognition.org::computer_science]]
 dt: [[file:noun.cognition.org::mathematics]]
 fr: 1
 g: run or be performed again; "the function iterates"
 
-w: <<recur>> event [[file:noun.event.org::recurrence]] drf [[file:adj.all.org::recurrent]] drf [[file:noun.event.org::recurrence]]
-w: <<repeat>> event [[file:noun.event.org::repetition]] event [[file:noun.event.org::repeat]] drf [[file:adj.all.org::repetitive]] drf [[file:adj.all.org::repetitive]] drf [[file:noun.event.org::repeat]] drf [[file:noun.event.org::repetition]]
+w: <<recur>> event [[file:noun.event.org::recurrence]] drf [[file:adjs.all.org::recurrent]] drf [[file:noun.event.org::recurrence]]
+w: <<repeat>> event [[file:noun.event.org::repetition]] event [[file:noun.event.org::repeat]] drf [[file:adjs.all.org::repetitive]] drf [[file:adj.all.org::repetitive]] drf [[file:noun.event.org::repeat]] drf [[file:noun.event.org::repetition]]
 hyper: [[happen]]
 fr: 1
 g: happen or occur again; "This is a recurring story"
@@ -7577,7 +7577,7 @@ hyper: [[file:verb.stative.org::exist]]
 fr: 4 6 7
 g: be found or available; "These shoes come in three colors; The furniture comes unassembled"
 
-w: <<anticipate>> drf [[file:adj.all.org::anticipatory]]
+w: <<anticipate>> drf [[file:adjs.all.org::anticipatory]]
 hyper: [[happen]]
 fr: 8
 g: be a forerunner of or occur earlier than; "This composition anticipates Impressionism"
@@ -8364,7 +8364,7 @@ hyper: [[prolong]]
 fr: 2
 g: draw out a discussion or process in order to gain time; "The speaker temporized in order to delay the vote"
 
-w: <<extend15>> drf [[file:adj.all.org::extendible]]
+w: <<extend15>> drf [[file:adjs.all.org::extendible]]
 vg: [[carry5]]
 hyper: [[prolong]]
 fr: 8
@@ -8372,7 +8372,7 @@ g: prolong the time allowed for payment of; "extend the loan"
 
 w: <<prolong>> result [[file:noun.attribute.org::prolongation1]] property [[file:noun.attribute.org::prolongation]] event [[file:noun.act.org::prolongation]] drf [[file:noun.attribute.org::prolongation1]] drf [[file:noun.attribute.org::prolongation]] drf [[file:noun.act.org::prolongation]]
 w: <<protract>> result [[file:noun.attribute.org::protraction]] event [[file:noun.act.org::protraction]] drf [[file:noun.attribute.org::protraction]] drf [[file:noun.act.org::protraction]]
-w: <<extend2>> drf [[file:adj.all.org::extendible]]
+w: <<extend2>> drf [[file:adjs.all.org::extendible]]
 w: <<draw_out>>
 hyper: [[lengthen1]]
 vg: [[carry5]]
@@ -8458,13 +8458,13 @@ hyper: [[revalue1]]
 fr: 8 11
 g: increase the value of; "The Germans want to appreciate the Deutsche Mark"
 
-w: <<depreciate1>> event [[file:noun.possession.org::depreciation]] event [[file:noun.act.org::depreciation]] drf [[file:adj.all.org::depreciative]] drf [[file:adj.all.org::depreciatory]] drf [[file:noun.possession.org::depreciation]] drf [[file:noun.act.org::depreciation]] ant [[appreciate1]]
+w: <<depreciate1>> event [[file:noun.possession.org::depreciation]] event [[file:noun.act.org::depreciation]] drf [[file:adjs.all.org::depreciative]] drf [[file:adjs.all.org::depreciatory]] drf [[file:noun.possession.org::depreciation]] drf [[file:noun.act.org::depreciation]] ant [[appreciate1]]
 vg: [[depreciate]]
 hyper: [[devalue]]
 fr: 8 11
 g: lower the value of something; "The Fed depreciated the dollar once again"
 
-w: <<depreciate>> event [[file:noun.possession.org::depreciation]] event [[file:noun.act.org::depreciation]] drf [[file:adj.all.org::depreciative]] drf [[file:adj.all.org::depreciatory]] drf [[file:noun.possession.org::depreciation]] drf [[file:noun.act.org::depreciation]] ant [[appreciate]]
+w: <<depreciate>> event [[file:noun.possession.org::depreciation]] event [[file:noun.act.org::depreciation]] drf [[file:adjs.all.org::depreciative]] drf [[file:adjs.all.org::depreciatory]] drf [[file:noun.possession.org::depreciation]] drf [[file:noun.act.org::depreciation]] ant [[appreciate]]
 w: <<undervalue>>
 w: <<devaluate>> event [[file:noun.act.org::devaluation1]] event [[file:noun.act.org::devaluation]] drf [[file:noun.act.org::devaluation1]] drf [[file:noun.act.org::devaluation]]
 w: <<devalue1>> event [[file:noun.act.org::devaluation1]] drf [[file:noun.act.org::devaluation1]]
@@ -8496,7 +8496,7 @@ g: put (an image) into focus; "Please focus the image; we cannot enjoy the movie
 
 w: <<obscure2>>
 w: <<blot_out>>
-w: <<obliterate1>> drf [[file:adj.all.org::obliterable]]
+w: <<obliterate1>> drf [[file:adjs.all.org::obliterable]]
 w: <<veil>>
 w: <<hide>> drf [[file:noun.act.org::hiding]]
 hyper: [[change1]]
@@ -8618,7 +8618,7 @@ hyper: [[increase2]]
 fr: 8 11 20 21
 g: give a boost to; be beneficial to; "The tax cut will boost the economy"
 
-w: <<luxuriate>> drf [[file:adj.all.org::luxuriant]]
+w: <<luxuriate>> drf [[file:adjs.all.org::luxuriant]]
 hyper: [[boom]]
 fr: 1
 g: thrive profusely or flourish extensively
@@ -8632,7 +8632,7 @@ g: grow rapidly; "Pizza parlors proliferate in this area"
 w: <<boom>> event [[file:noun.state.org::boom]] drf [[file:noun.state.org::boom]]
 w: <<thrive>>
 w: <<flourish1>>
-w: <<expand1>> drf [[file:adj.all.org::expansible]]
+w: <<expand1>> drf [[file:adjs.all.org::expansible]]
 hyper: [[grow]]
 fr: 1
 g: grow vigorously; "The deer population in this town is thriving"; "business is booming"
@@ -8672,7 +8672,7 @@ hyper: [[break]]
 fr: 1 8 11
 g: come open suddenly and violently, as if from internal pressure; "The bubble burst"
 
-w: <<erupt3>> drf [[file:adj.all.org::eruptive]]
+w: <<erupt3>> drf [[file:adjs.all.org::eruptive]]
 w: <<recrudesce>>
 w: <<break_out>>
 hyper: [[file:verb.body.org::trouble]]
@@ -8744,7 +8744,7 @@ fr: 8
 g: cause to explode violently and with loud noise
 
 w: <<explode1>> event [[file:noun.event.org::explosion]] event [[file:noun.act.org::explosion]] drf [[file:noun.act.org::explosion]] drf [[file:noun.event.org::explosion]]
-w: <<detonate>> instrument [[file:noun.artifact.org::detonator]] event [[file:noun.act.org::detonation]] drf [[file:adj.all.org::detonative]] drf [[file:noun.act.org::detonation]] drf [[file:noun.artifact.org::detonator]]
+w: <<detonate>> instrument [[file:noun.artifact.org::detonator]] event [[file:noun.act.org::detonation]] drf [[file:adjs.all.org::detonative]] drf [[file:noun.act.org::detonation]] drf [[file:noun.artifact.org::detonator]]
 w: <<blow_up3>> drf [[file:noun.event.org::blowup]]
 w: <<set_off>>
 cause: [[detonate1]]
@@ -8759,7 +8759,7 @@ hyper: [[change_state]]
 fr: 1 2
 g: be unleashed; emerge with violence or noise; "His anger exploded"
 
-w: <<detonate1>> event [[file:noun.event.org::detonation]] drf [[file:adj.all.org::detonative]] drf [[file:noun.event.org::detonation]]
+w: <<detonate1>> event [[file:noun.event.org::detonation]] drf [[file:adjs.all.org::detonative]] drf [[file:noun.event.org::detonation]]
 w: <<explode4>>
 w: <<blow_up5>>
 fr: 1
@@ -8778,7 +8778,7 @@ fr: 1
 g: burst inward; "The bottle imploded"
 
 w: <<dilate1>> state [[file:noun.state.org::dilatation]] event [[file:noun.act.org::dilation]] event [[file:noun.act.org::dilatation]] by-means-of [[file:noun.artifact.org::dilator1]] body-part [[file:noun.body.org::dilator]] drf [[file:noun.body.org::dilator]] drf [[file:noun.artifact.org::dilator1]] drf [[file:noun.artifact.org::dilator]] drf [[file:noun.act.org::dilation]] drf [[file:noun.state.org::dilatation]] drf [[file:noun.act.org::dilatation]]
-w: <<distend>> state [[file:noun.state.org::distension]] event [[file:noun.act.org::distention]] event [[file:noun.act.org::distension]] drf [[file:adj.all.org::distensible]] drf [[file:noun.act.org::distention]] drf [[file:noun.state.org::distension]] drf [[file:noun.act.org::distension]]
+w: <<distend>> state [[file:noun.state.org::distension]] event [[file:noun.act.org::distention]] event [[file:noun.act.org::distension]] drf [[file:adjs.all.org::distensible]] drf [[file:noun.act.org::distention]] drf [[file:noun.state.org::distension]] drf [[file:noun.act.org::distension]]
 hyper: [[widen]]
 fr: 1 8 11
 g: become wider; "His pupils were dilated"
@@ -8888,7 +8888,7 @@ w: <<domesticate>>
 w: <<domesticize>>
 w: <<domesticise>>
 w: <<reclaim4>>
-w: <<tame4>> agent [[file:noun.person.org::tamer]] drf [[file:adj.all.org::tameable]] drf [[file:adj.all.org::tamable]] drf [[file:noun.person.org::tamer]]
+w: <<tame4>> agent [[file:noun.person.org::tamer]] drf [[file:adjs.all.org::tameable]] drf [[file:adjs.all.org::tamable]] drf [[file:noun.person.org::tamer]]
 vg: [[domesticate2]]
 hyper: [[change1]]
 dt: [[file:noun.Tops.org::animal]]
@@ -8960,7 +8960,7 @@ hyper: [[change2]]
 fr: 8 11
 g: make fit for, or change to suit a new purpose; "Adapt our native cuisine to the available food resources of the new country"
 
-w: <<regulate>> instrument [[file:noun.artifact.org::regulator]] drf [[file:adj.all.org::regulatory]] drf [[file:noun.artifact.org::regulator]]
+w: <<regulate>> instrument [[file:noun.artifact.org::regulator]] drf [[file:adjs.all.org::regulatory]] drf [[file:noun.artifact.org::regulator]]
 w: <<modulate1>> event [[file:noun.act.org::modulation]] drf [[file:noun.act.org::modulation]]
 hyper: [[adjust]]
 fr: 8 11
@@ -8997,7 +8997,7 @@ hyper: [[adapt1]]
 fr: 15
 g: set the level or character of; "She pitched her speech to the teenagers in the audience"
 
-w: <<adjust3>> event [[file:noun.act.org::adjustment]] drf [[file:adj.all.org::adjustable]] drf [[file:noun.act.org::adjustment]]
+w: <<adjust3>> event [[file:noun.act.org::adjustment]] drf [[file:adjs.all.org::adjustable]] drf [[file:noun.act.org::adjustment]]
 hyper: [[adapt1]]
 fr: 8 15
 g: make correspondent or conformable; "Adjust your eyes to the darkness"
@@ -9040,9 +9040,9 @@ hyper: [[adjust]]
 fr: 8
 g: adjust so that a force is applied and an action occurs at the desired time; "The good player times his swing so as to hit the ball squarely"
 
-w: <<adjust>> event [[file:noun.act.org::adjustment1]] drf [[file:adj.all.org::adjustive]] drf [[file:adj.all.org::adjustable]] drf [[file:noun.act.org::adjustment1]] drf [[file:noun.person.org::adjuster]]
+w: <<adjust>> event [[file:noun.act.org::adjustment1]] drf [[file:adjs.all.org::adjustive]] drf [[file:adjs.all.org::adjustable]] drf [[file:noun.act.org::adjustment1]] drf [[file:noun.person.org::adjuster]]
 w: <<set>>
-w: <<correct9>> drf [[file:adj.all.org::corrective]]
+w: <<correct9>> drf [[file:adjs.all.org::corrective]]
 hyper: [[change1]]
 fr: 8 11 21
 g: alter or regulate so as to achieve accuracy or conform to a standard; "Adjust the clock, please"; "correct the alignment of the front wheels"
@@ -9095,7 +9095,7 @@ hyper: [[develop]]
 fr: 1
 g: bring forth a spike or spikes; "my hyacinths and orchids are spiking now"
 
-w: <<effloresce>> event [[file:noun.process.org::efflorescence]] drf [[file:adj.all.org::efflorescent]] drf [[file:noun.process.org::efflorescence]]
+w: <<effloresce>> event [[file:noun.process.org::efflorescence]] drf [[file:adjs.all.org::efflorescent]] drf [[file:noun.process.org::efflorescence]]
 w: <<burst_forth1>>
 hyper: [[bloom]]
 fr: 1
@@ -9714,12 +9714,12 @@ hyper: [[file:verb.contact.org::arrange]]
 fr: 8 11
 g: make regular or more regular; "regularize the heart beat with a pace maker"
 
-w: <<ablate>> event [[file:noun.process.org::ablation]] drf [[file:adj.all.org::ablative]] drf [[file:noun.process.org::ablation]]
+w: <<ablate>> event [[file:noun.process.org::ablation]] drf [[file:adjs.all.org::ablative]] drf [[file:noun.process.org::ablation]]
 hyper: [[wear]]
 fr: 11
 g: wear away through erosion or vaporization
 
-w: <<erode1>> state [[file:noun.state.org::erosion]] drf [[file:adj.all.org::erosive1]] drf [[file:noun.state.org::erosion]]
+w: <<erode1>> state [[file:noun.state.org::erosion]] drf [[file:adjs.all.org::erosive1]] drf [[file:noun.state.org::erosion]]
 w: <<gnaw>>
 w: <<gnaw_at>>
 w: <<eat_at>>
@@ -9739,7 +9739,7 @@ hyper: [[erode]]
 fr: 11
 g: form by erosion; "The river washed a ravine into the mountainside"
 
-w: <<erode>> state [[file:noun.state.org::erosion]] event [[file:noun.process.org::erosion]] drf [[file:adj.all.org::erosive2]] drf [[file:noun.state.org::erosion]] drf [[file:noun.process.org::erosion]] drf [[file:noun.process.org::eroding]]
+w: <<erode>> state [[file:noun.state.org::erosion]] event [[file:noun.process.org::erosion]] drf [[file:adjs.all.org::erosive2]] drf [[file:noun.state.org::erosion]] drf [[file:noun.process.org::erosion]] drf [[file:noun.process.org::eroding]]
 w: <<eat_away>>
 w: <<fret1>>
 hyper: [[damage]]
@@ -9752,7 +9752,7 @@ hyper: [[corrode]]
 fr: 11
 g: wear away or erode
 
-w: <<corrode1>> event [[file:noun.process.org::corrosion]] drf [[file:adj.all.org::corrosive]] drf [[file:noun.process.org::corrosion]] drf [[file:noun.process.org::corroding]]
+w: <<corrode1>> event [[file:noun.process.org::corrosion]] drf [[file:adjs.all.org::corrosive]] drf [[file:noun.process.org::corrosion]] drf [[file:noun.process.org::corroding]]
 w: <<eat>>
 w: <<rust1>> result [[file:noun.substance.org::rust]] event [[file:noun.process.org::rust]] drf [[file:noun.substance.org::rust]] drf [[file:noun.process.org::rust]]
 hyper: [[damage]]
@@ -9760,14 +9760,14 @@ vg: [[corrode]]
 fr: 11
 g: cause to deteriorate due to the action of water, air, or an acid; "The acid corroded the metal"; "The steady dripping of water rusted the metal stopper in the sink"
 
-w: <<corrode>> state [[file:noun.state.org::corrosion]] event [[file:noun.process.org::corrosion]] drf [[file:adj.all.org::corrosive]] drf [[file:noun.state.org::corrosion]] drf [[file:noun.process.org::corrosion]] drf [[file:noun.process.org::corroding]]
+w: <<corrode>> state [[file:noun.state.org::corrosion]] event [[file:noun.process.org::corrosion]] drf [[file:adjs.all.org::corrosive]] drf [[file:noun.state.org::corrosion]] drf [[file:noun.process.org::corrosion]] drf [[file:noun.process.org::corroding]]
 w: <<rust>> result [[file:noun.substance.org::rust]] event [[file:noun.process.org::rust]] drf [[file:noun.process.org::rust]] drf [[file:noun.substance.org::rust]]
 vg: [[corrode1]]
 hyper: [[decay]]
 fr: 1
 g: become destroyed by water, air, or a corrosive such as an acid; "The metal corroded"; "The pipes rusted"
 
-w: <<teach>> by-means-of [[file:noun.cognition.org::teacher]] agent [[file:noun.person.org::teacher]] drf [[file:adj.all.org::teachable]] drf [[file:noun.person.org::teacher]] drf [[file:noun.cognition.org::teacher]]
+w: <<teach>> by-means-of [[file:noun.cognition.org::teacher]] agent [[file:noun.person.org::teacher]] drf [[file:adjs.all.org::teachable]] drf [[file:noun.person.org::teacher]] drf [[file:noun.cognition.org::teacher]]
 hyper: [[habituate]]
 fr: 8 9 11 24
 g: accustom gradually to some action or attitude; "The child is taught to obey her parents"
@@ -9937,7 +9937,7 @@ hyper: [[immobilize]]
 fr: 8 9 10 11
 g: cause to be paralyzed and immobile; "The poison paralyzed him"; "Fear paralyzed her"
 
-w: <<remit2>> event [[file:noun.event.org::remittal]] event [[file:noun.event.org::remission]] drf [[file:adj.all.org::remittent]] drf [[file:noun.event.org::remission]] drf [[file:noun.event.org::remittal]]
+w: <<remit2>> event [[file:noun.event.org::remittal]] event [[file:noun.event.org::remission]] drf [[file:adjs.all.org::remittent]] drf [[file:noun.event.org::remission]] drf [[file:noun.event.org::remittal]]
 hyper: [[decrease]]
 fr: 1
 g: diminish or abate; "The pain finally remitted"
@@ -10042,7 +10042,7 @@ hyper: [[better1]]
 fr: 8
 g: improve by alteration or correction of errors or defects and put into a better condition; "reform the health system in this country"
 
-w: <<reform>> event [[file:noun.act.org::reformation1]] event [[file:noun.act.org::reform1]] event [[file:noun.act.org::reform]] agent [[file:noun.person.org::reformer]] drf [[file:adj.all.org::reformative]] drf [[file:noun.act.org::reform1]] drf [[file:noun.act.org::reform]] drf [[file:noun.person.org::reformist]] drf [[file:noun.act.org::reformation1]] drf [[file:noun.person.org::reformer]]
+w: <<reform>> event [[file:noun.act.org::reformation1]] event [[file:noun.act.org::reform1]] event [[file:noun.act.org::reform]] agent [[file:noun.person.org::reformer]] drf [[file:adjs.all.org::reformative]] drf [[file:noun.act.org::reform1]] drf [[file:noun.act.org::reform]] drf [[file:noun.person.org::reformist]] drf [[file:noun.act.org::reformation1]] drf [[file:noun.person.org::reformer]]
 hyper: [[better1]]
 vg: [[reform8]]
 fr: 8
@@ -10087,7 +10087,7 @@ hyper: [[inflate]]
 fr: 8
 g: inflate again; "reflate the balloon"
 
-w: <<inflate>> instrument [[file:noun.artifact.org::inflator]] instrument [[file:noun.artifact.org::inflater]] event [[file:noun.act.org::inflation]] drf [[file:adj.all.org::inflatable]] drf [[file:noun.act.org::inflation]] drf [[file:noun.artifact.org::inflater]] drf [[file:noun.artifact.org::inflator]] ant [[deflate]]
+w: <<inflate>> instrument [[file:noun.artifact.org::inflator]] instrument [[file:noun.artifact.org::inflater]] event [[file:noun.act.org::inflation]] drf [[file:adjs.all.org::inflatable]] drf [[file:noun.act.org::inflation]] drf [[file:noun.artifact.org::inflater]] drf [[file:noun.artifact.org::inflator]] ant [[deflate]]
 w: <<blow_up4>>
 hyper: [[expand12]]
 fr: 8 11
@@ -10118,7 +10118,7 @@ g: make concave; shape like a dish
 
 w: <<bulge>> undergoer [[file:noun.shape.org::bulge]] drf [[file:noun.shape.org::bulge]]
 w: <<pouch>>
-w: <<protrude>> undergoer [[file:noun.shape.org::protrusion]] drf [[file:adj.all.org::protrusible]] drf [[file:adj.all.org::protrusive]] drf [[file:noun.shape.org::protrusion]]
+w: <<protrude>> undergoer [[file:noun.shape.org::protrusion]] drf [[file:adjs.all.org::protrusible]] drf [[file:adj.all.org::protrusive]] drf [[file:noun.shape.org::protrusion]]
 hyper: [[change_shape]]
 fr: 1
 g: swell or protrude outwards; "His stomach bulged after the huge meal"
@@ -10216,7 +10216,7 @@ hyper: [[afflict]]
 fr: 8 10 11
 g: assail; "He was visited with a terrible illness that killed him quickly"
 
-w: <<afflict>> state [[file:noun.state.org::affliction2]] drf [[file:adj.all.org::afflictive]] drf [[file:noun.state.org::affliction2]]
+w: <<afflict>> state [[file:noun.state.org::affliction2]] drf [[file:adjs.all.org::afflictive]] drf [[file:noun.state.org::affliction2]]
 w: <<smite>>
 hyper: [[damage]]
 fr: 8 11
@@ -10288,7 +10288,7 @@ hyper: [[swell]]
 fr: 1
 g: swell out or bulge out
 
-w: <<expand7>> drf [[file:adj.all.org::expansible]] drf [[file:adj.all.org::expansible]] drf [[file:adj.all.org::expandible]] drf [[file:adj.all.org::expandible]] drf [[file:adj.all.org::expansive]]
+w: <<expand7>> drf [[file:adjs.all.org::expansible]] drf [[file:adjs.all.org::expansible]] drf [[file:adjs.all.org::expandible]] drf [[file:adjs.all.org::expandible]] drf [[file:adj.all.org::expansive]]
 hyper: [[grow]]
 fr: 1
 g: become larger in size or volume or quantity; "his business expanded rapidly"
@@ -10309,7 +10309,7 @@ w: <<swell>> drf [[file:noun.state.org::swelling]]
 w: <<swell_up>>
 w: <<intumesce>> event [[file:noun.state.org::intumescence]] drf [[file:noun.state.org::intumescency]] drf [[file:noun.state.org::intumescence]]
 w: <<tumefy>> event [[file:noun.process.org::tumefaction]] drf [[file:noun.process.org::tumefaction]]
-w: <<tumesce>> drf [[file:adj.all.org::tumescent]]
+w: <<tumesce>> drf [[file:adjs.all.org::tumescent]]
 hyper: [[expand7]]
 fr: 1
 g: expand abnormally; "The bellies of the starving children are swelling"
@@ -10439,7 +10439,7 @@ vg: [[build_up6]]
 fr: 1
 g: form or accumulate steadily; "Resistance to the manager's plan built up quickly"; "Pressure is building up at the Indian-Pakistani border"
 
-w: <<adolesce>> event [[file:noun.time.org::adolescence]] event [[file:noun.state.org::adolescence]] drf [[file:adj.all.org::adolescent]] drf [[file:adj.all.org::adolescent]] drf [[file:adj.pert.org::adolescent]] drf [[file:noun.person.org::adolescent]] drf [[file:noun.time.org::adolescence]] drf [[file:noun.state.org::adolescence]]
+w: <<adolesce>> event [[file:noun.time.org::adolescence]] event [[file:noun.state.org::adolescence]] drf [[file:adjs.all.org::adolescent]] drf [[file:adjs.all.org::adolescent]] drf [[file:adj.pert.org::adolescent]] drf [[file:noun.person.org::adolescent]] drf [[file:noun.time.org::adolescence]] drf [[file:noun.state.org::adolescence]]
 hyper: [[develop]]
 fr: 2
 g: become adolescent; pass through adolescence; "The children are beginning to adolesce around the age of 12"
@@ -10450,13 +10450,13 @@ vg: [[develop5]]
 fr: 1 2 4 22
 g: grow, progress, unfold, or evolve through a process of evolution, natural growth, differentiation, or a conducive environment; "A flower developed on the branch"; "The country developed into a mighty superpower"; "The embryo develops into a fetus"; "This situation has developed over a long time"
 
-w: <<derive1>> result [[file:noun.communication.org::derivation1]] location [[file:noun.location.org::derivation]] event [[file:noun.process.org::derivation]] drf [[file:adj.all.org::derivative]] drf [[file:noun.process.org::derivation]] drf [[file:noun.location.org::derivation]] drf [[file:noun.communication.org::derivation1]] drf [[file:noun.communication.org::deriving]]
+w: <<derive1>> result [[file:noun.communication.org::derivation1]] location [[file:noun.location.org::derivation]] event [[file:noun.process.org::derivation]] drf [[file:adjs.all.org::derivative]] drf [[file:noun.process.org::derivation]] drf [[file:noun.location.org::derivation]] drf [[file:noun.communication.org::derivation1]] drf [[file:noun.communication.org::deriving]]
 vg: [[file:verb.stative.org::derive]]
 hyper: [[evolve]]
 fr: 11
 g: come from; "The present name derives from an older form"
 
-w: <<derive>> location [[file:noun.location.org::derivation]] drf [[file:adj.all.org::derivative]] drf [[file:noun.location.org::derivation]]
+w: <<derive>> location [[file:noun.location.org::derivation]] drf [[file:adjs.all.org::derivative]] drf [[file:noun.location.org::derivation]]
 w: <<educe>>
 hyper: [[file:verb.creation.org::make]]
 fr: 8
@@ -10531,7 +10531,7 @@ g: become mentally inflexible
 
 w: <<regress>> drf [[file:adj.all.org::regressive1]] ant [[progress]]
 w: <<retrograde>>
-w: <<retrogress>> event [[file:noun.act.org::retrogression]] drf [[file:adj.all.org::retrogressive]] drf [[file:noun.act.org::retrogression]]
+w: <<retrogress>> event [[file:noun.act.org::retrogression]] drf [[file:adjs.all.org::retrogressive]] drf [[file:noun.act.org::retrogression]]
 hyper: [[worsen]]
 fr: 1 2 22
 g: get worse or fall back to a previous condition
@@ -10567,7 +10567,7 @@ hyper: [[senesce]]
 fr: 2
 g: become officially one year older; "She is turning 50 this year"
 
-w: <<senesce>> drf [[file:adj.all.org::senescent]]
+w: <<senesce>> drf [[file:adjs.all.org::senescent]]
 w: <<age>> event [[file:noun.time.org::age1]] event [[file:noun.time.org::age]] drf [[file:noun.time.org::age]] drf [[file:noun.time.org::age1]]
 w: <<get_on3>>
 w: <<mature1>> event [[file:noun.process.org::maturation]] drf [[file:noun.process.org::maturation]]
@@ -10587,7 +10587,7 @@ hyper: [[file:verb.creation.org::copy1]]
 fr: 8
 g: make multiple copies of; "multiply a letter"
 
-w: <<multiply>> event [[file:noun.process.org::multiplication]] by-means-of [[file:noun.act.org::multiplication]] drf [[file:adj.all.org::multiplicative]] drf [[file:noun.process.org::multiplication]] drf [[file:noun.act.org::multiplication]]
+w: <<multiply>> event [[file:noun.process.org::multiplication]] by-means-of [[file:noun.act.org::multiplication]] drf [[file:adjs.all.org::multiplicative]] drf [[file:noun.process.org::multiplication]] drf [[file:noun.act.org::multiplication]]
 w: <<manifold1>>
 hyper: [[increase2]]
 fr: 1 8 11
@@ -10654,7 +10654,7 @@ fr: 8
 g: cause to grow or develop; "He grows vegetables in his backyard"
 
 w: <<slake>>
-w: <<abate1>> drf [[file:adj.all.org::abatable]] drf [[file:noun.person.org::abator]]
+w: <<abate1>> drf [[file:adjs.all.org::abatable]] drf [[file:noun.person.org::abator]]
 w: <<slack4>> event [[file:noun.process.org::slack]] drf [[file:noun.process.org::slack]]
 hyper: [[decrease1]]
 fr: 8 11
@@ -10735,12 +10735,12 @@ hyper: [[unite2]]
 fr: 8 9 10 11
 g: unite closely or intimately; "Her gratitude welded her to him"
 
-w: <<consolidate1>> event [[file:noun.act.org::consolidation]] drf [[file:adj.all.org::consolidative]] drf [[file:adj.all.org::consolidative]] drf [[file:noun.act.org::consolidation]]
+w: <<consolidate1>> event [[file:noun.act.org::consolidation]] drf [[file:adjs.all.org::consolidative]] drf [[file:adjs.all.org::consolidative]] drf [[file:noun.act.org::consolidation]]
 hyper: [[unite2]]
 fr: 8 11
 g: bring together into a single whole or system; "The town and county schools are being consolidated"
 
-w: <<consolidate>> event [[file:noun.act.org::consolidation]] drf [[file:adj.all.org::consolidative]] drf [[file:adj.all.org::consolidative]] drf [[file:noun.act.org::consolidation]]
+w: <<consolidate>> event [[file:noun.act.org::consolidation]] drf [[file:adjs.all.org::consolidative]] drf [[file:adjs.all.org::consolidative]] drf [[file:noun.act.org::consolidation]]
 hyper: [[unify]]
 fr: 1
 g: unite into one; "The companies consolidated"
@@ -10838,7 +10838,7 @@ g: become coated with oxide
 
 w: <<oxidise1>> event [[file:noun.process.org::oxidisation]] drf [[file:noun.process.org::oxidisation]]
 w: <<oxidize1>> event [[file:noun.process.org::oxidization]] drf [[file:noun.process.org::oxidization]]
-w: <<oxidate1>> event [[file:noun.process.org::oxidation]] drf [[file:adj.all.org::oxidative]] drf [[file:noun.process.org::oxidation]]
+w: <<oxidate1>> event [[file:noun.process.org::oxidation]] drf [[file:adjs.all.org::oxidative]] drf [[file:noun.process.org::oxidation]]
 vg: [[oxidize]]
 hyper: [[change]]
 fr: 1
@@ -10846,7 +10846,7 @@ g: enter into a combination with oxygen or become converted into an oxide; "This
 
 w: <<oxidize>> material [[file:noun.substance.org::oxidizer]] event [[file:noun.process.org::oxidization]] drf [[file:noun.process.org::oxidization]] drf [[file:noun.substance.org::oxidizer]] drf [[file:noun.substance.org::oxidant]] drf [[file:noun.substance.org::oxide]] ant [[deoxidize]]
 w: <<oxidise>> material [[file:noun.substance.org::oxidiser]] event [[file:noun.process.org::oxidisation]] drf [[file:noun.process.org::oxidisation]] drf [[file:noun.substance.org::oxidiser]] drf [[file:noun.substance.org::oxidant]] drf [[file:noun.substance.org::oxide]] ant [[deoxidise]]
-w: <<oxidate>> event [[file:noun.process.org::oxidation]] drf [[file:adj.all.org::oxidative]] drf [[file:noun.process.org::oxidation]]
+w: <<oxidate>> event [[file:noun.process.org::oxidation]] drf [[file:adjs.all.org::oxidative]] drf [[file:noun.process.org::oxidation]]
 hyper: [[change1]]
 hyper: [[change]]
 dt: [[file:noun.cognition.org::chemistry]]
@@ -11108,7 +11108,7 @@ hyper: [[enhance1]]
 fr: 8
 g: increase the effectiveness or success of by further action; "The doctor followed up the surgery with radiation"
 
-w: <<enhance1>> by-means-of [[file:noun.act.org::enhancement]] agent [[file:noun.cognition.org::enhancer]] drf [[file:adj.all.org::enhancive]] drf [[file:noun.act.org::enhancement]] drf [[file:noun.cognition.org::enhancer]]
+w: <<enhance1>> by-means-of [[file:noun.act.org::enhancement]] agent [[file:noun.cognition.org::enhancer]] drf [[file:adjs.all.org::enhancive]] drf [[file:noun.act.org::enhancement]] drf [[file:noun.cognition.org::enhancer]]
 hyper: [[better1]]
 fr: 8 11
 g: make better or more attractive; "This sauce will enhance the flavor of the meat"
@@ -11119,7 +11119,7 @@ dt: [[file:noun.artifact.org::drug]]
 fr: 11
 g: increase the effect of or act synergistically with (a drug or a physiological or biochemical phenomenon); "potentiate the drug"
 
-w: <<enhance>> drf [[file:adj.all.org::enhancive]]
+w: <<enhance>> drf [[file:adjs.all.org::enhancive]]
 w: <<heighten>>
 w: <<raise>>
 hyper: [[intensify1]]
@@ -11127,7 +11127,7 @@ fr: 8 11
 g: increase; "This will enhance your enjoyment"; "heighten the tension"
 
 w: <<distill2>> result [[file:noun.substance.org::distillation]] event [[file:noun.process.org::distillation]] drf [[file:noun.substance.org::distillate]] drf [[file:noun.substance.org::distillation]] drf [[file:noun.process.org::distillation]] drf [[file:noun.artifact.org::distillery]]
-w: <<extract>> event [[file:noun.process.org::extraction]] drf [[file:adj.all.org::extractible]] drf [[file:noun.process.org::extraction]]
+w: <<extract>> event [[file:noun.process.org::extraction]] drf [[file:adjs.all.org::extractible]] drf [[file:noun.process.org::extraction]]
 w: <<distil2>>
 hyper: [[file:verb.creation.org::make]]
 dt: [[file:noun.cognition.org::chemistry]]
@@ -11637,7 +11637,7 @@ hyper: [[preserve]]
 fr: 8
 g: preserve by removing all water and liquids from; "carry dehydrated food on your camping trip"
 
-w: <<preserve>> result [[file:noun.food.org::preserve]] agent [[file:noun.person.org::preserver2]] drf [[file:adj.all.org::preservative]] drf [[file:noun.food.org::preserve]] drf [[file:noun.person.org::preserver2]]
+w: <<preserve>> result [[file:noun.food.org::preserve]] agent [[file:noun.person.org::preserver2]] drf [[file:adjs.all.org::preservative]] drf [[file:noun.food.org::preserve]] drf [[file:noun.person.org::preserver2]]
 w: <<keep10>>
 vg: [[file:verb.stative.org::keep3]]
 hyper: [[file:verb.creation.org::cook]]
@@ -11812,9 +11812,9 @@ g: improve dramatically; "The new strategy turned around sales"; "The tutor turn
 
 w: <<better1>> state [[file:noun.attribute.org::better1]] result [[file:noun.attribute.org::better1]] event [[file:noun.act.org::betterment]] drf [[file:noun.act.org::betterment]] drf [[file:noun.attribute.org::better1]] ant [[worsen1]]
 w: <<improve1>> event [[file:noun.act.org::improvement]] by-means-of [[file:noun.artifact.org::improver]] agent [[file:noun.person.org::improver]] drf [[file:noun.act.org::improvement]] drf [[file:noun.person.org::improver]] drf [[file:noun.artifact.org::improver]]
-w: <<amend>> drf [[file:adj.all.org::amendable]]
-w: <<ameliorate1>> event [[file:noun.act.org::amelioration]] drf [[file:adj.all.org::ameliorative]] drf [[file:adj.all.org::amelioratory]] drf [[file:noun.act.org::amelioration]]
-w: <<meliorate1>> state [[file:noun.state.org::melioration]] event [[file:noun.act.org::melioration]] drf [[file:adj.all.org::meliorative]] drf [[file:noun.state.org::melioration]] drf [[file:noun.act.org::melioration]]
+w: <<amend>> drf [[file:adjs.all.org::amendable]]
+w: <<ameliorate1>> event [[file:noun.act.org::amelioration]] drf [[file:adjs.all.org::ameliorative]] drf [[file:adjs.all.org::amelioratory]] drf [[file:noun.act.org::amelioration]]
+w: <<meliorate1>> state [[file:noun.state.org::melioration]] event [[file:noun.act.org::melioration]] drf [[file:adjs.all.org::meliorative]] drf [[file:noun.state.org::melioration]] drf [[file:noun.act.org::melioration]]
 cause: [[better]]
 hyper: [[change1]]
 vg: [[better]]
@@ -11836,8 +11836,8 @@ g: improve significantly; go from bad to good; "Her performance in school picked
 
 w: <<better>> state [[file:noun.attribute.org::better1]] result [[file:noun.attribute.org::better1]] event [[file:noun.event.org::betterment]] drf [[file:noun.event.org::betterment]] drf [[file:noun.attribute.org::better1]] ant [[worsen]]
 w: <<improve>> state [[file:noun.state.org::improvement]] event [[file:noun.event.org::improvement]] drf [[file:noun.state.org::improvement]] drf [[file:noun.event.org::improvement]]
-w: <<ameliorate>> event [[file:noun.act.org::amelioration]] drf [[file:adj.all.org::ameliorative]] drf [[file:adj.all.org::amelioratory]] drf [[file:noun.act.org::amelioration]]
-w: <<meliorate>> state [[file:noun.state.org::melioration]] event [[file:noun.process.org::melioration]] event [[file:noun.act.org::melioration]] drf [[file:adj.all.org::meliorative]] drf [[file:noun.state.org::melioration]] drf [[file:noun.process.org::melioration]] drf [[file:noun.act.org::melioration]]
+w: <<ameliorate>> event [[file:noun.act.org::amelioration]] drf [[file:adjs.all.org::ameliorative]] drf [[file:adjs.all.org::amelioratory]] drf [[file:noun.act.org::amelioration]]
+w: <<meliorate>> state [[file:noun.state.org::melioration]] event [[file:noun.process.org::melioration]] event [[file:noun.act.org::melioration]] drf [[file:adjs.all.org::meliorative]] drf [[file:noun.state.org::melioration]] drf [[file:noun.process.org::melioration]] drf [[file:noun.act.org::melioration]]
 vg: [[better1]]
 hyper: [[change_state]]
 fr: 1 2
@@ -11999,7 +11999,7 @@ w: <<rectify>> event [[file:noun.act.org::rectification]] agent [[file:noun.pers
 w: <<remediate>> event [[file:noun.act.org::remediation]] drf [[file:noun.act.org::remediation]]
 w: <<remedy>> event [[file:noun.act.org::remedy]] drf [[file:noun.act.org::remedy]]
 w: <<repair2>> event [[file:noun.act.org::reparation]] drf [[file:noun.act.org::reparation]]
-w: <<amend1>> drf [[file:adj.all.org::amendable]]
+w: <<amend1>> drf [[file:adjs.all.org::amendable]]
 hyper: [[correct]]
 fr: 8 11
 g: set straight or right; "remedy these deficiencies"; "rectify the inequities in salaries"; "repair an oversight"
@@ -12030,7 +12030,7 @@ hyper: [[mitigate4]]
 fr: 8 11
 g: alleviate or remove (pressure or stress) or make less oppressive; "relieve the pressure and the stress"; "lighten the burden of caring for her elderly parents"
 
-w: <<mitigate4>> event [[file:noun.communication.org::mitigation]] drf [[file:adj.all.org::mitigative]] drf [[file:adj.all.org::mitigatory]] drf [[file:adj.all.org::mitigable]] drf [[file:noun.communication.org::mitigation]]
+w: <<mitigate4>> event [[file:noun.communication.org::mitigation]] drf [[file:adjs.all.org::mitigative]] drf [[file:adjs.all.org::mitigatory]] drf [[file:adjs.all.org::mitigable]] drf [[file:noun.communication.org::mitigation]]
 hyper: [[decrease1]]
 fr: 8 11
 g: make less severe or harsh; "mitigating circumstances"
@@ -12120,7 +12120,7 @@ hyper: [[damage]]
 fr: 11
 g: damage by frost; "The icy precipitation frosted the flowers and they turned brown"
 
-w: <<burn3>> location [[file:noun.attribute.org::burn]] event [[file:noun.act.org::burn]] drf [[file:adj.all.org::burnable]] drf [[file:noun.attribute.org::burn]] drf [[file:noun.act.org::burn]]
+w: <<burn3>> location [[file:noun.attribute.org::burn]] event [[file:noun.act.org::burn]] drf [[file:adjs.all.org::burnable]] drf [[file:noun.attribute.org::burn]] drf [[file:noun.act.org::burn]]
 hyper: [[damage]]
 fr: 9 10
 g: burn with heat, fire, or radiation; "The iron burnt a hole in my dress"
@@ -12971,7 +12971,7 @@ fr: 8 11
 g: restore from a depressed, inactive, or unused state; "He revived this style of opera"; "He resurrected the tango in this remote part of Argentina"
 
 w: <<regenerate1>> event [[file:noun.act.org::regeneration]] drf [[file:noun.act.org::regeneration]]
-w: <<restore>> event [[file:noun.act.org::restoration]] drf [[file:adj.all.org::restorative]] drf [[file:adj.all.org::restorative]] drf [[file:noun.act.org::restoration]]
+w: <<restore>> event [[file:noun.act.org::restoration]] drf [[file:adjs.all.org::restorative]] drf [[file:adjs.all.org::restorative]] drf [[file:noun.act.org::restoration]]
 w: <<rejuvenate4>> event [[file:noun.phenomenon.org::rejuvenation]] drf [[file:noun.phenomenon.org::rejuvenation]]
 hyper: [[file:verb.creation.org::regenerate]]
 fr: 1 2 8 11
@@ -12988,7 +12988,7 @@ dt: [[file:noun.act.org::sport]]
 fr: 2
 g: see one's performance improve; "He levelled the score and then surged ahead"
 
-w: <<reform3>> event [[file:noun.act.org::reformation1]] event [[file:noun.act.org::reform2]] drf [[file:adj.all.org::reformatory]] drf [[file:noun.act.org::reform2]] drf [[file:noun.act.org::reformation1]]
+w: <<reform3>> event [[file:noun.act.org::reformation1]] event [[file:noun.act.org::reform2]] drf [[file:adjs.all.org::reformatory]] drf [[file:noun.act.org::reform2]] drf [[file:noun.act.org::reformation1]]
 w: <<straighten_out2>>
 w: <<see_the_light>>
 hyper: [[better]]
@@ -13051,7 +13051,7 @@ hyper: [[proof]]
 fr: 8
 g: make safe against children; "childproof the apartment"
 
-w: <<bulletproof>> drf [[file:adj.all.org::bulletproof]]
+w: <<bulletproof>> drf [[file:adjs.all.org::bulletproof]]
 hyper: [[proof]]
 fr: 8
 g: make bulletproof; "bulletproof the car"
@@ -13087,13 +13087,13 @@ hyper: [[strengthen1]]
 fr: 11
 g: produce in a version designed to withstand rough usage; "Detroit ruggedized the family car"
 
-w: <<vitalize1>> drf [[file:adj.all.org::vital]]
+w: <<vitalize1>> drf [[file:adjs.all.org::vital]]
 w: <<vitalise1>>
 hyper: [[change1]]
 fr: 8 11
 g: give life to; "The eggs are vitalized"
 
-w: <<vitalize>> state [[file:noun.state.org::vitalization]] agent [[file:noun.person.org::vitalizer]] drf [[file:adj.all.org::vital]] drf [[file:noun.state.org::vitalization]] drf [[file:noun.person.org::vitalizer]] ant [[devitalize]]
+w: <<vitalize>> state [[file:noun.state.org::vitalization]] agent [[file:noun.person.org::vitalizer]] drf [[file:adjs.all.org::vital]] drf [[file:noun.state.org::vitalization]] drf [[file:noun.person.org::vitalizer]] ant [[devitalize]]
 w: <<vitalise>> state [[file:noun.state.org::vitalisation]] agent [[file:noun.person.org::vitaliser]] drf [[file:noun.state.org::vitalisation]] drf [[file:noun.person.org::vitaliser]]
 hyper: [[strengthen1]]
 fr: 8 9 10 11
@@ -13243,7 +13243,7 @@ hyper: [[file:verb.possession.org::roll_up3]]
 fr: 8
 g: pile up (debts or scores)
 
-w: <<accrete1>> event [[file:noun.process.org::accretion2]] event [[file:noun.process.org::accretion]] drf [[file:adj.all.org::accretive]] drf [[file:noun.process.org::accretion2]] drf [[file:noun.process.org::accretion]]
+w: <<accrete1>> event [[file:noun.process.org::accretion2]] event [[file:noun.process.org::accretion]] drf [[file:adjs.all.org::accretive]] drf [[file:noun.process.org::accretion2]] drf [[file:noun.process.org::accretion]]
 hyper: [[accumulate]]
 fr: 11
 g: grow or become attached by accretion; "The story accreted emotion"
@@ -13253,8 +13253,8 @@ hyper: [[accumulate]]
 fr: 1
 g: accumulate and create a backlog
 
-w: <<accumulate>> event [[file:noun.act.org::accumulation]] drf [[file:adj.all.org::accumulative]] drf [[file:adj.all.org::accumulative]] drf [[file:noun.act.org::accumulation]]
-w: <<cumulate>> drf [[file:adj.all.org::cumulative]] drf [[file:noun.group.org::cumulus]] drf [[file:noun.group.org::cumulation]]
+w: <<accumulate>> event [[file:noun.act.org::accumulation]] drf [[file:adjs.all.org::accumulative]] drf [[file:adjs.all.org::accumulative]] drf [[file:noun.act.org::accumulation]]
+w: <<cumulate>> drf [[file:adjs.all.org::cumulative]] drf [[file:noun.group.org::cumulus]] drf [[file:noun.group.org::cumulation]]
 w: <<conglomerate>> event [[file:noun.group.org::conglomeration]] event [[file:noun.event.org::conglomeration]] drf [[file:noun.group.org::conglomeration]] drf [[file:noun.event.org::conglomeration]]
 w: <<pile_up>>
 w: <<gather>> drf [[file:noun.act.org::gathering1]]
@@ -13289,7 +13289,7 @@ hyper: [[increase]]
 fr: 1
 g: increase rapidly and progressively step by step on a broad base
 
-w: <<augment>> event [[file:noun.event.org::augmentation]] drf [[file:adj.all.org::augmentative]] drf [[file:noun.event.org::augmentation]]
+w: <<augment>> event [[file:noun.event.org::augmentation]] drf [[file:adjs.all.org::augmentative]] drf [[file:noun.event.org::augmentation]]
 hyper: [[grow]]
 fr: 1
 g: grow or intensify; "The pressure augmented"
@@ -13401,7 +13401,7 @@ hyper: [[increase2]]
 fr: 8 11
 g: enlarge, develop, or increase by degrees or in stages; "build up your savings"
 
-w: <<augment1>> event [[file:noun.event.org::augmentation]] event [[file:noun.act.org::augmentation]] drf [[file:adj.all.org::augmentative]] drf [[file:noun.event.org::augmentation]] drf [[file:noun.act.org::augmentation]]
+w: <<augment1>> event [[file:noun.event.org::augmentation]] event [[file:noun.act.org::augmentation]] drf [[file:adjs.all.org::augmentative]] drf [[file:noun.event.org::augmentation]] drf [[file:noun.act.org::augmentation]]
 hyper: [[increase2]]
 fr: 8 11
 g: enlarge or increase; "The recent speech of the president augmented tensions in the Near East"
@@ -13487,7 +13487,7 @@ hyper: [[file:verb.creation.org::imitate]]
 fr: 8 9 10 11
 g: behave in accordance or in agreement with; "Follow a pattern"; "Follow my example"
 
-w: <<adjust1>> event [[file:noun.process.org::adjustment]] event [[file:noun.event.org::adjustment]] drf [[file:adj.all.org::adjustive]] drf [[file:noun.process.org::adjustment]] drf [[file:noun.event.org::adjustment]]
+w: <<adjust1>> event [[file:noun.process.org::adjustment]] event [[file:noun.event.org::adjustment]] drf [[file:adjs.all.org::adjustive]] drf [[file:noun.process.org::adjustment]] drf [[file:noun.event.org::adjustment]]
 w: <<conform1>> drf [[file:noun.person.org::conformist]]
 w: <<adapt2>> event [[file:noun.process.org::adaptation]] drf [[file:adj.all.org::adaptive]] drf [[file:adj.all.org::adaptable]] drf [[file:noun.process.org::adaptation]] drf [[file:noun.process.org::adaption]]
 hyper: [[change]]
@@ -13770,7 +13770,7 @@ dt: [[file:noun.cognition.org::chemistry]]
 fr: 8
 g: alter (elements) by alchemy
 
-w: <<commutate>> instrument [[file:noun.artifact.org::commutator]] drf [[file:adj.all.org::commutative]] drf [[file:noun.artifact.org::commutator]]
+w: <<commutate>> instrument [[file:noun.artifact.org::commutator]] drf [[file:adjs.all.org::commutative]] drf [[file:noun.artifact.org::commutator]]
 hyper: [[change_by_reversal]]
 fr: 8
 g: reverse the direction of (an alternating electric current) each half cycle so as to produce a unidirectional current
@@ -13783,7 +13783,7 @@ g: cause a complete reversal of the circumstances; "The tables are turned now th
 
 w: <<change_by_reversal>>
 w: <<turn>> event [[file:noun.event.org::turn]] drf [[file:noun.event.org::turn]] see [[file:verb.contact.org::turn_on]] see [[file:verb.contact.org::turn_off]]
-w: <<reverse>> event [[file:noun.relation.org::reverse]] event [[file:noun.act.org::reverse1]] event [[file:noun.act.org::reversal]] drf [[file:adj.all.org::reversible]] drf [[file:noun.relation.org::reverse]] drf [[file:noun.act.org::reverse1]] drf [[file:noun.act.org::reversal]]
+w: <<reverse>> event [[file:noun.relation.org::reverse]] event [[file:noun.act.org::reverse1]] event [[file:noun.act.org::reversal]] drf [[file:adjs.all.org::reversible]] drf [[file:noun.relation.org::reverse]] drf [[file:noun.act.org::reverse1]] drf [[file:noun.act.org::reversal]]
 hyper: [[change]]
 fr: 1 2 8 10 11
 g: change to the contrary; "The trend was reversed"; "the tides turned against him"; "public opinion turned when it was revealed that the president had an affair with a White House intern"
@@ -13930,7 +13930,7 @@ g: bleach and alter the natural development of (a green plant) by excluding sunl
 
 w: <<sensualize>>
 w: <<sensualise>>
-w: <<carnalize>> drf [[file:adj.all.org::carnal]]
+w: <<carnalize>> drf [[file:adjs.all.org::carnal]]
 w: <<carnalise>>
 hyper: [[file:verb.social.org::corrupt]]
 fr: 9
@@ -14018,7 +14018,7 @@ g: vary the frequency, amplitude, phase, or other characteristic of (electromagn
 
 w: <<change2>> result [[file:noun.phenomenon.org::change]] result [[file:noun.artifact.org::change1]] property [[file:noun.relation.org::change]] event [[file:noun.event.org::change]] event [[file:noun.act.org::change]] drf [[file:noun.relation.org::change]] drf [[file:noun.phenomenon.org::change]] drf [[file:noun.event.org::change]] drf [[file:noun.artifact.org::change1]] drf [[file:noun.act.org::change]]
 w: <<alter>>
-w: <<vary1>> result [[file:noun.cognition.org::variation1]] drf [[file:adj.all.org::variable]] drf [[file:adj.all.org::variable]] drf [[file:adj.all.org::variant]] drf [[file:noun.cognition.org::variation1]] drf [[file:noun.cognition.org::variant1]]
+w: <<vary1>> result [[file:noun.cognition.org::variation1]] drf [[file:adjs.all.org::variable]] drf [[file:adj.all.org::variable]] drf [[file:adjs.all.org::variant]] drf [[file:noun.cognition.org::variation1]] drf [[file:noun.cognition.org::variant1]]
 fr: 1 2
 g: become different in some particular way, without permanently losing one's or its former characteristics or essence; "her mood changes in accordance with the weather"; "The supermarket's selection of vegetables varies according to the season"
 
@@ -14262,13 +14262,13 @@ hyper: [[convert3]]
 fr: 8 11
 g: convert (plant remains) into humus
 
-w: <<convert3>> instrument [[file:noun.artifact.org::convertor]] event [[file:noun.act.org::conversion]] drf [[file:adj.all.org::convertible]] drf [[file:noun.act.org::conversion]] drf [[file:noun.artifact.org::convertor]]
+w: <<convert3>> instrument [[file:noun.artifact.org::convertor]] event [[file:noun.act.org::conversion]] drf [[file:adjs.all.org::convertible]] drf [[file:noun.act.org::conversion]] drf [[file:noun.artifact.org::convertor]]
 hyper: [[change1]]
 vg: [[convert4]]
 fr: 8
 g: change the nature, purpose, or function of something; "convert lead into gold"; "convert hotels into jails"; "convert slaves to laborers"
 
-w: <<convert4>> instrument [[file:noun.artifact.org::converter]] drf [[file:adj.all.org::convertible]] drf [[file:noun.artifact.org::converter]]
+w: <<convert4>> instrument [[file:noun.artifact.org::converter]] drf [[file:adjs.all.org::convertible]] drf [[file:noun.artifact.org::converter]]
 vg: [[convert3]]
 hyper: [[change]]
 dt: [[file:noun.cognition.org::chemistry]]
@@ -14295,7 +14295,7 @@ dt: [[file:noun.act.org::cooking]]
 fr: 8
 g: convert to caramel
 
-w: <<brutalize1>> event [[file:noun.act.org::brutalization]] drf [[file:adj.all.org::brutal]] drf [[file:noun.act.org::brutalization]]
+w: <<brutalize1>> event [[file:noun.act.org::brutalization]] drf [[file:adjs.all.org::brutal]] drf [[file:noun.act.org::brutalization]]
 w: <<brutalise1>> event [[file:noun.act.org::brutalisation]] drf [[file:noun.act.org::brutalisation]]
 w: <<animalize1>>
 w: <<animalise1>>
@@ -14303,7 +14303,7 @@ hyper: [[change1]]
 fr: 9 10
 g: make brutal, unfeeling, or inhuman; "Life in the camps had brutalized him"
 
-w: <<brutalize>> event [[file:noun.act.org::brutalization]] drf [[file:adj.all.org::brutal]] drf [[file:noun.act.org::brutalization]]
+w: <<brutalize>> event [[file:noun.act.org::brutalization]] drf [[file:adjs.all.org::brutal]] drf [[file:noun.act.org::brutalization]]
 w: <<brutalise>> event [[file:noun.act.org::brutalisation]] drf [[file:noun.act.org::brutalisation]]
 w: <<animalize>>
 w: <<animalise>>

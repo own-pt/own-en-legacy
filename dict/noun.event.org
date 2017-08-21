@@ -33,7 +33,7 @@ w: <<Fall3>> drf [[file:verb.social.org::fall1]]
 ihyper: [[file:noun.Tops.org::event]]
 g: the lapse of mankind into sinfulness because of the sin of Adam and Eve; "women have been blamed ever since the Fall"
 
-w: <<faint>> drf [[file:adj.all.org::faint]] drf [[file:verb.body.org::faint]]
+w: <<faint>> drf [[file:adjs.all.org::faint]] drf [[file:verb.body.org::faint]]
 w: <<swoon>> drf [[file:verb.body.org::swoon]]
 w: <<syncope>>
 w: <<deliquium>>
@@ -183,7 +183,7 @@ w: <<independence>>
 hyper: [[victory]]
 g: the successful ending of the American Revolution; "they maintained close relations with England even after independence"
 
-w: <<victory>> drf [[file:adj.all.org::victorious]] drf [[file:adj.all.org::victorious]] ant [[defeat]]
+w: <<victory>> drf [[file:adjs.all.org::victorious]] drf [[file:adjs.all.org::victorious]] ant [[defeat]]
 w: <<triumph>> drf [[file:verb.competition.org::triumph]]
 hyper: [[ending]]
 hyper: [[success]]
@@ -378,7 +378,7 @@ hyper: [[final]]
 dt: [[file:noun.act.org::soccer]]
 g: the final match of any cup competition (such as the annual final of the English soccer competition at Wembley)
 
-w: <<final>> drf [[file:adj.all.org::final]]
+w: <<final>> drf [[file:adjs.all.org::final]]
 hyper: [[match]]
 hp: [[elimination_tournament]]
 g: the final match between the winners of all previous matches in an elimination tournament
@@ -428,7 +428,7 @@ w: <<playoff>> drf [[file:verb.competition.org::play_off]]
 hyper: [[contest]]
 g: any final competition to determine a championship
 
-w: <<open>> drf [[file:adj.all.org::open]]
+w: <<open>> drf [[file:adjs.all.org::open]]
 hyper: [[tournament]]
 g: a tournament in which both professionals and amateurs may play
 
@@ -619,7 +619,7 @@ w: <<car_race>>
 hyper: [[race]]
 g: a race between (usually high-performance) automobiles
 
-w: <<race>> drf [[file:adj.all.org::racy]] drf [[file:verb.competition.org::race]]
+w: <<race>> drf [[file:adjs.all.org::racy]] drf [[file:verb.competition.org::race]]
 hyper: [[contest]]
 g: a contest of speed; "the race is to the swift"
 
@@ -643,7 +643,7 @@ w: <<pentathlon>>
 hyper: [[athletic_contest]]
 g: an athletic contest consisting of five different events
 
-w: <<preliminary>> drf [[file:adj.all.org::preliminary]]
+w: <<preliminary>> drf [[file:adjs.all.org::preliminary]]
 w: <<prelim>>
 hyper: [[athletic_contest]]
 g: a minor match preceding the main event
@@ -705,7 +705,7 @@ hyper: [[ceremony]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: a public ceremony on Maundy Thursday when the monarch distributes Maundy money
 
-w: <<formality>> drf [[file:adj.all.org::formal]]
+w: <<formality>> drf [[file:adjs.all.org::formal]]
 w: <<formalities>>
 hyper: [[ceremony]]
 g: a requirement of etiquette or custom; "a mere formality"
@@ -800,7 +800,7 @@ w: <<sepulture>>
 hyper: [[funeral]]
 g: the ritual placing of a corpse in a grave
 
-w: <<funeral>> drf [[file:adj.all.org::funereal]] drf [[file:adj.pert.org::funerary]]
+w: <<funeral>> drf [[file:adjs.all.org::funereal]] drf [[file:adj.pert.org::funerary]]
 hyper: [[ceremony]]
 g: a ceremony at which a dead person is buried or cremated; "hundreds of people attended his funeral"
 
@@ -808,8 +808,8 @@ w: <<circumstance>>
 hyper: [[ceremony]]
 g: formal ceremony about important occasions; "pomp and circumstance"
 
-w: <<ceremony>> drf [[file:adj.all.org::ceremonial]]
-w: <<ceremonial>> drf [[file:adj.all.org::ceremonial]]
+w: <<ceremony>> drf [[file:adjs.all.org::ceremonial]]
+w: <<ceremonial>> drf [[file:adjs.all.org::ceremonial]]
 w: <<ceremonial_occasion>>
 w: <<observance1>> drf [[file:verb.social.org::observe2]]
 hyper: [[affair]]
@@ -829,7 +829,7 @@ w: <<tea_party>>
 hyper: [[party]]
 g: a party at which tea is served
 
-w: <<jolly>> drf [[file:adj.all.org::jolly]] drf [[file:verb.communication.org::jolly]]
+w: <<jolly>> drf [[file:adjs.all.org::jolly]] drf [[file:verb.communication.org::jolly]]
 hyper: [[party]]
 dr: [[file:noun.location.org::United_Kingdom]]
 g: a happy party
@@ -975,7 +975,7 @@ g: a movement upward; "they cheered the rise of the hot-air balloon"
 
 w: <<progress>> drf [[file:verb.motion.org::progress]]
 w: <<progression>>
-w: <<advance>> drf [[file:adj.all.org::advance]] drf [[file:verb.motion.org::advance]]
+w: <<advance>> drf [[file:adjs.all.org::advance]] drf [[file:verb.motion.org::advance]]
 hyper: [[change_of_location]]
 g: a movement forward; "he listened for the progress of the troops"
 
@@ -1207,11 +1207,11 @@ w: <<spirt>> drf [[file:verb.motion.org::spirt1]]
 hyper: [[discharge1]]
 g: the occurrence of a sudden discharge (as of liquid)
 
-w: <<recrudescence>> drf [[file:adj.all.org::recrudescent]] drf [[file:verb.change.org::recrudesce1]]
+w: <<recrudescence>> drf [[file:adjs.all.org::recrudescent]] drf [[file:verb.change.org::recrudesce1]]
 hyper: [[outbreak]]
 g: a return of something after a period of abatement; "a recrudescence of racism"; "a recrudescence of the symptoms"
 
-w: <<pandemic>> drf [[file:adj.all.org::pandemic]]
+w: <<pandemic>> drf [[file:adjs.all.org::pandemic]]
 hyper: [[epidemic]]
 g: an epidemic that is geographically widespread; occurring throughout a region or even throughout the world
 
@@ -1235,7 +1235,7 @@ w: <<flare-up1>> drf [[file:verb.change.org::flare_up]]
 hyper: [[happening]]
 g: a sudden intense happening; "an outburst of heavy rain"; "a burst of lightning"
 
-w: <<dissilience>> drf [[file:adj.all.org::dissilient]]
+w: <<dissilience>> drf [[file:adjs.all.org::dissilient]]
 hyper: [[emergence]]
 dt: [[file:noun.cognition.org::botany]]
 g: the emergence of seeds as seed pods burst open when they are ripe
@@ -1303,7 +1303,7 @@ w: <<intravenous_drip>>
 hyper: [[drip]]
 g: slow continuous drip introducing solutions intravenously (a drop at a time)
 
-w: <<drip>> drf [[file:adj.all.org::drippy]] drf [[file:verb.contact.org::drip10]] drf [[file:verb.motion.org::drip]]
+w: <<drip>> drf [[file:adjs.all.org::drippy]] drf [[file:verb.contact.org::drip10]] drf [[file:verb.motion.org::drip]]
 w: <<trickle>> drf [[file:verb.motion.org::trickle]]
 w: <<dribble>> drf [[file:verb.contact.org::dribble10]]
 hyper: [[flow]]
@@ -1315,7 +1315,7 @@ hyper: [[seepage]]
 g: the process of exuding; the slow escape of liquids from blood vessels through pores or breaks in the cell membranes
 
 w: <<seepage>> drf [[file:verb.motion.org::seep]]
-w: <<ooze>> drf [[file:adj.all.org::oozy]] drf [[file:verb.body.org::ooze]] drf [[file:verb.motion.org::ooze]]
+w: <<ooze>> drf [[file:adjs.all.org::oozy]] drf [[file:verb.body.org::ooze]] drf [[file:verb.motion.org::ooze]]
 w: <<oozing>> drf [[file:verb.motion.org::ooze]] drf [[file:verb.body.org::ooze]]
 hyper: [[flow]]
 g: the process of seeping
@@ -1404,7 +1404,7 @@ g: an instance of agitation of the earth's crust; "the first shock of the earthq
 w: <<earthquake>>
 w: <<quake>> drf [[file:verb.motion.org::quake2]]
 w: <<temblor>>
-w: <<seism>> drf [[file:adj.all.org::seismic]] drf [[file:adj.all.org::seismal]]
+w: <<seism>> drf [[file:adjs.all.org::seismic]] drf [[file:adjs.all.org::seismal]]
 hyper: [[file:noun.phenomenon.org::geological_phenomenon]]
 g: shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity
 
@@ -1520,7 +1520,7 @@ hyper: [[revolution1]]
 dr: [[file:noun.location.org::China]]
 g: a radical reform in China initiated by Mao Zedong in 1965 and carried out largely by the Red Guard; intended to eliminate counterrevolutionary elements in the government it resulted in purges of the intellectuals and socioeconomic chaos
 
-w: <<revolution1>> drf [[file:adj.all.org::revolutionary]] drf [[file:noun.person.org::revolutionist]] drf [[file:verb.cognition.org::revolutionize]] drf [[file:verb.change.org::revolutionize]] drf [[file:verb.cognition.org::revolutionise]] drf [[file:verb.change.org::revolutionise]]
+w: <<revolution1>> drf [[file:adjs.all.org::revolutionary]] drf [[file:noun.person.org::revolutionist]] drf [[file:verb.cognition.org::revolutionize]] drf [[file:verb.change.org::revolutionize]] drf [[file:verb.cognition.org::revolutionise]] drf [[file:verb.change.org::revolutionise]]
 hyper: [[change]]
 g: a drastic and far-reaching change in ways of thinking and behaving; "the industrial revolution was also a cultural revolution"
 
@@ -1616,7 +1616,7 @@ w: <<expense>>
 hyper: [[detriment]]
 g: a detriment or sacrifice; "at the expense of"
 
-w: <<detriment>> drf [[file:adj.all.org::detrimental]]
+w: <<detriment>> drf [[file:adjs.all.org::detrimental]]
 w: <<hurt1>> drf [[file:verb.change.org::hurt4]]
 hyper: [[damage]]
 g: a damage or loss
@@ -1689,12 +1689,12 @@ w: <<watershed>>
 hyper: [[juncture]]
 g: an event marking a unique or important historical change of course or one on which important developments depend; "the agreement was a watershed in the history of both nations"
 
-w: <<crisis>> drf [[file:adj.all.org::critical]]
+w: <<crisis>> drf [[file:adjs.all.org::critical]]
 hyper: [[juncture]]
 g: a crucial stage or turning point in the course of something; "after the crisis the patient either dies or gets better"
 
-w: <<emergency>> drf [[file:adj.all.org::emergent]]
-w: <<exigency>> drf [[file:adj.all.org::exigent]]
+w: <<emergency>> drf [[file:adjs.all.org::emergent]]
+w: <<exigency>> drf [[file:adjs.all.org::exigent]]
 w: <<pinch1>>
 hyper: [[crisis]]
 g: a sudden unforeseen crisis (usually involving danger) that requires immediate action; "he never knew what to do in an emergency"
@@ -1813,15 +1813,15 @@ w: <<heat_flash>>
 hyper: [[flash]]
 g: a flash of intense heat (as released by an atomic explosion)
 
-w: <<glitter>> drf [[file:adj.all.org::glittery]]
-w: <<sparkle>> drf [[file:adj.all.org::sparkly]] drf [[file:verb.weather.org::sparkle2]] drf [[file:verb.weather.org::sparkle]]
+w: <<glitter>> drf [[file:adjs.all.org::glittery]]
+w: <<sparkle>> drf [[file:adjs.all.org::sparkly]] drf [[file:verb.weather.org::sparkle2]] drf [[file:verb.weather.org::sparkle]]
 w: <<coruscation>> drf [[file:verb.weather.org::coruscate]]
 hyper: [[flash]]
 g: the occurrence of a small flash or spark
 
 w: <<gleam>> drf [[file:verb.perception.org::gleam]]
 w: <<gleaming>> drf [[file:verb.perception.org::gleam]]
-w: <<glimmer>> drf [[file:adj.all.org::glimmery]] drf [[file:verb.perception.org::glimmer]]
+w: <<glimmer>> drf [[file:adjs.all.org::glimmery]] drf [[file:verb.perception.org::glimmer]]
 hyper: [[flash]]
 g: a flash of light (especially reflected light)
 
@@ -1835,7 +1835,7 @@ w: <<flash>> drf [[file:verb.change.org::flash4]]
 hyper: [[happening]]
 g: a sudden intense burst of radiant energy
 
-w: <<shimmer>> drf [[file:adj.all.org::shimmery]] drf [[file:verb.stative.org::shimmer]] drf [[file:verb.weather.org::shimmer]]
+w: <<shimmer>> drf [[file:adjs.all.org::shimmery]] drf [[file:verb.stative.org::shimmer]] drf [[file:verb.weather.org::shimmer]]
 w: <<play>> drf [[file:verb.motion.org::play]]
 hyper: [[change]]
 g: a weak and tremulous light; "the shimmer of colors on iridescent feathers"; "the play of light on the water"
@@ -1964,7 +1964,7 @@ g: a flow or discharge
 
 w: <<discharge1>> drf [[file:verb.contact.org::discharge]]
 w: <<outpouring>>
-w: <<run>> drf [[file:adj.all.org::runny]] drf [[file:verb.motion.org::run1]]
+w: <<run>> drf [[file:adjs.all.org::runny]] drf [[file:verb.motion.org::run1]]
 hyper: [[flow]]
 g: the pouring forth of a fluid
 
@@ -2247,7 +2247,7 @@ hyper: [[sound]]
 g: a blast of a horn
 
 w: <<ting>> drf [[file:verb.perception.org::ting1]] drf [[file:verb.perception.org::ting]]
-w: <<tinkle>> drf [[file:adj.all.org::tinkly]] drf [[file:verb.perception.org::tinkle]]
+w: <<tinkle>> drf [[file:adjs.all.org::tinkly]] drf [[file:verb.perception.org::tinkle]]
 hyper: [[sound]]
 g: a light clear metallic sound as of a small bell
 
@@ -2270,7 +2270,7 @@ w: <<thunderclap>>
 hyper: [[thunder1]]
 g: a single sharp crash of thunder
 
-w: <<thunder1>> drf [[file:adj.all.org::thundery]] drf [[file:verb.weather.org::thunder]]
+w: <<thunder1>> drf [[file:adjs.all.org::thundery]] drf [[file:verb.weather.org::thunder]]
 hyper: [[noise]]
 g: a booming or crashing noise caused by air expanding along the path of a bolt of lightning
 
@@ -2281,7 +2281,7 @@ g: a thrumming sound; "he could hear the thrum of a banjo"
 w: <<thump1>> drf [[file:verb.perception.org::thump]]
 w: <<thumping>> drf [[file:verb.perception.org::thump]]
 w: <<clump>> drf [[file:verb.perception.org::clump]]
-w: <<clunk>> drf [[file:adj.all.org::clunky]] drf [[file:verb.perception.org::clunk]]
+w: <<clunk>> drf [[file:adjs.all.org::clunky]] drf [[file:verb.perception.org::clunk]]
 w: <<thud>> drf [[file:verb.perception.org::thud1]] drf [[file:verb.contact.org::thud]] drf [[file:verb.perception.org::thud]]
 hyper: [[sound]]
 g: a heavy dull sound (as made by impact of heavy objects)
@@ -2299,7 +2299,7 @@ w: <<whoosh>>
 hyper: [[noise]]
 g: the noise produced by the sudden rush of a fluid (a gas or liquid)
 
-w: <<swish>> drf [[file:adj.all.org::swishy]] drf [[file:verb.perception.org::swish]]
+w: <<swish>> drf [[file:adjs.all.org::swishy]] drf [[file:verb.perception.org::swish]]
 hyper: [[sound]]
 g: a brushing or rustling sound
 
@@ -2324,11 +2324,11 @@ w: <<squeal>> drf [[file:verb.communication.org::squeal1]]
 hyper: [[howl]]
 g: a high-pitched howl
 
-w: <<squeak>> drf [[file:adj.all.org::squeaky]] drf [[file:verb.perception.org::squeak]]
+w: <<squeak>> drf [[file:adjs.all.org::squeaky]] drf [[file:verb.perception.org::squeak]]
 hyper: [[noise]]
 g: a short high-pitched noise; "the squeak of shoes on powdery snow"
 
-w: <<squawk>> drf [[file:adj.all.org::squawky]] drf [[file:verb.communication.org::squawk1]]
+w: <<squawk>> drf [[file:adjs.all.org::squawky]] drf [[file:verb.communication.org::squawk1]]
 hyper: [[noise]]
 g: the noise of squawking; "she awoke to the squawk of chickens"; "the squawk of car horns"
 
@@ -2387,7 +2387,7 @@ w: <<scrunch>> drf [[file:verb.perception.org::scrunch]]
 hyper: [[noise]]
 g: a crunching noise
 
-w: <<screech>> drf [[file:adj.all.org::screechy]] drf [[file:verb.perception.org::screech]]
+w: <<screech>> drf [[file:adjs.all.org::screechy]] drf [[file:verb.perception.org::screech]]
 w: <<screeching>> drf [[file:verb.perception.org::screech]]
 w: <<shriek>> drf [[file:verb.communication.org::shriek]]
 w: <<shrieking>>
@@ -2398,7 +2398,7 @@ g: a high-pitched noise resembling a human cry; "he ducked at the screechings of
 
 w: <<scrape>>
 w: <<scraping>>
-w: <<scratch>> drf [[file:adj.all.org::scratchy]]
+w: <<scratch>> drf [[file:adjs.all.org::scratchy]]
 w: <<scratching>>
 hyper: [[noise]]
 g: a harsh noise made by scraping; "the scrape of violin bows distracted her"
@@ -2453,7 +2453,7 @@ w: <<rat-tat>>
 hyper: [[tapping]]
 g: a series of short sharp taps (as made by strokes on a drum or knocks on a door)
 
-w: <<racket>> drf [[file:adj.all.org::rackety]] drf [[file:verb.perception.org::racket]] drf [[file:verb.social.org::racket]]
+w: <<racket>> drf [[file:adjs.all.org::rackety]] drf [[file:verb.perception.org::racket]] drf [[file:verb.social.org::racket]]
 hyper: [[noise]]
 g: a loud and disturbing noise
 
@@ -2538,7 +2538,7 @@ g: the characteristic sounds made by a horse
 
 w: <<mutter>> drf [[file:verb.communication.org::mutter1]] drf [[file:noun.person.org::mutterer]]
 w: <<muttering>> drf [[file:verb.communication.org::mutter1]]
-w: <<murmur>> drf [[file:adj.all.org::murmurous]] drf [[file:verb.communication.org::murmur]] drf [[file:noun.person.org::murmurer]]
+w: <<murmur>> drf [[file:adjs.all.org::murmurous]] drf [[file:verb.communication.org::murmur]] drf [[file:noun.person.org::murmurer]]
 w: <<murmuring>> drf [[file:verb.communication.org::murmur]]
 w: <<murmuration>> drf [[file:verb.communication.org::murmur]]
 w: <<mussitation>> drf [[file:verb.communication.org::mussitate]]
@@ -2566,8 +2566,8 @@ w: <<knell>> drf [[file:verb.perception.org::knell1]] drf [[file:verb.perception
 hyper: [[bell]]
 g: the sound of a bell rung slowly to announce a death or a funeral or the end of something
 
-w: <<jingle>> drf [[file:adj.all.org::jingly]] drf [[file:verb.perception.org::jingle]]
-w: <<jangle>> drf [[file:adj.all.org::jangly]] drf [[file:verb.perception.org::jangle]]
+w: <<jingle>> drf [[file:adjs.all.org::jingly]] drf [[file:verb.perception.org::jingle]]
+w: <<jangle>> drf [[file:adjs.all.org::jangly]] drf [[file:verb.perception.org::jangle]]
 hyper: [[sound]]
 g: a metallic sound; "the jingle of coins"; "the jangle of spurs"
 
@@ -2577,7 +2577,7 @@ hyper: [[noise]]
 g: a humming noise; "the hum of distant traffic"
 
 w: <<hubbub>>
-w: <<uproar>> drf [[file:adj.all.org::uproarious]]
+w: <<uproar>> drf [[file:adjs.all.org::uproarious]]
 w: <<brouhaha>>
 w: <<katzenjammer>>
 hyper: [[noise]]
@@ -2681,7 +2681,7 @@ hyper: [[rattle]]
 hyper: [[file:noun.state.org::symptom]]
 g: the crackling sound heard on auscultation when patients with respiratory diseases inhale; associated with tuberculosis and pneumonia and congestive heart failure
 
-w: <<creak>> drf [[file:adj.all.org::creaky]] drf [[file:verb.perception.org::creak]]
+w: <<creak>> drf [[file:adjs.all.org::creaky]] drf [[file:verb.perception.org::creak]]
 w: <<creaking>> drf [[file:verb.perception.org::creak]]
 hyper: [[noise]]
 g: a squeaking sound; "the creak of the floorboards gave him away"
@@ -2734,7 +2734,7 @@ hyper: [[noise]]
 g: a rattling noise (often produced by rapid movement); "the shutters clattered against the house"; "the clatter of iron wheels on cobblestones"
 
 w: <<clang>> drf [[file:verb.perception.org::clang]]
-w: <<clangor>> drf [[file:adj.all.org::clangorous]] drf [[file:verb.perception.org::clangor1]] drf [[file:verb.perception.org::clangor]] drf [[file:verb.perception.org::clang]]
+w: <<clangor>> drf [[file:adjs.all.org::clangorous]] drf [[file:verb.perception.org::clangor1]] drf [[file:verb.perception.org::clangor]] drf [[file:verb.perception.org::clang]]
 w: <<clangour>> drf [[file:verb.perception.org::clangour]]
 w: <<clangoring>>
 w: <<clank>> drf [[file:verb.perception.org::clank]]
@@ -2794,7 +2794,7 @@ w: <<caterwaul>> drf [[file:verb.communication.org::caterwaul]]
 hyper: [[cry]]
 g: the yowling sound made by a cat in heat
 
-w: <<cackle>> drf [[file:adj.all.org::cackly]] drf [[file:verb.communication.org::cackle]]
+w: <<cackle>> drf [[file:adjs.all.org::cackly]] drf [[file:verb.communication.org::cackle]]
 hyper: [[cry]]
 g: the sound made by a hen after laying an egg
 
@@ -2819,14 +2819,14 @@ g: the sound of sheep or goats (or any sound resembling this)
 w: <<boom1>> drf [[file:verb.perception.org::boom1]] drf [[file:verb.perception.org::boom]]
 w: <<roar>> drf [[file:verb.communication.org::roar1]]
 w: <<roaring>> drf [[file:verb.communication.org::roar1]]
-w: <<thunder>> drf [[file:adj.all.org::thunderous]] drf [[file:verb.communication.org::thunder1]] drf [[file:verb.communication.org::thunder]] drf [[file:verb.motion.org::thunder]]
+w: <<thunder>> drf [[file:adjs.all.org::thunderous]] drf [[file:verb.communication.org::thunder1]] drf [[file:verb.communication.org::thunder]] drf [[file:verb.motion.org::thunder]]
 hyper: [[noise]]
 g: a deep prolonged loud noise
 
 w: <<blare>> drf [[file:verb.perception.org::blare1]]
 w: <<blaring>>
 w: <<cacophony>> drf [[file:adj.all.org::cacophonic]] drf [[file:adj.all.org::cacophonous]]
-w: <<clamor>> drf [[file:adj.all.org::clamorous]]
+w: <<clamor>> drf [[file:adjs.all.org::clamorous]]
 w: <<din>> drf [[file:verb.perception.org::din]]
 hyper: [[noise]]
 g: a loud harsh or strident noise
@@ -3076,7 +3076,7 @@ w: <<disruption>>
 hyper: [[interruption]]
 g: an event that results in a displacement or discontinuity
 
-w: <<monstrosity>> drf [[file:adj.all.org::monstrous]]
+w: <<monstrosity>> drf [[file:adjs.all.org::monstrous]]
 hyper: [[malformation]]
 g: something hideous or frightful; "they regarded the atom bomb as a monstrosity"
 
@@ -3096,9 +3096,9 @@ hyper: [[deviation]]
 dt: [[file:noun.artifact.org::aircraft]]
 g: the deviation (by a vessel or aircraft) from its intended course due to drifting
 
-w: <<discrepancy>> drf [[file:adj.all.org::discrepant]]
+w: <<discrepancy>> drf [[file:adjs.all.org::discrepant]]
 w: <<variance>>
-w: <<variant>> drf [[file:adj.all.org::variant]] drf [[file:verb.stative.org::vary]]
+w: <<variant>> drf [[file:adjs.all.org::variant]] drf [[file:verb.stative.org::vary]]
 hyper: [[deviation]]
 g: an event that departs from expectations
 
@@ -3149,7 +3149,7 @@ w: <<shimmy>>
 hyper: [[wobble]]
 g: an abnormal wobble in a motor vehicle (especially in the front wheels); "he could feel the shimmy in the steering wheel"
 
-w: <<wobble>> drf [[file:adj.all.org::wobbly]] drf [[file:verb.motion.org::wobble]] drf [[file:verb.motion.org::wobble2]]
+w: <<wobble>> drf [[file:adjs.all.org::wobbly]] drf [[file:verb.motion.org::wobble]] drf [[file:verb.motion.org::wobble2]]
 hyper: [[movement]]
 g: an unsteady rocking motion
 
@@ -3255,7 +3255,7 @@ hyper: [[incident]]
 g: an incident (real or imaginary); "their parting was a sad scene"
 
 w: <<infection>> drf [[file:verb.body.org::infect1]]
-w: <<contagion>> drf [[file:adj.all.org::contagious1]]
+w: <<contagion>> drf [[file:adjs.all.org::contagious1]]
 w: <<transmission>> drf [[file:verb.possession.org::transmit10]]
 hyper: [[incident]]
 g: an incident in which an infectious disease is transmitted
@@ -3503,12 +3503,12 @@ w: <<kick>> drf [[file:verb.contact.org::kick8]]
 hyper: [[movement]]
 g: the backward jerk of a gun when it is fired
 
-w: <<resilience>> drf [[file:adj.all.org::resilient]] drf [[file:verb.change.org::resile2]]
-w: <<resiliency>> drf [[file:adj.all.org::resilient]] drf [[file:verb.motion.org::resile]]
+w: <<resilience>> drf [[file:adjs.all.org::resilient]] drf [[file:verb.change.org::resile2]]
+w: <<resiliency>> drf [[file:adjs.all.org::resilient]] drf [[file:verb.motion.org::resile]]
 hyper: [[recoil]]
 g: an occurrence of rebounding or springing back
 
-w: <<bounce>> drf [[file:adj.all.org::bouncy]] drf [[file:verb.motion.org::bounce2]] drf [[file:verb.motion.org::bounce]]
+w: <<bounce>> drf [[file:adjs.all.org::bouncy]] drf [[file:verb.motion.org::bounce2]] drf [[file:verb.motion.org::bounce]]
 w: <<bouncing>>
 hyper: [[recoil]]
 g: rebounding from an impact (or series of impacts)
@@ -3558,7 +3558,7 @@ w: <<tidal_wave>>
 hyper: [[wave1]]
 g: a wave resulting from the periodic flow of the tides that is caused by the gravitational attraction of the moon and sun
 
-w: <<billow>> drf [[file:adj.all.org::billowy]] drf [[file:verb.motion.org::billow]]
+w: <<billow>> drf [[file:adjs.all.org::billowy]] drf [[file:verb.motion.org::billow]]
 w: <<surge1>> drf [[file:verb.motion.org::surge4]] drf [[file:verb.motion.org::surge3]]
 hyper: [[wave1]]
 g: a large sea wave
@@ -3588,7 +3588,7 @@ w: <<wave_shape>>
 hyper: [[wave]]
 g: the shape of a wave illustrated graphically by plotting the values of the period quantity against time
 
-w: <<transient>> drf [[file:adj.all.org::transient]]
+w: <<transient>> drf [[file:adjs.all.org::transient]]
 hyper: [[oscillation]]
 dt: [[file:noun.cognition.org::physics]]
 g: (physics) a short-lived oscillation in a system caused by a sudden change of voltage or current or load
@@ -3704,7 +3704,7 @@ w: <<throwback>>
 hyper: [[recurrence]]
 g: a reappearance of an earlier characteristic
 
-w: <<recurrence>> drf [[file:adj.all.org::recurrent]] drf [[file:verb.change.org::recur]]
+w: <<recurrence>> drf [[file:adjs.all.org::recurrent]] drf [[file:verb.change.org::recur]]
 w: <<return1>>
 hyper: [[repeat]]
 g: happening again (especially at regular intervals); "the return of spring"
@@ -3725,7 +3725,7 @@ w: <<merry-go-round>>
 hyper: [[cycle2]]
 g: a never-ending cycle of activities and events (especially when they seem to have little purpose); "if we lose the election the whole legislative merry-go-round will have to start over"
 
-w: <<cycle2>> drf [[file:adj.all.org::cyclic]] drf [[file:adj.all.org::cyclic1]] drf [[file:adj.all.org::cyclical]] drf [[file:verb.change.org::cycle]] drf [[file:verb.motion.org::cycle3]] drf [[file:verb.motion.org::cycle2]]
+w: <<cycle2>> drf [[file:adjs.all.org::cyclic]] drf [[file:adj.all.org::cyclic1]] drf [[file:adj.all.org::cyclical]] drf [[file:verb.change.org::cycle]] drf [[file:verb.motion.org::cycle3]] drf [[file:verb.motion.org::cycle2]]
 hyper: [[repeat]]
 g: a periodically repeated sequence of events; "a cycle of reprisal and retaliation"
 
@@ -3868,7 +3868,7 @@ w: <<hardship>>
 hyper: [[misfortune]]
 g: something that causes or entails suffering; "I cannot think it a hardship that more indulgence is allowed to men than to women"- James Boswell; "the many hardships of frontier life"
 
-w: <<adversity>> drf [[file:adj.all.org::adverse]]
+w: <<adversity>> drf [[file:adjs.all.org::adverse]]
 hyper: [[misfortune]]
 g: a stroke of ill fortune; a calamitous event; "a period marked by adversities"
 
@@ -3885,7 +3885,7 @@ w: <<vanishing>> drf [[file:verb.change.org::vanish]]
 hyper: [[disappearance]]
 g: a sudden or mysterious disappearance
 
-w: <<evanescence>> drf [[file:adj.all.org::evanescent]] drf [[file:verb.change.org::evanesce]]
+w: <<evanescence>> drf [[file:adjs.all.org::evanescent]] drf [[file:verb.change.org::evanesce]]
 hyper: [[disappearance]]
 g: the event of fading and gradually vanishing from sight; "the evanescence of the morning mist"
 
@@ -3903,7 +3903,7 @@ w: <<desolation>> drf [[file:verb.change.org::desolate1]] drf [[file:verb.change
 hyper: [[ruin]]
 g: an event that results in total destruction
 
-w: <<ruin>> drf [[file:adj.all.org::ruinous]] drf [[file:verb.contact.org::ruin]]
+w: <<ruin>> drf [[file:adjs.all.org::ruinous]] drf [[file:verb.contact.org::ruin]]
 w: <<ruination>>
 hyper: [[destruction]]
 g: an event that results in destruction
@@ -4070,7 +4070,7 @@ w: <<curtain_raising>>
 hyper: [[start]]
 g: the first performance (as of a theatrical production); "the opening received good critical reviews"
 
-w: <<alpha>> drf [[file:adj.all.org::alpha]]
+w: <<alpha>> drf [[file:adjs.all.org::alpha]]
 hyper: [[start]]
 g: the beginning of a series or sequence; "the Alpha and Omega, the first and the last, the beginning and the end"--Revelations
 
@@ -4115,7 +4115,7 @@ hyper: [[origin]]
 dt: [[file:noun.cognition.org::theology]]
 g: (theology) the origination of the Holy Spirit at Pentecost; "the emanation of the Holy Spirit"; "the rising of the Holy Ghost"; "the doctrine of the procession of the Holy Spirit from the Father and the Son"
 
-w: <<preliminary2>> drf [[file:adj.all.org::preliminary]]
+w: <<preliminary2>> drf [[file:adjs.all.org::preliminary]]
 w: <<overture>>
 w: <<prelude>> drf [[file:verb.stative.org::prelude]]
 hyper: [[origin]]
@@ -4125,7 +4125,7 @@ w: <<antecedent>> drf [[file:adj.all.org::antecedent]] drf [[file:verb.stative.o
 hyper: [[cause]]
 g: a preceding occurrence or cause or event
 
-w: <<cause>> drf [[file:adj.all.org::causal]] drf [[file:verb.creation.org::cause]] drf [[file:verb.communication.org::cause]]
+w: <<cause>> drf [[file:adjs.all.org::causal]] drf [[file:verb.creation.org::cause]] drf [[file:verb.communication.org::cause]]
 hyper: [[origin]]
 g: events that provide the generative force that is the origin of something; "they are trying to determine the cause of the crash"
 
@@ -4424,7 +4424,7 @@ w: <<famine>>
 hyper: [[calamity]]
 g: a severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death
 
-w: <<apocalypse>> drf [[file:adj.pert.org::apocalyptic]] drf [[file:adj.all.org::apocalyptical]]
+w: <<apocalypse>> drf [[file:adj.pert.org::apocalyptic]] drf [[file:adjs.all.org::apocalyptical]]
 hyper: [[calamity]]
 g: a cosmic cataclysm in which God destroys the ruling powers of evil
 
@@ -4436,11 +4436,11 @@ w: <<unavoidable_casualty>>
 hyper: [[calamity]]
 g: a natural and unavoidable catastrophe that interrupts the expected course of events; "he discovered that his house was not insured against acts of God"
 
-w: <<calamity>> drf [[file:adj.all.org::calamitous]]
+w: <<calamity>> drf [[file:adjs.all.org::calamitous]]
 w: <<catastrophe>>
-w: <<disaster>> drf [[file:adj.all.org::disastrous]]
-w: <<tragedy>> drf [[file:adj.all.org::tragical]] drf [[file:adj.all.org::tragic]]
-w: <<cataclysm>> drf [[file:adj.all.org::cataclysmic]] drf [[file:adj.all.org::cataclysmal]]
+w: <<disaster>> drf [[file:adjs.all.org::disastrous]]
+w: <<tragedy>> drf [[file:adjs.all.org::tragical]] drf [[file:adjs.all.org::tragic]]
+w: <<cataclysm>> drf [[file:adjs.all.org::cataclysmic]] drf [[file:adjs.all.org::cataclysmal]]
 hyper: [[misfortune]]
 g: an event resulting in great loss and misfortune; "the whole city was affected by the irremediable calamity"; "the earthquake was a disaster"
 
@@ -4627,7 +4627,7 @@ hyper: [[happening]]
 hp: [[episode]]
 g: a single distinct event
 
-w: <<idyll>> drf [[file:adj.all.org::idyllic]] drf [[file:adj.all.org::idyllic]]
+w: <<idyll>> drf [[file:adjs.all.org::idyllic]] drf [[file:adjs.all.org::idyllic]]
 hyper: [[episode]]
 g: an episode of such pastoral or romantic charm as to qualify as the subject of a poetic idyll
 
@@ -4651,8 +4651,8 @@ w: <<skeleton_in_the_cupboard>>
 hyper: [[scandal]]
 g: a scandal that is kept secret; "there must be a skeleton somewhere in that family's closet"
 
-w: <<scandal>> drf [[file:adj.all.org::scandalous]] drf [[file:verb.emotion.org::scandalize]] drf [[file:verb.emotion.org::scandalise]]
-w: <<outrage>> drf [[file:adj.all.org::outrageous]] drf [[file:verb.emotion.org::outrage1]]
+w: <<scandal>> drf [[file:adjs.all.org::scandalous]] drf [[file:verb.emotion.org::scandalize]] drf [[file:verb.emotion.org::scandalise]]
+w: <<outrage>> drf [[file:adjs.all.org::outrageous]] drf [[file:verb.emotion.org::outrage1]]
 hyper: [[trouble]]
 g: a disgraceful event
 
@@ -4686,7 +4686,7 @@ w: <<affliction>> drf [[file:verb.emotion.org::afflict]]
 hyper: [[trouble]]
 g: a cause of great suffering and distress
 
-w: <<pity>> drf [[file:adj.all.org::piteous]]
+w: <<pity>> drf [[file:adjs.all.org::piteous]]
 w: <<shame>>
 hyper: [[misfortune]]
 g: an unfortunate development; "it's a pity he couldn't do it"
@@ -4792,7 +4792,7 @@ w: <<accident1>>
 hyper: [[mishap]]
 g: an unfortunate mishap; especially one causing damage or injury
 
-w: <<accident>> drf [[file:adj.all.org::accidental]]
+w: <<accident>> drf [[file:adjs.all.org::accidental]]
 w: <<stroke2>>
 w: <<fortuity>>
 w: <<chance_event>>
@@ -5000,7 +5000,7 @@ hyper: [[result]]
 g: the outcome of a complex sequence of events
 
 w: <<result>> drf [[file:verb.stative.org::result]]
-w: <<resultant>> drf [[file:adj.all.org::resultant]] drf [[file:verb.stative.org::result2]]
+w: <<resultant>> drf [[file:adjs.all.org::resultant]] drf [[file:verb.stative.org::result2]]
 w: <<final_result>>
 w: <<outcome>>
 w: <<termination>>
@@ -5047,7 +5047,7 @@ hyper: [[happening]]
 g: the event consisting of the start of something; "the beginning of the war"
 
 w: <<eventuality>>
-w: <<contingency>> drf [[file:adj.all.org::contingent]]
+w: <<contingency>> drf [[file:adjs.all.org::contingent]]
 w: <<contingence>>
 hyper: [[happening]]
 g: a possible event or occurrence or result
@@ -5056,7 +5056,7 @@ w: <<night_terror>>
 hyper: [[drama]]
 g: an emotional episode (usually in young children) in which the person awakens in terror with feelings of anxiety and fear but is unable to remember any incident that might have provoked those feelings
 
-w: <<drama>> drf [[file:adj.all.org::dramatic]] drf [[file:adj.all.org::dramatic]] drf [[file:verb.communication.org::dramatize]] drf [[file:verb.communication.org::dramatize1]] drf [[file:verb.communication.org::dramatise1]]
+w: <<drama>> drf [[file:adjs.all.org::dramatic]] drf [[file:adj.all.org::dramatic]] drf [[file:verb.communication.org::dramatize]] drf [[file:verb.communication.org::dramatize1]] drf [[file:verb.communication.org::dramatise1]]
 w: <<dramatic_event>>
 hyper: [[episode]]
 g: an episode that is turbulent or highly emotional
@@ -5073,12 +5073,12 @@ w: <<thing>>
 hyper: [[happening]]
 g: an event; "a funny thing happened on the way to the..."
 
-w: <<wonder>> drf [[file:adj.all.org::wondrous]] drf [[file:verb.communication.org::wonder12]]
-w: <<marvel>> drf [[file:adj.all.org::marvelous]] drf [[file:adj.all.org::marvellous]] drf [[file:verb.communication.org::marvel]] drf [[file:verb.communication.org::marvel12]]
+w: <<wonder>> drf [[file:adjs.all.org::wondrous]] drf [[file:verb.communication.org::wonder12]]
+w: <<marvel>> drf [[file:adjs.all.org::marvelous]] drf [[file:adjs.all.org::marvellous]] drf [[file:verb.communication.org::marvel]] drf [[file:verb.communication.org::marvel12]]
 hyper: [[happening]]
 g: something that causes feelings of wonder; "the wonders of modern science"
 
-w: <<miracle>> drf [[file:adj.all.org::miraculous]]
+w: <<miracle>> drf [[file:adjs.all.org::miraculous]]
 hyper: [[happening]]
 g: any amazing or wonderful occurrence
 
@@ -5086,11 +5086,11 @@ w: <<treat>> drf [[file:verb.possession.org::treat]]
 hyper: [[happening]]
 g: an occurrence that causes special pleasure or delight
 
-w: <<trouble>> drf [[file:adj.all.org::troublous]] drf [[file:verb.body.org::trouble]] drf [[file:verb.emotion.org::trouble]] drf [[file:verb.emotion.org::trouble1]]
+w: <<trouble>> drf [[file:adjs.all.org::troublous]] drf [[file:verb.body.org::trouble]] drf [[file:verb.emotion.org::trouble]] drf [[file:verb.emotion.org::trouble1]]
 hyper: [[happening]]
 g: an event causing distress or pain; "what is the trouble?"; "heart trouble"
 
-w: <<miracle1>> drf [[file:adj.all.org::miraculous]]
+w: <<miracle1>> drf [[file:adjs.all.org::miraculous]]
 hyper: [[file:noun.Tops.org::event]]
 g: a marvellous event manifesting a supernatural act of a divine agent
 
@@ -5153,12 +5153,12 @@ w: <<auspice>> drf [[file:verb.communication.org::auspicate]] drf [[file:verb.ch
 hyper: [[omen]]
 g: a favorable omen
 
-w: <<omen>> drf [[file:adj.all.org::ominous]] drf [[file:adj.all.org::ominous]] drf [[file:verb.communication.org::omen]]
-w: <<portent>> drf [[file:adj.all.org::portentous]] drf [[file:adj.all.org::portentous]] drf [[file:verb.communication.org::portend]]
+w: <<omen>> drf [[file:adjs.all.org::ominous]] drf [[file:adjs.all.org::ominous]] drf [[file:verb.communication.org::omen]]
+w: <<portent>> drf [[file:adjs.all.org::portentous]] drf [[file:adjs.all.org::portentous]] drf [[file:verb.communication.org::portend]]
 w: <<presage>> drf [[file:verb.communication.org::presage]]
-w: <<prognostic>> drf [[file:adj.all.org::prognostic]]
+w: <<prognostic>> drf [[file:adjs.all.org::prognostic]]
 w: <<prognostication>> drf [[file:verb.communication.org::prognosticate1]]
-w: <<prodigy>> drf [[file:adj.all.org::prodigious]]
+w: <<prodigy>> drf [[file:adjs.all.org::prodigious]]
 hyper: [[augury]]
 g: a sign of something about to happen; "he looked for an omen before going into battle"
 
@@ -5195,13 +5195,13 @@ g: any event that usually accompanies or is closely connected with another; "fir
 
 w: <<accompaniment>> drf [[file:verb.stative.org::accompany]]
 w: <<concomitant>>
-w: <<attendant>> drf [[file:adj.all.org::attendant]]
-w: <<co-occurrence>> drf [[file:adj.all.org::co-occurrent]] drf [[file:verb.stative.org::cooccur]]
+w: <<attendant>> drf [[file:adjs.all.org::attendant]]
+w: <<co-occurrence>> drf [[file:adjs.all.org::co-occurrent]] drf [[file:verb.stative.org::cooccur]]
 hyper: [[happening]]
 g: an event or situation that happens at the same time as or in connection with another
 
 w: <<happening>> drf [[file:verb.change.org::happen]]
-w: <<occurrence>> drf [[file:adj.all.org::occurrent]]
+w: <<occurrence>> drf [[file:adjs.all.org::occurrent]]
 w: <<occurrent>>
 w: <<natural_event>>
 hyper: [[file:noun.Tops.org::event]]

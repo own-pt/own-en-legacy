@@ -10,7 +10,7 @@ attr: [[file:adj.all.org::standard2]]
 attr: [[file:adj.all.org::nonstandard2]]
 g: how much there is or how many there are of something that you can quantify
 
-w: <<communication>> drf [[file:adj.all.org::communicational]] drf [[file:verb.possession.org::communicate10]] drf [[file:verb.communication.org::communicate8]] drf [[file:verb.communication.org::communicate7]] drf [[file:verb.communication.org::communicate2]] drf [[file:verb.communication.org::communicate1]] drf [[file:verb.communication.org::communicate]]
+w: <<communication>> drf [[file:adjs.all.org::communicational]] drf [[file:verb.possession.org::communicate10]] drf [[file:verb.communication.org::communicate8]] drf [[file:verb.communication.org::communicate7]] drf [[file:verb.communication.org::communicate2]] drf [[file:verb.communication.org::communicate1]] drf [[file:verb.communication.org::communicate]]
 hyper: [[abstraction]]
 g: something that is communicated by or to or between people or groups
 
@@ -88,14 +88,14 @@ hyper: [[abstraction]]
 g: an abstraction belonging to or characteristic of an entity
 
 w: <<motivation>> drf [[file:adj.pert.org::motivational]] drf [[file:verb.creation.org::motivate]]
-w: <<motive>> drf [[file:adj.all.org::motive2]] drf [[file:verb.creation.org::motivate]]
+w: <<motive>> drf [[file:adjs.all.org::motive2]] drf [[file:verb.creation.org::motivate]]
 w: <<need>>
 hyper: [[psychological_feature]]
 g: the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior; "we did not understand his motivation"; "he acted with the best of motives"
 
 w: <<cognition>>
 w: <<knowledge>>
-w: <<noesis>> drf [[file:adj.all.org::noetic]]
+w: <<noesis>> drf [[file:adjs.all.org::noetic]]
 hyper: [[psychological_feature]]
 g: the psychological result of perception and learning and reasoning
 
@@ -117,7 +117,7 @@ hyper: [[substance1]]
 g: any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis
 
 w: <<food>>
-w: <<nutrient>> drf [[file:adj.all.org::nutrient]] drf [[file:verb.consumption.org::nutrify]]
+w: <<nutrient>> drf [[file:adjs.all.org::nutrient]] drf [[file:verb.consumption.org::nutrify]]
 hyper: [[substance1]]
 g: any substance that can be metabolized by an animal to give energy and build tissue
 
@@ -152,7 +152,7 @@ g: (botany) a living organism lacking the power of locomotion
 
 w: <<animal>> drf [[file:verb.creation.org::animalize]] drf [[file:verb.creation.org::animalise]]
 w: <<animate_being>>
-w: <<beast>> drf [[file:adj.all.org::beastly]] drf [[file:adj.all.org::bestial]]
+w: <<beast>> drf [[file:adjs.all.org::beastly]] drf [[file:adjs.all.org::bestial]]
 w: <<brute>>
 w: <<creature>> drf [[file:verb.creation.org::create]]
 w: <<fauna>>
@@ -172,7 +172,7 @@ hm: [[file:noun.group.org::people]]
 g: a human being; "there was too much for one person to do"
 
 w: <<causal_agent>>
-w: <<cause>> drf [[file:adj.all.org::causal]] drf [[file:verb.creation.org::cause]] drf [[file:verb.communication.org::cause]]
+w: <<cause>> drf [[file:adjs.all.org::causal]] drf [[file:verb.creation.org::cause]] drf [[file:verb.communication.org::cause]]
 w: <<causal_agency>>
 hyper: [[physical_entity]]
 g: any entity that produces an effect or is responsible for events or results
@@ -221,7 +221,7 @@ w: <<congener>>
 hyper: [[whole]]
 g: a whole (a thing or person) of the same kind or category as another; "lard was also used, though its congener, butter, was more frequently employed"; "the American shopkeeper differs from his European congener"
 
-w: <<whole>> drf [[file:adj.all.org::whole]]
+w: <<whole>> drf [[file:adjs.all.org::whole]]
 w: <<unit>> drf [[file:verb.contact.org::unify]] drf [[file:verb.change.org::unify]] drf [[file:verb.contact.org::unitize]] drf [[file:verb.change.org::unitize]]
 hyper: [[object]]
 g: an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit"
