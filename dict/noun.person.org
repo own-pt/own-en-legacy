@@ -19197,7 +19197,7 @@ w: <<trainmaster>>
 w: <<train_dispatcher>>
 hyper: [[dispatcher1]]
 hyper: [[trainman]]
-g: a railroad employer who is in charge of a railway yard
+g: a railroad employee who is in charge of a railway yard
 
 w: <<yardman1>>
 hyper: [[trainman]]
