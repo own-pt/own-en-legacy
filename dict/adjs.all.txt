@@ -19484,7 +19484,8 @@ g: carrying nothing in the hands
 w: empty-handed
 w: unrewarded
 sim: adj.all:unsuccessful
-g: having acquired or gained nothing; "the returned from the negotiations empty-handed"
+g: having acquired or gained nothing
+e: the returned from the negotiations empty-handed
 
 w: empty drf noun.state:emptiness1
 w: empty-bellied

@@ -27079,6 +27079,8 @@ g: something indescribable
 
 w: jean3
 w: blue_jean
+w: blue_jeans
+w: jeans
 w: denim3
 hyper: trouser
 hyper: workwear
@@ -55017,6 +55019,7 @@ hyper: motorboat
 g: a motorboat resembling a motor scooter
 
 w: water_ski drf verb.motion:water_ski
+w: waterski
 hyper: ski
 g: broad ski for skimming over water towed by a speedboat
 

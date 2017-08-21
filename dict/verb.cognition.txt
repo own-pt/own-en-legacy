@@ -2191,7 +2191,8 @@ g: maintain in the forefront of one's awareness; "He kept note of the location o
 w: keep_track ant lose_track
 hyper: know1
 fr: 2 22
-g: keep informed of fully aware; "I keep track of the stock market developments"
+g: keep informed or fully aware
+e: I keep track of the stock market developments.
 
 w: know11
 hyper: recognize1

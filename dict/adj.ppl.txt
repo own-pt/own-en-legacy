@@ -62,7 +62,7 @@ w: mercerised pv verb.change:mercerize
 g: of cotton thread that has been treated with sodium hydroxide to shrink it and increase its luster and affinity for dye; "mercerized cotton"
 
 w: mounded_over pv verb.creation:mound_over
-g: having a wound formed over it
+g: having a mound formed over it
 
 w: operating pv verb.contact:operate3
 g: involved in a kind of operation; "the operating conditions of the oxidation pond"

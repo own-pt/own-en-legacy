@@ -1161,7 +1161,9 @@ w: get_together
 vg: collaborate1
 hyper: work2
 fr: 2 22
-g: work together on a common enterprise of project; "The soprano and the pianist did not get together very well"; "We joined forces with another research group"
+g: work together on a common enterprise or project
+e: The soprano and the pianist did not get together very well.
+e: We joined forces with another research group.
 
 w: collectivize event noun.act:collectivization drf noun.act:collectivization drf noun.group:collective
 w: collectivise event noun.act:collectivisation drf noun.act:collectivisation drf noun.group:collective

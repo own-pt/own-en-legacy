@@ -12006,8 +12006,9 @@ w: cyclist drf noun.artifact:cycle drf verb.motion:cycle1
 w: bicyclist drf noun.artifact:bicycle drf verb.motion:bicycle
 w: bicycler drf verb.motion:bicycle
 w: wheeler1 drf verb.motion:wheel6
+w: biker
 hyper: pedaler
-g: a person who rides a bicycle
+g: A person who rides a bicycle.
 
 w: Cyclops drf adj.pert:cyclopean
 hyper: giant2
@@ -33778,8 +33779,9 @@ hyper: policeman
 g: a policeman who rides a motorcycle (and who checks the speeds of motorists)
 
 w: motorcyclist
+w: biker
 hyper: traveler
-g: a traveler who rides a motorcycle
+g: A traveler who rides a motorcycle.
 
 w: motorist drf verb.motion:motor
 w: automobilist drf noun.artifact:automobile
@@ -49727,7 +49729,7 @@ g: a person who swindles you by means of deception or fraud
 w: swineherd
 w: pigman
 hyper: herder
-g: a herder or swine
+g: a herder of swine
 
 w: swing_voter
 w: floating_voter
@@ -56617,7 +56619,7 @@ w: trainmaster
 w: train_dispatcher
 hyper: dispatcher1
 hyper: trainman
-g: a railroad employer who is in charge of a railway yard
+g: a railroad employee who is in charge of a railway yard
 
 w: Yastrzemski
 w: Carl_Yastrzemski
