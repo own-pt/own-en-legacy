@@ -29045,7 +29045,8 @@ hyper: game
 g: a game that is played on a table
 
 w: table_tennis
-w: Ping-Pong du noun.communication:trademark
+w: ping_pong
+w: ping-pong du noun.communication:trademark
 hyper: table_game
 g: a game (trademark Ping-Pong) resembling tennis but played on a table with paddles and a light hollow ball
 
