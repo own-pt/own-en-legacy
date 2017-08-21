@@ -1,0 +1,211 @@
+w: abience drf adj.pert:abient ant adience
+hyper: urge
+dt: noun.cognition:psychology
+g: (psychology) an urge to withdraw or avoid a situation or an object
+
+w: acathexis
+hyper: libidinal_energy
+dt: noun.act:psychoanalysis
+g: (psychoanalysis) a lack of cathexis; a condition in which significant objects or memories arouse no emotion in an individual
+
+w: adience drf adj.pert:adient ant abience
+hyper: urge
+dt: noun.cognition:psychology
+g: (psychology) an urge to accept or approach a situation or an object
+
+w: agromania
+hyper: mania
+g: an intense desire to be alone or out in the open
+
+w: cathexis drf adj.pert:cathectic
+w: charge
+hyper: libidinal_energy
+dt: noun.act:psychoanalysis
+g: (psychoanalysis) the libidinal energy invested in some idea or person or object; "Freud thought of cathexis as a psychic analog of an electrical charge"
+
+w: compulsion1 drf adjs.all:compulsive
+w: irresistible_impulse
+hyper: irrational_impulse
+g: an urge to do or say something that might be better left undone or unsaid; "he felt a compulsion to babble on about the accident"
+
+w: compulsion drf adjs.all:compulsive drf noun.person:compulsive
+w: obsession drf adjs.all:obsessional
+hyper: irrational_motive
+g: an irrational motive for performing trivial or repetitive actions, even against your will; "her compulsion to wash her hands repeatedly"
+
+w: conscience
+w: scruples
+w: moral_sense
+w: sense_of_right_and_wrong
+hyper: ethical_motive
+g: motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions
+
+w: death_instinct
+w: death_wish
+w: Thanatos
+hyper: urge
+dt: noun.act:psychoanalysis
+g: (psychoanalysis) an unconscious urge to die
+
+w: dipsomania
+w: alcoholism1
+w: potomania
+hyper: mania
+g: an intense persistent desire to drink alcoholic beverages to excess
+
+w: disincentive ant incentive
+w: deterrence drf adjs.all:deterrent
+hyper: rational_motive
+g: a negative motivational influence
+
+w: egomania
+hyper: mania
+g: an intense and irresistible love for yourself and concern for your own needs
+
+w: ethical_motive
+w: ethics drf adjs.all:ethical drf adj.all:ethical drf noun.person:ethicist drf noun.person:ethician
+w: morals
+w: morality drf adjs.all:moralistic
+hyper: noun.Tops:motivation
+g: motivation based on ideas of right and wrong
+
+w: hedonism drf adjs.all:hedonistic drf adjs.all:hedonic drf noun.person:hedonist
+hyper: ethical_motive
+g: the pursuit of pleasure as a matter of ethical principle
+
+w: incentive ant disincentive
+w: inducement drf verb.communication:induce
+w: motivator drf verb.creation:motivate
+hyper: rational_motive
+g: a positive motivational influence
+
+w: incitement drf verb.contact:incite
+w: incitation drf verb.creation:incite drf verb.contact:incite drf verb.communication:incite
+w: provocation drf verb.emotion:provoke drf verb.creation:provoke drf verb.communication:provoke
+hyper: psychic_energy
+g: something that incites or provokes; a means of arousing or stirring to action
+
+w: Inner_Light
+w: Light
+w: Light_Within
+w: Christ_Within
+hyper: ethical_motive
+g: a divine presence believed by Quakers to enlighten and guide the soul
+
+w: irrational_impulse
+hyper: irrational_motive
+g: a strong spontaneous and irrational motivation; "his first impulse was to denounce them"; "the urge to find out got him into trouble"
+
+w: irrational_motive
+hyper: noun.Tops:motivation
+g: a motivation that is inconsistent with reason or logic
+
+w: kleptomania
+hyper: mania
+g: an irresistible impulse to steal in the absence of any economic motive
+
+w: libidinal_energy
+hyper: psychic_energy
+dt: noun.act:psychoanalysis
+g: (psychoanalysis) psychic energy produced by the libido
+
+w: life
+hyper: noun.Tops:motivation
+g: a motive for living; "pottery was his life"
+
+w: logorrhea
+w: logomania
+hyper: mania
+g: pathologically excessive (and often incoherent) talking
+
+w: mania drf adjs.all:manic
+w: passion
+w: cacoethes
+hyper: irrational_motive
+g: an irrational but irresistible motive for a belief or action
+
+w: monomania drf adjs.all:monomaniacal
+w: possession
+hyper: mania
+g: a mania restricted to one thing or idea
+
+w: moral_force
+w: dynamic
+hyper: incentive
+g: an efficient incentive; "they hoped it would act as a spiritual dynamic on all churches"
+
+w: necrophilia
+w: necrophilism
+w: necromania
+hyper: mania
+g: an irresistible sexual attraction to dead bodies
+
+w: occasion drf verb.creation:occasion
+hyper: reason
+g: reason; "there was no occasion for complaint"
+
+w: onomatomania
+hyper: compulsion
+g: obsession with a particular word which the person uses repeatedly or which intrudes into consciousness
+
+w: phaneromania
+hyper: mania
+g: an irresistible desire to pick at superficial body parts (as in obsessive nail-biting)
+
+w: psychic_energy
+w: mental_energy
+hyper: noun.Tops:motivation
+g: an actuating force or factor
+
+w: pyromania
+hyper: mania
+g: an uncontrollable desire to set fire to things
+
+w: rational_motive
+hyper: noun.Tops:motivation
+g: a motive that can be defended by reasoning or logical argument
+
+w: reason drf verb.cognition:reason1
+w: ground drf verb.cognition:ground
+hyper: rational_motive
+g: a rational motive for a belief or action; "the reason that war was declared"; "the grounds for their declaration"
+
+w: score
+w: account
+hyper: reason
+g: grounds; "don't do it on my account"; "the paper was rejected on account of its length"; "he tried to blame the victim but his success on that score was doubtful"
+
+w: sense_of_shame
+w: sense_of_duty
+hyper: conscience
+g: a motivating awareness of ethical responsibility
+
+w: signal
+hyper: incitement
+g: any incitement to action; "he awaited the signal to start"; "the victory was a signal for wild celebration"
+
+w: trichotillomania
+hyper: mania
+g: an irresistible urge to pull out your own hair
+
+w: urge
+w: impulse
+hyper: noun.Tops:motivation
+g: an instinctive motive; "profound religious impulses"
+
+w: wanderlust
+w: itchy_feet
+hyper: urge
+g: very strong or irresistible impulse to travel
+
+w: wee_small_voice
+w: small_voice
+w: voice_of_conscience
+hyper: conscience
+g: an inner voice that judges your behavior
+
+w: why
+w: wherefore
+hyper: reason
+g: the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores'
+

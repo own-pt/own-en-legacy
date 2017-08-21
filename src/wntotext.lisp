@@ -265,7 +265,7 @@
 
 (defparameter *synsets* nil)
 
-(defparameter *org-mode* t)
+(defparameter *org-mode* nil)
 
 ;; Antonym	Antonym
 ;; Hyponym	Hypernym
