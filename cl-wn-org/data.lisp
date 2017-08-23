@@ -13,11 +13,23 @@
 	        :initform nil
 	        :accessor synset-pointers)
    
-   (words       :initarg :words 
+   (senses      :initarg :words 
 		:initform nil
-		:accessor synset-words)
+		:accessor synset-senses)
    
    (gloss       :initarg :gloss
 		:initform nil
-		:accessor synset-gloss)))
+		:accessor synset-gloss)
+   (w           :initarg :w
+		:initform nil
+		:accessor synset-w)))
+
+
+(defclass sense ()
+  ((word             :initarg :word 
+		     :initform nil
+		     :accessor sense-word)
+   (links-targets    :initarg :links-targets 
+		     :initform nil
+		     :accessor sense-links-targets)))
 
