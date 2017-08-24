@@ -21,6 +21,6 @@ To load "cl-wn-org":
 #+BEGIN_EXAMPLE
 CL-USER> (defparameter wn (cl-wn-org:read-wn "/Users/hmuniz/quicklisp/local-projects/cl-wn-org/test/" '(noun.txt adjs.all.txt)))
 WN
-CL-USER> (cl-wn-org:txt->rdf wn "/Users/hmuniz/quicklisp/local-projects/cl-wn-org/test/final.rdf")
+CL-USER> (cl-wn-org:txt->rdf wn "/Users/hmuniz/quicklisp/local-projects/cl-wn-org/test/final.nt")
 NIL
 #+END_EXAMPLE
