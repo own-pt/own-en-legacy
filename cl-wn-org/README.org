@@ -19,7 +19,6 @@ To load "cl-wn-org":
 ** Using
 
 #+BEGIN_EXAMPLE
-; Evaluation aborted on #<SB-INT:SIMPLE-FILE-ERROR "~@<~?: ~2I~_~A~:>" {1004243FB3}>.
 CL-USER> (defparameter wn (cl-wn-org:read-wn "/Users/hmuniz/quicklisp/local-projects/cl-wn-org/test/" '(noun.txt adjs.all.txt)))
 WN
 CL-USER> (cl-wn-org:txt->rdf wn "final.rdf")
