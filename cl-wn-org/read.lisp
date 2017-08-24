@@ -38,7 +38,8 @@
 
 
 (defun add-properties (lines syn)
-  (mapcar #'(lambda (x) (add x syn)) lines))
+  (mapcar #'(lambda (x) (add x syn)) lines)
+  (setf (synset-w syn) (sense-word (car (synset-senses syn)))))
 
 
 (defun add (line syn)
@@ -51,7 +52,6 @@
 (defun add-w (syn infos)
   (let* ((word (nth 1 infos))
 	 (sense (make-instance 'sense :word  word)))
-    (setf (synset-w syn) word)
     (setf (synset-senses syn)
 	  (append (synset-senses syn)
 		  (list sense)))
@@ -89,7 +89,7 @@
 (defun add-rest (syn infos)
   (let ((link (car infos))
 	(target  (cadr infos)))
-    (print infos)
+    ;;(print infos)
     (setf (synset-pointers syn)
 	  (append (synset-pointers syn)
 		  (list link target)))
