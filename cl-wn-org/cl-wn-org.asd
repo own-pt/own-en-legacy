@@ -8,5 +8,6 @@
   :components ((:file "package")
                (:file "data")
 	       (:file "read")
-	       (:file "link")))
+	       (:file "link")
+	       (:file "txt->rdf")))
 

@@ -84,7 +84,7 @@
 
 (defun add-g (syn line)
   (setf (synset-gloss syn)
-	(cl-ppcre:scan-to-strings  ":(.*)" line)))
+	(aref (nth 1 (multiple-value-list (cl-ppcre:scan-to-strings  ": (.*)" line))) 0)))
 
 (defun add-rest (syn infos)
   (let ((link (car infos))
