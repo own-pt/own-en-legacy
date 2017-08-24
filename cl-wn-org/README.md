@@ -1,1 +1,27 @@
-# cl-wn-org
+#+title: Cl-wn-org
+
+* How to use
+
+** Loading
+- Load the packge: 
+#+BEGIN_EXAMPLE
+CL-USER> (ql:quickload :cl-wn-org)
+To load "cl-wn-org":
+  Load 1 ASDF system:
+    cl-wn-org
+; Loading "cl-wn-org"
+...
+(:CL-WN-ORG)
+
+#+END_EXAMPLE
+
+
+** Using
+
+#+BEGIN_EXAMPLE
+; Evaluation aborted on #<SB-INT:SIMPLE-FILE-ERROR "~@<~?: ~2I~_~A~:>" {1004243FB3}>.
+CL-USER> (defparameter wn (cl-wn-org:read-wn "/Users/hmuniz/quicklisp/local-projects/cl-wn-org/test/" '(noun.txt adjs.all.txt)))
+WN
+CL-USER> (cl-wn-org:txt->rdf wn "final.rdf")
+NIL
+#+END_EXAMPLE

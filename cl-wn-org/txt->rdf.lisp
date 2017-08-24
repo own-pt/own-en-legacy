@@ -6,8 +6,8 @@
     (maphash #'(lambda (file-name synsets) (synsets->rdf stream file-name synsets)) wn)))
 
 
-(defun txt->rdf (wn)
-  (maphash #'(lambda (file-name synsets) (synsets->rdf t file-name synsets)) wn))
+;; (defun txt->rdf (wn)
+;;   (maphash #'(lambda (file-name synsets) (synsets->rdf t file-name synsets)) wn))
 
 
 (defun synsets->rdf (stream file-name synsets)
@@ -35,7 +35,7 @@
 		(id (aref (nth 1 (multiple-value-list (cl-ppcre:scan-to-strings  ":(.*)" synset-id))) 0)))
 	    (format nil "<http://http://openwordnet-pt.org/../instances/~a-~a-~a>" type file id)))
 	(t
-	 (let ((file (string-downcase file-name)))
+	 (let ((file (aref (nth 1 (multiple-value-list (cl-ppcre:scan-to-strings "(.*).txt" (string-downcase file-name)))) 0)))
 	    (format nil "<http://http://openwordnet-pt.org/../instances/~a-~a-~a>" type file synset-id)))))
 
 
