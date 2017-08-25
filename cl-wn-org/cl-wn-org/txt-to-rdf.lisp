@@ -33,10 +33,10 @@
   (cond ((cl-ppcre:scan ":" synset-id)
 	  (let ((file (aref (nth 1 (multiple-value-list (cl-ppcre:scan-to-strings  "(.*):" synset-id))) 0))
 		(id (aref (nth 1 (multiple-value-list (cl-ppcre:scan-to-strings  ":(.*)" synset-id))) 0)))
-	    (format nil "<http://http://openwordnet-pt.org/../instances/~a-~a-~a>" type file id)))
+	    (format nil "<https://w3id.org/own-pt/wn30-en/instances/~a-~a-~a>" type file id)))
 	(t
 	 (let ((file (aref (nth 1 (multiple-value-list (cl-ppcre:scan-to-strings "(.*).txt" (string-downcase file-name)))) 0)))
-	    (format nil "<http://http://openwordnet-pt.org/../instances/~a-~a-~a>" type file synset-id)))))
+	    (format nil "<https://w3id.org/own-pt/wn30-en/instances/~a-~a-~a>" type file synset-id)))))
 
 
 (defun add-synset-type (stream synset file-name)
