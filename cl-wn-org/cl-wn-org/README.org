@@ -1,0 +1,26 @@
+#+title: Cl-wn-org
+
+* How to use
+
+** Loading
+- Load the packge: 
+#+BEGIN_EXAMPLE
+CL-USER> (ql:quickload :cl-wn-org)
+To load "cl-wn-org":
+  Load 1 ASDF system:
+    cl-wn-org
+; Loading "cl-wn-org"
+...
+(:CL-WN-ORG)
+
+#+END_EXAMPLE
+
+
+** Using
+
+#+BEGIN_EXAMPLE
+CL-USER> (defparameter wn (cl-wn-org:read-wn "/Users/hmuniz/quicklisp/local-projects/cl-wn-org/test/" '(noun.txt adjs.all.txt)))
+WN
+CL-USER> (cl-wn-org:txt->rdf wn "/Users/hmuniz/quicklisp/local-projects/cl-wn-org/test/final.nt")
+NIL
+#+END_EXAMPLE

@@ -1,0 +1,4 @@
+w: bygone drf adjs.all:bygone
+w: water_under_the_bridge
+hyper: past
+g: past events to be put aside; "let bygones be bygones"
