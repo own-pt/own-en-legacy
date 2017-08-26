@@ -9,6 +9,5 @@
                (:file "data")
 	       (:file "read")
 	       (:file "link")
-	       (:file "txt-to-rdf")
-	       (:file "wntotext")))
+	       (:file "txt-to-rdf")))
 
