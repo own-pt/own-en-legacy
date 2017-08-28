@@ -1,27 +1,25 @@
 (in-package #:cl-wn-org)
 
 
+(defparameter dicts '(adj.all.txt
+		      noun.animal.txt		noun.event.txt
+		      noun.motive.txt		noun.process.txt	noun.time.txt
+		      verb.consumption.txt	verb.possession.txt     adj.pert.txt
+		      noun.artifact.txt	        noun.feeling.txt	noun.object.txt
+		      noun.quantity.txt	        verb.body.txt		verb.contact.txt
+		      verb.social.txt           adj.ppl.txt		noun.attribute.txt
+		      noun.food.txt		noun.person.txt		noun.relation.txt
+		      verb.change.txt		verb.creation.txt	verb.stative.txt
+		      adv.all.txt		noun.body.txt		noun.geotime.txt
+		      noun.phenomenon.txt	noun.shape.txt		verb.cognition.txt
+		      verb.emotion.txt   	verb.weather.txt        noun.Tops.txt
+		      noun.cognition.txt	noun.group.txt		noun.plant.txt
+		      noun.state.txt		verb.communication.txt	verb.motion.txt
+		      noun.act.txt		noun.communication.txt	noun.location.txt
+		      noun.possession.txt	noun.substance.txt	verb.competition.txt
+		      verb.perception.txt))
 
-(defparameter dicts '(adj.all.org
-		      noun.animal.org		noun.event.org
-		      noun.motive.org		noun.process.org	noun.time.org
-		      verb.consumption.org	verb.possession.org     adj.pert.org
-		      noun.artifact.org	        noun.feeling.org	noun.object.org
-		      noun.quantity.org	        verb.body.org		verb.contact.org
-		      verb.social.org           adj.ppl.org		noun.attribute.org
-		      noun.food.org		noun.person.org		noun.relation.org
-		      verb.change.org		verb.creation.org	verb.stative.org
-		      adv.all.org		noun.body.org		noun.geotime.org
-		      noun.phenomenon.org	noun.shape.org		verb.cognition.org
-		      verb.emotion.org   	verb.weather.org                noun.Tops.org
-		      noun.cognition.org	noun.group.org		noun.plant.org
-		      noun.state.org		verb.communication.org	verb.motion.org
-		      noun.act.org		noun.communication.org	noun.location.org
-		      noun.possession.org	noun.substance.org	verb.competition.org
-		      verb.perception.org))
 
-
-(defparameter *dic* '(lixo.org))
 
 (defun make-local-links (wn file)
   (let ((file-synsets (gethash file wn)))
