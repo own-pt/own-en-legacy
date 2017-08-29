@@ -24,7 +24,7 @@
 	  (line
 	   (load-synsets file file-synsets (append lines (list line))))
 
-	  (T
+	  ((not (null lines))
 	   (make-synset lines file-synsets)))))
 
 
