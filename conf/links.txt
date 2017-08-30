@@ -1,0 +1,65 @@
+Nouns:
+!   ant    Antonym
+@   hyper  Hypernym
+@i  ihyper Instance Hypernym
+~   hypo   Hyponym
+~i  ihypo  Instance Hyponym
+#m  hm     Member holonym
+#s  hs     Substance holonym
+#p  hp     Part holonym
+%m  mm     Member meronym
+%s  ms     Substance meronym
+%p  mp     Part meronym
+=   attr   Attribute
++   drf    Derivationally related form
+;c  dt     Domain of synset - TOPIC
+-c  mt     Member of this domain - TOPIC
+;r  dr     Domain of synset - REGION
+-r  mr     Member of this domain - REGION
+;u  du     Domain of synset - USAGE
+-u  mu     Member of this domain - USAGE
+
+Verbs:
+!   ant    Antonym
+@   hyper  Hypernym
+~   hypo   Hyponym
+*   entail entailment
+>   cause  Cause
+^   see    Also see
+$   vg     Verb Group
++   drf    Derivationally related form
+;c  dt     Domain of synset - TOPIC
+;r  dr     Domain of synset - REGION
+;u  du     Domain of synset - USAGE
+
+Adjectives:
+!   ant    Antonym
+&   sim    Similar to
+<   pv     Participle of verb
+\   pe     Pertainym (pertains to noun)
+=   attr   Attribute
+^   see    Also see
++   drf    Derivationally related form
+;c  dt     Domain of synset - TOPIC
+;r  dr     Domain of synset - REGION
+;u  du     Domain of synset - USAGE
+
+Satellite adjectives:
+!   ant    Antonym
+&   sim    Similar to
+<   pv     Participle of verb
+\   pe     Pertainym (pertains to noun)
+=   attr   Attribute
+^   see    Also see
++   drf    Derivationally related form
+;c  dt     Domain of synset - TOPIC
+;r  dr     Domain of synset - REGION
+;u  du     Domain of synset - USAGE
+
+Adverbs:
+!   ant    Antonym
+\   da     Derived from adjective
+;c  dt     Domain of synset - TOPIC
+;r  dr     Domain of synset - REGION
+;u  du     Domain of synset - USAGE
+
