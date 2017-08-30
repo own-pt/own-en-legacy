@@ -12,7 +12,7 @@ ihyper: bay
 g: a bay on the Mediterranean Sea in northern Egypt
 
 w: abyss drf adjs.all:abyssal
-w: abysm drf adjs.all:abysmal
+w: abysm drf adjs.all:abysmal1
 hyper: chasm
 g: a bottomless gulf or pit; any unfathomable (or apparently unfathomable) cavity or chasm or void extending below (often used figuratively)
 
@@ -23,12 +23,12 @@ g: the deep sea (2000 meters or more) where there is no light
 w: Acheron drf adjs.all:Acheronian
 w: River_Acheron
 ihyper: river
-hp: noun.cognition:Hell2
+hp: noun.cognition:Hell1
 dt: noun.group:Greek_mythology
 g: (Greek mythology) a river in Hades across which the souls of the dead were carried by Charon
 
 w: achondrite drf adj.pert:achondritic
-hyper: rock1
+hyper: rock
 g: a stony meteor lacking chondrules
 
 w: acicula drf adjs.all:acicular
@@ -63,7 +63,7 @@ g: a river in northern Italy that flows southeast into the Adriatic Sea; "Verona
 w: Adirondacks
 w: Adirondack_Mountains
 ihyper: range
-hp: noun.location:New_York
+hp: noun.location:New_York2
 g: a mountain range in northeastern New York State; a popular resort area
 
 w: adjunct drf adjs.all:adjunct
@@ -81,7 +81,7 @@ ihyper: sea
 hp: Mediterranean
 g: an arm of the Mediterranean between Slovenia and Croatia and Montenegro and Albania on the east and Italy on the west
 
-w: Aegean drf adj.pert:Aegean
+w: Aegean drf adj.pert:Aegean1
 w: Aegean_Sea
 ihyper: sea
 hp: Mediterranean
@@ -109,7 +109,7 @@ ihyper: continent
 hp: noun.location:eastern_hemisphere
 g: the second largest continent; located to the south of Europe and bordered to the west by the South Atlantic and to the east by the Indian Ocean
 
-w: agent drf noun.state:agency1
+w: agent drf noun.state:agency
 hyper: noun.Tops:causal_agent
 g: an active and efficient cause; capable of producing a certain effect; "their research uncovered new disease agents"
 
@@ -158,16 +158,16 @@ w: Alleghenies
 w: Allegheny_Mountains
 ihyper: range
 hp: Appalachians
-hp: noun.location:Pennsylvania
+hp: noun.location:Pennsylvania1
 hp: noun.location:West_Virginia
-hp: noun.location:Virginia
+hp: noun.location:Virginia1
 g: the western part of the Appalachian Mountains; extending from northern Pennsylvania to southwestern Virginia
 
 w: Allegheny
 w: Allegheny_River
 ihyper: river
-hp: noun.location:Pennsylvania
-hp: noun.location:New_York
+hp: noun.location:Pennsylvania1
+hp: noun.location:New_York2
 g: a river that rises in Pennsylvania and flows north into New York and then back south through Pennsylvania again to join the Monongahela River at Pittsburgh which is the beginning of the Ohio River
 
 w: alluvial_flat
@@ -194,7 +194,7 @@ hm: Centaurus
 g: brightest star in Centaurus; second nearest star to the sun
 
 w: Alpha_Crucis
-ihyper: star
+ihyper: star1
 hm: Southern_Cross
 g: the brightest star in the Southern Cross
 
@@ -244,14 +244,14 @@ hp: noun.location:Peru
 hp: noun.location:Brazil
 g: a major South American river; arises in the Andes and flows eastward into the South Atlantic; the world's 2nd longest river (4000 miles)
 
-w: America drf adj.pert:American
-ihyper: land
+w: America drf adj.pert:American1
+ihyper: land1
 g: North America and South America and Central America
 
 w: American_Falls
 ihyper: waterfall
-hp: Niagara1
-hp: noun.location:New_York
+hp: Niagara
+hp: noun.location:New_York2
 g: a part of Niagara Falls in western New York (north of Buffalo)
 
 w: ammonite drf adj.pert:ammonitic
@@ -264,8 +264,8 @@ w: Amur_River
 w: Heilong_Jiang
 w: Heilong
 ihyper: river
-hp: noun.location:China
-hp: noun.location:Russia4
+hp: noun.location:China1
+hp: noun.location:Russia1
 g: an Asian river between China and Russia; flows into the Sea of Okhotsk
 
 w: Ancohuma
@@ -295,7 +295,7 @@ g: a constellation in the northern hemisphere between Cassiopeia and Pegasus; co
 
 w: Angara
 w: Angara_River
-w: Tunguska
+w: Tunguska2
 w: Upper_Tunguska
 ihyper: river
 hp: noun.location:Siberia
@@ -419,7 +419,7 @@ g: an asteroid whose orbit crosses the Earth's orbit
 w: Appalachians
 w: Appalachian_Mountains
 ihyper: range
-hp: noun.location:East1
+hp: noun.location:East
 g: a mountain range in the eastern United States extending from Quebec to the Gulf of Mexico; a historic barrier to early westward expansion of the United States
 
 w: Apus
@@ -488,7 +488,7 @@ du: noun.communication:plural
 g: a relic that has been excavated from the soil
 
 w: archipelago drf adj.pert:archipelagic
-hyper: land
+hyper: land1
 g: a group of many islands in a large body of water
 
 w: Arctic_Ocean
@@ -545,11 +545,11 @@ hyper: gully
 dr: noun.location:Southwest
 g: a stream or brook
 
-w: ascent drf verb.motion:ascend1 ant descent
+w: ascent drf verb.motion:ascend2 ant descent
 w: acclivity drf adjs.all:acclivitous
 w: rise
-w: raise drf verb.motion:raise
-w: climb drf verb.motion:climb6 drf verb.motion:climb
+w: raise drf verb.motion:raise1
+w: climb drf verb.motion:climb drf verb.motion:climb2
 w: upgrade
 hyper: slope
 g: an upward slope or grade (as in a road); "the car couldn't make it up the rise"
@@ -571,7 +571,7 @@ g: any of numerous small celestial bodies composed of rock and metal that move a
 
 w: asthenosphere
 hyper: noun.location:layer
-hp: crust
+hp: crust1
 g: the lower layer of the crust
 
 w: Atacama_Trench
@@ -596,7 +596,7 @@ hp: noun.location:Tunisia
 g: a mountain range in northern Africa between the Mediterranean and the Sahara Desert; extends from southwestern Morocco to northern Tunisia
 
 w: atmosphere drf adj.pert:atmospheric drf adj.pert:atmospherical
-hyper: noun.substance:gas
+hyper: noun.substance:gas1
 g: the envelope of gases surrounding any celestial body
 
 w: atoll
@@ -621,14 +621,14 @@ hp: Australia
 hp: noun.location:Australia
 g: a range of mountains in Australia that forms the southern end of the Great Dividing Range
 
-w: Avon1
-w: River_Avon1
+w: Avon
+w: River_Avon
 ihyper: river
 hp: noun.location:England
 g: a river in southwestern England rising in Gloucestershire and flowing through Bristol to empty into the estuary of the Severn
 
-w: Avon
-w: River_Avon
+w: Avon1
+w: River_Avon1
 w: Upper_Avon
 w: Upper_Avon_River
 ihyper: river
@@ -644,7 +644,7 @@ hyper: body_of_water
 g: a body of water that was created by a flood or tide or by being held or forced back by a dam; "the bayous and backwaters are breeding grounds for mosquitos"
 
 w: badlands
-hyper: land1
+hyper: land
 du: noun.communication:plural
 g: deeply eroded barren land
 
@@ -683,18 +683,18 @@ w: bank1 drf verb.contact:bank
 hyper: slope
 g: sloping land (especially the slope beside a body of water); "they pulled the canoe up on the bank"; "he sat on the bank of the river and watched the currents"
 
-w: bank
-hyper: ridge
+w: bank2
+hyper: ridge2
 g: a long ridge or pile; "a huge bank of earth"
 
-w: bank2
+w: bank
 w: cant drf verb.motion:cant
 w: camber drf verb.motion:camber
 hyper: slope
 g: a slope in the turn of a road or track; the outside is higher than the inside in order to reduce the effects of centrifugal force
 
 w: bar
-hyper: ridge
+hyper: ridge2
 hyper: barrier
 g: a submerged (or partly submerged) ridge in a river or along a shore; "the boat ran aground on a submerged bar in the river"
 
@@ -769,7 +769,7 @@ hp: shore
 g: an area of sand sloping down to the water of a sea or lake
 
 w: beachfront
-hyper: land
+hyper: land1
 g: a strip of land running along a beach
 
 w: Beaufort_Sea
@@ -777,18 +777,18 @@ ihyper: sea
 hp: Arctic_Ocean
 g: part of the Arctic Ocean to the northeast of Alaska
 
-w: bed1
+w: bed
 hyper: noun.location:stratum
 dt: noun.cognition:geology
 g: (geology) a stratum of rock (especially sedimentary rock); "they found a bed of sandstone"
 
-w: bed
-w: bottom
+w: bed1
+w: bottom1
 hyper: natural_depression
 g: a depression forming the ground under a body of water; "he searched for treasure on the ocean bed"
 
 w: bedrock
-hyper: rock1
+hyper: rock
 g: solid unweathered rock lying beneath surface deposits of soil
 
 w: beehive
@@ -796,14 +796,14 @@ w: hive
 hyper: nest
 g: a structure that provides a natural habitation for bees; as in a hollow tree
 
-w: belay drf verb.contact:belay1 drf verb.contact:belay
+w: belay drf verb.contact:belay drf verb.contact:belay1
 hyper: outcrop
 g: something to which a mountain climber's rope can be secured
 
 w: ben
 hyper: mountain
 dr: noun.location:Scotland
-dr: noun.location:Ireland
+dr: noun.location:Ireland1
 g: a mountain or tall hill; "they were climbing the ben"
 
 w: Bering_Sea
@@ -818,7 +818,7 @@ g: a strait connecting the Bering Sea to the Arctic Ocean
 w: Berkshires
 w: Berkshire_Hills
 ihyper: range
-hp: noun.location:Massachusetts
+hp: noun.location:Massachusetts1
 g: a low mountain range in western Massachusetts; a resort area
 
 w: berm
@@ -826,12 +826,12 @@ hyper: ledge
 g: a narrow ledge or shelf typically at the top or bottom of a slope
 
 w: Beta_Centauri
-ihyper: star
+ihyper: star1
 hm: Centaurus
 g: the second brightest star in Centaurus
 
 w: Beta_Crucis
-ihyper: star
+ihyper: star1
 hm: Southern_Cross
 g: the second brightest star in the Southern Cross
 
@@ -876,19 +876,19 @@ ihyper: bight
 hp: Gulf_of_Guinea
 g: a broad indentation of the Gulf of Guinea in western Africa
 
-w: billabong1
-hyper: pool1
+w: billabong
+hyper: pool
 dr: noun.location:Australia
 g: a stagnant pool of water in the bed of a stream that flows intermittently
 
-w: billabong
-hyper: branch1
+w: billabong1
+hyper: branch
 g: a branch of a river made by water flowing from the main stream only when the water level is high
 
 w: binary_star
 w: binary
 w: double_star
-hyper: star
+hyper: star1
 g: a system of two stars that revolve around each other under their mutual gravitation
 
 w: biological_agent
@@ -913,11 +913,11 @@ ihyper: sea
 g: an arm of the South Pacific to the southwest of the Bismarck Archipelago
 
 w: bit
-w: chip drf verb.contact:chip2 drf verb.contact:chip1 drf verb.contact:chip
-w: flake drf adj.pert:flaky drf adj.pert:flakey drf verb.contact:flake
+w: chip1 drf verb.contact:chip1 drf verb.contact:chip2 drf verb.contact:chip3
+w: flake drf adj.pert:flaky drf adj.pert:flakey drf verb.contact:flake2
 w: fleck
 w: scrap
-hyper: fragment1
+hyper: fragment
 g: a small fragment of something broken off from the whole; "a bit of rock caught him in the eye"
 
 w: black_body
@@ -939,7 +939,7 @@ hp: noun.location:Wyoming
 g: mountains in southwestern South Dakota and northeastern Wyoming; sacred to the Sioux (whites settling in the Black Hills led to the Battle of Little Bighorn); site of Mount Rushmore
 
 w: black_hole
-hyper: noun.location:region
+hyper: noun.location:region1
 g: a region of space resulting from the collapse of a star; extremely high gravitational field
 
 w: Black_Sea
@@ -949,7 +949,7 @@ g: a sea between Europe and Asia; a popular resort area of eastern Europeans
 
 w: bladder_stone
 w: cystolith
-hyper: calculus
+hyper: calculus1
 g: a calculus formed in the bladder
 
 w: blade
@@ -973,9 +973,9 @@ w: Blue_Ridge_Mountains
 w: Blue_Ridge
 ihyper: range
 hp: Appalachians
-hp: noun.location:Pennsylvania
-hp: noun.location:Virginia
-hp: noun.location:North_Carolina
+hp: noun.location:Pennsylvania1
+hp: noun.location:Virginia1
+hp: noun.location:North_Carolina1
 g: a range of the Appalachians extending from southern Pennsylvania to northern Georgia
 
 w: blue_sky
@@ -986,14 +986,14 @@ hyper: sky
 g: the sky as viewed during daylight; "he shot an arrow into the blue"
 
 w: bluff
-hyper: bank
+hyper: bank2
 g: a high steep bank (usually formed by river erosion)
 
 w: Bo_Hai
 w: Po_Hai
 ihyper: bay
 hp: Yellow_Sea
-hp: noun.location:China
+hp: noun.location:China1
 g: an inlet of the Yellow Sea, on the coast of Eastern China
 
 w: body
@@ -1052,8 +1052,8 @@ hyper: quark
 g: a quark with a charge of -1/3 and a mass about 10,000 times that of an electron
 
 w: bottomland
-w: bottom1
-hyper: land1
+w: bottom
+hyper: land
 g: low-lying alluvial land near a river
 
 w: Bougainville_Trench
@@ -1062,7 +1062,7 @@ g: a depression in the floor of the Pacific Ocean between New Guinea and the Sol
 
 w: boulder drf adjs.all:bouldery
 w: bowlder
-hyper: rock1
+hyper: rock
 g: a large smooth mass of rock detached from its place of origin
 
 w: brae
@@ -1073,12 +1073,12 @@ g: a slope or hillside
 w: Brahmaputra
 w: Brahmaputra_River
 ihyper: river
-hp: noun.location:China
+hp: noun.location:China1
 hp: noun.location:India
 hp: noun.location:Bangladesh
 g: an Asian river; flows into the Bay of Bengal
 
-w: branch1 drf verb.change:branch
+w: branch drf verb.change:branch1
 hyper: stream
 g: a stream or river connected to a larger one
 
@@ -1104,7 +1104,7 @@ hp: noun.location:Italy
 g: an Alpine mountain pass connecting Innsbruck in Austria with Bolzano in Italy that has long been a route for trade and for invasions
 
 w: brickbat
-hyper: fragment1
+hyper: fragment
 g: a fragment of brick used as a weapon
 
 w: Bristol_Channel
@@ -1121,7 +1121,7 @@ w: brooklet
 hyper: brook
 g: a small brook
 
-w: bubble drf adjs.all:bubbly drf verb.perception:bubble drf verb.change:bubble drf verb.body:bubble
+w: bubble drf adjs.all:bubbly drf verb.perception:bubble drf verb.change:bubble1 drf verb.body:bubble
 hyper: globule
 g: a hollow globule of gas (e.g., air or carbon dioxide)
 
@@ -1131,12 +1131,12 @@ g: a hole made by a bullet passing through it
 
 w: burrow drf verb.motion:burrow
 w: tunnel drf verb.motion:tunnel
-hyper: hole2
+hyper: hole
 g: a hole made by an animal, usually for shelter
 
 w: butte
 hyper: hill
-dr: noun.location:West1
+dr: noun.location:West
 g: a hill that rises abruptly from the surrounding region; has a flat top and sloping sides
 
 w: Buzzards_Bay
@@ -1154,9 +1154,9 @@ w: Caelum
 ihyper: constellation
 g: a constellation in the southern hemisphere near Columba and Eridanus
 
-w: calculus drf adj.pert:calculous
+w: calculus1 drf adj.pert:calculous
 w: concretion
-hyper: rock1
+hyper: rock
 g: a hard lump produced by the concretion of mineral salts; found in hollow organs or ducts of the body; "renal calculi can be very painful"
 
 w: caldera
@@ -1187,7 +1187,7 @@ g: a river in east central England that flows past Cambridge to join the Ouse Ri
 w: Canadian_Falls
 w: Horseshoe_Falls
 ihyper: waterfall
-hp: Niagara1
+hp: Niagara
 hp: noun.location:Ontario
 g: a part of Niagara Falls in Ontario
 
@@ -1259,17 +1259,17 @@ g: the southern part of Massachusetts Bay
 
 w: Cape_Fear_River
 ihyper: river
-hp: noun.location:North_Carolina
+hp: noun.location:North_Carolina1
 g: a river in North Carolina that flows southeast to the Atlantic Ocean at Cape Fear
 
-w: Cape_Sable1
+w: Cape_Sable
 ihyper: cape
 hp: noun.location:Everglades_National_Park
 g: a cape at the southwest tip of Florida; the southernmost part of the United States mainland
 
-w: Cape_Sable
+w: Cape_Sable1
 ihyper: promontory
-hp: noun.location:Nova_Scotia
+hp: noun.location:Nova_Scotia1
 g: a promontory on the far southern part of Nova Scotia
 
 w: Cape_Trafalgar
@@ -1298,7 +1298,7 @@ g: the brightest star in Auriga
 
 w: cape
 w: ness
-hyper: land
+hyper: land1
 g: a strip of land projecting into a body of water
 
 w: Capricornus
@@ -1318,7 +1318,7 @@ hp: Argo
 g: a keel-shaped constellation in the southern hemisphere; contains the start Canopus
 
 w: Carlsbad_Caverns
-ihyper: cavern
+ihyper: cavern1
 hp: noun.location:New_Mexico
 g: a group of caverns in southeastern New Mexico noted for their stalactites and stalagmites
 
@@ -1384,7 +1384,7 @@ g: a positively charged ion
 w: Catskills
 w: Catskill_Mountains
 ihyper: range
-hp: noun.location:New_York
+hp: noun.location:New_York2
 hp: Appalachians
 g: a range of the Appalachians to the west of the Hudson in southeastern New York; includes many popular resort areas
 
@@ -1398,11 +1398,11 @@ w: cave drf verb.cognition:cave
 hyper: geological_formation
 g: a geological formation consisting of an underground enclosure with access from the surface of the ground or from the sea
 
-w: cavern1 drf verb.contact:cavern
+w: cavern drf verb.contact:cavern
 hyper: enclosure
 g: any large dark enclosed space; "his eyes were dark caverns"
 
-w: cavern drf adjs.all:cavernous drf verb.contact:cavern
+w: cavern1 drf adjs.all:cavernous drf verb.contact:cavern
 hyper: cave
 g: a large cave or a large chamber in a cave
 
@@ -1435,7 +1435,7 @@ w: Cetus
 ihyper: constellation
 g: a large constellation on the equator near Pisces and Aquarius
 
-w: chain drf verb.contact:catenulate drf verb.contact:catenate
+w: chain1 drf verb.contact:catenulate drf verb.contact:catenate
 w: chemical_chain
 hyper: unit
 hp: noun.substance:molecule
@@ -1454,7 +1454,7 @@ w: Yangtze
 w: Yangtze_River
 w: Yangtze_Kiang
 ihyper: river
-hp: noun.location:China
+hp: noun.location:China1
 g: the longest river of Asia; flows eastward from Tibet into the East China Sea near Shanghai
 
 w: Changtzu
@@ -1481,7 +1481,7 @@ g: a crack in a lip caused usually by cold
 w: Charles
 w: Charles_River
 ihyper: river
-hp: noun.location:Massachusetts
+hp: noun.location:Massachusetts1
 g: a river in eastern Massachusetts that empties into Boston Harbor and that separates Cambridge from Boston
 
 w: charm_quark
@@ -1495,13 +1495,13 @@ g: a deep opening in the earth's surface
 w: Chattahoochee
 w: Chattahoochee_River
 ihyper: river
-hp: noun.location:Georgia
+hp: noun.location:Georgia1
 g: a river rising in northern Georgia and flowing southwest and south to join the Flint River at the Florida border where they form the Apalachicola River
 
 w: Chesapeake_Bay
 ihyper: bay
-hp: noun.location:Maryland
-hp: noun.location:Virginia
+hp: noun.location:Maryland1
+hp: noun.location:Virginia1
 hp: Atlantic
 g: a large inlet of the North Atlantic between Virginia and Maryland; fed by Susquehanna River
 
@@ -1515,7 +1515,7 @@ w: chink drf verb.contact:chink drf verb.change:chink
 hyper: crack
 g: a narrow opening as e.g. between planks in a wall
 
-w: chip1
+w: chip
 w: cow_chip
 w: cow_dung
 w: buffalo_chip
@@ -1527,7 +1527,7 @@ hyper: asteroid
 g: an asteroid discovered in 1977; it is unique in having an orbit lying mainly between the orbits of Saturn and Uranus
 
 w: chondrite drf adj.all:chondritic
-hyper: rock1
+hyper: rock
 g: a rock of meteoric origin containing chondrules
 
 w: chondrule
@@ -1537,7 +1537,7 @@ g: small granule (of e.g. chrysolite) found in some meteoric rocks
 
 w: chromosphere
 hyper: noun.location:layer
-hp: sun
+hp: sun1
 g: a gaseous layer of the sun's atmosphere (extending from the photosphere to the corona) that is visible during a total eclipse of the sun
 
 w: Chukchi_Peninsula
@@ -1557,8 +1557,8 @@ hp: noun.location:Oklahoma
 g: a river that rises in northeastern New Mexico and flows eastward into Oklahoma where it becomes a tributary of the Arkansas River
 
 w: cinder
-w: clinker drf verb.change:clinker
-hyper: fragment1
+w: clinker drf verb.change:clinker1
+hyper: fragment
 g: a fragment of incombustible matter left after a wood or coal or charcoal fire
 
 w: Circinus
@@ -1587,13 +1587,13 @@ hyper: cloud
 g: a wispy white cloud (usually of fine ice crystals) at a high altitude (4 to 8 miles)
 
 w: clast drf adjs.all:clastic
-hyper: fragment1
+hyper: fragment
 hp: clastic_rock
 dt: noun.cognition:geology
 g: (geology) a constituent fragment of a clastic rock
 
 w: clastic_rock drf adjs.all:clastic
-hyper: rock1
+hyper: rock
 dt: noun.cognition:geology
 g: (geology) a rock composed of broken pieces of older rocks
 
@@ -1605,19 +1605,19 @@ g: a steep high face of rock; "he stood on a high cliff overlooking the town"; "
 
 w: Clinch_River
 ihyper: river
-hp: noun.location:Virginia
+hp: noun.location:Virginia1
 hp: noun.location:Tennessee
 g: a river that rises in southwestern Virginia and flows generally southwestward across eastern Tennessee to the Tennessee River
 
 w: closed_chain ant open_chain
 w: ring
-hyper: chain
+hyper: chain1
 dt: noun.cognition:chemistry
 g: (chemistry) a chain of atoms in a molecule that forms a closed loop
 
 w: closed_universe
 hyper: universe
-dt: noun.cognition:cosmology
+dt: noun.cognition:cosmology1
 g: (cosmology) a universe that is spatially closed and in which there is sufficient matter to halt the expansion that began with the big bang; the visible matter is only 10 percent of the matter required for closure but there may be large amounts of dark matter
 
 w: cloud drf adj.all:cloudy drf verb.weather:cloud drf verb.motion:cloud
@@ -1645,17 +1645,17 @@ hp: North_America
 g: a string of mountain ranges along the Pacific coast of North America from southeastern Alaska to Lower California
 
 w: coastal_plain
-hyper: land
+hyper: land1
 g: a plain adjacent to a coast
 
 w: coastland
-hyper: land1
+hyper: land
 g: land in a coastal area
 
 w: Cocytus
 w: River_Cocytus
 ihyper: river
-hp: noun.cognition:Hell2
+hp: noun.cognition:Hell1
 dt: noun.group:Greek_mythology
 g: (Greek mythology) a river in Hades that was said to be a tributary of the Acheron
 
@@ -1675,7 +1675,7 @@ hyper: pass
 g: a pass between mountain peaks
 
 w: collector
-hyper: crater
+hyper: crater1
 g: a crater that has collected cosmic material hitting the earth
 
 w: collision_course
@@ -1690,14 +1690,14 @@ hp: noun.location:New_Mexico
 hp: noun.location:Arizona
 g: a large plateau to the south and west of the Rocky Mountains; abuts mountains on the north and east and ends in an escarpment overlooking lowlands to the south and west; the Grand Canyon is carved out of the southwestern corner
 
-w: Colorado1
-w: Colorado_River1
+w: Colorado
+w: Colorado_River
 ihyper: river
 hp: noun.location:Texas
 g: a river in Texas; flows southeast into the Gulf of Mexico
 
-w: Colorado
-w: Colorado_River
+w: Colorado1
+w: Colorado_River1
 ihyper: river
 hp: noun.location:Colorado
 hp: noun.location:Utah
@@ -1719,7 +1719,7 @@ hp: noun.location:Washington
 g: a North American river; rises in southwestern Canada and flows southward across Washington to form the border between Washington and Oregon before emptying into the Pacific; known for its salmon runs in the spring
 
 w: coma
-hyper: noun.phenomenon:cloud1
+hyper: noun.phenomenon:cloud
 hp: comet
 dt: noun.cognition:astronomy
 g: (astronomy) the luminous cloud of particles surrounding the frozen nucleus of a comet; forms as the comet approaches the sun and is warmed
@@ -1758,7 +1758,7 @@ ihyper: river
 hp: noun.location:United_States
 g: a river in the northeastern United States; flows south from northern New Hampshire along the border between New Hampshire and Vermont and through Massachusetts and Connecticut where it empties into Long Island Sound
 
-w: consolidation drf verb.change:consolidate4
+w: consolidation drf verb.change:consolidate2
 hyper: noun.Tops:natural_object
 g: something that has consolidated into a compact mass; "he dropped the consolidation into the acid bath"
 
@@ -1773,7 +1773,7 @@ w: constellation drf verb.motion:constellate drf verb.change:constellate
 hyper: noun.Tops:natural_object
 g: a configuration of stars as seen from the earth
 
-w: continent drf adj.pert:continental drf adj.all:continental
+w: continent drf adj.pert:continental1 drf adj.all:continental
 hyper: landmass
 g: one of the large landmasses of the earth; "there are seven continents"; "pioneers had to cross the continent on foot"
 
@@ -1804,7 +1804,7 @@ g: a narrow strait separating the North Island and South Island in New Zealand
 w: Coosa
 w: Coosa_River
 ihyper: river
-hp: noun.location:Georgia
+hp: noun.location:Georgia1
 hp: noun.location:Alabama
 g: river that rises in northwestern Georgia and flows southwest through eastern Alabama to join the Tallapoosa River near Montgomery and form the Alabama River
 
@@ -1832,12 +1832,12 @@ ihyper: sea
 hp: Pacific
 g: an arm of the South Pacific to the northeast of Australia
 
-w: core1
+w: core
 hyper: sample
 g: a cylindrical sample of soil or rock obtained with a hollow drill
 
-w: core
-hyper: noun.location:center
+w: core1
+hyper: noun.location:center1
 g: the central part of the Earth
 
 w: corner
@@ -1861,18 +1861,18 @@ g: a small quadrilateral constellation in the southern hemisphere near Virgo
 
 w: couple
 hyper: unit
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) something joined by two equal and opposite forces that act along parallel lines
 
-w: cove2
+w: cove
 hyper: cave
 g: small or narrow cave in the side of a cliff or mountain
 
-w: cove
+w: cove1
 hyper: inlet
 g: a small inlet
 
-w: covering drf verb.contact:cover1
+w: covering drf verb.contact:cover4
 w: natural_covering
 w: cover
 hyper: noun.Tops:natural_object
@@ -1883,7 +1883,7 @@ ihyper: supernova
 hm: Taurus
 g: a remnant of a supernova detected first in 1054 AD
 
-w: crack drf verb.change:crack2
+w: crack drf verb.change:crack1
 w: cleft
 w: crevice
 w: fissure drf verb.change:fissure
@@ -1899,11 +1899,11 @@ w: cranny
 hyper: hole1
 g: a small opening or crevice (especially in a rock face or wall)
 
-w: Crater2
+w: Crater
 ihyper: constellation
 g: a faint constellation in the southern hemisphere near Hydra and Corvus
 
-w: crater
+w: crater1
 hyper: natural_depression
 g: a bowl-shaped depression formed by the impact of a meteorite or bomb
 
@@ -1921,21 +1921,21 @@ w: Okeechobee_Waterway
 ihyper: waterway
 g: a waterway used by small boats to travel between the Atlantic Ocean and the Gulf of Mexico through Lake Okeechobee and the Caloosahatchee_Canal and the Caloosahatchee River
 
-w: crust
+w: crust1
 w: Earth's_crust
 hyper: noun.location:layer
 hp: lithosphere
 g: the outer layer of the Earth
 
-w: crust1 drf adjs.all:crusty drf verb.change:crust
-w: incrustation drf verb.contact:incrust drf verb.change:incrust
-w: encrustation drf verb.contact:encrust drf verb.change:encrust
+w: crust drf adjs.all:crusty drf verb.change:crust
+w: incrustation drf verb.contact:incrust1 drf verb.change:incrust
+w: encrustation drf verb.contact:encrust1 drf verb.change:encrust
 hyper: covering
 g: a hard outer layer that covers something
 
-w: crystal drf verb.change:crystalize1 drf verb.change:crystalize
-w: crystallization drf verb.change:crystallize1 drf verb.change:crystallize
-hyper: rock1
+w: crystal drf verb.change:crystalize drf verb.change:crystalize1
+w: crystallization drf verb.change:crystallize drf verb.change:crystallize1
+hyper: rock
 g: a rock formed by the solidification of a substance; has regularly repeating internal structure; external plane faces
 
 w: crystallite
@@ -1949,7 +1949,7 @@ w: ploughland
 w: tilled_land
 w: tillage drf verb.creation:till
 w: tilth
-hyper: land1
+hyper: land
 g: arable land that is worked by plowing and sowing and raising crops
 
 w: Cumberland_Gap
@@ -2055,21 +2055,21 @@ g: the outer of two small satellites of Mars
 
 w: Delaware_Bay
 ihyper: bay
-hp: noun.location:Delaware
-hp: noun.location:New_Jersey
+hp: noun.location:Delaware1
+hp: noun.location:New_Jersey1
 hp: Atlantic
 g: an inlet of the North Atlantic; fed by the Delaware River
 
 w: Delaware
 w: Delaware_River
 ihyper: river
-hp: noun.location:New_York
-hp: noun.location:Delaware
+hp: noun.location:New_York2
+hp: noun.location:Delaware1
 g: a river that rises in the Catskills in southeastern New York and flows southward along the border of Pennsylvania with New York and New Jersey to northern Delaware where it empties into Delaware Bay
 
 w: dell
 w: dingle
-hyper: hollow1
+hyper: hollow
 g: a small wooded hollow
 
 w: Delphinus
@@ -2096,18 +2096,18 @@ hp: noun.location:Alaska
 g: a major open geological fault in Alaska
 
 w: Deneb
-ihyper: star
+ihyper: star1
 hm: Cygnus
 g: the brightest star in Cygnus
 
 w: Denebola
-ihyper: star
+ihyper: star1
 hm: Leo
 g: a star in Leo approximately 43 light years from Earth
 
 w: descent ant ascent
 w: declivity drf adjs.all:declivitous
-w: fall drf verb.motion:fall11
+w: fall drf verb.motion:fall1
 w: decline drf verb.motion:decline
 w: declination drf verb.motion:decline
 w: declension drf verb.motion:decline
@@ -2161,19 +2161,19 @@ hyper: noun.Tops:object
 g: anything that is cast aside or discarded
 
 w: distributary ant tributary
-hyper: branch1
+hyper: branch
 g: a branch of a river that flows away from the main stream and does not rejoin it
 
-w: ditch2 drf verb.contact:ditch1
+w: ditch drf verb.contact:ditch1
 hyper: waterway
 g: any small natural waterway
 
-w: divot1
+w: divot
 hyper: pit
 dt: noun.act:golf
 g: (golf) the cavity left when a piece of turf is cut from the ground by the club head in making a stroke; "it was a good drive but the ball ended up in a divot"
 
-w: divot
+w: divot1
 hyper: turf
 dt: noun.act:golf
 g: a piece of turf dug out of a lawn or fairway (by an animals hooves or a golf club)
@@ -2181,7 +2181,7 @@ g: a piece of turf dug out of a lawn or fairway (by an animals hooves or a golf 
 w: Dnieper
 w: Dnieper_River
 ihyper: river
-hp: noun.location:Russia4
+hp: noun.location:Russia1
 hp: noun.location:Belarus
 hp: noun.location:Ukraine
 g: a river that rises in Russia near Smolensk and flowing south through Belarus and Ukraine to empty into the Black Sea
@@ -2202,13 +2202,13 @@ g: an eastern range of the Alps in northeastern Italy famous for their dolomitic
 w: Don
 w: Don_River
 ihyper: river
-hp: noun.location:Russia4
+hp: noun.location:Russia1
 g: a European river in southwestern Russia; flows into the Sea of Azov
 
 w: Donner_Pass
 ihyper: pass
 hp: noun.location:California
-hp: Sierra_Nevada
+hp: Sierra_Nevada1
 g: a mountain pass in northeastern California near Lake Tahoe; site where in 1844 some members of an emigrant party survived by eating those who had died
 
 w: Dorado
@@ -2238,7 +2238,7 @@ hyper: gully
 g: a gully that is shallower than a ravine
 
 w: dregs
-w: settlings drf verb.motion:settle4 drf verb.motion:settle2
+w: settlings drf verb.motion:settle5 drf verb.motion:settle4
 hyper: sediment
 du: noun.communication:plural
 g: sediment that has settled at the bottom of a liquid
@@ -2247,7 +2247,7 @@ w: drey
 hyper: nest
 g: the nest of a squirrel
 
-w: drift drf verb.change:drift
+w: drift drf verb.change:drift1
 hyper: mass
 g: a large mass of material that is heaped up by the wind or by water currents
 
@@ -2266,13 +2266,13 @@ g: a mound of glacial drift
 
 w: dune
 w: sand_dune
-hyper: ridge
+hyper: ridge2
 g: a ridge of sand created by the wind; found in deserts or near lakes and oceans
 
 w: Earth drf noun.person:earthling
-w: earth2 drf noun.person:earthling
-w: world
-w: globe drf adjs.all:global
+w: earth1 drf noun.person:earthling
+w: world2
+w: globe drf adjs.all:global1
 ihyper: terrestrial_planet
 hm: solar_system
 g: the 3rd planet from the sun; the planet we live on; "the Earth moves around the sun"; "he sailed around the world"
@@ -2321,7 +2321,7 @@ w: elementary_particle
 w: fundamental_particle
 hyper: particle
 hp: noun.substance:atom
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a particle that is less complex than an atom; regarded as constituents of all matter
 
 w: eliminator drf verb.change:eliminate1
@@ -2330,12 +2330,12 @@ g: an agent that eliminates something
 
 w: Elizabeth_River
 ihyper: river
-hp: noun.location:Virginia
+hp: noun.location:Virginia1
 g: a short river in southeastern Virginia flowing between Norfolk and Portsmouth into Hampton Roads
 
 w: ember
 w: coal drf verb.weather:coal
-hyper: fragment1
+hyper: fragment
 g: a hot fragment of wood or coal that is left from a fire and is glowing or smoldering
 
 w: enclosure drf verb.stative:enclose
@@ -2349,7 +2349,7 @@ hp: Atlantic
 g: an arm of the Atlantic Ocean that forms a channel between France and Britain
 
 w: enterolith
-hyper: calculus
+hyper: calculus1
 g: a calculus occurring in the intestines
 
 w: envelope
@@ -2371,7 +2371,7 @@ hyper: slope
 g: a long steep slope or cliff at the edge of a plateau or ridge; usually formed by erosion
 
 w: esker
-hyper: ridge
+hyper: ridge2
 dt: noun.cognition:geology
 g: (geology) a long winding ridge of post glacial gravel and other sediment; deposited by meltwater from glaciers or ice sheets
 
@@ -2401,13 +2401,13 @@ g: the 4th largest of Jupiter's satellites; covered with a smooth shell of froze
 w: Europe drf adj.pert:European
 ihyper: continent
 hp: Eurasia
-hp: noun.location:West
+hp: noun.location:West1
 g: the 2nd smallest continent (actually a vast peninsula of Eurasia); the British use `Europe' to refer to all of the continent except the British Isles
 
 w: evening_star
 w: Hesperus
 w: Vesper
-ihyper: planet
+ihyper: planet1
 g: a planet (usually Venus) seen at sunset in the western sky
 
 w: Everest
@@ -2464,8 +2464,8 @@ w: fault
 w: faulting
 w: geological_fault
 w: shift
-w: fracture drf verb.change:fracture10
-w: break drf verb.change:break
+w: fracture drf verb.change:fracture
+w: break drf verb.change:break9
 hyper: crack
 dt: noun.cognition:geology
 g: (geology) a crack in the earth's crust resulting from the displacement of one side with respect to the other; "they built it right over a geological fault"; "he studied the faulting of the earth's crust"
@@ -2474,7 +2474,7 @@ w: feeder drf verb.consumption:feed3
 w: tributary ant distributary
 w: confluent
 w: affluent
-hyper: branch1
+hyper: branch
 g: a branch that flows into the main stream
 
 w: fermion
@@ -2482,10 +2482,10 @@ hyper: particle
 g: any particle that obeys Fermi-Dirac statistics and is subject to the Pauli exclusion principle
 
 w: filing
-hyper: fragment1
+hyper: fragment
 g: a fragment rubbed off by the use of a file
 
-w: finding drf verb.perception:find2 drf verb.creation:find drf verb.communication:find
+w: finding drf verb.perception:find1 drf verb.creation:find drf verb.communication:find1
 hyper: noun.Tops:object
 g: something that is found; "the findings in the gastrointestinal tract indicate that he died several hours after dinner"; "an area rich in archaeological findings"
 
@@ -2498,11 +2498,11 @@ w: fire_pit
 hyper: pit
 g: a pit whose floor is incandescent lava; "the fire pit of the crater"
 
-w: fireball3
+w: fireball
 hyper: noun.shape:ball
 g: a ball of fire (such as the sun or a ball-shaped discharge of lightning)
 
-w: fireball2
+w: fireball1
 hyper: noun.shape:ball
 hp: noun.event:nuclear_explosion
 g: the luminous center of a nuclear explosion
@@ -2531,7 +2531,7 @@ hyper: pond
 g: a freshwater pond with fish
 
 w: fixed_star
-hyper: star
+hyper: star1
 g: any star in the Ptolemaic theory of planetary motion
 
 w: fjord
@@ -2550,10 +2550,10 @@ g: a level tract of land; "the salt flats of Utah"
 w: Flint
 w: Flint_River
 ihyper: river
-hp: noun.location:Georgia
+hp: noun.location:Georgia1
 g: a river in western Georgia that flows generally south to join the Chattahoochee River at the Florida border where they form the Apalachicola River
 
-w: floater drf verb.motion:float1
+w: floater drf verb.motion:float
 hyper: noun.Tops:object
 g: an object that floats or is capable of floating
 
@@ -2562,16 +2562,16 @@ w: flood_plain
 hyper: plain
 g: a low plain adjacent to a river that is formed chiefly of river sediment and is subject to flooding
 
-w: floor2
+w: floor
 hyper: surface
 hp: cave
 g: the lower inside surface of any hollow structure; "the floor of the pelvis"; "the floor of the cave"
 
 w: floor1 drf verb.contact:floor
-hyper: land
+hyper: land1
 g: the ground on which people and animals move about; "the fire spared the forest floor"
 
-w: floor
+w: floor2
 hyper: surface
 hp: lake
 g: the bottom surface of any lake or other body of water
@@ -2580,12 +2580,12 @@ w: flowage drf verb.change:flow
 hyper: body_of_water
 g: a body of water that has been created by deliberately flooding an area; "many campsites were located near the flowage"
 
-w: foam drf verb.change:foam5 drf adjs.all:foamy
+w: foam drf verb.change:foam drf adjs.all:foamy
 w: froth drf verb.change:froth1 drf verb.change:froth drf adjs.all:frothy
 hyper: bubble
 g: a mass of small bubbles formed in or on a liquid; "the beer had a thick head of foam"
 
-w: folium drf adjs.all:foliaceous
+w: folium drf adjs.all:foliaceous1
 hyper: geological_formation
 g: a thin layer or stratum of (especially metamorphic) rock
 
@@ -2599,7 +2599,7 @@ hyper: hill
 g: a relatively low hill on the lower slope of a mountain
 
 w: footwall
-hyper: wall
+hyper: wall1
 hp: inclined_fault
 g: the lower wall of an inclined fault
 
@@ -2610,7 +2610,7 @@ hp: stream
 g: a shallow area in a stream that can be forded
 
 w: foreland1
-hyper: land
+hyper: land1
 g: land forming the forward margin of something
 
 w: foreshore
@@ -2622,7 +2622,7 @@ w: forest drf verb.contact:forest
 w: woodland
 w: timberland
 w: timber
-hyper: land
+hyper: land1
 hyper: noun.group:biome
 g: land that is covered with trees and shrubs
 
@@ -2649,7 +2649,7 @@ ihyper: river
 hp: noun.location:Wisconsin
 g: a river in Wisconsin that flows into Lake Michigan
 
-w: fragment1 drf adjs.all:fragmentary drf adjs.all:fragmental drf verb.change:fragment drf verb.change:fragmentize
+w: fragment drf adjs.all:fragmentary drf adjs.all:fragmental drf verb.change:fragment drf verb.change:fragmentize
 hyper: part
 g: a piece broken off or cut off of something else; "a fragment of rock"
 
@@ -2670,7 +2670,7 @@ g: one of the four satellites of Jupiter that were discovered by Galileo
 
 w: gallstone
 w: bilestone
-hyper: calculus
+hyper: calculus1
 g: a calculus formed in the gall bladder or its ducts
 
 w: Galveston_Bay
@@ -2687,7 +2687,7 @@ g: a bay of the North Atlantic on the west coast of Ireland
 w: Gan_Jiang
 w: Kan_River
 ihyper: river
-hp: noun.location:China
+hp: noun.location:China1
 g: a river in southeastern China that flows generally north into the Chang Jiang to the north of Nanchang
 
 w: Ganges
@@ -2738,7 +2738,7 @@ g: a spring that discharges hot water and steam
 
 w: giant_star
 w: giant
-hyper: star
+hyper: star1
 g: a very bright star of large diameter and low density (relative to the Sun)
 
 w: Gila
@@ -2780,7 +2780,7 @@ hp: noun.location:southern_hemisphere
 g: a hypothetical continent that (according to plate tectonic theory) broke up later into India and Australia and Africa and South America and Antarctica
 
 w: gopher_hole
-hyper: hole2
+hyper: hole
 g: a hole in the ground made by gophers
 
 w: gorge
@@ -2946,12 +2946,12 @@ w: flume
 hyper: gorge
 g: a narrow gorge with a stream running through it
 
-w: gulf1
+w: gulf
 hyper: body_of_water
 hp: sea
 g: an arm of a sea or ocean partly enclosed by land; larger than a bay
 
-w: gulf
+w: gulf1
 hyper: chasm
 g: a deep wide chasm
 
@@ -2961,126 +2961,126 @@ hp: Gulf_of_Mexico
 g: a seashore of the Gulf of Mexico
 
 w: Gulf_of_Aden
-ihyper: gulf1
+ihyper: gulf
 hp: Indian_Ocean
 g: arm of the Indian Ocean at the entrance to the Red Sea
 
 w: Gulf_of_Alaska
-ihyper: gulf1
+ihyper: gulf
 hp: Pacific
 g: a gulf of the Pacific Ocean between the Alaska Peninsula and the Alexander Archipelago
 
 w: Gulf_of_Antalya
-ihyper: gulf1
+ihyper: gulf
 hp: Mediterranean
 g: a gulf of the Mediterranean Sea in southwestern Turkey
 
 w: Gulf_of_Aqaba
 w: Gulf_of_Akaba
-ihyper: gulf1
+ihyper: gulf
 hp: Red_Sea
 g: a northeastern arm of the Red Sea; between the Sinai Peninsula (Egypt) and Saudi Arabia
 
 w: Gulf_of_Bothnia
-ihyper: gulf1
+ihyper: gulf
 hp: Baltic
 g: a northern arm of the Baltic Sea; between Sweden and Finland
 
 w: Gulf_of_California
 w: Sea_of_Cortes
-ihyper: gulf1
+ihyper: gulf
 hp: noun.location:Mexico
 g: a gulf to the west of the mainland of Mexico
 
 w: Gulf_of_Campeche
 w: Golfo_de_Campeche
 w: Bay_of_Campeche
-ihyper: gulf1
+ihyper: gulf
 hp: noun.location:Mexico
 hp: Gulf_of_Mexico
 g: a part of the Gulf of Mexico to the west of Yucatan
 
 w: Gulf_of_Carpentaria
 w: Carpentaria
-ihyper: gulf1
+ihyper: gulf
 ihyper: Australia
 hp: noun.location:Australia
 g: a wide shallow inlet of the Arafura Sea in northern Australia
 
 w: Gulf_of_Corinth
 w: Gulf_of_Lepanto
-ihyper: gulf1
+ihyper: gulf
 hp: Ionian_Sea
 g: inlet of the Ionian Sea between central Greece and the Peloponnesus
 
 w: Gulf_of_Finland
-ihyper: gulf1
+ihyper: gulf
 hp: Baltic
 g: an eastern arm of the Baltic Sea; between Finland and Estonia
 
 w: Gulf_of_Guinea
-ihyper: gulf1
+ihyper: gulf
 hp: Atlantic
 g: a gulf off the southwest coast of Africa
 
 w: Gulf_of_Martaban
-ihyper: gulf1
+ihyper: gulf
 hp: Andaman_Sea
 g: an arm of the Andaman Sea off southern Myanmar
 
 w: Gulf_of_Mexico
 w: Golfo_de_Mexico
-ihyper: gulf1
+ihyper: gulf
 hp: Atlantic
 g: an arm of the Atlantic to the south of the United States and to the east of Mexico
 
 w: Gulf_of_Ob
 w: Bay_of_Ob
-ihyper: gulf1
+ihyper: gulf
 hp: noun.location:Siberia
 hp: Kara_Sea
 g: an inlet of the Kara Sea in western Siberia
 
 w: Gulf_of_Oman
-ihyper: gulf1
+ihyper: gulf
 hp: Arabian_Sea
 g: an arm of the Arabian Sea connecting it with the Persian Gulf
 
 w: Gulf_of_Riga
-ihyper: gulf1
+ihyper: gulf
 hp: Baltic
 g: an inlet of the Baltic Sea between Latvia and Estonia
 
 w: Gulf_of_Saint_Lawrence
 w: Gulf_of_St._Lawrence
-ihyper: gulf1
+ihyper: gulf
 hp: Atlantic
 g: an arm of the northwest Atlantic Ocean off the southeastern coast of Canada
 
 w: Gulf_of_Sidra
-ihyper: gulf1
+ihyper: gulf
 hp: Mediterranean
 g: wide inlet of the Mediterranean Sea on the north coast of Libya
 
 w: Gulf_of_Suez
-ihyper: gulf1
+ihyper: gulf
 hp: Red_Sea
 g: a northwestern arm of the Red Sea linked to the Mediterranean by the Suez Canal
 
 w: Gulf_of_Tehuantepec
-ihyper: gulf1
+ihyper: gulf
 hp: Pacific
 hp: noun.location:Mexico
 g: an arm of the Pacific in southern Mexico
 
 w: Gulf_of_Thailand
 w: Gulf_of_Siam
-ihyper: gulf1
+ihyper: gulf
 hp: South_China_Sea
 g: an arm of the South China Sea between Indochina and the Malay Peninsula
 
 w: Gulf_of_Venice
-ihyper: gulf1
+ihyper: gulf
 hp: Adriatic
 g: an arm of the Adriatic Sea
 
@@ -3112,7 +3112,7 @@ g: a compact mass of hair that forms in the alimentary canal (especially in the 
 
 w: Hampton_Roads
 ihyper: channel
-hp: noun.location:Virginia
+hp: noun.location:Virginia1
 g: a channel in southeastern Virginia through which the Elizabeth River and the James River flow into Chesapeake Bay
 
 w: Handies_Peak
@@ -3121,7 +3121,7 @@ hp: San_Juan_Mountains
 g: a mountain peak in the San Juan Mountains in southwestern Colorado (14,048 feet high)
 
 w: hanging_wall
-hyper: wall
+hyper: wall1
 hp: inclined_fault
 g: the upper wall of an inclined fault
 
@@ -3133,7 +3133,7 @@ w: head1
 hyper: noun.Tops:object
 g: a rounded compact mass; "the head of a comet"
 
-w: head
+w: head2
 hyper: foam
 g: the foam or froth that accumulates at the top when you pour an effervescent liquid into a container; "the beer had a large head of foam"
 
@@ -3156,7 +3156,7 @@ hyper: body_of_water
 hp: main
 g: the open seas of the world outside the territorial waters of any nation
 
-w: highland drf adj.all:highland4 ant lowland
+w: highland drf adj.all:highland ant lowland
 w: upland
 hyper: natural_elevation
 g: elevated (e.g., mountainous) land
@@ -3191,16 +3191,16 @@ w: horseback
 hyper: ridge1
 g: a narrow ridge of hills
 
-w: hole1 drf adjs.all:holey drf verb.contact:hole
+w: hole1 drf adjs.all:holey drf verb.contact:hole1
 hyper: opening
 g: an opening into or through something
 
-w: hole2
-w: hollow drf adj.all:hollow drf verb.contact:hollow5 drf verb.contact:hollow
+w: hole
+w: hollow1 drf adj.all:hollow drf verb.contact:hollow drf verb.contact:hollow1
 hyper: natural_depression
 g: a depression hollowed out of solid matter
 
-w: hollow1 drf adj.all:hollow
+w: hollow drf adj.all:hollow
 w: holler
 hyper: valley
 g: a small valley between mountains; "he built himself a cabin in a hollow high up in the Appalachians"
@@ -3231,7 +3231,7 @@ hyper: pond
 g: a pond for watering horses
 
 w: horst
-hyper: crust
+hyper: crust1
 g: a ridge of the earth's crust that has been forced upward between two faults and so is higher than the surrounding land
 
 w: hot_spring
@@ -3242,15 +3242,15 @@ g: a natural spring of water at a temperature of 70 F or above
 w: Housatonic
 w: Housatonic_River
 ihyper: river
-hp: noun.location:Massachusetts
-hp: noun.location:Connecticut
+hp: noun.location:Massachusetts1
+hp: noun.location:Connecticut1
 g: a river that rises in western Massachusetts and flows south through Connecticut to empty into Long Island Sound
 
 w: Huang_He
 w: Hwang_Ho
 w: Yellow_River
 ihyper: river
-hp: noun.location:China
+hp: noun.location:China1
 g: a major river of Asia in northern China; flows generally eastward into the Yellow Sea; carries large quantities of yellow silt to its delta
 
 w: Huascaran
@@ -3274,7 +3274,7 @@ g: an inland sea in northern Canada
 w: Hudson
 w: Hudson_River
 ihyper: river
-hp: noun.location:New_York
+hp: noun.location:New_York2
 g: a New York river; flows southward into New York Bay; explored by Henry Hudson early in the 17th century
 
 w: Humber
@@ -3283,7 +3283,7 @@ hp: noun.location:England
 g: an estuary in central northeastern England formed by the Ouse River and the Trent River
 
 w: hunk
-w: lump drf adjs.all:lumpy drf adjs.all:lumpy drf verb.contact:lump drf verb.cognition:lump13
+w: lump drf adjs.all:lumpy drf adjs.all:lumpy1 drf verb.contact:lump drf verb.cognition:lump
 hyper: part
 g: a large piece of something without definite shape; "a hunk of bread"; "a lump of coal"
 
@@ -3382,7 +3382,7 @@ ihyper: river
 hp: noun.location:Illinois
 g: a river in Illinois that flows southwest to the Mississippi River
 
-w: impairer drf verb.change:impair1 drf verb.change:impair
+w: impairer drf verb.change:impair drf verb.change:impair1
 hyper: agent
 g: an agent that impairs; "crops can be great impairers of the soil"
 
@@ -3420,11 +3420,11 @@ w: indument
 hyper: covering
 g: a covering of fine hairs (or sometimes scales) as on a leaf or insect
 
-w: Indus1
+w: Indus
 ihyper: constellation
 g: a faint constellation in the southern hemisphere near Telescopium and Tucana
 
-w: Indus
+w: Indus1
 w: Indus_River
 ihyper: river
 hp: noun.location:Pakistan
@@ -3441,7 +3441,7 @@ hyper: agent
 g: an agent capable of producing infection
 
 w: inferior_planet
-hyper: planet
+hyper: planet1
 g: any of the planets whose orbit lies inside the earth's orbit
 
 w: ingrowth
@@ -3478,7 +3478,7 @@ hyper: gauge_boson
 g: a gauge boson that mediates weak interactions between particles
 
 w: interplanetary_dust
-hyper: noun.substance:dust2
+hyper: noun.substance:dust1
 hp: interplanetary_medium
 g: microscopic particles in the interplanetary medium
 
@@ -3498,14 +3498,14 @@ hyper: noun.location:interstellar_space
 g: interstellar space including streams of protons moving from the stars
 
 w: intrusion
-hyper: rock1
+hyper: rock
 g: rock produced by an intrusive process
 
 w: Io
 ihyper: Galilean_satellite
 g: the closest of Jupiter's moons; has active volcanoes
 
-w: ion drf adj.pert:ionic drf verb.change:ionate drf verb.change:ionize drf verb.change:ionise
+w: ion drf adj.pert:ionic drf verb.change:ionate drf verb.change:ionize1 drf verb.change:ionise1
 hyper: particle
 g: a particle that is electrically charged (positive or negative); an atom or molecule or group that has lost or gained one or more electrons
 
@@ -3543,7 +3543,7 @@ hp: noun.location:France
 g: a river in southeastern France; a tributary of the Rhone
 
 w: island drf noun.person:islander
-hyper: land
+hyper: land1
 hm: archipelago
 g: a land mass (smaller than a continent) that is surrounded by water
 
@@ -3553,7 +3553,7 @@ ihyper: island
 g: a small island
 
 w: isthmus drf adj.pert:isthmian
-hyper: land
+hyper: land1
 g: a relatively narrow strip of land (with water on both sides) connecting two larger land areas
 
 w: Isthmus_of_Corinth
@@ -3582,24 +3582,24 @@ w: psi_particle
 hyper: meson
 g: a neutral meson with a large mass
 
-w: jag drf adjs.all:jaggy drf verb.contact:jag
+w: jag drf adjs.all:jaggy1 drf verb.contact:jag
 hyper: noun.shape:projection
 g: a sharp projection on an edge or surface; "he clutched a jag of the rock"
 
 w: James_Bay
 ihyper: bay
 hp: noun.location:Ontario
-hp: noun.location:Quebec
+hp: noun.location:Quebec1
 g: the southern extension of Hudson Bay in Canada between western Quebec and northeastern Ontario
-
-w: James1
-w: James_River1
-ihyper: river
-hp: noun.location:Virginia
-g: a river in Virginia that flows east into Chesapeake Bay at Hampton Roads
 
 w: James
 w: James_River
+ihyper: river
+hp: noun.location:Virginia1
+g: a river in Virginia that flows east into Chesapeake Bay at Hampton Roads
+
+w: James1
+w: James_River1
 ihyper: river
 hp: noun.location:North_Dakota
 hp: noun.location:South_Dakota
@@ -3620,15 +3620,15 @@ g: a promontory in northern Morocco opposite the Rock of Gibraltar; one of the P
 w: Jordan
 w: Jordan_River
 ihyper: river
-hp: noun.location:Palestine
+hp: noun.location:Palestine1
 g: a river in Palestine that empties into the Dead Sea; John the Baptist baptized Jesus in the Jordan
 
 w: Jovian_planet
 w: gas_giant
-hyper: planet
+hyper: planet1
 g: any of the four outermost planets in the solar system; much larger than Earth and gaseous in nature (like Jupiter)
 
-w: Jupiter drf adj.pert:Jovian2
+w: Jupiter drf adj.pert:Jovian
 ihyper: Jovian_planet
 ihyper: superior_planet
 ihyper: outer_planet
@@ -3712,7 +3712,7 @@ g: a strait of the North Sea between Jutland and Sweden; connects with the North
 
 w: kettle_hole
 w: kettle
-hyper: hole2
+hyper: hole
 dt: noun.cognition:geology
 g: (geology) a hollow (typically filled by a lake) that results from the melting of a mass of ice trapped in glacial deposits
 
@@ -3740,7 +3740,7 @@ w: kidney_stone
 w: urinary_calculus
 w: nephrolith
 w: renal_calculus
-hyper: calculus
+hyper: calculus1
 g: a calculus formed in the kidney
 
 w: Kilimanjaro
@@ -3806,7 +3806,7 @@ g: any of many minor planets in the Kuiper belt outside the orbit of Neptune at 
 
 w: Kuiper_belt
 w: Edgeworth-Kuiper_belt
-hyper: noun.location:region
+hyper: noun.location:region1
 hm: solar_system
 g: a disk-shaped region of minor planets outside the orbit of Neptune
 
@@ -3816,7 +3816,7 @@ w: Kunlun_Mountains
 w: Kuenlun
 w: Kuenlun_Mountains
 ihyper: range
-hp: noun.location:China
+hp: noun.location:China1
 g: a mountain range in western China that extends eastward from the Indian border for 1000 miles
 
 w: Kura
@@ -3859,7 +3859,7 @@ g: a lake to the east of the Caspian Sea lying between Kazakhstan and Uzbekistan
 
 w: lake_bed
 w: lake_bottom
-hyper: bed
+hyper: bed1
 g: the bottom of a lake
 
 w: Lake_Chad
@@ -3871,9 +3871,9 @@ g: a lake in north central Africa; fed by the Shari river
 w: Lake_Champlain
 w: Champlain
 ihyper: lake
-hp: noun.location:New_York
+hp: noun.location:New_York2
 hp: noun.location:Vermont
-hp: noun.location:Quebec
+hp: noun.location:Quebec1
 g: a lake in northeastern New York, northwestern Vermont and southern Quebec; site of many battles in the French and Indian War and in the American Revolution and in the War of 1812
 
 w: Lake_Chelan
@@ -3909,13 +3909,13 @@ g: the 2nd largest of the Great Lakes
 w: Lake_Ilmen
 w: Ilmen
 ihyper: lake
-hp: noun.location:Russia4
+hp: noun.location:Russia1
 g: a lake in northwestern Russia; drains through the Volkhov River into Lake Ladoga
 
 w: Lake_Ladoga
 w: Ladoga
 ihyper: lake
-hp: noun.location:Russia4
+hp: noun.location:Russia1
 g: a lake in northwestern Russia to the north of St. Petersburg; the largest lake in Europe; drains through the Neva River into the Gulf of Finland
 
 w: Lake_Michigan
@@ -3941,7 +3941,7 @@ g: a long lake in southeastern Africa between Tanzania, Mozambique, and Malawi
 w: Lake_Onega
 w: Onega
 ihyper: lake
-hp: noun.location:Russia4
+hp: noun.location:Russia1
 g: lake in northwestern Russia near the border with Finland; second largest lake in Europe
 
 w: Lake_Ontario
@@ -4014,10 +4014,10 @@ w: lambda_hyperon
 hyper: hyperon
 g: an electrically neutral baryon with isotopic spin 1
 
-w: land drf verb.motion:land6 drf verb.motion:land2 drf verb.motion:land3 drf verb.motion:land1 drf verb.motion:land
+w: land1 drf verb.motion:land2 drf verb.motion:land1 drf verb.motion:land drf verb.motion:land3 drf verb.motion:land4
 w: dry_land
-w: earth1 drf verb.contact:earth
-w: ground drf verb.contact:ground10 drf verb.contact:ground12 drf verb.motion:ground drf verb.motion:ground1 drf verb.contact:ground drf verb.contact:ground1
+w: earth drf verb.contact:earth
+w: ground1 drf verb.contact:ground4 drf verb.contact:ground2 drf verb.motion:ground1 drf verb.motion:ground drf verb.contact:ground1 drf verb.contact:ground
 w: solid_ground
 w: terra_firma
 hyper: noun.Tops:object
@@ -4032,15 +4032,15 @@ w: landfill
 hyper: lowland
 g: a low area that has been filled in
 
-w: land1
-w: ground1
+w: land
+w: ground
 w: soil
 hyper: noun.Tops:object
 g: material in the top layer of the surface of the earth in which plants can grow (especially with reference to its quality or use); "the land had never been plowed"; "good agricultural soil"
 
 w: landmass
 w: land_mass
-hyper: land
+hyper: land1
 g: a large continuous extent of land
 
 w: Laptev_Sea
@@ -4057,7 +4057,7 @@ ihyper: cave
 hp: noun.location:France
 g: a cave in southwestern France that contains Paleolithic paintings
 
-w: lather1 drf verb.body:lather drf verb.change:lather
+w: lather1 drf verb.body:lather1 drf verb.change:lather
 hyper: foam
 g: the foam resulting from excessive sweating (as on a horse)
 
@@ -4072,13 +4072,13 @@ ihyper: continent
 hp: noun.location:northern_hemisphere
 g: a hypothetical continent that (according to plate tectonic theory) broke up later into North America and Europe and Asia
 
-w: leak drf verb.change:leak drf verb.change:leak4
+w: leak drf verb.change:leak1 drf verb.change:leak
 hyper: hole1
 g: an accidental hole that allows something (fluid or light etc.) to enter or escape; "one of the tires developed a leak"
 
 w: ledge
 w: shelf drf adjs.all:shelfy
-hyper: ridge
+hyper: ridge2
 g: a projecting ridge on a mountain or submerged under water
 
 w: lees
@@ -4088,7 +4088,7 @@ g: the sediment from fermentation of an alcoholic beverage
 
 w: Lehigh_River
 ihyper: river
-hp: noun.location:Pennsylvania
+hp: noun.location:Pennsylvania1
 g: a river in eastern Pennsylvania that flows southeast into the Delaware River
 
 w: Lena
@@ -4118,7 +4118,7 @@ g: an agent capable of causing death
 w: Lethe
 w: River_Lethe
 ihyper: river
-hp: noun.cognition:Hell2
+hp: noun.cognition:Hell1
 dt: noun.group:Greek_mythology
 g: (Greek mythology) a river in Hades; the souls of the dead had to drink from it, which made them forget all they had done and suffered when they were alive
 
@@ -4132,7 +4132,7 @@ g: a mountain in the central Himalayas on the border of Tibet and Nepal (27,890 
 w: Liaodong_Peninsula
 w: Liaodong_Bandao
 ihyper: peninsula
-hp: noun.location:China
+hp: noun.location:China1
 g: a peninsula in northeastern China that extends into the Yellow Sea, between Bo Hai and Korea Bay
 
 w: Libra
@@ -4180,7 +4180,7 @@ hp: noun.location:Montana
 g: a river that flows from northern Wyoming into the Bighorn River in southern Montana; site of Custer's Last Stand
 
 w: Little_Dipper
-w: Dipper2
+w: Dipper
 ihyper: asterism
 hp: Little_Bear
 g: a cluster of seven stars in Ursa Minor; at the end of the dipper's handle is Polaris
@@ -4226,32 +4226,32 @@ hp: noun.location:Argentina
 hp: noun.location:Chile
 g: a mountain in the Andes on the border between Argentina and Chile (22,057 feet high)
 
-w: loch1
+w: loch
 hyper: inlet
 g: a long narrow inlet of the sea in Scotland (especially when it is nearly landlocked)
 
-w: loch
+w: loch1
 hyper: lake
 g: Scottish word for a lake
 
 w: Loch_Achray
-ihyper: loch
+ihyper: loch1
 hp: noun.location:Scotland
 g: a lake in central Scotland
 
 w: Loch_Linnhe
-ihyper: loch1
+ihyper: loch
 hp: noun.location:Scotland
 g: an inlet of the Atlantic Ocean on the western coast of Scotland
 
 w: Loch_Ness
-ihyper: loch
+ihyper: loch1
 hp: noun.location:Scotland
 g: a lake in the Scottish highlands; the largest body of fresh water in Great Britain
 
 w: lodestar
 w: loadstar
-hyper: star
+hyper: star1
 g: guiding star; a star that is used as a reference point in navigation or astronomy
 
 w: Logan
@@ -4274,22 +4274,22 @@ g: the longest French river; rises in the Massif Central and flows north and wes
 
 w: long_chain
 w: long-chain_molecule
-hyper: chain
+hyper: chain1
 dt: noun.cognition:chemistry
 g: (chemistry) a relatively long chain of atoms in a molecule
 
 w: Long_Island_Sound
-ihyper: sound
+ihyper: sound1
 hp: noun.location:Long_Island
-hp: noun.location:Connecticut
+hp: noun.location:Connecticut1
 hp: Atlantic
 g: a sound between Long Island and Connecticut
 
-w: lough1
-hyper: cove
+w: lough
+hyper: cove1
 g: a long narrow (nearly landlocked) cove in Ireland
 
-w: lough
+w: lough1
 hyper: lake
 g: Irish word for a lake
 
@@ -4314,7 +4314,7 @@ hyper: natural_depression
 g: low level country
 
 w: lunar_crater
-hyper: crater
+hyper: crater1
 g: a crater on the Earth's Moon
 
 w: Lupus
@@ -4370,7 +4370,7 @@ hp: hydrosphere
 g: any very large body of (salt) water
 
 w: mainland
-hyper: land
+hyper: land1
 g: the main land mass of a country or continent; as distinguished from an island or peninsula
 
 w: Makalu
@@ -4403,7 +4403,7 @@ g: (our sea) the Mediterranean to the ancient Romans
 
 w: mare
 w: maria
-hyper: noun.location:region
+hyper: noun.location:region1
 g: a dark region of considerable extent on the surface of the moon
 
 w: Marmara
@@ -4493,7 +4493,7 @@ g: the largest inland sea; between Europe and Africa and Asia
 w: Mekong
 w: Mekong_River
 ihyper: river
-hp: noun.location:China
+hp: noun.location:China1
 hp: noun.location:Myanmar
 hp: noun.location:Thailand
 hp: noun.location:Laos
@@ -4535,8 +4535,8 @@ g: a small pond of standing water
 w: Merrimack
 w: Merrimack_River
 ihyper: river
-hp: noun.location:New_Hampshire
-hp: noun.location:Massachusetts
+hp: noun.location:New_Hampshire1
+hp: noun.location:Massachusetts1
 g: a river that rises in south central New Hampshire and flows through Concord and Manchester into Massachusetts and empties into the Atlantic Ocean
 
 w: Mesabi_Range
@@ -4573,7 +4573,7 @@ hyper: meteoroid
 g: stony or metallic object that is the remains of a meteoroid that has reached the earth's surface
 
 w: meteoroid
-w: meteor drf adj.pert:meteoric
+w: meteor drf adj.pert:meteoric1
 hyper: extraterrestrial_object
 dt: noun.cognition:astronomy
 g: (astronomy) any of the small solid extraterrestrial bodies that hits the earth's atmosphere
@@ -4605,7 +4605,7 @@ ihyper: constellation
 g: a faint constellation in the southern hemisphere near Sagittarius and Capricornus
 
 w: Mid-Atlantic_Ridge
-ihyper: ridge2
+ihyper: ridge
 hp: Atlantic
 g: a very long narrow elevation on the ocean floor that runs all the way from Iceland in the North Atlantic to Bouvet Island in the South Atlantic
 
@@ -4614,7 +4614,7 @@ hyper: body_of_water
 g: the water that is well below the surface but also well above the bottom; "many marine fishes inhabit the mid-waters"
 
 w: midstream
-hyper: noun.location:center1
+hyper: noun.location:center
 hp: stream
 g: the middle of a stream
 
@@ -4645,7 +4645,7 @@ hyper: celestial_body
 hm: solar_system
 g: any of numerous small celestial bodies that move around the sun
 
-w: mire drf adjs.all:miry drf verb.contact:mire drf verb.motion:mire drf verb.motion:mire1
+w: mire drf adjs.all:miry drf verb.contact:mire drf verb.motion:mire1 drf verb.motion:mire
 w: quagmire
 w: quag drf adjs.all:quaggy
 w: morass
@@ -4679,7 +4679,7 @@ g: a river in southwestern Alabama; flows into Mobile Bay
 
 w: Mohawk_River
 ihyper: river
-hp: noun.location:New_York
+hp: noun.location:New_York2
 g: a river of central New York that flows southeastward to the Hudson River
 
 w: Mohorovicic_discontinuity
@@ -4700,7 +4700,7 @@ w: Monongahela
 w: Monongahela_River
 ihyper: river
 hp: noun.location:West_Virginia
-hp: noun.location:Pennsylvania
+hp: noun.location:Pennsylvania1
 g: a river that rises in northern West Virginia and flows north into Pennsylvania where it joins the Allegheny River at Pittsburgh to form the Ohio River
 
 w: Mont_Blanc
@@ -4716,16 +4716,16 @@ ihyper: bay
 hp: noun.location:California
 g: an inlet of the Pacific Ocean in western California
 
-w: moon2 drf verb.perception:moon
+w: moon drf verb.perception:moon
 hyper: noun.Tops:object
 g: any object resembling a moon; "he made a moon lamp that he used as a night light"; "the clock had a moon that showed various phases"
 
-w: moon
+w: moon2
 hyper: satellite
 g: any natural satellite of a planet; "Jupiter has sixteen moons"
 
-w: Moon1
-w: moon3
+w: Moon
+w: moon1
 ihyper: satellite
 g: the natural satellite of the Earth; "the average distance to the Moon is 384,400 kilometers"; "men first stepped on the moon in 1969"
 
@@ -4735,7 +4735,7 @@ hyper: plain
 g: open land usually with peaty soil covered with heather and bracken and moss
 
 w: moraine
-hyper: noun.substance:earth
+hyper: noun.substance:earth1
 hp: glacier
 g: accumulated earth and stones deposited by a glacier
 
@@ -4758,10 +4758,10 @@ w: morning_star
 w: daystar
 w: Phosphorus
 w: Lucifer
-hyper: planet
+hyper: planet1
 g: a planet (usually Venus) seen just before sunrise in the eastern sky
 
-w: motor drf adjs.all:motor
+w: motor drf adjs.all:motor1
 hyper: agent
 g: a nonspecific agent that imparts motion; "happiness is the aim of all men and the motor of all action"
 
@@ -4781,11 +4781,11 @@ hp: Rockies
 g: the highest peak in the Rocky Mountains in central Colorado (14,431 feet high)
 
 w: mountain_peak
-hyper: noun.location:peak
+hyper: noun.location:peak1
 hp: mountain
 g: the summit of a mountain
 
-w: mountain drf adjs.all:mountainous drf adjs.all:mountainous drf noun.person:mountaineer
+w: mountain drf adjs.all:mountainous2 drf adjs.all:mountainous drf noun.person:mountaineer
 w: mount
 hyper: natural_elevation
 g: a land mass that projects well above its surroundings; higher than a hill
@@ -4801,11 +4801,11 @@ w: mouse's_nest
 hyper: nest
 g: where mice bear and raise their young
 
-w: mouth1
+w: mouth
 hyper: opening
 g: an opening that resembles a mouth (as of a cave or a gorge); "he rode into the mouth of the canyon"; "they built a fire at the mouth of the cave"
 
-w: mouth
+w: mouth1
 hyper: geological_formation
 g: the point where a stream issues into a larger body of water; "New York is at the mouth of the Hudson"
 
@@ -4815,7 +4815,7 @@ hp: Indian_Ocean
 g: an arm of the Indian Ocean between Madagascar and southeastern Africa
 
 w: mud_puddle
-hyper: pool1
+hyper: pool
 g: a puddle of mud; "the children loved a mud puddle"
 
 w: mull
@@ -4823,7 +4823,7 @@ hyper: promontory
 g: a term used in Scottish names of promontories; "the Mull of Kintyre"
 
 w: multiple_star
-hyper: star
+hyper: star1
 g: a system of three or more stars associated by gravity
 
 w: muon
@@ -4883,7 +4883,7 @@ g: a river in southeastern Australia that flows generally northwest to join the 
 
 w: Nan_Ling
 ihyper: range
-hp: noun.location:China
+hp: noun.location:China1
 g: a mountain range in southeastern China running generally east to west
 
 w: Nanda_Devi
@@ -4910,10 +4910,10 @@ g: a depression in the floor of the Atlantic Ocean to the north of Haiti and Pue
 
 w: Narragansett_Bay
 ihyper: bay
-hp: noun.location:Rhode_Island
+hp: noun.location:Rhode_Island1
 g: a deep inlet of the Atlantic Ocean in Rhode Island
 
-w: narrow drf adj.all:narrow drf verb.change:narrow
+w: narrow drf adj.all:narrow1 drf verb.change:narrow1
 hyper: strait
 g: a narrow strait connecting two bodies of water
 
@@ -4936,14 +4936,14 @@ hyper: universe
 g: the natural physical world including plants and animals and landscapes etc.; "they tried to preserve nature as they found it"
 
 w: nebula drf adj.pert:nebular drf adj.pert:nebulous
-hyper: noun.phenomenon:cloud1
+hyper: noun.phenomenon:cloud
 g: an immense cloud of gas (mainly hydrogen) and dust in interstellar space
 
 w: nebule
 hyper: cloud
 g: a small cloud
 
-w: necessity drf adjs.all:necessitous drf adj.all:necessary drf verb.stative:necessitate
+w: necessity drf adjs.all:necessitous drf adj.all:necessary drf verb.stative:necessitate1
 w: essential drf adjs.all:essential ant inessential
 w: requirement drf verb.consumption:require
 w: requisite drf adjs.all:requisite
@@ -4952,7 +4952,7 @@ hyper: noun.Tops:thing
 g: anything indispensable; "food and shelter are necessities of life"; "the essentials of the good life"; "allow farmers to buy their requirements under favorable conditions"; "a place where the requisites of water fuel and fodder can be obtained"
 
 w: neck
-hyper: land
+hyper: land1
 g: a narrow elongated projecting strip of land
 
 w: Neckar
@@ -4962,12 +4962,12 @@ hp: noun.location:Germany
 g: a river in Germany; rises in the Black Forest and flows north into the Rhine
 
 w: need drf verb.stative:need
-w: want drf verb.stative:want1 drf verb.consumption:want
+w: want drf verb.stative:want drf verb.consumption:want
 hyper: necessity
 g: anything that is necessary but lacking; "he had sufficient means to meet his simple needs"; "I tried to supply his wants"
 
-w: neighbor drf noun.location:neighborhood drf verb.stative:neighbor
-w: neighbour drf noun.location:neighbourhood drf verb.stative:neighbour
+w: neighbor drf noun.location:neighborhood1 drf verb.stative:neighbor1
+w: neighbour drf noun.location:neighbourhood drf verb.stative:neighbour1
 hyper: noun.Tops:object
 g: a nearby object of the same kind; "Fort Worth is a neighbor of Dallas"; "what is the closest neighbor to the Earth?"
 
@@ -4989,7 +4989,7 @@ w: neritic_zone
 hyper: ocean_floor
 g: the ocean waters from the low tide mark to a depth of about 100 fathoms
 
-w: nest drf verb.contact:nest1 drf verb.stative:nest
+w: nest drf verb.contact:nest2 drf verb.stative:nest
 hyper: noun.Tops:natural_object
 g: a structure in which animals lay eggs or give birth to their young
 
@@ -5002,13 +5002,13 @@ hyper: nucleon
 g: an elementary particle with 0 charge and mass about equal to a proton; enters into the structure of the atomic nucleus
 
 w: neutron_star
-hyper: star
+hyper: star1
 g: a star that has collapsed under its own gravity; it is composed of neutrons
 
 w: Neva
 w: Neva_River
 ihyper: river
-hp: noun.location:Russia4
+hp: noun.location:Russia1
 g: a river in northwestern Russia flowing generally west into the Gulf of Finland
 
 w: neve
@@ -5023,19 +5023,19 @@ g: a river in the southeastern United States that flows northward from North Car
 
 w: New_York_Bay
 ihyper: bay
-hp: noun.location:New_York1
+hp: noun.location:New_York
 hp: Atlantic
 g: a bay of the North Atlantic; fed by the Hudson River
 
-w: Niagara1
+w: Niagara
 w: Niagara_Falls
 ihyper: waterfall
-hp: Niagara
+hp: Niagara1
 hp: noun.location:Ontario
-hp: noun.location:New_York
+hp: noun.location:New_York2
 g: waterfall in Canada is the Horseshoe Falls; in the United States it is the American Falls
 
-w: Niagara
+w: Niagara1
 w: Niagara_River
 ihyper: river
 hp: noun.location:United_States
@@ -5056,7 +5056,7 @@ hp: noun.location:Benin
 hp: noun.location:Nigeria
 g: an African river; flows into the South Atlantic
 
-w: Nile drf adj.pert:Nilotic1
+w: Nile drf adj.pert:Nilotic
 w: Nile_River
 ihyper: river
 hp: noun.location:Uganda
@@ -5094,7 +5094,7 @@ g: an inclined fault in which the hanging wall appears to have slipped downward 
 w: North_America
 ihyper: continent
 hp: noun.location:western_hemisphere
-hp: noun.location:West
+hp: noun.location:West1
 hp: noun.location:northern_hemisphere
 hp: America
 g: a continent (the third largest) in the western hemisphere connected to South America by the Isthmus of Panama
@@ -5132,7 +5132,7 @@ hp: Atlantic
 g: an arm of the North Atlantic between the British Isles and Scandinavia; oil was discovered under the North Sea in 1970
 
 w: Northern_Cross
-ihyper: noun.group:bunch
+ihyper: noun.group:bunch1
 hm: Cygnus
 g: a cluster of 5 bright stars forming a cross in the constellation Cygnus
 
@@ -5142,7 +5142,7 @@ hp: Atlantic
 g: the part of the Atlantic that lies off the Norwegian coast to the north of the North Sea
 
 w: nova
-hyper: star
+hyper: star1
 g: a star that ejects some of its material in the form of a cloud and become more luminous in the process
 
 w: nubbin
@@ -5156,17 +5156,17 @@ g: a small piece; "a nub of coal"; "a stub of a pencil"
 
 w: nucleon
 hyper: baryon
-hp: nucleus
+hp: nucleus1
 g: a constituent (proton or neutron) of an atomic nucleus
 
-w: nucleus1
-hyper: noun.location:center
+w: nucleus
+hyper: noun.location:center1
 hp: comet
 dt: noun.cognition:astronomy
 g: (astronomy) the center of the head of a comet; consists of small solid particles of ice and frozen gas that vaporizes on approaching the sun to form the coma and tail
 
-w: nucleus
-hyper: noun.location:center
+w: nucleus1
+hyper: noun.location:center1
 hp: noun.substance:atom
 g: the positively charged dense center of an atom
 
@@ -5185,7 +5185,7 @@ hp: noun.location:Nepal
 hp: noun.location:Tibet
 g: a mountain in the central Himalayas on the border of Tibet and Nepal (25,726 feet high)
 
-w: obliterator drf verb.change:obliterate3
+w: obliterator drf verb.change:obliterate1
 hyper: eliminator
 g: an eliminator that does away with all traces
 
@@ -5195,7 +5195,7 @@ ihyper: river
 hp: noun.location:Siberia
 g: a major river of western Siberia; flows generally northward and westward to the Gulf of Ob and the Kara Sea
 
-w: ocean drf adj.pert:oceanic drf adjs.all:oceanic
+w: ocean drf adj.pert:oceanic drf adjs.all:oceanic1
 hyper: body_of_water
 hp: hydrosphere
 g: a large body of water constituting a principal part of the hydrosphere
@@ -5207,7 +5207,7 @@ w: seabed
 w: sea_bottom
 w: Davy_Jones's_locker
 w: Davy_Jones
-hyper: bed
+hyper: bed1
 g: the bottom of a sea or ocean
 
 w: oceanfront
@@ -5237,7 +5237,7 @@ hp: noun.location:United_States
 g: a river that is formed in western Pennsylvania and flows westward to become a tributary of the Mississippi River
 
 w: oil-water_interface
-hyper: noun.artifact:interface
+hyper: noun.artifact:interface1
 g: an interface forming the boundary between the non-miscible liquids oil and water
 
 w: Ojos_del_Salado
@@ -5256,7 +5256,7 @@ g: a lake in southeast Florida to the north of the Everglades
 w: Okefenokee_Swamp
 ihyper: swamp
 hp: noun.location:Florida
-hp: noun.location:Georgia
+hp: noun.location:Georgia1
 g: a large swampy area of northeast Florida and southeast Georgia
 
 w: Old_Faithful
@@ -5269,21 +5269,21 @@ ihyper: gorge
 hp: noun.location:Tanzania
 g: a gorge in northeastern Tanzania where anthropologists have found some of the earliest human remains
 
-w: Olympus drf adj.pert:Olympian
+w: Olympus drf adj.pert:Olympian1
 w: Mount_Olympus
 w: Mt._Olympus
 w: Olimbos
 ihyper: mountain_peak
-hp: noun.location:Greece
+hp: noun.location:Greece1
 g: a mountain peak in northeast Greece near the Aegean coast; believed by ancient Greeks to be the dwelling place of the gods (9,570 feet high)
 
 w: Omega_Centauri
-ihyper: noun.group:bunch
+ihyper: noun.group:bunch1
 hm: Centaurus
 g: a global cluster in the constellation Centaurus
 
 w: open_chain ant closed_chain
-hyper: chain
+hyper: chain1
 g: a chain of atoms in a molecule whose ends are not joined to form a ring
 
 w: opening drf verb.stative:open
@@ -5303,7 +5303,7 @@ hp: noun.location:South_Africa
 g: a river in South Africa that flows generally westward to the Atlantic Ocean
 
 w: ore_bed
-hyper: bed1
+hyper: bed
 g: a stratum of ore
 
 w: Orinoco
@@ -5354,11 +5354,11 @@ g: a river in southeastern Canada that flows along the boundary between Quebec a
 w: outcrop drf verb.change:outcrop
 w: outcropping drf verb.change:outcrop
 w: rock_outcrop
-hyper: rock1
+hyper: rock
 g: the part of a rock formation that appears above the surface of the surrounding land
 
 w: outer_planet
-hyper: planet
+hyper: planet1
 hm: solar_system
 dt: noun.cognition:astronomy
 g: (astronomy) a major planet whose orbit is outside the asteroid belt (Jupiter, Saturn, Uranus, Neptune, Pluto)
@@ -5368,14 +5368,14 @@ hyper: outcrop
 g: an outcropping of rock that extends outward
 
 w: overburden
-hyper: land1
+hyper: land
 g: the surface soil that must be moved away to get at coal seams and mineral deposits
 
-w: oxbow1
-hyper: land
+w: oxbow
+hyper: land1
 g: the land inside an oxbow bend in a river
 
-w: oxbow
+w: oxbow1
 hyper: meander
 g: a U-shaped curve in a stream
 
@@ -5431,13 +5431,13 @@ hp: noun.location:Tajikistan
 hp: noun.location:Kyrgyzstan
 hp: noun.location:Afghanistan
 hp: noun.location:Pakistan
-hp: noun.location:China
+hp: noun.location:China1
 g: a mountain range in central Asia that is centered in Tajikistan but extends into Kyrgyzstan and Afghanistan and Pakistan and western China
 
 w: Pangaea
 w: Pangea
 ihyper: continent
-dt: noun.cognition:tectonics
+dt: noun.cognition:tectonics1
 g: (plate tectonics) a hypothetical continent including all the landmass of the earth prior to the Triassic period when it split into Laurasia and Gondwanaland
 
 w: Parana
@@ -5454,10 +5454,10 @@ ihyper: estuary
 hp: noun.location:Brazil
 g: an estuary in northern Brazil into which the Tocantins River flows
 
-w: paring drf verb.contact:pare1
-w: sliver drf adj.pert:slivery drf verb.change:sliver1 drf verb.social:sliver
-w: shaving drf verb.contact:shave3
-hyper: fragment1
+w: paring drf verb.contact:pare
+w: sliver1 drf adj.pert:slivery drf verb.change:sliver1 drf verb.social:sliver
+w: shaving drf verb.contact:shave1
+hyper: fragment
 g: a thin fragment or slice (especially of wood) that has been shaved from something
 
 w: Parnaiba
@@ -5470,7 +5470,7 @@ w: Parnassus
 w: Mount_Parnassus
 w: Liakoura
 ihyper: mountain_peak
-hp: noun.location:Greece
+hp: noun.location:Greece1
 dt: noun.group:Greek_mythology
 g: (Greek mythology) a mountain in central Greece where (according to Greek mythology) the Muses lived; known as the mythological home of music and poetry; "Liakoura is the modern name of Mount Parnassus"
 
@@ -5493,9 +5493,9 @@ hp: range
 g: the location in a range of mountains of a geological formation that is lower than the surrounding peaks; "we got through the pass before it started to snow"
 
 w: path
-w: track drf verb.motion:track1 drf verb.perception:track drf verb.motion:track2
-w: course drf verb.motion:course2
-hyper: noun.location:line
+w: track drf verb.motion:track2 drf verb.perception:track drf verb.motion:track
+w: course drf verb.motion:course
+hyper: noun.location:line2
 g: a line or route along which something travels or moves; "the hurricane demolished houses in its path"; "the track of an animal"; "the course of the river"
 
 w: Paulo_Afonso
@@ -5508,13 +5508,13 @@ w: Pavo
 ihyper: constellation
 g: a small constellation near the South Pole between Tucana and Ara
 
-w: Pearl_River
+w: Pearl_River1
 ihyper: river
 hp: noun.location:Mississippi
 g: a river in Mississippi that flows southward to the Gulf of Mexico
 
 w: pebble drf adjs.all:pebbly
-hyper: rock1
+hyper: rock
 g: a small smooth rounded rock
 
 w: Pecos
@@ -5527,8 +5527,8 @@ g: a tributary of the Rio Grande that flows southeastward from New Mexico throug
 w: Pee_Dee
 w: Pee_Dee_River
 ihyper: river
-hp: noun.location:North_Carolina
-hp: noun.location:South_Carolina
+hp: noun.location:North_Carolina1
+hp: noun.location:South_Carolina1
 g: a river that flows through central North Carolina and northeastern South Carolina to the Atlantic Ocean
 
 w: Pegasus
@@ -5542,7 +5542,7 @@ dt: noun.cognition:geology
 g: a more or less level land surface representing an advanced stage of erosion undisturbed by crustal movements
 
 w: peninsula drf adj.pert:peninsular
-hyper: land
+hyper: land1
 g: a large mass of land projecting into a body of water
 
 w: Penobscot_Bay
@@ -5561,12 +5561,12 @@ ihyper: isle
 hp: Mediterranean
 g: a small uninhabited Mediterranean islet claimed by both Morocco and Spain
 
-w: perforation drf verb.contact:perforate3
+w: perforation drf verb.contact:perforate1
 hyper: hole1
 g: a hole made in something; "a perforation of the eardrum"
 
 w: permafrost
-hyper: land1
+hyper: land
 g: ground that is permanently frozen
 
 w: Perseus
@@ -5575,12 +5575,12 @@ g: a conspicuous constellation in the northern hemisphere; between Auriga and Ca
 
 w: Persian_Gulf
 w: Arabian_Gulf
-ihyper: gulf1
+ihyper: gulf
 hp: Arabian_Sea
 g: a shallow arm of the Arabian Sea between Iran and the Arabian peninsula; the Persian Gulf oil fields are among the most productive in the world
 
 w: petrifaction drf verb.change:petrify
-hyper: rock1
+hyper: rock
 g: a rock created by petrifaction; an organic object infiltrated with mineral matter and preserved in its original form
 
 w: Phobos
@@ -5602,7 +5602,7 @@ g: a quantum of electromagnetic radiation; an elementary particle that is its ow
 
 w: photosphere
 hyper: noun.location:surface
-hp: sun
+hp: sun1
 g: the intensely luminous surface of a star (especially the sun)
 
 w: Pictor
@@ -5657,7 +5657,7 @@ g: a mountain in the Andes in Argentina (22,241 feet high)
 
 w: pit
 w: cavity
-hyper: hole2
+hyper: hole
 g: a sizeable hole (usually in the ground); "they dug a pit to bury the body"
 
 w: placer
@@ -5671,10 +5671,10 @@ g: the beach at a seaside resort
 w: plain
 w: field
 w: champaign
-hyper: land
+hyper: land1
 g: extensive tract of level open land; "they emerged from the woods onto a vast open plain"; "he longed for the fields of his youth"
 
-w: planet1 drf adj.pert:planetal
+w: planet drf adj.pert:planetal
 hyper: celestial_body
 g: any celestial body (other than comets or satellites) that revolves around a star
 
@@ -5686,7 +5686,7 @@ w: planetesimal
 hyper: celestial_body
 g: one of many small solid celestial bodies thought to have existed at an early stage in the development of the solar system
 
-w: planet drf adj.pert:planetary drf adj.pert:planetal
+w: planet1 drf adj.pert:planetary1 drf adj.pert:planetal
 w: major_planet
 hyper: celestial_body
 hm: solar_system
@@ -5700,7 +5700,7 @@ g: a small cellular inclusion consisting of a ring of DNA that is not in a chrom
 
 w: plate
 w: crustal_plate
-hyper: crust
+hyper: crust1
 g: a rigid layer of the Earth's crust that is believed to drift slowly
 
 w: Platte
@@ -5710,7 +5710,7 @@ hp: noun.location:Nebraska
 g: a river in Nebraska that flows eastward to become a tributary of the Missouri River
 
 w: Pleiades
-ihyper: noun.group:bunch
+ihyper: noun.group:bunch1
 hm: Taurus
 g: a star cluster in the constellation Taurus
 
@@ -5727,7 +5727,7 @@ hp: Tien_Shan
 hp: noun.location:India
 g: a mountain peak in the Tien Shan mountains in northern India (24,406 feet high)
 
-w: point2
+w: point
 hyper: promontory
 g: a promontory extending out into a large body of water; "they sailed south around the point"
 
@@ -5747,11 +5747,11 @@ hm: Little_Dipper
 g: the brightest star in Ursa Minor; at the end of the handle of the Little Dipper; the northern axis of the earth points toward it
 
 w: polder
-hyper: land1
+hyper: land
 g: low-lying land that has been reclaimed and is protected by dikes (especially in the Netherlands)
 
 w: Pollux
-ihyper: star
+ihyper: star1
 hm: Gemini
 g: the brightest star in Gemini; close to Castor
 
@@ -5760,12 +5760,12 @@ hyper: body_of_water
 g: a stretch of open water surrounded by ice (especially in Arctic seas)
 
 w: pond
-w: pool
+w: pool1
 hyper: lake
 g: a small lake; "the pond was too small for sailing"
 
-w: pool1
-w: puddle drf verb.contact:puddle3 drf verb.motion:puddle
+w: pool
+w: puddle drf verb.contact:puddle4 drf verb.motion:puddle
 hyper: body_of_water
 g: a small body of standing water (rainwater) or other liquid; "there were puddles of muddy water in the road after the rain"; "the body lay in a pool of blood"
 
@@ -5782,23 +5782,23 @@ g: an elementary particle with positive charge; interaction of a positron and an
 
 w: pothole
 w: chuckhole
-hyper: hole2
+hyper: hole
 g: a pit or hole produced by wear or weathering (especially in a road surface)
 
 w: Potomac
 w: Potomac_River
 ihyper: river
 hp: noun.location:West_Virginia
-hp: noun.location:Maryland
-hp: noun.location:Virginia
+hp: noun.location:Maryland1
+hp: noun.location:Virginia1
 g: a river in the east central United States; rises in West Virginia in the Appalachian Mountains and flows eastward, forming the boundary between Maryland and Virginia, to the Chesapeake Bay
 
 w: Poyang
 ihyper: lake
-hp: noun.location:China
+hp: noun.location:China1
 g: a lake in central China that is connected to the Chang Jiang by a canal
 
-w: precipice drf adjs.all:precipitous
+w: precipice drf adjs.all:precipitous1
 hyper: cliff
 g: a very steep cliff
 
@@ -5819,7 +5819,7 @@ g: the brightest star in Canis Minor
 
 w: promontory
 w: headland
-w: head2
+w: head
 w: foreland
 hyper: natural_elevation
 g: a natural elevation (especially a rocky one that juts out into the sea)
@@ -5848,11 +5848,11 @@ hyper: cutting
 g: something that has been pruned off of a plant
 
 w: ptyalith
-hyper: calculus
+hyper: calculus1
 g: calculus in a salivary gland
 
 w: Puget_Sound
-ihyper: sound
+ihyper: sound1
 hp: noun.location:Washington
 hp: Pacific
 g: an inlet of the North Pacific in northwestern Washington State
@@ -5895,7 +5895,7 @@ g: a planetoid discovered in 2002
 w: quark
 hyper: elementary_particle
 hp: hadron
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) hypothetical truly fundamental particle in mesons and baryons; there are supposed to be six flavors of quarks (and their antiquarks), which come in pairs; each has an electric charge of +2/3 or -1/3; "quarks have not been observed directly but theoretical predictions based on their existence have been confirmed experimentally"
 
 w: quasar
@@ -5904,11 +5904,11 @@ hyper: celestial_body
 g: a starlike object that may send out radio waves and other forms of energy; many have large red shifts
 
 w: Queen_Charlotte_Sound
-ihyper: sound
+ihyper: sound1
 hp: noun.location:British_Columbia
 g: an inlet of the Pacific Ocean off the coast of British Columbia
 
-w: quickener drf verb.body:quicken drf verb.change:quicken
+w: quickener drf verb.body:quicken1 drf verb.change:quicken
 w: invigorator drf verb.body:invigorate
 w: enlivener drf verb.change:enliven
 hyper: agent
@@ -5920,10 +5920,10 @@ g: a pit filled with loose wet sand into which objects are sucked down
 
 w: rabbit_burrow
 w: rabbit_hole
-hyper: hole2
+hyper: hole
 g: a hole in the ground as a nest made by wild rabbits
 
-w: radiator drf verb.change:radiate2
+w: radiator drf verb.change:radiate
 hyper: noun.Tops:natural_object
 g: any object that radiates energy
 
@@ -5942,13 +5942,13 @@ hp: Karakoram
 g: a mountain peak in the Karakoram Range in northern Kashmir (25,560 feet high)
 
 w: rangeland
-hyper: land1
+hyper: land
 g: land suitable for grazing livestock
 
 w: range
 w: mountain_range
 w: range_of_mountains
-w: chain1
+w: chain
 w: mountain_chain
 w: chain_of_mountains
 hyper: geological_formation
@@ -5971,7 +5971,7 @@ g: a part of a river where the current is very fast
 w: Rappahannock
 w: Rappahannock_River
 ihyper: river
-hp: noun.location:Virginia
+hp: noun.location:Virginia1
 g: a river that flows across eastern Virginia into the Tidewater region
 
 w: rathole
@@ -5984,12 +5984,12 @@ g: a deep narrow steep-sided valley (especially one formed by running water)
 
 w: red_dwarf
 w: red_dwarf_star
-hyper: star
+hyper: star1
 g: a small, old, relatively cool star; approximately 100 times the mass of Jupiter
 
 w: red_giant
 w: red_giant_star
-hyper: star
+hyper: star1
 g: a large, old, luminous star; has a relatively low surface temperature and a diameter large relative to the sun
 
 w: Red_Sea
@@ -6006,11 +6006,11 @@ hp: noun.location:Louisiana
 g: a tributary of the Mississippi River that flows eastward from Texas along the southern boundary of Oklahoma and through Louisiana
 
 w: reef drf adjs.all:reefy
-hyper: ridge
+hyper: ridge2
 g: a submerged ridge of rock or coral near the surface of the water
 
 w: Regulus
-ihyper: star
+ihyper: star1
 hm: Leo
 g: the brightest star in Leo
 
@@ -6046,12 +6046,12 @@ hyper: noun.Tops:thing
 g: anything (a person or animal or plant or substance) in which an infectious agent normally lives and multiplies; "an infectious agent depends on a reservoir for its survival"
 
 w: restriction_fragment
-hyper: fragment1
+hyper: fragment
 g: the fragment of DNA that is produced by cleaving DNA with a restriction enzyme
 
 w: retardant
 w: retardent
-w: retardation drf verb.change:retard1
+w: retardation drf verb.change:retard2
 hyper: agent
 g: any agent that retards or delays or hinders; "flame-retardant"
 
@@ -6081,15 +6081,15 @@ hp: noun.location:France
 g: a major French river; flows into the Mediterranean near Marseilles; "the valley of the Rhone is famous for its vineyards"
 
 w: ribbon drf adjs.all:ribbony
-w: thread drf adjs.all:thready drf verb.motion:thread
+w: thread drf adjs.all:thready1 drf verb.motion:thread
 hyper: noun.Tops:object
 g: any long object resembling a thin line; "a mere ribbon of land"; "the lighted ribbon of traffic"; "from the air the road was a grey thread"; "a thread of smoke climbed upward"
 
-w: ridge2
+w: ridge
 hyper: geological_formation
 g: a long narrow natural elevation on the floor of the ocean
 
-w: ridge drf verb.stative:ridge
+w: ridge2 drf verb.stative:ridge
 hyper: natural_elevation
 g: a long narrow natural elevation or striation
 
@@ -6098,11 +6098,11 @@ w: ridgeline
 hyper: geological_formation
 g: a long narrow range of hills
 
-w: rift1
+w: rift
 hyper: opening
 g: a gap between cloud masses; "the sun shone through a rift in the clouds"
 
-w: rift
+w: rift1
 hyper: crack
 g: a narrow fissure in rock
 
@@ -6139,13 +6139,13 @@ hyper: forest
 g: woodlands along the banks of stream or river
 
 w: ripple_mark
-hyper: ridge
+hyper: ridge2
 g: one of a series of small ridges produced in sand by water currents or by wind
 
-w: rip drf verb.contact:rip
+w: rip drf verb.contact:rip1
 w: rent
 w: snag
-w: split drf verb.contact:split
+w: split1 drf verb.contact:split
 w: tear drf verb.contact:tear1 drf verb.contact:tear
 hyper: opening
 g: an opening made forcibly as by pulling apart; "there was a rip in his pants"; "she had snags in her stockings"
@@ -6166,12 +6166,12 @@ g: the bank of a river
 
 w: riverbed
 w: river_bottom
-hyper: bed
+hyper: bed1
 g: a channel occupied (or formerly occupied) by a river
 
 w: rivulet
 w: rill
-w: run drf verb.motion:run1
+w: run drf verb.motion:run3
 w: runnel
 w: streamlet drf stream
 hyper: stream
@@ -6183,7 +6183,7 @@ ihyper: range
 hp: North_America
 g: the chief mountain range of western North America; extends from British Columbia to northern New Mexico; forms the continental divide
 
-w: rock1 drf adjs.all:rocky
+w: rock drf adjs.all:rocky1
 w: stone drf adjs.all:stony drf verb.contact:stone
 hyper: noun.Tops:natural_object
 g: a lump or mass of hard consolidated mineral matter; "he threw a rock at me"
@@ -6281,7 +6281,7 @@ w: St._John
 w: St._John_River
 ihyper: river
 hp: noun.location:Maine
-hp: noun.location:New_Brunswick
+hp: noun.location:New_Brunswick1
 g: a river that rises in Maine and flows northeastward through New Brunswick to empty into the Bay of Fundy
 
 w: Saint_Johns
@@ -6391,7 +6391,7 @@ hp: noun.location:Colorado
 g: a mountain range in southwestern Colorado that is part of the Rocky Mountains
 
 w: sandbank
-hyper: bank
+hyper: bank2
 g: a submerged bank of sand near a shore or in a river; can be exposed at low tide
 
 w: sandbar
@@ -6426,14 +6426,14 @@ g: a vast area of the North Atlantic from the West Indies to the Azores that is 
 w: Saronic_Gulf
 w: Gulf_of_Aegina
 ihyper: inlet
-hp: noun.location:Greece
+hp: noun.location:Greece1
 g: a gulf of the Aegean on the southeastern coast of Greece
 
 w: satellite
 hyper: celestial_body
 g: any celestial body orbiting around a planet or star
 
-w: satisfier drf verb.stative:satisfy drf verb.emotion:satisfy drf verb.consumption:satisfy1
+w: satisfier drf verb.stative:satisfy drf verb.emotion:satisfy drf verb.consumption:satisfy
 hyper: agent
 g: any agent capable of producing satisfaction
 
@@ -6447,7 +6447,7 @@ g: a giant planet that is surrounded by three planar concentric rings of ice par
 w: Savannah
 w: Savannah_River
 ihyper: river
-hp: noun.location:South_Carolina
+hp: noun.location:South_Carolina1
 g: a river in South Carolina that flows southeast to the Atlantic
 
 w: sawpit
@@ -6460,7 +6460,7 @@ hp: noun.location:Siberia
 g: a range of mountains in southern Siberia to the west of Lake Baikal; contain important mineral deposits
 
 w: scablands
-hyper: land1
+hyper: land
 hp: noun.location:Washington
 du: noun.communication:plural
 dt: noun.cognition:geology
@@ -6468,7 +6468,7 @@ g: (geology) flat elevated land with poor soil and little vegetation that is sca
 
 w: scale
 w: scurf1
-w: exfoliation drf verb.contact:exfoliate3 drf verb.contact:exfoliate1 drf verb.contact:exfoliate
+w: exfoliation drf verb.contact:exfoliate3 drf verb.contact:exfoliate2 drf verb.contact:exfoliate1
 hyper: bit
 g: a thin flake of dead epidermis shed from the surface of the skin
 
@@ -6479,7 +6479,7 @@ hp: noun.location:France
 hp: noun.location:Belgium
 g: a river that rises in France and flows northeast across Belgium and empties into the North Sea
 
-w: scintilla drf verb.weather:scintillate
+w: scintilla drf verb.weather:scintillate2
 hyper: particle
 g: a sparkling glittering particle
 
@@ -6490,7 +6490,7 @@ hp: noun.location:zodiac
 g: a large zodiacal constellation between Libra and Sagittarius
 
 w: scraping
-hyper: fragment1
+hyper: fragment
 du: noun.communication:plural
 g: (usually plural) a fragment scraped off of something and collected; "they collected blood scrapings for analysis"
 
@@ -6544,7 +6544,7 @@ g: the shore of a sea or ocean regarded as a resort
 
 w: section
 hyper: slice
-hp: noun.artifact:slide2
+hp: noun.artifact:slide1
 g: a very thin slice (of tissue or mineral or other substance) for examination under a microscope; "sections from the left ventricle showed diseased tissue"
 
 w: sediment drf adj.pert:sedimentary
@@ -6599,16 +6599,16 @@ w: seven_seas
 hyper: body_of_water
 g: an informal expression for all of the oceans of the world; "the old salt had sailed the seven seas"
 
-w: Severn
+w: Severn1
 w: River_Severn
-w: Severn_River
+w: Severn_River1
 ihyper: river
 hp: noun.location:Wales
 hp: noun.location:England
 g: a river in England and Wales flowing into the Bristol Channel; the longest river in Great Britain
 
-w: Severn1
-w: Severn_River1
+w: Severn
+w: Severn_River
 ihyper: river
 hp: noun.location:Ontario
 g: a river in Ontario that flows northeast into Hudson Bay
@@ -6650,7 +6650,7 @@ w: shell1
 hyper: covering
 g: a rigid covering that envelops an object; "the satellite is covered with a smooth shell of ice"
 
-w: shell2
+w: shell
 w: eggshell
 hyper: covering
 hp: noun.food:egg
@@ -6658,12 +6658,12 @@ g: the exterior covering of a bird's egg
 
 w: Shenandoah_River
 ihyper: river
-hp: noun.location:Virginia
+hp: noun.location:Virginia1
 g: a river of northern Virginia that empties into the Potomac at Harpers Ferry
 
 w: Shenandoah_Valley
 ihyper: valley
-hp: noun.location:Virginia
+hp: noun.location:Virginia1
 g: a large valley between the Allegheny Mountains and the Blue Ridge Mountains in northern Virginia; site of numerous battles during the American Civil War
 
 w: Sherman
@@ -6677,16 +6677,16 @@ ihyper: forest
 dr: noun.location:England
 g: an ancient forest in central England; formerly a royal hunting ground; said to be the home of Robin Hood and his merry band
 
-w: shiner drf verb.weather:shine1
+w: shiner drf verb.weather:shine
 hyper: noun.Tops:object
 g: something that shines (with emitted or reflected light)
 
-w: shoal2 drf adjs.all:shoaly
+w: shoal drf adjs.all:shoaly
 hyper: sandbank
 g: a sandbank in a stretch of water that is visible at low tide
 
-w: shoal1 drf verb.change:shoal drf verb.change:shoal1
-w: shallow drf adj.all:shallow1 drf verb.change:shallow drf verb.change:shallow1
+w: shoal1 drf verb.change:shoal1 drf verb.change:shoal
+w: shallow drf adj.all:shallow1 drf verb.change:shallow1 drf verb.change:shallow
 hyper: body_of_water
 g: a stretch of shallow water
 
@@ -6706,13 +6706,13 @@ hyper: noun.location:boundary
 hp: shore
 g: a boundary line between land and water
 
-w: shortener drf verb.change:shorten9 drf verb.change:shorten2 drf verb.change:shorten1
+w: shortener drf verb.change:shorten drf verb.change:shorten3 drf verb.change:shorten1
 hyper: agent
 g: any agent that shortens; "alcohol is a great shortener of life"
 
 w: sialolith
 w: salivary_calculus
-hyper: calculus
+hyper: calculus1
 g: a stone formed in the salivary gland
 
 w: siderite
@@ -6733,12 +6733,12 @@ ihyper: range
 hp: noun.location:Mexico
 g: a mountain range in northeastern Mexico the runs parallel to the coastline of the Gulf of Mexico
 
-w: Sierra_Nevada1
+w: Sierra_Nevada
 ihyper: range
 hp: noun.location:Spain
 g: a mountain range in southern Spain along the Mediterranean coast to the east of Granada
 
-w: Sierra_Nevada
+w: Sierra_Nevada1
 w: Sierra_Nevada_Mountains
 w: High_Sierra
 ihyper: range
@@ -6746,7 +6746,7 @@ hp: noun.location:California
 g: a mountain range in eastern California; contains Mount Whitney
 
 w: sill
-hyper: rock1
+hyper: rock
 dt: noun.cognition:geology
 g: (geology) a flat (usually horizontal) mass of igneous rock between two layers of older sedimentary rock
 
@@ -6758,7 +6758,7 @@ g: the forest trees growing in a country or region
 w: Sinai
 w: Mount_Sinai
 ihyper: mountain_peak
-hp: noun.location:Sinai
+hp: noun.location:Sinai1
 g: a mountain peak in the southern Sinai Peninsula (7,500 feet high); it is believed to be the peak on which Moses received the Ten Commandments
 
 w: sinkhole
@@ -6769,7 +6769,7 @@ g: a depression in the ground communicating with a subterranean passage (especia
 
 w: Sirius
 w: Dog_Star
-w: Canicula drf adj.pert:canicular
+w: Canicula drf adj.pert:canicular1
 w: Sothis
 ihyper: binary_star
 hm: Canis_Major
@@ -6791,7 +6791,7 @@ w: ski_slope
 hyper: slope
 g: a snow-covered slope for skiing
 
-w: skim drf verb.contact:skim3 drf verb.contact:skim1
+w: skim drf verb.contact:skim1 drf verb.contact:skim2
 hyper: covering
 g: a thin layer covering the surface of a liquid; "there was a thin skim of oil on the water"
 
@@ -6800,35 +6800,35 @@ hyper: atmosphere
 hp: Earth
 g: the atmosphere and outer space as viewed from the earth
 
-w: slack drf adjs.all:slack
+w: slack drf adjs.all:slack1
 w: slack_water
 hyper: stretch
 g: a stretch of water without current or movement; "suddenly they were in a slack and the water was motionless"
 
 w: slash
-hyper: land
+hyper: land1
 g: an open tract of land in a forest that is strewn with debris from logging (or fire or wind)
 
-w: slice drf verb.contact:slice
+w: slice drf verb.contact:slice2
 hyper: part
 g: a thin flat piece cut off of some object
 
-w: slit drf verb.contact:slit
+w: slit drf verb.contact:slit1
 hyper: crack
 g: a narrow fissure
 
 w: slope drf verb.motion:slope
-w: incline drf verb.motion:incline
-w: side1
+w: incline drf verb.motion:incline1
+w: side
 hyper: geological_formation
 hp: natural_elevation
 g: an elevated geological formation; "he climbed the steep slope"; "the house was built on the side of a mountain"
 
 w: slot
-hyper: trail1
+hyper: trail
 g: the trail of an animal (especially a deer); "he followed the deer's slot over the soft turf to the edge of the trees"
 
-w: slough2 drf adjs.all:sloughy
+w: slough drf adjs.all:sloughy
 hyper: bog
 g: a hollow filled with mud
 
@@ -6836,7 +6836,7 @@ w: slough1
 hyper: swamp
 g: a stagnant swamp (especially as part of a bayou)
 
-w: slough drf verb.body:slough
+w: slough2 drf verb.body:slough
 hyper: covering
 g: any outer covering that can be shed or cast off (such as the cast-off skin of a snake)
 
@@ -6871,7 +6871,7 @@ g: a bubble formed by a thin soap film
 
 w: soapsuds
 w: suds drf verb.change:suds drf verb.contact:suds
-w: lather drf adj.pert:lathery drf verb.body:lather drf verb.change:lather
+w: lather drf adj.pert:lathery drf verb.body:lather1 drf verb.change:lather
 hyper: foam
 g: the froth produced by soaps or detergents
 
@@ -6887,17 +6887,17 @@ g: a strait of the English Channel between the coast of Hampshire and the Isle o
 
 w: Solway_Firth
 ihyper: firth
-hp: noun.location:Great_Britain
+hp: noun.location:Great_Britain1
 g: a large firth on the west coast of Britain between England and Scotland
 
-w: sound drf verb.change:sound
+w: sound1 drf verb.change:sound
 hyper: body_of_water
 g: a large ocean inlet or deep bay; "the main body of the sound ran parallel to the coast"
 
 w: South_America drf adj.pert:South_American
 ihyper: continent
 hp: noun.location:western_hemisphere
-hp: noun.location:West
+hp: noun.location:West1
 hp: noun.location:southern_hemisphere
 hp: America
 g: a continent in the western hemisphere connected to North America by the Isthmus of Panama
@@ -6941,15 +6941,15 @@ g: a small conspicuous constellation in the southern hemisphere in the Milky Way
 
 w: spall
 w: spawl
-hyper: fragment1
+hyper: fragment
 g: a fragment broken off from the edge or face of stone or ore and having at least one thin edge; "a truck bearing a mound of blue spalls"
 
 w: spark drf verb.weather:spark
-hyper: fragment1
+hyper: fragment
 g: a small fragment of a burning substance thrown out by burning material or by friction
 
 w: Spica
-ihyper: star
+ihyper: star1
 hm: Virgo
 g: the brightest star in Virgo
 
@@ -6963,16 +6963,16 @@ hyper: paring
 g: a thin sliver of wood; "he lit the fire with a burning splint"
 
 w: splinter drf adjs.all:splintery drf adj.pert:splintery drf verb.change:splinter drf verb.social:splinter1
-w: sliver1 drf adj.pert:slivery drf verb.change:sliver1 drf verb.change:sliver
+w: sliver drf adj.pert:slivery drf verb.change:sliver1 drf verb.change:sliver
 hyper: bit
 g: a small thin sharp bit or wood or glass or metal; "he got a splinter in his finger"; "it broke into slivers"
 
-w: split1 drf verb.change:split1
+w: split drf verb.change:split
 hyper: crack
 g: a lengthwise crack in wood; "he inserted the wedge into a split in the log"
 
 w: spoor
-hyper: trail1
+hyper: trail
 g: the trail left by a person or an animal; what the hunter follows in pursuing game; "the hounds followed the fox's spoor"
 
 w: spring
@@ -7004,11 +7004,11 @@ hyper: noun.shape:cylinder
 hp: cave
 g: a cylinder of calcium carbonate projecting upward from the floor of a limestone cave
 
-w: star1 drf adj.all:starry
+w: star drf adj.all:starry
 hyper: celestial_body
 g: any celestial body visible (as a point of light) from the Earth at night
 
-w: star drf adj.all:starry
+w: star1 drf adj.all:starry
 hyper: celestial_body
 hm: noun.group:galaxy
 hm: constellation
@@ -7016,7 +7016,7 @@ dt: noun.cognition:astronomy
 g: (astronomy) a celestial body of hot gases that radiates energy derived from thermonuclear reactions in the interior
 
 w: starlet
-hyper: star1
+hyper: star
 g: a small star
 
 w: steep
@@ -7029,7 +7029,7 @@ dr: noun.location:Soviet_Union
 g: extensive plain without trees (associated with eastern Russia and Siberia)
 
 w: stepping_stone
-hyper: rock1
+hyper: rock
 g: a stone in a marsh or shallow water that can be stepped on in crossing
 
 w: steps
@@ -7039,7 +7039,7 @@ g: the course along which a person has walked or is walking in; "I followed in h
 
 w: Sterope
 w: Asterope
-ihyper: star
+ihyper: star1
 hm: Pleiades
 g: one of the stars in the star cluster Pleiades
 
@@ -7080,7 +7080,7 @@ ihyper: strait
 g: the strait separating Sicily from the tip of Italy
 
 w: strait
-w: sound1
+w: sound
 hyper: channel
 g: a narrow channel of the sea joining two larger bodies of water
 
@@ -7109,10 +7109,10 @@ g: a large dark low cloud
 
 w: streambed
 w: creek_bed
-hyper: bed
+hyper: bed1
 g: a channel occupied (or formerly occupied) by a stream
 
-w: stream drf streamlet drf verb.motion:stream
+w: stream drf streamlet drf verb.motion:stream1
 w: watercourse1
 hyper: body_of_water
 g: a natural body of running water flowing on or under the earth
@@ -7132,7 +7132,7 @@ g: a geological fault in which one of the adjacent surfaces appears to have move
 w: string
 w: cosmic_string
 hyper: elementary_particle
-dt: noun.cognition:cosmology
+dt: noun.cognition:cosmology1
 g: (cosmology) a hypothetical one-dimensional subatomic particle having a concentration of energy and the dynamic properties of a flexible loop
 
 w: strip
@@ -7146,7 +7146,7 @@ g: a short piece remaining on a trunk or stem where a branch is lost
 w: Styx
 w: River_Styx
 ihyper: river
-hp: noun.cognition:Hell2
+hp: noun.cognition:Hell1
 dt: noun.group:Greek_mythology
 g: (Greek mythology) a river in Hades across which Charon carried dead souls
 
@@ -7157,8 +7157,8 @@ dr: noun.location:India
 dr: noun.location:Greenland
 g: a large and distinctive landmass (as India or Greenland) that is a distinct part of some continent
 
-w: sun1
-hyper: star
+w: sun
+hyper: star1
 g: any star around which a planetary system revolves
 
 w: Sun_River
@@ -7166,26 +7166,26 @@ ihyper: river
 hp: noun.location:Montana
 g: a river in western Montana that flows south and east to join the Missouri River
 
-w: sun
-w: Sun2
-ihyper: star
+w: sun1
+w: Sun
+ihyper: star1
 hm: solar_system
 g: the star that is the source of light and heat for the planets in the solar system; "the sun contains 99.85% of the mass in the solar system"; "the Earth revolves around the Sun"
 
 w: supergiant
-hyper: star
+hyper: star1
 g: an extremely bright star of very large diameter and low density
 
 w: superior_planet
-hyper: planet
+hyper: planet1
 g: any of the planets whose orbit lies outside the earth's orbit
 
 w: supernatant drf adjs.all:supernatant
-hyper: noun.substance:liquid4
+hyper: noun.substance:liquid
 g: the clear liquid that lies above a sediment or precipitate
 
 w: supernova
-hyper: star
+hyper: star1
 g: a star that explodes and becomes extremely luminous in the process
 
 w: superstring
@@ -7207,9 +7207,9 @@ g: a river in Suriname that flows northward to the Atlantic
 w: Susquehanna
 w: Susquehanna_River
 ihyper: river
-hp: noun.location:New_York
-hp: noun.location:Pennsylvania
-hp: noun.location:Maryland
+hp: noun.location:New_York2
+hp: noun.location:Pennsylvania1
+hp: noun.location:Maryland1
 g: a river in the northeastern United States that rises in New York and flows southward through Pennsylvania and Maryland into Chesapeake Bay
 
 w: swale
@@ -7242,9 +7242,9 @@ g: a relatively flat highland
 w: Taconic_Mountains
 ihyper: range
 hp: Appalachians
-hp: noun.location:New_York
-hp: noun.location:Connecticut
-hp: noun.location:Massachusetts
+hp: noun.location:New_York2
+hp: noun.location:Connecticut1
+hp: noun.location:Massachusetts1
 hp: noun.location:Vermont
 g: a range of the Appalachian Mountains along the eastern border of New York with Connecticut, Massachusetts, and Vermont
 
@@ -7263,7 +7263,7 @@ g: a waterfall in southeastern British Columbia; the highest waterfall in Canada
 w: Tallapoosa
 w: Tallapoosa_River
 ihyper: river
-hp: noun.location:Georgia
+hp: noun.location:Georgia1
 hp: noun.location:Alabama
 g: river that rises in northwestern Georgia and flows southwest through central Alabama to join the Coosa River near Montgomery and form the Alabama River
 
@@ -7278,7 +7278,7 @@ hp: Gulf_of_Mexico
 hp: noun.location:Florida
 g: an arm of the Gulf of Mexico in west central Florida
 
-w: tangle drf verb.contact:tangle drf verb.contact:tangle1
+w: tangle drf verb.contact:tangle2 drf verb.contact:tangle1
 hyper: noun.Tops:natural_object
 g: a twisted and tangled mass that is highly interwoven; "they carved their way through the tangle of vines"
 
@@ -7291,9 +7291,9 @@ hyper: lake
 g: a mountain lake (especially one formed by glaciers)
 
 w: tartar
-w: calculus1
+w: calculus
 w: tophus
-hyper: crust1
+hyper: crust
 g: an incrustation that forms on the teeth and gums
 
 w: Tasman_Sea
@@ -7336,7 +7336,7 @@ hyper: tableland
 g: a level shelf of land interrupting a declivity (with steep slopes above and below)
 
 w: terrestrial_planet
-hyper: planet
+hyper: planet1
 g: a planet having a compact rocky surface like the Earth's; the four innermost planets in the solar system
 
 w: territorial_waters ant high_sea ant international_waters
@@ -7407,8 +7407,8 @@ g: a channel in which a tidal current runs
 w: Tien_Shan
 w: Tyan_Shan
 ihyper: range
-hp: noun.location:Russia4
-hp: noun.location:China
+hp: noun.location:Russia1
+hp: noun.location:China1
 hp: noun.location:India
 g: a major mountain range of central Asia; extends 1,500 miles
 
@@ -7453,8 +7453,8 @@ w: truth_quark
 hyper: quark
 g: a hypothetical quark with a charge of +2/3 and a mass more than 100,000 times that of an electron
 
-w: tor2
-hyper: rock1
+w: tor
+hyper: rock
 g: a prominent rock or pile of rocks on a hill
 
 w: tor1
@@ -7465,7 +7465,7 @@ w: Torres_Strait
 ihyper: strait
 g: a strait between northeastern Australia and southern New Guinea that connects the Coral Sea with the Arafura Sea
 
-w: trail1
+w: trail
 hyper: path
 g: a track or mark left by something that has passed; "there as a trail of blood"; "a tear left its trail on her cheek"
 
@@ -7521,7 +7521,7 @@ hp: noun.location:Texas
 g: a river in eastern Texas that is formed near Dallas and flows generally southeastward to Galveston Bay
 
 w: Triton
-ihyper: moon
+ihyper: moon2
 g: the largest moon of Neptune
 
 w: Trondheim_Fjord
@@ -7564,7 +7564,7 @@ ihyper: river
 hp: noun.location:Siberia
 g: a river that arises to the north of Lake Baikal and flows north and west to the Yenisei River
 
-w: Tunguska2
+w: Tunguska
 w: Stony_Tunguska
 ihyper: river
 hp: noun.location:Siberia
@@ -7581,7 +7581,7 @@ w: turf
 w: sod drf verb.contact:sod
 w: sward
 w: greensward
-hyper: land1
+hyper: land
 g: surface layer of ground containing a mat of grass and grass roots
 
 w: turning
@@ -7647,7 +7647,7 @@ w: U.S._waters
 ihyper: territorial_waters
 g: territorial waters included within a distance of 12 nautical miles of the coasts of the United States and its territories; "ships operating in United States waters must adhere to United States laws and regulations"
 
-w: universe drf adjs.all:universal
+w: universe drf adjs.all:universal2
 w: existence
 w: creation
 w: world1
@@ -7677,7 +7677,7 @@ g: the peninsula between Lake Superior and Lake Michigan that forms the northwes
 w: Urals
 w: Ural_Mountains
 ihyper: range
-hp: noun.location:Russia4
+hp: noun.location:Russia1
 g: a mountain range in western Russia extending from the Arctic to the Caspian Sea; forms part of the traditional boundary between Europe and Asia
 
 w: Uranus
@@ -7688,7 +7688,7 @@ hm: solar_system
 g: a giant planet with a ring of ice particles; the 7th planet from the sun has a blue-green color and many satellites; "Uranus was discovered by William Herschel in 1781"
 
 w: urolith
-hyper: calculus
+hyper: calculus1
 g: a urinary stone
 
 w: Urubupunga
@@ -7703,7 +7703,7 @@ ihyper: river
 hp: South_America
 g: a South American river that arises in southern Brazil and flows south to the Rio de la Plata; the northern section forms the boundary between Argentina and Brazil and the southern section forms the boundary between Argentina and Uruguay
 
-w: vagabond drf adjs.all:vagabond2 drf adjs.all:vagabond1 drf verb.motion:vagabond
+w: vagabond drf adjs.all:vagabond drf adjs.all:vagabond1 drf verb.motion:vagabond
 hyper: noun.Tops:object
 g: anything that resembles a vagabond in having no fixed place; "pirate ships were vagabonds of the sea"
 
@@ -7716,13 +7716,13 @@ w: vale
 hyper: natural_depression
 g: a long depression in the surface of the land that usually contains a river
 
-w: variable drf adj.all:variable
+w: variable1 drf adj.all:variable
 hyper: noun.Tops:thing
 g: something that is likely to vary; something that is subject to variation; "the weather is one variable to be considered"
 
 w: variable_star
-w: variable1
-hyper: star
+w: variable
+hyper: star1
 g: a star that varies noticeably in brightness
 
 w: vector-borne_transmission
@@ -7730,7 +7730,7 @@ hyper: indirect_transmission
 g: indirect transmission of an infectious agent that occurs when a vector bites or touches a person
 
 w: vector
-w: transmitter drf verb.possession:transmit10
+w: transmitter drf verb.possession:transmit
 hyper: agent
 dt: noun.Tops:animal
 dt: noun.animal:microorganism
@@ -7777,7 +7777,7 @@ g: something that covers or cloaks like a garment; "fields in a vesture of green
 w: Vetluga
 w: Vetluga_River
 ihyper: river
-hp: noun.location:Russia4
+hp: noun.location:Russia1
 g: a river in central Russia; flows generally southward into the Volga
 
 w: Victoria
@@ -7813,7 +7813,7 @@ ihyper: constellation
 g: a small constellation in the polar region of the southern hemisphere near Dorado and Carina
 
 w: volcanic_crater
-w: crater1
+w: crater
 hyper: geological_formation
 hp: volcano
 g: a bowl-shaped geological formation at the top of a volcano
@@ -7825,13 +7825,13 @@ g: a mountain formed by volcanic material
 w: Volga
 w: Volga_River
 ihyper: river
-hp: noun.location:Russia4
+hp: noun.location:Russia1
 g: a Russian river; the longest river in Europe; flows into the Caspian Sea
 
 w: Volkhov
 w: Volkhov_River
 ihyper: river
-hp: noun.location:Russia4
+hp: noun.location:Russia1
 g: a river in northwestern Russia flowing generally north into Lake Ladoga
 
 w: Volta
@@ -7854,20 +7854,20 @@ w: wadi
 hyper: gully
 g: gully or streambed in northern Africa and the Middle East that remains dry except during rainy season
 
-w: wall1
+w: wall
 hyper: geological_formation
 hp: cave
 g: a vertical (or almost vertical) smooth rock face (as of a cave or mountain)
 
-w: wall
+w: wall1
 hyper: noun.Tops:object
 g: anything that suggests a wall in structure or function or effect; "a wall of water"; "a wall of smoke"; "a wall of prejudice"; "negotiations ran into a brick wall"
 
 w: wall_rock
-hyper: rock1
+hyper: rock
 g: a rock immediately adjacent to a vein or fault
 
-w: wallow drf verb.motion:wallow
+w: wallow drf verb.motion:wallow1
 hyper: mud_puddle
 g: a puddle where animals go to wallow
 
@@ -7879,7 +7879,7 @@ g: a series of connected underground tunnels occupied by rabbits
 w: wash
 w: dry_wash
 hyper: streambed
-dr: noun.location:West1
+dr: noun.location:West
 g: the dry bed of an intermittent stream (as at the bottom of a canyon)
 
 w: wasp's_nest
@@ -7907,7 +7907,7 @@ w: groundwater_level
 hyper: geological_formation
 g: underground surface below which the ground is wholly saturated with water; "spring rains had raised the water table"
 
-w: watercourse2
+w: watercourse
 hyper: channel
 g: natural or artificial channel through which water flows
 
@@ -7925,7 +7925,7 @@ w: waterway
 hyper: body_of_water
 g: a navigable body of water
 
-w: weakener drf verb.change:weaken4 drf verb.change:weaken3 drf verb.change:weaken1
+w: weakener drf verb.change:weaken drf verb.change:weaken1 drf verb.change:weaken2
 hyper: agent
 g: that which weakens or causes a loss of strength; "doubt is a great weakener of resolve"
 
@@ -7933,7 +7933,7 @@ w: weakly_interacting_massive_particle
 w: WIMP
 hyper: elementary_particle
 hp: noun.substance:dark_matter
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 du: noun.communication:acronym
 g: a hypothetical subatomic particle of large mass that interacts weakly with ordinary matter through gravitation; postulated as a constituent of the dark matter of the universe
 
@@ -7962,7 +7962,7 @@ hp: noun.location:Germany
 g: a river in northwestern Germany that flows northward to the North Sea near Bremerhaven
 
 w: wetland
-hyper: land1
+hyper: land
 g: a low area where the land is saturated with water
 
 w: Wheeler_Peak
@@ -7973,12 +7973,12 @@ g: a mountain peak in northeastern New Mexico in the Rocky Mountains
 
 w: whinstone
 w: whin
-hyper: rock1
+hyper: rock
 g: any of various hard colored rocks (especially rocks consisting of chert or basalt)
 
 w: white_dwarf
 w: white_dwarf_star
-hyper: star
+hyper: star1
 g: a faint star of enormous density
 
 w: White_Nile
@@ -8005,20 +8005,20 @@ g: a tributary of the Mississippi River that flows southeastward through norther
 w: Whitney
 w: Mount_Whitney
 ihyper: mountain_peak
-hp: Sierra_Nevada
+hp: Sierra_Nevada1
 g: the highest peak in the Sierra Nevada range in California (14,494 feet high)
 
 w: Wight
 w: Isle_of_Wight
 ihyper: isle
-hyper: noun.location:county
+hyper: noun.location:county1
 hp: noun.location:British_Isles
 hp: English_Channel
 g: an isle and county of southern England in the English Channel
 
 w: Wilderness
 ihyper: forest
-dr: noun.location:Virginia
+dr: noun.location:Virginia1
 g: a wooded region in northeastern Virginia near Spotsylvania where bloody but inconclusive battles were fought in the American Civil War
 
 w: Willamette
@@ -8059,10 +8059,10 @@ hp: noun.location:Wisconsin
 g: a tributary of the Mississippi River in Wisconsin
 
 w: wonderland
-hyper: land
+hyper: land1
 g: a place or scene of great or strange beauty or wonder
 
-w: world2
+w: world
 hyper: part
 g: a part of the earth that can be considered separately; "the outdoor world"; "the world of insects"
 
@@ -8071,11 +8071,11 @@ hyper: fossil
 g: fossil trail of a worm
 
 w: wormhole
-hyper: hole2
+hyper: hole
 g: hole made by a burrowing worm
 
 w: xenolith
-hyper: rock1
+hyper: rock
 dt: noun.cognition:geology
 g: (geology) a piece of rock of different origin from the igneous rock in which it is embedded
 
@@ -8083,7 +8083,7 @@ w: Yalu
 w: Yalu_River
 ihyper: river
 hp: noun.location:North_Korea
-dr: noun.location:China
+dr: noun.location:China1
 g: river in eastern Asia; rises in North Korea and flows southwest to Korea Bay (forming part of the border between North Korea and China)
 
 w: Yazoo
@@ -8144,9 +8144,9 @@ g: an African river; flows into the Indian Ocean
 w: Zhu_Jiang
 w: Canton_River
 w: Chu_Kiang
-w: Pearl_River1
+w: Pearl_River
 ihyper: river
-hp: noun.location:China
+hp: noun.location:China1
 g: a river in southeast China that flows into the South China Sea
 
 w: Zuider_Zee

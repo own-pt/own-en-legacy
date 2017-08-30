@@ -29,23 +29,23 @@ w: absolute_alcohol
 hyper: ethyl_alcohol
 g: pure ethyl alcohol (containing no more than 1% water)
 
-w: absorbate drf verb.contact:absorb1
+w: absorbate drf verb.contact:absorb
 hyper: sorbate
 g: a material that has been or is capable of being absorbed
 
 w: absorbent_cotton
-hyper: cotton1
+hyper: cotton
 hyper: absorbent_material
 g: cotton made absorbent by removal of the natural wax
 
 w: absorbent_material
-w: absorbent drf verb.contact:absorb1
+w: absorbent drf verb.contact:absorb
 hyper: sorbent
 g: a material having capacity or tendency to absorb another substance
 
-w: absorber drf verb.contact:absorb drf verb.contact:absorb1
+w: absorber drf verb.contact:absorb1 drf verb.contact:absorb
 hyper: absorbent_material
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) material in a nuclear reactor that absorbs radiation
 
 w: absorption_indicator
@@ -152,7 +152,7 @@ hyper: aliphatic_compound
 hs: oxyacetylene
 g: a colorless flammable gas used chiefly in welding and in organic synthesis
 
-w: acid drf adjs.all:acid drf verb.perception:acidulate drf verb.perception:acidify drf verb.change:acidify
+w: acid drf adjs.all:acid2 drf verb.perception:acidulate drf verb.perception:acidify drf verb.change:acidify
 hyper: compound
 g: any of various water-soluble compounds having a sour taste and capable of turning litmus red and reacting with a base to form a salt
 
@@ -174,11 +174,11 @@ hyper: amide
 g: a white crystalline amide of propenoic acid can damage the nervous system and is carcinogenic in laboratory animals; "they claimed that acrylamide is produced when certain carbohydrates are baked or fried at high temperatures"
 
 w: acrylic_fiber
-w: acrylic1
+w: acrylic
 hyper: man-made_fiber
 g: polymerized from acrylonitrile
 
-w: acrylic
+w: acrylic1
 w: acrylic_resin
 w: acrylate_resin
 hyper: synthetic_resin
@@ -195,7 +195,7 @@ hs: actomyosin
 g: one of the proteins into which actomyosin can be split; can exist in either a globular or a fibrous form
 
 w: actinide_series
-hyper: noun.group:series
+hyper: noun.group:series1
 dt: noun.cognition:chemistry
 g: (chemistry) a series of 15 radioactive elements with increasing atomic numbers from actinium to lawrencium
 
@@ -219,7 +219,7 @@ g: a green mineral of the amphibole group; calcium magnesium iron silicate
 
 w: activated_carbon
 w: activated_charcoal
-hyper: carbon
+hyper: carbon1
 g: powdered or granular carbon used for purifying by adsorption; given orally (as a slurry) it is an antidote for some kinds of poisons
 
 w: activating_agent
@@ -227,13 +227,13 @@ hyper: activator
 dt: noun.process:mineral_extraction
 g: (mineral extraction) a surface-active chemical used in flotation process to increase the attraction to a specific mineral
 
-w: activator drf verb.change:activate ant inhibitor
-hyper: noun.Tops:substance
+w: activator drf verb.change:activate3 ant inhibitor
+hyper: noun.Tops:substance1
 dt: noun.cognition:biology
 g: (biology) any agency bringing about activation; a molecule that increases the activity of an enzyme or a protein that increases the production of a gene product in DNA transcription
 
 w: active_agent
-w: active drf adj.all:active7
+w: active drf adj.all:active1
 hyper: chemical_agent
 g: chemical agent capable of activity
 
@@ -262,7 +262,7 @@ g: a compound formed by an addition reaction
 
 w: adenine
 w: A2
-hyper: purine1
+hyper: purine
 hs: deoxyribonucleic_acid
 hs: ribonucleic_acid
 dt: noun.cognition:biochemistry
@@ -313,7 +313,7 @@ hyper: material
 g: a substance that unites or bonds surfaces together
 
 w: adobe
-hyper: clay
+hyper: clay1
 hs: noun.artifact:adobe
 g: the clay from which adobe bricks are made
 
@@ -332,7 +332,7 @@ g: a material having capacity or tendency to adsorb another substance
 
 w: adulterant drf adj.all:adulterant drf verb.change:adulterate
 w: adulterator drf verb.change:adulterate
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: any substance that lessens the purity or effectiveness of a substance; "it is necessary to remove the adulterants before use"
 
 w: aflatoxin
@@ -341,16 +341,16 @@ hyper: noun.artifact:bioweapon
 g: a potent carcinogen from the fungus Aspergillus; can be produced and stored for use as a bioweapon
 
 w: afterdamp
-hyper: gas
+hyper: gas1
 g: a toxic mixture of gases (including carbon dioxide and carbon monoxide and nitrogen) after an explosion of firedamp in a mine
 
-w: agar
+w: agar1
 w: agar-agar
 hyper: gum
-hs: agar2
+hs: agar
 g: a colloidal extract of algae; used especially in culture media and as a gelling agent in foods
 
-w: agar2
+w: agar
 w: nutrient_agar
 hyper: culture_medium
 g: any culture medium that uses agar as the gelling agent
@@ -361,7 +361,7 @@ g: an impure form of quartz consisting of banded chalcedony; used as a gemstone 
 
 w: agent
 hyper: noun.Tops:causal_agent
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: a substance that exerts some force or effect
 
 w: Agent_Orange
@@ -384,13 +384,13 @@ w: aggregate
 hyper: material
 g: material such as sand or gravel used with cement and water to make concrete, mortar, or plaster
 
-w: air1
-hyper: element1
+w: air
+hyper: element
 du: noun.communication:archaism
 g: once thought to be one of four elements composing the universe (Empedocles)
 
-w: air drf verb.perception:aerate drf verb.change:aerate drf verb.change:aerify
-hyper: gas
+w: air1 drf verb.perception:aerate drf verb.change:aerate drf verb.change:aerify
+hyper: gas1
 hs: noun.phenomenon:wind
 g: a mixture of gases (especially oxygen) required for breathing; the stuff that the wind consists of; "air pollution"; "a smell of chemicals in the air"; "open a window and let in some air"; "I need some fresh air"
 
@@ -398,11 +398,11 @@ w: air_cushion
 hyper: compressed_air
 g: the trapped air that supports a hovercraft a short distance above the water or ground
 
-w: alabaster
+w: alabaster1
 hyper: gypsum
 g: a compact fine-textured, usually white gypsum used for carving
 
-w: alabaster1
+w: alabaster
 w: oriental_alabaster
 w: onyx_marble
 w: Mexican_onyx
@@ -429,7 +429,7 @@ hyper: simple_protein
 g: a simple water-soluble protein found in many animal tissues and liquids
 
 w: alcohol drf adj.all:alcoholic
-hyper: liquid4
+hyper: liquid
 g: any of a series of volatile hydroxyl compounds that are made from hydrocarbons by distillation
 
 w: alcohol_group
@@ -497,7 +497,7 @@ g: any of various yellow dyes; not related chemically to alizarin but applied in
 
 w: alizarin
 w: alizarine
-hyper: pigment
+hyper: pigment1
 g: an orange-red crystalline compound used in making red pigments and in dyeing
 
 w: Alka-seltzer
@@ -511,7 +511,7 @@ w: universal_solvent
 hyper: solvent
 g: hypothetical universal solvent once sought by alchemists
 
-w: alkali1 drf adj.all:alkalic drf verb.change:alkalify
+w: alkali drf adj.all:alkalic drf verb.change:alkalify
 hyper: salt
 g: a mixture of soluble salts found in arid soils and some bodies of water; detrimental to agriculture
 
@@ -566,7 +566,7 @@ hyper: sulfonate
 g: sulfonate of alkyl benzene
 
 w: allergen drf adj.pert:allergenic
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: any substance that can cause an allergy
 
 w: alligator drf verb.change:alligator
@@ -596,7 +596,7 @@ hyper: mixture
 g: a mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten; "brass is an alloy of zinc and copper"
 
 w: alluvial_soil
-hyper: soil1
+hyper: soil
 hs: noun.object:alluvial_sediment
 g: a fine-grained fertile soil deposited by water flowing over flood plains or in river beds
 
@@ -681,7 +681,7 @@ hyper: iron
 hs: ferrite
 g: a magnetic allotrope of iron; stable below 906 degrees centigrade
 
-w: alum2
+w: alum
 w: ammonia_alum
 w: ammonium_alum
 hyper: aluminum
@@ -762,7 +762,7 @@ hyper: metallic_element
 g: a radioactive transuranic metallic element; discovered by bombarding uranium with helium atoms
 
 w: amethyst drf adjs.all:amethyst
-hyper: quartz
+hyper: quartz1
 hyper: transparent_gem
 g: a transparent purple variety of quartz; used as a gemstone
 
@@ -804,14 +804,14 @@ w: ammine
 hyper: compound
 g: a complex inorganic compound that contains ammonia molecules
 
-w: ammonia drf verb.change:ammoniate
+w: ammonia1 drf verb.change:ammoniate
 hyper: binary_compound
 g: a pungent gas compounded of nitrogen and hydrogen (NH3)
 
 w: ammonia_water
-w: ammonia1 drf verb.change:ammoniate
+w: ammonia drf verb.change:ammoniate
 w: ammonium_hydroxide
-hyper: liquid4
+hyper: liquid
 g: a water solution of ammonia
 
 w: ammoniac drf adj.pert:ammoniac drf adj.pert:ammoniacal
@@ -840,7 +840,7 @@ g: used as an explosive and fertilizer and rocket propellant
 
 w: ammonium drf verb.change:ammonify
 w: ammonium_ion
-hyper: ammonia
+hyper: ammonia1
 g: the ion NH4 derived from ammonia; behaves in many respects like an alkali metal ion
 
 w: ammunition
@@ -881,7 +881,7 @@ w: amylase
 hyper: enzyme
 g: any of a group of proteins found in saliva and pancreatic juice and parts of plants; help convert starch to sugar
 
-w: amyloid2 drf adjs.all:amyloid drf adjs.all:amyloidal
+w: amyloid drf adjs.all:amyloid drf adjs.all:amyloidal
 hyper: starch
 g: a non-nitrogenous food substance consisting chiefly of starch; any substance resembling starch
 
@@ -966,12 +966,12 @@ hyper: material
 g: material derived from animals
 
 w: animal_oil
-hyper: oil
+hyper: oil1
 hyper: animal_material
 g: any oil obtained from animal substances
 
 w: animal_pigment
-hyper: pigment
+hyper: pigment1
 g: pigment occurring in animals
 
 w: animal_product
@@ -1035,18 +1035,18 @@ dt: noun.cognition:chemistry
 g: (chemistry) a substance that retards a chemical reaction or diminishes the activity of a catalyst
 
 w: antifreeze
-hyper: liquid4
+hyper: liquid
 g: a liquid added to the water in a cooling system to lower its freezing point
 
 w: antigen drf adj.pert:antigenic
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 dt: noun.cognition:immunology
 g: any substance (as a toxin or enzyme) that stimulates an immune response in the body (especially the production of antibodies)
 
 w: antigenic_determinant
 w: determinant
 w: epitope
-hyper: noun.location:site2
+hyper: noun.location:site1
 hp: antigen
 dt: noun.cognition:immunology
 g: the site on the surface of an antigen molecule to which an antibody attaches itself
@@ -1135,7 +1135,7 @@ hyper: mineral
 g: a valuable silver ore consisting of silver sulfide (Ag2S)
 
 w: argil drf adj.all:argillaceous
-hyper: clay
+hyper: clay1
 g: a white clay (especially a white clay used by potters)
 
 w: argillaceous_rock
@@ -1155,7 +1155,7 @@ w: Ar
 w: atomic_number_18
 hyper: chemical_element
 hyper: noble_gas
-hs: air
+hs: air1
 g: a colorless and odorless inert gas; one of the six inert gases; comprises approximately 1% of the earth's atmosphere
 
 w: argyrodite
@@ -1187,7 +1187,7 @@ hyper: pesticide
 hyper: noun.artifact:drug
 g: a pesticide or drug containing arsenic
 
-w: arsenic1 drf adj.pert:arsenical
+w: arsenic drf adj.pert:arsenical
 w: arsenic_trioxide
 w: arsenous_anhydride
 w: arsenous_oxide
@@ -1196,7 +1196,7 @@ w: ratsbane
 hyper: trioxide
 g: a white powdered poisonous trioxide of arsenic; used in manufacturing glass and as a pesticide (rat poison) and weed killer
 
-w: arsenic drf adj.pert:arsenious drf adj.pert:arsenical
+w: arsenic1 drf adj.pert:arsenious drf adj.pert:arsenical
 w: As
 w: atomic_number_33
 hyper: chemical_element
@@ -1217,7 +1217,7 @@ hyper: mineral
 g: a silver-white or grey ore of arsenic
 
 w: arsine
-hyper: gas
+hyper: gas1
 g: a poisonous colorless flammable gas used in organic synthesis and to dope transistors and as a poison gas in warfare
 
 w: art_paper
@@ -1226,7 +1226,7 @@ dt: china_clay
 g: a high-quality paper (usually having a filler of china clay)
 
 w: artificial_blood
-hyper: liquid
+hyper: liquid1
 g: a liquid that can carry large amounts of oxygen and can serve as a temporary substitute for blood
 
 w: asafetida
@@ -1239,7 +1239,7 @@ hyper: amphibole
 hm: amphibole_group
 g: a fibrous amphibole; used for making fireproof articles; inhaling fibers can cause asbestosis or lung cancer
 
-w: ash1 drf adjs.all:ashy drf verb.change:ash
+w: ash drf adjs.all:ashy drf verb.change:ash
 hyper: residue
 g: the residue that remains when something is burned
 
@@ -1251,7 +1251,7 @@ w: aspartic_acid
 hyper: amino_acid
 g: a crystalline amino acid found in proteins and occurring naturally in sugar beets and sugar cane
 
-w: asphalt2 drf verb.contact:asphalt drf adj.all:asphaltic
+w: asphalt drf verb.contact:asphalt drf adj.all:asphaltic
 hyper: paving
 g: mixed asphalt and crushed gravel or sand; used especially for paving but also for roofing
 
@@ -1261,7 +1261,7 @@ hyper: mineral
 g: a dark bituminous substance found in natural beds and as residue from petroleum distillation; consists mainly of hydrocarbons
 
 w: assay
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: a substance that is undergoing an analysis of its components
 
 w: astatine
@@ -1276,16 +1276,16 @@ hyper: fur
 g: the fur of young lambs
 
 w: atom drf adj.pert:atomic drf verb.change:atomize drf verb.contact:atomise drf verb.change:atomise
-hyper: noun.Tops:substance
+hyper: noun.Tops:substance1
 hp: chemical_element
 hp: molecule
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 dt: noun.cognition:chemistry
 g: (physics and chemistry) the smallest component of an element having the chemical properties of the element
 
 w: atom1 drf verb.change:atomise drf adjs.all:atomic
 w: molecule1 drf adj.all:molecular
-w: particle1
+w: particle
 w: corpuscle
 w: mote
 w: speck
@@ -1369,7 +1369,7 @@ w: B_complex
 w: vitamin_B_complex
 w: vitamin_B
 w: B_vitamin
-w: B1
+w: B
 hyper: water-soluble_vitamin
 g: originally thought to be a single vitamin but now separated into several B vitamins
 
@@ -1421,12 +1421,12 @@ w: ballast
 hyper: gravel
 g: coarse gravel laid to form a bed for streets and railroads
 
-w: balm1 drf adjs.all:balmy
+w: balm drf adjs.all:balmy1
 hyper: balsam
 g: any of various aromatic resinous substances used for healing and soothing
 
 w: balm_of_Gilead
-hyper: balm1
+hyper: balm
 g: a fragrant oleoresin
 
 w: balsam drf adj.pert:balsamy drf adj.pert:balsamic
@@ -1494,8 +1494,8 @@ hyper: nucleotide
 hp: deoxyribonucleic_acid
 g: one of the pairs of chemical bases joined by hydrogen bonds that connect the complementary strands of a DNA molecule or of an RNA molecule that has two strands; the base pairs are adenine with thymine and guanine with cytosine in DNA and adenine with uracil and guanine with cytosine in RNA
 
-w: base drf verb.consumption:base drf verb.change:basify
-w: alkali drf verb.change:alkalize drf verb.change:alkalify
+w: base1 drf verb.consumption:base drf verb.change:basify
+w: alkali1 drf verb.change:alkalize drf verb.change:alkalify
 hyper: compound
 g: any of various water-soluble compounds capable of turning litmus blue and reacting with an acid to form a salt and water; "bases include oxides and hydroxides of metals and ammonia"
 
@@ -1519,7 +1519,7 @@ hyper: mineral
 g: a yellow-to-brown mineral that is a source of rare earth elements
 
 w: bath_water
-hyper: water
+hyper: water2
 g: water used for a bath
 
 w: batholith drf adj.pert:batholithic
@@ -1578,7 +1578,7 @@ hyper: bronze
 g: bronze with 3 or 4 parts copper to 1 part tin; used in making bells
 
 w: bentonite drf adj.pert:bentonitic
-hyper: clay
+hyper: clay1
 g: an absorbent aluminum silicate clay formed from volcanic ash
 
 w: benzene_formula
@@ -1627,7 +1627,7 @@ hyper: group
 g: the univalent radical derived from benzoic acid
 
 w: benzoyl_peroxide
-hyper: peroxide1
+hyper: peroxide
 hyper: bleaching_agent
 g: a white crystalline peroxide used in bleaching (flour or oils or fats) and as a catalyst for free radical reactions
 
@@ -1714,9 +1714,9 @@ w: bile_salt
 hyper: salt
 g: a salt of bile acid and a base; functions as an emulsifier of lipids and fatty acids
 
-w: bilge drf adjs.all:bilgy drf verb.change:bilge
+w: bilge drf adjs.all:bilgy drf verb.change:bilge1
 w: bilge_water
-hyper: water
+hyper: water2
 g: water accumulated in the bilge of a ship
 
 w: bilirubin
@@ -1733,7 +1733,7 @@ w: binary_compound
 hyper: compound
 g: chemical compound composed of only two elements
 
-w: binder1 drf verb.contact:bind6 drf verb.change:bind9
+w: binder drf verb.contact:bind drf verb.change:bind
 hyper: adhesive_material
 g: something used to bind separate particles together or facilitate adhesion to a surface
 
@@ -1772,7 +1772,7 @@ g: a heavy brittle diamagnetic trivalent metallic element (resembles arsenic and
 
 w: bister
 w: bistre
-hyper: pigment
+hyper: pigment1
 g: a water-soluble brownish-yellow pigment made by boiling wood soot
 
 w: bitartrate
@@ -1810,7 +1810,7 @@ hyper: solution
 g: a solution containing bleaching agents that is used to bleach textiles or paper pulp
 
 w: bleaching_agent
-w: bleach drf verb.change:bleach
+w: bleach drf verb.change:bleach1
 w: blanching_agent
 w: whitener drf verb.change:whiten
 hyper: agent
@@ -1834,7 +1834,7 @@ hyper: copper
 g: an impure form of copper having a black blistered surface
 
 w: blood_agar
-hyper: agar2
+hyper: agar
 g: a culture medium containing whole blood as the nutrient
 
 w: blood_sugar
@@ -1854,7 +1854,7 @@ g: absorbent paper used to dry ink
 
 w: blow_gas
 w: blowing_gas
-hyper: gas
+hyper: gas1
 g: the gas leaving a generator during a blow period
 
 w: blubber
@@ -1883,7 +1883,7 @@ hyper: dye
 g: used to whiten laundry or hair or give it a bluish tinge
 
 w: board
-w: plank drf verb.consumption:plank drf verb.contact:plank
+w: plank drf verb.consumption:plank drf verb.contact:plank1
 hyper: lumber
 g: a stout length of sawn timber; made in a wide variety of sizes and used for many purposes
 
@@ -1896,7 +1896,7 @@ hyper: waste
 g: waste matter (as urine or sweat but especially feces) discharged from the body
 
 w: bog_soil
-hyper: soil1
+hyper: soil
 g: poorly drained soils on top of peat and under marsh or swamp vegetation
 
 w: bohrium
@@ -1907,8 +1907,8 @@ hyper: chemical_element
 g: a transuranic element
 
 w: bole
-hyper: pigment
-hyper: soil1
+hyper: pigment1
+hyper: soil
 g: a soft oily clay used as a pigment (especially a reddish brown pigment)
 
 w: bond
@@ -1917,7 +1917,7 @@ hyper: writing_paper
 g: a superior quality of strong durable white writing paper; originally made for printing documents
 
 w: bone_ash
-hyper: ash1
+hyper: ash
 g: ash left when bones burn; high in calcium phosphate; used as fertilizer and in bone china
 
 w: bone_black
@@ -1931,7 +1931,7 @@ w: bone_fat
 hyper: animal_fat
 g: fatty matter in bones extracted with solvents or by boiling or steaming; used chiefly in candles and cheap soaps and in lubricating greases
 
-w: bone_oil2
+w: bone_oil
 hyper: animal_oil
 hp: bone_fat
 g: the liquid portion of bone fat; used as a lubricant and in leather manufacture
@@ -1959,12 +1959,12 @@ w: borax
 hyper: mineral
 g: an ore of boron consisting of hydrated sodium borate; used as a flux or cleansing agent
 
-w: boric_acid
+w: boric_acid1
 w: boracic_acid
 hyper: acid
 g: any of various acids containing boron and oxygen
 
-w: boric_acid1
+w: boric_acid
 w: orthoboric_acid
 hyper: acid
 g: a white or colorless slightly acid solid that is soluble in water and ethanol; used in the manufacture of glass and paper and adhesives and in detergents and as a flux in welding; also used as an antiseptic and food preservative
@@ -1979,7 +1979,7 @@ hyper: fluoride
 g: a pungent colorless gas
 
 w: boron drf adj.pert:boronic drf adj.pert:boric
-w: B
+w: B1
 w: atomic_number_5
 hyper: chemical_element
 hs: kernite
@@ -2037,7 +2037,7 @@ hyper: copper-base_alloy
 g: an alloy of copper and zinc
 
 w: breath
-hyper: air
+hyper: air1
 g: the air that is inhaled and exhaled in respiration; "his sour breath offended her"
 
 w: breccia drf verb.contact:brecciate drf verb.change:brecciate
@@ -2079,7 +2079,7 @@ w: bromide
 hyper: halide
 g: any of the salts of hydrobromic acid; formerly used as a sedative but now generally replaced by safer drugs
 
-w: bromine drf adj.pert:bromic drf verb.change:brominate1 drf verb.change:brominate drf verb.change:bromate1 drf verb.change:bromate
+w: bromine drf adj.pert:bromic drf verb.change:brominate drf verb.change:brominate1 drf verb.change:bromate drf verb.change:bromate1
 w: Br
 w: atomic_number_35
 hyper: chemical_element
@@ -2151,7 +2151,7 @@ w: buffer_solution
 hyper: solution
 g: a solution containing a buffer
 
-w: builder drf verb.change:build2
+w: builder drf verb.change:build
 w: detergent_builder
 hyper: material
 g: a substance added to soaps or detergents to increase their cleansing action
@@ -2162,7 +2162,7 @@ g: material used for constructing buildings
 
 w: buna
 w: buna_rubber
-hyper: rubber1
+hyper: rubber
 g: made by polymerizing butadiene
 
 w: buntal
@@ -2185,7 +2185,7 @@ g: a gaseous hydrocarbon C4H6; used in making synthetic rubbers
 
 w: butane
 hyper: methane_series
-hyper: gas
+hyper: gas1
 hyper: fuel
 g: occurs in natural gas; used in the manufacture of rubber and fuels
 
@@ -2212,12 +2212,12 @@ hyper: alcohol
 g: a flammable alcohol derived from butanes and used for solvents
 
 w: butyl_rubber
-hyper: rubber1
+hyper: rubber
 g: synthetic rubber made by polymerizing isobutylene
 
 w: butylene
 w: butene
-hyper: gas
+hyper: gas1
 g: any of three isomeric hydrocarbons C4H8; all used in making synthetic rubbers
 
 w: butyric_acid
@@ -2249,7 +2249,7 @@ w: arsenic_group
 hyper: group
 g: the univalent group derived from arsine
 
-w: cacodyl2 drf adj.pert:cacodylic
+w: cacodyl drf adj.pert:cacodylic
 w: tetramethyldiarsine
 hyper: organic_compound
 g: a poisonous oily liquid with a garlicky odor composed of 2 cacodyl groups; undergoes spontaneous combustion in dry air
@@ -2267,7 +2267,7 @@ hyper: sulfide
 g: a yellow sulfide used chiefly as a pigment
 
 w: cadmium_yellow
-hyper: pigment
+hyper: pigment1
 g: pigment of cadmium sulfide and barium sulfate varying in hue from lemon yellow to orange
 
 w: cadmium_yellow_pale
@@ -2290,7 +2290,7 @@ g: a bitter alkaloid found in coffee and tea that is responsible for their stimu
 
 w: cairngorm
 w: smoky_quartz
-hyper: quartz
+hyper: quartz1
 g: a smoky yellow or brown quartz
 
 w: calcite drf adj.pert:calcitic
@@ -2382,7 +2382,7 @@ w: calcium_sulfate
 hyper: salt
 g: a white salt (CaSO4)
 
-w: calcium drf verb.change:calcify2 drf verb.change:calcify1 drf verb.change:calcify
+w: calcium drf verb.change:calcify1 drf verb.change:calcify3 drf verb.change:calcify2
 w: Ca
 w: atomic_number_20
 hyper: metallic_element
@@ -2401,9 +2401,9 @@ w: caliche1
 hyper: rock
 g: nitrate-bearing rock or gravel of the sodium nitrate deposits of Chile and Peru
 
-w: caliche2
+w: caliche
 w: hardpan
-hyper: soil1
+hyper: soil
 g: crust or layer of hard subsoil encrusted with calcium-carbonate occurring in arid or semiarid regions
 
 w: californium
@@ -2415,7 +2415,7 @@ g: a radioactive transuranic element; discovered by bombarding curium with alpha
 w: calomel
 w: mercurous_chloride
 hyper: chloride
-hs: noun.artifact:blackwash1
+hs: noun.artifact:blackwash
 g: a tasteless colorless powder used medicinally as a cathartic
 
 w: camphor drf adj.pert:camphoric drf adj.pert:camphoraceous drf verb.change:camphorate
@@ -2425,7 +2425,7 @@ hs: celluloid
 g: a resin obtained from the camphor tree; used in making celluloid and liniment
 
 w: camphor_oil
-hyper: oil
+hyper: oil1
 g: oil distilled from camphor resin
 
 w: Canada_balsam
@@ -2438,8 +2438,8 @@ g: an amino acid found in the jack bean
 
 w: candelilla_wax
 hyper: wax
+hs: noun.plant:candelilla1
 hs: noun.plant:candelilla
-hs: noun.plant:candelilla2
 g: a hard brown wax that occurs as a coating on candelilla shrubs
 
 w: cane_sugar
@@ -2512,10 +2512,10 @@ g: an atom of carbon
 
 w: carbon_black
 w: lampblack
-w: soot drf adjs.all:sooty drf adjs.all:sooty drf verb.contact:soot
-w: smut drf verb.change:smut
+w: soot drf adjs.all:sooty drf adjs.all:sooty1 drf verb.contact:soot
+w: smut drf verb.change:smut1
 w: crock
-hyper: carbon
+hyper: carbon1
 g: a black colloidal substance consisting wholly or principally of amorphous carbon and used to make pigments and ink
 
 w: carbon_dioxide drf verb.change:carbonate
@@ -2541,7 +2541,7 @@ hyper: fullerene
 g: a fullerene molecule having a cylindrical or toroidal shape
 
 w: carbon_paper
-w: carbon1
+w: carbon
 hyper: paper
 g: a thin paper coated on one side with a dark waxy substance (often containing carbon); used to transfer characters from the original to an under sheet of paper
 
@@ -2562,7 +2562,7 @@ hyper: chemical
 g: compounds composed of 1 carbon and 4 halogen molecules
 
 w: carbonado
-w: black_diamond1
+w: black_diamond
 hyper: diamond
 g: an inferior dark diamond used in industry for drilling and polishing
 
@@ -2570,8 +2570,8 @@ w: carbonate drf verb.stative:carbonate drf verb.change:carbonate
 hyper: salt
 g: a salt or ester of carbonic acid (containing the anion CO3)
 
-w: carbon drf adj.pert:carbonic drf verb.stative:carbonate drf verb.change:carburize drf verb.change:carburise drf verb.change:carbonize1 drf verb.change:carbonize drf verb.change:carbonise1 drf verb.change:carbonise
-w: C
+w: carbon1 drf adj.pert:carbonic drf verb.stative:carbonate drf verb.change:carburize drf verb.change:carburise drf verb.change:carbonize drf verb.change:carbonize1 drf verb.change:carbonise drf verb.change:carbonise1
+w: C3
 w: atomic_number_6
 hyper: chemical_element
 hs: coal
@@ -2615,7 +2615,7 @@ hyper: garnet
 g: deep-red cabochon garnet cut without facets
 
 w: carcinogen drf adj.pert:carcinogenic
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: any substance that produces cancer
 
 w: card
@@ -2646,13 +2646,13 @@ w: carnotite
 hyper: uranium_ore
 g: a yellow radioactive mineral; an ore of uranium and radium and vanadium
 
-w: carotene2
+w: carotene1
 hyper: carotenoid
 g: yellow or orange-red fat-soluble pigments in plants
 
 w: carotenoid
 hyper: phytochemical
-hyper: pigment
+hyper: pigment1
 hyper: antioxidant
 g: any of a class of highly unsaturated yellow to red pigments occurring in plants and animals
 
@@ -2669,11 +2669,11 @@ w: cartridge_brass
 hyper: brass
 g: an alloy of copper and zinc (containing about 30% zinc) that is wrought into cartridges or tubing
 
-w: cartridge_paper1
+w: cartridge_paper
 hyper: drawing_paper
 g: thick white paper for pencil and ink drawings
 
-w: cartridge_paper
+w: cartridge_paper1
 hyper: paper
 g: paper for making cartridge cases
 
@@ -2745,7 +2745,7 @@ w: caulking
 hyper: sealant
 g: a waterproof filler and sealant that is used in building and repair to make watertight
 
-w: caustic drf adjs.all:caustic
+w: caustic drf adjs.all:caustic1
 hyper: compound
 g: any chemical substance that burns or destroys living tissue
 
@@ -2801,21 +2801,21 @@ w: cellulosic
 hyper: plastic
 g: a plastic made from cellulose (or a derivative of cellulose)
 
-w: cement4 drf verb.contact:cement2 drf verb.contact:cement
+w: cement drf verb.contact:cement drf verb.contact:cement1
 hyper: filling
 g: any of various materials used by dentists to fill cavities in teeth
 
-w: cement3
+w: cement1
 hyper: concrete
 g: concrete pavement is sometimes referred to as cement; "they stood on the grey cement beside the pool"
 
-w: cement drf adj.pert:cementitious drf verb.contact:cement2 drf verb.contact:cement
+w: cement2 drf adj.pert:cementitious drf verb.contact:cement drf verb.contact:cement1
 hyper: building_material
 hs: concrete
 hs: mortar
 g: a building material that is a powder made of a mixture of calcined limestone and clay; used with water and sand or gravel to make concrete and mortar
 
-w: cement1 drf adj.pert:cementitious
+w: cement3 drf adj.pert:cementitious
 hyper: adhesive_material
 g: something that hardens to act as adhesive material
 
@@ -2845,7 +2845,7 @@ hs: beeswax
 g: a white solid fatty acid found in waxes (such as beeswax)
 
 w: cerulean_blue
-hyper: pigment
+hyper: pigment1
 g: light greenish-blue pigment consisting essentially of oxides of cobalt and tin
 
 w: cerumen drf adj.pert:ceruminous
@@ -2891,7 +2891,7 @@ g: a small piece of paper that is supposed to be removed when a hole is punched 
 
 w: chaff drf adj.pert:chaffy
 w: husk drf verb.change:husk
-w: shuck drf verb.change:shuck
+w: shuck drf verb.change:shuck1
 w: stalk
 w: straw1
 w: stubble
@@ -2900,7 +2900,7 @@ g: material consisting of seed coverings and small pieces of stem or leaves that
 
 w: chalcedony
 w: calcedony
-hyper: quartz
+hyper: quartz1
 hyper: transparent_gem
 g: a milky or greyish translucent to transparent quartz
 
@@ -2916,11 +2916,11 @@ g: a yellow copper ore (CuFeS2) made up of copper and iron sulfide
 
 w: chalk drf adjs.all:chalky
 hyper: calcite
-hs: noun.artifact:chalk
+hs: noun.artifact:chalk1
 g: a soft whitish calcite
 
 w: chalk_dust
-hyper: dust
+hyper: dust2
 g: dust resulting from writing with a piece of chalk; "chalk dust covered the teacher's hands"
 
 w: chamois
@@ -2937,17 +2937,17 @@ hyper: iron_ore
 g: a greenish grey or black silicate of iron and aluminum
 
 w: char drf verb.weather:char
-hyper: carbon
+hyper: carbon1
 g: a charred substance
 
 w: charcoal
 w: wood_coal1
 hyper: fuel
-hyper: carbon
+hyper: carbon1
 g: a carbonaceous material obtained by heating wood or other organic matter in the absence of air
 
 w: chaulmoogra_oil
-hyper: oil
+hyper: oil1
 g: an oil from chaulmoogra trees; used in treatment of skin diseases and leprosy
 
 w: chelate drf verb.stative:chelate
@@ -2960,21 +2960,21 @@ hyper: agent
 g: an agent that produces chemical reactions
 
 w: chemical_element
-w: element
-hyper: noun.Tops:substance
+w: element1
+hyper: noun.Tops:substance1
 g: any of the more than 100 known substances (of which 92 occur naturally) that cannot be separated into simpler substances and that singly or in combination constitute all matter
 
 w: chemical_irritant
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: a substance producing irritation
 
-w: chemical drf adj.pert:chemical1
+w: chemical drf adj.pert:chemical
 w: chemical_substance
 hyper: material
 g: material produced by or used in a reaction involving changes in atoms or molecules
 
 w: chemistry
-hyper: noun.Tops:substance
+hyper: noun.Tops:substance1
 g: the chemical composition and properties of a substance or object; "the chemistry of soil"
 
 w: cheoplastic_metal
@@ -3013,11 +3013,11 @@ w: kaolin
 w: kaoline
 w: porcelain_clay
 w: terra_alba2
-hyper: clay
+hyper: clay1
 hs: noun.artifact:Kaopectate
 g: a fine usually white clay formed by the weathering of aluminous minerals (as feldspar); used in ceramics and as an absorbent and as a filler (e.g., in paper)
 
-w: chinchilla1
+w: chinchilla
 hyper: fur
 g: the expensive silvery grey fur of the chinchilla
 
@@ -3064,7 +3064,7 @@ w: chlorine drf verb.change:chlorinate drf verb.body:chlorinate
 w: Cl
 w: atomic_number_17
 hyper: chemical_element
-hyper: gas
+hyper: gas1
 hyper: halogen
 hs: sodium_chloride
 g: a common nonmetallic element belonging to the halogens; best known as a heavy yellow irritating toxic gas; used to purify water and as a bleaching agent and disinfectant; occurs naturally only as a salt (as in sea water)
@@ -3167,11 +3167,11 @@ hyper: salt
 g: a violet-colored salt used in hide tanning and as a mordant in dyeing
 
 w: chrome_green
-hyper: pigment
+hyper: pigment1
 g: any of a class of green pigments consisting of chrome yellow and iron blue
 
 w: chrome_yellow
-hyper: pigment
+hyper: pigment1
 g: any of several yellow pigments consisting of normal lead chromate and other lead compounds
 
 w: chromic_acid
@@ -3227,7 +3227,7 @@ g: a semiliquid mass of partially digested food that passes from the stomach thr
 
 w: cigarette_paper
 w: rolling_paper
-hyper: tissue2
+hyper: tissue
 g: a strong tissue paper that burns evenly and is sufficiently porous to control the burning of the tobacco in a cigarette
 
 w: cinchonine
@@ -3259,7 +3259,7 @@ hs: noun.food:sour_salt
 g: a weak water-soluble acid found in many fruits (especially citrus fruits); used as a flavoring agent
 
 w: citrine
-hyper: quartz
+hyper: quartz1
 hyper: transparent_gem
 g: semiprecious yellow quartz resembling topaz
 
@@ -3273,11 +3273,11 @@ w: weatherboarding
 hyper: siding
 g: a long thin board with one edge thicker than the other; used as siding by lapping one board over the board below
 
-w: clay
-hyper: soil1
+w: clay1
+hyper: soil
 hs: noun.artifact:brick
 hs: tile
-hs: noun.artifact:pottery
+hs: noun.artifact:pottery1
 g: a very fine-grained soil that is plastic when moist but hard when fired
 
 w: claystone
@@ -3295,7 +3295,7 @@ hyper: essential_oil
 g: essential oil obtained from cloves and used to flavor medicines
 
 w: clunch
-hyper: soil1
+hyper: soil
 dr: noun.location:United_Kingdom
 g: hardened clay
 
@@ -3309,8 +3309,8 @@ w: CD8
 hyper: glycoprotein
 g: a membrane glycoprotein that is found primarily on the surface of cytotoxic T cells
 
-w: coagulant drf verb.change:coagulate
-w: coagulator drf verb.change:coagulate
+w: coagulant drf verb.change:coagulate1
+w: coagulator drf verb.change:coagulate1
 hyper: agent
 g: an agent that produces coagulation
 
@@ -3342,11 +3342,11 @@ g: a radioactive isotope of cobalt with mass number 60; a source of exceptionall
 
 w: cobalt_blue
 w: cobalt_ultramarine
-hyper: pigment
+hyper: pigment1
 g: greenish-blue pigment consisting essentially of cobalt oxide and alumina
 
 w: cobalt
-w: Co1
+w: Co
 w: atomic_number_27
 hyper: metallic_element
 hs: smaltite
@@ -3404,7 +3404,7 @@ hyper: fuel
 g: carbon fuel produced by distillation of coal
 
 w: cold_rubber
-hyper: rubber
+hyper: rubber1
 g: a rubber made at low temperatures (5 degrees Centigrade) which is tougher than conventional rubber and is often used in car tires
 
 w: collagenase
@@ -3426,7 +3426,7 @@ g: translucent brittle substance produced from pine oleoresin; used especially i
 w: coloring_material
 w: colouring_material
 w: color drf noun.person:colorist
-w: colour drf verb.social:colour2 drf verb.creation:colour1 drf verb.change:colour
+w: colour drf verb.social:colour drf verb.creation:colour drf verb.change:colour1
 hyper: material
 g: any material used for its color; "she used a different color for the trim"
 
@@ -3482,7 +3482,7 @@ hyper: compressed_gas
 g: air at a pressure greater than that of the atmosphere; "compressed air is often used to power machines"
 
 w: compressed_gas
-hyper: gas
+hyper: gas1
 hyper: propellant
 g: gas at a high pressure that can be used as a propellant
 
@@ -3523,7 +3523,7 @@ hyper: gum
 g: a gum resin from the poison hemlock, Conium maculatum
 
 w: conjugate_solution
-w: conjugate drf verb.change:conjugate
+w: conjugate drf verb.change:conjugate1
 hyper: solution
 g: a mixture of two partially miscible liquids A and B produces two conjugate solutions: one of A in B and another of B in A
 
@@ -3541,8 +3541,8 @@ w: construction_paper
 hyper: paper
 g: paper suitable for drawing and making cutouts
 
-w: contaminant drf verb.change:contaminate
-w: contamination drf verb.change:contaminate1 drf verb.change:contaminate
+w: contaminant drf verb.change:contaminate1
+w: contamination drf verb.change:contaminate drf verb.change:contaminate1
 hyper: material
 g: a substance that contaminates
 
@@ -3551,8 +3551,8 @@ w: contrast_material
 hyper: medium1
 g: a substance that is opaque to x-rays; when administered it allows a radiologist to examine the organ or tissue it fills
 
-w: coolant drf verb.change:cool1 drf verb.change:cool
-hyper: fluid2
+w: coolant drf verb.change:cool drf verb.change:cool2
+hyper: fluid
 hyper: agent
 g: a fluid agent (gas or liquid) that produces cooling; especially one used to cool a system by transferring heat away from one part to another; "he added more coolant to the car's radiator"; "the atomic reactor used a gas coolant"; "lathe operators use an emulsion of oil and water as a coolant for the cutting tool"
 
@@ -3623,7 +3623,7 @@ w: cordwood
 hyper: firewood
 g: firewood cut and stacked in cords; wood sold by the cord
 
-w: cork drf verb.contact:cork
+w: cork1 drf verb.contact:cork
 hyper: noun.plant:bark
 hyper: plant_material
 g: outer bark of the cork oak; used for stoppers for bottles etc.
@@ -3645,7 +3645,7 @@ w: cornflour
 hyper: starch
 g: starch prepared from the grains of corn; used in cooking as a thickener
 
-w: corrosive drf adjs.all:corrosive
+w: corrosive drf adjs.all:corrosive1
 hyper: compound
 g: a substance having the tendency to cause corrosion (such a strong acids or alkali)
 
@@ -3680,12 +3680,12 @@ w: costus_oil
 hyper: essential_oil
 g: a yellow volatile essential oil obtained from costusroot; used in perfumes
 
-w: cotton1 drf adjs.all:cottony
+w: cotton drf adjs.all:cottony
 w: cotton_fiber
-w: cotton_wool1
+w: cotton_wool
 hyper: plant_fiber
 hs: noun.artifact:padding
-hs: noun.artifact:cotton
+hs: noun.artifact:cotton1
 g: soft silky fibers from cotton plants in their raw state
 
 w: cottonseed_cake
@@ -3726,8 +3726,8 @@ hs: noun.artifact:cowhide
 g: leather made from the hide of a cow
 
 w: crap drf verb.body:crap
-w: dirt2
-w: shit drf verb.body:shit drf verb.communication:shit9
+w: dirt
+w: shit drf verb.body:shit drf verb.communication:shit
 w: shite
 w: poop
 w: turd
@@ -3767,10 +3767,10 @@ hyper: organic_compound
 g: a dark oily liquid obtained by distillation of coal tar; used as a preservative for wood
 
 w: crepe_rubber
-hyper: rubber
+hyper: rubber1
 g: crude natural rubber; used mainly for shoe soles
 
-w: crepe2 drf verb.contact:crepe
+w: crepe drf verb.contact:crepe
 w: crepe_paper
 hyper: paper
 g: paper with a crinkled texture; usually colored and used for decorations
@@ -3788,7 +3788,7 @@ w: crocolite
 hyper: mineral
 g: a rare lead chromite mineral that forms bright orange crystals
 
-w: crown_glass2
+w: crown_glass
 hyper: glass
 g: a glass blown into a globe which is later flattened and spun to form a disk
 
@@ -3796,7 +3796,7 @@ w: crucible_steel
 hyper: steel
 g: steel made by the mixture of molten wrought iron, charcoal, and other substances in a crucible
 
-w: crud1
+w: crud
 hyper: snow
 g: heavy wet snow that is unsuitable for skiing
 
@@ -3814,12 +3814,12 @@ w: Greenland_spar
 hyper: mineral
 g: a white mineral consisting of fluorides of aluminum and sodium; a source of fluorine
 
-w: crystal drf verb.change:crystallize1 drf verb.change:crystallize drf verb.change:crystalize1 drf verb.change:crystalize
-hyper: solid4
+w: crystal drf verb.change:crystallize drf verb.change:crystallize1 drf verb.change:crystalize drf verb.change:crystalize1
+hyper: solid
 g: a solid formed by the solidification of a chemical and having a highly regular atomic structure
 
 w: culture_medium
-w: medium
+w: medium2
 hyper: noun.Tops:food
 dt: noun.cognition:bacteriology
 g: (bacteriology) a nutrient substance (solid or liquid) that is used to cultivate micro-organisms
@@ -3852,7 +3852,7 @@ w: cyanic_acid
 hyper: acid
 g: a colorless poisonous volatile liquid acid that hydrolyzes readily to ammonia and carbon dioxide
 
-w: cyanide
+w: cyanide1
 hyper: salt
 g: an extremely poisonous salt of hydrocyanic acid
 
@@ -3868,7 +3868,7 @@ hyper: group
 g: the monovalent group -CN in a chemical compound
 
 w: cyanogen drf adjs.all:cyanogenic drf adjs.all:cyanogenetic
-hyper: gas
+hyper: gas1
 g: a colorless toxic gas with a pungent almond odor; has been used in chemical warfare
 
 w: cyanohydrin
@@ -3933,7 +3933,7 @@ g: a substance that partly or completely destroys animal cells
 
 w: cytosine
 w: C2
-hyper: pyrimidine1
+hyper: pyrimidine
 hs: deoxyribonucleic_acid
 hs: ribonucleic_acid
 g: a base found in DNA and RNA and derived from pyrimidine; pairs with guanine
@@ -3964,7 +3964,7 @@ g: a variety of muscovite
 
 w: dark_matter
 hyper: noun.Tops:matter
-dt: noun.cognition:cosmology
+dt: noun.cognition:cosmology1
 g: (cosmology) a hypothetical form of matter that is believed to make up 90 percent of the universe; it is invisible (does not absorb or emit light) and does not collide with atomic particles but exerts gravitational force
 
 w: darmstadtium
@@ -3974,8 +3974,8 @@ w: atomic_number_110
 hyper: chemical_element
 g: a radioactive transuranic element
 
-w: daub drf verb.contact:daub2 drf verb.contact:daub drf verb.contact:daub1
-hyper: clay
+w: daub drf verb.contact:daub1 drf verb.contact:daub2 drf verb.contact:daub
+hyper: clay1
 g: material used to daub walls
 
 w: de-iodinase
@@ -3987,10 +3987,10 @@ hyper: board
 g: a plank of softwood (fir or pine board)
 
 w: debris
-w: dust1 drf verb.contact:dust2
+w: dust drf verb.contact:dust2
 w: junk drf verb.possession:junk
 w: rubble
-w: detritus1
+w: detritus
 hyper: rubbish
 g: the remains of something that has been destroyed or broken up
 
@@ -4018,8 +4018,8 @@ w: demerara
 hyper: cane_sugar
 g: a light brown raw cane sugar from Guyana
 
-w: denaturant drf verb.change:denature2 drf verb.change:denature1
-hyper: noun.Tops:substance1
+w: denaturant drf verb.change:denature drf verb.change:denature1
+hyper: noun.Tops:substance
 g: any substance that serves as a denaturing agent
 
 w: denatured_alcohol
@@ -4055,7 +4055,7 @@ hyper: nucleoside
 g: a nucleoside component of DNA; composed of cytosine and deoxyribose
 
 w: deoxyguanosine_monophosphate
-w: G
+w: G1
 hyper: nucleotide
 g: one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)
 
@@ -4076,7 +4076,7 @@ hyper: carbohydrate
 g: a sugar that is a constituent of nucleic acids
 
 w: deoxythymidine_monophosphate
-w: T
+w: T1
 hyper: nucleotide
 g: one of the four nucleotides used in building DNA; all four nucleotides have a common phosphate group and a sugar (ribose)
 
@@ -4100,10 +4100,10 @@ g: diesel oil used in cars and lorries with diesel engines; from d(iesel) e(ngin
 
 w: desert_soil
 w: desertic_soil
-hyper: soil1
+hyper: soil
 g: a type of soil that develops in arid climates
 
-w: desiccant drf verb.change:desiccate
+w: desiccant drf verb.change:desiccate2
 w: drying_agent
 w: drier drf verb.change:dry1 drf verb.change:dry
 w: siccative
@@ -4114,7 +4114,7 @@ w: detergent drf adjs.all:detergent
 hyper: wetting_agent
 g: a surface-active chemical widely used in industry and laundering
 
-w: detritus2
+w: detritus1
 hyper: material
 g: loose material (stone fragments and silt etc) that is worn away from rocks
 
@@ -4162,15 +4162,15 @@ g: any organic compound containing two amino groups
 
 w: diamond
 w: adamant
-hyper: carbon
+hyper: carbon1
 hyper: transparent_gem
 g: very hard native crystalline carbon valued as a gem
 
 w: diatomaceous_earth
 w: diatomite
 w: kieselguhr
-hyper: earth
-hyper: noun.artifact:filter
+hyper: earth1
+hyper: noun.artifact:filter1
 g: a light soil consisting of siliceous diatom remains and often used as a filtering material
 
 w: diazonium
@@ -4219,7 +4219,7 @@ hyper: estrogen
 g: a potent estrogen used in medicine and in feed for livestock and poultry
 
 w: digestive
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: any substance that promotes digestion
 
 w: digitalis drf verb.body:digitalize
@@ -4228,13 +4228,13 @@ w: digitalin
 hyper: cardiac_glycoside
 g: a powerful cardiac stimulant obtained from foxglove
 
-w: dilutant drf verb.change:dilute
+w: dilutant drf verb.change:dilute1
 w: diluent
 w: thinner drf verb.change:thin2 drf verb.change:thin1
 hyper: agent
 g: a diluting agent
 
-w: dilution drf verb.change:dilute
+w: dilution drf verb.change:dilute1
 hyper: solution
 g: a diluted solution
 
@@ -4290,7 +4290,7 @@ hyper: material
 g: a substance that is emitted or released
 
 w: dishwater
-hyper: water
+hyper: water2
 g: water in which dishes and cooking utensils are washed
 
 w: dispersed_phase
@@ -4306,13 +4306,13 @@ hyper: noun.state:phase
 dt: colloid
 g: (of colloids) a substance in which another is colloidally dispersed
 
-w: distillate drf verb.change:distill4 drf verb.change:distill3 drf verb.change:distill2 drf verb.change:distill1
-w: distillation drf verb.change:distill3 drf verb.change:distill2 drf verb.change:distill1
-hyper: liquid4
+w: distillate drf verb.change:distill1 drf verb.change:distill drf verb.change:distill2 drf verb.change:distill3
+w: distillation drf verb.change:distill drf verb.change:distill2 drf verb.change:distill3
+hyper: liquid
 g: a purified liquid produced by condensation from a vapor during distilling; the product of distilling
 
 w: distilled_water
-hyper: water
+hyper: water2
 g: water that has been purified by distillation
 
 w: DNA_polymerase
@@ -4373,7 +4373,7 @@ hyper: paper
 g: paper that is specially prepared for use in drafting
 
 w: dressed_ore
-w: concentrate drf verb.change:concentrate1
+w: concentrate drf verb.change:concentrate3
 hyper: ore
 g: the desired mineral that is left after impurities have been removed from mined ore
 
@@ -4404,7 +4404,7 @@ hyper: fecal_matter
 g: fecal matter of animals
 
 w: dry_ice
-hyper: solid4
+hyper: solid
 g: solidified carbon dioxide; dry ice sublimates at -78.5 C and is used mainly as a refrigerant
 
 w: drying_oil
@@ -4433,11 +4433,11 @@ hyper: alloy
 du: noun.communication:trademark
 g: an aluminum-based alloy
 
-w: dust2 drf verb.contact:dust1 drf verb.contact:dust3
+w: dust1 drf verb.contact:dust1 drf verb.contact:dust
 hyper: material
 g: free microscopic particles of solid material; "astronomers say that the empty space between planets actually contains measurable amounts of dust"
 
-w: dust drf verb.contact:dust drf adjs.all:dusty
+w: dust2 drf verb.contact:dust3 drf adjs.all:dusty
 hyper: particulate
 g: fine powdery material such as dry earth or pollen that can be blown about in the air; "the furniture was covered with dust"
 
@@ -4456,24 +4456,24 @@ w: atomic_number_66
 hyper: metallic_element
 g: a trivalent metallic element of the rare earth group; forms compounds that are highly magnetic
 
-w: earth1
-hyper: element1
+w: earth
+hyper: element
 du: noun.communication:archaism
 g: once thought to be one of four elements composing the universe (Empedocles)
 
 w: earth_color
 hyper: mineral
-hyper: pigment
+hyper: pigment1
 g: a colored mineral used as a pigment
 
-w: earth drf adj.pert:earthy drf verb.contact:earth drf verb.perception:earth
+w: earth1 drf adj.pert:earthy drf verb.contact:earth drf verb.perception:earth
 w: ground
 hyper: material
 g: the loose soft material that makes up a large part of the land surface; "they dug into the earth outside the church"
 
 w: ectoplasm
 hyper: emanation
-dt: noun.cognition:spiritualism
+dt: noun.cognition:spiritualism1
 g: (spiritualism) a substance supposed to emanate from the body of the medium during a trance
 
 w: effluent
@@ -4493,7 +4493,7 @@ g: an omega-3 fatty acid with 20 carbon atoms; found in fish (especially tuna an
 
 w: einsteinium
 w: Es
-w: E
+w: E1
 w: atomic_number_99
 hyper: metallic_element
 g: a radioactive transuranic element produced by bombarding plutonium with neutrons
@@ -4511,7 +4511,7 @@ w: elastomer
 hyper: material
 g: any of various elastic materials that resemble rubber (resumes its original shape when a deforming force is removed)
 
-w: electrolyte drf adj.pert:electrolytic
+w: electrolyte drf adj.pert:electrolytic1
 hyper: solution
 g: a solution that conducts electricity; "the proper amount and distribution of electrolytes in the body is essential for health"
 
@@ -4519,8 +4519,8 @@ w: electrum
 hyper: alloy
 g: an alloy of gold and silver
 
-w: element1
-hyper: noun.Tops:substance
+w: element
+hyper: noun.Tops:substance1
 g: one of four substances thought in ancient and medieval cosmology to constitute the physical universe; "the alchemists believed that there were four elements"
 
 w: eleostearic_acid
@@ -4529,7 +4529,7 @@ hyper: unsaturated_fatty_acid
 g: a crystalline unsaturated fatty acid
 
 w: elixir
-hyper: liquid
+hyper: liquid1
 g: a sweet flavored liquid (usually containing a small amount of alcohol) used in compounding medicines to be taken by mouth in order to mask an unpleasant taste
 
 w: eluate
@@ -4568,11 +4568,11 @@ w: emmenagogue
 hyper: agent
 g: any agent that promotes menstrual discharge
 
-w: emulsifier drf verb.change:emulsify1 drf verb.change:emulsify
+w: emulsifier drf verb.change:emulsify drf verb.change:emulsify1
 hyper: wetting_agent
 g: a surface-active agent that promotes the formation of an emulsion
 
-w: emulsion drf verb.change:emulsify1 drf verb.change:emulsify
+w: emulsion drf verb.change:emulsify drf verb.change:emulsify1
 hyper: colloid
 dt: noun.cognition:chemistry
 g: (chemistry) a colloid in which both phases are liquids; "an oil-in-water emulsion"
@@ -4691,7 +4691,7 @@ hyper: glycoprotein
 g: a glycoprotein secreted by the kidneys that stimulates the production of red blood cells
 
 w: essence drf adj.pert:essential
-hyper: noun.Tops:substance
+hyper: noun.Tops:substance1
 g: any substance possessing to a high degree the predominant properties of a plant or drug or other natural product from which it is extracted
 
 w: essential_amino_acid
@@ -4700,7 +4700,7 @@ g: an amino acid that is required by animals but that they cannot synthesize; mu
 
 w: essential_oil
 w: volatile_oil
-hyper: oil
+hyper: oil1
 g: an oil having the odor or flavor of the plant from which it comes; used in perfume and flavorings
 
 w: ester drf verb.change:esterify
@@ -4742,7 +4742,7 @@ hyper: methane_series
 hyper: hydrocarbon
 g: a colorless odorless alkane gas used as fuel
 
-w: ether drf adj.pert:ethereal
+w: ether1 drf adj.pert:ethereal
 hyper: organic_compound
 g: any of a class of organic compounds that have two hydrocarbon groups linked by an oxygen atom
 
@@ -4761,7 +4761,7 @@ hs: gasohol
 g: the intoxicating agent in fermented and distilled liquors; used pure or denatured as a solvent or in medicines and colognes and cleaning solutions and rocket fuel; proposed as a renewable clean-burning additive to gasoline
 
 w: ethylene_glycol
-w: glycol2
+w: glycol
 w: ethanediol
 hyper: antifreeze
 g: a sweet but poisonous syrupy liquid used as an antifreeze and solvent
@@ -4774,7 +4774,7 @@ g: a complex molecule used medically to chelate metal ions in cases of lead or h
 w: ethylene
 w: ethene
 hyper: alkene
-hyper: gas
+hyper: gas1
 g: a flammable colorless gaseous alkene; obtained from petroleum and natural gas and used in manufacturing many other chemicals; sometimes used as an anesthetic
 
 w: ethyl
@@ -4820,7 +4820,7 @@ g: thin curly wood shavings used for packing or stuffing
 w: exhaust
 w: exhaust_fumes
 w: fumes
-hyper: gas
+hyper: gas1
 hyper: waste
 g: gases ejected from an engine as waste products
 
@@ -4842,7 +4842,7 @@ hyper: toxin
 g: a toxin that is secreted by microorganisms into the surrounding medium
 
 w: extravasation drf verb.contact:extravasate
-hyper: liquid
+hyper: liquid1
 g: an extravasated liquid (blood or lymph or urine); the product of extravasation
 
 w: exudate drf verb.body:exudate drf verb.body:exude
@@ -4851,15 +4851,15 @@ hyper: discharge
 g: a substance that oozes out from plant pores
 
 w: facial_tissue
-hyper: tissue2
+hyper: tissue
 g: tissue paper suitable for use on the face
 
 w: fallout
 w: radioactive_dust
-hyper: dust
+hyper: dust2
 g: the radioactive particles that settle to the ground after a nuclear explosion
 
-w: fat drf adj.all:fat2
+w: fat drf adj.all:fat
 hyper: lipid
 hs: noun.body:fat_cell
 g: a soft greasy substance occurring in organic tissue and consisting of a mixture of lipids (mostly triglycerides); "pizza has too much fat"
@@ -4877,7 +4877,7 @@ w: faecal_matter
 w: feces drf adj.pert:faecal
 w: faeces drf adj.pert:fecal
 w: BM
-w: stool drf verb.body:stool
+w: stool drf verb.body:stool1
 w: ordure
 w: dejection
 hyper: body_waste
@@ -4909,8 +4909,8 @@ w: fergusonite
 hyper: mineral
 g: a dark mineral consisting of oxides of yttrium and erbium and tantalum and other minerals
 
-w: ferment drf verb.change:ferment1 drf verb.change:ferment
-hyper: noun.Tops:substance1
+w: ferment drf verb.change:ferment drf verb.change:ferment1
+hyper: noun.Tops:substance
 g: a substance capable of bringing about fermentation
 
 w: fermium
@@ -4954,7 +4954,7 @@ w: ferrocyanide
 hyper: salt
 g: salt of ferrocyanic acid usually obtained by a reaction of a cyanide with iron sulphate
 
-w: fertilizer drf verb.change:fertilize1 drf verb.change:fertilize
+w: fertilizer drf verb.change:fertilize drf verb.change:fertilize1
 w: fertiliser
 w: plant_food
 hyper: chemical
@@ -4965,7 +4965,7 @@ w: foetoprotein
 hyper: antigen
 g: any of several antigens that occur naturally in the fetus and sometimes in adults with cancer
 
-w: fiber drf adjs.all:fibrous2
+w: fiber drf adjs.all:fibrous
 w: fibre
 hyper: material
 g: a slender and greatly elongated substance capable of being spun into yarn
@@ -5012,7 +5012,7 @@ hyper: sealing_material
 g: used for filling cracks or holes in a surface
 
 w: filling
-w: fill drf verb.change:fill2 drf verb.change:fill1 drf verb.change:fill
+w: fill drf verb.change:fill2 drf verb.change:fill drf verb.change:fill1
 hyper: material
 g: any material that fills a space or container; "there was not enough fill for the trench"
 
@@ -5021,22 +5021,22 @@ hyper: paper
 g: a porous unsized paper used for filtering
 
 w: filth
-w: crud
+w: crud1
 w: skank drf adjs.all:skanky
 hyper: waste
 g: any substance considered disgustingly foul or unpleasant
 
 w: filtrate drf verb.contact:filter drf verb.contact:filtrate
 hyper: product
-hyper: fluid2
+hyper: fluid
 g: the product of filtration; a gas or liquid that has been passed through a filter
 
-w: fire1
-hyper: element1
+w: fire
+hyper: element
 du: noun.communication:archaism
 g: once thought to be one of four elements composing the universe (Empedocles)
 
-w: fire
+w: fire1
 hyper: fuel
 g: fuel that is burning and is used as a means for cooking; "put the kettle on the fire"; "barbecue over an open fire"
 
@@ -5046,20 +5046,20 @@ hyper: opal
 g: an opal with flaming orange and yellow and red colors
 
 w: fireclay
-hyper: clay
+hyper: clay1
 hs: noun.artifact:firebrick
 hs: noun.artifact:furnace_lining
 g: a heat-resistant clay
 
 w: firedamp
-hyper: gas
+hyper: gas1
 g: a mixture of gases (mostly methane) that form in coal mines and become explosive when mixed with air
 
 w: firelighter
 hyper: igniter
 g: (a piece of) a substance that burns easily and can be used to start a coal or coke fire
 
-w: firestone1
+w: firestone
 hyper: flint
 g: a piece of flint that is struck to light a fire
 
@@ -5088,7 +5088,7 @@ g: a compound (such as ethanol or formaldehyde) that fixes tissues and cells for
 
 w: fixed_oil
 w: fatty_oil
-hyper: oil
+hyper: oil1
 g: nonvolatile animal or plant oil
 
 w: fixing_agent
@@ -5107,12 +5107,12 @@ g: a colorless crystalline compound that is part of a number of white or yellow 
 
 w: flavonoid
 hyper: phytochemical
-hyper: pigment
+hyper: pigment1
 g: any of a large class of plant pigments having a chemical structure based on or similar to flavone
 
 w: flax
 hyper: plant_fiber
-hs: noun.artifact:linen1
+hs: noun.artifact:linen
 g: fiber of the flax plant that is made into thread and woven into linen fabric
 
 w: fleece drf verb.contact:fleece
@@ -5144,11 +5144,11 @@ w: fluff drf adjs.all:fluffy
 hyper: material
 g: any light downy material
 
-w: fluid2 drf adjs.all:fluid
-hyper: noun.Tops:substance
+w: fluid drf adjs.all:fluid
+hyper: noun.Tops:substance1
 g: a substance that is fluid at room temperature and pressure
 
-w: fluid drf adjs.all:fluid
+w: fluid1 drf adjs.all:fluid
 hyper: noun.Tops:matter
 g: continuous amorphous matter that tends to flow and to conform to the outline of its container: a liquid or a gas
 
@@ -5178,7 +5178,7 @@ w: fluorine
 w: F
 w: atomic_number_9
 hyper: chemical_element
-hyper: gas
+hyper: gas1
 hyper: halogen
 hs: fluorite
 hs: fluorapatite
@@ -5226,12 +5226,12 @@ w: hydrofluosilicic_acid
 hyper: acid
 g: an unstable poisonous corrosive acid known primarily in the form of its salts
 
-w: flux drf verb.change:flux
+w: flux drf verb.change:flux1
 hyper: chemical
 g: a substance added to molten metals to bond with impurities that can then be readily removed
 
 w: fly_ash
-hyper: ash1
+hyper: ash
 g: fine solid particles of ash that are carried into the air when fuel is combusted
 
 w: flypaper
@@ -5247,7 +5247,7 @@ hyper: material
 g: a lightweight material in cellular form; made by introducing gas bubbles during manufacture
 
 w: foam_rubber
-hyper: rubber
+hyper: rubber1
 hyper: foam
 g: spongy rubber; made by introducing air bubbles before vulcanization and used for cushioning or upholstery
 
@@ -5257,14 +5257,14 @@ hyper: noun.body:gonadotropin
 g: a gonadotropic hormone that is secreted by the anterior pituitary and stimulates growth of Graafian follicles in female mammals, and activates the cells in male mammals that form sperm
 
 w: fomentation
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 hs: noun.artifact:compress
 g: a substance used as a warm moist medicinal compress or poultice
 
 w: formaldehyde
 w: methanal
 hyper: aldehyde
-hyper: gas
+hyper: gas1
 g: a colorless poisonous gas; made by the oxidation of methanol
 
 w: formalin
@@ -5276,7 +5276,7 @@ w: formic_acid
 hyper: acid
 g: a colorless pungent fuming vesicatory liquid acid HCOOH found naturally in ants and many plants or made catalytically from carbon monoxide and steam; used in finishing textiles and paper and in the manufacture of insecticides and fumigants
 
-w: formulation drf verb.creation:formulate1
+w: formulation drf verb.creation:formulate
 w: preparation
 hyper: compound
 g: a substance prepared according to a formula; "the physician prescribed a commercial preparation of the medicine"
@@ -5294,7 +5294,7 @@ w: fox drf verb.change:fox
 hyper: fur
 g: the grey or reddish-brown fur of a fox
 
-w: fraction drf verb.contact:fractionate
+w: fraction drf verb.contact:fractionate1
 hyper: chemical
 g: a component of a mixture that has been separated by a fractional process
 
@@ -5312,7 +5312,7 @@ hyper: gum
 g: an aromatic gum resin obtained from various Arabian or East African trees; formerly valued for worship and for embalming and fumigation
 
 w: free_radical
-w: radical2
+w: radical
 hyper: atom
 g: an atom or group of atoms with at least one unpaired electron; in the body it is usually an oxygen molecule that has lost an electron and will stabilize itself by stealing an electron from a nearby molecule; "in the body free radicals are high-energy particles that ricochet wildly and damage cells"
 
@@ -5337,10 +5337,10 @@ g: any one or more chlorofluorocarbons (or related compounds) that are used as a
 
 w: fresh_water ant saltwater
 w: freshwater
-hyper: water
+hyper: water2
 g: water that is not salty
 
-w: frost drf adjs.all:frosty2 drf verb.contact:frost4
+w: frost drf adjs.all:frosty1 drf verb.contact:frost2
 w: hoar
 w: hoarfrost
 w: rime
@@ -5354,22 +5354,22 @@ w: laevulose
 hyper: ketohexose
 g: a simple sugar found in honey and in many ripe fruits
 
-w: fuel drf verb.possession:fuel3 drf verb.possession:fuel1 drf verb.possession:fuel
-hyper: noun.Tops:substance1
+w: fuel drf verb.possession:fuel2 drf verb.possession:fuel drf verb.possession:fuel1
+hyper: noun.Tops:substance
 g: a substance that can be consumed to produce energy; "more fuel is needed during the winter months"; "they developed alternative fuels for aircraft"
 
 w: fuel_oil
 w: heating_oil
-hyper: oil
+hyper: oil1
 hyper: fuel
 g: a petroleum product used for fuel
 
 w: fuller's_earth
-hyper: soil1
+hyper: soil
 g: an absorbent soil resembling clay; used in fulling (shrinking and thickening) woolen cloth and as an adsorbent
 
 w: fullerene
-hyper: carbon
+hyper: carbon1
 dt: noun.cognition:chemistry
 g: a form of carbon having a large molecule consisting of an empty cage of sixty or more carbon atoms
 
@@ -5411,7 +5411,7 @@ hyper: animal_skin
 g: the dressed hairy coat of a mammal
 
 w: fusel_oil
-hyper: oil
+hyper: oil1
 g: a mixture of amyl alcohols and propanol and butanol formed from distillation of fermented liquors
 
 w: fusible_metal
@@ -5526,8 +5526,8 @@ w: garnierite
 hyper: mineral
 g: a green mineral consisting of hydrated nickel magnesium silicate; a source of nickel
 
-w: gas drf adj.all:gaseous drf verb.change:gasify
-hyper: fluid
+w: gas1 drf adj.all:gaseous drf verb.change:gasify
+hyper: fluid1
 g: a fluid in the gaseous state having neither independent shape nor volume and being able to expand indefinitely
 
 w: gas_oil
@@ -5549,7 +5549,7 @@ hyper: hydrocarbon
 hs: gasohol
 g: a volatile flammable mixture of hydrocarbons (hexane and heptane and octane etc.) derived from petroleum; used mainly as a fuel in internal-combustion engines
 
-w: gelatin drf adjs.all:gelatinous drf verb.change:gelatinize2 drf verb.change:gelatinize1 drf verb.change:gelatinize
+w: gelatin drf adjs.all:gelatinous drf verb.change:gelatinize drf verb.change:gelatinize2 drf verb.change:gelatinize1
 w: gelatine drf adjs.all:gelatinous
 hyper: scleroprotein
 g: a colorless water-soluble glutinous protein obtained from animal tissues such as bone and skin
@@ -5561,7 +5561,7 @@ g: a colloid in a more solid form than a sol
 
 w: gem
 w: gemstone
-w: stone1
+w: stone
 hyper: crystal
 hp: noun.artifact:jewelry
 g: a crystalline rock that can be cut and polished for jewelry; "he had the gem set in a ring for his wife"; "she had jewels made of all the rarest stones"
@@ -5623,7 +5623,7 @@ hyper: brass
 g: a brass that is rich in copper; used to make articles that were to be gilded
 
 w: gilgai_soil
-hyper: soil1
+hyper: soil
 dr: noun.location:Australia
 g: soil in the melon holes of Australia
 
@@ -5633,15 +5633,15 @@ hs: noun.plant:ginger
 g: derived from ginger; source of the hotness of ginger
 
 w: glass drf adjs.all:glassy drf verb.contact:glass drf verb.possession:glass
-hyper: solid4
+hyper: solid
 hs: noun.artifact:glassware
-hp: noun.artifact:glass
+hp: noun.artifact:glass3
 hs: noun.artifact:plate_glass
 g: a brittle transparent solid with irregular atomic structure
 
 w: glass_wool
 hyper: insulator
-hyper: noun.artifact:filter
+hyper: noun.artifact:filter1
 g: glass fibers spun and massed into bundles resembling wool
 
 w: Glauber's_salt
@@ -5693,9 +5693,9 @@ hyper: glycoside
 g: a glycoside derived from glucose
 
 w: glue drf adjs.all:gluey drf verb.change:glue drf verb.contact:glue
-w: gum1 drf adjs.all:gummy drf verb.contact:gum
+w: gum1 drf adjs.all:gummy1 drf verb.contact:gum
 w: mucilage1 drf adjs.all:mucilaginous
-hyper: cement1
+hyper: cement3
 g: cement consisting of a sticky substance that is used as an adhesive
 
 w: glutamate
@@ -5854,7 +5854,7 @@ w: Gram's_solution
 hyper: solution
 g: a solution used in staining bacteria by Gram's method; consists of one part iodine and two parts potassium iodide and 300 parts water
 
-w: granite drf adjs.all:granitic
+w: granite drf adjs.all:granitic1
 hyper: batholith
 g: plutonic igneous rock having visibly crystalline texture; generally composed of feldspar and mica and quartz
 
@@ -5870,7 +5870,7 @@ g: paper that has lines to permit drawing graphs
 w: graphite
 w: black_lead
 w: plumbago
-hyper: carbon
+hyper: carbon1
 g: used as a lubricant and as a moderator in nuclear reactors
 
 w: gravel drf verb.contact:gravel drf adjs.all:gravelly
@@ -5878,9 +5878,9 @@ w: crushed_rock
 hyper: rock
 g: rock fragments and pebbles
 
-w: grease drf adjs.all:greasy drf verb.contact:grease
+w: grease drf adjs.all:greasy1 drf verb.contact:grease
 w: lubricating_oil
-hyper: oil
+hyper: oil1
 g: a thick fatty oil (especially one used to lubricate machinery)
 
 w: greaseproof_paper
@@ -5907,7 +5907,7 @@ g: a growing crop that is plowed under to enrich soil
 
 w: greenhouse_gas
 w: greenhouse_emission
-hyper: gas
+hyper: gas1
 g: a gas that contributes to the greenhouse effect by absorbing infrared radiation
 
 w: greenockite
@@ -5927,24 +5927,24 @@ w: grid_metal
 hyper: hard_lead
 g: a kind of hard lead that is used for grids in storage batteries
 
-w: grit drf adjs.all:gritty drf verb.contact:grit1
+w: grit drf adjs.all:gritty drf verb.contact:grit
 w: gritrock
 w: gritstone
 hyper: sandstone
 g: a hard coarse-grained siliceous sandstone
 
-w: ground_glass1
+w: ground_glass
 hyper: glass
 g: particulate glass made by grinding and used as an abrasive
 
-w: ground_glass
+w: ground_glass1
 hyper: glass
 g: glass that diffuses light due to a rough surface produced by abrasion or etching
 
 w: ground_water
 w: spring_water
 w: well_water
-hyper: water
+hyper: water2
 g: underground water that is held in the soil and in pervious rocks
 
 w: groundmass
@@ -5954,7 +5954,7 @@ dt: noun.cognition:geology
 g: (geology) the matrix of fine-grained crystalline material in which larger crystals are embedded
 
 w: group
-w: radical
+w: radical1
 w: chemical_group
 hyper: noun.object:unit
 hp: molecule
@@ -5962,7 +5962,7 @@ dt: noun.cognition:chemistry
 g: (chemistry) two or more atoms bound together as a single unit and forming part of a molecule
 
 w: grout drf verb.contact:grout
-hyper: plaster
+hyper: plaster1
 g: a thin mortar that can be poured and used to fill cracks in masonry or brickwork
 
 w: growth_factor
@@ -5975,12 +5975,12 @@ hyper: releasing_factor
 g: a releasing factor that accelerates the secretion of growth hormone by the anterior pituitary body
 
 w: grume drf adjs.all:grumous
-hyper: liquid4
+hyper: liquid
 g: a thick viscous liquid
 
 w: guanine
-w: G1
-hyper: purine1
+w: G
+hyper: purine
 hs: deoxyribonucleic_acid
 hs: ribonucleic_acid
 g: a purine base found in DNA and RNA; pairs with cytosine
@@ -6025,7 +6025,7 @@ g: a mixture of resin and gum
 
 w: gumbo
 w: gumbo_soil
-hyper: soil1
+hyper: soil
 g: any of various fine-grained silty soils that become waxy and very sticky mud when saturated with water
 
 w: gummite
@@ -6041,7 +6041,7 @@ hyper: bronze
 g: a type of bronze used for parts subject to wear or corrosion (especially corrosion by sea water)
 
 w: gunpowder
-w: powder1
+w: powder
 hyper: noun.artifact:explosive
 g: a mixture of potassium nitrate, charcoal, and sulfur in a 75:15:10 ratio which is used in gunnery, time fuses, and fireworks
 
@@ -6095,7 +6095,7 @@ hyper: halitus
 g: offensive breath
 
 w: halitus
-w: exhalation drf verb.body:exhale1 drf verb.body:exhale
+w: exhalation drf verb.body:exhale drf verb.body:exhale1
 hyper: breath
 g: exhaled breath
 
@@ -6136,7 +6136,7 @@ g: a lead alloy that contains about 5% antimony
 w: hard_rubber
 w: vulcanite
 w: ebonite
-hyper: rubber
+hyper: rubber1
 g: a hard nonresilient rubber formed by vulcanizing natural rubber
 
 w: hard_solder
@@ -6148,11 +6148,11 @@ hyper: steel
 g: steel with more than 0.3% carbon
 
 w: hard_water ant soft_water
-hyper: water
+hyper: water2
 g: water that contains mineral salts (as calcium and magnesium ions) that limit the formation of lather with soap
 
 w: hardtack
-hyper: noun.plant:mahogany
+hyper: noun.plant:mahogany1
 g: a mountain mahogany
 
 w: hardwood
@@ -6201,7 +6201,7 @@ hyper: moderator
 g: water containing a substantial proportion of deuterium atoms, used in nuclear reactors
 
 w: helium_group
-hyper: noun.group:series
+hyper: noun.group:series1
 g: the series of inert gases
 
 w: helium
@@ -6226,7 +6226,7 @@ w: haem
 w: hematin
 w: haemitin
 w: protoheme
-hyper: pigment
+hyper: pigment1
 hs: hemoglobin
 hs: myoglobin
 hs: cytochrome
@@ -6272,12 +6272,12 @@ g: a conjugated protein linked to a compound of iron and porphyrin
 
 w: hemosiderin
 w: haemosiderin
-hyper: pigment
+hyper: pigment1
 g: a granular brown substance composed of ferric oxide; left from the breakdown of hemoglobin; can be a sign of disturbed iron metabolism
 
 w: hemp
 hyper: plant_fiber
-hs: noun.artifact:canvas
+hs: noun.artifact:canvas4
 hs: noun.artifact:rope
 g: a plant fiber
 
@@ -6397,7 +6397,7 @@ hs: gadolinite
 g: a trivalent metallic element of the rare earth group; occurs together with yttrium; forms highly magnetic compounds
 
 w: holy_water
-hyper: water
+hyper: water2
 g: water that has been blessed by a priest for use in symbolic purification
 
 w: homogenate
@@ -6405,10 +6405,10 @@ hyper: material
 g: material that has been homogenized (especially tissue that has been ground and mixed); "liver homogenate"
 
 w: Hooker's_green
-hyper: pigment
+hyper: pigment1
 g: green pigment consisting of Prussian blue mixed with gamboge
 
-w: horn drf adjs.all:horny
+w: horn drf adjs.all:horny2
 hyper: animal_material
 g: the material (mostly keratin) that covers the horns of ungulates and forms hooves and claws and nails
 
@@ -6426,7 +6426,7 @@ w: horse_manure
 hyper: manure
 g: horse excreta used as fertilizer
 
-w: horsehair1
+w: horsehair
 hyper: animal_fiber
 g: hair taken from the mane or tail of a horse
 
@@ -6439,7 +6439,7 @@ hyper: peroxidase
 g: an enzyme used in immunohistochemistry to label antigens and their antibodies
 
 w: hot_air
-hyper: air
+hyper: air1
 g: air that has been heated and tends to rise
 
 w: hudson_seal
@@ -6461,7 +6461,7 @@ hyper: material
 g: material that is high in humic acids
 
 w: humectant
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: any substance that is added to another substance to keep it moist
 
 w: humic_acid
@@ -6482,7 +6482,7 @@ hyper: humic_substance
 g: a black humic substance that is not soluble in water
 
 w: humus drf adj.pert:humic
-hyper: soil1
+hyper: soil
 hs: noun.location:A-horizon
 g: partially decomposed organic matter; the organic component of soil
 
@@ -6508,13 +6508,13 @@ w: Hyazyme du noun.communication:trade_name
 hyper: enzyme
 g: an enzyme (trade name Hyazyme) that splits hyaluronic acid and so lowers its viscosity and increases the permeability of connective tissue and the absorption of fluids
 
-w: hydrate drf verb.change:hydrate
+w: hydrate drf verb.change:hydrate2
 hyper: compound
 g: any compound that contains water of crystallization
 
 w: hydraulic_cement
 w: Portland_cement
-hyper: cement
+hyper: cement2
 g: a cement that hardens under water; made by heating limestone and clay in a kiln and pulverizing the result
 
 w: hydrazine
@@ -6530,7 +6530,7 @@ g: the bivalent group -HNNH- derived from hydrazine
 w: hydrazoic_acid
 w: azoimide
 w: hydrogen_azide
-w: HN3
+w: HN
 hyper: hydride
 hyper: noun.artifact:explosive
 g: a colorless explosive liquid that is volatile and poisonous and foul-smelling
@@ -6571,7 +6571,7 @@ hyper: chlorofluorocarbon
 g: a fluorocarbon that is replacing chlorofluorocarbon as a refrigerant and propellant in aerosol cans; considered to be somewhat less destructive to the atmosphere
 
 w: hydrocolloid
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: a substance that forms a gel with water
 
 w: hydrocortisone
@@ -6625,7 +6625,7 @@ hyper: iodide
 g: a colorless gas that yields hydroiodic acid in aqueous solution
 
 w: hydrogen_peroxide
-w: peroxide drf verb.change:peroxide
+w: peroxide1 drf verb.change:peroxide
 hyper: oxidant
 g: a viscous liquid with strong oxidizing properties; a powerful bleaching agent; also used (in aqueous solutions) as a mild disinfectant and (in strong concentrations) as an oxidant in rocket fuels
 
@@ -6637,8 +6637,8 @@ w: hydrogen drf verb.change:hydrogenate
 w: H
 w: atomic_number_1
 hyper: chemical_element
-hyper: gas
-hs: water
+hyper: gas1
+hs: water2
 g: a nonmetallic univalent element that is normally a colorless and odorless highly flammable diatomic gas; the simplest and lightest and most abundant element in the universe
 
 w: hydroiodic_acid
@@ -6739,7 +6739,7 @@ w: Iceland_spar
 hyper: calcite
 g: a transparent calcite found in Iceland and used in polarizing microscopes
 
-w: ice drf verb.change:ice
+w: ice drf verb.change:ice1
 w: water_ice
 hyper: crystal
 hs: noun.object:glacier
@@ -6747,7 +6747,7 @@ hs: noun.artifact:ice_cube
 g: water frozen in the solid state; "Americans like ice in their drinks"
 
 w: ichor
-hyper: fluid2
+hyper: fluid
 dt: noun.group:Greek_mythology
 g: (Greek mythology) the rarified fluid said to flow in the veins of the Gods
 
@@ -6757,7 +6757,7 @@ g: ice resembling a pendent spear, formed by the freezing of dripping water
 
 w: ideal_gas
 w: perfect_gas
-hyper: gas
+hyper: gas1
 g: a hypothetical gas with molecules of negligible size that exert no intermolecular forces
 
 w: identification_particle
@@ -6768,13 +6768,13 @@ w: igneous_rock
 hyper: rock
 g: rock formed by the solidification of molten magma
 
-w: igniter drf verb.weather:ignite
-w: ignitor drf verb.weather:ignite
+w: igniter drf verb.weather:ignite1
+w: ignitor drf verb.weather:ignite1
 w: lighter drf verb.weather:light
 hyper: fuel
 g: a substance used to ignite or kindle a fire
 
-w: illuminant drf verb.change:illuminate3
+w: illuminant drf verb.change:illuminate
 hyper: fuel
 g: something that can serve as a source of light
 
@@ -6785,7 +6785,7 @@ g: a weakly magnetic black mineral found in metamorphic and plutonic rocks; an i
 w: imidazole
 w: iminazole
 w: glyoxaline
-hyper: base
+hyper: base1
 g: an organic base C3H4N2; a histamine inhibitor
 
 w: imide
@@ -6830,7 +6830,7 @@ w: impregnation
 hyper: material
 g: material with which something is impregnated; "the impregnation, whatever it was, had turned the rock blue"
 
-w: impurity drf adj.all:impure2
+w: impurity drf adj.all:impure
 w: dross1
 hyper: waste
 g: worthless or dangerous material that should be removed; "there were impurities in the water"
@@ -6845,7 +6845,7 @@ du: noun.communication:trademark
 g: a nickel-base alloy with chromium and iron; used in gas-turbine blades
 
 w: indelible_ink
-hyper: ink1
+hyper: ink
 g: ink that cannot be erased or washed away
 
 w: indene
@@ -6854,19 +6854,19 @@ g: a colorless liquid hydrocarbon extracted from petroleum or coal tar and used 
 
 w: India_ink
 w: drawing_ink
-hyper: ink1
+hyper: ink
 g: a black liquid ink used for printing or writing or drawing
 
 w: india_paper
 hyper: paper
 g: a thin tough opaque paper used in fine books
 
-w: Indian_red1
-hyper: pigment
+w: Indian_red
+hyper: pigment1
 g: a red pigment composed in part from ferric oxide which is often used in paints and cosmetics
 
-w: Indian_red
-hyper: soil1
+w: Indian_red1
+hyper: soil
 g: a red soil containing ferric oxide; often used as a pigment
 
 w: indicator
@@ -6895,7 +6895,7 @@ hyper: agent
 g: an agent capable of activating specific genes
 
 w: indurated_clay
-hyper: soil1
+hyper: soil
 g: hardened clay
 
 w: infliximab
@@ -6904,7 +6904,7 @@ hyper: monoclonal_antibody
 g: a monoclonal antibody (trade name Remicade) used to treat Crohn's disease and rheumatoid arthritis; administered by infusion; use and dosage must be determined by a physician
 
 w: infusion
-w: extract drf verb.contact:extract5
+w: extract drf verb.contact:extract1
 hyper: solution
 g: a solution obtained by steeping or soaking a substance (usually in water)
 
@@ -6913,25 +6913,25 @@ hyper: iron
 g: iron of high purity
 
 w: inhalant drf verb.body:inhale drf verb.consumption:inhale
-hyper: gas
+hyper: gas1
 g: something that is inhaled
 
-w: inhibitor drf verb.change:inhibit1 ant activator
-hyper: noun.Tops:substance1
+w: inhibitor drf verb.change:inhibit ant activator
+hyper: noun.Tops:substance
 g: a substance that retards or stops an activity
 
 w: injection
-w: injectant drf verb.consumption:inject1 drf verb.body:inject
+w: injectant drf verb.consumption:inject drf verb.body:inject
 hyper: solution
 g: any solution that is injected (as into the skin)
 
-w: ink1 drf adjs.all:inky drf verb.change:ink
-hyper: liquid4
+w: ink drf adjs.all:inky drf verb.change:ink1
+hyper: liquid
 g: a liquid used for printing or writing or drawing
 
 w: inoculant drf verb.body:inoculate
 w: inoculum
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 dt: noun.animal:virus
 g: a substance (a virus or toxin or immune serum) that is introduced into the body to produce or increase immunity to a particular disease
 
@@ -6955,20 +6955,20 @@ g: a chemical used to kill insects
 w: insectifuge
 w: insect_repellent
 w: insect_repellant
-hyper: repellent
+hyper: repellent1
 g: a chemical substance that repels insects
 
-w: instillation drf verb.contact:instill1
-hyper: liquid
+w: instillation drf verb.contact:instill
+hyper: liquid1
 g: a liquid that is instilled drop by drop
 
 w: insulating_material
-w: insulant drf verb.change:insulate1
-w: insulation drf verb.change:insulate1
+w: insulant drf verb.change:insulate
+w: insulation drf verb.change:insulate
 hyper: building_material
 g: a material that reduces or prevents the transmission of heat or sound or electricity
 
-w: insulator drf verb.change:insulate1 ant conductor
+w: insulator drf verb.change:insulate ant conductor
 w: dielectric
 w: nonconductor
 hyper: material
@@ -7076,10 +7076,10 @@ g: a heavy brittle metallic element of the platinum group; used in alloys; occur
 
 w: iron_blue1
 w: Prussian_blue
-hyper: pigment
+hyper: pigment1
 g: any of various blue pigments
 
-w: iron_blue2
+w: iron_blue
 w: steel_grey
 w: steel_gray
 w: Davy's_grey
@@ -7100,7 +7100,7 @@ hyper: perchloride
 g: a highly toxic chemical used to engrave metal plates and electronic circuits
 
 w: iron_putty
-hyper: cement1
+hyper: cement3
 g: a cement resembling putty; made by mixing ferric oxide and boiled linseed oil; is acid resistant
 
 w: iron
@@ -7156,9 +7156,9 @@ g: alcohol used as antifreeze or a solvent
 
 w: isothiocyanate
 hyper: chemical_irritant
-hs: noun.plant:radish
-hs: noun.plant:horseradish1
-hs: noun.plant:onion
+hs: noun.plant:radish2
+hs: noun.plant:horseradish
+hs: noun.plant:onion1
 hs: noun.plant:mustard
 hs: noun.food:mustard
 g: a family of compounds derived from horseradish and radishes and onions and mustards; source of the hotness of those plants and preparations
@@ -7177,7 +7177,7 @@ hyper: acid
 g: a crystalline carboxylic acid; occurs in some fermentations of sugars
 
 w: ivory_black
-hyper: pigment
+hyper: pigment1
 g: a black pigment made from grinding burnt ivory in oil
 
 w: ivory
@@ -7199,7 +7199,7 @@ w: jaggery
 w: jagghery
 w: jaggary
 hyper: carbohydrate
-hs: noun.plant:sago_palm2
+hs: noun.plant:sago_palm1
 hs: noun.plant:sugar_palm
 g: unrefined brown sugar made from palm sap
 
@@ -7224,7 +7224,7 @@ hyper: sodium_hypochlorite
 g: an aqueous solution of sodium hypochlorite
 
 w: jelly drf verb.change:jelly drf verb.change:jellify1 drf verb.change:jellify
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: any substance having the consistency of jelly or gelatin
 
 w: jet
@@ -7264,7 +7264,7 @@ hyper: plant_fiber
 hs: noun.artifact:padding
 g: a plant fiber from the kapok tree; used for stuffing and insulation
 
-w: kauri2
+w: kauri
 w: kauri_copal
 w: kauri_resin
 w: kauri_gum
@@ -7346,11 +7346,11 @@ w: kinase
 hyper: enzyme
 g: an enzyme that catalyzes the conversion of a proenzyme to an active enzyme
 
-w: kindling drf verb.weather:kindle1
+w: kindling drf verb.weather:kindle
 w: tinder
 w: touchwood
 w: spunk
-w: punk2
+w: punk1
 hyper: igniter
 g: material for starting a fire
 
@@ -7366,12 +7366,12 @@ hyper: gum
 g: a gum obtained from various tropical plants; used as an astringent and in tanning
 
 w: Kitty_Litter
-hyper: clay
+hyper: clay1
 du: noun.communication:trademark
 g: granulated clay; placed in a container where it absorbs the waste products of a cat or dog
 
 w: Kleenex
-hyper: tissue2
+hyper: tissue
 du: noun.communication:trademark
 g: a piece of soft absorbent paper (usually two or more thin layers) used as a disposable handkerchief
 
@@ -7400,7 +7400,7 @@ w: Kr
 w: atomic_number_36
 hyper: chemical_element
 hyper: noble_gas
-hs: air
+hs: air1
 g: a colorless element that is one of the six inert gasses; occurs in trace amounts in air
 
 w: kunzite
@@ -7431,14 +7431,14 @@ w: gum_labdanum
 hyper: oleoresin
 g: a dark brown to greenish oleoresin that has a fragrant odor and is used as a fixative in perfumes; obtained as a juice from certain rockroses
 
-w: label drf verb.cognition:label drf verb.cognition:label1
+w: label drf verb.cognition:label1 drf verb.cognition:label
 hyper: radioisotope
 g: a radioactive isotope that is used in a compound in order to trace the mechanism of a chemical reaction
 
 w: lac
 hyper: animal_product
 hs: noun.artifact:sealing_wax
-hs: noun.artifact:shellac1
+hs: noun.artifact:shellac
 g: resinlike substance secreted by certain lac insects; used in e.g. varnishes and sealing wax
 
 w: lac_dye
@@ -7492,12 +7492,12 @@ w: laid_paper
 hyper: writing_paper
 g: writing paper having a watermark of fine lines running across the grain
 
-w: lake1
-hyper: pigment
+w: lake
+hyper: pigment1
 g: a purplish red pigment prepared from lac or cochineal
 
-w: lake
-hyper: pigment
+w: lake1
+hyper: pigment1
 g: any of numerous bright translucent organic pigments
 
 w: lambskin
@@ -7525,7 +7525,7 @@ hyper: acid
 g: antacid (trade name Prevacid) that suppresses acid secretion in the stomach
 
 w: lanthanide_series
-hyper: noun.group:series
+hyper: noun.group:series1
 g: the rare-earth elements with atomic numbers 57 through 71; having properties similar to lanthanum
 
 w: lanthanum
@@ -7561,7 +7561,7 @@ hyper: Turkish_tobacco
 g: aromatic Turkish tobacco
 
 w: laterite
-hyper: soil1
+hyper: soil
 g: a red soil produced by rock decay; contains insoluble deposits of ferric and aluminum oxides
 
 w: latex
@@ -7657,7 +7657,7 @@ g: an animal skin made smooth and flexible by removing the hair and then tanning
 
 w: leaven drf verb.motion:leaven
 w: leavening
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: a substance used to produce fermentation in dough or a liquid
 
 w: lecithin
@@ -7676,7 +7676,7 @@ g: a durable writing paper used in record books and business ledgers
 w: lemongrass
 w: lemon_grass
 w: lemongrass_oil
-hyper: oil
+hyper: oil1
 g: an aromatic oil that smells like lemon and is widely used in Asian cooking and in perfumes and medicines
 
 w: leopard
@@ -7709,7 +7709,7 @@ hyper: morocco
 g: a heavy morocco often used in bookbinding
 
 w: ligand
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: a substance (an atom or molecule or radical or ion) that forms a complex around a central atom
 
 w: lignin drf adjs.all:ligneous
@@ -7730,8 +7730,8 @@ hyper: sedimentary_rock
 g: a sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals
 
 w: limewater
-hyper: water
-hs: noun.artifact:blackwash1
+hyper: water2
+hs: noun.artifact:blackwash
 g: solution of calcium hydroxide in water used as an antacid
 
 w: limonene
@@ -7776,7 +7776,7 @@ g: a floor covering
 
 w: linseed_oil
 w: flaxseed_oil
-hyper: oil
+hyper: oil1
 g: a drying oil extracted from flax seed and used in making such things as oil paints
 
 w: linseed
@@ -7784,7 +7784,7 @@ w: flaxseed
 hyper: noun.plant:oilseed
 g: the seed of flax used as a source of oil
 
-w: lint2
+w: lint
 hyper: fiber
 g: fine ravellings of cotton or linen fibers
 
@@ -7809,20 +7809,20 @@ g: a conjugated protein having a lipid component; the principal means for transp
 
 w: liquefied_petroleum_gas
 w: bottled_gas
-hyper: gas
+hyper: gas1
 hyper: hydrocarbon
 g: hydrocarbon gases, usually propane or butane, kept under pressure
 
-w: liquid4
-hyper: fluid2
+w: liquid
+hyper: fluid
 g: a substance that is liquid at room temperature and pressure
 
-w: liquid drf verb.change:liquify1 drf verb.change:liquify
-hyper: fluid
+w: liquid1 drf verb.change:liquify drf verb.change:liquify1
+hyper: fluid1
 g: fluid matter having no fixed shape but a fixed volume
 
 w: liquid_air
-hyper: air
+hyper: air1
 hyper: cryogen
 g: air in a liquid state
 
@@ -7831,7 +7831,7 @@ hyper: solution
 g: a solution containing bleaching agents; used for laundry
 
 w: liquid_crystal
-hyper: liquid
+hyper: liquid1
 g: a liquid exhibiting properties of a crystal that are not shown by ordinary liquids
 
 w: liquid_nitrogen
@@ -7845,11 +7845,11 @@ hyper: oxygen
 g: a bluish translucent magnetic liquid obtained by compressing gaseous oxygen and then cooling it below its boiling point; used as an oxidizer in rocket propellants
 
 w: liquor
-hyper: liquid4
+hyper: liquid
 g: a liquid substance that is a solution (or emulsion or suspension) used or obtained in an industrial process; "waste liquors"
 
 w: lithia_water
-hyper: noun.food:mineral_water1
+hyper: noun.food:mineral_water
 g: mineral water containing lithium salts
 
 w: lithium_carbonate
@@ -7889,7 +7889,7 @@ hyper: steam
 g: steam coming from a boiler at full pressure
 
 w: loam drf adj.all:loamy
-hyper: soil1
+hyper: soil
 g: a rich soil consisting of a mixture of sand and clay and decaying organic materials
 
 w: lodestone
@@ -7898,15 +7898,15 @@ hyper: noun.artifact:permanent_magnet
 g: a permanent magnet consisting of magnetite that possess polarity and has the power to attract as well as to be attracted magnetically
 
 w: loess
-hyper: soil1
+hyper: soil
 g: a fine-grained unstratified accumulation of clay and silt deposited by the wind
 
-w: log1 drf verb.contact:log
+w: log drf verb.contact:log
 hyper: wood
 g: a segment of the trunk of a tree when stripped of branches
 
 w: long-staple_cotton
-hyper: cotton1
+hyper: cotton
 g: cotton with relatively long fibers
 
 w: low-density_lipoprotein
@@ -7928,11 +7928,11 @@ w: low_explosive ant high_explosive
 hyper: noun.artifact:explosive
 g: an explosive with a low rate of combustion
 
-w: lubricant drf verb.contact:lubricate drf verb.change:lubricate2 drf verb.stative:lubricate
+w: lubricant drf verb.contact:lubricate drf verb.change:lubricate drf verb.stative:lubricate
 w: lubricator drf verb.stative:lubricate
 w: lubricating_substance
 w: lube
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: a substance capable of reducing friction by making surfaces smooth or slippery
 
 w: luciferin
@@ -7989,7 +7989,7 @@ hyper: acid
 g: a crystalline acid often used in medical research; obtained from ergotic alkaloids
 
 w: lysin
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: any substance (such as an antibody) or agent that can cause lysis
 
 w: lysine
@@ -8066,7 +8066,7 @@ hs: spinel
 g: a light silver-white ductile bivalent metallic element; in pure form it burns with brilliant white flame; occurs naturally only in combination (as in magnesite and dolomite and carnallite and spinel and olivine)
 
 w: magnetic_ink
-hyper: ink1
+hyper: ink
 g: an ink that contains particles of a magnetic substance whose presence can be detected by magnetic sensors
 
 w: magnetite
@@ -8196,7 +8196,7 @@ hyper: indelible_ink
 g: an indelible ink for marking clothes or linens etc.
 
 w: marl drf adj.pert:marly
-hyper: soil1
+hyper: soil
 g: a loose and crumbling earthy deposit consisting mainly of calcite or dolomite; used as a fertilizer for soils deficient in lime
 
 w: marlite
@@ -8227,7 +8227,7 @@ hyper: natural_resin
 g: an aromatic exudate from the mastic tree; used chiefly in varnishes
 
 w: mastic1
-hyper: cement1
+hyper: cement3
 hyper: filler
 g: a pasty cement used as an adhesive or filler
 
@@ -8235,14 +8235,14 @@ w: matchwood1
 hyper: wood
 g: wood suitable for making matchsticks
 
-w: matchwood2
+w: matchwood
 w: splinters
 hyper: wood
 g: wood in small pieces or splinters; "the vessel was beaten to matchwood on the rocks"
 
 w: material
 w: stuff
-hyper: noun.Tops:substance
+hyper: noun.Tops:substance1
 g: the tangible substance that goes into the makeup of a physical object; "coal is a hard black material"; "wheat is the stuff they use to make bread"
 
 w: matrix
@@ -8262,17 +8262,17 @@ w: meconium
 hyper: fecal_matter
 g: thick dark green mucoid material that is the first feces of a newborn child
 
-w: medium2
-hyper: liquid4
+w: medium
+hyper: liquid
 g: a liquid with which pigment is mixed by a painter
 
 w: medium1
-hyper: noun.Tops:substance
+hyper: noun.Tops:substance1
 dt: noun.cognition:biology
 g: (biology) a substance in which specimens are preserved or displayed
 
 w: medium3
-hyper: noun.Tops:substance
+hyper: noun.Tops:substance1
 g: an intervening substance through which something is achieved; "the dissolving medium is called a solvent"
 
 w: medium_steel
@@ -8297,7 +8297,7 @@ g: a synthetic progestational compound used to treat endometrial carcinoma
 
 w: megilp
 w: magilp
-hyper: medium2
+hyper: medium
 g: a medium for oil-paints; linseed oil mixed with mastic varnish or turpentine
 
 w: meitnerium
@@ -8313,10 +8313,10 @@ g: a thermosetting resin formed from melamine and an aldehyde; used in molded pr
 
 w: melamine
 w: cyanuramide
-hyper: base
+hyper: base1
 g: a white crystalline organic base; used mainly in making melamine resins
 
-w: melanin drf verb.change:melanize1 drf verb.change:melanize
+w: melanin drf verb.change:melanize drf verb.change:melanize1
 hyper: animal_pigment
 hs: noun.body:skin
 hs: noun.animal:feather
@@ -8333,7 +8333,7 @@ hyper: fecal_matter
 g: abnormally dark tarry feces containing blood (usually from gastrointestinal bleeding)
 
 w: meltwater
-hyper: water
+hyper: water2
 g: melted snow or ice
 
 w: mendelevium
@@ -8361,7 +8361,7 @@ hs: noun.artifact:mentholated_salve
 g: a crystalline compound that has the cool and minty taste and odor that occurs naturally in peppermint oil; used as a flavoring and in medicine to relieve itching, pain, and nasal congestion
 
 w: mephitis drf adjs.all:mephitic
-hyper: gas
+hyper: gas1
 g: a poisonous or foul smelling gas emitted from the earth
 
 w: mercuric_chloride
@@ -8395,7 +8395,7 @@ g: a gum obtained from mesquite pods; resembles gum arabic
 
 w: message_pad
 w: writing_pad
-hyper: pad1
+hyper: pad
 g: a pad of paper on which messages can be written
 
 w: messenger_RNA
@@ -8413,7 +8413,7 @@ hs: noun.artifact:Ovulen
 g: a synthetic form of estrogen used in combination with a progestin in oral contraceptives
 
 w: metabolite
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: any substance involved in metabolism (either as a product of metabolism or as necessary for metabolism)
 
 w: metallic_element
@@ -8440,7 +8440,7 @@ g: an unsaturated acid (C4H6O2) used to make resins and plastics
 
 w: methane
 hyper: methane_series
-hyper: gas
+hyper: gas1
 hs: natural_gas
 g: a colorless odorless gas used as a fuel
 
@@ -8448,7 +8448,7 @@ w: methane_series
 w: alkane_series
 w: alkane
 w: paraffin_series
-w: paraffin2
+w: paraffin1
 hyper: aliphatic_compound
 g: a series of non-aromatic saturated hydrocarbons with the general formula CnH(2n+2)
 
@@ -8554,7 +8554,7 @@ hs: rock
 g: solid homogeneous inorganic substances occurring in nature having a definite chemical composition
 
 w: mineral_oil
-hyper: oil
+hyper: oil1
 g: a distillate of petroleum (especially one used medicinally as a laxative or stool softener)
 
 w: mineral_wool
@@ -8578,8 +8578,8 @@ w: mitogen
 hyper: agent
 g: an agent that triggers mitosis
 
-w: mixture drf verb.change:mix
-hyper: noun.Tops:substance
+w: mixture drf verb.change:mix1
+hyper: noun.Tops:substance1
 dt: noun.cognition:chemistry
 g: (chemistry) a substance consisting of two or more substances mixed together (not in fixed proportions and not with chemical bonding)
 
@@ -8594,12 +8594,12 @@ g: any substance used to slow down neutrons in nuclear reactors
 
 w: mold
 w: mould
-hyper: soil1
+hyper: soil
 g: loose soil rich in organic matter
 
 w: molecule drf adj.pert:molecular
 hyper: noun.object:unit
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 dt: noun.cognition:chemistry
 g: (physics and chemistry) the simplest structural unit of an element or compound
 
@@ -8689,7 +8689,7 @@ hyper: transparent_gem
 hyper: feldspar
 g: a transparent or translucent gemstone with a pearly luster; some specimens are orthoclase feldspar and others are plagioclase feldspar
 
-w: mordant drf adjs.all:mordant
+w: mordant drf adjs.all:mordant1
 hyper: coloring_material
 g: a substance used to treat leather or other materials before dyeing; aids in dyeing process
 
@@ -8708,7 +8708,7 @@ g: used as a bond in masonry or for covering a wall
 
 w: mosaic_gold
 w: stannic_sulfide
-hyper: pigment
+hyper: pigment1
 g: a yellow pigment sometimes suspended in lacquer
 
 w: moss_agate
@@ -8725,7 +8725,7 @@ hyper: shell
 g: the iridescent internal layer of a mollusk shell
 
 w: motor_oil
-hyper: oil
+hyper: oil1
 hyper: lubricant
 g: oil used to lubricate the moving parts of a motor
 
@@ -8755,8 +8755,8 @@ hyper: mud
 g: a mass of mud that a child has molded into the shape of pie
 
 w: mud drf adjs.all:muddy drf verb.contact:mud1 drf verb.contact:mud
-w: clay2
-hyper: soil1
+w: clay
+hyper: soil
 g: water soaked soil; soft wet earth
 
 w: muriatic_acid
@@ -8868,7 +8868,7 @@ hyper: fiber
 g: fiber derived from plants or animals
 
 w: natural_gas
-w: gas3 drf verb.change:gasify
+w: gas drf verb.change:gasify
 hyper: fossil_fuel
 g: a fossil fuel in the gaseous state; used for cooking and heating homes
 
@@ -8918,11 +8918,11 @@ w: Ne
 w: atomic_number_10
 hyper: chemical_element
 hyper: noble_gas
-hs: air
+hs: air1
 g: a colorless odorless gaseous element that give a red glow in a vacuum tube; one of the six inert gasses; occurs in the air in small amounts
 
 w: neoprene
-hyper: rubber1
+hyper: rubber
 g: a synthetic rubber that is resistant to oils and aging; used in waterproof products
 
 w: nepheline
@@ -8951,7 +8951,7 @@ hyper: metallic_element
 g: a radioactive transuranic metallic element; found in trace amounts in uranium ores; a by-product of the production of plutonium
 
 w: neroli_oil
-hyper: oil
+hyper: oil1
 g: an odoriferous yellow oil found in orange flowers and used in perfumery and as a flavoring
 
 w: nerve_gas
@@ -9068,17 +9068,17 @@ hyper: metallic_element
 hs: niobite
 g: a soft grey ductile metallic element used in alloys; occurs in niobite; formerly called columbium
 
-w: nitrate drf verb.change:nitrify2 drf verb.change:nitrify1 drf verb.change:nitrify drf verb.change:nitrate10
+w: nitrate drf verb.change:nitrify drf verb.change:nitrify1 drf verb.change:nitrify2 drf verb.change:nitrate
 hyper: compound
 g: any compound containing the nitrate group (such as a salt or ester of nitric acid)
 
-w: nitric_acid drf verb.change:nitrate10 drf verb.change:nitrify2
+w: nitric_acid drf verb.change:nitrate drf verb.change:nitrify
 w: aqua_fortis
 hyper: acid
 g: acid used especially in the production of fertilizers and explosives and rocket fuels
 
 w: nitric_oxide
-hyper: gas
+hyper: gas1
 g: a poisonous red-brown gas (NO)
 
 w: nitride
@@ -9087,7 +9087,7 @@ g: a compound containing nitrogen and a more electropositive element (such as ph
 
 w: nitrile
 w: nitril
-w: cyanide1
+w: cyanide
 hyper: organic_compound
 g: any of a class of organic compounds containing the cyano radical -CN
 
@@ -9119,7 +9119,7 @@ g: derivative of furan used to inhibit bacterial growth
 
 w: nitrogen_dioxide
 hyper: dioxide
-hyper: gas
+hyper: gas1
 g: a highly poisonous brown gas (NO2)
 
 w: nitrogen_mustard
@@ -9144,8 +9144,8 @@ w: nitrogen drf adj.pert:nitrogenous drf verb.change:nitrogenize drf verb.change
 w: N
 w: atomic_number_7
 hyper: chemical_element
-hyper: gas
-hs: air
+hyper: gas1
+hs: air1
 g: a common nonmetallic element that is normally a colorless odorless tasteless inert diatomic gas; constitutes 78 percent of the atmosphere by volume; a constituent of all living tissues
 
 w: nitroglycerin
@@ -9162,7 +9162,7 @@ hs: noun.artifact:dynamite
 hs: noun.artifact:Nitrospan
 g: a heavy yellow poisonous oily explosive liquid obtained by nitrating glycerol; used in making explosives and medically as a vasodilator (trade names Nitrospan and Nitrostat)
 
-w: nitrous_acid drf verb.change:nitrify2 drf verb.change:nitrify1
+w: nitrous_acid drf verb.change:nitrify drf verb.change:nitrify1
 hyper: acid
 g: an unstable inorganic acid known only in solution and as nitrite salts
 
@@ -9176,7 +9176,7 @@ w: noble_gas
 w: inert_gas
 w: argonon
 hyper: chemical_element
-hyper: gas
+hyper: gas1
 g: any of the chemically inert gaseous elements of the helium group in the periodic table
 
 w: noble_metal
@@ -9219,7 +9219,7 @@ hs: noun.artifact:Ovrette
 g: synthetic progestin used in oral contraceptives
 
 w: notepad
-hyper: pad1
+hyper: pad
 g: a pad of paper for keeping notes
 
 w: nuclear_fuel
@@ -9251,12 +9251,12 @@ hyper: glycoside
 g: a glycoside formed by partial hydrolysis of a nucleic acid
 
 w: nucleotide
-w: base1
+w: base
 hyper: ester
 g: a phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (DNA or RNA)
 
 w: nurse_log
-hyper: log1
+hyper: log
 g: a large decomposing tree trunk that has fallen, usually in a forest; the decaying wood provides moisture and nutrients for a variety of insects and plants
 
 w: nylon
@@ -9286,7 +9286,7 @@ w: octane
 hyper: hydrocarbon
 g: any isomeric saturated hydrocarbon found in petroleum and used as a fuel and solvent
 
-w: oil drf adjs.all:oily drf noun.person:oiler drf noun.artifact:oiler1 drf noun.artifact:oiler drf verb.body:oil drf verb.contact:oil
+w: oil1 drf adjs.all:oily1 drf noun.person:oiler drf noun.artifact:oiler drf noun.artifact:oiler1 drf verb.body:oil drf verb.contact:oil
 hyper: lipid
 g: a slippery or viscous liquid or liquefiable substance not miscible with water
 
@@ -9354,7 +9354,7 @@ hyper: antacid
 g: antacid (trade name Prilosec) that suppresses acid secretion in the stomach
 
 w: onionskin
-w: flimsy drf adjs.all:flimsy1
+w: flimsy drf adjs.all:flimsy
 hyper: typewriter_paper
 g: a thin strong lightweight translucent paper used especially for making carbon copies
 
@@ -9366,7 +9366,7 @@ w: ooze_leather
 hyper: leather
 g: a very soft leather made from the skins of calves and having a suede finish on the flesh side
 
-w: opal drf verb.change:opalize1 drf verb.change:opalize
+w: opal drf verb.change:opalize drf verb.change:opalize1
 hyper: mineral
 hyper: opaque_gem
 g: a translucent mineral consisting of hydrated silica of variable color; some varieties are used as gemstones
@@ -9396,7 +9396,7 @@ hs: noun.body:serum
 g: an antibody in blood serum that attaches to invading microorganisms and other antigens to make them more susceptible to the action of phagocytes
 
 w: optical_crown
-w: crown_glass
+w: crown_glass1
 w: optical_crown_glass
 hyper: optical_glass
 g: optical glass of low dispersion and low refractive index
@@ -9411,7 +9411,7 @@ hyper: glass
 g: clear homogeneous glass of known refractive index; used to make lenses
 
 w: orange drf adjs.all:orange
-hyper: pigment
+hyper: pigment1
 g: any pigment producing the orange color
 
 w: orchil
@@ -9428,7 +9428,7 @@ w: organic_compound
 hyper: compound
 g: any compound of carbon and another element or a radical
 
-w: organic drf adj.all:organic2
+w: organic drf adj.all:organic
 w: organic_fertilizer
 w: organic_fertiliser
 hyper: fertilizer
@@ -9502,9 +9502,9 @@ w: ethanedioic_acid
 hyper: acid
 g: a toxic colorless crystalline organic acid found in oxalis and other plants; used as a bleach and rust remover and in chemical analysis
 
-w: oxidant drf verb.change:oxidize drf verb.change:oxidise
-w: oxidizer drf verb.change:oxidize
-w: oxidiser drf verb.change:oxidise
+w: oxidant drf verb.change:oxidize1 drf verb.change:oxidise1
+w: oxidizer drf verb.change:oxidize1
+w: oxidiser drf verb.change:oxidise1
 w: oxidizing_agent
 hyper: chemical_agent
 g: a substance that oxidizes another substance
@@ -9517,7 +9517,7 @@ w: oxidation-reduction_indicator
 hyper: indicator
 g: an indicator that shows a reversible color change between oxidized and reduced forms
 
-w: oxide drf verb.change:oxidize drf verb.change:oxidise
+w: oxide drf verb.change:oxidize1 drf verb.change:oxidise1
 hyper: compound
 g: any compound of oxygen with another element or a radical
 
@@ -9546,13 +9546,13 @@ w: oxygenase
 hyper: oxidoreductase
 g: an oxidoreductase that catalyzes the incorporation of molecular oxygen
 
-w: oxygen drf verb.change:oxygenate drf verb.change:oxygenize1 drf verb.change:oxygenize
+w: oxygen drf verb.change:oxygenate drf verb.change:oxygenize1 drf verb.change:oxygenize2
 w: O
 w: atomic_number_8
 hyper: chemical_element
-hyper: gas
-hs: water
-hs: air
+hyper: gas1
+hs: water2
+hs: air1
 hs: ozone
 g: a nonmetallic bivalent element that is normally a colorless odorless tasteless nonflammable diatomic gas; constitutes 21 percent of the atmosphere by volume; the most abundant element in the earth's crust
 
@@ -9562,7 +9562,7 @@ hyper: hemoglobin
 g: the bright red hemoglobin that is a combination of hemoglobin and oxygen from the lungs; "oxyhemoglobin transports oxygen to the cells of the body"
 
 w: ozone
-hyper: gas
+hyper: gas1
 g: a colorless gas (O3) soluble in alkalis and cold water; a strong oxidizing agent; can be produced by electric discharge in oxygen or by the action of ultraviolet radiation on oxygen in the stratosphere (where it acts as a screen for ultraviolet radiation)
 
 w: ozonide
@@ -9570,12 +9570,12 @@ hyper: compound
 g: any of a class of unstable chemical compounds resulting from the addition of ozone to a double bond in an unsaturated compound
 
 w: packing_material
-w: packing drf verb.contact:pack2
+w: packing drf verb.contact:pack3
 w: wadding
 hyper: material
 g: any material used especially to protect something
 
-w: pad1
+w: pad
 w: pad_of_paper
 w: tablet
 hyper: paper
@@ -9594,7 +9594,7 @@ g: a silver-white metallic element of the platinum group that resembles platinum
 w: palmitic_acid
 w: hexadecanoic_acid
 hyper: saturated_fatty_acid
-hs: noun.food:meat1
+hs: noun.food:meat
 hs: noun.food:dairy_product
 g: a saturated fatty acid that is the major fat in meat and dairy products
 
@@ -9654,10 +9654,10 @@ hs: noun.artifact:sunscreen
 g: a metabolic acid found in yeast and liver cells; used to make dyes and drugs and sun blockers
 
 w: Para_rubber
-hyper: rubber
+hyper: rubber1
 g: a type of natural rubber obtained from tropical South American trees
 
-w: paraffin1
+w: paraffin2
 w: paraffin_oil
 hyper: kerosene
 g: (British usage) kerosine
@@ -9684,11 +9684,11 @@ w: parathion
 hyper: insecticide
 g: a colorless and odorless toxic oil used as an insecticide
 
-w: parchment1
+w: parchment
 hyper: paper
 g: a superior paper resembling sheepskin
 
-w: parchment
+w: parchment1
 w: sheepskin1
 w: lambskin1
 hyper: animal_skin
@@ -9697,12 +9697,12 @@ g: skin of a sheep or goat prepared for writing on
 w: parget drf verb.contact:parget
 w: pargeting
 w: pargetting
-hyper: plaster
+hyper: plaster1
 g: plaster used to coat outer walls and line chimneys
 
 w: Paris_green
 hyper: double_salt
-hyper: pigment
+hyper: pigment1
 hyper: insecticide
 g: a toxic double salt of copper arsenate and copper acetate
 
@@ -9711,7 +9711,7 @@ w: particulate_matter
 hyper: material
 g: a small discrete mass of solid or liquid matter that remains individually dispersed in gas or liquid emissions (usually considered to be an atmospheric pollutant)
 
-w: paste2
+w: paste
 hyper: lead_glass
 g: a hard, brilliant lead glass that is used in making artificial jewelry
 
@@ -9723,7 +9723,7 @@ w: pasteboard
 hyper: cardboard
 g: stiff cardboard made by pasting together layers of paper
 
-w: paste drf adjs.all:pasty drf adjs.all:pasty drf verb.contact:paste1
+w: paste2 drf adjs.all:pasty drf adjs.all:pasty1 drf verb.contact:paste2
 w: library_paste
 hyper: adhesive_material
 g: an adhesive made from water and flour or starch; used on paper and paperboard
@@ -9744,7 +9744,7 @@ g: ore that yields a substantial profit to the miner
 
 w: Payne's_grey
 w: Payne's_gray
-hyper: pigment
+hyper: pigment1
 g: any pigment that produces a greyish to dark greyish blue
 
 w: pearl_ash
@@ -9827,7 +9827,7 @@ hyper: organic_compound
 g: any of various water-soluble compounds that form by hydrolysis in the digestion of proteins to amino acids
 
 w: perboric_acid
-hyper: boric_acid
+hyper: boric_acid1
 g: a form of boric acid
 
 w: perchlorate
@@ -9842,7 +9842,7 @@ w: perchloride
 hyper: chloride
 g: a chloride containing an unusually high proportion of chlorine
 
-w: percolate drf verb.contact:percolate2 drf verb.contact:percolate3 drf verb.motion:percolate1 drf verb.motion:percolate
+w: percolate drf verb.contact:percolate1 drf verb.contact:percolate drf verb.motion:percolate1 drf verb.motion:percolate
 hyper: filtrate
 g: the product of percolation
 
@@ -9888,7 +9888,7 @@ hyper: oxidase
 dt: noun.Tops:plant
 g: any of a group of enzymes (occurring especially in plant cells) that catalyze the oxidation of a compound by a peroxide
 
-w: peroxide1
+w: peroxide
 hyper: oxide
 g: an inorganic compound containing the divalent ion -O-O-
 
@@ -9918,8 +9918,8 @@ w: crude_oil
 w: crude
 w: rock_oil
 w: fossil_oil
-w: oil1
-hyper: oil
+w: oil
+hyper: oil1
 hyper: fossil_fuel
 g: a dark oil consisting mainly of hydrocarbons
 
@@ -9928,7 +9928,7 @@ hyper: alloy
 g: any of various alloys of tin with small amounts of other metals (especially lead)
 
 w: phellem
-w: cork1
+w: cork
 hyper: noun.plant:bark
 dt: noun.cognition:botany
 g: (botany) outer tissue of bark; a protective layer of dead cells
@@ -9972,11 +9972,11 @@ g: a group of white or reddish crystalline minerals of the zeolite family consis
 w: philosopher's_stone
 w: philosophers'_stone
 w: elixir1
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: hypothetical substance that the alchemists believed to be capable of changing base metals into gold
 
 w: phlogiston
-hyper: noun.Tops:substance
+hyper: noun.Tops:substance1
 g: a hypothetical substance once believed to be present in all combustible materials and to be released during burning
 
 w: phlogopite
@@ -9984,7 +9984,7 @@ hyper: mica
 g: a brown form of mica consisting of hydrous silicate of potassium and magnesium and aluminum
 
 w: phosgene
-hyper: gas
+hyper: gas1
 g: a colorless poisonous gas that smells like new-mown hay; used in chemical warfare
 
 w: phosphatase
@@ -10003,7 +10003,7 @@ hyper: salt
 g: a salt of phosphoric acid
 
 w: phosphine
-hyper: gas
+hyper: gas1
 hyper: pesticide
 g: a colorless gas with a strong fishy smell; used as a pesticide
 
@@ -10043,7 +10043,7 @@ hs: apatite
 g: a multivalent nonmetallic element of the nitrogen family that occurs commonly in inorganic phosphate rocks and as organic phosphates in all living cells; is highly reactive and occurs in several allotropic forms
 
 w: photopigment
-hyper: pigment
+hyper: pigment1
 g: a special pigment found in the rods and cones of the retina
 
 w: phthalic_acid
@@ -10083,13 +10083,13 @@ w: pigeon_droppings
 hyper: droppings
 g: droppings of pigeons
 
-w: pigment1
+w: pigment
 hyper: coloring_material
 g: any substance whose presence in plant or animal tissues produces a characteristic color
 
-w: pigment drf verb.change:pigment1 drf verb.change:pigment
+w: pigment1 drf verb.change:pigment drf verb.change:pigment1
 hyper: coloring_material
-hs: noun.artifact:paint
+hs: noun.artifact:paint1
 g: dry coloring material (especially a powder to be mixed with a liquid to produce paint, etc.)
 
 w: pigskin
@@ -10121,14 +10121,14 @@ hyper: mineral
 g: grey or green or brown mineral similar to mica and containing aluminum and potassium sulphates
 
 w: pipeclay
-w: terra_alba3
-hyper: clay
+w: terra_alba1
+hyper: clay1
 g: fine white clay used in making tobacco pipes and pottery and in whitening leather
 
 w: piperin
 w: piperine
 hyper: chemical_irritant
-hs: noun.plant:pepper1
+hs: noun.plant:pepper
 g: derived from pepper (especially black pepper); source of the hotness of black and white pepper
 
 w: pisang_wax
@@ -10139,7 +10139,7 @@ w: pitchstone
 hyper: volcanic_glass
 g: dark acid granitic glass
 
-w: pitch drf adjs.all:pitchy drf adjs.all:pitchy
+w: pitch drf adjs.all:pitchy1 drf adjs.all:pitchy
 w: tar drf verb.contact:tar
 hyper: bitumen
 g: any of various dark heavy viscid substances obtained as a residue
@@ -10175,7 +10175,7 @@ w: phytotoxin
 hyper: toxin
 g: any substance produced by plants that is similar in its properties to extracellular bacterial toxin
 
-w: plasma1
+w: plasma
 hyper: chalcedony
 g: a green slightly translucent variety of chalcedony used as a gemstone
 
@@ -10203,18 +10203,18 @@ w: urokinase
 hyper: protease
 g: protease produced in the kidney that converts plasminogen to plasmin and so initiates fibrinolysis
 
-w: plaster drf verb.contact:plaster drf verb.contact:plaster2
+w: plaster1 drf verb.contact:plaster4 drf verb.contact:plaster2
 hyper: mixture
 hyper: covering_material
 g: a mixture of lime or gypsum with sand and water; hardens into a smooth solid; used to cover walls and ceilings
 
 w: plaster_of_Paris
-w: plaster1 drf verb.contact:plaster2
+w: plaster drf verb.contact:plaster2
 hyper: calcium_sulphate
 g: any of several gypsum cements; a white powder (a form of calcium sulphate) that forms a paste when mixed with water and hardens into a solid; used in making molds and sculptures and casts for broken limbs
 
 w: plastic
-hyper: solid4
+hyper: solid
 g: generic name for certain synthetic or semisynthetic materials that can be molded or extruded into objects or films or filaments or used for making e.g. coatings and adhesives
 
 w: Plasticine
@@ -10222,8 +10222,8 @@ hyper: synthetic
 du: noun.communication:trademark
 g: a synthetic material resembling clay but remaining soft; used as a substitute for clay or wax in modeling (especially in schools)
 
-w: plasticizer drf verb.change:plasticize
-w: plasticiser drf verb.change:plasticise
+w: plasticizer drf verb.change:plasticize1
+w: plasticiser drf verb.change:plasticise1
 hyper: softener
 g: a substance added to plastics or other materials to make them more pliable
 
@@ -10263,18 +10263,18 @@ w: podzol_soil
 w: podsol
 w: podsol_soil
 w: podsolic_soil
-hyper: soil1
+hyper: soil
 g: a soil that develops in temperate to cold moist climates under coniferous or heath vegetation; an organic mat over a grey leached layer
 
 w: poison_gas
-hyper: gas
+hyper: gas1
 hyper: noun.artifact:chemical_weapon
 g: a gas that is poisonous to breath or contact; used in chemical warfare
 
-w: poison drf adjs.all:poisonous drf verb.change:poison drf verb.contact:poison drf verb.contact:poison1
+w: poison drf adjs.all:poisonous1 drf verb.change:poison drf verb.contact:poison1 drf verb.contact:poison
 w: toxicant
 w: poisonous_substance
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: any substance that causes injury or illness or death of a living organism
 
 w: polish drf verb.contact:polish
@@ -10313,7 +10313,7 @@ w: polyester
 hyper: synthetic_resin
 g: any of numerous synthetic resins; they are light and strong and weather resistant
 
-w: polyester2
+w: polyester1
 hyper: ester
 hyper: plastic
 g: a complex ester used for making fibers or resins or plastics or as a plasticizer
@@ -10332,7 +10332,7 @@ w: polyurethane_foam
 hyper: polyurethane
 g: a foam made by adding water to polyurethane plastics
 
-w: polymer drf adj.pert:polymeric drf verb.change:polymerize2 drf verb.change:polymerize
+w: polymer drf adj.pert:polymeric drf verb.change:polymerize drf verb.change:polymerize1
 hyper: compound
 g: a naturally occurring or synthetic compound consisting of large molecules made up of a linked series of repeated simple monomers
 
@@ -10341,7 +10341,7 @@ hyper: enzyme
 g: an enzyme that catalyzes the formation of new DNA and RNA from an existing strand of DNA or RNA
 
 w: polymethyl_methacrylate
-hyper: acrylic
+hyper: acrylic1
 g: a transparent plastic used as a substitute for glass
 
 w: polypeptide
@@ -10399,7 +10399,7 @@ hyper: vinyl_polymer
 g: a polymer of vinyl chloride used instead of rubber in electric cables
 
 w: porphyrin
-hyper: pigment
+hyper: pigment1
 g: any of various pigments distributed widely in living tissues
 
 w: porphyry drf adj.pert:porphyritic
@@ -10411,11 +10411,11 @@ w: porpoise_oil
 hyper: animal_oil
 g: a yellow fatty oil obtained from porpoises and used as a fine lubricant
 
-w: pot_metal1
+w: pot_metal
 hyper: cast_iron
 g: cast iron used for making cooking wares
 
-w: pot_metal
+w: pot_metal1
 hyper: alloy
 g: an alloy of copper and lead used especially for making large pots
 
@@ -10458,7 +10458,7 @@ du: noun.communication:trade_name
 g: salt of potassium (KCl) (trade names K-Dur 20, Kaochlor and K-lor and Klorvess and K-lyte); taken in tablet form to treat potassium deficiency
 
 w: potassium_cyanide
-hyper: cyanide
+hyper: cyanide1
 g: a poisonous salt (KCN) used in electroplating and in photography
 
 w: potassium_dichromate
@@ -10501,17 +10501,17 @@ g: a light soft silver-white metallic element of the alkali metal group; oxidize
 
 w: potter's_clay
 w: potter's_earth
-hyper: clay
+hyper: clay1
 g: clay that does not contain any iron; used in making pottery or for modeling
 
-w: powder drf adjs.all:powdery drf verb.change:powder drf verb.change:powderize
-w: pulverization drf verb.change:pulverize1
-w: pulverisation drf verb.change:pulverise1
-hyper: solid4
+w: powder1 drf adjs.all:powdery drf verb.change:powder drf verb.change:powderize1
+w: pulverization drf verb.change:pulverize
+w: pulverisation drf verb.change:pulverise
+hyper: solid
 g: a solid substance in the form of tiny loose particles; a solid that has been pulverized
 
 w: prairie_soil
-hyper: soil1
+hyper: soil
 g: a type of soil occurring under grasses in temperate climates
 
 w: praseodymium
@@ -10527,7 +10527,7 @@ hyper: agent
 g: an agent that causes a precipitate to form
 
 w: precipitate drf verb.change:precipitate
-hyper: solid4
+hyper: solid
 g: a precipitated solid substance in suspension or after settling or filtering
 
 w: precipitin
@@ -10565,7 +10565,7 @@ g: a chemical compound that is added to protect against decay or decomposition
 
 w: printer's_ink
 w: printing_ink
-hyper: ink1
+hyper: ink
 g: a semisolid quick drying ink made especially for use in printing
 
 w: proaccelerin
@@ -10584,7 +10584,7 @@ g: a coagulation factor formed in the kidney under the influence of vitamin K
 
 w: producer_gas
 w: air_gas
-hyper: gas
+hyper: gas1
 g: a gas made of carbon monoxide and hydrogen and nitrogen; made by passing air over hot coke
 
 w: product
@@ -10599,7 +10599,7 @@ g: any of a group of compounds that are inactive precursors of enzymes and requi
 w: progesterone
 w: Lipo-Lutin du noun.communication:trade_name
 hyper: progestin
-hs: noun.artifact:pill2
+hs: noun.artifact:pill
 g: a steroid hormone (trade name Lipo-Lutin) produced in the ovary; prepares and maintains the uterus for pregnancy
 
 w: progestin
@@ -10634,7 +10634,7 @@ hyper: aldehyde
 g: a colorless liquid aldehyde
 
 w: propane
-hyper: gas
+hyper: gas1
 hyper: fuel
 g: colorless gas found in natural gas and petroleum; used as a fuel
 
@@ -10645,7 +10645,7 @@ g: a clear colorless volatile liquid (alcohol) used as a solvent and antiseptic
 
 w: propellant drf adjs.all:propellant drf verb.contact:propel
 w: propellent drf adjs.all:propellent drf verb.contact:propel
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: any substance that propels
 
 w: propenal
@@ -10694,7 +10694,7 @@ g: a sweet colorless, viscous, hygroscopic liquid used as an antifreeze and in b
 
 w: propylene
 w: propene
-hyper: gas
+hyper: gas1
 g: a flammable gas obtained by cracking petroleum; used in organic synthesis
 
 w: propyl
@@ -10732,7 +10732,7 @@ g: any enzyme that catalyzes the splitting of proteins into smaller peptide frac
 
 w: protein drf adj.pert:proteinaceous
 hyper: macromolecule
-hs: noun.food:meat1
+hs: noun.food:meat
 hs: noun.food:egg
 hs: noun.food:milk1
 hs: noun.food:legume
@@ -10789,7 +10789,7 @@ w: conglomerate drf adjs.all:conglomerate
 hyper: rock
 g: a composite rock made up of particles of varying size
 
-w: puddle drf verb.contact:puddle2 drf verb.creation:puddle
+w: puddle drf verb.contact:puddle1 drf verb.creation:puddle
 hyper: covering_material
 g: a mixture of wet clay and sand that can be used to line a pond and that is impervious to water when dry
 
@@ -10806,16 +10806,16 @@ w: pumice_stone
 hyper: rock
 g: a light glass formed on the surface of some lavas; used as an abrasive
 
-w: punk1
+w: punk
 hyper: igniter
 g: substance that smolders when ignited; used to light fuses (especially fireworks)
 
-w: purine1
-hyper: base
+w: purine
+hyper: base1
 g: any of several bases that are derivatives of purine
 
-w: purine
-hyper: base
+w: purine1
+hyper: base1
 g: a colorless crystalline organic base containing nitrogen; the parent compound of various biologically important substances
 
 w: putrescine
@@ -10823,7 +10823,7 @@ hyper: ptomaine
 g: a colorless crystalline ptomaine with a foul odor that is produced in decaying animal matter
 
 w: putty drf verb.contact:putty
-hyper: cement1
+hyper: cement3
 hyper: filler
 g: a dough-like mixture of whiting and boiled linseed oil; used especially to patch woodwork or secure panes of glass
 
@@ -10837,14 +10837,14 @@ du: noun.communication:trademark
 g: a borosilicate glass with a low coefficient of expansion; used for heat-resistant glassware in cooking and chemistry
 
 w: pyridine
-hyper: base
+hyper: base1
 g: a toxic colorless flammable liquid organic base with a disagreeable odor; usually derived from coal
 
-w: pyrimidine1
-hyper: base
+w: pyrimidine
+hyper: base1
 g: any of several basic compounds derived from pyrimidine
 
-w: pyrimidine
+w: pyrimidine1
 hyper: organic_compound
 g: a heterocyclic organic compound with a penetrating odor
 
@@ -10868,18 +10868,18 @@ w: pyrogallic_acid
 hyper: phenol
 g: a toxic white lustrous crystalline phenol used to treat certain skin diseases and as a photographic developer
 
-w: pyrogen1
-hyper: noun.Tops:substance1
+w: pyrogen
+hyper: noun.Tops:substance
 g: any substance characterized by its great flammability
 
-w: pyrogen drf adj.pert:pyrogenous1
+w: pyrogen1 drf adj.pert:pyrogenous
 w: pyrectic drf adj.pert:pyrectic
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: any substance that can cause a rise in body temperature
 
 w: pyroligneous_acid
 w: wood_vinegar
-hyper: liquid4
+hyper: liquid
 g: a red-brown liquid formed in distillation of wood which contains acetic acid, methanol, acetone, wood oils, and tars
 
 w: pyrolusite
@@ -10932,15 +10932,15 @@ w: pyruvic_acid
 hyper: acid
 g: a colorless acid formed as an important intermediate in metabolism or fermentation
 
-w: quartz
+w: quartz1
 hyper: mineral
 g: a hard glossy mineral consisting of silicon dioxide in crystal form; present in most rocks (especially sandstone and granite); yellow sand is quartz with iron oxide impurities
 
 w: quartz_glass
-w: quartz1
+w: quartz
 w: vitreous_silica
 w: lechatelierite
-w: crystal1 drf verb.change:crystallize1 drf verb.change:crystallize drf verb.change:crystalize1 drf verb.change:crystalize
+w: crystal1 drf verb.change:crystallize drf verb.change:crystallize1 drf verb.change:crystalize drf verb.change:crystalize1
 hyper: natural_glass
 g: colorless glass made of almost pure silica
 
@@ -10970,8 +10970,8 @@ hyper: compound
 g: any of a class of aromatic yellow compounds including several that are biologically important as coenzymes or acceptors or vitamins; used in making dyes
 
 w: quintessence drf adj.pert:quintessential
-w: ether1 drf adjs.all:ethereal
-hyper: element1
+w: ether drf adjs.all:ethereal
+hyper: element
 du: noun.communication:archaism
 g: the fifth and highest element after air and earth and fire and water; was believed to be the substance composing all heavenly bodies
 
@@ -10993,7 +10993,7 @@ g: useless radioactive materials that are left after some laboratory or commerci
 
 w: radiocarbon
 w: carbon_14
-hyper: carbon
+hyper: carbon1
 g: a radioactive isotope of carbon
 
 w: radiochlorine
@@ -11058,14 +11058,14 @@ hyper: alkaloid
 hs: noun.artifact:reserpine
 g: any of several alkaloids extracted from the shrub Rauwolfia serpentina
 
-w: raveling drf verb.contact:ravel1
-w: ravelling drf verb.contact:ravel1
+w: raveling drf verb.contact:ravel
+w: ravelling drf verb.contact:ravel
 hyper: fiber
-hs: lint2
+hs: lint
 g: a bit of fiber that has become separated from woven fabric
 
 w: raw_material
-w: staple
+w: staple1
 hyper: material
 g: material suitable for manufacture or use or finishing
 
@@ -11115,7 +11115,7 @@ hyper: protein
 g: a protein derived from recombinant DNA
 
 w: red-lead_putty
-hyper: cement1
+hyper: cement3
 g: a cement resembling putty; made by mixing white and red lead in boiled linseed oil; used as luting on pipe fittings
 
 w: red_brass
@@ -11124,7 +11124,7 @@ hyper: brass
 g: brass with enough copper to give it a reddish tint; used for plumbing pipe and other brass hardware and in cheap jewelry
 
 w: red_clay
-hyper: clay
+hyper: clay1
 hyper: mineral
 g: clay whose redness results from iron oxide
 
@@ -11146,8 +11146,8 @@ hyper: seawater
 g: seawater that is discolored by large numbers of certain dinoflagellates that produce saxitoxin
 
 w: reducing_agent
-w: reducer drf verb.change:reduce3
-w: reductant drf verb.change:reduce3
+w: reducer drf verb.change:reduce6
+w: reductant drf verb.change:reduce6
 hyper: chemical_agent
 g: a substance capable of bringing about the reduction of another substance as it itself is oxidized; used in photography to lessen the density of a negative or print by oxidizing some of the loose silver
 
@@ -11155,12 +11155,12 @@ w: reductase
 hyper: enzyme
 g: an enzyme that catalyses the biochemical reduction of some specified substance
 
-w: refrigerant drf adjs.all:refrigerant drf verb.change:refrigerate
-hyper: noun.Tops:substance1
+w: refrigerant drf adjs.all:refrigerant drf verb.change:refrigerate1
+hyper: noun.Tops:substance
 g: any substance used to provide cooling (as in a refrigerator)
 
 w: regosol
-hyper: soil1
+hyper: soil
 g: a type of soil consisting of unconsolidated material from freshly deposited alluvium or sand
 
 w: regur
@@ -11175,11 +11175,11 @@ g: concrete with metal and/or mesh added to provide extra support against stress
 
 w: releasing_factor
 w: releasing_hormone
-w: RF1
+w: RF
 hyper: noun.event:factor
 g: a substance produced by the hypothalamus that is capable of accelerating the secretion of a given hormone by the anterior pituitary gland
 
-w: remover drf verb.change:remove
+w: remover drf verb.change:remove2
 hyper: solvent
 g: a solvent that removes a substance (usually from a surface); "paint remover"; "rust remover"; "hair remover"
 
@@ -11207,13 +11207,13 @@ w: rensselaerite
 hyper: talc
 g: a kind of soft talc; sometimes used as wood filler
 
-w: repellent1 drf adjs.all:repellent
-w: repellant1
+w: repellent drf adjs.all:repellent
+w: repellant
 hyper: compound
 g: a compound with which fabrics are treated to repel water
 
-w: repellent drf adjs.all:repellent drf verb.emotion:repel
-w: repellant drf adjs.all:repellant drf verb.emotion:repel
+w: repellent1 drf adjs.all:repellent drf verb.emotion:repel
+w: repellant1 drf adjs.all:repellant drf verb.emotion:repel
 hyper: compound
 g: a chemical substance that repels animals
 
@@ -11224,10 +11224,10 @@ g: oil products that remain after petroleum has been distilled
 
 w: residual_soil
 w: residual_clay
-hyper: soil1
+hyper: soil
 g: the soil that is remaining after the soluble elements have been dissolved
 
-w: residue drf adj.pert:residuary drf adj.pert:residual
+w: residue drf adj.pert:residuary1 drf adj.pert:residual
 hyper: noun.Tops:matter
 g: matter that remains after something has been removed
 
@@ -11260,7 +11260,7 @@ g: a renewed suspension of insoluble particles after they have been precipitated
 
 w: retinene
 w: retinal drf adj.pert:retinal
-hyper: pigment
+hyper: pigment1
 hs: visual_purple
 g: either of two yellow to red retinal pigments formed from rhodopsin by the action of light
 
@@ -11280,7 +11280,7 @@ g: a rare heavy polyvalent metallic element that resembles manganese chemically 
 
 w: rhesus_factor
 w: Rh_factor
-w: Rh1
+w: Rh
 hyper: antigen
 g: a blood group antigen possessed by Rh-positive people; if an Rh-negative person receives a blood transfusion from an Rh-positive person it can result in hemolysis and anemia
 
@@ -11293,7 +11293,7 @@ hyper: rock_crystal
 g: an imitation diamond made from rock crystal or glass or paste
 
 w: rhodium
-w: Rh
+w: Rh1
 w: atomic_number_45
 hyper: metallic_element
 g: a white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum
@@ -11375,18 +11375,18 @@ g: a double salt used in Seidlitz powder; acts as a cathartic
 
 w: rock_crystal
 w: transparent_quartz
-hyper: quartz
+hyper: quartz1
 g: a clear quartz used in making electronic and optical equipment
 
 w: rocket_fuel
 w: rocket_propellant
 w: rocket_propellent
-hyper: noun.artifact:charge
+hyper: noun.artifact:charge1
 hyper: propellant
 g: an explosive charge that propels a rocket
 
 w: rock
-w: stone drf verb.contact:stone
+w: stone1 drf verb.contact:stone
 hyper: material
 g: material consisting of the aggregate of minerals like those making up the Earth's crust; "that mountain is solid rock"; "stone is abundant in New England and there are many quarries"
 
@@ -11413,7 +11413,7 @@ hyper: roofing_material
 g: a heavy paper impregnated with tar and used as part of a roof for waterproofing
 
 w: rose_quartz
-hyper: quartz
+hyper: quartz1
 g: a translucent rose-red variety of quartz used for ornaments
 
 w: rotenone
@@ -11426,7 +11426,7 @@ hyper: limestone
 g: a weathered and decomposed siliceous limestone; in powdered form it is used in polishing
 
 w: roughcast
-hyper: plaster
+hyper: plaster1
 g: a coarse plaster for the surface of external walls
 
 w: royal_jelly
@@ -11437,7 +11437,7 @@ w: rubber_cement
 hyper: adhesive_material
 g: an adhesive made by dissolving unvulcanized rubber in a solvent like benzene or naphtha
 
-w: rubber drf adjs.all:rubbery drf verb.change:rubber drf verb.change:rubberize
+w: rubber1 drf adjs.all:rubbery1 drf verb.change:rubber drf verb.change:rubberize
 w: natural_rubber
 w: India_rubber
 w: gum_elastic
@@ -11445,7 +11445,7 @@ w: caoutchouc
 hyper: latex
 g: an elastic material obtained from the latex sap of trees (especially trees of the genera Hevea and Ficus) that can be vulcanized and finished into a variety of products
 
-w: rubber1
+w: rubber
 w: synthetic_rubber
 hyper: synthetic
 g: any of various synthetic elastic materials whose properties resemble natural rubber
@@ -11488,7 +11488,7 @@ w: Russia_leather
 hyper: leather
 g: a smooth leather tanned with willow, birch, or oak, and scented on the flesh side with birch oil
 
-w: rust drf adjs.all:rusty drf adjs.all:rusty drf verb.change:rust2 drf verb.change:rust1 drf verb.change:rust
+w: rust drf adjs.all:rusty1 drf adjs.all:rusty3 drf verb.change:rust2 drf verb.change:rust drf verb.change:rust1
 hyper: ferric_oxide
 g: a red or brown oxide coating on iron or steel caused by the action of oxygen and moisture
 
@@ -11582,8 +11582,8 @@ hyper: mineral
 hs: pegmatite
 g: a complex black mineral occurring in pegmatites
 
-w: sand drf adj.all:sandy2
-hyper: soil1
+w: sand drf adj.all:sandy
+hyper: soil
 hs: concrete
 hs: noun.object:beach
 hs: noun.object:sandbar
@@ -11600,7 +11600,7 @@ w: gum_sangapenum
 hyper: gum
 g: a variety of gum
 
-w: sap drf adjs.all:sappy
+w: sap drf adjs.all:sappy1
 hyper: solution
 g: a watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant
 
@@ -11618,7 +11618,7 @@ hyper: mineral
 g: a rare light blue or green mineral; consists of aluminum and magnesium silicate and occurs as small grains in some metamorphic rocks
 
 w: saprolite
-hyper: earth
+hyper: earth1
 g: a deposit of clay and disintegrating rock that is found in its original place
 
 w: sapropel
@@ -11658,7 +11658,7 @@ hyper: fatty_acid
 g: a fatty acid whose carbon chain cannot absorb any more hydrogen atoms; found chiefly in animal fats
 
 w: saw_log
-hyper: log1
+hyper: log
 g: log large enough to be sawed into boards
 
 w: sawdust
@@ -11740,8 +11740,8 @@ w: seal_oil
 hyper: animal_oil
 g: a pale yellow to red-brown fatty oil obtained from seal blubber; used in making soap and dressing leather and as a lubricant
 
-w: sealant drf verb.contact:seal drf verb.contact:seal4 drf verb.contact:seal3
-w: sealer drf verb.contact:seal4 drf verb.contact:seal3
+w: sealant drf verb.contact:seal2 drf verb.contact:seal3 drf verb.contact:seal1
+w: sealer drf verb.contact:seal3 drf verb.contact:seal1
 hyper: sealing_material
 g: a kind of sealing material that is used to form a hard coating on a porous surface (as a coat of paint or varnish used to size a surface)
 
@@ -11757,7 +11757,7 @@ g: the pelt or fur (especially the underfur) of a seal; "a coat of seal"
 w: seawater
 w: saltwater ant fresh_water
 w: brine drf adjs.all:briny drf verb.change:brine
-hyper: water
+hyper: water2
 g: water containing salts; "the water in the ocean is all saltwater"
 
 w: sebacic_acid
@@ -11770,7 +11770,7 @@ hyper: enzyme
 g: a set of enzymes believed to snip pieces off a longer protein producing fragments of amyloid protein that bunch up and create amyloid protein plaques in brain tissue (the pathological hallmark of Alzheimer's)
 
 w: sedimentary_clay
-hyper: soil1
+hyper: soil
 g: clay soil formed by sedimentary deposits
 
 w: sedimentary_rock
@@ -11809,14 +11809,14 @@ w: Senegal_gum
 hyper: gum_arabic
 g: gum arabic from the vicinity of the Senegal river
 
-w: sensitizer drf verb.change:sensitize2
-w: sensitiser drf verb.change:sensitise2 drf verb.change:sensitise1
+w: sensitizer drf verb.change:sensitize
+w: sensitiser drf verb.change:sensitise drf verb.change:sensitise1
 hyper: activator
 dt: noun.cognition:chemistry
 g: (chemistry) a substance other than a catalyst that facilitates the start of a catalytic reaction
 
 w: sepia
-hyper: pigment
+hyper: pigment1
 g: rich brown pigment prepared from the ink of cuttlefishes
 
 w: serine
@@ -11844,7 +11844,7 @@ hyper: waste
 g: waste matter carried away in sewers or drains
 
 w: sewer_gas
-hyper: gas
+hyper: gas1
 g: foul-smelling gas that forms in sewers
 
 w: shag
@@ -11856,7 +11856,7 @@ hyper: sedimentary_rock
 g: a sedimentary rock formed by the deposition of successive layers of clay
 
 w: shale_oil
-hyper: oil
+hyper: oil1
 g: oil extracted from oil shale by heating
 
 w: shark_oil
@@ -11866,7 +11866,7 @@ g: a fatty yellow to brown oil obtained from the livers of sharks; used for dres
 
 w: sheep_dip
 hyper: pesticide
-hyper: liquid4
+hyper: liquid
 g: a liquid mixture containing pesticides in which sheep are dipped to kill parasites
 
 w: sheepskin
@@ -11874,7 +11874,7 @@ w: fleece1 drf verb.contact:fleece
 hyper: leather
 g: tanned skin of a sheep with the fleece left on; used for clothing
 
-w: shell drf verb.contact:shell8
+w: shell drf verb.contact:shell2
 hyper: animal_material
 hs: noun.animal:carapace
 g: the material that forms the hard outer covering of many animals
@@ -11892,7 +11892,7 @@ w: Shetland_wool
 hyper: wool
 g: a wool obtained from sheep of the Shetland islands
 
-w: shingle2 drf adjs.all:shingly
+w: shingle1 drf adjs.all:shingly
 hyper: gravel
 g: coarse beach gravel of small waterworn stones and pebbles (or a stretch of shore covered with such gravel)
 
@@ -11920,7 +11920,7 @@ hyper: polish
 g: a substance used to produce a shiny protective surface on footwear
 
 w: short-staple_cotton
-hyper: cotton1
+hyper: cotton
 g: cotton with relatively short fibers
 
 w: shot_metal
@@ -11929,7 +11929,7 @@ g: an alloy that is 98% lead and 2% arsenic; used in making small shot
 
 w: sial
 hyper: rock
-hs: noun.object:crust
+hs: noun.object:crust1
 g: the granitelike rocks that form the outermost layer of the earth's crust; rich in silicon and aluminum
 
 w: siderite
@@ -11957,7 +11957,7 @@ w: silica drf adj.pert:silicious drf adj.pert:siliceous
 w: silicon_oxide
 w: silicon_dioxide
 hyper: oxide
-hs: quartz
+hs: quartz1
 hs: cristobalite
 hs: tridymite
 hs: quartz_glass
@@ -11988,7 +11988,7 @@ hyper: plastic
 g: a polymeric silicone compound
 
 w: silicone_rubber
-hyper: rubber1
+hyper: rubber
 g: made from silicone elastomers; retains flexibility resilience and tensile strength over a wide temperature range
 
 w: silicone
@@ -12003,10 +12003,10 @@ w: atomic_number_14
 hyper: chemical_element
 hyper: semiconductor
 hs: silicone
-hs: clay
+hs: clay1
 hs: feldspar
 hs: granite
-hs: quartz
+hs: quartz1
 hs: sand
 g: a tetravalent nonmetallic element; next to oxygen it is the most abundant element in the earth's crust; occurs in clay and feldspar and granite and quartz and sand; used as a semiconductor in transistors
 
@@ -12019,7 +12019,7 @@ hyper: compound
 g: any of a large class of compounds that have alternate silicon and oxygen atoms
 
 w: silt drf adjs.all:silty drf verb.contact:silt
-hyper: soil1
+hyper: soil
 g: mud or clay or small rocks deposited by a river or lake
 
 w: siltstone
@@ -12049,7 +12049,7 @@ w: silver_solder
 hyper: solder
 g: a solder that contains silver
 
-w: silver drf adjs.all:silvery drf verb.contact:silver
+w: silver drf adjs.all:silvery2 drf verb.contact:silver
 w: Ag
 w: atomic_number_47
 hyper: noble_metal
@@ -12065,7 +12065,7 @@ g: a herbicide that is effective in controlling woody plants but is toxic to ani
 
 w: sima
 hyper: rock
-hs: noun.object:crust
+hs: noun.object:crust1
 g: rock that form the continuous lower layer of the earth's crust; rich in silicon and magnesium
 
 w: simazine
@@ -12102,7 +12102,7 @@ w: ski_wax
 hyper: wax
 g: wax used on the bottom of skis
 
-w: slack drf verb.change:slack6
+w: slack drf verb.change:slack5
 hyper: debris
 g: dust consisting of a mixture of small coal fragments and coal dust and dirt that sifts out when coal is passed over a sieve
 
@@ -12112,11 +12112,11 @@ w: dross
 hyper: noun.artifact:scum
 g: the scum formed by oxidation at the surface of molten metals
 
-w: slate
+w: slate1
 hyper: sedimentary_rock
 g: a fine-grained metamorphic rock that can be split into thin layers
 
-w: slate1 drf verb.contact:slate
+w: slate drf verb.contact:slate
 w: slating
 hyper: roofing_material
 g: thin layers of rock used for roofing
@@ -12129,7 +12129,7 @@ w: slop1
 hyper: waste
 g: (usually plural) waste water from a kitchen or bathroom or chamber pot that has to be emptied by hand; "she carried out the sink slops"
 
-w: slop drf adjs.all:sloppy
+w: slop drf adjs.all:sloppy1
 w: mire
 hyper: mud
 g: deep soft mud in water or slush; "they waded through the slop"
@@ -12145,7 +12145,7 @@ w: goop
 w: gook
 w: guck
 w: gunk
-w: muck drf adjs.all:mucky drf verb.contact:muck drf verb.change:muck1
+w: muck drf adjs.all:mucky1 drf verb.contact:muck drf verb.change:muck
 w: ooze
 hyper: noun.Tops:matter
 g: any thick, viscous matter
@@ -12155,7 +12155,7 @@ hyper: suspension
 g: a suspension of insoluble particles (as plaster of Paris or lime or clay etc.) usually in water
 
 w: slush drf adjs.all:slushy
-hyper: water
+hyper: water2
 g: partially melted snow
 
 w: smaltite
@@ -12172,7 +12172,7 @@ hyper: noun.artifact:explosive
 g: an explosive (trade name Ballistite) that burns with relatively little smoke; contains pyrocellulose and is used as a propellant
 
 w: snake_oil
-hyper: liquid4
+hyper: liquid
 dt: noun.cognition:medicine
 g: (medicine) any of various liquids sold as medicine (as by a travelling medicine show) but medically worthless
 
@@ -12180,14 +12180,14 @@ w: snake_venom
 hyper: venom
 g: venom secreted by certain snakes
 
-w: snow drf adjs.all:snowy2 drf adjs.all:snowy drf verb.weather:snow
+w: snow drf adjs.all:snowy drf adjs.all:snowy1 drf verb.weather:snow
 hyper: noun.location:layer
 hs: noun.artifact:snowball
 g: a layer of snowflakes (white crystals of frozen water) covering the ground
 
 w: snuff
 hyper: char
-hp: noun.artifact:candlewick
+hp: noun.artifact:candlewick1
 g: the charred portion of a candlewick
 
 w: soapstone
@@ -12229,7 +12229,7 @@ hs: seawater
 g: a white crystalline solid consisting mainly of sodium chloride (NaCl)
 
 w: sodium_cyanide
-hyper: cyanide
+hyper: cyanide1
 g: a white poisonous salt (NaCN) used in electroplating
 
 w: sodium_dichromate
@@ -12315,7 +12315,7 @@ hyper: solder
 g: solder that melts at a relatively low temperature
 
 w: soft_water ant hard_water
-hyper: water
+hyper: water2
 g: water that is not hard (does not contain mineral salts that interfere with the formation of lather with soap)
 
 w: softener drf verb.change:soften1
@@ -12331,9 +12331,9 @@ w: soil_conditioner
 hyper: chemical
 g: a chemical substance used to improve the structure of the soil and increase its porosity; "gypsum can be used as a soil conditioner"
 
-w: soil1
+w: soil
 w: dirt1
-hyper: earth
+hyper: earth1
 g: the part of the earth's surface consisting of humus and disintegrated rock
 
 w: sol
@@ -12350,7 +12350,7 @@ w: soldering_flux
 hyper: flux
 g: flux applied to surfaces that are to be joined by soldering; flux cleans the surfaces and results in a better bond
 
-w: solid4 drf verb.change:solidify
+w: solid drf verb.change:solidify1
 hyper: noun.Tops:matter
 g: matter that is solid at room temperature and pressure
 
@@ -12374,7 +12374,7 @@ w: solution
 hyper: mixture
 g: a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution; "he used a solution of peroxide and water"
 
-w: solvate drf verb.change:solvate drf verb.change:solvate1
+w: solvate drf verb.change:solvate1 drf verb.change:solvate
 hyper: compound
 g: a compound formed by solvation (the combination of solvent molecules with molecules or ions of the solute)
 
@@ -12382,16 +12382,16 @@ w: solvating_agent
 hyper: agent
 g: an agent that converts something into a solvate
 
-w: solvent drf verb.change:solvate1 drf verb.change:solvate
-w: dissolvent drf verb.change:dissolve1
-w: dissolver drf verb.change:dissolve1 drf verb.change:dissolve
+w: solvent drf verb.change:solvate drf verb.change:solvate1
+w: dissolvent drf verb.change:dissolve2
+w: dissolver drf verb.change:dissolve2 drf verb.change:dissolve3
 w: dissolving_agent
-w: resolvent drf verb.change:resolve7
+w: resolvent drf verb.change:resolve
 hyper: medium3
 g: a liquid substance capable of dissolving other substances; "the solvent does not change its state in forming a solution"
 
 w: soman
-w: GD1
+w: GD
 hyper: organophosphate_nerve_agent
 g: a nerve agent easily absorbed into the body; a lethal cholinesterase inhibitor that is highly toxic when inhaled
 
@@ -12427,7 +12427,7 @@ g: a leaven of dough in which fermentation is active; used by pioneers for makin
 
 w: spackle
 w: spackling_compound
-hyper: plaster
+hyper: plaster1
 g: powder (containing gypsum plaster and glue) that when mixed with water forms a plastic paste used to fill cracks and holes in plaster
 
 w: spar
@@ -12460,8 +12460,8 @@ w: spiegel_iron
 hyper: pig_iron
 g: pig iron containing manganese; used as a deoxidizing agent and to raise the manganese content in making steel
 
-w: spill drf verb.contact:spill1 drf verb.motion:spill drf verb.contact:spill4
-hyper: liquid
+w: spill drf verb.contact:spill1 drf verb.motion:spill drf verb.contact:spill
+hyper: liquid1
 g: liquid that is spilled; "clean up the spills"
 
 w: spindrift
@@ -12502,11 +12502,11 @@ w: spodumene
 hyper: mineral
 g: a pyroxene mineral consisting of lithium aluminum silicate; a source of lithium
 
-w: sponge drf adjs.all:spongy drf verb.contact:sponge2 drf verb.contact:sponge1 drf verb.contact:sponge drf verb.contact:sponge3
+w: sponge drf adjs.all:spongy1 drf verb.contact:sponge1 drf verb.contact:sponge drf verb.contact:sponge2 drf verb.contact:sponge3
 hyper: absorbent_material
 g: a porous mass of interlacing fibers that forms the internal skeleton of various marine animals and usable to absorb water or any porous rubber or cellulose product similarly used
 
-w: spray drf verb.contact:spray drf verb.contact:spray1
+w: spray drf verb.contact:spray2 drf verb.contact:spray
 hyper: water_vapor
 g: water in small drops in the atmosphere; blown from waves or thrown up by a waterfall
 
@@ -12536,7 +12536,7 @@ w: staff
 hyper: building_material
 g: building material consisting of plaster and hair; used to cover external surfaces of temporary structure (as at an exposition) or for decoration
 
-w: stain drf verb.change:stain4
+w: stain drf verb.change:stain2
 hyper: coloring_material
 dt: noun.act:microscopy
 g: (microscopy) a dye or other coloring material that is used in microscopy to make structures visible
@@ -12552,7 +12552,7 @@ hyper: alloy_steel
 g: steel containing chromium that makes it resistant to corrosion
 
 w: stand_oil
-hyper: oil
+hyper: oil1
 g: a thick oil comprised of linseed, tung, or soya oils which have been heated to over 300 C
 
 w: stannic_chloride
@@ -12578,7 +12578,7 @@ hyper: staphylococcal_enterotoxin
 hyper: noun.artifact:bioweapon
 g: a form of staphylococcal enterotoxin that has been used as an incapacitating agent in biological warfare
 
-w: staple1
+w: staple
 w: staple_fiber
 w: staple_fibre
 hyper: natural_fiber
@@ -12602,7 +12602,7 @@ hyper: buffer_solution
 g: buffer solution at the start of a reaction
 
 w: steam drf verb.change:steam drf verb.contact:steam
-hyper: vapor1
+hyper: vapor
 g: water at boiling temperature diffused in the atmosphere
 
 w: steam_coal
@@ -12618,7 +12618,7 @@ w: stearin drf adj.pert:stearic
 hyper: glyceryl_ester
 g: an ester of glycerol and stearic acid
 
-w: steel drf adjs.all:steely drf verb.contact:steel
+w: steel drf adjs.all:steely1 drf verb.contact:steel
 hyper: alloy
 g: an alloy of iron with small amounts of carbon; widely used in construction; mechanical properties can be varied over a wide range
 
@@ -12650,7 +12650,7 @@ hyper: organic_compound
 g: any of several fat-soluble organic compounds having as a basis 17 carbon atoms in four rings; many have important physiological effects
 
 w: steroid_hormone
-w: steroid2 drf adj.pert:steroidal
+w: steroid1 drf adj.pert:steroidal
 w: sex_hormone
 hyper: noun.body:hormone
 g: any hormone affecting the development and growth of sex organs
@@ -12681,11 +12681,11 @@ w: sticky_end
 hyper: deoxyribonucleic_acid
 g: an end of DNA in which one strand of the double helix extends a few units beyond the other
 
-w: stiffener drf verb.change:stiffen1
+w: stiffener drf verb.change:stiffen2
 hyper: filler
 g: material used for stiffening something
 
-w: straw drf verb.contact:straw1
+w: straw drf verb.contact:straw
 hyper: plant_fiber
 hs: noun.artifact:padding
 g: plant fiber used e.g. for making baskets and hats or as fodder
@@ -12710,7 +12710,7 @@ w: string
 hyper: fiber
 g: a tough piece of fiber in vegetables, meat, or other food (especially the tough fibers connecting the two halves of a bean pod)
 
-w: stripper drf verb.change:strip2
+w: stripper drf verb.change:strip4
 hyper: compound
 g: a chemical compound used to remove paint or varnish
 
@@ -12749,7 +12749,7 @@ hs: noun.artifact:nux_vomica
 g: an alkaloid plant toxin extracted chiefly from nux vomica; formerly used as a stimulant
 
 w: stucco drf verb.contact:stucco drf verb.creation:stucco
-hyper: plaster
+hyper: plaster1
 g: a plaster now made mostly from Portland cement and sand and lime; applied while soft to cover exterior walls or surfaces
 
 w: styrene
@@ -12770,13 +12770,13 @@ w: octanedioic_acid
 hyper: carboxylic_acid
 g: a dicarboxylic acid found in cork
 
-w: sublimate drf verb.change:sublimate5 drf verb.change:sublimate1 drf verb.change:sublimate drf verb.change:sublime
-hyper: gas
+w: sublimate drf verb.change:sublimate2 drf verb.change:sublimate1 drf verb.change:sublimate3 drf verb.change:sublime1
+hyper: gas1
 g: the product of vaporization of a solid
 
 w: subsoil
 w: undersoil
-hyper: soil1
+hyper: soil
 g: the layer of soil between the topsoil and bedrock
 
 w: substance
@@ -12784,7 +12784,7 @@ hyper: noun.Tops:physical_entity
 g: material of a particular kind or constitution; "the immune response recognizes invading substances"
 
 w: substrate
-hyper: noun.Tops:substance
+hyper: noun.Tops:substance1
 g: the substance that is acted upon by an enzyme or ferment
 
 w: succinic_acid
@@ -12829,7 +12829,7 @@ g: an acid derived from sulphuric acid
 w: sulfur_dioxide
 w: sulphur_dioxide
 hyper: dioxide
-hyper: gas
+hyper: gas1
 hyper: pollutant
 g: a colorless toxic gas (SO2) that occurs in the gases from volcanoes; used in many manufacturing processes and present in industrial emissions; causes acid rain
 
@@ -12855,11 +12855,11 @@ g: an abundant tasteless odorless multivalent nonmetallic element; best known in
 
 w: sunstone
 w: aventurine
-hyper: quartz
+hyper: quartz1
 hyper: transparent_gem
 g: a translucent quartz spangled with bits of mica or other minerals
 
-w: superoxide1
+w: superoxide
 hyper: oxide
 g: a metallic oxide containing the univalent anion O2-
 
@@ -12868,7 +12868,7 @@ w: SOD
 hyper: enzyme
 g: an enzyme that catalyzes the conversion of superoxide into hydrogen peroxide and oxygen; "oxygen free radicals are normally removed in our bodies by the superoxide dismutase enzymes"
 
-w: superoxide
+w: superoxide1
 w: superoxide_anion
 hyper: noun.object:anion
 g: the univalent anion O2-; "much of the O2 supporting cellular respiration is reduced to the superoxide anion O2-"
@@ -12878,7 +12878,7 @@ hyper: methylated_spirit
 dr: noun.location:United_Kingdom
 g: methylated spirit used in the practice of medicine (especially for cleansing the skin before injections or before surgery)
 
-w: suspension drf verb.change:suspend1
+w: suspension drf verb.change:suspend2
 hyper: mixture
 g: a mixture in which fine particles are suspended in a fluid where they are supported by buoyancy
 
@@ -12916,7 +12916,7 @@ dt: noun.cognition:physical_chemistry
 g: (physical chemistry) a sample of matter in which substances in different phases are in equilibrium; "in a static system oil cannot be replaced by water on a surface"; "a system generating hydrogen peroxide"
 
 w: tabun
-w: GA1
+w: GA
 hyper: organophosphate_nerve_agent
 g: the first known nerve agent, synthesized by German chemists in 1936; a highly toxic combustible liquid that is soluble in organic solvents and is used as a nerve gas in chemical warfare
 
@@ -12936,7 +12936,7 @@ hs: noun.artifact:talcum
 g: a fine grained mineral having a soft soapy feel and consisting of hydrated magnesium silicate; used in a variety of products including talcum powder
 
 w: tall_oil
-hyper: oil
+hyper: oil1
 g: an oil derived from wood pulp and used in making soaps or lubricants
 
 w: tallow
@@ -12992,7 +12992,7 @@ w: tear_gas
 w: teargas
 w: lacrimator
 w: lachrymator
-hyper: gas
+hyper: gas1
 hyper: noun.artifact:chemical_weapon
 g: a gas that makes the eyes fill with tears but does not damage them; used in dispersing crowds
 
@@ -13015,7 +13015,7 @@ w: telluride
 hyper: compound
 g: any binary compound of tellurium with other more electropositive elements
 
-w: tellurium drf adj.pert:telluric1
+w: tellurium drf adj.pert:telluric
 w: Te
 w: atomic_number_52
 hyper: chemical_element
@@ -13050,7 +13050,7 @@ w: terpene
 hyper: hydrocarbon
 g: an unsaturated hydrocarbon obtained from plants
 
-w: terra_alba1
+w: terra_alba
 hyper: gypsum
 g: finely pulverized gypsum used especially as a pigment
 
@@ -13136,7 +13136,7 @@ hyper: organic_compound
 g: a compound made up of a ring of four carbon atoms and one sulfur atom and one nitrogen atom
 
 w: thickening
-w: thickener drf verb.change:thicken2 drf verb.change:thicken1
+w: thickener drf verb.change:thicken drf verb.change:thicken1
 hyper: material
 g: any material used to thicken; "starch is used in cooking as a thickening"
 
@@ -13197,8 +13197,8 @@ hs: xenotime
 g: a soft silvery metallic element of the rare earth group; isotope 170 emits X-rays and is used in small portable X-ray machines; it occurs in monazite and apatite and xenotime
 
 w: thymine
-w: T1
-hyper: pyrimidine1
+w: T
+hyper: pyrimidine
 hs: deoxyribonucleic_acid
 g: a base found in DNA (but not in RNA) and derived from pyrimidine; pairs with adenine
 
@@ -13252,14 +13252,14 @@ g: a thin flat slab of fired clay used for roofing
 
 w: till drf verb.creation:till
 w: boulder_clay
-hyper: soil1
+hyper: soil
 g: unstratified soil deposited by a glacier; consists of sand and clay and gravel and boulders mixed together
 
-w: tincture drf verb.change:tincture drf verb.change:tinge
+w: tincture drf verb.change:tincture1 drf verb.change:tinge
 hyper: coloring_material
 g: a substances that colors metals
 
-w: tin drf adj.pert:tinny drf verb.change:tin2 drf verb.contact:tin
+w: tin drf adj.pert:tinny drf verb.change:tin1 drf verb.contact:tin
 w: Sn
 w: atomic_number_50
 hyper: metallic_element
@@ -13267,7 +13267,7 @@ hs: cassiterite
 hs: noun.artifact:tinfoil
 g: a silvery malleable metallic element that resists corrosion; used in many alloys and to coat other metals to prevent corrosion; obtained chiefly from cassiterite where it occurs as tin oxide
 
-w: tissue2
+w: tissue
 w: tissue_paper
 hyper: paper
 g: a soft thin (usually translucent) paper
@@ -13280,7 +13280,7 @@ w: titanium_dioxide
 w: titanium_oxide
 w: titanic_oxide
 w: titania
-hyper: pigment
+hyper: pigment1
 hyper: oxide
 g: a white powder used as a pigment for its high covering power and durability
 
@@ -13300,7 +13300,7 @@ g: a roll of toilet paper
 w: toilet_tissue
 w: toilet_paper
 w: bathroom_tissue
-hyper: tissue2
+hyper: tissue
 g: a soft thin absorbent paper for use in toilets
 
 w: toluene
@@ -13319,11 +13319,11 @@ w: tambac
 hyper: alloy
 g: an alloy of copper and zinc (and sometimes arsenic) used to imitate gold in cheap jewelry and for gilding
 
-w: toner1 drf verb.change:tone2 drf verb.change:tone1
+w: toner drf verb.change:tone drf verb.change:tone1
 hyper: solution
 g: a solution containing chemicals that can change the color of a photographic print
 
-w: toner drf verb.change:tone2
+w: toner1 drf verb.change:tone
 hyper: material
 g: a black or colored powder used in a printer to develop a xerographic image
 
@@ -13335,15 +13335,15 @@ w: top_fermenting_yeast
 hyper: brewer's_yeast
 g: brewer's yeast used in top fermentation of ale
 
-w: topaz
+w: topaz1
 hyper: transparent_gem
 hyper: mineral
 g: a mineral (fluosilicate of aluminum) that occurs in crystals of various colors and is used as a gemstone
 
-w: topaz1
+w: topaz
 w: false_topaz
 w: common_topaz
-hyper: quartz
+hyper: quartz1
 g: a yellow quartz
 
 w: tophus
@@ -13353,7 +13353,7 @@ g: a deposit of urates around a joint or in the external ear; diagnostic of adva
 
 w: topsoil
 w: surface_soil
-hyper: soil1
+hyper: soil
 g: the layer of soil on the surface
 
 w: tortoiseshell
@@ -13583,7 +13583,7 @@ hyper: essential_amino_acid
 g: an amino acid that occurs in proteins; is essential for growth and normal metabolism; a precursor of niacin
 
 w: tuberculin
-hyper: liquid
+hyper: liquid1
 g: a sterile liquid containing a purified protein derivative of the tuberculosis bacterium; used in the diagnosis of tuberculosis
 
 w: tubocurarine
@@ -13619,12 +13619,12 @@ hyper: fish-liver_oil
 g: an oil obtained from tuna
 
 w: tundra_soil
-hyper: soil1
+hyper: soil
 g: a black mucky soil with a frozen subsoil that is characteristic of Arctic and subarctic regions
 
 w: tung_oil
 w: Chinese_wood_oil
-hyper: oil
+hyper: oil1
 g: a yellow oil obtained from the seeds of the tung tree
 
 w: tungstate
@@ -13706,7 +13706,7 @@ g: any of several quinones found in living cells and that function as coenzymes 
 
 w: ultramarine
 w: ultramarine_blue
-hyper: pigment
+hyper: pigment1
 g: blue pigment made of powdered lapis lazuli
 
 w: umber
@@ -13717,7 +13717,7 @@ w: undecylenic_acid
 hyper: acid
 g: an acid that is a component of perspiration
 
-w: undercut drf verb.contact:undercut1 drf verb.contact:undercut2
+w: undercut drf verb.contact:undercut1 drf verb.contact:undercut
 hyper: material
 g: the material removed by a cut made underneath
 
@@ -13766,7 +13766,7 @@ hyper: chemical_element
 g: a radioactive transuranic element
 
 w: uracil
-w: U1
+w: U
 hyper: nucleotide
 hs: ribonucleic_acid
 g: a base containing nitrogen that is found in RNA (but not in DNA) and derived from pyrimidine; pairs with adenine
@@ -13789,7 +13789,7 @@ hyper: ore
 g: any ore from which uranium can be extracted
 
 w: uranium
-w: U
+w: U1
 w: atomic_number_92
 hyper: metallic_element
 hs: uraninite
@@ -13836,12 +13836,12 @@ w: uric_acid
 hyper: acid
 g: a white tasteless odorless crystalline product of protein metabolism; found in the blood and urine
 
-w: urine drf adj.pert:urinary drf verb.body:urinate
+w: urine drf adj.pert:urinary1 drf verb.body:urinate1
 w: piss drf verb.body:piss
 w: pee drf verb.body:pee
 w: piddle drf verb.body:piddle
 w: weewee
-w: water1
+w: water
 hyper: body_waste
 g: liquid excretory product; "there was blood in his urine"; "the child had to make water"
 
@@ -13892,8 +13892,8 @@ hs: carnotite
 hs: vanadinite
 g: a soft silvery white toxic metallic element used in steel alloys; it occurs in several complex minerals including carnotite and vanadinite
 
-w: vapor1 drf adjs.all:vaporous drf adjs.all:vaporous drf verb.change:evaporate2 drf verb.change:evaporate1 drf verb.change:vaporize1 drf verb.change:vaporize drf verb.change:vaporise1 drf verb.change:vaporise
-w: vapour1
+w: vapor drf adjs.all:vaporous1 drf adjs.all:vaporous2 drf verb.change:evaporate drf verb.change:evaporate1 drf verb.change:vaporize1 drf verb.change:vaporize drf verb.change:vaporise3 drf verb.change:vaporise2
+w: vapour
 hyper: suspension
 g: a visible suspension in the air of particles of some substance
 
@@ -13915,15 +13915,15 @@ hyper: wax
 g: a waxy substance obtained from plants (especially from the trunks of certain palms)
 
 w: vehicle
-hyper: noun.Tops:substance1
+hyper: noun.Tops:substance
 g: any substance that facilitates the use of a drug or pigment or other material that is mixed with it
 
-w: vellum1
+w: vellum
 hyper: writing_paper
 g: a heavy creamy-colored paper resembling parchment
 
-w: vellum
-hyper: parchment
+w: vellum1
+hyper: parchment1
 g: fine parchment prepared from the skin of a young animal e.g. a calf or lamb
 
 w: venom drf adjs.all:venomous
@@ -13937,7 +13937,7 @@ g: a dark green impure marble
 
 w: verdigris drf verb.change:verdigris
 w: cupric_acetate
-hyper: pigment
+hyper: pigment1
 g: a blue or green powder used as a paint pigment
 
 w: vermiculite
@@ -14075,7 +14075,7 @@ hyper: B-complex_vitamin
 g: a B vitamin that is essential for cell growth and reproduction
 
 w: vitamin_C
-w: C3
+w: C
 w: ascorbic_acid
 hyper: water-soluble_vitamin
 hyper: antioxidant
@@ -14092,7 +14092,7 @@ g: a fat-soluble vitamin that prevents rickets
 
 w: vitamin_E
 w: tocopherol
-w: E1
+w: E
 hyper: fat-soluble_vitamin
 hyper: antioxidant
 g: a fat-soluble vitamin that is essential for normal reproduction; an important antioxidant that neutralizes free radicals in the body
@@ -14120,11 +14120,11 @@ w: citrin
 hyper: water-soluble_vitamin
 g: a vitamin that maintains the resistance of cell and capillary walls to permeation
 
-w: vitrification drf verb.change:vitrify1
-hyper: solid4
+w: vitrification drf verb.change:vitrify
+hyper: solid
 g: a vitrified substance; the glassy result of being vitrified
 
-w: vitriol drf adjs.all:vitriolic
+w: vitriol drf adjs.all:vitriolic1
 w: oil_of_vitriol
 w: sulfuric_acid
 w: sulphuric_acid
@@ -14132,7 +14132,7 @@ hyper: acid
 g: (H2SO4) a highly corrosive acid made from sulfur dioxide; widely used in the chemical industry
 
 w: volatile drf adj.all:volatile
-hyper: noun.Tops:substance
+hyper: noun.Tops:substance1
 g: a volatile substance; a substance that changes readily from solid or liquid to a vapor; "it was heated to evaporate the volatiles"
 
 w: volcanic_glass
@@ -14159,7 +14159,7 @@ hyper: material
 g: a small mass of soft material; "he used a wad of cotton to wipe the counter"
 
 w: wafer
-hyper: paste
+hyper: paste2
 g: a small adhesive disk of paste; used to seal letters
 
 w: wallpaper drf verb.contact:wallpaper
@@ -14181,8 +14181,8 @@ w: waste_product
 hyper: material
 g: any materials unused and rejected as worthless or unwanted; "they collect the waste once a week"; "much of the waste material is carried off in the sewers"
 
-w: water2
-hyper: element1
+w: water1
+hyper: element
 du: noun.communication:archaism
 g: once thought to be one of four elements composing the universe (Empedocles)
 
@@ -14192,13 +14192,13 @@ g: any vitamin that is soluble in water
 
 w: water_gas
 hyper: fuel
-hyper: gas
+hyper: gas1
 g: a mixture of hydrogen and carbon monoxide with small amounts of other gases; made by blowing steam over hot coke or coal
 
 w: water_of_crystallization
 w: water_of_crystallisation
 w: water_of_hydration
-hyper: water
+hyper: water2
 g: the water present in hydrated compounds
 
 w: water_sapphire
@@ -14212,7 +14212,7 @@ g: a substance (such as sodium chloride) that lessens the hardness of water by r
 
 w: water_vapor
 w: water_vapour
-hyper: vapor1
+hyper: vapor
 hs: noun.object:cloud
 g: water in a vaporous form diffused in the atmosphere but below boiling temperature
 
@@ -14220,14 +14220,14 @@ w: watercolor drf verb.creation:watercolor
 w: water-color
 w: watercolour drf noun.person:watercolourist
 w: water-colour
-hyper: pigment
+hyper: pigment1
 g: water-soluble pigment
 
-w: water drf adjs.all:watery2 drf adjs.all:watery drf verb.possession:water drf verb.change:water
+w: water2 drf adjs.all:watery drf adjs.all:watery2 drf verb.possession:water drf verb.change:water1
 w: H2O
 hyper: binary_compound
-hyper: liquid
-hs: noun.body:tear1
+hyper: liquid1
+hs: noun.body:tear
 hs: noun.body:perspiration
 hs: noun.phenomenon:snowflake
 hs: ice
@@ -14281,7 +14281,7 @@ g: a pale alloy of gold usually with platinum or nickel or palladium
 w: white_lead
 w: ceruse
 w: lead_carbonate
-hyper: pigment
+hyper: pigment1
 g: a poisonous white pigment that contains lead
 
 w: white_leather
@@ -14299,7 +14299,7 @@ hyper: wood
 g: slender flexible branches or twigs (especially of willow or some canes); used for wickerwork
 
 w: wiesenboden
-hyper: soil1
+hyper: soil
 g: a dark meadow soil rich in organic material; developed through poor drainage in humid grassy or sedge regions
 
 w: Windsor_green
@@ -14326,9 +14326,9 @@ g: a white or greyish mineral typically found in metamorphic limestone; a silica
 w: wood drf adj.all:woody
 hyper: plant_material
 hs: lumber
-hs: noun.artifact:beam
+hs: noun.artifact:beam1
 hs: noun.artifact:chopping_block
-hs: noun.artifact:spindle2
+hs: noun.artifact:spindle
 g: the hard fibrous lignified substance under the bark of trees
 
 w: Wood's_metal
@@ -14375,7 +14375,7 @@ hyper: paper
 g: a tough paper used for wrapping
 
 w: writing_ink
-hyper: ink1
+hyper: ink
 g: any permanent or washable ink used with pens
 
 w: writing_paper
@@ -14417,7 +14417,7 @@ w: Xe
 w: atomic_number_54
 hyper: chemical_element
 hyper: noble_gas
-hs: air
+hs: air1
 g: a colorless odorless inert gaseous element occurring in the earth's atmosphere in trace amounts
 
 w: xenotime
@@ -14446,7 +14446,7 @@ g: an impure mixture of uranium oxides obtained during the processing of uranium
 
 w: ylem
 hyper: noun.Tops:matter
-dt: noun.cognition:cosmology
+dt: noun.cognition:cosmology1
 g: (cosmology) the original matter that (according to the big bang theory) existed before the formation of the chemical elements
 
 w: ytterbium
@@ -14517,7 +14517,7 @@ g: a yellow to white crystalline fluorescent compound that occurs naturally as s
 
 w: zinc_white
 w: Chinese_white
-hyper: pigment
+hyper: pigment1
 g: a white pigment used in house paints; consists of zinc oxide
 
 w: zinc

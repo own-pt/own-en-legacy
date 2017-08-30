@@ -1,61 +1,61 @@
-w: abort1
-hyper: verb.change:die
-fr: 1
+w: abort
+hyper: verb.change:die2
+frame: 1
 g: cease development, die, and be aborted; "an aborting fetus"
 
-w: abort event noun.act:abortion drf noun.act:abortion
+w: abort1 event noun.act:abortion drf noun.act:abortion
 entail: conceive
-hyper: exhaust2
-fr: 2
+hyper: exhaust
+frame: 2
 g: terminate a pregnancy by undergoing an abortion
 
 w: act_involuntarily
 w: act_reflexively
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: act in an uncontrolled manner
 
-w: act see verb.perception:act_up
+w: act1 see verb.perception:act_up
 w: behave
-w: do9
-vg: act1
+w: do1
+vg: act
 vg: verb.creation:dissemble
-fr: 2 7
+frame: 2 7
 g: behave in a certain manner; show a certain behavior; conduct or comport oneself; "You should act like an adult"; "Don't behave like a fool"; "What makes her do this way?"; "The dog acts ferocious, but he is really afraid of people"
 
-w: act1 event noun.communication:act3 drf noun.communication:act3
+w: act event noun.communication:act drf noun.communication:act
 w: play1
 w: act_as
-hyper: act
-vg: act
-vg: verb.creation:act
-fr: 9
+hyper: act1
+vg: act1
+vg: verb.creation:act2
+frame: 9
 g: pretend to have certain qualities or state of mind; "He acted the idiot"; "She plays deaf when the news are bad"
 
-w: administer event noun.act:administration1 drf noun.act:administration1
-w: dispense undergoer noun.possession:dispensation event noun.act:dispensation drf noun.artifact:dispensary drf noun.possession:dispensation drf noun.act:dispensation
-entail: verb.possession:give14
+w: administer event noun.act:administration2 drf noun.act:administration2
+w: dispense undergoer noun.possession:dispensation event noun.act:dispensation1 drf noun.artifact:dispensary drf noun.possession:dispensation drf noun.act:dispensation1
+entail: verb.possession:give7
 hyper: treat
-dt: noun.act:medicine
-fr: 8 15
+dt: noun.act:medicine1
+frame: 8 15
 g: give or apply (medications)
 
 w: affect
-hyper: verb.change:change1
-fr: 8 9 10 11
+hyper: verb.change:change5
+frame: 8 9 10 11
 g: act physically on; have an effect upon; "the medicine affects my heart rate"
 
 w: ail by-means-of noun.state:ailment drf noun.state:ailment
-hyper: suffer
-fr: 2
+hyper: suffer2
+frame: 2
 g: be ill or unwell
 
 w: alter
 w: neuter
 w: spay drf noun.act:spaying
-w: castrate2 event noun.act:castration1 drf noun.act:castration1 drf noun.act:neutering drf noun.communication:neuter
-hyper: sterilize
-fr: 9
+w: castrate1 event noun.act:castration1 drf noun.act:castration1 drf noun.act:neutering drf noun.communication:neuter
+hyper: sterilize1
+frame: 9
 g: remove the ovaries of; "Is your cat spayed?"
 
 w: anesthetize drf noun.artifact:anesthetic ant bring_to
@@ -63,452 +63,452 @@ w: anaesthetize drf adj.pert:anaesthetic drf noun.artifact:anaesthetic
 w: anesthetise drf noun.artifact:anesthetic
 w: anaesthetise drf noun.artifact:anaesthetic
 w: put_under
-w: put_out
+w: put_out1
 hyper: drug
-fr: 8 9 10
+frame: 8 9 10
 g: administer an anesthetic drug to; "The patient must be anesthetized before the operation"; "anesthetize the gum before extracting the teeth"
 
 w: animate
-w: recreate2 event noun.act:recreation1 drf noun.act:recreation1
+w: recreate event noun.act:recreation1 drf noun.act:recreation1
 w: reanimate
-w: revive
+w: revive1
 w: renovate
-w: repair3
-w: quicken by-means-of noun.object:quickener drf noun.object:quickener
+w: repair
+w: quicken1 by-means-of noun.object:quickener drf noun.object:quickener
 w: vivify event noun.act:vivification drf noun.act:vivification
 w: revivify event noun.act:revivification drf noun.act:revivification
 hyper: stimulate
 vg: come_to
-fr: 9 10
+frame: 9 10
 g: give new life or energy to; "A hot soup will revive me"; "This will renovate my spirits"; "This treatment repaired my health"
-
-w: ankylose1
-w: ancylose1
-hyper: verb.contact:join1
-dt: noun.act:medicine
-fr: 8
-g: produce ankylosis by surgery
 
 w: ankylose
 w: ancylose
-hyper: verb.change:grow2
-dt: noun.act:medicine
-fr: 1
+hyper: verb.contact:join
+dt: noun.act:medicine1
+frame: 8
+g: produce ankylosis by surgery
+
+w: ankylose1
+w: ancylose1
+hyper: verb.change:grow4
+dt: noun.act:medicine1
+frame: 1
 g: undergo ankylosis; "joints ankylose"
 
 w: anoint event noun.act:anointment agent noun.person:anointer drf noun.act:anointment drf noun.person:anointer
 w: inunct event noun.act:inunction drf noun.act:inunction
-w: oil uses noun.substance:oil drf noun.substance:oil
+w: oil uses noun.substance:oil1 drf noun.substance:oil1
 w: anele
 w: embrocate material noun.artifact:embrocation drf noun.artifact:embrocation
-hyper: verb.communication:bless
-fr: 8 9 17
+hyper: verb.communication:bless2
+frame: 8 9 17
 g: administer an oil or ointment to ; often in a religious ceremony of blessing
 
 w: antisepticize
 hyper: disinfect
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: disinfect with an antiseptic; "The animals were antisepticized by the veterinarian before the operation"
 
 w: aspirate instrument noun.artifact:aspirator event noun.act:aspiration drf noun.act:aspiration drf noun.artifact:aspirator
 hyper: inhale
-fr: 8
+frame: 8
 g: suck in (air)
 
 w: atrophy event noun.state:atrophy event noun.event:atrophy drf noun.state:atrophy drf noun.event:atrophy
 hyper: verb.change:shrivel
-fr: 1 2 23
+frame: 1 2 23
 g: undergo atrophy; "Muscles that are not used will atrophy"
 
 w: attack event noun.process:attack agent noun.person:attacker drf noun.process:attack drf noun.person:attacker
 hyper: affect
-fr: 11
+frame: 11
 g: begin to injure; "The cancer cells are attacking his liver"; "Rust is attacking the metal"
 
 w: autoclave instrument noun.artifact:autoclave drf noun.artifact:autoclave
-hyper: sterilize1
-fr: 8
+hyper: sterilize
+frame: 8
 g: subject to the action of an autoclave
 
 w: awaken drf noun.act:awakening ant cause_to_sleep
-w: wake2
-w: waken1
-w: rouse2 agent noun.person:rouser drf noun.person:rouser
-w: wake_up1
+w: wake1
+w: waken
+w: rouse agent noun.person:rouser drf noun.person:rouser
+w: wake_up
 w: arouse1 event noun.cognition:arousal agent noun.person:arouser drf noun.person:arouser drf noun.cognition:arousal
-hyper: verb.change:change1
-fr: 9 10
+hyper: verb.change:change5
+frame: 9 10
 g: cause to become awake or conscious; "He was roused by the drunken men in the street"; "Please wake me at 6 AM."
 
 w: bandage by-means-of noun.artifact:bandage drf noun.artifact:bandage
-hyper: dress2
-dt: noun.act:medicine
-fr: 8
+hyper: dress
+dt: noun.act:medicine1
+frame: 8
 g: dress by covering or binding; "The nurse bandaged a sprained ankle"; "bandage an incision"
 
 w: barber agent noun.person:barber drf noun.person:barber
-hyper: groom
-fr: 1
+hyper: groom1
+frame: 1
 g: perform the services of a barber: cut the hair and/or beard of
 
 w: bat
 w: flutter
-hyper: blink
-fr: 8
+hyper: blink1
+frame: 8
 g: wink briefly; "bat one's eyelids"
 
-w: bathe agent noun.person:bather1 drf noun.person:bather1 drf noun.act:bathing1
+w: bathe1 agent noun.person:bather1 drf noun.person:bather1 drf noun.act:bathing1
 hyper: cleanse
-fr: 2
+frame: 2
 g: cleanse the entire body; "bathe daily"
 
-w: bathe1 event noun.act:bathe agent noun.person:bather1 drf noun.act:bathe drf noun.person:bather1 drf noun.act:bathing
+w: bathe event noun.act:bathe agent noun.person:bather1 drf noun.act:bathe drf noun.person:bather1 drf noun.act:bathing
 w: bath location noun.artifact:bath1 location noun.artifact:bath event noun.act:bath drf noun.artifact:bath1 drf noun.artifact:bath drf noun.act:bath
 hyper: cleanse
-fr: 2 9
+frame: 2 9
 g: clean one's body by immersion into water; "The child should bathe every day"
 
 w: bawl agent noun.person:bawler1 drf noun.person:bawler1
-hyper: cry
-fr: 2
+hyper: cry1
+frame: 2
 g: cry loudly; "Don't bawl in public!"
 
 w: be_active ant rest
-w: move6 state noun.state:motion event noun.act:move drf noun.state:motion drf noun.act:move drf noun.person:mover1
-fr: 2
+w: move state noun.state:motion event noun.act:move4 drf noun.state:motion drf noun.act:move4 drf noun.person:mover
+frame: 2
 g: be in a state of action; "she is always moving"
 
-w: be_well ant suffer
-hyper: verb.stative:be3
-fr: 1 2
+w: be_well ant suffer2
+hyper: verb.stative:be9
+frame: 1 2
 g: be healthy; feel good; "She has not been well lately"
 
 w: beam
 hyper: smile
-fr: 2
+frame: 2
 g: smile radiantly; express joy through one's facial expression
 
 w: bed_down
 w: bunk_down
 hyper: go_to_bed
-fr: 2 22
+frame: 2 22
 g: go to bed; "We bedded down at midnight"
 
 w: bedizen
 w: dizen
-hyper: overdress
-fr: 9
+hyper: overdress1
+frame: 9
 g: dress up garishly and tastelessly
 
 w: beget agent noun.person:begetter drf noun.person:begetter
-w: get8
+w: get3
 w: engender
-w: father agent noun.person:father drf noun.person:father
-w: mother by-means-of noun.person:mother agent noun.person:mother drf noun.person:mother
-w: sire agent noun.person:sire agent noun.animal:sire drf noun.animal:sire drf noun.person:sire
-w: generate event noun.group:generation event noun.event:generation event noun.act:generation drf adjs.all:generative drf noun.group:generation drf noun.event:generation drf noun.act:generation
+w: father agent noun.person:father3 drf noun.person:father3
+w: mother by-means-of noun.person:mother2 agent noun.person:mother2 drf noun.person:mother2
+w: sire agent noun.person:sire1 agent noun.animal:sire drf noun.animal:sire drf noun.person:sire1
+w: generate event noun.group:generation1 event noun.event:generation event noun.act:generation1 drf adjs.all:generative drf noun.group:generation1 drf noun.event:generation drf noun.act:generation1
 w: bring_forth
-hyper: verb.creation:make
-fr: 9
+hyper: verb.creation:make11
+frame: 9
 g: make children; "Abraham begot Isaac"; "Men often father children but don't recognize them"
 
 w: bellylaugh
 hyper: laugh
-fr: 2
+frame: 2
 g: laugh a deep, hearty laugh
 
-w: bleed1
+w: bleed
 w: leech drf noun.animal:leech
 w: phlebotomize drf noun.act:phlebotomy
 w: phlebotomise
 hyper: treat
-dt: noun.act:medicine
-fr: 9
+dt: noun.act:medicine1
+frame: 9
 g: draw blood; "In the old days, doctors routinely bled patients as part of the treatment"
 
-w: blink event noun.act:blink drf noun.act:blink drf noun.act:blinking
-w: wink event noun.act:wink agent noun.person:winker drf noun.act:wink drf noun.person:winker drf noun.act:winking
+w: blink1 event noun.act:blink drf noun.act:blink drf noun.act:blinking
+w: wink2 event noun.act:wink agent noun.person:winker drf noun.act:wink drf noun.person:winker drf noun.act:winking
 w: nictitate event noun.act:nictitation drf noun.act:nictitation
 w: nictate event noun.act:nictation drf noun.act:nictation
 hyper: act_involuntarily
-fr: 2
+frame: 2
 g: briefly shut the eyes; "The TV announcer never seems to blink"
 
-w: blow1 event noun.act:blow2 drf noun.act:blow2
-hyper: exhaust2
-fr: 2
+w: blow event noun.act:blow1 drf noun.act:blow1
+hyper: exhaust
+frame: 2
 g: free of obstruction by blowing air through; "blow one's nose"
 
-w: blow event noun.act:blow2 drf noun.act:blow2
-hyper: exhale
-fr: 2
+w: blow1 event noun.act:blow1 drf noun.act:blow1
+hyper: exhale1
+frame: 2
 g: exhale hard; "blow on the soup to cool it down"
 
 w: blush material noun.plant:blusher material noun.artifact:blusher event noun.act:blush drf noun.act:blush drf noun.plant:blusher drf noun.artifact:blusher
 w: crimson result noun.attribute:crimson drf noun.attribute:crimson
-w: flush event noun.state:flush event noun.act:flush drf noun.state:flush drf noun.act:flush
+w: flush event noun.state:flush1 event noun.act:flush drf noun.state:flush1 drf noun.act:flush
 w: redden
-hyper: verb.change:discolor
-fr: 2
+hyper: verb.change:discolor2
+frame: 2
 g: turn red, as if in embarrassment or shame; "The girl blushed when a young man whistled as she walked by"
 
 w: bob result noun.body:bob drf noun.body:bob
-hyper: dress4
-fr: 8
+hyper: dress6
+frame: 8
 g: cut hair in the style of a bob; "Bernice bobs her hair these days!"
 
-w: bonnet uses noun.artifact:bonnet drf noun.artifact:bonnet
+w: bonnet uses noun.artifact:bonnet1 drf noun.artifact:bonnet1
 hyper: hat
-fr: 9
+frame: 9
 g: dress in a bonnet
 
 w: boot
 w: reboot
 w: bring_up
 hyper: resuscitate
-fr: 8
+frame: 8
 g: cause to load (an operating system) and start the initial processes; "boot your computer"
 
 w: bray event noun.event:bray drf noun.event:bray
 hyper: laugh
-fr: 2 22
+frame: 2 22
 g: laugh loudly and harshly
 
-w: break11
-hyper: verb.change:decrease
-fr: 1
+w: break1
+hyper: verb.change:decrease1
+frame: 1
 g: diminish or discontinue abruptly; "The patient's fever broke last night"
 
-w: break10
-hyper: verb.change:weaken1
-fr: 10
+w: break2
+hyper: verb.change:weaken2
+frame: 10
 g: weaken or destroy in spirit or body; "His resistance was broken"; "a man broken by the terrible experience of near-death"
 
-w: break_down drf noun.state:breakdown1
-w: collapse event noun.state:collapse1 drf noun.state:collapse1
+w: break_down drf noun.state:breakdown
+w: collapse event noun.state:collapse drf noun.state:collapse
 hyper: suffer1
-fr: 2
+frame: 2
 g: collapse due to fatigue, an illness, or a sudden attack
 
 w: break_up
 w: crack_up
 hyper: laugh
-fr: 2
+frame: 2
 g: laugh unrestrainedly
 
-w: breathe drf noun.artifact:breather drf noun.act:breathing see breathe_out see breathe_in
+w: breathe1 drf noun.artifact:breather drf noun.act:breathing see breathe_out see breathe_in
 w: take_a_breath
-w: respire instrument noun.artifact:respirator event noun.act:respiration1 drf adj.pert:respiratory drf noun.act:respiration1 drf noun.artifact:respirator
-w: suspire3
+w: respire2 instrument noun.artifact:respirator event noun.act:respiration1 drf adj.pert:respiratory drf noun.act:respiration1 drf noun.artifact:respirator
+w: suspire1
 entail: inhale
-entail: exhale
+entail: exhale1
 vg: respire1
-vg: respire2
-fr: 2 8
+vg: respire
+frame: 2 8
 g: draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring"
 
-w: breed drf noun.group:breed drf noun.act:breeding
+w: breed drf noun.group:breed drf noun.act:breeding2
 w: multiply event noun.act:multiplication1 drf noun.act:multiplication1
 hyper: reproduce
-fr: 1
+frame: 1
 g: have young (animals) or reproduce (organisms); "pandas rarely breed in captivity"; "These bacteria reproduce"
 
-w: bring_around1
+w: bring_around
 w: cure uses noun.artifact:cure drf adj.all:curable drf adjs.all:curative drf noun.artifact:cure
 w: heal1 agent noun.person:healer drf noun.person:healer
 entail: treat
 hyper: help
-dt: noun.act:medicine
-fr: 8 9
+dt: noun.act:medicine1
+frame: 8 9
 g: provide a cure for, make healthy again; "The treatment cured the boy's acne"; "The quack pretended to heal patients but never managed to"
 
 w: bring_to ant anesthetize
 w: bring_back
 w: bring_round
-w: bring_around
+w: bring_around1
 hyper: awaken
-fr: 9 10
+frame: 9 10
 g: return to consciousness; "These pictures bring back sad memories"
 
 w: brood instrument noun.artifact:brooder drf noun.group:brood drf noun.artifact:brooder
-w: hatch event noun.process:hatch drf noun.process:hatch
-w: cover2
+w: hatch1 event noun.process:hatch drf noun.process:hatch
+w: cover
 w: incubate instrument noun.artifact:incubator event noun.process:incubation drf noun.process:incubation drf noun.artifact:incubator
 vg: verb.contact:breed
-vg: hatch1
+vg: hatch
 entail: verb.motion:sit_down
 hyper: reproduce
-fr: 2
+frame: 2
 g: sit on (eggs); "Birds brood"; "The female covers the eggs"
 
 w: bundle_up
-hyper: dress
-fr: 9
+hyper: dress2
+frame: 9
 g: dress warmly; "Mother bundled up the children for the long way to school"
 
 w: bundle
 w: practice_bundling
 hyper: sleep
-fr: 2
+frame: 2
 g: sleep fully clothed in the same bed with one's betrothed
 
 w: bungle event noun.act:bungle agent noun.person:bungler drf noun.act:bungle drf noun.person:bungler
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: spoil by behaving clumsily or foolishly; "I bungled it!"
 
 w: burp event noun.act:burp drf noun.act:burp
 w: bubble result noun.object:bubble drf noun.object:bubble
 w: belch event noun.act:belch drf noun.act:belch
-w: eruct event noun.act:eructation drf noun.act:eructation
+w: eruct1 event noun.act:eructation drf noun.act:eructation
 hyper: emit
-fr: 2
+frame: 2
 g: expel gas from the stomach; "In China it is polite to burp at the table"
 
 w: cachinnate event noun.communication:cachinnation drf noun.communication:cachinnation
 hyper: laugh
-fr: 2
+frame: 2
 g: laugh loudly and in an unrestrained way
 
-w: cackle event noun.communication:cackle drf noun.communication:cackle
+w: cackle event noun.communication:cackle1 drf noun.communication:cackle1
 hyper: laugh
-fr: 2
+frame: 2
 g: emit a loud, unpleasant kind of laughing
 
 w: calk
 hyper: injure
-fr: 8
+frame: 8
 g: injure with a calk
 
-w: call5
+w: call
 hyper: awaken
-fr: 9
+frame: 9
 g: rouse somebody from sleep with a call; "I was called at 5 A.M. this morning"
 
 w: calve
 w: have_young
 hyper: give_birth
-fr: 1
+frame: 1
 g: birth; "the whales calve at this time of year"
 
-w: canker1 event noun.state:canker body-part noun.state:canker drf noun.state:canker
-hyper: sicken
-fr: 1
+w: canker event noun.state:canker1 body-part noun.state:canker1 drf noun.state:canker1
+hyper: sicken1
+frame: 1
 g: become infected with a canker
 
-w: canker event noun.state:canker body-part noun.state:canker drf noun.state:canker
-hyper: infect1
-fr: 11
+w: canker1 event noun.state:canker1 body-part noun.state:canker1 drf noun.state:canker1
+hyper: infect
+frame: 11
 g: infect with a canker
 
 w: caponize drf noun.animal:capon
 w: caponise drf noun.animal:capon
 hyper: emasculate
-fr: 8
+frame: 8
 g: convert a cock into a capon
 
 w: carry_to_term ant miscarry
 entail: have_a_bun_in_the_oven
-fr: 2 9
+frame: 2 9
 g: carry out a pregnancy; "She decided to carry the child to term, even though the foetus was shown to be defective"
 
-w: catch10
+w: catch
 hyper: contract
 vg: contract
-fr: 8
+frame: 8
 g: contract; "did you catch a cold?"
 
 w: catch_cold
-hyper: catch10
-fr: 2
+hyper: catch
+frame: 2
 g: come down with a cold
 
 w: cathect
 hyper: stimulate
-fr: 10
+frame: 10
 g: inject with libidinal energy
 
 w: cause_to_sleep ant awaken
 cause: sleep
-hyper: verb.change:change1
-fr: 9 10
+hyper: verb.change:change5
+frame: 9 10
 g: make fall asleep; "The soft music caused us to fall asleep"
 
 w: chlorinate event noun.act:chlorination drf noun.substance:chlorine drf noun.act:chlorination
 hyper: disinfect
-fr: 8
+frame: 8
 g: disinfect with chlorine; "chlorinate a pool"
 
 w: chloroform uses noun.artifact:chloroform material noun.artifact:chloroform drf noun.artifact:chloroform
 hyper: anesthetize
-fr: 9
+frame: 9
 g: anesthetize with chloroform; "Doctors used to put people under by chloroforming them"
 
-w: choke drf noun.state:choking
-hyper: breathe
-fr: 2
+w: choke3 drf noun.state:choking
+hyper: breathe1
+frame: 2
 g: breathe with great difficulty, as when experiencing a strong emotion; "She choked with emotion when she spoke about her deceased husband"
 
-w: choke4 drf noun.act:choking
-w: strangle2 state noun.state:strangulation drf noun.state:strangulation
-cause: choke
-hyper: verb.contact:compress
-fr: 9 10
+w: choke drf noun.act:choking
+w: strangle state noun.state:strangulation drf noun.state:strangulation
+cause: choke3
+hyper: verb.contact:compress1
+frame: 9 10
 g: constrict (someone's) throat and keep from breathing
 
 w: chuckle event noun.communication:chuckle drf noun.communication:chuckle
 w: chortle event noun.communication:chortle drf noun.communication:chortle
 w: laugh_softly
 hyper: laugh
-fr: 2
+frame: 2
 g: laugh quietly or with restraint
 
 w: clap agent noun.person:clapper drf noun.person:clapper drf noun.communication:clapping
-w: spat
+w: spat1
 hyper: verb.communication:gesticulate
-fr: 2
+frame: 2
 g: clap one's hands together; "The children were clapping to the music"
 
 w: clean_up drf noun.act:cleanup
-hyper: groom
-fr: 2
+hyper: groom1
+frame: 2
 g: make oneself clean, presentable or neat; "Clean up before you go to the party"
 
 w: cleanse material noun.artifact:cleanser drf noun.artifact:cleanser drf noun.act:cleansing
 w: clean drf noun.act:cleaning
-hyper: groom
-fr: 2 8 9
+hyper: groom1
+frame: 2 8 9
 g: clean one's body or parts thereof, as by washing; "clean up before you see your grandparents"; "clean your fingernails before dinner"
 
 w: clear_the_throat
-w: hawk1
+w: hawk
 hyper: cough
-fr: 2
+frame: 2
 g: clear mucus or food from one's throat; "he cleared his throat before he started to speak"
 
-w: clown agent noun.person:clown drf noun.person:clown drf noun.communication:clowning drf noun.act:clowning
+w: clown agent noun.person:clown1 drf noun.person:clown1 drf noun.communication:clowning drf noun.act:clowning
 w: clown_around
 w: antic event noun.act:antic drf noun.act:antic
 hyper: joke
-fr: 2
+frame: 2
 g: act as or like a clown
 
-w: coat uses noun.artifact:coat drf noun.artifact:coat drf noun.artifact:coating1
+w: coat uses noun.artifact:coat1 drf noun.artifact:coat1 drf noun.artifact:coating
 hyper: dress1
-fr: 9
+frame: 9
 g: cover or provide with a coat
 
 w: cocainize drf noun.artifact:cocain
 w: cocainise drf noun.artifact:cocain
 hyper: anesthetize
-fr: 9 10
+frame: 9 10
 g: anesthetize with cocaine
 
-w: comb instrument noun.artifact:comb1 instrument noun.artifact:comb event noun.act:comb drf noun.artifact:comb1 drf noun.artifact:comb drf noun.act:comb drf noun.act:combing
+w: comb instrument noun.artifact:comb instrument noun.artifact:comb1 event noun.act:comb drf noun.artifact:comb drf noun.artifact:comb1 drf noun.act:comb drf noun.act:combing
 w: comb_out drf noun.act:comb-out
-w: disentangle event noun.act:disentanglement1 drf noun.act:disentanglement1
-hyper: groom
-fr: 8
+w: disentangle event noun.act:disentanglement drf noun.act:disentanglement
+hyper: groom1
+frame: 8
 g: smoothen and neaten with or as with a comb; "comb your hair before dinner"; "comb the wool"
 
 w: come_to
@@ -517,206 +517,206 @@ w: resuscitate1
 vg: animate
 vg: resuscitate
 hyper: verb.change:change_state
-fr: 2
+frame: 2
 g: return to consciousness; "The patient came to quickly"; "She revived after the doctor gave her an injection"
 
-w: comfort state noun.state:comfort instrument noun.artifact:comforter1 drf noun.state:comfort drf noun.artifact:comforter1 drf noun.artifact:comforter drf noun.artifact:comfort
+w: comfort state noun.state:comfort1 instrument noun.artifact:comforter1 drf noun.state:comfort1 drf noun.artifact:comforter1 drf noun.artifact:comforter drf noun.artifact:comfort
 w: ease event noun.act:easement drf noun.act:easement drf noun.act:easing
-hyper: relieve
-fr: 8 9
+hyper: relieve1
+frame: 8 9
 g: lessen pain or discomfort; alleviate; "ease the pain in your legs"
 
-w: conceive event noun.act:conception1 drf adjs.all:conceptive drf noun.act:conception1
+w: conceive event noun.act:conception drf adjs.all:conceptive drf noun.act:conception
 entail: verb.contact:copulate
 hyper: verb.change:change_state
-fr: 2 8
+frame: 2 8
 g: become pregnant; undergo conception; "She cannot conceive"; "My daughter was conceived in Christmas Day"
 
 w: concuss
 hyper: injure
-fr: 8
+frame: 8
 g: injure the brain; sustain a concussion
 
 w: condition material noun.artifact:conditioner drf noun.artifact:conditioner
 hyper: shampoo
-fr: 8
+frame: 8
 g: apply conditioner to in order to make smooth and shiny; "I condition my hair after washing it"
 
 w: constipate event noun.state:constipation drf noun.state:constipation
 w: bind
 hyper: indispose
-fr: 10
+frame: 10
 g: cause to be constipated; "These foods tend to constipate you"
 
 w: contract drf noun.act:contracting
-w: take8
-w: get
-vg: catch10
-hyper: sicken
-fr: 8
+w: take
+w: get1
+vg: catch
+hyper: sicken1
+frame: 8
 g: be stricken by an illness, fall victim to an illness; "He got AIDS"; "She came down with pneumonia"; "She took a chill"
 
 w: convulse drf adjs.all:convulsive
 hyper: laugh
-fr: 2 22
+frame: 2 22
 g: be overcome with laughter
 
-w: correct4 drf adjs.all:corrective
+w: correct drf adjs.all:corrective1
 hyper: treat
-fr: 4 11
+frame: 4 11
 g: treat a defect; "The new contact lenses will correct for his myopia"
 
 w: corset uses noun.artifact:corset drf noun.artifact:corset
 hyper: dress1
-fr: 9
+frame: 9
 g: dress with a corset
 
-w: costume drf noun.artifact:costume1
-w: dress_up4
+w: costume drf noun.artifact:costume2
+w: dress_up
 hyper: dress1
-vg: overdress
-fr: 2 9
+vg: overdress1
+frame: 2 9
 g: dress in a costume; "We dressed up for Halloween as pumpkins"
 
 w: cough event noun.state:cough drf noun.state:cough drf noun.state:coughing see cough_out see cough_up see verb.possession:cough_up
 hyper: expectorate
-fr: 2 8
+frame: 2 8
 g: exhale abruptly, as when one has a chest cold or congestion; "The smoker coughs all day"
 
-w: cover15 drf noun.act:covering
+w: cover1 drf noun.act:covering1
 w: wrap_up
 hyper: dress1
-fr: 8
+frame: 8
 g: clothe, as if for protection from the elements; "cover your head!"
 
-w: cramp1
+w: cramp
 hyper: affect
-fr: 10
+frame: 10
 g: affect with or as if with a cramp
 
-w: cramp
+w: cramp1
 hyper: suffer1
-fr: 2
+frame: 2
 g: suffer from sudden painful contraction of a muscle
 
 w: crane drf noun.animal:crane
-w: stretch_out
+w: stretch_out1
 hyper: stretch1
-fr: 8
+frame: 8
 g: stretch (the neck) so as to see better; "The women craned their necks to see the President drive by"
 
 w: crick event noun.state:crick drf noun.state:crick
-hyper: verb.contact:twist
-fr: 8
+hyper: verb.contact:twist3
+frame: 8
 g: twist (a body part) into a strained position; "crick your neck"
 
 w: cripple agent noun.person:cripple drf noun.person:cripple
 w: lame
 hyper: maim
-fr: 9 10
+frame: 9 10
 g: deprive of the use of a limb, especially a leg; "The accident has crippled her for life"
 
 w: cross-dress agent noun.person:cross-dresser drf noun.person:cross-dresser
-hyper: dress
-fr: 2
+hyper: dress2
+frame: 2
 g: dress in the clothes of the other sex
-
-w: cross-fertilize1 event noun.event:cross-fertilization drf noun.event:cross-fertilization
-w: cross-fertilise1 event noun.event:cross-fertilisation drf noun.event:cross-fertilisation
-hyper: verb.change:change_state
-fr: 1
-g: undergo cross-fertilization; become fertile
 
 w: cross-fertilize event noun.event:cross-fertilization drf noun.event:cross-fertilization
 w: cross-fertilise event noun.event:cross-fertilisation drf noun.event:cross-fertilisation
-cause: cross-fertilize1
+hyper: verb.change:change_state
+frame: 1
+g: undergo cross-fertilization; become fertile
+
+w: cross-fertilize1 event noun.event:cross-fertilization drf noun.event:cross-fertilization
+w: cross-fertilise1 event noun.event:cross-fertilisation drf noun.event:cross-fertilisation
+cause: cross-fertilize
 hyper: inseminate
-fr: 8
+frame: 8
 g: cause to undergo cross-fertilization; "Mendel cross-fertilized different kinds of beans"
 
-w: cry2 drf noun.act:crying
-vg: cry
-hyper: verb.change:change1
-fr: 20
+w: cry drf noun.act:crying
+vg: cry1
+hyper: verb.change:change5
+frame: 20
 g: bring into a particular state by crying; "The little boy cried himself to sleep"
 
-w: cry event noun.communication:cry2 agent noun.person:crier1 drf noun.communication:cry2 drf noun.person:crier1 drf noun.act:crying ant laugh
+w: cry1 event noun.communication:cry3 agent noun.person:crier drf noun.communication:cry3 drf noun.person:crier drf noun.act:crying ant laugh
 w: weep agent noun.person:weeper1 agent noun.person:weeper drf noun.person:weeper1 drf noun.person:weeper drf noun.act:weeping
 hyper: verb.emotion:express_emotion
-vg: cry2
-fr: 2
+vg: cry
+frame: 2
 g: shed tears because of sadness, rage, or pain; "She cried bitterly when she heard the news of his death"; "The girl in the wheelchair wept with frustration when she could not get up the stairs"
 
 w: cub result noun.animal:cub drf noun.animal:cub
 hyper: give_birth
-fr: 1
+frame: 1
 g: give birth to cubs; "bears cub every year"
 
 w: cup drf noun.act:cupping
 w: transfuse
 hyper: treat
-dt: noun.act:medicine
-fr: 9
+dt: noun.act:medicine1
+frame: 9
 g: treat by applying evacuated cups to the patient's skin
 
-w: cut4
+w: cut
 hyper: grow
-vg: cut14
-fr: 8
+vg: cut1
+frame: 8
 g: have grow through the gums; "The baby cut a tooth"
 
-w: cut14
-vg: cut4
-hyper: verb.change:grow2
-fr: 1
+w: cut1
+vg: cut
+hyper: verb.change:grow4
+frame: 1
 g: grow through the gums; "The new tooth is cutting"
 
 w: dandify result noun.person:dandy drf noun.person:dandy
-hyper: dress
-fr: 2
+hyper: dress2
+frame: 2
 g: dress like a dandy
 
 w: de-energize ant energize
 w: de-energise ant energise
-hyper: verb.change:weaken1
-fr: 10
+hyper: verb.change:weaken2
+frame: 10
 g: deprive of energy
 
 w: defeminize
 w: defeminise
 hyper: alter
-fr: 8
+frame: 8
 g: remove the ovaries of (female mammals such as cats)
 
 w: desquamate event noun.phenomenon:desquamation drf noun.phenomenon:desquamation
-w: peel_off
+w: peel_off1
 hyper: shed
-fr: 1
+frame: 1
 g: peel off in scales; "dry skin desquamates"
 
 w: detox
-w: detoxify event noun.act:detoxification1 drf noun.act:detoxification1
+w: detoxify event noun.act:detoxification drf noun.act:detoxification
 hyper: treat
-fr: 9
+frame: 9
 g: treat for alcohol or drug dependence; "He was detoxified in the clinic"
 
 w: devolve
-w: deteriorate event noun.state:deterioration event noun.process:deterioration drf noun.state:deterioration drf noun.process:deterioration ant recuperate
-w: drop1
+w: deteriorate event noun.state:deterioration event noun.process:deterioration drf noun.state:deterioration drf noun.process:deterioration ant recuperate1
+w: drop
 w: degenerate state noun.state:degeneration event noun.process:degeneration drf adjs.all:degenerative drf noun.state:degeneration drf noun.process:degeneration
-hyper: verb.change:worsen
-fr: 1 2
+hyper: verb.change:worsen1
+frame: 1 2
 g: grow worse; "Her condition deteriorated"; "Conditions in the slums degenerated"; "The discussion devolved into a shouting match"
 
 w: digitalize event noun.act:digitalization drf noun.act:digitalization drf noun.substance:digitalis
 hyper: administer
-dt: noun.act:medicine
-fr: 9
+dt: noun.act:medicine1
+frame: 9
 g: administer digitalis such that the patient benefits maximally without getting adverse effects
 
 w: dimple result noun.body:dimple drf noun.body:dimple
 hyper: smile
-fr: 2
+frame: 2
 g: produce dimples while smiling; "The child dimpled up to the adults"
 
 w: disable state noun.state:disablement drf noun.state:disablement
@@ -724,89 +724,89 @@ w: invalid result noun.person:invalid drf noun.person:invalid
 w: incapacitate
 w: handicap event noun.state:handicap drf noun.state:handicap
 hyper: injure
-fr: 9 10
+frame: 9 10
 g: injure permanently; "He was disabled in a car accident"
 
 w: disagree_with
 hyper: hurt1
-fr: 10
+frame: 10
 g: not be very easily digestible; "Spicy food disagrees with some people"
 
-w: disinfect event noun.act:disinfection drf adjs.all:disinfectant drf noun.act:disinfection drf noun.artifact:disinfectant ant infect
-hyper: verb.contact:clean
-fr: 8 9 10
+w: disinfect event noun.act:disinfection drf adjs.all:disinfectant drf noun.act:disinfection drf noun.artifact:disinfectant ant infect1
+hyper: verb.contact:clean3
+frame: 8 9 10
 g: destroy microorganisms or pathogens by cleansing; "disinfect a wound"
 
 w: distill
 w: distil
 hyper: exude
-fr: 11
+frame: 11
 g: give off (a liquid); "The doctor distilled a few drops of disinfectant onto the wound"
 
-w: doctor agent noun.person:doctor drf noun.person:doctor
+w: doctor agent noun.person:doctor1 drf noun.person:doctor1
 hyper: treat
-dt: noun.act:medicine
-fr: 8 9
+dt: noun.act:medicine1
+frame: 8 9
 g: give medical treatment to
 
 w: doll_up
 w: do_up
 w: pretty_up
 w: glam_up
-hyper: groom
-fr: 9
+hyper: groom1
+frame: 9
 g: use special care in dressing, making-up, etc.; "She dolled herself up for the night out with her friends"
 
 w: dope drf noun.artifact:dope
 w: dope_up
 hyper: drug
-dt: noun.act:medicine
-fr: 9
+dt: noun.act:medicine1
+frame: 9
 g: give a narcotic to; "The athletes were dope by the coach before the race"
 
 w: doss agent noun.person:dosser drf noun.person:dosser
 w: doss_down
 w: crash
 hyper: bed_down
-fr: 2 22
+frame: 2 22
 g: sleep in a convenient place; "You can crash here, though it's not very comfortable"
 
 w: douche instrument noun.artifact:douche event noun.act:douche drf noun.act:douche drf noun.artifact:douche
 hyper: cleanse
-fr: 2 9
+frame: 2 9
 g: direct a spray of water into a bodily cavity, for cleaning
 
 w: draw
 hyper: verb.social:localize
-vg: verb.motion:draw7
-fr: 1
+vg: verb.motion:draw1
+frame: 1
 g: cause to localize at one point; "Draw blood and pus"
 
-w: dress2 drf noun.artifact:dressing drf noun.act:dressing1
+w: dress drf noun.artifact:dressing drf noun.act:dressing2
 hyper: treat
-dt: noun.act:medicine
-fr: 8
+dt: noun.act:medicine1
+frame: 8
 g: apply a bandage or medication to; "dress the victim's wounds"
 
-w: dress_down ant dress_up
-w: underdress ant overdress
-hyper: dress
-fr: 2
+w: dress_down ant dress_up2
+w: underdress1 ant overdress1
+hyper: dress2
+frame: 2
 g: dress informally and casually; "On Fridays, employees can underdress"
 
-w: dress4
+w: dress6
 w: arrange result noun.group:arrangement drf noun.group:arrangement
-w: set5
-w: do4
+w: set1
+w: do
 w: coif drf noun.body:coiffure
 w: coiffe
 w: coiffure result noun.body:coiffure drf noun.body:coiffure
-hyper: groom
-vg: dress6
-fr: 8
+hyper: groom1
+vg: dress3
+frame: 8
 g: arrange attractively; "dress my hair for the wedding"
 
-w: dress1 uses noun.artifact:dress2 agent noun.person:dresser drf noun.artifact:dress2 drf noun.person:dresser drf noun.act:dressing ant undress
+w: dress1 uses noun.artifact:dress2 agent noun.person:dresser1 drf noun.artifact:dress2 drf noun.person:dresser1 drf noun.act:dressing1 ant undress
 w: clothe drf noun.artifact:clothing
 w: enclothe
 w: garb uses noun.artifact:garb drf noun.artifact:garb
@@ -817,33 +817,33 @@ w: habilitate
 w: fit_out
 w: apparel uses noun.artifact:apparel drf noun.artifact:apparel
 hyper: verb.change:change_state
-vg: dress
-fr: 8 9
+vg: dress2
+frame: 8 9
 g: provide with clothes or put clothes on; "Parents must feed and dress their child"
 
-w: dress7 uses noun.artifact:dress1 agent noun.person:dresser1 drf noun.artifact:dress1 drf noun.person:dresser1
-w: dress_up6
-hyper: dress
-vg: overdress
-vg: dress
-fr: 22
+w: dress4 uses noun.artifact:dress1 agent noun.person:dresser drf noun.artifact:dress1 drf noun.person:dresser
+w: dress_up1
+hyper: dress2
+vg: overdress1
+vg: dress2
+frame: 22
 g: dress in a certain manner; "She dresses in the latest Paris fashion"; "he dressed up in a suit and tie"
 
-w: dress uses noun.artifact:dress2 agent noun.person:dresser drf noun.artifact:dress2 drf noun.person:dresser drf noun.act:dressing ant undress see dress_up see dress_down
+w: dress2 uses noun.artifact:dress2 agent noun.person:dresser1 drf noun.artifact:dress2 drf noun.person:dresser1 drf noun.act:dressing1 ant undress see dress_up2 see dress_down
 w: get_dressed
 vg: dress1
-vg: dress7
+vg: dress4
 vg: preen
-hyper: verb.change:change
-fr: 2
+hyper: verb.change:change7
+frame: 2
 g: put on clothes; "we had to dress quickly"; "dress the patient"; "Can the child dress by herself?"
 
-w: dress6
-w: groom3 agent noun.person:groom1 drf noun.person:groom1
+w: dress3
+w: groom agent noun.person:groom drf noun.person:groom
 w: curry
-vg: dress4
+vg: dress6
 hyper: verb.change:fancify
-fr: 8
+frame: 8
 g: give a neat appearance to; "groom the dogs"; "dress the horses"
 
 w: drivel undergoer noun.body:drivel agent noun.person:driveller1 drf noun.body:drivel drf noun.person:driveller1
@@ -851,158 +851,158 @@ w: drool undergoer noun.body:drool agent noun.person:drooler drf noun.body:drool
 w: slabber
 w: slaver
 w: slobber undergoer noun.body:slobber agent noun.person:slobberer drf noun.person:slobberer drf noun.body:slobber see verb.emotion:slobber_over
-w: dribble undergoer noun.body:dribble agent noun.person:dribbler drf noun.body:dribble drf noun.person:dribbler
+w: dribble undergoer noun.body:dribble agent noun.person:dribbler1 drf noun.body:dribble drf noun.person:dribbler1
 hyper: salivate
-fr: 2
+frame: 2
 g: let saliva drivel from the mouth; "The baby drooled"
 
-w: drop
+w: drop1
 hyper: give_birth
-fr: 11
+frame: 11
 g: give birth; used for animals; "The cow dropped her calf this morning"
 
 w: drop_like_flies
 hyper: break_down
-fr: 1 2
+frame: 1 2
 g: rapidly collapse, die, or drop out in large numbers; "the contestants dropped like flies when the thermometer hit one hundred degrees"
 
 w: drowse event noun.act:drowse drf noun.act:drowse see drowse_off
 hyper: rest
-fr: 2
+frame: 2
 g: be on the verge of sleeping; "The students were drowsing in the 8 AM class"
 
 w: drug uses noun.artifact:drug drf noun.artifact:drug drf noun.act:drugging
 w: dose undergoer noun.artifact:dose drf noun.quantity:dosage drf noun.artifact:dose
-hyper: medicate
-dt: noun.act:medicine
-fr: 9
+hyper: medicate1
+dt: noun.act:medicine1
+frame: 9
 g: administer a drug to; "They drugged the kidnapped tourist"
 
 w: dung result noun.substance:dung drf noun.substance:dung
-hyper: stool
-fr: 1
+hyper: stool1
+frame: 1
 g: defecate; used of animals
 
-w: ejaculate undergoer noun.body:ejaculate event noun.process:ejaculation agent noun.person:ejaculator1 drf noun.process:ejaculation drf noun.body:ejaculate drf noun.person:ejaculator1
-hyper: exhaust2
-fr: 2
+w: ejaculate undergoer noun.body:ejaculate event noun.process:ejaculation agent noun.person:ejaculator drf noun.process:ejaculation drf noun.body:ejaculate drf noun.person:ejaculator
+hyper: exhaust
+frame: 2
 g: eject semen
 
 w: emasculate event noun.act:emasculation drf noun.act:emasculation
 w: castrate undergoer noun.person:castrate event noun.act:castration drf noun.act:castration drf noun.person:castrate
 w: demasculinize
 w: demasculinise
-hyper: sterilize
-fr: 8 9
+hyper: sterilize1
+frame: 8 9
 g: remove the testicles of a male animal
 
 w: emit event noun.act:emission drf noun.act:emission
-w: breathe1
+w: breathe
 w: pass_off
-hyper: exhaust2
-fr: 8 11
+hyper: exhaust
+frame: 8 11
 g: expel (gases or odors)
 
 w: enrobe
-hyper: overdress
-fr: 8
+hyper: overdress1
+frame: 8
 g: adorn with a robe
 
 w: entrance state noun.feeling:entrancement drf noun.feeling:entrancement
 w: spellbind agent noun.person:spellbinder drf noun.person:spellbinder
 hyper: hypnotize
-fr: 9 10
+frame: 9 10
 g: put into a trance
 
 w: epilate
 w: depilate material noun.artifact:depilator event noun.act:depilation drf adjs.all:depilatory drf noun.artifact:depilator drf noun.act:depilation
-hyper: verb.change:remove
-fr: 8
+hyper: verb.change:remove2
+frame: 8
 g: remove body hair; "epilate her legs"
 
 w: estivate event noun.state:estivation drf noun.state:estivation ant hibernate
 w: aestivate event noun.state:aestivation drf noun.state:aestivation ant hibernate
 hyper: sleep
-fr: 1
+frame: 1
 g: sleep during summer; "certain animals estivate"
 
 w: etherize material noun.artifact:ether drf noun.artifact:ether
 w: etherise
 hyper: anesthetize
-fr: 9 10
+frame: 9 10
 g: anesthetize with ether
 
 w: etiolate result noun.attribute:etiolation drf noun.attribute:etiolation
-hyper: verb.change:change1
-fr: 11
+hyper: verb.change:change5
+frame: 11
 g: make pale or sickly; "alcohol etiolates your skin"
 
 w: evacuate event noun.process:evacuation event noun.act:evacuation drf adjs.all:evacuant drf noun.process:evacuation drf noun.act:evacuation
 w: void event noun.act:voidance agent noun.person:voider1 drf noun.person:voider1 drf noun.process:voiding drf noun.act:voidance
 w: empty
 hyper: excrete
-fr: 8
+frame: 8
 g: excrete or discharge from the body
 
 w: excrete event noun.process:excretion drf adj.pert:excretory drf noun.process:excretion drf noun.process:excreting
 w: egest
 w: eliminate event noun.process:elimination drf noun.process:elimination
-w: pass drf noun.act:passing5
-hyper: exhaust2
-fr: 8
+w: pass drf noun.act:passing
+hyper: exhaust
+frame: 8
 g: eliminate from the body; "Pass a kidney stone"
 
-w: exercise instrument noun.artifact:exerciser event noun.act:exercise drf noun.act:exercise drf noun.artifact:exerciser drf noun.act:exercising
-w: work_out drf noun.act:workout
-vg: exercise1
-entail: verb.motion:move
-fr: 2 8
+w: exercise1 instrument noun.artifact:exerciser event noun.act:exercise3 drf noun.act:exercise3 drf noun.artifact:exerciser drf noun.act:exercising
+w: work_out1 drf noun.act:workout
+vg: exercise
+entail: verb.motion:move3
+frame: 2 8
 g: do physical exercise; "She works out in the gym every day"
 
-w: exercise1 instrument noun.artifact:exerciser event noun.act:exercise drf noun.act:exercise drf noun.artifact:exerciser
+w: exercise instrument noun.artifact:exerciser event noun.act:exercise3 drf noun.act:exercise3 drf noun.artifact:exerciser
 w: work
-w: work_out1 drf noun.act:workout
-cause: exercise
-hyper: verb.social:work1
-vg: exercise
-fr: 8 9
+w: work_out drf noun.act:workout
+cause: exercise1
+hyper: verb.social:work7
+vg: exercise1
+frame: 8 9
 g: give a workout to; "Some parents exercise their infants"; "My personal trainer works me hard"; "work one's muscles"; "this puzzle will exercise your mind"
 
-w: exhale undergoer noun.substance:exhalation event noun.act:exhalation drf noun.substance:exhalation drf noun.act:exhalation ant inhale
+w: exhale1 undergoer noun.substance:exhalation event noun.act:exhalation drf noun.substance:exhalation drf noun.act:exhalation ant inhale
 w: expire event noun.act:expiration drf adj.pert:expiratory drf noun.act:expiration
 w: breathe_out
-hyper: breathe
-fr: 2 8
+hyper: breathe1
+frame: 2 8
 g: expel air; "Exhale when you lift the weight"
 
-w: exhale1 undergoer noun.substance:exhalation drf noun.substance:exhalation
+w: exhale undergoer noun.substance:exhalation drf noun.substance:exhalation
 w: give_forth
 w: emanate result noun.substance:emanation event noun.act:emanation drf noun.substance:emanation drf noun.act:emanation
 hyper: emit
-fr: 8 11
+frame: 8 11
 g: give out (breath or an odor); "The chimney exhales a thick smoke"
 
-w: exhaust2
+w: exhaust
 w: discharge event noun.process:discharge drf noun.process:discharge
-w: expel event noun.act:expulsion drf noun.act:expulsion drf noun.process:expelling
+w: expel event noun.act:expulsion2 drf noun.act:expulsion2 drf noun.process:expelling
 w: eject event noun.act:ejection1 drf noun.act:ejection1
-w: release1 event noun.process:release drf noun.process:release
-fr: 8 11
+w: release event noun.process:release drf noun.process:release
+frame: 8 11
 g: eliminate (a substance); "combustion products are exhausted in the engine"; "the plant releases a gas"
 
-w: exhaust event noun.act:exhaustion drf noun.act:exhaustion
-w: wash_up1
+w: exhaust1 event noun.act:exhaustion drf noun.act:exhaustion
+w: wash_up
 w: beat
 w: tucker
 w: tucker_out
 hyper: tire1
-fr: 9 10
+frame: 9 10
 g: wear out completely; "This kind of work exhausts me"; "I'm beat"; "He was all washed up after the exam"
 
-w: expect2 event noun.state:expectation drf adjs.all:expectant drf noun.state:expectation
+w: expect event noun.state:expectation drf adjs.all:expectant1 drf noun.state:expectation
 vg: have_a_bun_in_the_oven
-hyper: verb.cognition:expect1
-fr: 2
+hyper: verb.cognition:expect
+frame: 2
 g: look forward to the birth of a child; "She is expecting in March"
 
 w: expectorate event noun.process:expectoration event noun.act:expectoration agent noun.person:expectorator drf noun.process:expectoration drf noun.act:expectoration drf noun.person:expectorator
@@ -1010,23 +1010,23 @@ w: cough_up
 w: cough_out
 w: spit_up
 w: spit_out1
-hyper: exhaust2
-fr: 2
+hyper: exhaust
+frame: 2
 g: discharge (phlegm or sputum) from the lungs and out of the mouth
 
 w: exsert
-w: stretch_out1
-w: put_out1
-w: extend1 body-part noun.body:extensor drf adj.all:extensible drf adjs.all:extendible drf noun.body:extensor
+w: stretch_out2
+w: put_out
+w: extend body-part noun.body:extensor drf adj.all:extensible drf adjs.all:extendible drf noun.body:extensor
 w: hold_out
 w: stretch_forth
 hyper: verb.communication:gesticulate
-fr: 8
+frame: 8
 g: thrust or extend out; "He held out his hand"; "point a finger"; "extend a hand"; "the bee exserted its sting"
 
 w: extravasate event noun.state:extravasation drf noun.state:extravasation
 hyper: exude
-fr: 1 11
+frame: 1 11
 g: geology: cause molten material, such as lava, to pour forth
 
 w: exude undergoer noun.substance:exudation event noun.event:exudation drf noun.substance:exudation drf noun.event:exudation drf noun.substance:exudate
@@ -1035,24 +1035,24 @@ w: transude event noun.event:transudation drf noun.event:transudation
 w: ooze_out
 w: ooze event noun.event:ooze drf noun.event:ooze drf noun.event:oozing
 hyper: excrete
-fr: 1 8 11
+frame: 1 8 11
 g: release (a liquid) in drops or small quantities; "exude sweat through the pores"
 
 w: face-lift drf noun.act:face_lifting
 w: lift
 hyper: operate_on
-fr: 8
+frame: 8
 g: perform cosmetic surgery on someone's face
 
 w: faint event noun.event:faint drf noun.event:faint
 w: conk
 w: swoon event noun.event:swoon drf noun.event:swoon
-w: pass_out
-hyper: zonk_out1
-fr: 2
+w: pass_out1
+hyper: zonk_out
+frame: 2
 g: pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain
 
-w: fall_asleep ant wake_up
+w: fall_asleep ant wake_up1
 w: dope_off
 w: flake_out
 w: drift_off
@@ -1060,275 +1060,275 @@ w: nod_off
 w: drop_off
 w: doze_off
 w: drowse_off
-fr: 2
+frame: 2
 g: change from a waking to a sleeping state; "he always falls asleep during lectures"
 
 w: fall_over_backwards
 w: bend_over_backwards
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: try very hard to please someone; "She falls over backwards when she sees her mother-in-law"
 
 w: fall_over
 w: go_over
 hyper: break_down
-fr: 2
+frame: 2
 g: fall forward and down; "The old woman went over without a sound"
 
 w: farrow event noun.process:farrow drf noun.process:farrow drf noun.process:farrowing
 w: pig drf noun.animal:pig
 hyper: give_birth
-fr: 1
+frame: 1
 g: give birth; "sows farrow"
 
 w: fart event noun.act:fart drf noun.act:fart drf noun.act:farting
 w: break_wind
 hyper: act_involuntarily
-fr: 2
+frame: 2
 g: expel intestinal gases through the anus
 
 w: fawn result noun.animal:fawn drf noun.animal:fawn
 hyper: give_birth
-fr: 1
+frame: 1
 g: have fawns; "deer fawn"
 
 w: feel
-hyper: verb.stative:be3
-fr: 7
+hyper: verb.stative:be9
+frame: 7
 g: be conscious of a physical, mental, or emotional state; "My cold is gone--I feel fine today"; "She felt tired after the long hike"; "She felt sad after her loss"
 
 w: feel_like_a_million
 w: feel_like_a_million_dollars
 hyper: feel
-fr: 2
+frame: 2
 g: be in excellent health and spirits; "he feels like a million after he got the promotion"
 
 w: fester event noun.state:fester body-part noun.state:fester drf noun.process:festering drf noun.state:fester
 w: maturate event noun.process:maturation2 drf noun.process:maturation2
-w: suppurate result noun.body:suppuration event noun.process:suppuration drf adj.pert:suppurative drf noun.process:suppuration drf noun.body:suppuration
-hyper: exhaust2
-vg: suppurate1
-fr: 23
+w: suppurate1 result noun.body:suppuration event noun.process:suppuration drf adj.pert:suppurative drf noun.process:suppuration drf noun.body:suppuration
+hyper: exhaust
+vg: suppurate
+frame: 23
 g: ripen and generate pus; "her wounds are festering"
 
 w: fibrillate event noun.state:fibrillation drf noun.state:fibrillation
 hyper: twitch
-fr: 1
+frame: 1
 g: make fine, irregular, rapid twitching movements; "His heart fibrillated and he died"
 
 w: fledge
 w: feather uses noun.animal:feather body-part noun.animal:feather drf noun.animal:feather
 hyper: grow
-fr: 1
+frame: 1
 g: grow feathers; "The young sparrows are fledging already"
 
 w: fleer drf noun.communication:fleer
 hyper: smirk
-fr: 2 22
+frame: 2 22
 g: to smirk contemptuously
 
 w: floss instrument noun.artifact:floss1 drf noun.artifact:floss1
 hyper: cleanse
-fr: 2 8
+frame: 2 8
 g: use dental floss to clean; "floss your teeth after every meal"
 
 w: foal result noun.animal:foal drf noun.animal:foal
 hyper: give_birth
-fr: 1
+frame: 1
 g: give birth to a foal; "the mare foaled"
 
-w: foment event noun.act:fomentation1 drf noun.act:fomentation1
-hyper: bathe1
-fr: 8
+w: foment event noun.act:fomentation drf noun.act:fomentation
+hyper: bathe
+frame: 8
 g: bathe with warm water or medicated lotions; "His legs should be fomented"
 
 w: force_out
 hyper: emit
-fr: 8 11
+frame: 8 11
 g: emit or cause to move with force of effort; "force out the air"; "force out the splinter"
 
-w: fracture2 event noun.state:fracture drf noun.state:fracture
+w: fracture event noun.state:fracture drf noun.state:fracture
 vg: fracture1
-hyper: verb.change:break2
-fr: 1
+hyper: verb.change:break5
+frame: 1
 g: become fractured; "The tibia fractured from the blow of the iron pipe"
 
 w: fracture1 event noun.state:fracture event noun.act:fracture drf noun.act:fracture drf noun.state:fracture
-vg: fracture
 vg: fracture2
-fr: 8
+vg: fracture
+frame: 8
 g: break (a bone); "She broke her clavicle"
 
-w: fracture event noun.state:fracture event noun.act:fracture drf noun.act:fracture drf noun.state:fracture
-w: break4 event noun.state:break drf noun.state:break
+w: fracture2 event noun.state:fracture event noun.act:fracture drf noun.act:fracture drf noun.state:fracture
+w: break event noun.state:break drf noun.state:break
 hyper: injure
 vg: fracture1
-fr: 8
+frame: 8
 g: fracture a bone of; "I broke my foot while playing hockey"
 
 w: frazzle state noun.state:frazzle drf noun.state:frazzle
-hyper: exhaust
-fr: 10
+hyper: exhaust1
+frame: 10
 g: exhaust physically or emotionally; "She was frazzled after the visit of her in-laws"
 
 w: freeze event noun.phenomenon:freeze drf noun.phenomenon:freeze
-hyper: suffer3
-fr: 2 23
+hyper: suffer
+frame: 2 23
 g: be cold; "I could freeze to death in this office when the air conditioning is turned on"
 
 w: freeze1
 hyper: anesthetize
-dt: noun.act:operation
-fr: 9
+dt: noun.act:operation3
+frame: 9
 g: anesthetize by cold
 
 w: freeze2
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: suddenly behave coldly and formally; "She froze when she saw her ex-husband"
 
-w: freshen2
-w: refresh2 event noun.act:refreshment drf noun.act:refreshment
+w: freshen
+w: refresh event noun.act:refreshment drf noun.act:refreshment
 w: refreshen
-w: freshen_up2
-hyper: verb.change:change
-fr: 1 2
+w: freshen_up
+hyper: verb.change:change7
+frame: 1 2
 g: become or make oneself fresh again; "She freshened up after the tennis game"
 
-w: frock uses noun.artifact:frock drf noun.artifact:frock
+w: frock uses noun.artifact:frock1 drf noun.artifact:frock1
 hyper: dress1
-fr: 9
+frame: 9
 g: put a frock on
 
 w: froth
 hyper: exude
-fr: 1 2
+frame: 1 2
 g: exude or expel foam; "the angry man was frothing at the mouth"
 
 w: frown event noun.communication:frown drf noun.communication:frown
-w: glower event noun.act:glower drf noun.act:glower
+w: glower1 event noun.act:glower drf noun.act:glower
 w: lour
 w: lower
 hyper: grimace
-fr: 2 22
+frame: 2 22
 g: look angry or sullen, wrinkle one's forehead, as if to signal disapproval
 
 w: fructify undergoer noun.plant:fruit event noun.process:fructification drf noun.process:fructification drf noun.plant:fruit
-w: set6
+w: set
 hyper: reproduce
-fr: 1
+frame: 1
 g: bear fruit; "the apple trees fructify"
 
-w: gag2
-w: choke1
-hyper: sicken1
-fr: 10
+w: gag1
+w: choke2
+hyper: sicken
+frame: 10
 g: cause to retch or choke
 
 w: gag
-w: choke3 drf noun.state:choking
-w: strangle3
+w: choke1 drf noun.state:choking
+w: strangle1
 w: suffocate1 state noun.state:suffocation drf adjs.all:suffocative drf noun.state:suffocation
-hyper: suffer
-fr: 2 13 22
+hyper: suffer2
+frame: 2 13 22
 g: struggle for breath; have insufficient oxygen intake; "he swallowed a fishbone and gagged"
 
-w: gag1
-w: heave event noun.act:heave3 drf noun.act:heave3
-w: retch1 event noun.act:retch drf noun.act:retch
-fr: 2
+w: gag2
+w: heave event noun.act:heave1 drf noun.act:heave1
+w: retch event noun.act:retch drf noun.act:retch
+frame: 2
 g: make an unsuccessful effort to vomit; strain to vomit
 
-w: gain agent noun.person:gainer1 drf noun.person:gainer1 ant reduce fr 8
-w: put_on3
+w: gain agent noun.person:gainer drf noun.person:gainer ant reduce frame 8
+w: put_on1
 hyper: verb.change:change_state
-fr: 2
+frame: 2
 g: increase (one's body weight); "She gained 20 pounds when she stopped exercising"
 
-w: galvanize2 event noun.process:galvanization drf noun.process:galvanization drf noun.act:galvanism
-w: galvanise2 event noun.process:galvanisation drf noun.process:galvanisation drf noun.act:galvanism
-hyper: shock1
-fr: 8
+w: galvanize event noun.process:galvanization drf noun.process:galvanization drf noun.act:galvanism
+w: galvanise event noun.process:galvanisation drf noun.process:galvanisation drf noun.act:galvanism
+hyper: shock
+frame: 8
 g: stimulate (muscles) by administering a shock
 
 w: gargle uses noun.substance:gargle drf noun.substance:gargle
 w: rinse
 hyper: wash
-fr: 2
+frame: 2
 g: rinse one's mouth and throat with mouthwash; "gargle with this liquid"
 
 w: gauffer
 w: goffer
 hyper: wave
-fr: 8
+frame: 8
 g: make wavy with a heated goffering iron; "goffer the trim of the dress"
 
 w: geld drf noun.animal:gelding
-w: cut
+w: cut2
 hyper: emasculate
-fr: 8 9
+frame: 8 9
 g: cut off the testicles (of male animals such as horses); "the vet gelded the young horse"
 
 w: generalize
 w: generalise
-hyper: verb.contact:spread
-fr: 1 4
+hyper: verb.contact:spread4
+frame: 1 4
 g: become systemic and spread throughout the body; "this kind of infection generalizes throughout the immune system"
 
-w: get_up1
-hyper: verb.motion:raise
-fr: 9 10
+w: get_up2
+hyper: verb.motion:raise1
+frame: 9 10
 g: cause to rise; "The sergeant got us up at 2 A.M."
 
-w: get_up ant go_to_bed
+w: get_up3 ant go_to_bed
 w: turn_out ant turn_in
 w: arise
-w: uprise
-w: rise8 event noun.act:rise agent noun.person:riser drf noun.act:rise drf noun.person:riser
-fr: 2
+w: uprise1
+w: rise1 event noun.act:rise1 agent noun.person:riser drf noun.act:rise1 drf noun.person:riser
+frame: 2
 g: get up and out of bed; "I get up at 7 A.M. every day"; "They rose early"; "He uprose at night"
 
 w: giggle event noun.communication:giggle agent noun.person:giggler drf noun.person:giggler drf noun.communication:giggle
 w: titter event noun.communication:titter agent noun.person:titterer agent noun.communication:titter drf noun.person:titterer drf noun.communication:titter
 hyper: laugh
-fr: 2
+frame: 2
 g: laugh nervously; "The girls giggled when the rock star came into the classroom"
 
-w: give11
-vg: give10
+w: give
+vg: give1
 hyper: verb.communication:accept
-fr: 15
+frame: 15
 g: consent to engage in sexual intercourse with a man; "She gave herself to many men"
 
-w: give10
-hyper: verb.possession:offer
-vg: give11
-fr: 15
+w: give1
+hyper: verb.possession:offer4
+vg: give
+frame: 15
 g: proffer (a body part); "She gave her hand to her little sister"
 
-w: give_birth  fr 2
-w: deliver1 drf noun.act:delivery2
+w: give_birth  frame 2
+w: deliver drf noun.act:delivery4
 w: bear1
 w: birth event noun.time:birth event noun.process:birth event noun.event:birth drf noun.time:birth drf noun.process:birth drf noun.event:birth
-w: have
+w: have2
 entail: conceive
-hyper: verb.creation:produce2
+hyper: verb.creation:produce1
 vg: have_a_bun_in_the_oven
-fr: 9
+frame: 9
 g: cause to be born; "My wife had twins yesterday!"
 
-w: glower1 event noun.act:glower drf noun.act:glower
+w: glower event noun.act:glower drf noun.act:glower
 w: glare event noun.act:glare drf noun.act:glare
 hyper: stare
-fr: 2 22
+frame: 2 22
 g: look at with a fixed gaze; "The girl glared at the man who tried to make a pass at her"
 
 w: gnash
-hyper: verb.contact:grate
-fr: 8
+hyper: verb.contact:grate1
+frame: 8
 g: grind together, of teeth
 
-w: go_to_bed ant get_up
+w: go_to_bed ant get_up3
 w: turn_in ant turn_out
 w: bed
 w: crawl_in
@@ -1336,174 +1336,174 @@ w: kip_down
 w: hit_the_hay
 w: hit_the_sack
 w: sack_out
-w: go_to_sleep1
+w: go_to_sleep
 w: retire
-fr: 2
+frame: 2
 g: prepare for sleep; "I usually turn in at midnight"; "He goes to bed at the crack of dawn"
 
-w: gown uses noun.artifact:gown2 uses noun.artifact:gown1 uses noun.artifact:gown drf noun.artifact:gown2 drf noun.artifact:gown1 drf noun.artifact:gown
+w: gown uses noun.artifact:gown1 uses noun.artifact:gown2 uses noun.artifact:gown3 drf noun.artifact:gown1 drf noun.artifact:gown2 drf noun.artifact:gown3
 hyper: dress1
-fr: 9
+frame: 9
 g: dress in a gown
 
 w: granulate result noun.state:granulation drf noun.state:granulation
 hyper: heal
-fr: 23
+frame: 23
 g: form granulating tissue; "wounds and ulcers can granulate"
 
 w: grimace event noun.communication:grimace drf noun.communication:grimace
 w: make_a_face
 w: pull_a_face
-hyper: verb.communication:communicate
-fr: 2
+hyper: verb.communication:communicate4
+frame: 2
 g: contort the face to indicate a certain mental or emotional state; "He grimaced when he saw the amount of homework he had to do"
 
 w: grin event noun.communication:grin agent noun.person:grinner drf noun.person:grinner drf noun.communication:grinning drf noun.communication:grin
 hyper: smile
-fr: 2
+frame: 2
 g: to draw back the lips and reveal the teeth, in a smile, grimace, or snarl
 
-w: groom drf noun.act:grooming
+w: groom1 drf noun.act:grooming1
 w: neaten
 hyper: verb.change:fancify
-fr: 2 9
+frame: 2 9
 g: care for one's external appearance; "He is always well-groomed"
 
 w: grow
-w: develop event noun.process:development1 drf noun.process:development1
+w: develop event noun.process:development drf noun.process:development
 w: produce
-w: get1 drf noun.act:getting
+w: get drf noun.act:getting
 w: acquire
-hyper: verb.change:change
-vg: verb.change:develop6
-fr: 8 11
+hyper: verb.change:change7
+vg: verb.change:develop
+frame: 8 11
 g: come to have or undergo a change of (physical features and attributes); "He grew a beard"; "The patient developed abdominal pains"; "I got funny spots all over my body"; "Well-developed breasts"
 
 w: guffaw event noun.communication:guffaw drf noun.communication:guffaw
-w: laugh_loudly1
+w: laugh_loudly
 hyper: laugh
-fr: 2 22
+frame: 2 22
 g: laugh boisterously
 
 w: gum result noun.substance:gum drf noun.substance:gum
 hyper: exude
-fr: 1
+frame: 1
 g: exude or form gum; "these trees gum in the Spring"
 
-w: habit uses noun.artifact:habit drf noun.artifact:habit
+w: habit uses noun.artifact:habit1 drf noun.artifact:habit1
 hyper: dress1
-fr: 9
+frame: 9
 g: put a habit on
 
 w: hack
 w: whoop
 hyper: cough
-fr: 2
+frame: 2
 g: cough spasmodically; "The patient with emphysema is hacking all day"
 
 w: hamstring undergoer noun.body:hamstring drf noun.body:hamstring
 hyper: cripple
-fr: 9
+frame: 9
 g: cripple by cutting the hamstring
 
-w: harm event noun.event:harm1 event noun.act:harm drf noun.act:harm drf noun.event:harm1
+w: harm event noun.event:harm event noun.act:harm drf noun.act:harm drf noun.event:harm
 hyper: injure
-fr: 1 2 9 10 12
+frame: 1 2 9 10 12
 g: cause or do harm to; "These pills won't harm your system"
 
 w: hat uses noun.artifact:hat drf noun.artifact:hat
-hyper: wear1
-fr: 2
+hyper: wear2
+frame: 2
 g: put on or wear a hat; "He was unsuitably hatted"
 
-w: hatch1 event noun.process:hatch drf noun.process:hatch drf noun.process:hatching drf noun.location:hatchery
+w: hatch event noun.process:hatch drf noun.process:hatch drf noun.process:hatching drf noun.location:hatchery
 hyper: verb.change:be_born
 vg: brood
-fr: 2
+frame: 2
 g: emerge from the eggs; "young birds, fish, and reptiles hatch"
 
-w: have2
+w: have1
 vg: suffer1
-hyper: suffer
-fr: 8
+hyper: suffer2
+frame: 8
 g: suffer from; be ill with; "She has arthritis"
 
 w: have_a_bun_in_the_oven
 w: bear
 w: carry
 w: gestate state noun.state:gestation event noun.time:gestation drf noun.time:gestation drf noun.state:gestation
-w: expect state noun.feeling:expectation drf adjs.all:expectant drf noun.feeling:expectation
+w: expect1 state noun.feeling:expectation drf adjs.all:expectant1 drf noun.feeling:expectation
 vg: give_birth
 entail: conceive
 hyper: give_birth
-vg: expect2
-fr: 9
+vg: expect
+frame: 9
 g: be pregnant with; "She is bearing his child"; "The are expecting another child in January"; "I am carrying his child"
 
 w: heal drf noun.process:healing
-hyper: verb.change:better
-fr: 1 23
+hyper: verb.change:better1
+frame: 1 23
 g: get healthy again; "The wound is healing slowly"
 
 w: help event noun.act:help by-means-of noun.attribute:help drf noun.attribute:help drf noun.act:help
 w: aid event noun.act:aid1 drf noun.act:aid1
-hyper: verb.change:better1
-fr: 9 10
+hyper: verb.change:better
+frame: 9 10
 g: improve the condition of; "These pills will help the patient"
 
 w: hibernate state noun.state:hibernation event noun.state:hibernation1 drf noun.state:hibernation1 drf noun.state:hibernation ant estivate ant aestivate
 w: hole_up
 hyper: sleep
-fr: 1
+frame: 1
 g: sleep during winter; "Bears must eat a lot of food before they hibernate in their caves"
 
 w: hiccup event noun.state:hiccup drf noun.state:hiccup
 w: hiccough event noun.state:hiccough drf noun.state:hiccough
-hyper: breathe
-fr: 2
+hyper: breathe1
+frame: 2
 g: breathe spasmodically, and make a sound; "When you have to hiccup, drink a glass of cold water"
 
-w: highlight drf noun.artifact:highlighter1
+w: highlight drf noun.artifact:highlighter
 hyper: make_up
-fr: 8
+frame: 8
 g: apply a highlighter to one's cheeks or eyebrows in order to make them more prominent; "highlight the area above your eyebrows"
 
 w: hock
 hyper: disable
-fr: 8
+frame: 8
 g: disable by cutting the hock
 
-w: hold4
-hyper: verb.social:restrain1
-fr: 8
+w: hold
+hyper: verb.social:restrain
+frame: 8
 g: keep from exhaling or expelling; "hold your breath"
 
-w: hurt1 uses noun.feeling:hurt1 event noun.feeling:hurt2 drf noun.feeling:hurt2 drf noun.feeling:hurt1
+w: hurt1 uses noun.feeling:hurt1 event noun.feeling:hurt drf noun.feeling:hurt drf noun.feeling:hurt1
 cause: verb.perception:ache
 hyper: indispose
-fr: 9 10 11
+frame: 9 10 11
 g: give trouble or pain to; "This exercise will hurt your back"
 
 w: hyperextend event noun.act:hyperextension drf noun.act:hyperextension
 hyper: exsert
-fr: 8
+frame: 8
 g: extend a joint beyond its normal range; "Don't hyperextend your elbow"
 
 w: hypertrophy event noun.state:hypertrophy drf noun.state:hypertrophy
-hyper: verb.change:grow
-fr: 1
+hyper: verb.change:grow5
+frame: 1
 g: undergo hypertrophy; "muscles can hypertrophy when people take steroids"
 
-w: hyperventilate1 event noun.act:hyperventilation drf noun.act:hyperventilation
-vg: hyperventilate
+w: hyperventilate event noun.act:hyperventilation drf noun.act:hyperventilation
+vg: hyperventilate1
 hyper: treat
-fr: 9
+frame: 9
 g: produce hyperventilation in; "The nurses had to hyperventilate the patient"
 
-w: hyperventilate event noun.act:hyperventilation drf noun.act:hyperventilation
-hyper: breathe
-vg: hyperventilate1
-fr: 2
+w: hyperventilate1 event noun.act:hyperventilation drf noun.act:hyperventilation
+hyper: breathe1
+vg: hyperventilate
+frame: 2
 g: breathe excessively hard and fast; "The mountain climber started to hyperventilate"
 
 w: hypnotize agent noun.person:hypnotizer drf noun.person:hypnotizer drf noun.state:hypnosis
@@ -1511,7 +1511,7 @@ w: hypnotise agent noun.person:hypnotiser drf noun.person:hypnotiser drf noun.st
 w: mesmerize drf noun.person:Mesmer
 w: mesmerise drf noun.person:Mesmer
 hyper: sedate
-fr: 9 10
+frame: 9 10
 g: induce hypnosis in
 
 w: immunize event noun.act:immunization drf noun.act:immunization
@@ -1519,269 +1519,269 @@ w: immunise
 w: inoculate event noun.act:inoculation agent noun.person:inoculator drf noun.act:inoculation drf noun.substance:inoculant drf noun.person:inoculator drf noun.act:inoculating
 w: vaccinate result noun.state:vaccination event noun.act:vaccination agent noun.person:vaccinator drf noun.state:vaccination drf noun.act:vaccination drf noun.artifact:vaccine drf noun.person:vaccinator drf noun.act:vaccinating
 hyper: inject
-dt: noun.act:medicine
-fr: 2 9
+dt: noun.act:medicine1
+frame: 2 9
 g: perform vaccinations or produce immunity in by inoculation; "We vaccinate against scarlet fever"; "The nurse vaccinated the children in the school"
 
-w: impregnate1 event noun.event:impregnation drf noun.event:impregnation
-vg: impregnate
+w: impregnate event noun.event:impregnation drf noun.event:impregnation
+vg: impregnate1
 hyper: inseminate
-fr: 8
+frame: 8
 g: fertilize and cause to grow; "the egg was impregnated"
 
-w: impregnate event noun.event:impregnation drf noun.event:impregnation
+w: impregnate1 event noun.event:impregnation drf noun.event:impregnation
 w: knock_up
 w: bang_up
 w: prang_up
 hyper: inseminate
-vg: impregnate1
-fr: 9
+vg: impregnate
+frame: 9
 g: make pregnant; "He impregnated his wife again"
 
 w: indispose event noun.state:indisposition drf noun.state:indisposition
-hyper: verb.change:change1
-fr: 10
+hyper: verb.change:change5
+frame: 10
 g: cause to feel unwell; "She was indisposed"
 
-w: infect1 event noun.event:infection drf adjs.all:infective drf adjs.all:infective drf noun.event:infection
-hyper: verb.possession:give3
-fr: 9 17
+w: infect event noun.event:infection drf adjs.all:infective1 drf adjs.all:infective drf noun.event:infection
+hyper: verb.possession:give5
+frame: 9 17
 g: communicate a disease to; "Your children have infected you with this head cold"
 
-w: infect state noun.state:infection event noun.process:infection drf adjs.all:infective drf adjs.all:infective drf noun.process:infection drf noun.state:infection ant disinfect
+w: infect1 state noun.state:infection event noun.process:infection1 drf adjs.all:infective1 drf adjs.all:infective drf noun.process:infection1 drf noun.state:infection ant disinfect
 w: taint event noun.state:taint drf noun.state:taint
 hyper: verb.change:pollute
-fr: 9
+frame: 9
 g: contaminate with a disease or microorganism
 
-w: inflame1 event noun.state:inflammation drf adjs.all:inflammatory drf noun.state:inflammation
-hyper: verb.change:worsen1
-vg: inflame
-fr: 10 11
+w: inflame event noun.state:inflammation drf adjs.all:inflammatory1 drf noun.state:inflammation
+hyper: verb.change:worsen
+vg: inflame1
+frame: 10 11
 g: cause inflammation in; "The repetitive motion inflamed her joint"
 
-w: inflame event noun.state:inflammation drf adjs.all:inflammatory drf noun.state:inflammation
-vg: inflame1
-hyper: verb.change:worsen
-fr: 1
+w: inflame1 event noun.state:inflammation drf adjs.all:inflammatory1 drf noun.state:inflammation
+vg: inflame
+hyper: verb.change:worsen1
+frame: 1
 g: become inflamed; get sore; "His throat inflamed"
 
 w: infuse event noun.act:infusion drf noun.act:infusion
 hyper: inject
-dt: noun.act:medicine
-fr: 8
+dt: noun.act:medicine1
+frame: 8
 g: introduce into the body through a vein, for therapeutic purposes; "Some physiologists infuses sugar solutions into the veins of animals"
 
-w: inhale instrument noun.artifact:inhalator1 event noun.act:inhalation drf adj.pert:inhalant drf noun.substance:inhalant drf noun.act:inhalation drf noun.artifact:inhalator1 ant exhale
-w: inspire event noun.act:inspiration drf adj.pert:inspiratory drf noun.act:inspiration
+w: inhale instrument noun.artifact:inhalator event noun.act:inhalation drf adj.pert:inhalant drf noun.substance:inhalant drf noun.act:inhalation drf noun.artifact:inhalator ant exhale1
+w: inspire event noun.act:inspiration1 drf adj.pert:inspiratory drf noun.act:inspiration1
 w: breathe_in
-hyper: breathe
-fr: 2 8
+hyper: breathe1
+frame: 2 8
 g: draw in (air); "Inhale deeply"; "inhale the fresh mountain air"; "The patient has trouble inspiring"; "The lung cancer patient cannot inspire air very well"
 
-w: inject event noun.act:injection1 drf adj.all:injectable drf noun.act:injection1 drf noun.substance:injectant
+w: inject event noun.act:injection drf adj.all:injectable drf noun.act:injection drf noun.substance:injectant
 w: shoot
 hyper: administer
-dt: noun.act:medicine
+dt: noun.act:medicine1
 vg: verb.contact:inject
-fr: 9 17
+frame: 9 17
 g: give an injection to; "We injected the glucose into the patient's vein"
 
-w: injure drf noun.state:injury drf noun.event:injury drf noun.act:injury2
+w: injure drf noun.state:injury drf noun.event:injury1 drf noun.act:injury
 w: wound event noun.event:wound event noun.act:wound drf noun.event:wound drf noun.act:wound drf noun.act:wounding
 hyper: hurt1
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: cause injuries or bodily harm to
 
-w: inoculate2
-hyper: propagate1
-fr: 8
+w: inoculate1
+hyper: propagate
+frame: 8
 g: insert a bud for propagation
 
-w: inoculate4
-hyper: impregnate1
-fr: 8
+w: inoculate2
+hyper: impregnate
+frame: 8
 g: impregnate with the virus or germ of a disease in order to render immune
 
-w: inseminate event noun.act:insemination drf noun.act:insemination drf noun.body:semen
+w: inseminate event noun.act:insemination1 drf noun.act:insemination1 drf noun.body:semen
 w: fecundate event noun.event:fecundation drf noun.event:fecundation
 w: fertilize event noun.event:fertilization drf noun.event:fertilization
 w: fertilise
-hyper: verb.change:change1
-fr: 9
+hyper: verb.change:change5
+frame: 9
 g: introduce semen into (a female)
 
-w: insufflate1 event noun.process:insufflation drf noun.process:insufflation
-vg: insufflate
+w: insufflate event noun.process:insufflation drf noun.process:insufflation
+vg: insufflate1
 hyper: treat
-fr: 8
+frame: 8
 g: treat by blowing a powder or vapor into a bodily cavity
 
-w: insufflate event noun.act:insufflation drf noun.act:insufflation
-hyper: blow
-vg: insufflate1
-fr: 8
+w: insufflate1 event noun.act:insufflation drf noun.act:insufflation
+hyper: blow1
+vg: insufflate
+frame: 8
 g: blow or breathe hard on or into
 
-w: intoxicate state noun.state:intoxication1 state noun.state:intoxication drf adjs.all:intoxicant drf noun.state:intoxication1 drf noun.state:intoxication drf noun.artifact:intoxicant
+w: intoxicate state noun.state:intoxication state noun.state:intoxication1 drf adjs.all:intoxicant drf noun.state:intoxication drf noun.state:intoxication1 drf noun.artifact:intoxicant
 hyper: poison
-fr: 10
+frame: 10
 g: have an intoxicating effect on, of a drug
 
 w: invigorate property noun.attribute:invigoration material noun.object:invigorator event noun.act:invigoration drf noun.attribute:invigoration drf noun.act:invigoration drf noun.object:invigorator
 w: reinvigorate
 hyper: stimulate
-fr: 10
+frame: 10
 g: impart vigor, strength, or vitality to; "Exercise is invigorating"
 
 w: iodize
 w: iodise
 hyper: treat
-fr: 8
+frame: 8
 g: treat with iodine so as to prevent infection; "iodize a wound"
 
 w: irrigate event noun.act:irrigation1 drf noun.act:irrigation1
 hyper: treat
-fr: 8
+frame: 8
 g: supply with a constant flow or sprinkling of some liquid, for the purpose of cooling, cleansing, or disinfecting; "irrigate the wound"
 
-w: irritate result noun.feeling:irritation event noun.state:irritation2 drf adjs.all:irritative drf noun.state:irritation2 drf noun.feeling:irritation ant soothe
-hyper: verb.change:worsen1
-fr: 10 11
+w: irritate result noun.feeling:irritation1 event noun.state:irritation drf adjs.all:irritative drf noun.state:irritation drf noun.feeling:irritation1 ant soothe
+hyper: verb.change:worsen
+frame: 10 11
 g: excite to an abnormal condition, or chafe or inflame; "Aspirin irritates my stomach"
 
-w: jacket uses noun.artifact:jacket drf noun.artifact:jacket
+w: jacket uses noun.artifact:jacket2 drf noun.artifact:jacket2
 hyper: dress1
-fr: 9
+frame: 9
 g: put a jacket on; "The men were jacketed"
 
 w: jaundice event noun.state:jaundice drf noun.state:jaundice
 hyper: affect
-fr: 10
+frame: 10
 g: affect with, or as if with, jaundice
 
-w: joke event noun.act:joke1 agent noun.person:joker drf noun.person:joker drf noun.act:joke1 drf noun.communication:joke
+w: joke event noun.act:joke agent noun.person:joker1 drf noun.person:joker1 drf noun.act:joke drf noun.communication:joke
 w: jest event noun.act:jest agent noun.person:jester drf noun.act:jest drf noun.communication:jest drf noun.person:jester
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: act in a funny or teasing way
 
 w: keep_down ant vomit
-fr: 8
+frame: 8
 g: manage not to throw up
 
 w: keep_up
 cause: stay_up
-fr: 9 10
+frame: 9 10
 g: prevent from going to bed at night; "The anticipation of the trip kept the children up all night"; "I kept myself up all night studying for the exam"
 
 w: kitten result noun.animal:kitten drf noun.animal:kitten
 hyper: give_birth
-fr: 1
+frame: 1
 g: have kittens; "our cat kittened again this year"
 
 w: labor event noun.state:labor drf noun.state:labor
 w: labour event noun.state:labour drf noun.state:labour
 entail: give_birth
-hyper: verb.perception:undergo4
-fr: 2
+hyper: verb.perception:undergo
+frame: 2
 g: undergo the efforts of childbirth
 
 w: lamb result noun.animal:lamb drf noun.food:lamb drf noun.animal:lamb
 hyper: give_birth
-fr: 1
+frame: 1
 g: give birth to a lamb; "the ewe lambed"
 
 w: languish agent noun.person:languisher drf noun.person:languisher
 w: fade drf noun.event:fading
 hyper: devolve
-fr: 22
+frame: 22
 g: become feeble; "The prisoner has be languishing for years in the dungeon"
 
-w: lather1
+w: lather
 hyper: froth
-fr: 1
+frame: 1
 g: exude sweat or lather; "this unfit horse lathers easily"
 
-w: laugh event noun.communication:laugh2 event noun.communication:laugh by-means-of noun.communication:laugh1 agent noun.person:laugher drf adjs.all:laughable drf noun.communication:laugh1 drf noun.communication:laugh2 drf noun.communication:laugh drf noun.person:laugher ant cry see verb.communication:laugh_off see verb.communication:laugh_away see verb.communication:laugh_at
+w: laugh event noun.communication:laugh1 event noun.communication:laugh by-means-of noun.communication:laugh2 agent noun.person:laugher drf adjs.all:laughable1 drf noun.communication:laugh2 drf noun.communication:laugh1 drf noun.communication:laugh drf noun.person:laugher ant cry1 see verb.communication:laugh_off see verb.communication:laugh_away see verb.communication:laugh_at
 w: express_joy
 w: express_mirth
 hyper: verb.emotion:express_emotion
-fr: 2 22
+frame: 2 22
 g: produce laughter
 
 w: leaf result noun.plant:leaf drf noun.plant:leaf drf noun.plant:leafage
 hyper: grow
-fr: 1
+frame: 1
 g: produce leaves, of plants
 
 w: lie_in
 entail: give_birth
-fr: 2
+frame: 2
 g: be in confinement for childbirth
 
 w: ligate event noun.act:ligation drf noun.act:ligature drf noun.act:ligation drf noun.artifact:ligature1
 hyper: bandage
 dt: noun.cognition:surgery
-fr: 8
+frame: 8
 g: bind with a bandage or ligature; "ligate the artery"
 
 w: limber
-hyper: warm_up1
-fr: 8
+hyper: warm_up
+frame: 8
 g: cause to become limber; "The violist limbered her wrists before the concert"
 
 w: limber_up
-w: warm_up drf noun.act:warm-up
-w: loosen_up3
-hyper: exercise
-fr: 2
+w: warm_up1 drf noun.act:warm-up
+w: loosen_up
+hyper: exercise1
+frame: 2
 g: make one's body limber or suppler by stretching, as if to prepare for strenuous physical activity
 
 w: lipstick uses noun.artifact:lipstick drf noun.artifact:lipstick
 hyper: make_up
-fr: 2 8
+frame: 2 8
 g: apply lipstick to; "She lipsticked her mouth"
 
 w: litter result noun.group:litter drf noun.group:litter
 hyper: give_birth
-fr: 1
+frame: 1
 g: give birth to a litter of animals
 
-w: look event noun.attribute:look1 event noun.attribute:look drf noun.attribute:look1 drf noun.attribute:look
-hyper: verb.stative:be3
-fr: 6 7
+w: look event noun.attribute:look event noun.attribute:look1 drf noun.attribute:look drf noun.attribute:look1
+hyper: verb.stative:be9
+frame: 6 7
 g: have a certain outward or facial expression; "How does she look?"; "The child looks unhappy"; "She looked pale after the surgery"
 
 w: maim agent noun.person:maimer drf noun.person:maimer
 hyper: injure
-fr: 9 10
+frame: 9 10
 g: injure or wound seriously and leave permanent disfiguration or mutilation; "people were maimed by the explosion"
 
-w: make6
-hyper: act
-fr: 7
+w: make
+hyper: act1
+frame: 7
 g: behave in a certain way; "make merry"
 
-w: make8
-vg: verb.possession:gain
-vg: verb.possession:have2
-hyper: act
-fr: 9
+w: make3
+vg: verb.possession:gain2
+vg: verb.possession:have
+hyper: act1
+frame: 9
 g: act in a certain way so as to acquire; "make friends"; "make enemies"
 
 w: make_as_if
-hyper: act
-fr: 28
+hyper: act1
+frame: 28
 g: begin or appear to begin an action; "He made as if to shake my hand"
 
 w: make_up drf noun.artifact:makeup drf noun.artifact:make-up
-hyper: groom
-fr: 2 9
+hyper: groom1
+frame: 2 9
 g: apply make-up or cosmetics to one's face to appear prettier; "She makes herself up every morning"
 
-w: make1
-w: urinate event noun.process:urination agent noun.person:urinator drf noun.process:urination drf noun.substance:urine drf noun.person:urinator
+w: make2
+w: urinate1 event noun.process:urination agent noun.person:urinator drf noun.process:urination drf noun.substance:urine drf noun.person:urinator
 w: piddle undergoer noun.substance:piddle drf noun.substance:piddle
 w: puddle
 w: micturate event noun.process:micturition drf noun.process:micturition
@@ -1795,109 +1795,109 @@ w: spend_a_penny
 w: wee
 w: wee-wee
 w: pass_water
-vg: stool
+vg: stool1
 hyper: excrete
-vg: urinate1
-fr: 1 2
+vg: urinate
+frame: 1 2
 g: eliminate urine; "Again, the cat had made on the expensive rug"
 
-w: manicure1 event noun.act:manicure drf noun.act:manicure drf noun.person:manicurist
-hyper: verb.contact:cut
-fr: 8
+w: manicure event noun.act:manicure drf noun.act:manicure drf noun.person:manicurist
+hyper: verb.contact:cut4
+frame: 8
 g: trim carefully and neatly; "manicure fingernails"
 
-w: manicure event noun.act:manicure drf noun.act:manicure drf noun.person:manicurist
-hyper: groom
-fr: 8
+w: manicure1 event noun.act:manicure drf noun.act:manicure drf noun.person:manicurist
+hyper: groom1
+frame: 8
 g: care for (one's hand) by cutting and shaping the nails, etc.
 
 w: manipulate event noun.act:manipulation1 drf noun.act:manipulation1
 hyper: treat
-fr: 8
+frame: 8
 g: treat manually, as with massage, for therapeutic purposed
 
 w: marcel
 hyper: wave
-fr: 2 8
+frame: 2 8
 g: make a marcel in a woman's hair
 
 w: martyr
-w: martyrize drf noun.person:martyr1 drf noun.person:martyr
+w: martyrize drf noun.person:martyr drf noun.person:martyr1
 w: martyrise
 hyper: torture
-fr: 9
+frame: 9
 g: torture and torment like a martyr
 
 w: massage event noun.act:massage agent noun.person:massager drf noun.act:massage drf noun.person:massager
 hyper: treat
-fr: 8 9
+frame: 8 9
 g: give a massage to; "She massaged his sore back"
 
-w: medicate1 event noun.act:medication drf adjs.all:medicative drf noun.artifact:medicine drf noun.act:medication
-hyper: verb.change:impregnate
-dt: noun.act:medicine
-fr: 8
+w: medicate event noun.act:medication drf adjs.all:medicative drf noun.artifact:medicine drf noun.act:medication
+hyper: verb.change:impregnate1
+dt: noun.act:medicine1
+frame: 8
 g: impregnate with a medicinal substance
 
-w: medicate event noun.act:medication by-means-of noun.artifact:medication drf adjs.all:medicative drf noun.cognition:medicine drf noun.artifact:medicine drf noun.act:medicine drf noun.artifact:medication drf noun.act:medication
-w: medicine event noun.cognition:medicine event noun.act:medicine by-means-of noun.artifact:medicine drf noun.act:medicine drf noun.artifact:medicine drf noun.cognition:medicine
-dt: noun.act:medicine
+w: medicate1 event noun.act:medication by-means-of noun.artifact:medication drf adjs.all:medicative drf noun.cognition:medicine drf noun.artifact:medicine drf noun.act:medicine1 drf noun.artifact:medication drf noun.act:medication
+w: medicine event noun.cognition:medicine event noun.act:medicine1 by-means-of noun.artifact:medicine drf noun.act:medicine1 drf noun.artifact:medicine drf noun.cognition:medicine
+dt: noun.act:medicine1
 hyper: treat
-fr: 9
+frame: 9
 g: treat medicinally, treat with medicine
 
 w: menace by-means-of noun.communication:menace drf noun.communication:menace
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: act in a threatening manner; "A menacing person"
 
 w: menstruate event noun.process:menstruation drf noun.process:menstruation
-w: flow event noun.process:flow1 drf noun.process:flow1
+w: flow event noun.process:flow drf noun.process:flow
 entail: ovulate
 hyper: shed_blood
-fr: 2
+frame: 2
 g: undergo menstruation; "She started menstruating at the age of 11"
 
-w: metastasize drf noun.process:metastasis1
+w: metastasize drf noun.process:metastasis
 w: metastasise
-hyper: verb.contact:spread
-fr: 1 4
+hyper: verb.contact:spread4
+frame: 1 4
 g: spread throughout the body; "the cancer had metastasized and the patient could not be saved"
 
 w: miscarry drf noun.act:miscarriage ant carry_to_term
-hyper: abort
-fr: 2 9
+hyper: abort1
+frame: 2 9
 g: suffer a miscarriage
 
 w: mousse uses noun.artifact:mousse drf noun.artifact:mousse
 w: gel
-hyper: groom
-fr: 8
+hyper: groom1
+frame: 8
 g: apply a styling gel to; "she mousses her hair"
 
 w: move_involuntarily
 w: move_reflexively
-hyper: verb.motion:move
-fr: 2 23
+hyper: verb.motion:move3
+frame: 2 23
 g: move in an uncontrolled manner
 
 w: mutilate event noun.event:mutilation agent noun.person:mutilator drf noun.event:mutilation drf noun.person:mutilator
 w: mar
 hyper: maim
-fr: 9 10
+frame: 9 10
 g: destroy or injure severely; "mutilated bodies"
 
 w: nap event noun.time:nap event noun.act:nap drf noun.act:nap drf noun.time:nap
 w: catnap event noun.act:catnap drf noun.act:catnap
 w: catch_a_wink
 hyper: sleep
-fr: 2
+frame: 2
 g: take a siesta; "She naps everyday after lunch for an hour"
 
 w: narcotize drf noun.artifact:narcotic
 w: narcotise
 hyper: drug
-fr: 9
+frame: 9
 g: administer narcotics to
 
 w: necrose
@@ -1905,55 +1905,55 @@ w: gangrene result noun.state:gangrene drf noun.state:gangrene
 w: mortify event noun.phenomenon:mortification drf noun.phenomenon:mortification
 w: sphacelate drf noun.state:sphacelus drf noun.phenomenon:sphacelus
 hyper: waste
-fr: 23
+frame: 23
 g: undergo necrosis; "the tissue around the wound necrosed"
 
 w: nick
 hyper: verb.contact:copulate
-fr: 1
+frame: 1
 g: mate successfully; of livestock
 
-w: nod3 event noun.act:nod drf noun.act:nod
-fr: 1 2
+w: nod event noun.act:nod drf noun.act:nod
+frame: 1 2
 g: let the head fall forward through drowsiness; "The old man was nodding in his chair"
 
-w: nod2
+w: nod1
 hyper: drowse
-fr: 1 2
+frame: 1 2
 g: be almost asleep; "The old man sat nodding by the fireplace"
 
-w: nurse agent noun.person:nurse drf noun.person:nurse drf noun.act:nursing
+w: nurse agent noun.person:nurse drf noun.person:nurse drf noun.act:nursing1
 hyper: treat
-dt: noun.act:medicine
-fr: 8
+dt: noun.act:medicine1
+frame: 8
 g: try to cure by special care of treatment, of an illness or injury; "He nursed his cold with Chinese herbs"
 
 w: obstipate event noun.state:obstipation drf noun.state:obstipation
 hyper: constipate
-fr: 10
+frame: 10
 g: constipate severely
 
 w: operate_on
-w: operate event noun.act:operation drf adj.all:operative4 drf noun.act:operation
+w: operate event noun.act:operation3 drf adj.all:operative drf noun.act:operation3
 hyper: treat
-dt: noun.act:medicine
-fr: 8 9
+dt: noun.act:medicine1
+frame: 8 9
 g: perform surgery on; "The doctors operated on the patient but failed to save his life"
 
 w: optimize
 w: optimise
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: act as an optimist and take a sunny view of the world
 
 w: overdose
 w: o.d.
 hyper: drug
-fr: 2
+frame: 2
 g: dose too heavily; "The rock star overdosed and was found dead in his hotel room"
 
-w: overdress ant underdress fr 2
-w: dress_up see dress ant dress_down fr 2
+w: overdress1 ant underdress1 frame 2
+w: dress_up2 see dress2 ant dress_down frame 2
 w: fig_out
 w: fig_up
 w: deck_up
@@ -1962,334 +1962,334 @@ w: fancy_up
 w: trick_up
 w: deck_out
 w: trick_out
-w: prink
+w: prink1
 w: attire uses noun.artifact:attire drf noun.artifact:attire
-w: get_up2 drf noun.artifact:getup
+w: get_up1 drf noun.artifact:getup
 w: rig_out drf noun.artifact:rigout
 w: tog_up
 w: tog_out
-vg: dress7
+vg: dress4
 vg: costume
-hyper: dress
-fr: 9
+hyper: dress2
+frame: 9
 g: put on special clothes to appear particularly appealing and attractive; "She never dresses up, even when she goes to the opera"; "The young girls were all fancied up for the party"
 
-w: overdress1 ant underdress1
+w: overdress ant underdress
 w: overclothe
 hyper: dress1
-fr: 9
+frame: 9
 g: dress too warmly; "You should not overclothe the child--she will be too hot"
 
 w: oversleep
 entail: sleep
-fr: 2
+frame: 2
 g: sleep longer than intended
 
 w: overtire
 w: overweary
 w: overfatigue
 hyper: tire1
-fr: 9 10
+frame: 9 10
 g: tire excessively
 
-w: ovulate event noun.process:ovulation drf noun.body:ovum drf noun.body:ovule1 drf noun.process:ovulation
-hyper: exhaust2
-fr: 2
+w: ovulate event noun.process:ovulation drf noun.body:ovum drf noun.body:ovule drf noun.process:ovulation
+hyper: exhaust
+frame: 2
 g: produce and discharge eggs; "women ovulate about once every month"
 
-w: pack uses noun.artifact:pack3 drf noun.artifact:pack3
+w: pack uses noun.artifact:pack1 drf noun.artifact:pack1
 hyper: treat
-fr: 11
+frame: 11
 g: treat the body or any part of it by wrapping it, as with blankets or sheets, and applying compresses to it, or stuffing it to provide cover, containment, or therapy, or to absorb blood; "The nurse packed gauze in the wound"; "You had better pack your swollen ankle with ice"
 
 w: pack_on
 hyper: gain
-fr: 8
+frame: 8
 g: gain (weight); "He packed on two pounds over the summer"
 
 w: pale result noun.attribute:pallor drf noun.attribute:pallor
 w: blanch
 w: blench
-hyper: verb.change:discolor
-fr: 2
+hyper: verb.change:discolor2
+frame: 2
 g: turn pale, as if in fear
 
 w: palpebrate event noun.act:palpebration drf noun.body:palpebra drf noun.act:palpebration
-hyper: blink
-fr: 2
+hyper: blink1
+frame: 2
 g: wink or blink, especially repeatedly
 
 w: pant event noun.act:pant drf noun.act:pant drf noun.act:panting
-w: puff event noun.act:puff1 drf noun.act:puff1 drf noun.act:puffing1
+w: puff1 event noun.act:puff1 drf noun.act:puff1 drf noun.act:puffing1
 w: gasp event noun.act:gasp drf noun.act:gasp
-w: heave1 drf noun.act:heaving2
-hyper: blow
-fr: 2
+w: heave1 drf noun.act:heaving
+hyper: blow1
+frame: 2
 g: breathe noisily, as when one is exhausted; "The runners reached the finish line, panting heavily"
 
 w: pedicure event noun.act:pedicure drf noun.act:pedicure
-hyper: groom
-fr: 8
+hyper: groom1
+frame: 8
 g: care for one's feet by cutting and shaping the nails, etc.
 
-w: peel_off1
-hyper: take_off3
-fr: 8
+w: peel_off
+hyper: take_off
+frame: 8
 g: take off, as with some difficulty; "He peeled off his blood-soaked shirt"
 
-w: perfume uses noun.cognition:perfume uses noun.artifact:perfume drf noun.cognition:perfume drf noun.artifact:perfume drf noun.artifact:perfumery2
-w: scent uses noun.cognition:scent1 drf noun.cognition:scent1
-hyper: groom
-fr: 8 9
+w: perfume uses noun.cognition:perfume uses noun.artifact:perfume drf noun.cognition:perfume drf noun.artifact:perfume drf noun.artifact:perfumery
+w: scent uses noun.cognition:scent drf noun.cognition:scent
+hyper: groom1
+frame: 8 9
 g: apply perfume to; "She perfumes herself every day"
 
 w: perk_up
 w: perk
 w: percolate
-w: pick_up drf noun.artifact:pickup3
+w: pick_up drf noun.artifact:pickup1
 w: gain_vigor
-hyper: recuperate
-fr: 2
+hyper: recuperate1
+frame: 2
 g: gain or regain energy; "I picked up after a nap"
 
 w: perm uses noun.body:perm drf noun.body:perm
 hyper: wave
-fr: 8
+frame: 8
 g: give a permanent wave to; "She perms her hair"
 
 w: piffle event noun.communication:piffle drf noun.communication:piffle
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: act in a trivial or ineffective way
 
-w: play4
-hyper: exhaust
-fr: 8
+w: play
+hyper: exhaust1
+frame: 8
 g: exhaust by allowing to pull on the line; "play a hooked fish"
 
-w: play drf noun.act:playing
-w: toy undergoer noun.artifact:toy drf noun.artifact:toy
-hyper: act
-fr: 8
+w: play2 drf noun.act:playing2
+w: toy undergoer noun.artifact:toy2 drf noun.artifact:toy2
+hyper: act1
+frame: 8
 g: engage in an activity as if it were a game rather than take it seriously; "They played games on their opponents"; "play the stock market"; "play with her feelings"; "toy with an idea"
 
-w: pod result noun.plant:pod1 result noun.plant:pod drf noun.plant:pod drf noun.plant:pod1
+w: pod result noun.plant:pod result noun.plant:pod1 drf noun.plant:pod1 drf noun.plant:pod
 hyper: grow
-fr: 1
+frame: 1
 g: produce pods, of plants
 
 w: poison drf noun.act:poisoning
 hyper: drug
-vg: verb.contact:poison1
-fr: 9 10
+vg: verb.contact:poison
+frame: 9 10
 g: administer poison to; "She poisoned her husband but he did not die"
 
 w: pollinate event noun.event:pollination agent noun.animal:pollinator drf noun.plant:pollen drf noun.event:pollination drf noun.animal:pollinator
 w: pollenate event noun.event:pollenation drf noun.event:pollenation
 w: cross-pollinate event noun.event:cross-pollination drf noun.event:cross-pollination
 hyper: inseminate
-fr: 8 11
+frame: 8 11
 g: fertilize by transfering pollen
 
 w: pomade uses noun.artifact:pomade drf noun.artifact:pomade
-hyper: groom
-fr: 8
+hyper: groom1
+frame: 8
 g: apply pomade to (hair)
 
 w: pompadour result noun.body:pompadour drf noun.body:pompadour
 hyper: verb.creation:style
-fr: 8
+frame: 8
 g: style women's hair in a pompadour
 
 w: poop_out
 w: peter_out
-w: run_down
+w: run_down1
 w: run_out
 w: conk_out
 hyper: tire
-fr: 2
+frame: 2
 g: use up all one's strength and energy and stop working; "At the end of the march, I pooped out"
 
 w: poultice uses noun.artifact:poultice drf noun.artifact:poultice
-w: plaster uses noun.artifact:plaster2 material noun.artifact:plaster2 drf noun.artifact:plaster2 drf noun.act:plastering
-hyper: dress2
-dt: noun.act:medicine
-fr: 8
+w: plaster uses noun.artifact:plaster material noun.artifact:plaster drf noun.artifact:plaster drf noun.act:plastering
+hyper: dress
+dt: noun.act:medicine1
+frame: 8
 g: dress by covering with a therapeutic substance
 
 w: pout event noun.communication:pout agent noun.person:pouter drf noun.communication:pout drf noun.person:pouter
 w: mop
 w: mow
 hyper: grimace
-fr: 2
+frame: 2
 g: make a sad face and thrust out one's lower lip; "mop and mow"; "The girl pouted"
 
-w: powder uses noun.artifact:powder1 material noun.artifact:powder1 agent noun.person:powderer drf noun.artifact:powder1 drf noun.person:powderer
+w: powder uses noun.artifact:powder material noun.artifact:powder agent noun.person:powderer drf noun.artifact:powder drf noun.person:powderer
 hyper: make_up
-fr: 8
+frame: 8
 g: apply powder to; "She powdered her nose"; "The King wears a powdered wig"
 
 w: prank
-hyper: overdress
-fr: 9
+hyper: overdress1
+frame: 9
 g: dress up showily; "He pranked himself out in his best clothes"
 
 w: preen
 w: primp drf noun.act:primping
 w: plume
 w: dress5 uses noun.artifact:dress2 drf noun.artifact:dress2
-hyper: overdress
-vg: dress
-fr: 2 9
+hyper: overdress1
+vg: dress2
+frame: 2 9
 g: dress or groom with elaborate care; "She likes to dress when going to the opera"
 
 w: presume event noun.attribute:presumption event noun.act:presumption drf noun.attribute:presumption drf noun.act:presumption
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: take liberties or act with too much confidence
 
 w: prim
 w: prim_up
 w: prim_out
 hyper: dress1
-fr: 2
+frame: 2
 g: dress primly
 
-w: prink1
-hyper: dress
-fr: 2
+w: prink
+hyper: dress2
+frame: 2
 g: dress very carefully and in a finicky manner
 
-w: propagate1 event noun.act:propagation agent noun.person:propagator1 drf adj.pert:propagative drf noun.act:propagation drf noun.person:propagator1
-cause: propagate
+w: propagate event noun.act:propagation agent noun.person:propagator drf adj.pert:propagative drf noun.act:propagation drf noun.person:propagator
+cause: propagate1
 hyper: verb.change:process
 dt: noun.Tops:plant
-fr: 8
+frame: 8
 g: cause to propagate, as by grafting or layering
 
-w: propagate event noun.act:propagation drf adj.pert:propagative drf noun.act:propagation
+w: propagate1 event noun.act:propagation drf adj.pert:propagative drf noun.act:propagation
 hyper: reproduce
 dt: noun.cognition:biology
-fr: 1
+frame: 1
 g: multiply sexually or asexually
 
-w: puff1 event noun.act:puff1 drf noun.act:puff1 drf noun.act:puffing1
+w: puff event noun.act:puff1 drf noun.act:puff1 drf noun.act:puffing1
 w: huff drf noun.act:huffing
 w: chuff
-hyper: blow
-fr: 2
+hyper: blow1
+frame: 2
 g: blow hard and loudly; "he huffed and puffed as he made his way up the mountain"
 
 w: pull event noun.state:pull drf noun.state:pull
 w: overstretch
 hyper: injure
-fr: 8
+frame: 8
 g: strain abnormally; "I pulled a muscle in my leg when I jumped up"; "The athlete pulled a tendon in the competition"
 
 w: pullulate
 hyper: breed
-fr: 1
+frame: 1
 g: breed freely and abundantly
 
 w: pupate drf noun.animal:pupa
 hyper: grow
-fr: 1
+frame: 1
 g: develop into a pupa; "the insect larva pupate"
 
-w: purge event noun.act:purgation drf adjs.all:purgative drf noun.act:purgation
+w: purge1 event noun.act:purgation drf adjs.all:purgative drf noun.act:purgation
 cause: evacuate
 hyper: treat
-fr: 2 9
+frame: 2 9
 g: excrete or evacuate (someone's bowels or body); "The doctor decided that the patient must be purged"
 
-w: quack agent noun.person:quack drf noun.person:quack drf noun.act:quackery
-hyper: act
-dt: noun.act:medicine
-fr: 2
+w: quack agent noun.person:quack drf noun.person:quack drf noun.act:quackery1
+hyper: act1
+dt: noun.act:medicine1
+frame: 2
 g: act as a medical quack or a charlatan
 
-w: quicken2 drf noun.state:quickening
-hyper: verb.motion:move
-fr: 2
+w: quicken drf noun.state:quickening
+hyper: verb.motion:move3
+frame: 2
 g: show signs of life; "the fetus quickened"
 
-w: rack instrument noun.artifact:rack2 drf noun.artifact:rack2
+w: rack instrument noun.artifact:rack drf noun.artifact:rack
 hyper: torture
-fr: 9
+frame: 9
 g: torture on the rack
 
 w: razor instrument noun.artifact:razor drf noun.artifact:razor
 hyper: shave
-fr: 8
+frame: 8
 g: shave with a razor
 
 w: reawaken
 hyper: awaken
-fr: 9 10
+frame: 9 10
 g: awaken once again
 
-w: recuperate1 event noun.process:recuperation drf adjs.all:recuperative drf noun.process:recuperation
-vg: recuperate
-hyper: bring_around1
-fr: 9 10
+w: recuperate event noun.process:recuperation drf adjs.all:recuperative drf noun.process:recuperation
+vg: recuperate1
+hyper: bring_around
+frame: 9 10
 g: restore to good health or strength
 
-w: recuperate event noun.process:recuperation drf adjs.all:recuperative drf noun.process:recuperation ant deteriorate
+w: recuperate1 event noun.process:recuperation drf adjs.all:recuperative drf noun.process:recuperation ant deteriorate
 w: recover drf noun.process:recovery
 w: convalesce event noun.process:convalescence drf adjs.all:convalescent drf noun.person:convalescent drf noun.process:convalescence
-hyper: verb.change:better
-vg: recuperate1
-fr: 2
+hyper: verb.change:better1
+vg: recuperate
+frame: 2
 g: get over an illness or shock; "The patient is recuperating"
 
 w: reduce drf noun.process:reducing1 ant gain
-w: melt_off  fr 8
+w: melt_off  frame 8
 w: lose_weight
 w: slim
 w: slenderize
 w: thin
 w: slim_down
 hyper: verb.change:change_state
-fr: 2
+frame: 2
 g: take off weight
 
 w: reek
 w: fume
 hyper: exude
-fr: 1
+frame: 1
 g: be wet with sweat or blood, as of one's face
 
 w: refracture
 hyper: fracture1
-fr: 8
+frame: 8
 g: break (a bone) that was previously broken but mended in an abnormal way; "The surgeon had to refracture her wrist"
 
-w: refresh ant tire1
-w: freshen by-means-of noun.artifact:freshener drf noun.artifact:freshener see freshen_up2
+w: refresh1 ant tire1
+w: freshen1 by-means-of noun.artifact:freshener drf noun.artifact:freshener see freshen_up
 w: refreshen1
-hyper: verb.change:change1
-fr: 9 10
+hyper: verb.change:change5
+frame: 9 10
 g: make fresh again
 
-w: regenerate1 event noun.process:regeneration event noun.act:regeneration1 drf noun.process:regeneration drf noun.act:regeneration1
-hyper: verb.change:change
-fr: 1
+w: regenerate event noun.process:regeneration event noun.act:regeneration1 drf noun.process:regeneration drf noun.act:regeneration1
+hyper: verb.change:change7
+frame: 1
 g: undergo regeneration
 
-w: regenerate
+w: regenerate1
 w: revitalize
-hyper: verb.change:better1
-fr: 10 11
+hyper: verb.change:better
+frame: 10 11
 g: restore strength; "This food revitalized the patient"
 
 w: regrow
 hyper: grow
-fr: 11
+frame: 11
 g: grow anew or continue growth after an injury or interruption; "parts of the trunk of this tree can regrow"; "some invertebrates can regrow limbs or their tail after they lost it due to an injury"
 
 w: rejuvenate event noun.phenomenon:rejuvenation drf noun.phenomenon:rejuvenation
-hyper: regenerate1
-fr: 2
+hyper: regenerate
+frame: 2
 g: become young again; "The old man rejuvenated when he became a grandfather"
 
 w: relapse event noun.act:relapse drf noun.act:relapse drf noun.act:relapsing
@@ -2299,169 +2299,169 @@ w: regress
 w: retrogress
 w: fall_back
 hyper: verb.change:revert
-fr: 2
+frame: 2
 g: go back to bad behavior; "Those who recidivate are often minor criminals"
 
-w: relax event noun.process:relaxation1 event noun.act:relaxation drf adjs.all:relaxant drf noun.process:relaxation1 drf noun.act:relaxation ant tense1
-w: loosen_up
-w: unbend1
+w: relax event noun.process:relaxation event noun.act:relaxation drf adjs.all:relaxant drf noun.process:relaxation drf noun.act:relaxation ant tense
+w: loosen_up1
+w: unbend
 w: unwind
 w: decompress
 w: slow_down
 hyper: verb.change:change_state
-fr: 2 23
+frame: 2 23
 g: become less tense, rest, or take one's ease; "He relaxed in the hot tub"; "Let's all relax after a hard day's work"
 
-w: relax1 state noun.feeling:relaxation by-means-of noun.object:relaxer drf adjs.all:relaxant drf noun.feeling:relaxation drf noun.object:relaxer drf noun.artifact:relaxant ant tense
+w: relax1 state noun.feeling:relaxation by-means-of noun.object:relaxer drf adjs.all:relaxant drf noun.feeling:relaxation drf noun.object:relaxer drf noun.artifact:relaxant ant tense1
 w: unstrain ant strain
-w: unlax1
-w: loosen_up1
+w: unlax
+w: loosen_up2
 w: unwind1
 w: make_relaxed
 cause: relax
 hyper: affect
-fr: 8 9 10
+frame: 8 9 10
 g: cause to feel relaxed; "A hot bath always relaxes me"
 
-w: relieve
+w: relieve1
 w: alleviate result noun.feeling:alleviation instrument noun.artifact:alleviator event noun.act:alleviation agent noun.person:alleviator drf adjs.all:alleviatory drf adjs.all:alleviative drf noun.feeling:alleviation drf noun.act:alleviation drf noun.person:alleviator drf noun.artifact:alleviator drf noun.artifact:alleviant
 w: palliate event noun.act:palliation drf adjs.all:palliative drf noun.act:palliation
 w: assuage state noun.feeling:assuagement drf noun.feeling:assuagement
-hyper: verb.change:better1
-fr: 11
+hyper: verb.change:better
+frame: 11
 g: provide physical relief, as from pain; "This pill will relieve your headaches"
 
 w: remedy by-means-of noun.artifact:remedy drf noun.artifact:remedy
-w: relieve2
+w: relieve
 hyper: treat
-dt: noun.act:medicine
-fr: 8
+dt: noun.act:medicine1
+frame: 8
 g: provide relief for; "remedy his illness"
 
-w: reproduce event noun.process:reproduction event noun.act:reproduction drf adjs.all:reproductive drf noun.process:reproduction drf noun.act:reproduction
+w: reproduce event noun.process:reproduction event noun.act:reproduction1 drf adjs.all:reproductive drf noun.process:reproduction drf noun.act:reproduction1
 w: procreate event noun.act:procreation drf adjs.all:procreative drf noun.act:procreation
 w: multiply1 event noun.act:multiplication1 drf noun.act:multiplication1
-hyper: verb.creation:make
+hyper: verb.creation:make11
 dt: noun.cognition:biology
-fr: 2
+frame: 2
 g: have offspring or produce more individuals of a given animal or plant; "The Bible tells people to procreate"
 
-w: respire2 drf adj.pert:respiratory
-vg: breathe
-hyper: breathe
-fr: 2
+w: respire drf adj.pert:respiratory
+vg: breathe1
+hyper: breathe1
+frame: 2
 g: breathe easily again, as after exertion or anxiety
 
-w: respire1 event noun.act:respiration1 event noun.act:respiration drf adj.pert:respiratory drf noun.act:respiration1 drf noun.act:respiration
-vg: breathe
-hyper: verb.perception:undergo4
-fr: 2
+w: respire1 event noun.act:respiration1 event noun.act:respiration2 drf adj.pert:respiratory drf noun.act:respiration1 drf noun.act:respiration2
+vg: breathe1
+hyper: verb.perception:undergo
+frame: 2
 g: undergo the biomedical and metabolic processes of respiration by taking up oxygen and producing carbon monoxide
 
 w: rest agent noun.person:rester drf noun.person:rester ant be_active
 hyper: verb.contact:recumb
-fr: 2
+frame: 2
 g: be at rest
 
-w: resurrect event noun.act:resurrection drf noun.act:resurrection
+w: resurrect1 event noun.act:resurrection drf noun.act:resurrection
 w: raise
 w: upraise
 hyper: resuscitate
-vg: resurrect1
-fr: 9 10
+vg: resurrect
+frame: 9 10
 g: cause to become alive again; "raise from the dead"; "Slavery is already dead, and cannot be resurrected"; "Upraising ghosts"
 
-w: resurrect1
-w: rise event noun.event:rise3 drf noun.event:rise3
-w: uprise5
-vg: resurrect
-hyper: verb.motion:return
-fr: 1 2
+w: resurrect
+w: rise event noun.event:rise2 drf noun.event:rise2
+w: uprise
+vg: resurrect1
+hyper: verb.motion:return2
+frame: 1 2
 g: return from the dead; "Christ is risen!"; "The dead are to uprise"
 
 w: resuscitate instrument noun.artifact:resuscitator event noun.act:resuscitation drf noun.act:resuscitation drf noun.artifact:resuscitator
-w: revive1
+w: revive
 cause: come_to
 hyper: bring_to
 vg: come_to
-fr: 9 10
+frame: 9 10
 g: cause to regain consciousness; "The doctors revived the comatose man"
 
 w: roar event noun.communication:roar drf noun.communication:roar
 w: howl event noun.communication:howl by-means-of noun.communication:howler drf noun.communication:howl drf noun.communication:howler drf noun.communication:howling
 hyper: laugh
-fr: 2
+frame: 2
 g: laugh unrestrainedly and heartily
 
-w: roll6 event noun.event:roll2 drf noun.event:roll2
+w: roll event noun.event:roll drf noun.event:roll
 hyper: tumble
-fr: 2
+frame: 2
 g: execute a roll, in tumbling; "The gymnasts rolled and jumped"
 
 w: romanticize
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: act in a romantic way
 
 w: rouge uses noun.artifact:rouge drf noun.artifact:rouge
 hyper: make_up
-fr: 8
+frame: 8
 g: redden by applying rouge to; "she rouged her cheeks"
 
 w: round
 w: flesh_out
 w: fill_out
 hyper: gain
-fr: 2
+frame: 2
 g: become round, plump, or shapely; "The young woman is fleshing out"
 
-w: run_down1
+w: run_down
 w: run_over
 hyper: injure
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: injure or kill by running over, as with a vehicle
 
 w: salivate event noun.process:salivation drf noun.process:salivation drf noun.body:saliva
 hyper: act_involuntarily
-fr: 2
+frame: 2
 g: produce saliva; "We salivated when he described the great meal"
 
 w: salve uses noun.artifact:salve uses noun.act:salve drf noun.act:salve drf noun.artifact:salve
-hyper: medicate
-dt: noun.act:medicine
-fr: 8
+hyper: medicate1
+dt: noun.act:medicine1
+frame: 8
 g: apply a salve to, usually for the purpose of healing
 
 w: scab result noun.body:scab drf noun.body:scab
 hyper: heal
-fr: 23
+frame: 23
 g: form a scab; "the wounds will eventually scab"
 
-w: scarf uses noun.artifact:scarf drf noun.artifact:scarf
-hyper: wear1
-fr: 8
+w: scarf uses noun.artifact:scarf1 drf noun.artifact:scarf1
+hyper: wear2
+frame: 8
 g: wrap in or adorn with a scarf
 
 w: scowl event noun.communication:scowl drf noun.communication:scowl
 hyper: frown
-fr: 2
+frame: 2
 g: frown with displeasure
 
 w: screw_up
 hyper: grimace
-fr: 8
+frame: 8
 g: twist into a strained configuration; "screw up one's face"
 
 w: scrub event noun.act:scrub drf noun.act:scrub
 w: scrub_up
 hyper: wash
-fr: 2
+frame: 2
 g: wash thoroughly; "surgeons must scrub prior to an operation"
 
 w: secrete event noun.process:secretion body-part noun.body:secretor drf noun.process:secretion drf noun.body:secretor
-w: release event noun.process:release drf noun.process:release
+w: release1 event noun.process:release drf noun.process:release
 hyper: exude
-fr: 8 11
+frame: 8 11
 g: generate and separate from cells or bodily fluids; "secrete digestive juices"; "release a hormone into the blood stream"
 
 w: sedate event noun.act:sedation drf adjs.all:sedative drf noun.act:sedation ant stimulate
@@ -2470,691 +2470,691 @@ w: tranquilize by-means-of noun.artifact:tranquilizer drf noun.artifact:tranquil
 w: tranquillize by-means-of noun.artifact:tranquillizer drf noun.artifact:tranquillizer
 w: tranquillise by-means-of noun.artifact:tranquilliser drf noun.artifact:tranquilliser
 hyper: affect
-fr: 9
+frame: 9
 g: cause to be calm or quiet as by administering a sedative to; "The patient must be sedated before the operation"
 
 w: sentimentalise event noun.act:sentimentalisation drf noun.act:sentimentalisation
 w: sentimentalize event noun.act:sentimentalization drf noun.act:sentimentalization
 w: sentimentize
 w: sentimentise
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: act in a sentimental way or indulge in sentimental thoughts or expression
 
 w: shake event noun.act:shake drf noun.act:shake drf noun.state:shaking
 w: didder
 hyper: move_involuntarily
-fr: 1 2
+frame: 1 2
 g: move with or as if with a tremor; "his hands shook"
 
 w: shampoo event noun.act:shampoo agent noun.artifact:shampoo drf noun.act:shampoo drf noun.artifact:shampoo
 hyper: wash
-fr: 2 8 9
+frame: 2 8 9
 g: use shampoo on (hair)
 
-w: shave instrument noun.artifact:shaver event noun.act:shave agent noun.person:shaver1 drf noun.act:shave drf noun.person:shaver1 drf noun.artifact:shaver drf noun.act:shaving
-hyper: groom
-fr: 2 8 9
+w: shave instrument noun.artifact:shaver event noun.act:shave agent noun.person:shaver drf noun.act:shave drf noun.person:shaver drf noun.artifact:shaver drf noun.act:shaving
+hyper: groom1
+frame: 2 8 9
 g: remove body hair with a razor
 
 w: shed_blood
-w: bleed agent noun.person:bleeder drf noun.person:bleeder drf noun.state:bleeding
+w: bleed1 agent noun.person:bleeder drf noun.person:bleeder drf noun.state:bleeding
 w: hemorrhage event noun.state:hemorrhage drf noun.state:hemorrhage
-hyper: exhaust2
-fr: 2
+hyper: exhaust
+frame: 2
 g: lose blood from one's body
 
 w: shed drf noun.process:shedding
 w: molt event noun.process:molt agent noun.animal:molter drf noun.animal:molter drf noun.process:molting drf noun.process:molt
 w: exuviate
 w: moult event noun.process:moult agent noun.animal:moulter drf noun.animal:moulter drf noun.process:moulting drf noun.process:moult
-w: slough undergoer noun.object:slough drf noun.object:slough drf noun.process:sloughing
-hyper: verb.contact:shed1
-fr: 1
+w: slough undergoer noun.object:slough2 drf noun.object:slough2 drf noun.process:sloughing
+hyper: verb.contact:shed2
+frame: 1
 g: cast off hair, skin, horn, or feathers; "our dog sheds every Spring"
 
 w: shirt event noun.artifact:shirt drf noun.artifact:shirt
 hyper: dress1
-fr: 9
+frame: 9
 g: put a shirt on
 
 w: shiver event noun.act:shiver drf noun.act:shiver drf noun.state:shivering
 w: shudder event noun.act:shudder drf noun.act:shudder
 hyper: move_involuntarily
-fr: 1 2
+frame: 1 2
 g: shake, as from cold; "The children are shivering--turn on the heat!"
 
-w: shock1 event noun.act:shock drf noun.act:shock
+w: shock event noun.act:shock1 drf noun.act:shock1
 hyper: treat
-fr: 9
+frame: 9
 g: subject to electrical shocks
 
-w: shoe uses noun.artifact:shoe drf noun.artifact:shoe
+w: shoe uses noun.artifact:shoe1 drf noun.artifact:shoe1
 hyper: dress1
-fr: 9
+frame: 9
 g: furnish with shoes; "the children were well shoed"
 
 w: shower event noun.act:shower by-means-of noun.artifact:shower drf noun.artifact:shower drf noun.act:shower
-hyper: bathe
-fr: 2
+hyper: bathe1
+frame: 2
 g: take a shower; wash one's body in the shower; "You should shower after vigorous exercise"
 
 w: shrug event noun.communication:shrug drf noun.communication:shrug see verb.communication:shrug_off
 hyper: verb.communication:gesticulate
-fr: 2
+frame: 2
 g: raise one's shoulders to indicate indifference or resignation
 
-w: sicken1
+w: sicken
 hyper: harm
-fr: 10
+frame: 10
 g: make sick or ill; "This kind of food sickens me"
 
-w: sicken
+w: sicken1
 w: come_down
-hyper: verb.change:worsen
-fr: 2
+hyper: verb.change:worsen1
+frame: 2
 g: get sick; "She fell sick last Friday, and now she is in the hospital"
 
 w: sigh event noun.event:sigh event noun.communication:sigh drf noun.event:sigh drf noun.communication:sigh
-w: suspire4 event noun.communication:suspiration drf noun.communication:suspiration
-hyper: breathe
-fr: 2
+w: suspire event noun.communication:suspiration drf noun.communication:suspiration
+hyper: breathe1
+frame: 2
 g: heave or utter a sigh; breathe deeply and heavily; "She sighed sadly"
 
 w: sit_back
 w: take_it_easy
 hyper: relax
-fr: 2
+frame: 2
 g: settle into a comfortable sitting position
 
 w: skin_over
 hyper: heal
-fr: 23
+frame: 23
 g: grow new skin over an injury
 
 w: sleep_late
 w: sleep_in
 hyper: sleep
-fr: 2
+frame: 2
 g: sleep later than usual or customary; "On Sundays, I sleep in"
 
-w: sleep state noun.state:sleep event noun.time:sleep agent noun.person:sleeper drf noun.time:sleep drf noun.state:sleep drf noun.person:sleeper drf noun.cognition:sleeping ant wake see sleep_in see sleep_late see verb.consumption:sleep_in see verb.consumption:sleep_out
+w: sleep state noun.state:sleep1 event noun.time:sleep agent noun.person:sleeper2 drf noun.time:sleep drf noun.state:sleep1 drf noun.person:sleeper2 drf noun.cognition:sleeping ant wake see sleep_in see sleep_late see verb.consumption:sleep_in see verb.consumption:sleep_out
 w: kip event noun.time:kip drf noun.time:kip
-w: slumber state noun.state:slumber1 agent noun.person:slumberer drf noun.state:slumber1 drf noun.person:slumberer
+w: slumber state noun.state:slumber agent noun.person:slumberer drf noun.state:slumber drf noun.person:slumberer
 w: log_Z's
 w: catch_some_Z's
 hyper: rest
-fr: 2
+frame: 2
 g: be asleep
 
 w: slick uses noun.attribute:slick drf noun.attribute:slick
 w: slick_down
 w: sleek_down
 hyper: comb
-fr: 8
+frame: 8
 g: give a smooth and glossy appearance; "slick one's hair"
 
 w: slip_off ant slip_on
-hyper: take_off3
-fr: 8
+hyper: take_off
+frame: 8
 g: take off with ease or speed; "She slipped off her jacket"
 
 w: slip_on drf noun.artifact:slip-on ant slip_off
-hyper: wear1
-fr: 8
+hyper: wear2
+frame: 8
 g: put on with ease or speed; "slip into something more comfortable after work"; "slip on one's shoes"
 
 w: smile event noun.communication:smile agent noun.person:smiler drf noun.communication:smile drf noun.body:smiler drf noun.person:smiler drf noun.communication:smiling
 hyper: grimace
-fr: 2 22
+frame: 2 22
 g: change one's facial expression by spreading the lips, often to signal pleasure
 
 w: smirk event noun.communication:smirk agent noun.person:smirker drf noun.person:smirker drf noun.communication:smirk
 w: simper agent noun.person:simperer drf noun.person:simperer
 hyper: smile
-fr: 2 22
+frame: 2 22
 g: smile affectedly or derisively
 
 w: smut by-means-of noun.state:smut by-means-of noun.plant:smut drf noun.plant:smut drf noun.state:smut
-hyper: infect
+hyper: infect1
 dt: noun.act:farming
-fr: 11
+frame: 11
 g: affect with smut or mildew, as of a crop such as corn
 
 w: snap_back
-hyper: recuperate
-fr: 2
+hyper: recuperate1
+frame: 2
 g: recover quickly; "After the surgery, the patient snapped back in a few days"
 
-w: sneer1 event noun.communication:sneer1 event noun.communication:sneer agent noun.person:sneerer drf noun.communication:sneer1 drf noun.communication:sneer drf noun.person:sneerer
-vg: sneer
-hyper: verb.communication:express1
-fr: 2 22
+w: sneer event noun.communication:sneer event noun.communication:sneer1 agent noun.person:sneerer drf noun.communication:sneer drf noun.communication:sneer1 drf noun.person:sneerer
+vg: sneer1
+hyper: verb.communication:express3
+frame: 2 22
 g: express through a scornful smile; "she sneered her contempt"
 
-w: sneer event noun.communication:sneer1 event noun.communication:sneer agent noun.person:sneerer drf noun.communication:sneer1 drf noun.communication:sneer drf noun.person:sneerer
+w: sneer1 event noun.communication:sneer event noun.communication:sneer1 agent noun.person:sneerer drf noun.communication:sneer drf noun.communication:sneer1 drf noun.person:sneerer
 hyper: smile
-vg: sneer1
-fr: 2 22
+vg: sneer
+frame: 2 22
 g: smile contemptuously; "she sneered at her little sister's efforts to play the song on the piano"
 
 w: sneeze event noun.state:sneeze agent noun.person:sneezer drf noun.person:sneezer drf noun.state:sneezing drf noun.state:sneeze
-entail: exhale
+entail: exhale1
 hyper: act_involuntarily
-fr: 2
+frame: 2
 g: exhale spasmodically, as when an irritant entered one's nose; "Pepper makes me sneeze"
 
 w: snicker event noun.communication:snicker drf noun.communication:snicker
 w: snigger event noun.communication:snigger drf noun.communication:snigger
 hyper: laugh
-fr: 2 22
+frame: 2 22
 g: laugh quietly
 
 w: sniff agent noun.person:sniffer drf noun.person:sniffer
-w: sniffle event noun.act:sniffle drf noun.act:sniffle
+w: sniffle1 event noun.act:sniffle drf noun.act:sniffle
 hyper: inhale
-fr: 2
+frame: 2
 g: inhale audibly through the nose; "the sick student was sniffling in the back row"
 
 w: snivel1 event noun.act:snivel agent noun.person:sniveller drf noun.act:snivel drf noun.person:sniveller drf noun.act:sniveling
-w: sniffle1
+w: sniffle
 w: blubber agent noun.person:blubberer drf noun.person:blubberer
 w: blub
 w: snuffle1 event noun.act:snuffle drf noun.act:snuffle
-hyper: cry
-fr: 2
+hyper: cry1
+frame: 2
 g: cry or whine with snuffling; "Stop snivelling--you got yourself into this mess!"
 
 w: snooze event noun.act:snooze drf noun.act:snooze
 w: drowse1 event noun.act:drowse drf noun.act:drowse
 w: doze event noun.act:doze drf noun.act:doze see doze_off
 hyper: nap
-fr: 2
+frame: 2
 g: sleep lightly or for a short period of time
 
 w: snore event noun.event:snore event noun.act:snore agent noun.person:snorer drf noun.act:snore drf noun.event:snore drf noun.person:snorer drf noun.act:snoring
 w: saw_wood
 w: saw_logs
 entail: sleep
-hyper: breathe
-fr: 2
+hyper: breathe1
+frame: 2
 g: breathe noisily during one's sleep; "she complained that her husband snores"
 
 w: snort agent noun.person:snorter drf noun.person:snorter drf noun.act:snorting
-hyper: exhale
-fr: 2
+hyper: exhale1
+frame: 2
 g: make a snorting sound by exhaling hard; "The critic snorted contemptuously"
 
-w: snuff2 event noun.act:snuff drf noun.act:snuff
+w: snuff event noun.act:snuff drf noun.act:snuff
 hyper: inhale
-fr: 8
+frame: 8
 g: inhale audibly through the nose; "snuff coke"
 
 w: snuffle event noun.act:snuffle agent noun.person:snuffler drf noun.act:snuffle drf noun.person:snuffler
 w: snivel event noun.act:snivel1 agent noun.person:sniveller drf noun.act:snivel1 drf noun.person:sniveller
 hyper: inhale
-fr: 2
+frame: 2
 g: snuff up mucus through the nose
 
-w: soap event noun.artifact:soap drf noun.artifact:soap
-w: lather uses noun.object:lather1 uses noun.object:lather result noun.object:lather1 result noun.object:lather drf noun.object:lather1 drf noun.object:lather
+w: soap event noun.artifact:soap1 drf noun.artifact:soap1
+w: lather1 uses noun.object:lather1 uses noun.object:lather result noun.object:lather1 result noun.object:lather drf noun.object:lather1 drf noun.object:lather
 entail: wash
 hyper: cleanse
-fr: 8 9
+frame: 8 9
 g: rub soap all over, usually with the purpose of cleaning
 
 w: sob event noun.act:sob drf noun.act:sob drf noun.act:sobbing
-hyper: cry
-fr: 2
+hyper: cry1
+frame: 2
 g: weep convulsively; "He was sobbing inconsolably"
 
 w: soothe ant irritate
-hyper: relieve
-fr: 8 9 10 11
+hyper: relieve1
+frame: 8 9 10 11
 g: cause to feel better; "the medicine soothes the pain of the inflammation"
 
 w: soup
 hyper: dope
-dt: noun.act:medicine
-fr: 8 9
+dt: noun.act:medicine1
+frame: 8 9
 g: dope (a racehorse)
 
-w: spat1 result noun.animal:spat drf noun.animal:spat
+w: spat result noun.animal:spat drf noun.animal:spat
 hyper: spawn
-fr: 1
+frame: 1
 g: spawn; "oysters spat"
 
 w: spawn agent noun.animal:spawner drf noun.animal:spawner
-hyper: verb.contact:lay2
-fr: 1
+hyper: verb.contact:lay
+frame: 1
 g: lay spawn; "The salmon swims upstream to spawn"
 
-w: spew2
+w: spew1
 w: spew_out
-w: eruct4 event noun.state:eructation drf noun.state:eructation
-hyper: exhaust2
-fr: 8 11
+w: eruct event noun.state:eructation drf noun.state:eructation
+hyper: exhaust
+frame: 8 11
 g: eject or send out in large quantities, also metaphorical; "the volcano spews out molten rocks every day"; "The editors of the paper spew out hostile articles about the Presidential candidate"
 
 w: spit undergoer noun.body:spit event noun.act:spit agent noun.person:spitter drf noun.act:spit drf noun.body:spit drf noun.person:spitter drf noun.act:spitting see spit_up see verb.possession:spit_up
 w: ptyalize drf noun.process:ptyalism
 w: ptyalise
-w: spew1
-w: spue1
+w: spew
+w: spue
 hyper: expectorate
-fr: 2 8
+frame: 2 8
 g: expel or eject (saliva or phlegm or sputum) from the mouth; "The father of the victim spat at the alleged murderer"
 
 w: splint instrument noun.artifact:splint drf noun.artifact:splint
 hyper: treat
-dt: noun.act:medicine
-fr: 8
+dt: noun.act:medicine1
+frame: 8
 g: support with a splint; "splint a broken finger"
 
 w: splutter
 w: sputter
 w: spit_out
 hyper: expectorate
-fr: 8
+frame: 8
 g: spit up in an explosive manner
 
 w: sponge_down
 hyper: wash
-fr: 2 9
+frame: 2 9
 g: wash with a sponge
 
 w: spread-eagle
 hyper: stretch1
-fr: 9
+frame: 9
 g: stretch out completely; "They spread-eagled him across the floor"
 
 w: spring
 hyper: grow
-fr: 11
+frame: 11
 g: develop suddenly; "The tire sprang a leak"
 
-w: sprout1 result noun.plant:sprout result noun.food:sprout drf noun.plant:sprout drf noun.food:sprout drf noun.process:sprouting
-w: stock3 drf noun.plant:stock3
+w: sprout result noun.plant:sprout result noun.food:sprout drf noun.plant:sprout drf noun.food:sprout drf noun.process:sprouting
+w: stock drf noun.plant:stock1
 hyper: grow
-fr: 1
+frame: 1
 g: put forth and grow sprouts or shoots; "the plant sprouted early this year"
 
 w: spruce_up
 w: spruce
 w: slick_up
 w: smarten_up
-hyper: groom
-fr: 2 9
+hyper: groom1
+frame: 2 9
 g: dress and groom with particular care, as for a special occasion; "He spruced up for the party"
 
-w: squint2
+w: squint
 hyper: look
-fr: 2
+frame: 2
 g: partly close one's eyes, as when hit by direct blinding light; "The driver squinted as the sun hit his windshield"
 
-w: squint agent noun.person:squinter drf noun.person:squinter drf noun.act:squint
+w: squint1 agent noun.person:squinter drf noun.person:squinter drf noun.act:squint
 w: squinch
 hyper: grimace
-fr: 2
+frame: 2
 g: cross one's eyes as if in strabismus; "The children squinted so as to scare each other"
 
 w: stale
-hyper: make1
-fr: 1
+hyper: make2
+frame: 1
 g: urinate, of cattle and horses
 
 w: stare event noun.act:stare agent noun.person:starer drf noun.act:stare drf noun.person:starer
-hyper: verb.perception:look
-fr: 2
+hyper: verb.perception:look2
+frame: 2
 g: fixate one's eyes; "The ancestor in the painting is staring down menacingly"
 
 w: stay_up
 w: sit_up
 hyper: wake
-fr: 2
+frame: 2
 g: not go to bed; "Don't stay up so late--you have to go to work tomorrow"; "We sat up all night to watch the election"
 
-w: sterilize1 instrument noun.artifact:sterilizer event noun.act:sterilization1 drf noun.act:sterilization1 drf noun.artifact:sterilizer
-w: sterilise1 instrument noun.artifact:steriliser event noun.act:sterilisation1 drf noun.act:sterilisation1 drf noun.artifact:steriliser
+w: sterilize instrument noun.artifact:sterilizer event noun.act:sterilization1 drf noun.act:sterilization1 drf noun.artifact:sterilizer
+w: sterilise instrument noun.artifact:steriliser event noun.act:sterilisation1 drf noun.act:sterilisation1 drf noun.artifact:steriliser
 hyper: disinfect
-fr: 8
+frame: 8
 g: make free from bacteria
 
-w: sterilize event noun.act:sterilization drf noun.act:sterilization
-w: sterilise event noun.act:sterilisation drf noun.act:sterilisation
+w: sterilize1 event noun.act:sterilization drf noun.act:sterilization
+w: sterilise1 event noun.act:sterilisation drf noun.act:sterilisation
 w: desex
 w: unsex
 w: desexualize
 w: desexualise
-w: fix drf noun.act:fixing1
+w: fix drf noun.act:fixing
 hyper: operate_on
-fr: 9
+frame: 9
 g: make infertile; "in some countries, people with genetically transmissible disabilites are sterilized"
 
 w: stimulate drf adj.all:stimulative drf noun.artifact:stimulant ant sedate
 w: arouse
-w: brace material noun.artifact:bracer drf noun.artifact:bracer
-w: energize agent noun.person:energizer drf noun.person:energizer drf noun.attribute:energy2 drf noun.attribute:energy drf noun.state:energy drf noun.phenomenon:energy drf noun.act:energizing ant de-energize
+w: brace material noun.artifact:bracer1 drf noun.artifact:bracer1
+w: energize agent noun.person:energizer drf noun.person:energizer drf noun.attribute:energy1 drf noun.attribute:energy drf noun.state:energy drf noun.phenomenon:energy drf noun.act:energizing ant de-energize
 w: energise agent noun.person:energiser drf noun.person:energiser ant de-energise
 w: perk_up1
 hyper: affect
-fr: 2 8 9 10 11
+frame: 2 8 9 10 11
 g: cause to be alert and energetic; "Coffee and tea stimulate me"; "This herbal infusion doesn't stimulate"
 
 w: stooge agent noun.person:stooge drf noun.person:stooge
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: act as a stooge, in a compliant or subordinate manner; "He stooged for the flamboyant Senator"
 
-w: stool result noun.substance:stool drf noun.artifact:stool1 drf noun.substance:stool
+w: stool1 result noun.substance:stool drf noun.artifact:stool drf noun.substance:stool
 w: defecate event noun.process:defecation agent noun.person:defecator drf noun.process:defecation drf noun.person:defecator
 w: shit event noun.substance:shit event noun.process:shit agent noun.person:shitter drf noun.process:shit drf noun.substance:shit drf noun.person:shitter drf noun.process:shitting
 w: take_a_shit
 w: take_a_crap
 w: ca-ca
 w: crap result noun.substance:crap location noun.artifact:crapper drf noun.substance:crap drf noun.artifact:crapper
-w: make
+w: make1
 hyper: excrete
-vg: make1
-fr: 1 2
+vg: make2
+frame: 1 2
 g: have a bowel movement; "The dog had made in the flower beds"
 
-w: stool1 drf noun.plant:stool
+w: stool drf noun.plant:stool
 w: tiller result noun.plant:tiller event noun.plant:tiller drf noun.plant:tiller
 hyper: grow
-fr: 1
+frame: 1
 g: grow shoots in the form of stools or tillers
 
-w: strap instrument noun.artifact:strap1 drf noun.artifact:strap1
+w: strap instrument noun.artifact:strap2 drf noun.artifact:strap2
 hyper: verb.contact:fasten1
-dt: noun.act:medicine
-fr: 8
+dt: noun.act:medicine1
+frame: 8
 g: secure (a sprained joint) with a strap
 
 w: stratify event noun.act:stratification1 drf noun.act:stratification1
 vg: verb.contact:stratify
 hyper: inseminate
-fr: 11
+frame: 11
 g: render fertile and preserve by placing between layers of earth or sand; "stratify seeds"
 
 w: stream
 hyper: exude
-fr: 8 11 22
+frame: 8 11 22
 g: exude profusely; "She was streaming with sweat"; "His nose streamed blood"
 
-w: stretch1 event noun.act:stretch drf noun.act:stretch drf noun.act:stretching fr 2
-w: extend event noun.act:extension1 body-part noun.body:extensor drf noun.act:extension1 drf noun.body:extensor
-hyper: tense
-fr: 8
+w: stretch1 event noun.act:stretch drf noun.act:stretch drf noun.act:stretching frame 2
+w: extend1 event noun.act:extension1 body-part noun.body:extensor drf noun.act:extension1 drf noun.body:extensor
+hyper: tense1
+frame: 8
 g: extend one's limbs or muscles, or the entire body; "Stretch your legs!"; "Extend your right arm above your head"
 
-w: stretch2 event noun.act:stretch1 drf noun.act:stretch1
-w: stretch_out2
-hyper: verb.motion:move
-fr: 2
+w: stretch event noun.act:stretch2 drf noun.act:stretch2
+w: stretch_out
+hyper: verb.motion:move3
+frame: 2
 g: extend one's body or limbs; "Let's stretch for a minute--we've been sitting here for over 3 hours"
 
 w: stub
-hyper: verb.contact:hit1
-fr: 8
+hyper: verb.contact:hit2
+frame: 8
 g: strike (one's toe) accidentally against an object; "She stubbed her toe in the dark and now it's broken"
 
 w: subluxate event noun.event:subluxation drf noun.event:subluxation
 hyper: injure
-fr: 8
+frame: 8
 g: sprain or dislocate slightly; "subluxate the hip"
 
 w: suction event noun.phenomenon:suction event noun.act:suction by-means-of noun.phenomenon:suction drf noun.act:suction drf noun.phenomenon:suction
 hyper: evacuate
-dt: noun.act:operation
+dt: noun.act:operation3
 vg: verb.motion:suction
-fr: 8
+frame: 8
 g: empty or clean (a body cavity) by the force of suction; "suction the uterus in an abortion"
 
-w: suffer3
-hyper: verb.stative:be3
-fr: 2 22
+w: suffer
+hyper: verb.stative:be9
+frame: 2 22
 g: feel unwell or uncomfortable; "She is suffering from the hot weather"
 
-w: suffer event noun.attribute:sufferance agent noun.person:sufferer drf noun.person:sufferer drf noun.state:suffering drf noun.feeling:suffering1 drf noun.attribute:sufferance ant be_well
-w: hurt2 event noun.state:hurt drf noun.state:hurt drf noun.state:hurting
-hyper: verb.stative:be3
-fr: 1 2
+w: suffer2 event noun.attribute:sufferance agent noun.person:sufferer drf noun.person:sufferer drf noun.state:suffering1 drf noun.feeling:suffering1 drf noun.attribute:sufferance ant be_well
+w: hurt event noun.state:hurt drf noun.state:hurt drf noun.state:hurting
+hyper: verb.stative:be9
+frame: 1 2
 g: feel pain or be in pain
 
 w: suffer1 agent noun.person:sufferer drf noun.person:sufferer
 w: sustain
-w: have5
-w: get11
-hyper: verb.perception:experience
-vg: have2
-fr: 8
+w: have
+w: get2
+hyper: verb.perception:experience1
+vg: have1
+frame: 8
 g: undergo (as of injuries and illnesses); "She suffered a fracture in the accident"; "He had an insulin shock after eating three candy bars"; "She got a bruise on her leg"; "He got his arm broken in the scuffle"
 
-w: suffocate3 drf adjs.all:suffocative
+w: suffocate drf adjs.all:suffocative
 hyper: feel
-fr: 8
+frame: 8
 g: feel uncomfortable for lack of fresh air; "The room was hot and stuffy and we were suffocating"
 
-w: sunburn event noun.state:sunburn1 event noun.state:sunburn drf noun.state:sunburn drf noun.state:sunburn1
-w: burn result noun.state:burn2 drf noun.state:burn2
-hyper: verb.change:discolor
-fr: 2
+w: sunburn event noun.state:sunburn event noun.state:sunburn1 drf noun.state:sunburn1 drf noun.state:sunburn
+w: burn result noun.state:burn1 drf noun.state:burn1
+hyper: verb.change:discolor2
+frame: 2
 g: get a sunburn by overexposure to the sun
 
-w: sun event noun.phenomenon:sun drf noun.phenomenon:sun fr 9
+w: sun event noun.phenomenon:sun drf noun.phenomenon:sun frame 9
 w: sunbathe agent noun.person:sunbather drf noun.person:sunbather
 hyper: verb.contact:lie
-fr: 2 22
+frame: 2 22
 g: expose one's body to the sun
 
 w: suntan event noun.state:suntan drf noun.state:suntan
 hyper: tan
-fr: 2
+frame: 2
 g: get a tan from being exposed to the sun
 
 w: superfetate event noun.event:superfetation drf noun.event:superfetation
 hyper: conceive
-fr: 1 2
+frame: 1 2
 g: conceive when a fetus is already present in the uterus
 
 w: superinfect event noun.state:superinfection drf noun.state:superinfection
-hyper: infect
-fr: 8 11
+hyper: infect1
+frame: 8 11
 g: infect (an infected cell) further or infect a cell already containing similar organisms
 
-w: suppurate1 result noun.body:suppuration event noun.process:suppuration drf noun.process:suppuration drf noun.body:suppuration
-w: mature4 event noun.process:maturation2 drf noun.process:maturation2
+w: suppurate result noun.body:suppuration event noun.process:suppuration drf noun.process:suppuration drf noun.body:suppuration
+w: mature event noun.process:maturation2 drf noun.process:maturation2
 vg: fester
 hyper: draw
-fr: 8
+frame: 8
 g: cause to ripen and discharge pus; "The oil suppurates the pustules"
 
 w: swagger agent noun.person:swaggerer drf noun.person:swaggerer
 w: bluster agent noun.person:blusterer drf noun.person:blusterer
 w: swash
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: act in an arrogant, overly self-assured, or conceited manner
 
 w: sweat_off
 hyper: reduce
-fr: 8
+frame: 8
 g: lose weight by sweating; "I sweated off 3 pounds in the sauna"
 
 w: sweat undergoer noun.body:sweat agent noun.person:sweater drf noun.body:sweat drf noun.person:sweater drf noun.process:sweating see sweat_off
 w: sudate event noun.process:sudation drf noun.process:sudation
 w: perspire result noun.body:perspiration event noun.process:perspiration drf noun.process:perspiration drf noun.body:perspiration
 hyper: excrete
-fr: 2
+frame: 2
 g: excrete perspiration through the pores in the skin; "Exercise makes one sweat"
 
-w: swelter1
-hyper: suffer3
-fr: 2
+w: swelter
+hyper: suffer
+frame: 2
 g: be uncomfortably hot
 
-w: swelter
+w: swelter1
 hyper: sweat
-fr: 2 22
+frame: 2 22
 g: suffer from intense heat; "we were sweltering at the beach"
 
-w: take_off3
+w: take_off
 hyper: undress
-fr: 8
+frame: 8
 g: remove clothes; "take off your shirt--it's very hot in here"
 
 w: talc uses noun.substance:talc drf noun.substance:talc
 hyper: powder
-fr: 8
+frame: 8
 g: apply talcum powder to (one's body)
 
 w: tan event noun.state:tan drf noun.state:tan drf noun.process:tanning
 w: bronze
-hyper: verb.change:discolor
-fr: 2
+hyper: verb.change:discolor2
+frame: 2
 g: get a tan, from wind or sun
 
 w: tart_up
-hyper: overdress
-fr: 2 9
+hyper: overdress1
+frame: 2 9
 g: dress up in a cheap and provocative way
 
-w: tear undergoer noun.body:tear1 drf noun.body:tear1 drf noun.process:tearing
-hyper: cry
-fr: 1
+w: tear undergoer noun.body:tear drf noun.body:tear drf noun.process:tearing
+hyper: cry1
+frame: 1
 g: fill with tears or shed tears; "Her eyes were tearing"
 
 w: tease drf noun.act:teasing2
 w: fluff
 hyper: comb
-fr: 8
+frame: 8
 g: ruffle (one's hair) by combing the ends towards the scalp, for a full effect
 
 w: teethe drf noun.process:teething
 hyper: grow
-fr: 2
+frame: 2
 g: grow teeth; cut the baby teeth; "The little one is teething now"
 
-w: tense state noun.state:tension1 drf noun.state:tension1 ant relax1
+w: tense1 state noun.state:tension drf noun.state:tension ant relax1
 w: strain event noun.phenomenon:strain drf noun.phenomenon:strain ant unstrain
-w: tense_up
-cause: tense1
+w: tense_up1
+cause: tense
 hyper: affect
-fr: 8 10
+frame: 8 10
 g: cause to be tense and uneasy or nervous or anxious; "he got a phone call from his lawyer that tensed him up"
 
-w: tense1 state noun.state:tension1 body-part noun.body:tensor drf noun.state:tension1 drf noun.body:tensor ant relax
-w: tense_up1
+w: tense state noun.state:tension body-part noun.body:tensor drf noun.state:tension drf noun.body:tensor ant relax
+w: tense_up
 hyper: verb.change:change_state
-fr: 1 2 23
+frame: 1 2 23
 g: become tense, nervous, or uneasy; "He tensed up when he saw his opponent enter the room"
 
 w: tire
 w: pall
-w: weary1
-w: fatigue1 result noun.feeling:fatigue drf noun.feeling:fatigue
+w: weary
+w: fatigue result noun.feeling:fatigue drf noun.feeling:fatigue
 w: jade drf noun.animal:jade
 hyper: devolve
-fr: 2
+frame: 2
 g: lose interest or become bored with something or somebody; "I'm so tired of your mother and her complaints about my food"
 
-w: tire1 ant refresh
+w: tire1 ant refresh1
 w: wear_upon
 w: tire_out
-w: wear3 event noun.state:wear drf noun.state:wear
-w: weary
+w: wear event noun.state:wear drf noun.state:wear
+w: weary1
 w: jade1 result noun.animal:jade drf noun.animal:jade
 w: wear_out
 w: outwear
 w: wear_down
 w: fag_out
 w: fag
-w: fatigue event noun.state:fatigue drf noun.state:fatigue
+w: fatigue1 event noun.state:fatigue1 drf noun.state:fatigue1
 cause: tire
 hyper: indispose
-fr: 9 10
+frame: 9 10
 g: exhaust or get tired through overuse or great strain or stress; "We wore ourselves out on this hike"
 
-w: tone result noun.state:tone2 drf noun.state:tone2
+w: tone result noun.state:tone drf noun.state:tone
 w: tone_up
 w: strengthen
-hyper: exercise
-fr: 8
+hyper: exercise1
+frame: 8
 g: give a healthy elasticity to; "Let's tone our muscles"
 
 w: tonsure result noun.body:tonsure event noun.act:tonsure drf noun.act:tonsure drf noun.body:tonsure
 hyper: shave
-fr: 9
+frame: 9
 g: shave the head of a newly inducted monk
 
-w: torture event noun.state:torture event noun.act:torture agent noun.person:torturer drf noun.act:torture drf noun.state:torture drf noun.person:torturer drf noun.act:torturing
+w: torture event noun.state:torture event noun.act:torture1 agent noun.person:torturer drf noun.act:torture1 drf noun.state:torture drf noun.person:torturer drf noun.act:torturing
 w: excruciate state noun.state:excruciation event noun.act:excruciation drf noun.state:excruciation drf noun.act:excruciation
 w: torment undergoer noun.state:torment event noun.state:torment by-means-of noun.artifact:tormenter agent noun.person:tormenter drf noun.state:torment drf noun.person:tormenter drf noun.artifact:tormenter
 hyper: injure
-fr: 9
+frame: 9
 g: subject to torture; "The sinners will be tormented in Hell, according to the Bible"
 
 w: train drf noun.act:training
-hyper: exercise
+hyper: exercise1
 vg: verb.communication:coach
-fr: 2
+frame: 2
 g: exercise in order to prepare for an event or competition; "She is training for the Olympics"
 
-w: trample event noun.event:trample agent noun.person:trampler1 drf noun.event:trample drf noun.person:trampler1
+w: trample event noun.event:trample agent noun.person:trampler drf noun.event:trample drf noun.person:trampler
 hyper: injure
-fr: 10 11
+frame: 10 11
 g: injure by trampling or as if by trampling; "The passerby was trampled by an elephant"
 
 w: transfuse1 event noun.act:transfusion drf noun.act:transfusion
 hyper: administer
-dt: noun.act:medicine
-fr: 9
+dt: noun.act:medicine1
+frame: 9
 g: give a transfusion (e.g., of blood) to
 
-w: transpire event noun.process:transpiration2 drf noun.process:transpiration2
+w: transpire event noun.process:transpiration drf noun.process:transpiration
 hyper: exude
-fr: 2
+frame: 2
 g: give off (water) through the skin
 
-w: traumatize drf noun.state:trauma2 drf noun.state:trauma1
-w: traumatise drf noun.state:trauma2
-w: shock event noun.feeling:shock1 event noun.event:shock1 drf noun.event:shock1 drf noun.feeling:shock1
+w: traumatize drf noun.state:trauma drf noun.state:trauma1
+w: traumatise drf noun.state:trauma
+w: shock1 event noun.feeling:shock event noun.event:shock2 drf noun.event:shock2 drf noun.feeling:shock
 hyper: injure
-fr: 10
+frame: 10
 g: inflict a trauma upon
 
-w: treat event noun.act:treatment drf noun.act:treatment
+w: treat event noun.act:treatment1 drf noun.act:treatment1
 w: care_for
-fr: 8 9
+frame: 8 9
 g: provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics"
 
 w: trephine instrument noun.artifact:trephine event noun.act:trephination drf noun.act:trephination drf noun.artifact:trephine
 hyper: operate_on
-fr: 8 9
+frame: 8 9
 g: operate on with a trephine
 
-w: trouble event noun.event:trouble drf noun.event:trouble
+w: trouble event noun.event:trouble1 drf noun.event:trouble1
 w: ail1 by-means-of noun.state:ailment drf noun.state:ailment
-w: pain result noun.state:pain event noun.cognition:pain drf noun.cognition:pain drf noun.state:pain
+w: pain result noun.state:pain event noun.cognition:pain1 drf noun.cognition:pain1 drf noun.state:pain
 hyper: hurt1
-fr: 10
+frame: 10
 g: cause bodily suffering to and make sick or indisposed
 
 w: try_on drf noun.act:try-on
 w: try
-hyper: wear1
-fr: 8
+hyper: wear2
+frame: 8
 g: put on a garment in order to see whether it fits and looks nice; "Try on this sweater to see how it looks"
 
 w: tumble event noun.act:tumble agent noun.person:tumbler drf noun.act:tumble drf noun.person:tumbler drf noun.act:tumbling
-hyper: exercise
-fr: 2
+hyper: exercise1
+frame: 2
 g: do gymnastics, roll and turn skillfully
 
 w: twin result noun.person:twin drf noun.person:twin
 hyper: give_birth
-fr: 2
+frame: 2
 g: give birth to twins
 
 w: twist event noun.state:twist drf noun.state:twist
@@ -3164,287 +3164,287 @@ w: turn
 w: wrick event noun.state:wrick drf noun.state:wrick
 w: rick event noun.state:rick drf noun.state:rick
 hyper: injure
-fr: 8
+frame: 8
 g: twist suddenly so as to sprain; "wrench one's ankle"; "The wrestler twisted his shoulder"; "the hikers sprained their ankles when they fell"; "I turned my ankle and couldn't walk for several days"
 
 w: twitch event noun.state:twitch drf noun.state:twitch drf noun.state:twitching
-w: jerk event noun.act:jerk drf noun.act:jerk drf noun.act:jerking
+w: jerk event noun.act:jerk1 drf noun.act:jerk1 drf noun.act:jerking
 hyper: move_involuntarily
 vg: verb.motion:jerk
-fr: 2 23
+frame: 2 23
 g: make an uncontrolled, short, jerky motion; "his face is twitching"
 
 w: ulcerate body-part noun.state:ulcer drf adj.pert:ulcerative drf noun.state:ulcer
 hyper: affect
-fr: 11
+frame: 11
 g: affect with an ulcer; "Her stomach was ulcerated"
 
-w: unbend
+w: unbend1
 hyper: relax1
-fr: 8
+frame: 8
 g: release from mental strain, tension, or formality; "unbend the mind from absorbing too much information"
 
-w: underdress1 ant overdress1
+w: underdress ant overdress
 hyper: dress1
-fr: 9
+frame: 9
 g: dress without sufficient warmth; "She was underdressed for the hiking trip and suffered hypothermia"
 
-w: undress event noun.state:undress drf noun.state:undress ant dress1 ant dress
+w: undress event noun.state:undress drf noun.state:undress ant dress1 ant dress2
 w: discase
 w: uncase
 w: unclothe
-w: strip1 event noun.act:strip agent noun.person:stripper drf noun.act:strip drf noun.person:stripper
+w: strip event noun.act:strip agent noun.person:stripper1 drf noun.act:strip drf noun.person:stripper1
 w: strip_down
-w: disrobe1
-w: peel2 agent noun.person:peeler drf noun.person:peeler
+w: disrobe
+w: peel agent noun.person:peeler drf noun.person:peeler
 hyper: verb.change:take_off
-vg: verb.change:strip12
-fr: 2 8 9
+vg: verb.change:strip6
+frame: 2 8 9
 g: get undressed; "please don't undress in front of everybody!"; "She strips in front of strangers every night for a living"
 
-w: urinate1
-vg: make1
+w: urinate
+vg: make2
 hyper: excrete
-fr: 8
+frame: 8
 g: pass after the manner of urine; "The sick men urinated blood"
 
 w: vasectomize drf noun.act:vasectomy
 w: vasectomise
-hyper: sterilize
-fr: 9
+hyper: sterilize1
+frame: 9
 g: remove the vas deferens; "many men choose to be vasectomized as a form of safe birth control"
 
 w: vege_out
-w: vegetate event noun.act:vegetation drf adj.pert:vegetative1 drf noun.act:vegetation
+w: vegetate1 event noun.act:vegetation drf adj.pert:vegetative drf noun.act:vegetation
 hyper: relax
-fr: 2
+frame: 2
 g: engage in passive relaxation; "After a hard day's work, I vegetate in front of the television"
 
-w: vegetate1 drf adjs.all:vegetative
-hyper: propagate
+w: vegetate drf adjs.all:vegetative1
+hyper: propagate1
 dt: noun.cognition:biology
-fr: 1
+frame: 1
 g: propagate asexually; "The bacterial growth vegetated along"
 
 w: venesect event noun.act:venesection drf noun.act:venesection
 hyper: operate_on
-dt: noun.act:medicine
-fr: 2
+dt: noun.act:medicine1
+frame: 2
 g: practice venesection
 
-w: vest1
-vg: vest
-hyper: dress7
-fr: 2
+w: vest
+vg: vest1
+hyper: dress4
+frame: 2
 g: clothe oneself in ecclesiastical garments
 
-w: vest drf noun.artifact:vesture drf noun.artifact:vestment
+w: vest1 drf noun.artifact:vesture drf noun.artifact:vestment
 w: robe uses noun.artifact:robe1 uses noun.artifact:robe drf noun.artifact:robe1 drf noun.artifact:robe
 hyper: dress1
-vg: vest1
-fr: 9
+vg: vest
+frame: 9
 g: clothe formally; especially in ecclesiastical robes
 
 w: vesture uses noun.artifact:vesture drf noun.artifact:vesture
 hyper: dress1
-fr: 9
+frame: 9
 g: provide or cover with a cloak
 
-w: vet1
+w: vet
 hyper: treat
-dt: noun.act:medicine
-fr: 9
+dt: noun.act:medicine1
+frame: 9
 g: provide (a person) with medical care
 
-w: vet agent noun.person:vet drf noun.person:vet
+w: vet1 agent noun.person:vet drf noun.person:vet
 hyper: doctor
-dt: noun.act:medicine
-fr: 8 9
+dt: noun.act:medicine1
+frame: 8 9
 g: provide veterinary care for
 
 w: vomit undergoer noun.substance:vomit event noun.act:vomit by-means-of noun.artifact:vomit agent noun.person:vomiter drf noun.act:vomit drf noun.artifact:vomit drf noun.substance:vomit drf noun.person:vomiter drf noun.act:vomiting ant keep_down
-w: vomit_up  fr 8
-w: purge4
+w: vomit_up  frame 8
+w: purge
 w: cast
 w: sick drf noun.group:sick
 w: cat
-w: be_sick1
+w: be_sick
 w: disgorge event noun.act:disgorgement drf noun.act:disgorgement
 w: regorge
-w: retch event noun.act:retch drf noun.act:retch fr 8
+w: retch1 event noun.act:retch drf noun.act:retch frame 8
 w: puke undergoer noun.substance:puke drf noun.substance:puke drf noun.act:puking
 w: barf
-w: spew agent noun.person:spewer drf noun.person:spewer
-w: spue
+w: spew2 agent noun.person:spewer drf noun.person:spewer
+w: spue1
 w: chuck
 w: upchuck
 w: honk
-w: regurgitate event noun.act:regurgitation drf noun.act:regurgitation fr 8
-w: throw_up  fr 8
+w: regurgitate event noun.act:regurgitation drf noun.act:regurgitation frame 8
+w: throw_up  frame 8
 hyper: excrete
-fr: 2
+frame: 2
 g: eject the contents of the stomach through the mouth; "After drinking too much, the students vomited"; "He purged continuously"; "The patient regurgitated the food we gave him last night"
 
 w: vulgarize drf adjs.all:vulgar
 w: vulgarise
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: act in a vulgar manner; "The drunkard tends to vulgarize"
 
 w: wail event noun.communication:wail drf noun.communication:wail
 w: whimper event noun.communication:whimper drf noun.communication:whimper
 w: mewl
 w: pule
-hyper: cry
-fr: 2
+hyper: cry1
+frame: 2
 g: cry weakly or softly; "she wailed with pain"
 
 w: wake drf noun.cognition:waking ant sleep
-fr: 2
+frame: 2
 g: be awake, be alert, be there
 
-w: wake_up ant fall_asleep
+w: wake_up1 ant fall_asleep
 w: awake
-w: arouse5 event noun.cognition:arousal drf noun.cognition:arousal
+w: arouse2 event noun.cognition:arousal drf noun.cognition:arousal
 w: awaken1 drf noun.act:awakening
-w: wake1 agent noun.person:waker drf noun.person:waker
+w: wake2 agent noun.person:waker1 drf noun.person:waker1
 w: come_alive
-w: waken drf noun.act:wakening
+w: waken1 drf noun.act:wakening
 entail: sleep
 hyper: verb.change:change_state
-fr: 2
+frame: 2
 g: stop sleeping; "She woke up to the sound of the alarm clock"
 
 w: wan
-hyper: sicken
-fr: 2
+hyper: sicken1
+frame: 2
 g: become pale and sickly
 
 w: wanton
-hyper: act
-fr: 2
+hyper: act1
+frame: 2
 g: behave extremely cruelly and brutally
 
-w: warm_up1 drf noun.act:warm-up
-hyper: exercise1
-hyper: verb.social:work1
-fr: 9
+w: warm_up drf noun.act:warm-up
+hyper: exercise
+hyper: verb.social:work7
+frame: 9
 g: cause to do preliminary exercises so as to stretch the muscles; "The coach warmed up the players before the game"
 
-w: wash2 event noun.act:wash1 drf noun.act:wash1
+w: wash1 event noun.act:wash1 drf noun.act:wash1
 hyper: cleanse
 vg: wash
-fr: 1
+frame: 1
 g: to cleanse (itself or another animal) by licking; "The cat washes several times a day"
 
-w: wash_up drf noun.act:washup
-w: lave2 event noun.act:lavation drf noun.act:lavation
-hyper: freshen2
-fr: 2
+w: wash_up1 drf noun.act:washup1
+w: lave1 event noun.act:lavation drf noun.act:lavation
+hyper: freshen
+frame: 2
 g: wash one's face and hands; "She freshened up in the bathroom"
 
-w: wash event noun.act:wash1 drf noun.act:wash1 drf noun.act:washing see wash_up
+w: wash event noun.act:wash1 drf noun.act:wash1 drf noun.act:washing see wash_up1
 w: lave event noun.act:lavation drf noun.act:lavation drf noun.act:lavage
-vg: wash2
+vg: wash1
 hyper: cleanse
-fr: 2 8 9
+frame: 2 8 9
 g: cleanse (one's body) with soap and water
 
 w: waste drf noun.process:wastage
 w: rot
 hyper: devolve
-fr: 1
+frame: 1
 g: become physically weaker; "Political prisoners are wasting away in many prisons all over the world"
 
 w: water
 hyper: secrete
-fr: 1
+frame: 1
 g: secrete or form water, as tears or saliva; "My mouth watered at the prospect of a good dinner"; "His eyes watered"
 
 w: wave result noun.body:wave drf noun.body:wave
-hyper: dress4
-fr: 8
+hyper: dress6
+frame: 8
 g: set waves in; "she asked the hairdresser to wave her hair"
 
-w: wear2
-hyper: verb.stative:have
-fr: 5 8
+w: wear4
+hyper: verb.stative:have1
+frame: 5 8
 g: have or show an appearance of; "wear one's hair in a certain way"
 
-w: wear4 undergoer noun.artifact:wear event noun.act:wear drf adj.all:wearable drf noun.artifact:wear drf noun.act:wear drf noun.act:wearing
+w: wear3 undergoer noun.artifact:wear event noun.act:wear drf adj.all:wearable drf noun.artifact:wear drf noun.act:wear drf noun.act:wearing
 w: bear2
-hyper: verb.stative:have
-fr: 8
+hyper: verb.stative:have1
+frame: 8
 g: have on one's person; "He wore a red ribbon"; "bear a scar"
 
-w: wear undergoer noun.artifact:wear agent noun.person:wearer drf adj.all:wearable drf noun.artifact:wear drf noun.person:wearer
+w: wear1 undergoer noun.artifact:wear agent noun.person:wearer drf adj.all:wearable drf noun.artifact:wear drf noun.person:wearer
 w: have_on
-entail: dress
-fr: 8
+entail: dress2
+frame: 8
 g: be dressed in; "She was wearing yellow that day"
 
-w: wear1 uses noun.artifact:wear drf adj.all:wearable drf noun.artifact:wear
+w: wear2 uses noun.artifact:wear drf adj.all:wearable drf noun.artifact:wear
 w: put_on
 w: get_into
 w: don
 w: assume
-hyper: dress
-fr: 8
+hyper: dress2
+frame: 8
 g: put clothing on one's body; "What should I wear today?"; "He put on his best suit for the wedding"; "The princess donned a long blue dress"; "The queen assumed the stately robes"; "He got into his jeans"
 
 w: wet agent noun.person:wetter1 drf noun.person:wetter1
-hyper: make1
-fr: 8
+hyper: make2
+frame: 8
 g: make one's bed or clothes wet by urinating; "This eight year old boy still wets his bed"
 
 w: wheeze event noun.act:wheeze drf noun.act:wheeze
-hyper: breathe
-fr: 2
+hyper: breathe1
+frame: 2
 g: breathe with difficulty
 
 w: whelp undergoer noun.animal:whelp drf noun.animal:whelp
 w: pup result noun.animal:pup drf noun.animal:pup
 hyper: give_birth
-fr: 1
+frame: 1
 g: birth; "the dog whelped"
 
 w: wince event noun.communication:wince drf noun.communication:wince
 hyper: grimace
-fr: 2
+frame: 2
 g: make a face indicating disgust or dislike; "She winced when she heard his pompous speech"
 
-w: wink2 event noun.communication:wink agent noun.person:winker drf noun.communication:wink drf noun.person:winker
+w: wink1 event noun.communication:wink agent noun.person:winker drf noun.communication:wink drf noun.person:winker
 hyper: verb.communication:gesticulate
-fr: 22
+frame: 22
 g: signal by winking; "She winked at him"
 
-w: wink1 event noun.communication:wink drf noun.communication:wink
-w: blink1 event noun.act:blink drf noun.act:blink
+w: wink event noun.communication:wink drf noun.communication:wink
+w: blink event noun.act:blink drf noun.act:blink
 w: blink_away
 hyper: verb.change:suppress
-fr: 8
+frame: 8
 g: force to go away by blinking; "blink away tears"
 
 w: work_up
-w: get_up3
+w: get_up
 hyper: grow
-fr: 8
+frame: 8
 g: develop; "we worked up an as of an appetite"
 
 w: yawn event noun.act:yawn agent noun.person:yawner drf noun.act:yawn drf noun.person:yawner drf noun.act:yawning
-hyper: breathe
-fr: 2
+hyper: breathe1
+frame: 2
 g: utter a yawn, as from lack of oxygen or when one is tired; "The child yawned during the long performance"
 
-w: zonk_out
+w: zonk_out1
 hyper: fall_asleep
-fr: 2
+frame: 2
 g: fall asleep fast, as when one is extremely tired; "after the long drive, we zonked out and slept for 10 hours"
 
-w: zonk_out1
-w: pass_out1
+w: zonk_out
+w: pass_out
 w: black_out drf noun.cognition:blackout
 hyper: verb.change:change_state
-fr: 2
+frame: 2
 g: lose consciousness due to a sudden trauma, for example
 

@@ -80,7 +80,7 @@ g: a gradually increasing tempo of music; "my ear will not accept such violent a
 
 w: acceleration ant deceleration
 hyper: rate
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a rate of increase of velocity
 
 w: access_time
@@ -94,46 +94,46 @@ hp: Jewish_calendar
 g: the sixth month of the civil year; the twelfth month of the ecclesiastic year in the Jewish calendar (in February and March)
 
 w: Admission_Day
-hyper: day1
+hyper: day4
 g: in some states of the United States: a legal holiday commemorating the day the state was admitted to the Union
 
-w: adolescence drf adjs.all:adolescent drf adjs.all:adolescent drf verb.change:adolesce
-hp: youth
+w: adolescence drf adjs.all:adolescent drf adjs.all:adolescent2 drf verb.change:adolesce
+hp: youth1
 hyper: time_of_life
 g: the time period between the beginning of puberty and adulthood
 
 w: adulthood drf noun.person:adult drf noun.animal:adult
-w: maturity drf adj.all:mature1
+w: maturity1 drf adj.all:mature2
 hyper: time_of_life
 g: the period of time in your life after your physical growth has stopped and you are fully developed
 
-w: Advent1
+w: Advent
 hyper: season1
 hp: church_calendar
 g: the season including the four Sundays preceding Christmas
 
 w: Advent_Sunday
 hyper: Christian_holy_day
-hp: Advent1
+hp: Advent
 g: the first of the four Sundays during Advent
 
 w: afterlife
-w: hereafter1
-hyper: life
+w: hereafter
+hyper: life3
 g: life after death
 
 w: afternoon
-hyper: day2
+hyper: day3
 g: the part of the day between noon and evening; "he spent a quiet afternoon in the park"
 
 w: age_of_consent
-hyper: age
+hyper: age3
 g: the minimum age for marrying without parental consent or the minimum age for consensual sexual relations; intercourse at an earlier age can result in a charge of assault or statutory rape; the age differs in different states of the Union
 
-w: age drf verb.change:age
+w: age3 drf verb.change:age2
 w: eld1
 hyper: time_of_life
-hp: life
+hp: life3
 g: a time of life (usually defined in years) at which some particular qualification or power arises; "she was now of school age"; "tall for his eld"
 
 w: Aghan
@@ -187,11 +187,11 @@ hyper: season1
 g: the season of All Saints' Day
 
 w: alpha_and_omega
-hyper: eternity
+hyper: eternity1
 g: the first and last; signifies God's eternity
 
 w: American_Indian_Day
-hyper: day1
+hyper: day4
 hp: September
 g: US: the 4th Friday in September
 
@@ -214,7 +214,7 @@ g: a moderately slow tempo (a walking pace)
 
 w: anniversary
 w: day_of_remembrance
-hyper: day1
+hyper: day4
 g: the date on which an event occurred in some previous year (or the celebration of it)
 
 w: annum
@@ -231,27 +231,27 @@ hp: March
 g: a festival commemorating the announcement of the Incarnation by the angel Gabriel to the Virgin Mary; a quarter day in England, Wales, and Ireland
 
 w: anomalistic_month
-hyper: month
+hyper: month1
 g: period between successive perigees; approximately 27.5546 days
 
 w: anomalistic_year
-hyper: year
+hyper: year2
 g: time of the earth's revolution from perihelion to perihelion again; 365 days and 6 hr and 13 min and 53.1 sec
 
 w: antiquity drf adjs.all:antique1
 hyper: historic_period
-hp: history
+hp: history1
 g: the historic period preceding the Middle Ages in Europe
 
 w: apogee
-w: culmination drf verb.social:culminate drf verb.change:culminate3 drf verb.change:culminate
+w: culmination drf verb.social:culminate drf verb.change:culminate1 drf verb.change:culminate
 hyper: phase
 g: a final climactic stage; "their achievements stand as a culmination of centuries of development"
 
 w: April_Fools'
 w: April_Fools'_day
 w: All_Fools'_day
-hyper: day1
+hyper: day4
 hp: April
 g: the first day of April which is celebrated by playing practical jokes
 
@@ -262,7 +262,7 @@ hp: Gregorian_calendar
 g: the month following March and preceding May
 
 w: Arbor_Day
-hyper: day1
+hyper: day4
 g: a day designated for planting trees
 
 w: Archean drf adjs.all:archean
@@ -272,12 +272,12 @@ w: Archeozoic drf adjs.all:archeozoic
 w: Archaeozoic drf adjs.all:archaeozoic
 w: Archeozoic_eon
 w: Archaeozoic_aeon
-ihyper: eon1
+ihyper: eon
 hp: Precambrian
 g: the time from 3,800 million years to 2,500 million years ago; earth's crust formed; unicellular organisms are earliest forms of life
 
 w: Armed_Forces_Day
-hyper: day1
+hyper: day4
 hp: May
 g: the 3rd Saturday in May
 
@@ -346,7 +346,7 @@ w: auld_langsyne
 w: langsyne
 w: old_times
 w: good_old_days
-hyper: past
+hyper: past1
 g: past times remembered with nostalgia
 
 w: autumnal_equinox ant vernal_equinox
@@ -357,7 +357,7 @@ hp: fall
 hp: September
 g: September 22
 
-w: bachelorhood drf noun.person:bachelor
+w: bachelorhood drf noun.person:bachelor1
 hyper: time_of_life
 g: the time of a man's life prior to marriage
 
@@ -378,11 +378,11 @@ ihyper: historic_period
 g: the historic period from about 1600 until 1750 when the baroque style of art, architecture, and music flourished in Europe
 
 w: baseball_season
-hyper: season2
+hyper: season
 g: the season when baseball is played
 
 w: basketball_season
-hyper: season2
+hyper: season
 g: the season when basketball is played
 
 w: Bastille_Day
@@ -396,7 +396,7 @@ w: bpm
 w: metronome_marking
 w: M.M.
 hyper: tempo
-hp: noun.act:music
+hp: noun.act:music1
 dt: noun.communication:music
 g: the pace of music measured by the number of beats occurring in 60 seconds
 
@@ -413,7 +413,7 @@ w: commencement
 w: first
 w: outset
 w: get-go
-w: start drf verb.social:start drf verb.creation:start1 drf verb.creation:start drf verb.stative:start drf verb.change:start1 drf verb.change:start
+w: start drf verb.social:start1 drf verb.creation:start drf verb.creation:start1 drf verb.stative:start1 drf verb.change:start drf verb.change:start1
 w: kickoff drf verb.social:kick_off
 w: starting_time
 w: showtime
@@ -443,17 +443,17 @@ w: bicentenary drf adj.pert:bicentenary
 hyper: anniversary
 g: the 200th anniversary (or the celebration of it)
 
-w: bimester drf adjs.all:bimestrial drf adjs.all:bimestrial
+w: bimester drf adjs.all:bimestrial1 drf adjs.all:bimestrial
 hyper: time_period
 g: a period of 2 months
 
-w: bimillennium1
-w: bimillenary1
+w: bimillennium
+w: bimillenary
 hyper: anniversary
 g: the 2000th anniversary (or the celebration of it)
 
-w: bimillennium drf adj.pert:bimillenial
-w: bimillenary
+w: bimillennium1 drf adj.pert:bimillenial
+w: bimillenary1
 hyper: time_period
 g: a span of 2000 years
 
@@ -467,16 +467,16 @@ g: the time of various biological processes
 
 w: birth drf verb.body:birth ant death drf verb.change:be_born
 hyper: beginning
-hp: life
+hp: life3
 g: the time when something begins (especially life); "they divorced after the birth of the child"; "his election signaled the birth of a new age"
 
-w: birthday
+w: birthday1
 hyper: anniversary
 g: an anniversary of the day on which a person was born (or the celebration of it)
 
-w: birthday1
+w: birthday
 w: natal_day
-hyper: date
+hyper: date3
 g: the date on which a person was born
 
 w: birthrate
@@ -493,28 +493,28 @@ hyper: rate
 dt: noun.cognition:computer_science
 g: (computer science) the rate at which data is transferred (as by a modem)
 
-w: blackout drf verb.change:black_out
+w: blackout drf verb.change:black_out1
 hyper: pause
 g: a suspension of radio or tv broadcasting
 
 w: blink_of_an_eye
 w: flash drf verb.perception:flash2
 w: heartbeat
-w: instant1
+w: instant
 w: jiffy
 w: split_second
 w: trice
 w: twinkling
 w: wink
 w: New_York_minute
-hyper: moment1
+hyper: moment
 g: a very short time (as the time it takes the eye to blink or the heart to beat); "if I had the chance I'd do it in a flash"
 
-w: bloom
+w: bloom1
 w: bloom_of_youth
 w: salad_days
 hyper: time_of_life
-hp: youth
+hp: youth1
 g: the best time of youth
 
 w: blue_moon
@@ -529,7 +529,7 @@ g: effigies of Guy Fawkes are burned on this night
 
 w: bottom ant top
 w: bottom_of_the_inning
-hyper: turn
+hyper: turn1
 hp: inning
 g: the second half of an inning; while the home team is at bat
 
@@ -539,11 +539,11 @@ g: a period of illness; "a bout of fever"; "a bout of depression"
 
 w: Boxing_Day
 hyper: legal_holiday
-hp: Christmas1
+hp: Christmas
 dr: noun.location:United_Kingdom
 g: first weekday after Christmas
 
-w: boyhood drf noun.person:boy
+w: boyhood drf noun.person:boy1
 hyper: childhood
 g: the childhood of a boy
 
@@ -552,7 +552,7 @@ hyper: mealtime
 g: the customary or habitual hour for eating breakfast
 
 w: breath
-w: breather drf verb.communication:breathe
+w: breather drf verb.communication:breathe2
 w: breathing_place
 w: breathing_space
 w: breathing_spell
@@ -560,7 +560,7 @@ w: breathing_time
 hyper: respite
 g: a short respite
 
-w: Bronze_Age1
+w: Bronze_Age
 ihyper: time_period
 hp: prehistory
 dt: noun.cognition:archeology
@@ -582,7 +582,7 @@ g: an indefinite time in the future; "he'll get around to it in the sweet by-and
 
 w: bygone drf adjs.all:bygone
 w: water_under_the_bridge
-hyper: past
+hyper: past1
 g: past events to be put aside; "let bygones be bygones"
 
 w: caesura drf adj.pert:caesural
@@ -590,7 +590,7 @@ hyper: pause
 g: a pause or interruption (as in a conversation); "after an ominous caesura the preacher continued"
 
 w: calendar drf adj.pert:calendric
-hyper: noun.cognition:arrangement
+hyper: noun.cognition:arrangement1
 g: a system of timekeeping that defines the beginning and length and divisions of the year
 
 w: calendar_day
@@ -600,7 +600,7 @@ hp: week
 g: a day reckoned from midnight to midnight
 
 w: calendar_month
-w: month1 drf adjs.all:monthly
+w: month drf adjs.all:monthly
 hyper: time_period
 g: one of the twelve divisions of the calendar year; "he paid the bill last month"
 
@@ -615,7 +615,7 @@ g: the era of Islam's ascendancy from the death of Mohammed until the 13th centu
 
 w: Cambrian
 w: Cambrian_period
-ihyper: period3
+ihyper: period2
 hp: Paleozoic
 g: from 544 million to about 500 million years ago; marine invertebrates
 
@@ -631,9 +631,9 @@ hyper: hour1
 dt: noun.group:Roman_Catholic
 g: (Roman Catholic Church) one of seven specified times for prayer
 
-w: Carboniferous drf adj.pert:carboniferous2
+w: Carboniferous drf adj.pert:carboniferous
 w: Carboniferous_period
-ihyper: period3
+ihyper: period2
 hp: Paleozoic
 g: from 345 million to 280 million years ago
 
@@ -669,7 +669,7 @@ g: the acceleration toward the center that holds a satellite in elliptical orbit
 
 w: century
 hyper: time_period
-hp: millennium
+hp: millennium2
 g: a period of 100 years
 
 w: Chait
@@ -691,7 +691,7 @@ w: checkout_time
 hyper: departure_time
 g: the latest time for vacating a hotel room; "the checkout here is 12 noon"
 
-w: childhood drf noun.person:child
+w: childhood drf noun.person:child3
 hyper: time_of_life
 g: the time of person's life when they are a child
 
@@ -706,10 +706,10 @@ g: a religious holiday for Christians
 
 w: Christmas_Eve
 w: Dec_24
-hyper: holiday1
+hyper: holiday
 g: the day before Christmas
 
-w: Christmas
+w: Christmas1
 w: Christmas_Day
 w: Xmas
 w: Dec_25
@@ -720,7 +720,7 @@ hyper: feast_day
 hp: December
 g: a Christian holiday celebrating the birth of Christ; a quarter day in England, Wales, and Ireland
 
-w: Christmas1
+w: Christmas
 w: Christmastide
 w: Christmastime
 w: Yule
@@ -733,7 +733,7 @@ g: period extending from Dec. 24 to Jan. 6
 
 w: chukker
 w: chukka
-hyper: noun.cognition:part
+hyper: noun.cognition:part1
 hp: playing_period
 dt: noun.act:polo
 g: (polo) one of six divisions into which a polo match is divided
@@ -749,7 +749,7 @@ hyper: year1
 g: the year in the ecclesiastical calendar; especially feast days and special seasons
 
 w: Cinco_de_Mayo
-hyper: day1
+hyper: day4
 g: the fifth of May which is observed in Mexico and Mexican-American communities in the United States to commemorate the Mexican victory over the French in the Battle of Puebla in 1862
 
 w: circadian_rhythm
@@ -758,7 +758,7 @@ g: a daily cycle of activity observed in many living organisms
 
 w: Circumcision
 w: Feast_of_the_Circumcision
-w: January_12
+w: January_1
 hyper: feast_day
 dt: noun.group:Roman_Catholic
 dt: noun.group:Anglican_Church
@@ -766,7 +766,7 @@ g: (Roman Catholic Church and Anglican Church) feast day celebrating the circumc
 
 w: Citizenship_Day
 w: September_17
-hyper: day1
+hyper: day4
 hp: September
 g: celebrated in the United States
 
@@ -776,20 +776,20 @@ w: local_time
 hyper: noun.Tops:time
 g: the official time in a local region (adjusted for location around the Earth); established by law or custom
 
-w: climacteric2
+w: climacteric
 hyper: biological_time
 hp: middle_age
 g: a period in a man's life corresponding to menopause
 
 w: clock_time
-w: time3 drf verb.change:time1
-hyper: noun.cognition:reading2
+w: time4 drf verb.change:time1
+hyper: noun.cognition:reading1
 attr: adj.all:antemeridian
 attr: adj.all:postmeridian
 g: a reading of a point in time as given by a clock; "do you know what time it is?"; "the time is 10 o'clock"
 
 w: clocking drf verb.change:clock
-hyper: duration2
+hyper: duration
 g: the time taken to traverse a measured course; "it was a world record clocking"
 
 w: closing_time
@@ -823,7 +823,7 @@ g: (computer science) the processing time required by a device prior to the exec
 
 w: commencement_day
 w: degree_day
-hyper: day1
+hyper: day4
 g: the day on which university degrees are conferred
 
 w: common_time
@@ -859,7 +859,7 @@ w: complin
 hyper: canonical_hour
 g: last of the seven canonical hours just before retiring
 
-w: continuum drf adj.all:continuous2 drf adj.all:continuous1
+w: continuum drf adj.all:continuous drf adj.all:continuous1
 hyper: noun.Tops:time
 g: a continuous nonspatial whole or extent or succession in which no part or portion is distinct or distinguishable from adjacent parts
 
@@ -887,7 +887,7 @@ g: birth of a person; "he was taught from the cradle never to cry"
 
 w: Cretaceous drf adj.pert:Cretaceous
 w: Cretaceous_period
-ihyper: period3
+ihyper: period2
 hp: Mesozoic
 g: from 135 million to 63 million years ago; end of the age of reptiles; appearance of modern insects and flowering plants
 
@@ -899,53 +899,53 @@ w: curfew
 hyper: deadline
 g: the time that the curfew signal is sounded
 
-w: cycle drf adj.all:cyclic1 drf verb.change:cycle drf verb.motion:cycle2 drf verb.motion:cycle3
+w: cycle drf adj.all:cyclic2 drf verb.change:cycle drf verb.motion:cycle1 drf verb.motion:cycle
 w: rhythm drf adj.all:rhythmic
-w: round1
+w: round
 hyper: time_interval
 g: an interval during which a recurring sequence of events occurs; "the never-ending cycle of the seasons"
 
 w: D-day
 w: 6_June_1944
-ihyper: date
+ihyper: date3
 g: date of the Allied landing in France, World War II
 
 w: data_rate
 hyper: rate
 g: the rate at which circuits or other devices operate when handling digital information
 
-w: date3 drf verb.cognition:date
+w: date1 drf verb.cognition:date2
 hyper: calendar_day
 hyper: calendar_month
 hyper: calendar_year
 g: the particular day, month, or year (usually according to the Gregorian calendar) that an event occurred; "he tried to memorizes all the dates for his history class"
 
-w: date5 drf verb.cognition:date1 drf verb.cognition:date drf verb.cognition:date2
-hyper: day
+w: date2 drf verb.cognition:date1 drf verb.cognition:date2 drf verb.cognition:date
+hyper: day5
 g: a particular day specified as the time something happens; "the date of the election is set by law"
 
-w: date2
+w: date4
 hyper: present
 g: the present; "they are up to date"; "we haven't heard from them to date"
 
-w: date drf verb.cognition:date1 drf verb.cognition:date drf verb.cognition:date2
+w: date3 drf verb.cognition:date1 drf verb.cognition:date2 drf verb.cognition:date
 w: day_of_the_month
-hyper: day
+hyper: day5
 g: the specified day of the month; "what is the date today?"
 
-w: date4 drf verb.cognition:date1 drf verb.cognition:date
+w: date drf verb.cognition:date1 drf verb.cognition:date2
 w: particular_date
 hyper: point
 g: a particular but unspecified point in time; "they hoped to get together at an early date"
 
-w: dawn1 drf verb.stative:dawn1
+w: dawn drf verb.stative:dawn
 hyper: time_period
 du: noun.communication:trope
 g: an opening time period; "it was the dawn of the Roman Empire"
 
-w: dawn drf verb.change:dawn
+w: dawn1 drf verb.change:dawn
 w: dawning drf verb.change:dawn
-w: morning1
+w: morning
 w: aurora drf adj.pert:auroral1 drf adj.pert:aurorean
 w: first_light
 w: daybreak
@@ -958,24 +958,24 @@ w: cockcrow
 hyper: hour1
 g: the first light of day; "we got up before dawn"; "they talked until morning"
 
-w: day5
+w: day
 hyper: era
 g: an era of existence or influence; "in the day of the dinosaurs"; "in the days of the Roman Empire"; "in the days of sailing ships"; "he was a successful pianist in his day"
 
-w: day7
+w: day1
 hyper: time_period
 g: the period of time taken by a particular planet (e.g. Mars) to make a complete rotation on its axis; "how long is a day on Jupiter?"
 
-w: day1
+w: day4
 hyper: calendar_day
 g: a day assigned to a particular purpose or observance; "Mother's Day"
 
-w: day4
+w: day6
 hyper: work_time
 g: the recurring hours when you are not sleeping (especially those when you are working); "my day began early this morning"; "it was a busy day on the stock exchange"; "she called it a day and went to bed"
 
-w: day3
-hyper: time
+w: day7
+hyper: time5
 g: some point or period in time; "it should arrive any day now"; "after that day she never trusted him again"; "those were the days"; "these days it is not unusual"
 
 w: day_of_the_week
@@ -991,11 +991,11 @@ w: day_shift
 hyper: shift
 g: the work shift during the day (as 8 a.m. to 4 p.m.)
 
-w: day2 ant night
+w: day3 ant night4
 w: daytime
 w: daylight
 hyper: time_period
-hp: day
+hp: day5
 g: the time after sunrise and before sunset while it is light outside; "the dawn turned night into day"; "it is easier to make the repairs in the daytime"
 
 w: daylight-saving_time
@@ -1007,10 +1007,10 @@ g: time during which clocks are set one hour ahead of local standard time; widel
 
 w: days
 w: years2
-hyper: life2
+hyper: life1
 g: the time during which someone's life continues; "the monarch's last days"; "in his final years"
 
-w: day drf adjs.all:daily
+w: day5 drf adjs.all:daily
 w: twenty-four_hours
 w: twenty-four_hour_period
 w: 24-hour_interval
@@ -1020,7 +1020,7 @@ hyper: time_unit
 g: time for Earth to make a complete rotation on its axis; "two days later they left"; "they put on two performances every day"; "there are 30,000 passengers per day"
 
 w: dead
-hyper: time
+hyper: time5
 g: a time when coldness (or some other quality associated with death) is intense; "the dead of winter"
 
 w: dead_air
@@ -1035,14 +1035,14 @@ w: deathbed
 hyper: time_of_life
 g: the last few hours before death
 
-w: death ant birth drf verb.change:die1
-w: dying drf verb.change:die1
+w: death ant birth drf verb.change:die3
+w: dying drf verb.change:die3
 w: demise
 hyper: end
-hp: life
+hp: life3
 g: the time when something ends; "it was the death of all his plans"; "a dying of old hopes"
 
-w: death1 drf verb.change:die drf verb.perception:die
+w: death1 drf verb.change:die2 drf verb.perception:die
 w: last1
 hyper: end
 g: the time at which life ends; continuing until dead; "she stayed until his death"; "a struggle to the last"
@@ -1064,7 +1064,7 @@ g: a period of 10 years
 
 w: deceleration ant acceleration
 hyper: rate
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a rate of decrease in velocity
 
 w: December
@@ -1073,15 +1073,15 @@ hyper: Gregorian_calendar_month
 hp: Gregorian_calendar
 g: the last (12th) month of the year
 
-w: deep drf adjs.all:deep1
+w: deep drf adjs.all:deep3
 hyper: middle
 g: the central and most intense or profound part; "in the deep of night"; "in the deep of winter"
 
-w: delay drf verb.change:delay5 drf verb.stative:delay
-w: hold drf verb.stative:hold12 drf verb.motion:hold5
+w: delay drf verb.change:delay2 drf verb.stative:delay
+w: hold drf verb.stative:hold9 drf verb.motion:hold
 w: time_lag
 w: postponement
-w: wait drf verb.stative:wait1
+w: wait drf verb.stative:wait
 hyper: pause
 g: time during which some action is awaited; "instant replay caused too long a delay"; "he ordered a hold in the action"
 
@@ -1098,7 +1098,7 @@ g: a period during the 1930s when there was a worldwide economic depression and 
 w: Devonian
 w: Devonian_period
 w: Age_of_Fishes
-ihyper: period3
+ihyper: period2
 hp: Paleozoic
 g: from 405 million to 345 million years ago; preponderance of fishes and appearance of amphibians and ammonites
 
@@ -1130,24 +1130,24 @@ w: suppertime
 hyper: mealtime
 g: the customary or habitual hour for the evening meal
 
-w: distance1 drf adj.all:distant1 drf adjs.all:distant2
+w: distance drf adj.all:distant1 drf adjs.all:distant1
 hyper: point
 g: a remote point in time; "if that happens it will be at some distance in the future"; "at a distance of ten years he had forgotten many of the details"
 
-w: distance drf adjs.all:distant2
+w: distance1 drf adjs.all:distant1
 w: space drf verb.motion:space
 hyper: time_interval
 g: the interval between two times; "the distance from birth to death"; "it all happened in the space of 10 minutes"
 
 w: dog_days
-w: canicule drf adj.pert:canicular2 drf adj.pert:canicular
+w: canicule drf adj.pert:canicular drf adj.pert:canicular1
 w: canicular_days
 hyper: time_period
 hp: summer
 g: the hot period between early July and early September; a period of inactivity
 
 w: dogwatch
-hyper: watch
+hyper: watch1
 g: either of two short watches: from 4-6 pm or 6-8 pm
 
 w: Dominion_Day
@@ -1174,7 +1174,7 @@ hyper: old_age
 g: mental infirmity as a consequence of old age; sometimes shown by foolish infatuations
 
 w: double_time
-hyper: pace
+hyper: pace1
 g: a fast marching pace (180 steps/min) or slow jog
 
 w: downtime ant uptime
@@ -1182,7 +1182,7 @@ hyper: time_period
 g: a period of time when something (as a machine or factory) is not operating (especially as a result of malfunctions)
 
 w: drinking_age
-hyper: age
+hyper: age3
 hp: adulthood
 g: the age at which is legal for a person to buy alcoholic beverages
 
@@ -1192,26 +1192,26 @@ hyper: time_period
 g: a prolonged shortage; "when England defeated Pakistan it ended a ten-year drought"
 
 w: dry_season ant rainy_season
-hyper: season
+hyper: season2
 g: one of the two seasons in tropical climates
 
 w: duple_time
 hyper: musical_time
 g: musical time with two beats in each bar
 
-w: duration2
-w: continuance2 drf verb.change:continue10
+w: duration
+w: continuance drf verb.change:continue
 hyper: time_period
 g: the period of time during which something continues
 
-w: duration
-w: continuance drf adjs.all:continuant
+w: duration1
+w: continuance1 drf adjs.all:continuant
 hyper: noun.Tops:time
 g: the property of enduring or continuing in time
 
 w: early-morning_hour
 hyper: hour1
-hp: morning
+hp: morning1
 g: an hour early in the morning
 
 w: Earth-received_time
@@ -1238,7 +1238,7 @@ w: Eastertide
 hyper: season1
 g: the Easter season
 
-w: eighties2
+w: eighties
 w: 1880s
 hyper: decade
 g: the decade from 1880 to 1889
@@ -1248,7 +1248,7 @@ w: 1980s
 hyper: decade
 g: the decade from 1980 to 1989
 
-w: eighties
+w: eighties2
 w: mid-eighties
 hyper: time_of_life
 hp: old_age
@@ -1260,7 +1260,7 @@ g: the time that elapses while some event is occurring
 
 w: eleventh_hour
 w: last_minute
-hyper: moment
+hyper: moment1
 g: the latest possible moment; "money became available at the eleventh hour"; "at the last minute the government changed the rules"
 
 w: Elizabethan_age
@@ -1283,17 +1283,17 @@ hyper: time_interval
 hp: calendar
 g: an insertion into a calendar
 
-w: end drf verb.creation:end13 drf verb.stative:end1 drf verb.change:end1 drf verb.stative:end ant beginning ant middle
-w: ending drf verb.stative:end1
+w: end drf verb.creation:end drf verb.stative:end drf verb.change:end drf verb.stative:end1 ant beginning ant middle
+w: ending drf verb.stative:end
 hyper: point
 g: the point in time at which something ends; "the end of the year"; "the ending of warranty period"
 
-w: enlistment drf verb.competition:enlist1 drf verb.competition:enlist
+w: enlistment drf verb.competition:enlist drf verb.competition:enlist1
 w: hitch
 w: term_of_enlistment
 w: tour_of_duty
 w: duty_tour
-w: tour1
+w: tour
 hyper: time_period
 g: a period of time spent in military service
 
@@ -1303,7 +1303,7 @@ g: the interlude between two acts of a play
 
 w: Eocene
 w: Eocene_epoch
-ihyper: epoch1
+ihyper: epoch2
 hp: Tertiary
 g: from 58 million to 40 million years ago; presence of modern mammals
 
@@ -1313,18 +1313,18 @@ ihyper: time_period
 hp: Stone_Age
 g: the earliest part of the Stone Age marked by the earliest signs of human culture
 
-w: eon1 drf adj.pert:eonian
-w: aeon1 drf adj.pert:aeonian
+w: eon drf adj.pert:eonian
+w: aeon drf adj.pert:aeonian
 hyper: geological_time
 g: the longest division of geological time
 
-w: eon drf adjs.all:eonian
-w: aeon
+w: eon1 drf adjs.all:eonian
+w: aeon1
 hyper: long_time
 g: an immeasurably long period of time; "oh, that happened eons ago"
 
 w: ephemera drf adjs.all:ephemeral
-hyper: time
+hyper: time5
 g: something transitory; lasting a day
 
 w: Epiphany
@@ -1340,30 +1340,30 @@ w: episcopate
 hyper: tenure
 g: the term of office of a bishop
 
-w: epoch1
+w: epoch2
 hyper: geological_time
-hp: period3
+hp: period2
 g: a unit of geological time that is a subdivision of a period and is itself divided into ages
 
-w: epoch2
+w: epoch
 w: date_of_reference
-hyper: date3
+hyper: date1
 dt: noun.cognition:astronomy
 g: (astronomy) an arbitrarily fixed date that is the point in time relative to which information (as coordinates of a celestial body) is recorded
 
-w: equinox drf adj.pert:equinoctial
+w: equinox drf adj.pert:equinoctial1
 hyper: cosmic_time
 g: either of two times of the year when the sun crosses the plane of the earth's equator and day and night are of equal length
 
 w: era
-w: epoch drf adjs.all:epochal
+w: epoch1 drf adjs.all:epochal
 hyper: time_period
 g: a period marked by distinctive character or reckoned from a fixed point or event
 
 w: era1
 w: geological_era
 hyper: geological_time
-hp: eon1
+hp: eon
 g: a major division of geological time; an era is usually divided into two or more periods
 
 w: erythrocyte_sedimentation_rate
@@ -1377,31 +1377,31 @@ w: escape_velocity
 hyper: speed
 g: the minimum velocity needed to escape a gravitational field
 
-w: eternity1 drf adjs.all:eternal
+w: eternity drf adjs.all:eternal1
 hyper: time_interval
 g: a seemingly endless time interval (waiting)
 
-w: eternity
-w: infinity drf adj.all:infinite
+w: eternity1
+w: infinity drf adj.all:infinite1
 hyper: noun.Tops:time
 g: time without end
 
-w: eve2
+w: eve
 hyper: time_period
 g: the period immediately before something; "on the eve of the French Revolution"
 
-w: eve1
-hyper: day
+w: eve2
+hyper: day5
 g: the day before; "he always arrives on the eve of her departure"
 
-w: evening1
+w: evening
 hyper: time_period
 du: noun.communication:trope
 g: a later concluding time period; "it was the evening of the Roman Empire"
 
-w: evening2
+w: evening1
 hyper: time_period
-hp: night
+hp: night4
 g: the early part of night (from dinner until bedtime) spent in a special way; "an evening at the opera"
 
 w: evening_shift
@@ -1409,15 +1409,15 @@ w: swing_shift
 hyper: shift
 g: the work shift during the evening (as 4 p.m. to midnight)
 
-w: evening
-w: eve
+w: evening2
+w: eve1
 w: even
 w: eventide
-hyper: day2
+hyper: day3
 g: the latter part of the day (the period of decreasing daylight from late afternoon until nightfall); "he enjoyed the evening light across the lake"
 
 w: exhibition_season
-hyper: season2
+hyper: season
 g: the time before the regular games begin when football or baseball teams play practice games
 
 w: extended_time_scale
@@ -1446,7 +1446,7 @@ g: the time of the last part of something; "the fag end of this crisis-ridden ce
 
 w: fall
 w: autumn drf adj.all:autumnal
-hyper: season
+hyper: season2
 g: the season when the leaves fall from the trees; "in the fall of 1973"
 
 w: fast_day
@@ -1484,13 +1484,13 @@ dt: noun.cognition:simulation
 g: (simulation) the time scale used in data processing when the time-scale factor is less than one
 
 w: Father's_Day
-hyper: day1
+hyper: day4
 hp: June
 g: US: third Sunday in June
 
 w: feast_day
 w: fete_day
-hyper: holiday1
+hyper: holiday
 hp: religious_festival
 g: a day designated for feasting
 
@@ -1523,38 +1523,38 @@ w: festival
 hyper: time_period
 g: a day or period of time set aside for feasting and celebration
 
-w: field_day2
-hyper: day1
+w: field_day
+hyper: day4
 dt: noun.group:military
 g: (military) a day for military exercises and display
 
-w: field_day
-hyper: day1
+w: field_day1
+hyper: day4
 g: a day for outdoor athletic competition
 
-w: field_day3
+w: field_day2
 hyper: time_period
 g: a time of unusual pleasure and success
 
-w: field_day1
+w: field_day3
 w: outing
 w: picnic
 hyper: vacation
 g: a day devoted to an outdoor social gathering
 
-w: fifties1
+w: fifties
 w: 1950s
 hyper: decade
 g: the decade from 1950 to 1959
 
-w: fifties
+w: fifties1
 w: mid-fifties
 hyper: time_of_life
 hp: adulthood
 g: the time of life between 50 and 60
 
 w: final_period
-hyper: noun.cognition:part
+hyper: noun.cognition:part1
 hp: playing_period
 g: the final division into which the play of a game is divided
 
@@ -1563,7 +1563,7 @@ hyper: half
 g: the first of two halves of play
 
 w: first_period
-hyper: noun.cognition:part
+hyper: noun.cognition:part1
 hp: playing_period
 g: the first division into which the play of a game is divided
 
@@ -1581,12 +1581,12 @@ hyper: year1
 g: any accounting period of 12 months
 
 w: fishing_season
-hyper: season2
+hyper: season
 g: the season during which it is legal to catch fish
 
 w: Flag_Day
 w: June_14
-hyper: day1
+hyper: day4
 hp: June
 g: commemorating the adoption of the United States flag in 1777
 
@@ -1600,17 +1600,17 @@ hp: Revolutionary_calendar
 g: eighth month of the Revolutionary calendar (April and May); the month of flowers
 
 w: flower
-w: prime2
+w: prime
 w: peak
 w: heyday
-w: bloom1
-w: blossom drf verb.change:blossom
+w: bloom
+w: blossom drf verb.change:blossom1
 w: efflorescence
 w: flush drf adjs.all:flush
 hyper: time_period
 g: the period of greatest prosperity or productivity
 
-w: flow drf verb.stative:flow drf verb.motion:flow2 drf verb.motion:flow
+w: flow drf verb.stative:flow drf verb.motion:flow drf verb.motion:flow1
 w: flow_rate
 w: rate_of_flow
 hyper: rate
@@ -1621,15 +1621,15 @@ hyper: rate
 g: the rate of flow of energy or particles across a given surface
 
 w: football_season
-hyper: season2
+hyper: season
 g: the season when football is played
 
-w: forties1
+w: forties
 w: 1940s
 hyper: decade
 g: the decade from 1940 to 1949
 
-w: forties
+w: forties1
 w: mid-forties
 hyper: time_of_life
 hp: adulthood
@@ -1641,7 +1641,7 @@ hyper: time_period
 g: a period of fourteen consecutive days; "most major tennis tournaments last a fortnight"
 
 w: fourth_dimension
-w: time4
+w: time3
 hyper: noun.attribute:dimension
 g: the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event
 
@@ -1671,7 +1671,7 @@ w: full-of-the-moon
 w: full_phase_of_the_moon
 w: full
 hyper: phase_of_the_moon
-hp: month
+hp: month1
 g: the time when the Moon is fully illuminated; "the moon is at the full"
 
 w: furlough drf verb.communication:furlough
@@ -1679,27 +1679,27 @@ hyper: leave
 g: a temporary leave of absence from military duty
 
 w: future_date
-hyper: date5
+hyper: date2
 g: a particular day in the future that is specified as the time something will happen
 
-w: future ant past
-w: hereafter
+w: future ant past1
+w: hereafter1
 w: futurity drf adjs.all:future drf adj.all:future
 w: time_to_come
 hyper: noun.Tops:time
 g: the time yet to come
 
 w: game
-hyper: noun.cognition:part
+hyper: noun.cognition:part1
 hp: set
 dt: noun.act:tennis
 g: (tennis) a division of play during which one player serves
 
-w: generation1 drf adj.pert:generational drf verb.creation:generate
+w: generation drf adj.pert:generational drf verb.creation:generate2
 hyper: phase
 g: a stage of technological development or innovation; "the third generation of computers"
 
-w: generation
+w: generation1
 hyper: time_period
 g: the normal time between successive generations; "they had to wait a generation for that prejudice to fade"
 
@@ -1733,13 +1733,13 @@ w: Gc
 hyper: rate
 g: 1,000,000,000 periods per second
 
-w: girlhood drf noun.person:girl2 drf noun.person:girl
+w: girlhood drf noun.person:girl3 drf noun.person:girl2
 w: maidenhood drf noun.person:maiden
-w: maidhood drf noun.person:maid
+w: maidhood drf noun.person:maid1
 hyper: childhood
 g: the childhood of a girl
 
-w: golden_age2
+w: golden_age
 hyper: flower
 g: a time period when some activity or skill was at its peak; "it was the golden age of cinema"
 
@@ -1767,8 +1767,8 @@ g: Friday before Easter
 
 w: go drf verb.competition:go
 w: spell
-w: tour
-w: turn1
+w: tour1
+w: turn
 hyper: shift
 g: a time for working (after which you will be relieved by someone else); "it's my go"; "a spell of work"
 
@@ -1780,7 +1780,7 @@ w: graveyard_watch
 w: middle_watch
 w: midwatch
 w: night_watch
-hyper: watch
+hyper: watch1
 g: a watch during the night (as from midnight to 8 a.m.)
 
 w: Great_Schism
@@ -1815,7 +1815,7 @@ g: the solar calendar now in general use, introduced by Gregory XIII in 1582 to 
 
 w: Groundhog_Day
 w: February_2
-hyper: day1
+hyper: day4
 hp: February
 dr: noun.location:United_States
 g: if the ground hog emerges and sees his shadow on this day, there will be 6 more weeks of winter
@@ -1825,7 +1825,7 @@ hyper: speed
 g: the speed of an aircraft relative to the ground
 
 w: growing_season
-hyper: season2
+hyper: season
 g: the season during which a crop grows best
 
 w: growth_rate
@@ -1834,7 +1834,7 @@ hyper: rate
 g: the rate of increase in size per unit time
 
 w: guest_night
-hyper: evening
+hyper: evening2
 dr: noun.location:United_Kingdom
 g: an evening when members of a club or college can bring their friends as guests
 
@@ -1850,11 +1850,11 @@ w: Hadean_aeon
 w: Priscoan
 w: Priscoan_eon
 w: Priscoan_aeon
-ihyper: eon1
+ihyper: eon
 g: the earliest eon in the history of the Earth from the first accretion of planetary material (around 4,600 million years ago) until the date of the oldest known rocks (about 3,800 million years ago); no evidence of life
 
 w: half
-hyper: noun.cognition:part
+hyper: noun.cognition:part1
 hp: playing_period
 hp: noun.act:football
 hp: noun.act:basketball
@@ -1866,18 +1866,18 @@ hp: century
 g: a period of 50 years
 
 w: half-holiday
-hyper: holiday1
+hyper: holiday
 g: a day on which half is free from work or duty
 
 w: half-hour
 w: 30_minutes
 hyper: time_unit
-hp: hour
+hp: hour2
 g: a half of an hour
 
 w: half-moon
 hyper: phase_of_the_moon
-hp: month
+hp: month1
 g: the time at which the Moon is at first or last quarter when half its face is illuminated
 
 w: half-term
@@ -1897,7 +1897,7 @@ g: an intermission between the first and second half of a game
 w: Halloween
 w: Hallowe'en
 w: Allhallows_Eve
-hyper: day1
+hyper: day4
 g: the evening before All Saints' Day; often devoted to pranks played by young people
 
 w: Hanukkah
@@ -1926,7 +1926,7 @@ hyper: prison_term
 g: a term served in a maximum security prison
 
 w: hard_times
-hyper: time
+hyper: time5
 g: a time of difficulty
 
 w: Harlem_Renaissance
@@ -1953,7 +1953,7 @@ w: Hz
 w: cycle_per_second
 w: cycles/second
 w: cps
-w: cycle2
+w: cycle1
 hyper: rate
 hp: kilohertz
 g: the unit of frequency; one hertz has a periodic interval of one second
@@ -1970,11 +1970,11 @@ g: Jewish holy days observed with particular solemnity
 
 w: high_season ant off-season
 w: peak_season
-hyper: season2
+hyper: season
 g: the season when travel is most active and rates are highest; "they traveled to Europe in high season"
 
 w: high_time
-hyper: time6
+hyper: time1
 g: the latest possible moment; "it is high time you went to work"
 
 w: Hindu_calendar
@@ -1987,40 +1987,40 @@ hp: Hindu_calendar
 g: any lunisolar month in the Hindu calendar
 
 w: historic_period
-w: age2
+w: age
 hyper: era
-hp: history
+hp: history1
 g: an era of history having some distinctive feature; "we live in a litigious age"
 
-w: history2
+w: history
 hyper: continuum
 g: the continuum of events occurring in succession leading from the past to the present and even into the future; "all of human history"
 
-w: history drf adjs.all:historic
-hyper: past
+w: history1 drf adjs.all:historic
+hyper: past1
 g: the aggregate of past events; "a critical time in the school's history"
 
 w: hockey_season
-hyper: season2
+hyper: season
 g: the season when hockey is played
 
 w: Hogmanay
 hyper: New_Year's_Eve
 g: New Year's Eve in Scotland
 
-w: holiday1
-hyper: day1
+w: holiday
+hyper: day4
 g: a day on which work is suspended by law or custom; "no mail is delivered on federal holidays"; "it's a good thing that New Year's was a holiday because everyone had a hangover"
 
 w: holiday_season
-hyper: season2
+hyper: season
 g: a time when many people take holidays
 
 w: Holocene
 w: Holocene_epoch
 w: Recent
 w: Recent_epoch
-ihyper: epoch1
+ihyper: epoch2
 hp: Quaternary
 g: approximately the last 10,000 years
 
@@ -2048,11 +2048,11 @@ hyper: year1
 dt: noun.group:Roman_Catholic
 g: (Roman Catholic Church) a period of remission from sin (usually granted every 25 years)
 
-w: honeymoon1
+w: honeymoon
 hyper: time_period
 g: the early (usually calm and harmonious) period of a relationship; business or political
 
-w: honeymoon drf verb.stative:honeymoon
+w: honeymoon1 drf verb.stative:honeymoon
 hyper: vacation
 g: a holiday taken by a newly married couple
 
@@ -2064,15 +2064,15 @@ w: hot_spell
 hyper: while
 g: a spell of hot weather
 
-w: hour2
+w: hour
 hyper: time_period
 g: a special and memorable period; "it was their finest hour"
 
-w: hour drf adjs.all:hourly drf adj.pert:horary
+w: hour2 drf adjs.all:hourly drf adj.pert:horary
 w: hr
 w: 60_minutes
 hyper: time_unit
-hp: day
+hp: day5
 g: a period of time equal to 1/24th of a day; "the job will take more than an hour"
 
 w: hours
@@ -2089,7 +2089,7 @@ hyper: clock_time
 g: clock time; "the hour is getting late"
 
 w: hunting_season
-hyper: season2
+hyper: season
 g: the season during which it is legal to kill a particular species
 
 w: hypervelocity
@@ -2098,8 +2098,8 @@ g: excessive velocity; "the meteorites struck the earth with hypervelocity impac
 
 w: ice_age
 w: glacial_period
-w: glacial_epoch1
-hyper: period3
+w: glacial_epoch
+hyper: period2
 hp: prehistory
 g: any period of time during which glaciers covered a large part of the earth's surface; "the most recent ice age was during the Pleistocene"
 
@@ -2113,7 +2113,7 @@ hyper: feast_day
 g: a Muslim day of feasting at the end of Ramadan
 
 w: ides
-hyper: day1
+hyper: day4
 g: in the Roman calendar: the 15th of March or May or July or October or the 13th of any other month
 
 w: Immaculate_Conception
@@ -2121,7 +2121,7 @@ w: December_8
 hyper: holy_day_of_obligation
 g: Roman Catholic holy day first celebrated in 1854
 
-w: immortality1
+w: immortality
 hyper: afterlife
 g: perpetual life after death
 
@@ -2130,13 +2130,13 @@ hyper: musical_time
 g: in the correct rhythm; "the dancers moved in time with the music"
 
 w: Inauguration_Day
-w: January_20
-hyper: day1
+w: January_201
+hyper: day4
 hp: January
 g: the day designated for inauguration of the United States President
 
 w: incarnation
-hyper: time
+hyper: time5
 g: time passed in a particular bodily form; "he believes that his life will be better in his next incarnation"
 
 w: incipiency drf adjs.all:incipient
@@ -2144,7 +2144,7 @@ w: incipience drf adjs.all:incipient
 hyper: beginning
 g: beginning to exist or to be apparent; "he placed the incipience of democratic faith at around 1850"; "it is designed to arrest monopolies in their incipiency"
 
-w: incubation drf verb.change:incubate2
+w: incubation drf verb.change:incubate
 hyper: phase
 hp: noun.state:infection
 dt: noun.cognition:pathology
@@ -2177,7 +2177,7 @@ ihyper: historic_period
 g: the transformation from an agricultural to an industrial nation
 
 w: infancy drf noun.person:infant
-w: babyhood drf noun.person:baby drf noun.animal:baby
+w: babyhood drf noun.person:baby2 drf noun.animal:baby
 w: early_childhood
 hyper: time_of_life
 g: the early stage of growth or development
@@ -2199,7 +2199,7 @@ g: a period beginning in the last quarter of the 20th century when information b
 
 w: inning
 w: frame
-hyper: noun.cognition:part
+hyper: noun.cognition:part1
 hp: playing_period
 dt: noun.act:baseball
 g: (baseball) one of nine divisions of play during which each team has a turn at bat
@@ -2219,7 +2219,7 @@ w: interregnum
 hyper: interim
 g: the time between two reigns, governments, etc.
 
-w: Iron_Age1
+w: Iron_Age
 ihyper: time_period
 hp: prehistory
 dt: noun.cognition:archeology
@@ -2245,7 +2245,7 @@ g: the lunar calendar used by Muslims; dates from 622 AD (the year of the Hegira
 
 w: isometry
 hyper: growth_rate
-dt: noun.process:growth
+dt: noun.process:growth2
 g: the growth rates in different parts of a growing organism are the same
 
 w: Italian_Renaissance
@@ -2272,7 +2272,7 @@ g: the 1920s in the United States characterized in the novels of F. Scott Fitzge
 w: Jefferson_Davis'_Birthday
 w: Davis'_Birthday
 w: June_3
-hyper: day1
+hyper: day4
 hp: June
 g: celebrated in southern United States
 
@@ -2319,7 +2319,7 @@ w: day_of_reckoning
 w: doomsday
 w: crack_of_doom
 w: end_of_the_world
-hyper: day3
+hyper: day7
 dt: noun.communication:New_Testament
 g: (New Testament) day at the end of time following Armageddon when God will decree the fates of all individual humans according to the good and evil of their earthly lives
 
@@ -2352,7 +2352,7 @@ g: the month following May and preceding July
 
 w: Jurassic
 w: Jurassic_period
-ihyper: period3
+ihyper: period2
 hp: Mesozoic
 g: from 190 million to 135 million years ago; dinosaurs; conifers
 
@@ -2378,11 +2378,11 @@ w: km/h
 hyper: rate
 g: the ratio of the distance traveled (in kilometers) to the time spent traveling (in hours)
 
-w: kingdom_come1
+w: kingdom_come
 hyper: afterlife
 g: the next world; "he nearly blew us to kingdom come"
 
-w: kingdom_come
+w: kingdom_come1
 hyper: future
 g: the end of time; "you can wet the bed till kingdom come, for all I care"
 
@@ -2423,7 +2423,7 @@ hyper: season1
 dr: noun.location:Scotland
 g: the season of Lammas
 
-w: lapse drf verb.motion:lapse drf verb.possession:lapse drf verb.change:lapse1
+w: lapse drf verb.motion:lapse drf verb.possession:lapse drf verb.change:lapse
 hyper: pause
 g: a break or intermission in the occurrence of something; "a lapse of three weeks between letters"
 
@@ -2437,7 +2437,7 @@ g: the last fourth of the Moon's period of revolution around the Earth
 
 w: late-night_hour
 hyper: hour1
-hp: night
+hp: night4
 g: the latter part of night
 
 w: latency_stage
@@ -2448,7 +2448,7 @@ hp: childhood
 dt: noun.act:psychoanalysis
 g: (psychoanalysis) the fourth period (from about age 5 or 6 until puberty) during which sexual interests are supposed to be sublimated into other activities
 
-w: latent_period
+w: latent_period1
 hyper: time_interval
 g: the time that elapses before the presence of a disease is manifested by symptoms
 
@@ -2459,12 +2459,12 @@ g: the time interval between the initiation and the completion of a production p
 w: leap_day
 w: bissextile_day
 w: February_29
-hyper: day1
+hyper: day4
 hp: February
 g: the name of the day that is added during a leap year
 
 w: leap_second
-hyper: second
+hyper: second2
 g: a second (as measured by an atomic clock) added to or subtracted from Greenwich Mean Time in order to compensate for slowing in the Earth's rotation
 
 w: leap_year
@@ -2474,7 +2474,7 @@ w: bissextile_year
 hyper: year1
 g: in the Gregorian calendar: any year divisible by 4 except centenary years divisible by 400
 
-w: lease drf verb.possession:lease drf verb.possession:lease1 drf verb.social:lease1 drf verb.social:lease
+w: lease drf verb.possession:lease1 drf verb.possession:lease drf verb.social:lease drf verb.social:lease1
 w: term_of_a_contract
 hyper: time_period
 g: the period of time during which a contract conveying property to a person is in effect
@@ -2487,7 +2487,7 @@ g: the period of time during which you are absent from work or duty; "a ten day'
 w: legal_holiday
 w: national_holiday
 w: public_holiday
-hyper: holiday1
+hyper: holiday
 g: authorized by law and limiting work or official business
 
 w: leisure drf adjs.all:leisurely
@@ -2506,24 +2506,24 @@ w: lull drf verb.emotion:lull drf verb.change:lull drf verb.emotion:lull1
 hyper: pause
 g: a pause during which things are calm or activities are diminished; "there was never a letup in the noise"
 
-w: life2 drf noun.person:lifer
+w: life1 drf noun.person:lifer
 hyper: time_period
 g: the period from the present until death; "he appointed himself emperor for life"
 
-w: life1
+w: life2
 hyper: time_period
 g: the period between birth and the present time; "I have known him all his life"
 
 w: life_expectancy
-hyper: noun.cognition:anticipation1
+hyper: noun.cognition:anticipation
 g: an expected time to live as calculated on the basis of statistical probabilities
 
 w: life_sentence
-w: life3 drf noun.person:lifer
+w: life drf noun.person:lifer
 hyper: prison_term
 g: a prison term lasting as long as the prisoner lives; "he got life for killing the guard"
 
-w: life drf noun.person:lifer
+w: life3 drf noun.person:lifer
 w: lifetime
 w: life-time
 w: lifespan
@@ -2532,7 +2532,7 @@ g: the period during which something is functional (as between birth and death);
 
 w: lights-out
 hyper: bedtime
-hp: night
+hp: night4
 g: a prescribed bedtime
 
 w: limitation drf verb.change:limit1 drf verb.change:limit
@@ -2542,7 +2542,7 @@ g: (law) a time period after which suits cannot be brought; "statute of limitati
 
 w: Lincoln's_Birthday
 w: February_12
-hyper: day1
+hyper: day4
 hp: February
 dr: noun.location:United_States
 g: the day on which President Abraham Lincoln is remembered
@@ -2553,14 +2553,14 @@ hyper: time_period
 g: a period of time sufficient for factors to work themselves out; "in the long run we will win"; "in the long run we will all be dead"; "he performed well over the long haul"
 
 w: long_time
-w: age3
-w: years1
+w: age1
+w: years
 hyper: time_period
 g: a prolonged period of time; "we've known each other for ages"; "I haven't been there for years and years"
 
 w: longueur
-hyper: duration2
-dt: noun.communication:literature
+hyper: duration
+dt: noun.communication:literature1
 dt: noun.act:art
 g: a period of dullness or boredom (especially in a work of literature or performing art)
 
@@ -2582,19 +2582,19 @@ hyper: calendar
 g: a calendar based on lunar cycles
 
 w: lunar_day
-hyper: day7
+hyper: day1
 g: the period of time taken for the moon to make one full rotation on its axis (about 27.3 sidereal days)
 
 w: lunar_month
 w: moon
 w: lunation
 w: synodic_month
-hyper: month
+hyper: month1
 hp: lunar_year
 g: the period between successive new moons (29.531 days)
 
 w: lunar_year
-hyper: year
+hyper: year2
 g: a period of 12 lunar months
 
 w: lunchtime
@@ -2630,16 +2630,16 @@ w: major_fast_day
 hyper: fast_day
 g: one of two major fast days on the Jewish calendar
 
-w: majority drf adj.all:major3 ant minority
+w: majority drf adj.all:major4 ant minority
 w: legal_age
-hyper: age
+hyper: age3
 hp: adulthood
 g: the age at which persons are considered competent to manage their own affairs
 
 w: man_hour
 w: person_hour
-hyper: hour
-hp: workday
+hyper: hour2
+hp: workday1
 g: a time unit used in industry for measuring work
 
 w: manana
@@ -2660,7 +2660,7 @@ hp: Shrovetide
 g: the last day before Lent
 
 w: market_day
-hyper: day1
+hyper: day4
 g: a fixed day for holding a public market
 
 w: Martin_Luther_King_Jr's_Birthday
@@ -2681,10 +2681,10 @@ w: morning_prayer
 hyper: canonical_hour
 g: the first canonical hour; at daybreak
 
-w: maturity1
+w: maturity
 w: maturity_date
 w: due_date
-hyper: date
+hyper: date3
 g: the date on which an obligation must be repaid
 
 w: Maundy_Thursday
@@ -2700,7 +2700,7 @@ g: the month following April and preceding June
 w: May_Day
 w: First_of_May
 w: May_1
-hyper: day1
+hyper: day4
 hp: May
 g: observed in many countries to celebrate the coming of spring; observed in Russia and related countries in honor of labor
 
@@ -2753,7 +2753,7 @@ hp: menstrual_cycle
 g: the phase of the menstrual cycle during which the lining of the uterus is shed (the first day of menstrual flow is considered day 1 of the menstrual cycle)
 
 w: Mesasamkranti
-hyper: holiday1
+hyper: holiday
 hp: Magh
 g: Hindu solar holiday at the beginning of the new astrological year when the sun enters the constellation Aries
 
@@ -2856,7 +2856,7 @@ hp: September
 g: the middle part of September
 
 w: midafternoon
-hyper: day2
+hyper: day3
 hp: afternoon
 g: the middle part of the afternoon
 
@@ -2872,7 +2872,7 @@ g: the time of life between youth and old age (e.g., between 40 and 60 years of 
 w: Middle_Ages
 w: Dark_Ages
 ihyper: historic_period
-hp: history
+hp: history1
 g: the period of history between classical antiquity and the Italian Renaissance
 
 w: Middle_Paleolithic
@@ -2882,7 +2882,7 @@ g: the time period of Neanderthal man; ended about 35,000 years BC
 
 w: midnight
 hyper: hour1
-hp: night
+hp: night4
 g: 12 o'clock at night; the middle of the night; "young children should not be allowed to stay up until midnight"
 
 w: Midsummer_Day
@@ -2898,23 +2898,23 @@ w: Midsummer_Night
 w: St_John's_Eve
 w: St_John's_Night
 w: June_23
-hyper: day1
+hyper: day4
 hp: June
 g: the night before Midsummer Day
 
-w: midterm1
+w: midterm
 hyper: point
 hp: gestation
 g: the middle of the gestation period
 
-w: midterm
+w: midterm1
 hyper: point
-hp: term
+hp: term1
 g: middle of an academic term or a political term in office
 
 w: midweek drf adjs.all:midweekly
 hyper: time_period
-hp: week2
+hp: week1
 g: the middle of a week
 
 w: midwinter
@@ -2924,7 +2924,7 @@ g: the middle of winter
 
 w: miles_per_hour
 w: mph
-hyper: noun.cognition:reading2
+hyper: noun.cognition:reading1
 g: a speedometer reading for the momentary rate of travel
 
 w: miles_per_hour1
@@ -2932,46 +2932,46 @@ w: mph1
 hyper: rate
 g: the ratio of the distance traveled (in miles) to the time spent traveling (in hours)
 
-w: millennium1 drf adj.pert:millenary1
+w: millennium drf adj.pert:millenary
 hyper: noun.cognition:doctrine
 dt: noun.communication:New_Testament
 g: (New Testament) in Revelations it is foretold that those faithful to Jesus will reign with Jesus over the earth for a thousand years; the meaning of these words have been much debated; some denominations (e.g. Jehovah's Witnesses) expect it to be a thousand years of justice and peace and happiness
 
-w: millennium2 drf adj.pert:millennial drf adj.pert:millenary
-w: millenary2
+w: millennium1 drf adj.pert:millennial drf adj.pert:millenary1
+w: millenary
 hyper: anniversary
 g: the 1000th anniversary (or the celebration of it)
 
-w: millennium drf adj.pert:millennial drf adj.pert:millenary drf adj.pert:millennian
-w: millenary
+w: millennium2 drf adj.pert:millennial drf adj.pert:millenary1 drf adj.pert:millennian
+w: millenary1
 hyper: time_period
 g: a span of 1000 years
 
 w: millisecond
 w: msec
 hyper: time_unit
-hp: second
+hp: second2
 g: one thousandth (10^-3) of a second
 
 w: minor_fast_day
 hyper: fast_day
 g: one of five minor fast days on the Jewish calendar
 
-w: minority drf adj.all:minor3 ant majority
+w: minority drf adj.all:minor4 ant majority
 w: nonage
-hyper: age
+hyper: age3
 hyper: noun.state:legal_status
 g: any age prior to the legal age
 
-w: minute
+w: minute2
 w: min
 hyper: time_unit
-hp: hour
+hp: hour2
 g: a unit of time equal to 60 seconds or 1/60th of an hour; "he ran a 4 minute mile"
 
 w: Miocene
 w: Miocene_epoch
-ihyper: epoch1
+ihyper: epoch2
 hp: Tertiary
 g: from 25 million to 13 million years ago; appearance of grazing mammals
 
@@ -2979,7 +2979,7 @@ w: Mississippian
 w: Missippian_period
 w: Lower_Carboniferous
 w: Lower_Carboniferous_period
-ihyper: period3
+ihyper: period2
 hp: Carboniferous
 g: from 345 million to 310 million years ago; increase of land areas; primitive ammonites; winged insects
 
@@ -2991,31 +2991,31 @@ w: modern_times
 w: present_times
 w: modern_world
 w: contemporary_world
-hyper: times1
+hyper: times
 g: the circumstances and ideas of the present age; "in modern times like these"
 
-w: moment_of_truth1
-hyper: moment
+w: moment_of_truth
+hyper: moment1
 hp: noun.act:bullfighting
 g: the moment in a bullfight when the matador kills the bull
 
-w: moment_of_truth
-hyper: moment
+w: moment_of_truth1
+hyper: moment1
 g: a crucial moment on which much depends
 
-w: moment
-w: minute2
-w: second2
-w: instant drf adjs.all:instantaneous
+w: moment1
+w: minute1
+w: second1
+w: instant1 drf adjs.all:instantaneous
 hyper: point
 g: a particular point in time; "the moment he arrived the party began"
 
-w: moment1 drf adjs.all:momentary drf adjs.all:momentaneous
+w: moment drf adjs.all:momentary drf adjs.all:momentaneous
 w: mo du noun.location:Britain
-w: minute1
-w: second1
+w: minute
+w: second
 w: bit
-hyper: time
+hyper: time5
 g: an indefinitely short time; "wait just a moment"; "in a mo"; "it only takes a minute"; "in just a bit"
 
 w: Monday
@@ -3027,9 +3027,9 @@ w: monsoon
 hyper: rainy_season
 g: rainy season in southern Asia when the southwestern monsoon blows, bringing heavy rains
 
-w: month drf adjs.all:monthly
+w: month1 drf adjs.all:monthly
 hyper: time_unit
-hp: year
+hp: year2
 g: a time unit of approximately 30 days; "he was given a month to pay the bill"
 
 w: month_of_Sundays
@@ -3041,20 +3041,20 @@ w: moratorium
 hyper: delay
 g: a legally authorized postponement before some obligation must be discharged
 
-w: morning
+w: morning1
 w: morn
 w: morning_time
 w: forenoon
 hyper: time_period
-hp: day2
+hp: day3
 g: the time period between dawn and noon; "I spent the morning running errands"
 
 w: morrow
-hyper: day
+hyper: day5
 g: the next day; "whenever he arrives she leaves on the morrow"
 
 w: Mother's_Day
-hyper: day1
+hyper: day4
 hp: May
 g: second Sunday in May
 
@@ -3129,7 +3129,7 @@ g: the historic period (1933-1940) in the United States during which President F
 w: new_moon
 w: new_phase_of_the_moon
 hyper: phase_of_the_moon
-hp: month
+hp: month1
 g: the time at which the Moon appears as a narrow waxing crescent
 
 w: New_Year
@@ -3138,18 +3138,18 @@ g: the calendar year just begun
 
 w: New_Year's_Day
 w: New_Year's
-w: January_1
+w: January_12
 hyper: legal_holiday
 hp: January
 g: the first day of the year
 
 w: New_Year's_Eve
 w: December_31
-hyper: day1
+hyper: day4
 hp: December
 g: the last day of the year
 
-w: night5
+w: night
 hyper: twilight
 g: a shortening of nightfall; "they worked from morning to night"
 
@@ -3157,7 +3157,7 @@ w: night1
 hyper: time_period
 g: a period of ignorance or backwardness or gloom
 
-w: night4
+w: night2
 hyper: time_period
 g: the period spent sleeping; "I had a restless night"
 
@@ -3165,7 +3165,7 @@ w: night3
 hyper: time_period
 g: the time between sunset and midnight; "he watched television every night"
 
-w: night2
+w: night5
 hyper: time_unit
 g: the dark part of the diurnal cycle considered a time unit; "three nights later he collapsed"
 
@@ -3174,14 +3174,14 @@ w: graveyard_shift
 hyper: shift
 g: the work shift during the night (as midnight to 8 a.m.)
 
-w: night drf adjs.all:nightly ant day2
+w: night4 drf adjs.all:nightly ant day3
 w: nighttime
 w: dark
 hyper: time_period
-hp: day
+hp: day5
 g: the time after sunset and before sunrise while it is dark outside
 
-w: nineties2
+w: nineties
 w: 1890s
 hyper: decade
 g: the decade from 1890 to 1899
@@ -3191,7 +3191,7 @@ w: 1990s
 hyper: decade
 g: the decade from 1990 to 1999
 
-w: nineties
+w: nineties2
 w: mid-nineties
 hyper: time_of_life
 hp: old_age
@@ -3223,7 +3223,7 @@ w: midday
 w: noonday
 w: noontide
 hyper: hour1
-hp: day
+hp: day5
 g: the middle of the day
 
 w: Noruz
@@ -3234,7 +3234,7 @@ dt: noun.communication:Persian
 g: (Persian) the new year holiday in Iran and Azerbaijan and Afghanistan and Pakistan and parts of India and among the Kurds; comes at the vernal equinox
 
 w: November_5
-hyper: day1
+hyper: day4
 hp: November
 dr: noun.location:United_Kingdom
 g: anniversary of the discovery of the Gunpowder Plot
@@ -3266,10 +3266,10 @@ dt: noun.communication:telecommunication
 g: (telecommunication) the lowest sampling rate that will permit accurate reconstruction of a sampled analog signal
 
 w: occasion drf verb.creation:occasion
-hyper: time6
+hyper: time1
 g: the time of a particular event; "on the occasion of his 60th birthday"
 
-w: occupation drf verb.stative:occupy1 drf verb.possession:occupy8
+w: occupation drf verb.stative:occupy1 drf verb.possession:occupy
 hyper: time_period
 g: the period of time during which a place or position or nation is occupied; "during the German occupation of Paris"
 
@@ -3284,18 +3284,18 @@ hp: Gregorian_calendar
 g: the month following September and preceding November
 
 w: off-day
-hyper: day3
+hyper: day7
 g: a day when things go poorly; "I guess this is one of my off-days"
 
 w: off-season ant high_season
-hyper: season2
+hyper: season
 g: the season when travel is least active and rates are lowest
 
-w: off_year1
+w: off_year
 hyper: year1
 g: a year in which productivity is low or inferior
 
-w: off_year
+w: off_year1
 hyper: year1
 g: a year in which no major political elections are held
 
@@ -3304,12 +3304,12 @@ hyper: future
 g: the near or foreseeable future; "there was a wedding in the offing"
 
 w: old
-hyper: past
+hyper: past1
 g: past times (especially in the phrase `in days of old')
 
 w: old_age
-w: years
-w: age1 drf verb.change:age2 drf verb.change:age
+w: years1
+w: age2 drf verb.change:age drf verb.change:age2
 w: eld
 w: geezerhood drf noun.person:geezer
 hyper: time_of_life
@@ -3317,7 +3317,7 @@ g: a late time of life; "old age is not for sissies"; "he's showing his years"; 
 
 w: Oligocene
 w: Oligocene_epoch
-ihyper: epoch1
+ihyper: epoch2
 hp: Tertiary
 g: from 40 million to 25 million years ago; appearance of sabertoothed cats
 
@@ -3338,17 +3338,17 @@ dt: noun.act:psychoanalysis
 g: (psychoanalysis) the first sexual and social stage of an infant's development; the mouth is the focus of the libido and satisfaction comes from suckling and chewing and biting
 
 w: orbit_period
-hyper: period2
+hyper: period
 g: the time it takes to complete one full orbit around a celestial body; "the orbit period depends on the altitude of the satellite"
 
 w: Ordovician
 w: Ordovician_period
-ihyper: period3
+ihyper: period2
 hp: Paleozoic
 g: from 500 million to 425 million years ago; conodonts and ostracods and algae and seaweeds
 
 w: over
-hyper: noun.cognition:part
+hyper: noun.cognition:part1
 hp: playing_period
 dt: noun.act:cricket
 g: (cricket) the division of play during which six balls are bowled at the batsman by one player from the other team from the same end of the pitch
@@ -3367,7 +3367,7 @@ hyper: time_period
 hp: noun.act:athletic_game
 g: playing time beyond regulation, to break a tie
 
-w: pace drf verb.change:pace drf verb.motion:pace1 drf verb.motion:pace
+w: pace1 drf verb.change:pace drf verb.motion:pace drf verb.motion:pace1
 w: gait
 hyper: rate
 g: the rate of moving (especially walking or running)
@@ -3384,7 +3384,7 @@ g: a vacation from work by an employee with pay granted
 
 w: Paleocene
 w: Paleocene_epoch
-ihyper: epoch1
+ihyper: epoch2
 hp: Tertiary
 g: from 63 million to 58 million years ago; appearance of birds and earliest mammals
 
@@ -3406,17 +3406,17 @@ g: Sunday before Easter
 
 w: Pan_American_Day
 w: April_14
-hyper: day1
+hyper: day4
 hp: April
 g: a day celebrating political and economic unity among American countries
 
-w: Pasch1
-w: Pascha1
+w: Pasch
+w: Pascha
 hyper: Passover
 g: the Jewish feast of the Passover
 
-w: Pasch
-w: Pascha
+w: Pasch1
+w: Pascha1
 hyper: Easter
 g: the Christian festival of Easter
 
@@ -3437,32 +3437,32 @@ hyper: movable_feast
 dt: noun.cognition:Judaism
 g: (Judaism) a Jewish festival (traditionally 8 days from Nissan 15) celebrating the exodus of the Israelites from Egypt
 
-w: past1
+w: past
 hyper: time_period
-hp: life1
+hp: life2
 g: a earlier period in someone's life (especially one that they have reason to keep secret); "reporters dug into the candidate's past"
 
-w: past ant future
+w: past1 ant future
 w: past_times
 w: yesteryear
 hyper: noun.Tops:time
 g: the time that has elapsed; "forget the past"
 
 w: Patriot's_Day
-hyper: day1
+hyper: day4
 hp: April
 g: the 3rd Monday in April; Massachusetts and Maine celebrate the battle of Lexington and Concord in 1775
 
-w: pause drf verb.communication:pause1 drf verb.stative:pause
+w: pause drf verb.communication:pause drf verb.stative:pause
 w: intermission
-w: break drf verb.social:break1
+w: break drf verb.social:break4
 w: interruption
-w: suspension drf verb.change:suspend
+w: suspension drf verb.change:suspend1
 hyper: time_interval
 g: a time interval during which there is a temporary cessation of something
 
 w: payday
-hyper: day1
+hyper: day4
 g: the day on which you receive pay for your work
 
 w: peacetime
@@ -3477,32 +3477,32 @@ w: Pennsylvanian
 w: Pennsylvanian_period
 w: Upper_Carboniferous
 w: Upper_Carboniferous_period
-ihyper: period3
+ihyper: period2
 hp: Carboniferous
 g: from 310 million to 280 million years ago; warm climate; swampy land
 
-w: Pentecost1 drf adj.pert:pentecostal
+w: Pentecost drf adj.pert:pentecostal1
 w: Whitsunday
 hyper: quarter_day
 hp: Whitsun
 g: seventh Sunday after Easter; commemorates the emanation of the Holy Spirit to the Apostles; a quarter day in Scotland
 
-w: period2 drf adj.all:periodical
+w: period drf adj.all:periodical
 hyper: time_interval
 g: the interval taken to complete one cycle of a regularly repeating phenomenon
 
-w: period7
-hyper: noun.cognition:part
+w: period1
+hyper: noun.cognition:part1
 hp: playing_period
 dt: noun.act:ice_hockey
 g: (ice hockey) one of three divisions into which play is divided in hockey games
 
-w: period4
+w: period3
 hyper: end
 du: noun.communication:trope
 g: the end or completion of something; "death put a period to his endeavors"; "a change soon put a period to my tranquility"
 
-w: period3
+w: period2
 w: geological_period
 hyper: geological_time
 hp: era1
@@ -3510,7 +3510,7 @@ g: a unit of geological time during which a system of rocks formed; "ganoid fish
 
 w: Permian
 w: Permian_period
-ihyper: period3
+ihyper: period2
 hp: Paleozoic
 g: from 280 million to 230 million years ago; reptiles
 
@@ -3530,7 +3530,7 @@ g: (psychoanalysis) the third stage in a child's development when awareness of a
 w: Phanerozoic
 w: Phanerozoic_eon
 w: Phanerozoic_aeon
-ihyper: eon1
+ihyper: eon
 g: the period from about 5,400 million years ago until the present
 
 w: phase_of_the_moon
@@ -3555,15 +3555,15 @@ hp: nanosecond
 g: one trillionth (10^-12) of a second; one thousandth of a nanosecond
 
 w: pinpoint
-hyper: moment
+hyper: moment1
 g: a very brief moment; "they were strangers sharing a pinpoint of time together"
 
 w: playing_period
 w: period_of_play
-w: play drf verb.competition:play2 drf verb.competition:play
+w: play drf verb.competition:play7 drf verb.competition:play8
 hyper: noun.Tops:measure
 hp: noun.act:athletic_game
-dt: noun.act:game
+dt: noun.act:game3
 g: (in games or plays or other performances) the time during which play proceeds; "rain stopped play in the 4th inning"
 
 w: playtime
@@ -3574,13 +3574,13 @@ g: time for play or diversion
 w: Pleistocene
 w: Pleistocene_epoch
 w: Glacial_epoch
-ihyper: epoch1
+ihyper: epoch2
 hp: Quaternary
 g: from two million to 11 thousand years ago; extensive glaciation of the northern hemisphere; the time of human evolution
 
 w: Pliocene
 w: Pliocene_epoch
-ihyper: epoch1
+ihyper: epoch2
 hp: Tertiary
 g: from 13 million to 2 million years ago; growth of mountains; cooling of climate; more and larger mammals
 
@@ -3596,7 +3596,7 @@ g: an instant of time; "at that point I had to leave"
 
 w: polling_day
 w: election_day
-hyper: day1
+hyper: day4
 g: the day appointed for an election; in the United States it is the 1st Tuesday after the 1st Monday in November
 
 w: Prairial
@@ -3608,7 +3608,7 @@ w: Precambrian
 w: Precambrian_eon
 w: Precambrian_aeon
 w: Precambrian_period
-ihyper: eon1
+ihyper: eon
 g: the eon following the Hadean time and preceding the Phanerozoic eon; from about 3,800 million years ago until 544 million years ago
 
 w: prehistory drf adjs.all:prehistoric drf adj.pert:prehistoric
@@ -3622,7 +3622,7 @@ hp: childhood
 g: a period of two years immediately prior to the onset of puberty when growth and changes leading to sexual maturity occur
 
 w: preseason
-hyper: season2
+hyper: season
 g: a period prior to the beginning of the regular season which is devoted to training and preparation
 
 w: present drf adj.all:present1
@@ -3630,9 +3630,9 @@ w: nowadays
 hyper: noun.Tops:time
 g: the period of time that is happening now; any continuous stretch of time including the moment of speech; "that is enough for the present"; "he lives in the present with no thought of tomorrow"
 
-w: presidency drf noun.person:President4 drf noun.act:President4 drf noun.person:president3 drf noun.person:president2 drf noun.person:president1 drf noun.person:president
+w: presidency drf noun.person:President drf noun.act:President drf noun.person:president drf noun.person:president1 drf noun.person:president2 drf noun.person:president3
 w: presidential_term
-w: administration drf verb.social:administer
+w: administration drf verb.social:administer1
 hyper: tenure
 g: the tenure of a president; "things were quiet during the Eisenhower administration"
 
@@ -3650,7 +3650,7 @@ w: prime_time
 hyper: clock_time
 g: the hours between 7 and 11 p.m. when the largest tv audience is available
 
-w: prime
+w: prime2
 w: prime_of_life
 hyper: adulthood
 g: the time of maturity when power and vigor are greatest
@@ -3662,15 +3662,15 @@ g: the period that presses run to produce an issue of a newspaper
 
 w: prison_term
 w: sentence drf verb.communication:sentence
-w: time1
-hyper: term
+w: time2
+hyper: term1
 g: the period of time a prisoner is imprisoned; "he served a prison term of 15 months"; "his sentence was 5 to 10 years"; "he is doing time in the county jail"
 
-w: probation1 drf adjs.all:probationary
+w: probation drf adjs.all:probationary
 hyper: trial_period
 g: a trial period during which your character and abilities are tested to see whether you are suitable for work or for membership
 
-w: probation drf adjs.all:probationary drf verb.stative:probate
+w: probation1 drf adjs.all:probationary drf verb.stative:probate
 hyper: trial_period
 g: a trial period during which an offender has time to redeem himself or herself
 
@@ -3686,12 +3686,12 @@ g: the period from 1920 to 1933 when the sale of alcoholic beverages was prohibi
 w: Proterozoic drf adjs.all:proterozoic
 w: Proterozoic_eon
 w: Proterozoic_aeon
-ihyper: eon1
+ihyper: eon
 hp: Precambrian
 g: from 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms
 
 w: psychological_moment
-hyper: moment
+hyper: moment1
 g: the most appropriate time for achieving a desired effect
 
 w: puberty drf adj.pert:pubertal
@@ -3704,7 +3704,7 @@ w: puerperium drf adj.pert:puerperal
 hyper: time_period
 g: time period following childbirth when the mother's uterus shrinks and the other functional and anatomic changes of pregnancy are resolved; "a perinatologist cared for her during the puerperium"
 
-w: pulse drf verb.motion:pulse drf verb.motion:pulsate
+w: pulse drf verb.motion:pulse1 drf verb.motion:pulsate1
 w: pulse_rate
 w: heart_rate
 hyper: noun.state:vital_sign
@@ -3732,24 +3732,24 @@ w: quadrennium
 hyper: time_period
 g: a period of four years
 
-w: quarter1
-hyper: noun.cognition:part
+w: quarter
+hyper: noun.cognition:part1
 hp: playing_period
 dt: noun.act:football
 dt: noun.act:professional_basketball
 g: (football, professional basketball) one of four divisions into which some games are divided; "both teams scored in the first quarter"
 
-w: quarter3
+w: quarter1
 hyper: time_unit
-hp: hour
+hp: hour2
 g: a unit of time equal to 15 minutes or a quarter of an hour; "it's a quarter til 4"; "a quarter after 4 o'clock"
 
-w: quarter
+w: quarter2
 hyper: school_term
 hp: school_year
 g: one of four periods into which the school year is divided; "the fall quarter ends at Christmas"
 
-w: quarter2 drf adj.pert:quarterly
+w: quarter3 drf adj.pert:quarterly
 hyper: time_period
 g: a fourth part of a year; three months; "unemployment fell during the last quarter"
 
@@ -3761,7 +3761,7 @@ g: a period of 25 years
 w: quarter-hour
 w: 15_minutes
 hyper: time_unit
-hp: hour
+hp: hour2
 g: a quarter of an hour
 
 w: quarter_day
@@ -3777,7 +3777,7 @@ g: the 400th anniversary (or the celebration of it)
 w: Quaternary
 w: Quaternary_period
 w: Age_of_Man
-ihyper: period3
+ihyper: period2
 hp: Cenozoic
 g: last 2 million years
 
@@ -3792,7 +3792,7 @@ dr: noun.location:United_Kingdom
 g: a period during a parliamentary session when members of British Parliament may ask questions of the ministers
 
 w: quick_time
-hyper: pace
+hyper: pace1
 g: a normal marching pace of 120 steps per minute
 
 w: quincentennial
@@ -3832,7 +3832,7 @@ hyper: flux
 g: the rate of flow of radiant energy (electromagnetic waves)
 
 w: rag_day
-hyper: day1
+hyper: day4
 hp: rag
 dr: noun.location:United_Kingdom
 g: a day on which university students hold a rag
@@ -3844,7 +3844,7 @@ dr: noun.location:United_Kingdom
 g: a week at British universities during which side-shows and processions of floats are organized to raise money for charities
 
 w: rain_date
-hyper: date5
+hyper: date2
 g: an alternative date set for some outdoor event in case it rains on the appointed date; "the rain date for the picnic will be the following Sunday"
 
 w: rainy_day
@@ -3853,7 +3853,7 @@ du: noun.communication:trope
 g: a (future) time of financial need; "I am saving for a rainy day"
 
 w: rainy_season ant dry_season
-hyper: season
+hyper: season2
 g: one of the two seasons in tropical climates
 
 w: Rajab
@@ -3867,7 +3867,7 @@ hp: Islamic_calendar
 g: the ninth month of the Islamic calendar; the month of fasting; the holiest period for the Islamic faith
 
 w: Ramanavami
-hyper: holiday1
+hyper: holiday
 hp: Chait
 g: Hindu lunar holiday (on the 9th day of Caitra) to celebrate the birth of Rama
 
@@ -3881,16 +3881,16 @@ g: the amount returned per unit of time expressed as a percentage of the cost
 
 w: reaction_time
 w: response_time
-w: latency
-w: latent_period1
+w: latency1
+w: latent_period
 hyper: time_interval
 g: the time that elapses between a stimulus and the response to it
 
-w: real_time1
+w: real_time
 hyper: time_period
 g: the actual time that it takes a process to occur; "information is updated in real time"
 
-w: real_time
+w: real_time1
 hyper: time_period
 dt: noun.cognition:computer_science
 g: (computer science) the time it takes for a process under computer control to occur
@@ -3901,15 +3901,15 @@ ihyper: historic_period
 g: the period after the American Civil War when the southern states were reorganized and reintegrated into the Union; 1865-1877
 
 w: red-letter_day
-hyper: day1
+hyper: day4
 g: a memorably happy or noteworthy day (from the custom of marking holy days in red on church calendars)
 
 w: refractory_period
 hyper: biological_time
-dt: noun.cognition:neurology1
+dt: noun.cognition:neurology
 g: (neurology) the time after a neuron fires or a muscle fiber contracts during which a stimulus will not evoke a response
 
-w: regency1
+w: regency
 hyper: rule
 g: the period of time during which a regent governs
 
@@ -3924,16 +3924,16 @@ hp: noun.act:athletic_game
 dt: noun.act:sport
 g: (sports) the normal prescribed duration of a game; "the game was finished in regulation time"
 
-w: reign1 drf verb.stative:reign
+w: reign drf verb.stative:reign
 hyper: time_period
 g: a period during which something or somebody is dominant or powerful; "he was helpless under the reign of his egotism"
 
-w: reign drf verb.social:reign
+w: reign1 drf verb.social:reign
 hyper: historic_period
 g: the period during which a monarch is sovereign; "during the reign of Henry VIII"
 
-w: reign_of_terror1
-hyper: reign1
+w: reign_of_terror
+hyper: reign
 dt: noun.act:terrorism
 g: any period of brutal suppression thought to resemble the Reign of Terror in France
 
@@ -3951,15 +3951,15 @@ hyper: festival
 g: a festival having religious significance
 
 w: religious_holiday
-w: holy_day1
-hyper: holiday1
+w: holy_day
+hyper: holiday
 hp: church_year
 g: a day specified for religious observance
 
 w: Remembrance_Day
 w: Remembrance_Sunday
 w: Poppy_Day
-hyper: holiday1
+hyper: holiday
 dr: noun.location:United_Kingdom
 dr: noun.location:Canada
 g: the Sunday nearest to November 11 when those who died in World War I and World War II are commemorated
@@ -3967,11 +3967,11 @@ g: the Sunday nearest to November 11 when those who died in World War I and Worl
 w: Renaissance
 w: Renascence
 ihyper: historic_period
-hp: history
+hp: history1
 g: the period of European history at the close of the Middle Ages and the rise of the modern world; a cultural rebirth from the 14th through the middle of the 17th centuries
 
 w: residence_time
-hyper: duration2
+hyper: duration
 g: the period of time spent in a particular place
 
 w: respiratory_rate
@@ -3981,13 +3981,13 @@ hyper: rate
 g: the rate at which a person inhales and exhales; usually measured to obtain a quick evaluation of a person's health
 
 w: respite
-w: rest drf verb.communication:rest1 drf verb.communication:rest
+w: rest drf verb.communication:rest drf verb.communication:rest1
 w: relief
 w: rest_period
 hyper: pause
 g: a pause for relaxation; "people actually accomplish more when they take time for short rests"
 
-w: rest_day ant workday1
+w: rest_day ant workday
 w: day_of_rest
 hyper: day_of_the_week
 g: a day set aside for rest
@@ -4026,7 +4026,7 @@ w: Robert_E_Lee's_Birthday
 w: Robert_E_Lee_Day
 w: Lee's_Birthday
 w: January_19
-hyper: day1
+hyper: day4
 g: celebrated in southern United States
 
 w: Rogation_Day
@@ -4038,7 +4038,7 @@ hyper: lunar_calendar
 g: the lunar calendar in use in ancient Rome; replaced by the Julian calendar in 46 BC
 
 w: Roman_times
-hyper: times1
+hyper: times
 g: the time period during which Rome dominated Europe
 
 w: Rosh_Hashanah
@@ -4058,7 +4058,7 @@ dt: noun.cognition:Judaism
 g: (Judaism) the beginning of each month in the Jewish calendar; marked by a special liturgy
 
 w: rotational_latency
-w: latency1
+w: latency
 hyper: time_interval
 hp: access_time
 dt: noun.cognition:computer_science
@@ -4074,18 +4074,18 @@ hyper: tempo1
 g: a flexible tempo; not strictly on the beat
 
 w: rule drf verb.social:rule
-hyper: duration2
+hyper: duration
 g: the duration of a monarch's or government's power; "during the rule of Elizabeth"
 
 w: run
 hyper: time_period
 g: the continuous period of time during which something (a machine or a factory) operates or continues in operation; "the assembly line was on a 12-hour run"
 
-w: run-time1
+w: run-time
 hyper: point
 g: the time at which a (software or multimedia) program is run
 
-w: run-time
+w: run-time1
 hyper: run
 dt: noun.cognition:computer_science
 g: (computer science) the length of time it takes to execute a software program
@@ -4098,7 +4098,7 @@ w: rush_hour
 hyper: hour1
 g: the times at the beginning and end of the working day when many people are traveling to or from work
 
-w: Sabbath drf adj.pert:sabbatical1 drf adj.pert:Sabbatarian
+w: Sabbath drf adj.pert:sabbatical drf adj.pert:Sabbatarian
 hyper: rest_day
 g: a day of rest and worship: Sunday for most Christians; Saturday for the Jews and a few Christians; Friday for Muslims
 
@@ -4123,12 +4123,12 @@ hp: menstrual_cycle
 g: that time during a woman's menstrual cycle during which conception is least likely to occur (usually immediately before of after menstruation)
 
 w: saint's_day
-hyper: day1
+hyper: day4
 hp: church_year
 g: a day commemorating a saint
 
 w: Saint_Agnes's_Eve
-w: January_201
+w: January_20
 hyper: Christian_holy_day
 hp: January
 g: a Christian holy day
@@ -4170,34 +4170,34 @@ hp: Hindu_calendar
 g: the fifth month of the Hindu calendar
 
 w: school_day
-hyper: day1
+hyper: day4
 g: any day on which school is in session; "go to bed early because tomorrow is a school day"
 
 w: school_term
 w: academic_term
 w: academic_session
 w: session
-hyper: term
+hyper: term1
 hp: school_year
 g: the time during which a school holds classes; "they had to shorten the school term"
 
 w: school_year
 w: academic_year
-hyper: year2
+hyper: year
 g: the period of time each year when the school is open and people are studying
 
 w: schooldays
-w: schooltime2
+w: schooltime1
 hyper: time_of_life
 g: the time of life when you are going to school
 
-w: school drf adj.pert:scholastic drf verb.social:school1
+w: school drf adj.pert:scholastic1 drf verb.social:school1
 w: schooltime
 w: school_day1
 hyper: time_period
 g: the period of instruction in a school; the time period when school is in session; "stay after school"; "he didn't miss a single day of school"; "when the school day was done we would walk home together"
 
-w: season2
+w: season
 hyper: time_period
 g: a period of the year marked by special events or activities in some field; "he celebrated his 10th season with the ballet company"; "she always looked forward to the avocado season"
 
@@ -4205,10 +4205,10 @@ w: season1
 hyper: time_period
 g: a recurrent time marked by major holidays; "it was the Christmas season"
 
-w: season
+w: season2
 w: time_of_year
 hyper: time_period
-hp: year
+hp: year2
 g: one of the natural periods into which the year is divided by the equinoxes and solstices or atmospheric conditions; "the regular sequence of the seasons"
 
 w: second_half
@@ -4217,7 +4217,7 @@ hyper: half
 g: the second of two halves of play
 
 w: second_period
-hyper: noun.cognition:part
+hyper: noun.cognition:part1
 hp: playing_period
 g: the second division into which the play of a game is divided
 
@@ -4225,11 +4225,11 @@ w: second_trimester
 hyper: trimester
 g: time period extending from the 13th to the 27th week of gestation
 
-w: second
+w: second2
 w: sec
 w: s
 hyper: time_unit
-hp: minute
+hp: minute2
 g: 1/60 of a minute; the basic unit of time adopted under the Systeme International d'Unites
 
 w: secretory_phase
@@ -4238,12 +4238,12 @@ hyper: phase
 hp: menstrual_cycle
 g: the second half of the menstrual cycle after ovulation; the corpus luteum secretes progesterone which prepares the endometrium for the implantation of an embryo; if fertilization does not occur then menstrual flow begins
 
-w: seedtime1
+w: seedtime
 hyper: phase
 g: any time of new development
 
-w: seedtime
-hyper: season2
+w: seedtime1
+hyper: season
 g: the time during which seeds should be planted
 
 w: seek_time
@@ -4253,16 +4253,16 @@ dt: noun.cognition:computer_science
 g: (computer science) the time it takes for a read/write head to move to a specific data track
 
 w: sell-by_date
-hyper: date5
+hyper: date2
 dr: noun.location:United_Kingdom
 g: a date stamped on perishable produce indicating the date by which it should be sold
 
-w: semester1 drf adjs.all:semestral
+w: semester drf adjs.all:semestral
 hyper: school_term
 hp: school_year
 g: one of two divisions of an academic year
 
-w: semester2 drf adjs.all:semestrial drf adjs.all:semestral
+w: semester1 drf adjs.all:semestrial drf adjs.all:semestral
 hyper: time_period
 g: half a year; a period of 6 months
 
@@ -4291,12 +4291,12 @@ w: set
 hyper: playing_period
 g: a unit of play in tennis or squash; "they played two sets of tennis after dinner"
 
-w: seventies1
+w: seventies
 w: 1970s
 hyper: decade
 g: the decade from 1970 to 1979
 
-w: seventies
+w: seventies1
 w: mid-seventies
 hyper: time_of_life
 hp: old_age
@@ -4316,7 +4316,7 @@ w: Shavous
 w: Shabuoth
 w: Shavuoth
 w: Shavuot
-w: Pentecost2 drf adj.pert:pentecostal
+w: Pentecost1 drf adj.pert:pentecostal1
 w: Feast_of_Weeks
 hyper: Jewish_holy_day
 dt: noun.cognition:Judaism
@@ -4334,7 +4334,7 @@ hp: Jewish_calendar
 g: the fifth month of the civil year: the eleventh month of the ecclesiastical year in the Jewish calendar (in January and February)
 
 w: sheepshearing
-hyper: season2
+hyper: season
 g: the time or season when sheep are sheared
 
 w: shelf_life
@@ -4345,7 +4345,7 @@ w: shift
 w: work_shift
 w: duty_period
 hyper: hours
-hp: workday
+hp: workday1
 g: the time period during which you are at work
 
 w: Shimchath_Torah
@@ -4372,7 +4372,7 @@ w: liberty
 hyper: leave
 g: leave granted to a sailor or naval officer
 
-w: show_time1
+w: show_time
 hyper: point
 g: the point in time at which an entertainment (a movie or television show etc.) is scheduled to begin
 
@@ -4386,18 +4386,18 @@ hyper: leave
 g: a leave of absence from work because of illness
 
 w: sidereal_day
-w: day6
+w: day2
 hyper: time_unit
 hyper: sidereal_time
 g: the time for one complete rotation of the earth relative to a particular star, about 4 minutes shorter than a mean solar day
 
 w: sidereal_hour
-hyper: hour
+hyper: hour2
 hyper: sidereal_time
 g: 1/24 of a sidereal day
 
 w: sidereal_month
-hyper: month
+hyper: month1
 hyper: sidereal_time
 g: period between successive conjunctions with a star, 27.322 days
 
@@ -4406,7 +4406,7 @@ hyper: cosmic_time
 g: measured by the diurnal motion of stars
 
 w: sidereal_year
-hyper: year
+hyper: year2
 hyper: sidereal_time
 g: the time for the earth to make one complete revolution around the sun, relative to the fixed stars
 
@@ -4416,7 +4416,7 @@ g: a time usually late summer characterized by exaggerated news stories about fr
 
 w: Silurian
 w: Silurian_period
-ihyper: period3
+ihyper: period2
 hp: Paleozoic
 g: from 425 million to 405 million years ago; first air-breathing animals
 
@@ -4439,12 +4439,12 @@ hyper: Jewish_calendar_month
 hp: Jewish_calendar
 g: the ninth month of the civil year; the third month of the ecclesiastical year in the Jewish calendar (in May and June)
 
-w: sixties1
+w: sixties
 w: 1960s
 hyper: decade
 g: the decade from 1960 to 1969
 
-w: sixties
+w: sixties1
 w: mid-sixties
 hyper: time_of_life
 hp: old_age
@@ -4457,15 +4457,15 @@ g: a period of time spent sleeping; "he felt better after a little sleep"; "ther
 
 w: small_hours
 hyper: hour1
-hp: night
+hp: night4
 g: the hours just after midnight
 
-w: snap drf adjs.all:snappy
+w: snap drf adjs.all:snappy1
 hyper: while
 g: a spell of cold weather; "a cold snap in the middle of May"
 
 w: social_season
-hyper: season2
+hyper: season
 g: the season for major social events
 
 w: solar_calendar
@@ -4477,14 +4477,14 @@ hyper: rate
 g: the rate at which radiant solar energy is received at the outer layer of the earth's atmosphere
 
 w: solar_month
-hyper: month
+hyper: month1
 g: one-twelfth of a solar or tropical year
 
 w: solar_year
 w: tropical_year
 w: astronomical_year
 w: equinoctial_year
-hyper: year
+hyper: year2
 g: the time for the earth to make one revolution around the sun, measured between two vernal equinoxes
 
 w: Solemnity_of_Mary
@@ -4499,7 +4499,7 @@ hyper: cosmic_time
 g: either of the two times of the year when the sun is at its greatest distance from the celestial equator
 
 w: space_age
-hyper: time
+hyper: time5
 g: the age beginning with the first space travel; from 1957 to the present
 
 w: spacecraft_clock_time
@@ -4517,7 +4517,7 @@ hyper: rate
 g: the time between occurrences of a repeating event; "some women do not control the spacing of their children"
 
 w: span
-hyper: duration2
+hyper: duration
 g: the complete duration of something; "the job was finished in the span of an hour"
 
 w: spare_time
@@ -4526,7 +4526,7 @@ hyper: time_off
 g: time available for hobbies and other activities that you enjoy
 
 w: speech_day
-hyper: day1
+hyper: day4
 dr: noun.location:United_Kingdom
 g: an annual day in the schools when speeches are made and prizes are distributed
 
@@ -4537,7 +4537,7 @@ hyper: speed
 hyper: noun.quantity:constant
 g: the speed at which light travels in a vacuum; the constancy and universality of the speed of light is recognized by defining it to be exactly 299,792,458 meters per second
 
-w: speed drf adjs.all:speedy drf verb.motion:speed1 drf verb.motion:speed drf verb.change:speed2 drf verb.motion:speed3 drf verb.change:speed
+w: speed drf adjs.all:speedy drf verb.motion:speed1 drf verb.motion:speed2 drf verb.change:speed drf verb.motion:speed drf verb.change:speed1
 w: velocity
 hyper: rate
 g: distance travelled per unit time
@@ -4556,13 +4556,13 @@ g: preseason training during the spring
 
 w: spring
 w: springtime
-hyper: season
+hyper: season2
 g: the season of growth; "the emerging buds were a sure sign of spring"; "he will hold office until the spring of next year"
 
 w: St_Patrick's_Day
 w: Saint_Patrick's_Day
 w: March_17
-hyper: day1
+hyper: day4
 g: a day observed by the Irish to commemorate the patron saint of Ireland
 
 w: steerageway
@@ -4579,16 +4579,16 @@ g: (archeology) the earliest known period of human culture, characterized by the
 w: stopping_point
 w: finale
 w: finis
-w: finish drf verb.change:finish3 drf verb.stative:finish drf verb.change:finish2
+w: finish drf verb.change:finish2 drf verb.stative:finish drf verb.change:finish
 w: last
 w: conclusion
-w: close drf verb.stative:close drf verb.social:close1 drf verb.social:close
+w: close drf verb.stative:close1 drf verb.social:close1 drf verb.social:close
 hyper: end
 g: the temporal end; the concluding time; "the stopping point of each round was signaled by a bell"; "the market was up at the finish"; "they were playing better at the close of the season"
 
 w: stretch
 w: stint
-hyper: duration2
+hyper: duration
 g: an unbroken period of time during which you do something; "there were stretches of boredom"; "he did a stretch in the federal penitentiary"
 
 w: study_hall
@@ -4632,7 +4632,7 @@ g: June 21, when the sun is at its northernmost point
 
 w: summer drf adj.all:summery drf verb.change:summerize drf verb.stative:summer
 w: summertime
-hyper: season
+hyper: season2
 g: the warmest season of the year; in the northern hemisphere it extends from the summer solstice to the autumnal equinox; "they spent a lazy summer at the shore"
 
 w: Sunday
@@ -4646,7 +4646,7 @@ g: first day of the week; observed as a day of rest and worship by most Christia
 w: sunset ant sunrise
 w: sundown
 hyper: hour1
-hp: evening
+hp: evening2
 g: the time in the evening at which the sun begins to fall below the horizon
 
 w: Tammuz
@@ -4667,7 +4667,7 @@ hp: adulthood
 g: the time of life between the ages of 12 and 20
 
 w: tempo
-w: pace1 drf verb.cognition:pace
+w: pace drf verb.cognition:pace
 hyper: rate
 g: the rate of some repeating event
 
@@ -4679,8 +4679,8 @@ g: (music) the speed at which a composition is to be played
 
 w: tenure drf verb.social:tenure
 w: term_of_office
-w: incumbency drf adjs.all:incumbent
-hyper: term
+w: incumbency drf adjs.all:incumbent2
+hyper: term1
 g: the term during which some position is held
 
 w: terahertz
@@ -4699,11 +4699,11 @@ w: tierce
 hyper: canonical_hour
 g: the third canonical hour; about 9 a.m.
 
-w: term
+w: term1
 hyper: time_period
 g: a limited period of time; "a prison term"; "he left school before the end of term"
 
-w: term1
+w: term
 w: full_term
 hyper: point
 hp: gestation
@@ -4745,18 +4745,18 @@ g: (astronomy) a measure of time defined by Earth's orbital motion; terrestrial 
 
 w: Tertiary
 w: Tertiary_period
-ihyper: period3
+ihyper: period2
 hp: Cenozoic
 g: from 63 million to 2 million years ago
 
 w: Tet
-hyper: day1
+hyper: day4
 hp: January
 g: the New Year in Vietnam; observed for three days after the first full moon after January 20th
 
 w: Texas_Independence_Day
 w: March_2
-hyper: day1
+hyper: day4
 hp: March
 g: Texans celebrate the anniversary of Texas' declaration of independence from Mexico in 1836
 
@@ -4768,7 +4768,7 @@ hp: November
 g: fourth Thursday in November in the United States; second Monday in October in Canada; commemorates a feast held in 1621 by the Pilgrims and the Wampanoag
 
 w: theatrical_season
-hyper: season2
+hyper: season
 g: the season when new plays are produced
 
 w: then
@@ -4784,12 +4784,12 @@ w: third_trimester
 hyper: trimester
 g: time period extending from the 28th week of gestation until delivery
 
-w: thirties1
+w: thirties
 w: 1930s
 hyper: decade
 g: the decade from 1930 to 1939
 
-w: thirties
+w: thirties1
 w: mid-thirties
 w: thirty-something
 hyper: time_of_life
@@ -4814,15 +4814,15 @@ w: tiebreaker
 hyper: overtime
 g: overtime play in order to break a tie; e.g. tennis and soccer
 
-w: time5 drf verb.change:time
+w: time drf verb.change:time
 hyper: time_period
 g: a period of time considered as a resource under your control and sufficient to accomplish something; "take time to smell the roses"; "I didn't have time to finish"; "it took more than half my time"
 
-w: time6 drf adjs.all:timely drf verb.change:time6 drf verb.cognition:time1 drf verb.cognition:time
-hyper: moment
+w: time1 drf adjs.all:timely1 drf verb.change:time2 drf verb.cognition:time drf verb.cognition:time1
+hyper: moment1
 g: a suitable moment; "it is time to go"
 
-w: time drf verb.change:time1 drf verb.change:time
+w: time5 drf verb.change:time1 drf verb.change:time
 hyper: time_period
 g: an indefinite period (usually marked by specific attributes or activities); "he waited a long time"; "the time of year for planting"; "he was a great actor in his time"
 
@@ -4847,7 +4847,7 @@ g: a time period during which something occurs or is expected to occur; "an agre
 
 w: time_immemorial
 w: time_out_of_mind
-hyper: past
+hyper: past1
 g: the distant past beyond memory
 
 w: time_interval
@@ -4861,7 +4861,7 @@ g: a time period within which something must be done or completed
 
 w: time_of_life
 hyper: time_period
-hp: life
+hp: life3
 g: a period of time during which a person is normally in a particular life state
 
 w: time_off ant work_time
@@ -4870,12 +4870,12 @@ g: a time period when you are not required to work; "he requested time off to at
 
 w: time_period
 w: period_of_time
-w: period
+w: period4
 hyper: noun.quantity:fundamental_quantity
 g: an amount of time; "a time period of 30 years"; "hastened the period of time of his recovery"; "Picasso's blue period"
 
 w: time_scale
-hyper: duration2
+hyper: duration
 g: an arrangement of events used as a measure of duration; "on the geological time scale mankind has existed but for a brief moment"
 
 w: time_slot
@@ -4892,7 +4892,7 @@ w: timekeeping
 hyper: noun.act:activity
 g: the act or process of determining the time
 
-w: times1
+w: times
 hyper: time_period
 g: a more or less definite period of time now or previously present; "it was a sign of the times"
 
@@ -4919,7 +4919,7 @@ hyper: present
 g: the present time or age; "the world of today"; "today we have computers"
 
 w: today1
-hyper: day
+hyper: day5
 g: the day that includes the present moment (as opposed to yesterday or tomorrow); "Today is beautiful"; "did you see today's newspaper?"
 
 w: tomorrow
@@ -4927,7 +4927,7 @@ hyper: future
 g: the near future; "tomorrow's world"; "everyone hopes for a better tomorrow"
 
 w: tomorrow1
-hyper: day
+hyper: day5
 g: the day after today; "what are our tasks for tomorrow?"
 
 w: tonight
@@ -4936,7 +4936,7 @@ g: the present or immediately coming night
 
 w: top ant bottom
 w: top_of_the_inning
-hyper: turn
+hyper: turn1
 hp: inning
 g: the first half of an inning; while the visiting team is at bat; "a relief pitcher took over in the top of the fifth"
 
@@ -4945,7 +4945,7 @@ hyper: seek_time
 dt: noun.cognition:computer_science
 g: (computer science) the time it takes for a read/write head to move to an adjacent data track
 
-w: Transfiguration drf verb.change:transfigure2
+w: Transfiguration drf verb.change:transfigure
 w: Transfiguration_Day
 w: August_6
 hyper: Christian_holy_day
@@ -4968,7 +4968,7 @@ g: a period of time during which someone or something is tested
 
 w: Triassic
 w: Triassic_period
-ihyper: period3
+ihyper: period2
 hp: Mesozoic
 g: from 230 million to 190 million years ago; dinosaurs, marine reptiles; volcanic activity
 
@@ -5012,10 +5012,10 @@ w: turnaround_time
 hyper: work_time
 g: time need to prepare a vessel or ship for a return trip
 
-w: turn
+w: turn1
 w: bout
-w: round
-hyper: noun.cognition:part
+w: round1
+hyper: noun.cognition:part1
 hp: playing_period
 dt: noun.act:sport
 g: (sports) a division during which one team is on the offensive
@@ -5029,12 +5029,12 @@ w: Twelfthtide
 hyper: season1
 g: the season of Epiphany
 
-w: twenties1
+w: twenties
 w: 1920s
 hyper: decade
 g: the decade from 1920 to 1929
 
-w: twenties
+w: twenties1
 w: mid-twenties
 hyper: time_of_life
 hp: adulthood
@@ -5054,12 +5054,12 @@ w: fall1
 w: crepuscule drf adjs.all:crepuscular
 w: crepuscle drf adjs.all:crepuscular
 hyper: hour1
-hp: evening
+hp: evening2
 g: the time of day immediately following sunset; "he loved the twilight"; "they finished before the fall of night"
 
 w: United_Nations_Day
 w: October_24
-hyper: day1
+hyper: day4
 hp: October
 g: a day for celebrating the founding of the United Nations
 
@@ -5080,7 +5080,7 @@ g: the period of time permitted by commercial usage for the payment of a bill of
 
 w: V-day
 w: Victory_Day
-hyper: day1
+hyper: day4
 g: the day of a victory
 
 w: V-E_Day
@@ -5099,7 +5099,7 @@ dr: noun.location:United_Kingdom
 g: informal term for vacation
 
 w: vacation drf noun.person:vacationist drf verb.stative:vacation
-w: holiday drf verb.stative:holiday
+w: holiday1 drf verb.stative:holiday
 hyper: leisure
 g: leisure time away from work devoted to rest or pleasure; "we get two weeks of vacation every summer"; "we took a short holiday in Puerto Rico"
 
@@ -5108,14 +5108,14 @@ w: Valentine's_Day
 w: Saint_Valentine's_Day
 w: St_Valentine's_Day
 w: February_14
-hyper: day1
+hyper: day4
 hp: February
 g: a day for the exchange of tokens of affection
 
 w: value
 w: time_value
 w: note_value
-hyper: duration2
+hyper: duration
 dt: noun.communication:music
 g: (music) the relative duration of a musical note
 
@@ -5170,12 +5170,12 @@ ihyper: historic_period
 g: a period in British history during the reign of Queen Victoria in the 19th century; her character and moral standards restored the prestige of the British monarchy but gave the era a prudish reputation
 
 w: voting_age
-hyper: age
+hyper: age3
 hp: adulthood
 g: the age at which a person is old enough to vote in public elections
 
 w: Walpurgis_Night
-hyper: day1
+hyper: day4
 g: eve of May Day
 
 w: wartime
@@ -5184,21 +5184,21 @@ g: a period of time during which there is armed conflict
 
 w: washday
 w: washing_day
-hyper: day1
+hyper: day4
 g: a day set aside for doing household laundry
 
 w: Washington's_Birthday
 w: February_22
-hyper: day1
+hyper: day4
 hp: February
 dr: noun.location:United_States
 g: the day on which George Washington is remembered
 
-w: watch1
+w: watch
 hyper: time_period
 g: the period during which someone (especially a guard) is on duty
 
-w: watch
+w: watch1
 hyper: shift
 g: a period of time (4 or 2 hours) during which some of a ship's crew are on duty
 
@@ -5207,22 +5207,22 @@ hyper: anniversary
 g: the anniversary of the day on which you were married (or the celebration of it)
 
 w: wedding_day
-hyper: day1
+hyper: day4
 g: the day of a wedding
 
 w: wedding_night
-hyper: night
+hyper: night4
 hp: wedding_day
 g: the night after the wedding when bride and groom sleep together
 
 w: Wednesday
-w: Midweek1
+w: Midweek
 w: Wed
 hyper: weekday
 g: the fourth day of the week; the third working day
 
 w: wee
-hyper: time
+hyper: time5
 dr: noun.location:Scotland
 g: a short time; "bide a wee"
 
@@ -5231,7 +5231,7 @@ hyper: week
 du: noun.communication:colloquialism
 g: a time period of a week or more; "a week from Monday will be too soon!"
 
-w: week2 drf adjs.all:weekly
+w: week1 drf adjs.all:weekly
 w: calendar_week
 hyper: time_period
 hp: calendar_month
@@ -5252,14 +5252,14 @@ hyper: time_period
 g: any period of seven consecutive days; "it rained for a week"
 
 w: weeknight
-hyper: night
+hyper: night4
 g: any night of the week except Saturday or Sunday
 
 w: while
 w: piece
 w: spell1
 w: patch
-hyper: time
+hyper: time5
 g: a period of indeterminate length (usually short) marked by some action or condition; "he was here for a little while"; "I need to rest for a piece"; "a spell of good weather"; "a patch of bad weather"
 
 w: Whit-Tuesday
@@ -5277,7 +5277,7 @@ g: the day after Whitsunday; a legal holiday in England and Wales and Ireland
 w: Whitsun
 w: Whitsuntide
 w: Whitweek
-hyper: season2
+hyper: season
 hp: church_calendar
 g: Christian holiday; the week beginning on Whitsunday (especially the first 3 days)
 
@@ -5296,7 +5296,7 @@ g: December 22, when the sun is at its southernmost point
 
 w: winter drf adj.all:wintry drf adj.all:wintery drf verb.stative:winter drf verb.change:winterize
 w: wintertime
-hyper: season
+hyper: season2
 g: the coldest season of the year; in the northern hemisphere it extends from the winter solstice to the vernal equinox
 
 w: words_per_minute
@@ -5308,32 +5308,32 @@ w: work_time ant time_off
 hyper: time_period
 g: a time period when you are required to work
 
-w: workday
-w: working_day
-hyper: day4
+w: workday1
+w: working_day1
+hyper: day6
 g: the amount of time that a worker must work for an agreed daily wage; "they work an 8-hour day"
 
-w: workday1 ant rest_day
-w: working_day1
-w: work_day1
+w: workday ant rest_day
+w: working_day
+w: work_day
 hyper: weekday
 g: a day on which work is done
 
 w: workweek
-w: week1
+w: week2
 hyper: work_time
-hp: week2
+hp: week1
 g: hours or days of work in a calendar week; "they worked a 40-hour week"
 
 w: Y2K
 hyper: year1
 g: the year 2000 in the Gregorian calendar
 
-w: year2
+w: year
 hyper: time_period
 g: a period of time occupying a regular part of a calendar year that is used for some particular activity; "a school year"
 
-w: year
+w: year2
 hyper: time_period
 g: the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun; "a Martian year takes 687 of our days"
 
@@ -5358,11 +5358,11 @@ hp: decade
 g: a period of time containing 365 (or 366) days; "she is 4 years old"; "in the year 1920"
 
 w: yesterday
-hyper: past
+hyper: past1
 g: the recent past; "yesterday's solutions are not good enough"; "we shared many yesterdays"
 
 w: yesterday1
-hyper: day
+hyper: day5
 g: the day immediately before today; "it was in yesterday's newspapers"
 
 w: Yom_Kippur
@@ -5373,14 +5373,14 @@ dt: noun.cognition:Judaism
 g: (Judaism) a solemn and major fast day on the Jewish calendar; 10th of Tishri; its observance is one of the requirements of the Mosaic law
 
 w: yore
-hyper: past
+hyper: past1
 g: time long past
 
-w: youth
+w: youth1
 hyper: time_of_life
 g: the time of life between childhood and maturity
 
-w: youth1
+w: youth
 w: early_days
 hyper: time_period
 g: an early period of development; "during the youth of the project"

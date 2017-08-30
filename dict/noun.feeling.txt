@@ -22,7 +22,7 @@ hyper: craving
 g: an abnormally strong craving
 
 w: admiration1 drf verb.emotion:admire
-w: esteem drf verb.cognition:esteem1
+w: esteem drf verb.cognition:esteem
 hyper: liking
 g: a feeling of delighted approval and liking
 
@@ -32,11 +32,11 @@ g: the conscious subjective aspect of feeling or emotion
 
 w: affection
 w: affectionateness drf adjs.all:affectionate
-w: fondness drf adjs.all:fond2
-w: tenderness1 drf adjs.all:tender
-w: heart4 drf adjs.all:hearty
-w: warmness drf adjs.all:warm drf adj.all:warm2
-w: warmheartedness drf adj.all:warmhearted
+w: fondness drf adjs.all:fond1
+w: tenderness1 drf adjs.all:tender3
+w: heart drf adjs.all:hearty1
+w: warmness drf adjs.all:warm drf adj.all:warm1
+w: warmheartedness1 drf adj.all:warmhearted
 w: philia
 hyper: noun.Tops:feeling
 g: a positive feeling of liking; "he had trouble expressing the affection he felt"; "the child won everyone's heart"; "the warmness of his welcome made us feel right at home"
@@ -45,12 +45,12 @@ w: afterglow
 hyper: pleasantness
 g: the pleasure of remembering some pleasant event; "he basked in the afterglow of his victory"
 
-w: agape1
+w: agape
 hyper: love
 dt: noun.cognition:Christian_theology
 g: (Christian theology) the love of God or Christ for mankind
 
-w: agape
+w: agape1
 w: agape_love
 hyper: love
 g: selfless love of one person for another without sexual implications (especially love that is spiritual in nature)
@@ -69,16 +69,16 @@ w: agitation ant calmness
 hyper: noun.Tops:feeling
 g: the feeling of being agitated; not calm
 
-w: agony drf adj.pert:agonal drf noun.person:agonist1 drf noun.person:agonist drf verb.emotion:agonise1 drf verb.emotion:agonise
-w: torment1 drf verb.emotion:torment
+w: agony drf adj.pert:agonal drf noun.person:agonist drf noun.person:agonist1 drf verb.emotion:agonise drf verb.emotion:agonise1
+w: torment2 drf verb.emotion:torment1
 w: torture1 drf adjs.all:torturous drf verb.emotion:torture
 hyper: suffering1
 g: intense feelings of suffering; acute mental or physical pain; "an agony of doubt"; "the torments of the damned"
 
 w: alarm drf verb.emotion:alarm drf verb.communication:alarm
-w: dismay drf verb.emotion:dismay
+w: dismay1 drf verb.emotion:dismay1
 w: consternation
-hyper: fear
+hyper: fear2
 attr: adj.all:alarming
 attr: adj.all:unalarming
 g: fear resulting from the awareness of danger
@@ -114,15 +114,15 @@ w: amicableness
 hyper: friendliness
 g: a disinclination to quarrel
 
-w: amorousness1 drf adjs.all:amorous1
+w: amorousness drf adjs.all:amorous1
 w: enamoredness drf adjs.all:enamored
 hyper: love
 g: a feeling of love or fondness
 
-w: amorousness2 drf adjs.all:amorous2
+w: amorousness1 drf adjs.all:amorous
 w: eroticism
 w: erotism
-w: sexiness drf adj.all:sexy4 drf adj.all:sexy
+w: sexiness drf adj.all:sexy drf adj.all:sexy1
 w: amativeness drf adjs.all:amative
 hyper: sexual_desire
 g: the arousal of feelings of sexual desire
@@ -131,7 +131,7 @@ w: amour_propre
 w: conceit
 w: self-love
 w: vanity drf adjs.all:vain
-hyper: pride
+hyper: pride1
 g: feelings of excessive pride
 
 w: amusement drf verb.communication:amuse
@@ -142,8 +142,8 @@ w: anaphrodisia ant aphrodisia
 hyper: sexual_desire
 g: decline or absence of sexual desire
 
-w: anger drf adj.all:angry drf verb.emotion:anger1 drf verb.emotion:anger
-w: choler1 drf adjs.all:choleric drf adjs.all:choleric drf adjs.all:choleric
+w: anger drf adj.all:angry drf verb.emotion:anger drf verb.emotion:anger1
+w: choler1 drf adjs.all:choleric drf adjs.all:choleric1 drf adjs.all:choleric2
 w: ire
 hyper: emotion
 g: a strong emotion; a feeling that is oriented toward some real or supposed grievance
@@ -160,10 +160,10 @@ w: angst
 hyper: anxiety
 g: an acute but unspecific feeling of anxiety; usually reserved for philosophical anxiety about the world or about personal freedom
 
-w: anguish2 drf verb.emotion:anguish2 drf verb.emotion:anguish
-w: torment2 drf verb.emotion:torment
-w: torture2 drf verb.emotion:torture
-hyper: distress2
+w: anguish drf verb.emotion:anguish drf verb.emotion:anguish1
+w: torment1 drf verb.emotion:torment1
+w: torture drf verb.emotion:torture
+hyper: distress
 g: extreme mental distress
 
 w: animosity
@@ -178,7 +178,7 @@ w: vexation
 hyper: anger
 g: anger produced by some annoying irritation
 
-w: antagonism2 drf adj.all:antagonistic1 drf noun.person:antagonist drf verb.emotion:antagonize drf verb.emotion:antagonise
+w: antagonism drf adj.all:antagonistic drf noun.person:antagonist drf verb.emotion:antagonize drf verb.emotion:antagonise
 hyper: hostility
 hyper: dislike
 g: an actively expressed feeling of dislike and hostility
@@ -188,7 +188,7 @@ w: expectancy drf adjs.all:expectant
 hyper: expectation
 g: an expectation
 
-w: antipathy drf adjs.all:antipathetic drf adjs.all:antipathetic drf adjs.all:antipathetical
+w: antipathy drf adjs.all:antipathetic1 drf adjs.all:antipathetic drf adjs.all:antipathetical1
 w: aversion
 w: distaste
 hyper: dislike
@@ -203,7 +203,7 @@ w: disquiet drf verb.emotion:disquiet
 hyper: anxiety
 g: a feeling of mild anxiety about possible developments
 
-w: apathy drf adjs.all:apathetic drf adjs.all:apathetic
+w: apathy drf adjs.all:apathetic1 drf adjs.all:apathetic
 hyper: noun.Tops:feeling
 g: an absence of emotion or enthusiasm
 
@@ -218,9 +218,9 @@ hyper: craving
 g: a feeling of craving something; "an appetite for life"; "the object of life is to satisfy as many appetencies as possible"- Granville Hicks
 
 w: apprehension drf verb.emotion:apprehend
-w: apprehensiveness drf adjs.all:apprehensive drf adjs.all:apprehensive
+w: apprehensiveness drf adjs.all:apprehensive1 drf adjs.all:apprehensive2
 w: dread drf adjs.all:dread drf verb.emotion:dread
-hyper: fear
+hyper: fear2
 g: fearful expectation or anticipation; "the student looked around the examination room with apprehension"
 
 w: approbation drf verb.communication:approbate drf verb.cognition:approbate drf verb.cognition:approve
@@ -231,15 +231,15 @@ w: approval drf verb.cognition:approve ant disapproval
 hyper: liking
 g: a feeling of liking something or someone good; "although she fussed at them, she secretly viewed all her children with approval"
 
-w: ardor
-w: ardour
+w: ardor1
+w: ardour1
 hyper: love
 g: intense feeling of love
 
-w: ardor1
-w: ardour1
+w: ardor
+w: ardour
 w: elan
-w: zeal1 drf adjs.all:zealous
+w: zeal drf adjs.all:zealous
 hyper: eagerness
 g: a feeling of strong eagerness (usually in favor of a person or cause); "they were imbued with a revolutionary ardor"; "he felt a kind of religious zeal"
 
@@ -250,7 +250,7 @@ w: fervour
 w: fervency drf adjs.all:fervent
 w: fire drf adjs.all:fiery
 w: fervidness drf adjs.all:fervid
-hyper: passion
+hyper: passion1
 g: feelings of great warmth and intensity; "he spoke with great ardor"
 
 w: astonishment drf verb.cognition:astonish
@@ -258,7 +258,7 @@ w: amazement drf verb.cognition:amaze
 hyper: noun.Tops:feeling
 g: the feeling that accompanies something extremely surprising; "he looked at me in astonishment"
 
-w: attachment drf verb.social:attach3
+w: attachment drf verb.social:attach
 w: fond_regard
 hyper: affection
 g: a feeling of affection for a person or an institution
@@ -266,10 +266,10 @@ g: a feeling of affection for a person or an institution
 w: attrition
 w: contrition
 w: contriteness drf adjs.all:contrite
-hyper: sorrow1
+hyper: sorrow
 g: sorrow for sin arising from fear of damnation
 
-w: awe2 drf verb.emotion:awe
+w: awe1 drf verb.emotion:awe
 hyper: wonder
 g: an overwhelming feeling of wonder or admiration; "he stared over the edge with a feeling of awe"
 
@@ -280,16 +280,16 @@ g: a persisting angry mood
 
 w: bang
 w: boot
-w: charge drf verb.emotion:charge5
+w: charge drf verb.emotion:charge
 w: rush
 w: flush
-w: thrill drf verb.emotion:thrill1 drf verb.emotion:thrill2 drf verb.perception:thrill
+w: thrill drf verb.emotion:thrill drf verb.emotion:thrill1 drf verb.perception:thrill
 w: kick
 hyper: exhilaration
 g: the swift release of a store of affective force; "they got a great bang out of it"; "what a boot!"; "he got a quick rush from injecting heroin"; "he does it for kicks"
 
-w: belligerence drf adjs.all:belligerent
-w: belligerency drf adjs.all:belligerent
+w: belligerence drf adjs.all:belligerent1
+w: belligerency drf adjs.all:belligerent1
 hyper: hostility
 g: hostile or warlike attitude or nature
 
@@ -326,7 +326,7 @@ hyper: dissatisfaction
 g: the feeling of being bored by something tedious
 
 w: broken_heart
-hyper: sorrow
+hyper: sorrow1
 g: devastating sorrow and despair; "he is recovering from a broken heart"; "a broken heart languishes here"
 
 w: brotherhood
@@ -337,7 +337,7 @@ w: buck_fever
 hyper: fever
 g: nervous excitement of an inexperienced hunter
 
-w: buoyancy drf adjs.all:buoyant
+w: buoyancy drf adjs.all:buoyant1
 w: perkiness drf adjs.all:perky
 hyper: cheerfulness
 g: cheerfulness that bubbles to the surface
@@ -346,8 +346,8 @@ w: calmness drf adjs.all:calm ant agitation
 hyper: noun.Tops:feeling
 g: a feeling of calm; an absence of agitation or excitement
 
-w: caprice drf adjs.all:capricious
-w: impulse1
+w: caprice drf adjs.all:capricious1
+w: impulse
 w: whim
 hyper: desire
 g: a sudden desire; "he bought it on an impulse"
@@ -359,14 +359,14 @@ w: fascination drf verb.emotion:fascinate1
 hyper: liking
 g: a feeling of great liking for something wonderful and unusual
 
-w: care drf verb.emotion:care2 drf verb.emotion:care12
+w: care1 drf verb.emotion:care1 drf verb.emotion:care2
 hyper: noun.state:predicament
 g: a cause for feeling concern; "his major care was the illness of his wife"
 
-w: carefreeness drf adjs.all:carefree
+w: carefreeness drf adjs.all:carefree1
 w: insouciance drf adjs.all:insouciant
 w: lightheartedness drf adjs.all:lighthearted
-w: lightsomeness drf adjs.all:lightsome
+w: lightsomeness drf adjs.all:lightsome1
 hyper: cheerfulness
 g: the cheerful feeling you have when nothing is troubling you
 
@@ -374,9 +374,9 @@ w: chafing
 hyper: noun.state:tenderness
 g: soreness or irritation of the skin caused by friction
 
-w: chagrin drf verb.emotion:chagrin1
+w: chagrin drf verb.emotion:chagrin
 w: humiliation drf verb.emotion:humiliate
-w: mortification drf verb.emotion:mortify1
+w: mortification drf verb.emotion:mortify2
 hyper: embarrassment
 g: strong feelings of embarrassment
 
@@ -386,7 +386,7 @@ hyper: happiness
 g: a feeling of spontaneous good spirits; "his cheerfulness made everyone feel better"
 
 w: cheerlessness drf adj.all:cheerless ant cheerfulness
-w: uncheerfulness drf adj.all:uncheerful4
+w: uncheerfulness drf adj.all:uncheerful
 hyper: sadness
 g: a feeling of dreary or pessimistic sadness
 
@@ -399,7 +399,7 @@ w: class_feeling
 hyper: hostility
 g: feelings of envy and resentment of one social or economic class for toward another
 
-w: closeness drf adj.all:close2
+w: closeness drf adj.all:close
 w: intimacy
 hyper: belonging
 g: a feeling of being intimate and belonging together; "their closeness grew as the night wore on"
@@ -416,7 +416,7 @@ w: comfort
 hyper: pleasure
 g: a feeling of freedom from worry or disappointment
 
-w: comfortableness drf adj.all:comfortable1
+w: comfortableness drf adj.all:comfortable
 hyper: belonging
 g: a feeling of being at ease in a relationship
 
@@ -451,20 +451,20 @@ g: (psychoanalysis) a combination of emotions and impulses that have been reject
 w: compunction
 w: remorse
 w: self-reproach
-hyper: sorrow1
+hyper: sorrow
 g: a feeling of deep regret (usually for some misdeed)
 
-w: concern ant unconcern
+w: concern1 ant unconcern
 hyper: sympathy
 g: a feeling of sympathy for someone or something; "She felt strong concern for those less fortunate"
 
-w: concern1 drf verb.stative:concern1
-w: care1 drf verb.emotion:care12
-w: fear1 drf verb.emotion:fear13 drf verb.emotion:fear3
+w: concern drf verb.stative:concern
+w: care drf verb.emotion:care2
+w: fear drf verb.emotion:fear2 drf verb.emotion:fear
 hyper: anxiety
 g: an anxious feeling; "care had aged him"; "they hushed it up out of fear of public reaction"
 
-w: confidence drf adjs.all:confidential ant diffidence
+w: confidence drf adjs.all:confidential2 ant diffidence
 hyper: security
 attr: adj.all:confident
 attr: adj.all:diffident
@@ -500,13 +500,13 @@ w: contentment drf verb.consumption:content ant discontentment
 hyper: happiness
 g: happiness with one's situation in life
 
-w: coolness drf adjs.all:cool
+w: coolness drf adjs.all:cool1
 w: imperturbability drf adjs.all:imperturbable
 w: imperturbableness drf adjs.all:imperturbable
 hyper: calmness
 g: calm and unruffled self-assurance; "he performed with all the coolness of a veteran"
 
-w: covetousness1
+w: covetousness
 hyper: envy
 g: an envious eagerness to possess something
 
@@ -515,7 +515,7 @@ hyper: desire
 g: an intense desire for some particular thing
 
 w: creeps
-hyper: fear
+hyper: fear2
 du: noun.communication:colloquialism
 g: a feeling of fear and revulsion; "he gives me the creeps"
 
@@ -525,7 +525,7 @@ g: feelings of dislike and anxiety; "the cave gave me the creepy-crawlies"
 
 w: cruelty
 w: mercilessness drf adj.all:merciless
-w: pitilessness drf adjs.all:pitiless
+w: pitilessness drf adjs.all:pitiless1
 w: ruthlessness drf adjs.all:ruthless
 hyper: heartlessness
 g: feelings of extreme heartlessness
@@ -539,8 +539,8 @@ w: hackles
 hyper: anger
 g: a feeling of anger and animosity; "having one's hackles or dander up"
 
-w: daze drf verb.perception:daze
-w: shock1 drf verb.body:shock drf verb.emotion:shock drf verb.emotion:shock2
+w: daze drf verb.perception:daze1
+w: shock drf verb.body:shock1 drf verb.emotion:shock2 drf verb.emotion:shock
 w: stupor
 hyper: stupefaction
 g: the feeling of distress and disbelief that you have when something bad happens accidentally; "his mother's death left him in a daze"; "he was numb with shock"
@@ -549,7 +549,7 @@ w: defeatism drf noun.person:defeatist
 hyper: resignation
 g: acceptance of the inevitability of defeat
 
-w: delight drf verb.consumption:delight drf verb.emotion:delight
+w: delight drf verb.consumption:delight drf verb.emotion:delight1
 w: delectation
 hyper: pleasure
 g: a feeling of extreme pleasure or satisfaction; "his delight to see her was obvious to all"
@@ -563,7 +563,7 @@ w: depression
 hyper: sadness
 g: sad feelings of gloom and inadequacy
 
-w: desire drf verb.emotion:desire
+w: desire drf verb.emotion:desire2
 hyper: noun.Tops:feeling
 g: the feeling that accompanies an unsatisfied state
 
@@ -578,8 +578,8 @@ g: a feeling of scornful hatred
 
 w: despondency drf adjs.all:despondent drf verb.emotion:despond
 w: despondence drf adjs.all:despondent drf verb.emotion:despond
-w: heartsickness drf adjs.all:heartsick drf adjs.all:heartsick
-w: disconsolateness drf adj.all:disconsolate4
+w: heartsickness drf adjs.all:heartsick drf adjs.all:heartsick1
+w: disconsolateness drf adj.all:disconsolate
 hyper: depression
 g: feeling downcast and disheartened and hopeless
 
@@ -588,7 +588,7 @@ hyper: noun.Tops:feeling
 g: the feeling of being confounded or overwhelmed; "her departure left him in utter devastation"
 
 w: devotion
-w: devotedness drf adjs.all:devoted2
+w: devotedness drf adjs.all:devoted
 hyper: love
 g: feelings of ardent love; "their devotion to each other was beautiful"
 
@@ -609,15 +609,15 @@ g: a feeling of disliking something or what someone is doing
 
 w: discomfiture drf verb.emotion:discomfit
 w: discomposure drf verb.emotion:discompose
-w: disconcertion drf verb.emotion:disconcert2 drf verb.emotion:disconcert1
-w: disconcertment drf verb.emotion:disconcert2 drf verb.emotion:disconcert1
+w: disconcertion drf verb.emotion:disconcert drf verb.emotion:disconcert1
+w: disconcertment drf verb.emotion:disconcert drf verb.emotion:disconcert1
 hyper: embarrassment
 hyper: anxiety
 g: anxious embarrassment
 
 w: discomfort
-w: soreness drf adjs.all:sore drf adjs.all:sore
-w: irritation drf verb.body:irritate
+w: soreness drf adjs.all:sore drf adjs.all:sore2
+w: irritation1 drf verb.body:irritate
 hyper: suffering1
 g: an uncomfortable feeling of mental painfulness or distress
 
@@ -627,9 +627,9 @@ w: discontentedness drf adj.all:discontented
 hyper: longing
 g: a longing for something better than the present situation
 
-w: discouragement2 drf verb.emotion:discourage
+w: discouragement drf verb.emotion:discourage
 w: disheartenment drf verb.emotion:dishearten
-w: dismay2 drf verb.emotion:dismay1
+w: dismay drf verb.emotion:dismay
 hyper: despair
 g: the feeling of despair in the face of obstacles
 
@@ -659,13 +659,13 @@ hyper: discontentment
 g: the feeling of being displeased and discontent; "he was never slow to express his dissatisfaction with the service he received"
 
 w: distance drf adjs.all:distant drf verb.stative:distance
-w: aloofness2
+w: aloofness
 hyper: indifference
 g: indifference by personal withdrawal; "emotional distance"
 
-w: distress2 drf verb.emotion:distress
-w: hurt2 drf verb.perception:hurt drf verb.body:hurt1
-w: suffering2 drf verb.emotion:suffer
+w: distress drf verb.emotion:distress
+w: hurt drf verb.perception:hurt drf verb.body:hurt1
+w: suffering drf verb.emotion:suffer
 hyper: pain
 g: psychological suffering; "the death of his wife caused him great distress"
 
@@ -676,14 +676,14 @@ g: sadness caused by grief or affliction
 w: dolor drf adjs.all:dolourous drf adjs.all:dolorous
 w: dolour
 hyper: grief
-dt: noun.communication:poetry2
+dt: noun.communication:poetry1
 g: (poetry) painful grief
 
 w: downheartedness drf adjs.all:downhearted
 w: dejectedness
 w: low-spiritedness drf adjs.all:low-spirited
-w: lowness drf adjs.all:low drf adjs.all:low
-w: dispiritedness drf adjs.all:dispirited drf adjs.all:dispirited
+w: lowness drf adjs.all:low3 drf adjs.all:low6
+w: dispiritedness drf adjs.all:dispirited drf adjs.all:dispirited1
 hyper: sadness
 g: a feeling of low spirits; "he felt responsible for her lowness of spirits"
 
@@ -698,8 +698,8 @@ hyper: depression
 g: abnormal depression and discontent
 
 w: eagerness drf adj.all:eager
-w: avidity1 drf adjs.all:avid
-w: avidness drf adjs.all:avid
+w: avidity drf adjs.all:avid1
+w: avidness drf adjs.all:avid1
 w: keenness
 hyper: enthusiasm
 g: a positive feeling of wanting to push ahead with something
@@ -710,27 +710,27 @@ w: sincerity drf adjs.all:sincere
 hyper: gravity
 g: an earnest and sincere feeling
 
-w: easiness drf adj.all:easy2
-w: relaxation drf verb.social:relax2 drf verb.body:relax1
+w: easiness drf adj.all:easy
+w: relaxation drf verb.social:relax drf verb.body:relax1
 hyper: tranquillity
 g: a feeling of refreshing tranquility and an absence of tension or worry; "the easiness we feel when sleeping"
 
 w: edginess drf adjs.all:edgy
-w: uneasiness2 drf adj.all:uneasy
+w: uneasiness drf adj.all:uneasy1
 w: inquietude
 w: disquietude
 hyper: anxiety
 g: feelings of anxiety that make you tense and irritable
 
-w: ego1
-w: egotism drf adjs.all:egotistic drf noun.person:egotist
+w: ego
+w: egotism drf adjs.all:egotistic1 drf noun.person:egotist
 w: self-importance drf adjs.all:self-important
-hyper: pride
+hyper: pride1
 g: an inflated feeling of pride in your superiority to others
 
 w: elation drf verb.emotion:elate
 w: high_spirits
-w: lightness drf adj.all:light2
+w: lightness drf adj.all:light4
 hyper: joy
 g: a feeling of joy and pride
 
@@ -746,13 +746,13 @@ w: embarrassment
 hyper: shame
 g: the shame you feel when your inadequacy or guilt is made public
 
-w: emotion drf adj.pert:emotional drf adj.all:emotional2 drf verb.emotion:emote
+w: emotion drf adj.pert:emotional drf adj.all:emotional drf verb.emotion:emote
 hyper: noun.Tops:feeling
 g: any strong feeling
 
 w: emotionlessness drf adjs.all:emotionless
 w: impassivity drf adjs.all:impassive
-w: impassiveness drf adjs.all:impassive drf adjs.all:impassive
+w: impassiveness drf adjs.all:impassive drf adjs.all:impassive1
 w: phlegm drf adjs.all:phlegmatic drf adjs.all:phlegmatical
 w: indifference1
 w: stolidity drf adjs.all:stolid
@@ -772,7 +772,7 @@ w: encouragement drf verb.emotion:encourage
 hyper: hope
 g: the feeling of being encouraged
 
-w: enjoyment drf verb.emotion:enjoy1 drf verb.emotion:enjoy drf verb.consumption:enjoy
+w: enjoyment drf verb.emotion:enjoy drf verb.emotion:enjoy1 drf verb.consumption:enjoy1
 hyper: pleasure
 g: the pleasure felt when having a good time
 
@@ -785,7 +785,7 @@ w: ravishment drf verb.emotion:ravish
 hyper: delight
 g: a feeling of delight at being filled with wonder and enchantment
 
-w: envy drf verb.emotion:envy1 drf verb.emotion:envy
+w: envy drf verb.emotion:envy drf verb.emotion:envy1
 w: enviousness drf adjs.all:envious
 hyper: resentment
 g: a feeling of grudging admiration and desire to have something that is possessed by another
@@ -796,11 +796,11 @@ hyper: elation
 g: a feeling of great (usually exaggerated) elation
 
 w: exhilaration drf verb.emotion:exhilarate
-w: excitement drf verb.emotion:excite2
+w: excitement drf verb.emotion:excite
 hyper: joy
 g: the feeling of lively and cheerful joy; "he could hardly conceal his excitement when she agreed"
 
-w: expectation drf verb.cognition:expect drf verb.body:expect
+w: expectation drf verb.cognition:expect1 drf verb.body:expect1
 hyper: noun.Tops:feeling
 g: the feeling that something is about to happen
 
@@ -810,8 +810,8 @@ hyper: joy
 g: joyful enthusiasm
 
 w: exultation drf verb.emotion:exult
-w: jubilance drf adjs.all:jubilant drf adjs.all:jubilant drf verb.communication:jubilate
-w: jubilancy drf adjs.all:jubilant drf adjs.all:jubilant drf verb.communication:jubilate
+w: jubilance drf adjs.all:jubilant drf adjs.all:jubilant1 drf verb.communication:jubilate
+w: jubilancy drf adjs.all:jubilant drf adjs.all:jubilant1 drf verb.communication:jubilate
 w: jubilation drf verb.communication:jubilate
 hyper: joy
 g: a feeling of extreme joy
@@ -820,29 +820,29 @@ w: faintness drf adjs.all:faint
 hyper: noun.Tops:feeling
 g: a feeling of faintness and of being ready to swoon
 
-w: fatigue drf verb.body:fatigue1
+w: fatigue drf verb.body:fatigue
 hyper: boredom
 g: (always used with a modifier) boredom resulting from overexposure to something; "he was suffering from museum fatigue"; "after watching TV with her husband she had a bad case of football fatigue"; "the American public is experiencing scandal fatigue"; "political fatigue"
 
-w: favor drf verb.social:favor3 drf verb.cognition:favor drf verb.social:favor
-w: favour drf verb.social:favour drf verb.social:favour3 drf verb.social:favour1
+w: favor drf verb.social:favor1 drf verb.cognition:favor drf verb.social:favor2
+w: favour drf verb.social:favour2 drf verb.social:favour1 drf verb.social:favour
 hyper: approval
 g: a feeling of favorable regard
 
-w: fear drf verb.emotion:fear ant fearlessness
-w: fearfulness drf adjs.all:fearful
+w: fear2 drf verb.emotion:fear3 ant fearlessness
+w: fearfulness drf adjs.all:fearful3
 w: fright drf verb.emotion:fright
 hyper: emotion
 attr: adj.all:afraid
-attr: adj.all:unafraid
+attr: adj.all:unafraid1
 g: an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)
 
-w: fearlessness drf adjs.all:fearless ant fear drf adj.all:fearless
+w: fearlessness drf adjs.all:fearless ant fear2 drf adj.all:fearless
 w: bravery
 hyper: noun.Tops:feeling
 g: feeling no fear
 
-w: fear2 drf verb.emotion:fear1
+w: fear1 drf verb.emotion:fear4
 w: reverence drf adjs.all:reverential drf adjs.all:reverent drf verb.emotion:reverence drf verb.emotion:revere
 w: awe
 w: veneration drf verb.emotion:venerate
@@ -871,7 +871,7 @@ w: filial_love
 hyper: love
 g: the love of a child for a parent
 
-w: fondness1 drf adjs.all:fond
+w: fondness1 drf adjs.all:fond3
 w: fancy drf verb.emotion:fancy
 w: partiality
 hyper: liking
@@ -889,8 +889,8 @@ hyper: mercifulness
 g: compassionate feelings that support a willingness to forgive
 
 w: forlornness
-w: loneliness drf adjs.all:lonely
-w: desolation2 drf verb.cognition:desolate
+w: loneliness drf adjs.all:lonely3
+w: desolation drf verb.cognition:desolate
 hyper: sadness
 g: sadness resulting from being forsaken or abandoned
 
@@ -899,13 +899,13 @@ hyper: liking
 g: a feeling of liking for another person; enjoyment in their company
 
 w: frisson
-w: shiver drf adjs.all:shivery drf verb.motion:shiver
-w: chill2
+w: shiver drf adjs.all:shivery1 drf verb.motion:shiver
+w: chill1
 w: quiver
 w: shudder drf adjs.all:shuddery
-w: thrill2 drf verb.emotion:thrill1 drf verb.emotion:thrill2
+w: thrill1 drf verb.emotion:thrill drf verb.emotion:thrill1
 w: tingle drf verb.perception:tingle
-hyper: fear
+hyper: fear2
 g: an almost pleasurable sensation of fright; "a frisson of surprise shot through him"
 
 w: frustration1 drf verb.social:frustrate drf verb.emotion:frustrate
@@ -922,9 +922,9 @@ w: fulfilment drf verb.consumption:fulfil
 hyper: satisfaction
 g: a feeling of satisfaction at having achieved your desires
 
-w: fury drf adjs.all:furious drf verb.emotion:infuriate
-w: rage drf verb.stative:rage1 drf verb.emotion:rage
-w: madness drf adjs.all:mad
+w: fury drf adjs.all:furious2 drf verb.emotion:infuriate
+w: rage drf verb.stative:rage drf verb.emotion:rage
+w: madness drf adjs.all:mad3
 hyper: anger
 g: a feeling of intense anger; "hell hath no fury like a woman scorned"; "his face turned red with rage"
 
@@ -938,7 +938,7 @@ w: playfulness drf adj.all:playful
 hyper: levity
 g: a festive merry feeling
 
-w: gladness drf adjs.all:glad drf adjs.all:glad drf adj.all:glad
+w: gladness drf adjs.all:glad1 drf adjs.all:glad2 drf adj.all:glad
 w: gladfulness
 w: gladsomeness drf adjs.all:gladsome
 hyper: happiness
@@ -946,19 +946,19 @@ g: experiencing joy and pleasure
 
 w: gloat drf verb.perception:gloat drf verb.communication:gloat
 w: gloating drf verb.perception:gloat drf verb.communication:gloat
-w: glee2
+w: glee
 hyper: satisfaction
 g: malicious satisfaction
 
 w: gloom
 w: gloominess drf adjs.all:gloomy
-w: somberness drf adjs.all:somber drf adjs.all:somber
-w: sombreness drf adjs.all:sombre drf adjs.all:sombre
+w: somberness drf adjs.all:somber1 drf adjs.all:somber1
+w: sombreness drf adjs.all:sombre1 drf adjs.all:sombre1
 hyper: melancholy
 hyper: apprehension
 g: a feeling of melancholy apprehension
 
-w: glow drf verb.emotion:glow
+w: glow drf verb.emotion:glow1
 hyper: noun.Tops:feeling
 g: a feeling of considerable warmth; "the glow of new love"; "a glow of regret"
 
@@ -969,7 +969,7 @@ g: greed and the contagious excitement of a gold rush
 w: good_humor ant ill_humor
 w: good_humour
 w: good_temper
-w: amiability drf adjs.all:amiable drf adjs.all:amiable
+w: amiability drf adjs.all:amiable drf adjs.all:amiable1
 hyper: temper
 g: a cheerful and agreeable mood
 
@@ -989,7 +989,7 @@ hyper: noun.Tops:feeling
 g: a feeling of thankfulness and appreciation; "he was overwhelmed with gratitude for their help"
 
 w: gravity ant levity
-w: solemnity1 drf adjs.all:solemn1 drf adjs.all:solemn
+w: solemnity drf adjs.all:solemn1 drf adjs.all:solemn
 hyper: noun.Tops:feeling
 g: a solemn and dignified feeling
 
@@ -997,14 +997,14 @@ w: grief
 w: heartache
 w: heartbreak
 w: brokenheartedness drf adjs.all:brokenhearted
-hyper: sorrow
+hyper: sorrow1
 g: intense sorrow caused by loss of a loved one (especially by death)
 
 w: growing_pains
 hyper: pain
 g: emotional distress arising during adolescence
 
-w: grudge drf verb.emotion:grudge1
+w: grudge drf verb.emotion:grudge
 w: score
 w: grievance
 hyper: resentment
@@ -1022,8 +1022,8 @@ hyper: compunction
 g: remorse caused by feeling responsible for some offense
 
 w: gusto
-w: relish2 drf verb.emotion:relish
-w: zest drf adjs.all:zesty
+w: relish drf verb.emotion:relish
+w: zest drf adjs.all:zesty1
 w: zestfulness drf adjs.all:zestful
 hyper: enjoyment
 hyper: enthusiasm
@@ -1041,7 +1041,7 @@ attr: adj.all:unhappy
 g: emotions experienced when in a state of well-being
 
 w: harassment
-w: torment3 drf verb.emotion:torment1
+w: torment drf verb.emotion:torment
 hyper: annoyance
 g: a feeling of intense annoyance caused by being tormented; "so great was his harassment that he wanted to destroy his tormentors"
 
@@ -1054,7 +1054,7 @@ w: heartburning
 hyper: resentment
 g: intense resentment; "his promotion caused much heartburning among his rivals"
 
-w: heartlessness drf adj.all:heartless2
+w: heartlessness drf adj.all:heartless
 w: coldheartedness drf adj.all:coldhearted
 w: hardheartedness drf adjs.all:hardhearted drf adj.all:hardhearted
 hyper: unconcern
@@ -1065,7 +1065,7 @@ hyper: love
 hyper: compassion
 g: your deepest feelings of love and compassion; "many adoption cases tug at the heartstrings"
 
-w: heaviness drf adj.all:heavy2
+w: heaviness drf adj.all:heavy4
 hyper: sadness
 g: persisting sadness; "nothing lifted the heaviness of her heart after her loss"
 
@@ -1073,7 +1073,7 @@ w: heavyheartedness drf adjs.all:heavyhearted
 hyper: melancholy
 g: a feeling of dispirited melancholy
 
-w: helplessness drf adjs.all:helpless drf adjs.all:helpless
+w: helplessness drf adjs.all:helpless1 drf adjs.all:helpless2
 hyper: depression
 g: a feeling of being unable to manage
 
@@ -1088,8 +1088,8 @@ g: a feeling of diffidence and indecision about doing something
 
 w: hilarity drf adjs.all:hilarious
 w: mirth
-w: mirthfulness drf adjs.all:mirthful drf adjs.all:mirthful
-w: glee
+w: mirthfulness drf adjs.all:mirthful drf adjs.all:mirthful1
+w: glee1
 w: gleefulness drf adjs.all:gleeful
 hyper: gaiety
 g: great merriment
@@ -1098,11 +1098,11 @@ w: homesickness drf adjs.all:homesick
 hyper: nostalgia
 g: a longing to return home
 
-w: hope drf verb.emotion:hope drf verb.emotion:hope1 ant despair
+w: hope drf verb.emotion:hope1 drf verb.emotion:hope ant despair
 hyper: noun.Tops:feeling
 g: the general feeling that some desire will be fulfilled; "in spite of his troubles he never gave up hope"
 
-w: hope1 drf verb.emotion:hope drf verb.emotion:hope1
+w: hope1 drf verb.emotion:hope1 drf verb.emotion:hope
 hyper: anticipation
 g: a specific instance of feeling hopeful; "it revived their hope of winning the pennant"
 
@@ -1110,31 +1110,31 @@ w: hopefulness drf adj.all:hopeful ant hopelessness
 hyper: hope
 g: the feeling you have when you have hope
 
-w: hopelessness drf adjs.all:hopeless3 drf adj.all:hopeless ant hopefulness
+w: hopelessness drf adjs.all:hopeless drf adj.all:hopeless ant hopefulness
 hyper: despair
 g: the despair you feel when you have abandoned hope of comfort or success
 
-w: horror1 drf verb.emotion:horrify1
-hyper: fear
+w: horror drf verb.emotion:horrify
+hyper: fear2
 g: intense and profound fear
 
-w: hostility drf adj.all:hostile1
+w: hostility drf adj.all:hostile
 w: enmity drf adjs.all:inimical
 w: ill_will
 hyper: hate
 g: the feeling of a hostile person; "he could no longer contain his hostility"
 
-w: huffiness drf adjs.all:huffy drf adjs.all:huffy
+w: huffiness drf adjs.all:huffy drf adjs.all:huffy1
 hyper: anger
 g: a passing state of anger and resentment
 
-w: humility ant pride
+w: humility ant pride1
 w: humbleness
 hyper: noun.Tops:feeling
 g: a humble feeling; "he was filled with humility at the sight of the Pope"
 
-w: hysteria1 drf adjs.all:hysterical
-hyper: fear
+w: hysteria drf adjs.all:hysterical1
+hyper: fear2
 g: excessive or uncontrollable fear
 
 w: ill_humor ant good_humor
@@ -1147,21 +1147,21 @@ w: impatience drf adjs.all:impatient
 hyper: fidget
 g: a restless desire for change and excitement
 
-w: inclination drf verb.stative:incline1 drf verb.cognition:incline3 ant disinclination
+w: inclination drf verb.stative:incline drf verb.cognition:incline ant disinclination
 hyper: liking
 g: that toward which you are inclined to feel a liking; "her inclination is for classical music"
 
-w: indifference drf adjs.all:indifferent2 drf adjs.all:indifferent drf adjs.all:indifferent drf adjs.all:indifferent
+w: indifference drf adjs.all:indifferent2 drf adjs.all:indifferent7 drf adjs.all:indifferent9 drf adjs.all:indifferent3
 hyper: unconcern
 g: unbiased impartial unconcern
 
 w: indignation
-w: outrage drf verb.emotion:outrage1
+w: outrage drf verb.emotion:outrage
 hyper: anger
 g: a feeling of righteous anger
 
-w: infatuation drf verb.emotion:infatuate
-hyper: passion
+w: infatuation1 drf verb.emotion:infatuate
+hyper: passion1
 g: a foolish and usually extravagant passion or love or admiration
 
 w: inferiority_complex
@@ -1178,7 +1178,7 @@ w: ungratefulness drf adj.all:ungrateful
 hyper: noun.Tops:feeling
 g: a lack of gratitude
 
-w: insecurity drf adj.all:insecure1
+w: insecurity drf adj.all:insecure2
 hyper: anxiety
 g: the anxiety you experience when you feel vulnerable and insecure
 
@@ -1192,32 +1192,32 @@ w: intertrigo
 hyper: chafing
 g: chafing between two skin surfaces that are in contact (as in the armpit or under the breasts or between the thighs)
 
-w: intimidation1
-hyper: discouragement2
+w: intimidation
+hyper: discouragement
 g: the feeling of discouragement in the face of someone's superior fame or wealth or status etc.
 
-w: intimidation drf verb.emotion:intimidate
-hyper: fear
+w: intimidation1 drf verb.emotion:intimidate1
+hyper: fear2
 g: the feeling of being intimidated; being made to feel afraid or timid
 
 w: intoxication drf verb.emotion:intoxicate
 hyper: exhilaration
 g: excitement and elation beyond the bounds of sobriety; "the intoxication of wealth and power"
 
-w: irascibility drf adjs.all:irascible drf adjs.all:irascible
+w: irascibility drf adjs.all:irascible drf adjs.all:irascible1
 w: short_temper
 w: spleen drf adjs.all:splenetic
 w: quick_temper
 hyper: bad_temper
 g: a feeling of resentful anger
 
-w: irritability drf adjs.all:irritable
+w: irritability drf adjs.all:irritable2
 w: crossness
-w: fretfulness drf adjs.all:fretful
-w: fussiness drf adjs.all:fussy
+w: fretfulness drf adjs.all:fretful1
+w: fussiness drf adjs.all:fussy1
 w: peevishness drf adjs.all:peevish
 w: petulance drf adjs.all:petulant
-w: choler2
+w: choler
 hyper: ill_humor
 g: an irritable petulant feeling
 
@@ -1232,7 +1232,7 @@ g: a feeling of jealous envy (especially of a rival)
 
 w: jitteriness drf adjs.all:jittery
 w: jumpiness drf adjs.all:jumpy
-w: nervousness drf adjs.all:nervous drf adjs.all:nervous
+w: nervousness drf adjs.all:nervous drf adjs.all:nervous2
 w: restiveness drf adjs.all:restive
 hyper: anxiety
 g: the anxious feeling you have when you have the jitters
@@ -1253,7 +1253,7 @@ hyper: good_humor
 hyper: gaiety
 g: feeling jolly and jovial and full of good humor
 
-w: joy drf adj.all:joyous drf verb.emotion:joy1 drf verb.emotion:joy ant sorrow
+w: joy drf adj.all:joyous drf verb.emotion:joy1 drf verb.emotion:joy ant sorrow1
 w: joyousness drf adj.all:joyous
 w: joyfulness drf adjs.all:joyful drf adj.all:joyful
 hyper: emotion
@@ -1269,25 +1269,25 @@ hyper: sympathy
 g: sympathy arising from a kind heart
 
 w: languor
-w: dreaminess drf adjs.all:dreamy drf adjs.all:dreamy
+w: dreaminess drf adjs.all:dreamy drf adjs.all:dreamy1
 hyper: easiness
 g: a relaxed comfortable feeling
 
 w: languor1
 w: lassitude
-w: listlessness drf adjs.all:listless drf adjs.all:listless
+w: listlessness drf adjs.all:listless drf adjs.all:listless1
 hyper: apathy
 g: a feeling of lack of interest or energy
 
 w: leaning
 w: propensity
-w: tendency drf verb.stative:tend1
+w: tendency drf verb.stative:tend
 hyper: inclination
 g: an inclination to do something; "he felt leanings toward frivolity"
 
 w: lecherousness drf adjs.all:lecherous
 w: lust drf adjs.all:lusty drf verb.consumption:lust
-w: lustfulness drf adjs.all:lustful2 drf adjs.all:lustful1 drf adjs.all:lustful
+w: lustfulness drf adjs.all:lustful1 drf adjs.all:lustful drf adjs.all:lustful2
 hyper: sexual_desire
 g: a strong sexual desire
 
@@ -1304,17 +1304,17 @@ w: liking ant dislike
 hyper: noun.Tops:feeling
 g: a feeling of pleasure and enjoyment; "I've always had a liking for reading"; "she developed a liking for gin"
 
-w: lividity drf adjs.all:livid
+w: lividity drf adjs.all:livid3
 hyper: fury
 g: a state of fury so great the face becomes discolored
 
-w: longing drf verb.emotion:long2
+w: longing drf verb.emotion:long
 w: yearning drf verb.emotion:yearn1 drf verb.emotion:yearn
 w: hungriness drf adjs.all:hungry
 hyper: desire
 g: prolonged unfulfilled desire or need
 
-w: love drf verb.emotion:love1 drf verb.emotion:love2 drf verb.emotion:love ant hate
+w: love drf verb.emotion:love1 drf verb.emotion:love drf verb.emotion:love2 ant hate
 hyper: emotion
 g: a strong positive emotion of regard and affection; "his love for his work"; "children need a lot of love"
 
@@ -1329,7 +1329,7 @@ hyper: pining
 g: a pining for a loved one
 
 w: lovingness drf adj.all:loving
-w: caring1 drf adjs.all:caring drf verb.emotion:care2
+w: caring drf adjs.all:caring drf verb.emotion:care1
 hyper: love
 g: a loving feeling
 
@@ -1350,7 +1350,7 @@ w: malice drf adj.all:malicious
 w: maliciousness drf adj.all:malicious
 w: spite drf verb.emotion:spite
 w: spitefulness drf adjs.all:spiteful
-w: venom drf adjs.all:venomous
+w: venom drf adjs.all:venomous1
 hyper: malevolence
 g: feeling a need to see others suffer
 
@@ -1363,7 +1363,7 @@ w: bathos
 hyper: sentimentality
 g: insincere pathos
 
-w: meekness drf adjs.all:meek drf adjs.all:meek
+w: meekness drf adjs.all:meek1 drf adjs.all:meek
 w: submission
 hyper: humility
 g: the feeling of patient, submissive humbleness
@@ -1372,7 +1372,7 @@ w: melancholy
 hyper: sadness
 g: a feeling of thoughtful sadness
 
-w: mellowness drf adjs.all:mellow
+w: mellowness drf adjs.all:mellow2
 hyper: kindheartedness
 g: kindheartedness through maturity or old age
 
@@ -1385,7 +1385,7 @@ w: mercy
 hyper: compassion
 g: the feeling that motivates compassion
 
-w: misanthropy drf adjs.all:misanthropic drf adjs.all:misanthropical drf noun.person:misanthropist
+w: misanthropy drf adjs.all:misanthropic1 drf adjs.all:misanthropical1 drf noun.person:misanthropist
 hyper: hate
 g: hatred of mankind
 
@@ -1423,15 +1423,15 @@ hyper: ill_humor
 g: a sullen gloomy feeling
 
 w: moroseness drf adjs.all:morose
-w: glumness drf adjs.all:glum drf adjs.all:glum
-w: sullenness drf adjs.all:sullen
+w: glumness drf adjs.all:glum drf adjs.all:glum1
+w: sullenness drf adjs.all:sullen1
 hyper: moodiness
 g: a gloomy ill-tempered feeling
 
-w: mournfulness drf adjs.all:mournful1 drf adjs.all:mournful
+w: mournfulness drf adjs.all:mournful drf adjs.all:mournful1
 w: sorrowfulness drf adj.all:sorrowful
 w: ruthfulness drf adjs.all:ruthful
-hyper: sorrow
+hyper: sorrow1
 g: a state of gloomy sorrow
 
 w: murderousness drf adjs.all:murderous
@@ -1464,7 +1464,7 @@ hyper: complex
 g: a complex of males; desire to possess the mother sexually and to exclude the father; said to be a source of personality disorders if unresolved
 
 w: oppression
-w: oppressiveness drf adjs.all:oppressive
+w: oppressiveness drf adjs.all:oppressive1
 hyper: depression
 g: a feeling of being oppressed
 
@@ -1490,14 +1490,14 @@ g: a sudden sharp feeling; "pangs of regret"; "she felt a stab of excitement"; "
 w: panic drf adjs.all:panicky drf verb.emotion:panic1 drf verb.emotion:panic
 w: terror drf noun.person:terrorist drf verb.social:terrorize drf verb.emotion:terrorize drf verb.social:terrorise drf verb.emotion:terrorise drf verb.emotion:terrify
 w: affright drf verb.emotion:affright
-hyper: fear
+hyper: fear2
 g: an overwhelming feeling of fear and anxiety
 
-w: passion2
+w: passion
 hyper: sexual_desire
 g: a feeling of strong sexual desire
 
-w: passion
+w: passion1
 w: passionateness drf adj.all:passionate
 hyper: noun.Tops:feeling
 g: a strong feeling or emotion
@@ -1547,13 +1547,13 @@ hyper: longing
 g: a feeling of deep longing
 
 w: pique drf verb.emotion:pique
-w: temper1 drf verb.change:temper3
-w: irritation1 drf verb.emotion:irritate
+w: temper1 drf verb.change:temper4
+w: irritation drf verb.emotion:irritate
 hyper: annoyance
 g: a sudden outburst of anger; "his temper sparked like damp firewood"
 
 w: placidity
-w: placidness drf adjs.all:placid drf adjs.all:placid
+w: placidness drf adjs.all:placid drf adjs.all:placid1
 hyper: calmness
 g: a feeling of calmness; a quiet and undisturbed feeling
 
@@ -1565,7 +1565,7 @@ w: pleasantness drf adjs.all:pleasant ant unpleasantness
 hyper: pleasure
 g: the feeling caused by agreeable stimuli; one pole of a continuum of states of feeling
 
-w: pleasure drf verb.emotion:please ant pain
+w: pleasure drf verb.emotion:please2 ant pain
 w: pleasance drf adj.all:pleasant
 hyper: noun.Tops:feeling
 g: a fundamental feeling that is hard to define but that people desire to experience; "he was tingling with pleasure"
@@ -1573,7 +1573,7 @@ g: a fundamental feeling that is hard to define but that people desire to experi
 w: preference drf verb.emotion:prefer
 w: penchant
 w: predilection
-w: taste2
+w: taste
 hyper: liking
 g: a strong liking; "my own preference is for good literature"; "the Irish have a penchant for blarney"
 
@@ -1581,12 +1581,12 @@ w: presage
 hyper: foreboding
 g: a foreboding about what is about to happen
 
-w: pride1 drf verb.emotion:pride
+w: pride drf verb.emotion:pride
 hyper: satisfaction
 g: satisfaction with your (or another's) achievements; "he takes pride in his son's success"
 
-w: pride ant humility
-w: pridefulness drf adjs.all:prideful
+w: pride1 ant humility
+w: pridefulness drf adjs.all:prideful1
 hyper: noun.Tops:feeling
 g: a feeling of self-respect and personal worth
 
@@ -1599,13 +1599,13 @@ w: pruriency drf adjs.all:prurient
 w: lasciviousness drf adjs.all:lascivious
 w: carnality drf adjs.all:carnal
 w: lubricity
-hyper: amorousness2
+hyper: amorousness1
 g: feeling morbid sexual desire or a propensity to lewdness
 
 w: puppy_love
 w: calf_love
 w: crush
-w: infatuation2 drf verb.emotion:infatuate
+w: infatuation drf verb.emotion:infatuate
 hyper: love
 g: temporary love of an adolescent
 
@@ -1614,12 +1614,12 @@ hyper: sentiment
 dr: noun.location:Soviet_Union
 g: the sentimental feeling you have about someone you once loved but no longer do
 
-w: regard2
+w: regard
 w: respect drf verb.social:respect
 hyper: affection
 g: a feeling of friendship and esteem; "she mistook his manly regard for love"; "he inspires respect"
 
-w: rejoicing drf verb.emotion:rejoice2 drf verb.emotion:rejoice
+w: rejoicing drf verb.emotion:rejoice drf verb.emotion:rejoice1
 hyper: happiness
 g: a feeling of great happiness
 
@@ -1629,7 +1629,7 @@ w: assuagement drf verb.body:assuage
 hyper: comfort
 g: the feeling that comes when something burdensome is removed or reduced; "as he heard the news he was suddenly flooded with relief"
 
-w: repentance drf adj.all:repentant drf verb.emotion:repent
+w: repentance drf adj.all:repentant drf verb.emotion:repent1
 w: penitence drf adjs.all:penitential drf adjs.all:penitentiary drf adj.all:penitent
 w: penance
 hyper: compunction
@@ -1638,12 +1638,12 @@ g: remorse for your past conduct
 w: repugnance drf adjs.all:repugnant
 w: repulsion
 w: revulsion
-w: horror
+w: horror1
 hyper: disgust
 g: intense aversion
 
-w: resentment drf verb.emotion:resent
-w: bitterness drf adjs.all:bitter
+w: resentment drf verb.emotion:resent1
+w: bitterness drf adjs.all:bitter5
 w: gall drf verb.emotion:gall
 w: rancor drf adjs.all:rancorous
 w: rancour
@@ -1660,7 +1660,7 @@ hyper: sexual_pleasure
 g: sexual pleasure obtained by inflicting harm (physical or psychological) on others
 
 w: sadness drf adj.all:sad ant happiness
-w: unhappiness drf adj.all:unhappy4 drf adj.all:unhappy
+w: unhappiness drf adj.all:unhappy1 drf adj.all:unhappy
 hyper: noun.Tops:feeling
 g: emotions experienced when not in a state of well-being
 
@@ -1682,9 +1682,9 @@ w: satyriasis
 hyper: sexual_desire
 g: abnormally intense sexual desire in men
 
-w: scare drf adjs.all:scarey drf verb.emotion:scare
+w: scare drf adjs.all:scarey drf verb.emotion:scare1
 w: panic_attack
-hyper: fear
+hyper: fear2
 g: a sudden attack of fear
 
 w: Schadenfreude
@@ -1703,13 +1703,13 @@ hyper: dislike
 dr: noun.location:Scotland
 g: a strong dislike; "they took a scunner against the United States"
 
-w: security drf adj.all:secure1
+w: security drf adj.all:secure2
 hyper: fearlessness
 g: freedom from anxiety or fear; "the watch dog gave her a feeling of security"
 
-w: self-consciousness drf adjs.all:self-conscious
-w: uneasiness1 drf adjs.all:uneasy
-w: uncomfortableness drf adj.all:uncomfortable1
+w: self-consciousness drf adjs.all:self-conscious1
+w: uneasiness1 drf adjs.all:uneasy1
+w: uncomfortableness drf adj.all:uncomfortable
 hyper: embarrassment
 g: embarrassment deriving from the feeling that others are critically aware of you
 
@@ -1724,16 +1724,16 @@ g: shame resulting from strong dislike of yourself or your actions
 
 w: self-esteem
 w: self-pride
-hyper: pride
+hyper: pride1
 g: a feeling of pride in yourself
 
 w: self-pity
-hyper: sorrow
+hyper: sorrow1
 g: a feeling of sorrow (often self-indulgent) over your own sufferings
 
 w: self-torture
 w: self-torment
-hyper: distress2
+hyper: distress
 g: self-imposed distress
 
 w: sensation
@@ -1744,15 +1744,15 @@ w: sensibility
 hyper: sensitivity
 g: refined sensitivity to pleasurable or painful impressions; "cruelty offended his sensibility"
 
-w: sensitivity drf adj.all:sensitive2
-w: sensitiveness drf adj.all:sensitive2
+w: sensitivity drf adj.all:sensitive
+w: sensitiveness drf adj.all:sensitive
 hyper: noun.Tops:feeling
-attr: adj.all:sensitive2
-attr: adj.all:insensitive2
+attr: adj.all:sensitive
+attr: adj.all:insensitive
 g: sensitivity to emotional feelings (of self and others)
 
 w: sensuality drf adjs.all:sensual
-w: sensualness drf adjs.all:sensual drf adjs.all:sensual
+w: sensualness drf adjs.all:sensual drf adjs.all:sensual1
 w: sensualism drf noun.person:sensualist
 hyper: sexual_desire
 g: desire for sensual pleasures
@@ -1761,7 +1761,7 @@ w: sensuousness drf adjs.all:sensuous
 hyper: sensibility
 g: a sensuous feeling
 
-w: sentiment drf adjs.all:sentimental drf adjs.all:sentimental
+w: sentiment drf adjs.all:sentimental drf adjs.all:sentimental1
 hyper: noun.Tops:feeling
 g: tender, romantic, or nostalgic feeling or emotion
 
@@ -1769,7 +1769,7 @@ w: sentimentality drf adjs.all:sentimental
 hyper: sentiment
 g: extravagant or affected feeling or emotion
 
-w: sex drf adj.all:sexy4 drf adj.all:sexy drf verb.emotion:sex
+w: sex drf adj.all:sexy drf adj.all:sexy1 drf verb.emotion:sex
 w: sexual_urge
 hyper: noun.Tops:feeling
 g: all of the feelings resulting from the urge to gratify sexual impulses; "he wanted a better sex life"; "the film contained no sex or violence"
@@ -1794,7 +1794,7 @@ hyper: noun.Tops:feeling
 g: a painful emotion resulting from an awareness of inadequacy or guilt
 
 w: shamefacedness drf adjs.all:shamefaced2 drf adjs.all:shamefaced1 drf adjs.all:shamefaced
-w: sheepishness drf adjs.all:sheepish
+w: sheepishness drf adjs.all:sheepish1
 hyper: embarrassment
 g: feeling embarrassed about yourself
 
@@ -1821,21 +1821,21 @@ hyper: affection
 g: a sentimental affection; "she had a soft spot for her youngest son"
 
 w: softheartedness drf adj.all:softhearted
-w: tenderness drf adj.all:tender3
-hyper: concern
+w: tenderness2 drf adj.all:tender
+hyper: concern1
 g: a feeling of concern for the welfare of someone (especially someone defenseless)
 
 w: solicitude
-w: solicitousness drf adjs.all:solicitous drf adjs.all:solicitous
-hyper: concern
+w: solicitousness drf adjs.all:solicitous drf adjs.all:solicitous1
+hyper: concern1
 g: a feeling of excessive concern
 
-w: sorrow drf verb.emotion:sorrow ant joy
+w: sorrow1 drf verb.emotion:sorrow ant joy
 hyper: sadness
 g: an emotion of great sadness associated with loss or bereavement; "he tried to express his sorrow at her loss"
 
-w: sorrow1 drf verb.emotion:sorrow
-w: regret drf verb.communication:regret2 drf verb.emotion:regret1 drf verb.emotion:regret
+w: sorrow drf verb.emotion:sorrow
+w: regret drf verb.communication:regret1 drf verb.emotion:regret drf verb.emotion:regret1
 w: rue drf verb.emotion:rue
 w: ruefulness drf adjs.all:rueful
 hyper: sadness
@@ -1847,7 +1847,7 @@ hyper: noun.Tops:feeling
 g: deep feeling or emotion
 
 w: stage_fright
-hyper: fear
+hyper: fear2
 g: fear that affects a person about to face an audience
 
 w: stewing
@@ -1858,34 +1858,34 @@ w: stir drf verb.emotion:stir drf verb.emotion:stir1 drf verb.perception:stir
 hyper: agitation
 g: emotional agitation and excitement
 
-w: stomach1
+w: stomach
 hyper: inclination
 g: an inclination or liking for things involving conflict or difficulty or unpleasantness; "he had no stomach for a fight"
 
-w: stomach drf verb.consumption:stomach
+w: stomach1 drf verb.consumption:stomach
 hyper: appetite
 g: an appetite for food; "exercise gave him a good stomach for dinner"
 
 w: storminess drf adjs.all:stormy
-hyper: passion
+hyper: passion1
 g: violent passion in speech or action; "frightened by the storminess of their argument"
 
 w: stupefaction drf verb.cognition:stupefy
 hyper: astonishment
 g: a feeling of stupefied astonishment
 
-w: suffering1 drf verb.perception:suffer drf verb.body:suffer
+w: suffering1 drf verb.perception:suffer drf verb.body:suffer2
 w: hurt1 drf verb.emotion:hurt1 drf verb.body:hurt1
 hyper: pain
 g: feelings of mental or physical pain
 
-w: sulkiness drf adjs.all:sulky
+w: sulkiness1 drf adjs.all:sulky
 w: huffishness drf adjs.all:huffish
 hyper: resentment
 g: a feeling of sulky resentment
 
 w: sulk drf adjs.all:sulky drf verb.stative:sulk
-w: sulkiness1 drf adjs.all:sulky
+w: sulkiness drf adjs.all:sulky
 hyper: temper
 g: a mood or display of sullen aloofness or withdrawal; "stayed home in a sulk"
 
@@ -1898,7 +1898,7 @@ hyper: guilt
 hp: noun.state:posttraumatic_stress_disorder
 g: a deep feeling of guilt often experienced by those who have survived some catastrophe that took the lives of many others; derives in part from a feeling that they did not do enough to save the others who perished and in part from feelings of being unworthy relative to those who died; "survivor guilt was first noted in those who survived the Holocaust"
 
-w: suspense2
+w: suspense
 hyper: apprehension
 g: apprehension about what is going to happen
 
@@ -1914,7 +1914,7 @@ w: swivet
 hyper: panic
 g: a panic or extreme discomposure; "it threw her into a swivet"
 
-w: sympathy drf adj.all:sympathetic drf verb.emotion:sympathize
+w: sympathy drf adj.all:sympathetic1 drf verb.emotion:sympathize1
 w: fellow_feeling
 hyper: noun.Tops:feeling
 g: sharing the feelings of others (especially feelings of sorrow or anguish)
@@ -1928,23 +1928,23 @@ hyper: dislike
 g: dislike for new technology
 
 w: temper
-w: mood drf adjs.all:moody
+w: mood drf adjs.all:moody1
 w: humor drf verb.communication:humor
 w: humour drf verb.communication:humour
 hyper: noun.Tops:feeling
 g: a characteristic (habitual or relatively temporary) state of feeling; "whether he praised or cursed me depended on his temper at the time"; "he was in a bad humor"
 
-w: temptation drf verb.communication:tempt1
+w: temptation drf verb.communication:tempt
 hyper: desire
 g: the desire to have or do something that you know you should avoid; "he felt the temptation and his will power weakened"
 
-w: tenderness3 drf adj.all:tender3
-w: tenderheartedness drf adjs.all:tenderhearted drf adjs.all:tenderhearted
+w: tenderness drf adj.all:tender
+w: tenderheartedness drf adjs.all:tenderhearted drf adjs.all:tenderhearted1
 hyper: compassion
 g: warm compassionate feelings
 
 w: testiness drf adjs.all:testy
-w: touchiness1 drf adjs.all:touchy
+w: touchiness drf adjs.all:touchy
 w: tetchiness drf adjs.all:tetchy
 hyper: irritability
 g: feeling easily irritated
@@ -1961,10 +1961,10 @@ w: throes
 hyper: suffering1
 g: violent pangs of suffering; "death throes"
 
-w: timidity drf adj.all:timid
-w: timidness drf adjs.all:timid drf adj.all:timid drf adj.all:timid9
+w: timidity drf adj.all:timid1
+w: timidness drf adjs.all:timid drf adj.all:timid1 drf adj.all:timid
 w: timorousness drf adjs.all:timid
-hyper: fear
+hyper: fear2
 g: fear of the unknown or unfamiliar or fear of making decisions
 
 w: titillation
@@ -1975,9 +1975,9 @@ w: togetherness drf adjs.all:together
 hyper: closeness
 g: affectionate closeness; "togetherness is the new wonder ingredient in marriage"
 
-w: tranquillity drf adjs.all:tranquil
-w: tranquility drf adjs.all:tranquil
-w: quietness drf adjs.all:quiet drf adj.all:quiet2
+w: tranquillity drf adjs.all:tranquil1
+w: tranquility drf adjs.all:tranquil1
+w: quietness drf adjs.all:quiet2 drf adj.all:quiet
 w: quietude
 hyper: calmness
 g: a state of peace and quiet
@@ -1991,7 +1991,7 @@ hyper: exultation
 g: the exultation of victory
 
 w: tsoris
-hyper: distress2
+hyper: distress
 dt: noun.communication:Yiddish
 g: (Yiddish) trouble and suffering
 
@@ -2000,9 +2000,9 @@ w: turmoil
 hyper: agitation
 g: violent agitation
 
-w: umbrage drf adjs.all:umbrageous
+w: umbrage drf adjs.all:umbrageous1
 w: offense
-w: offence drf verb.emotion:offend1
+w: offence drf verb.emotion:offend2
 hyper: anger
 g: a feeling of anger caused by being offended; "he took offence at my question"
 
@@ -2010,7 +2010,7 @@ w: unassertiveness drf adj.all:unassertive
 hyper: diffidence
 g: diffidence about self promotion
 
-w: unconcern ant concern
+w: unconcern ant concern1
 hyper: noun.Tops:feeling
 g: a feeling of lack of concern
 
@@ -2018,7 +2018,7 @@ w: undertow
 hyper: inclination
 g: an inclination contrary to the strongest or prevailing feeling; "his account had a poignant undertow of regret"
 
-w: unfriendliness drf adjs.all:unfriendly1 ant friendliness
+w: unfriendliness drf adjs.all:unfriendly ant friendliness
 hyper: dislike
 g: dislike experienced as an absence of friendliness
 
@@ -2039,12 +2039,12 @@ w: velleity
 hyper: wish
 g: a mere wish, unaccompanied by effort to obtain
 
-w: vindictiveness drf adjs.all:vindictive drf adjs.all:vindictive
+w: vindictiveness drf adjs.all:vindictive drf adjs.all:vindictive1
 w: vengefulness drf adjs.all:vengeful
 hyper: malevolence
 g: a malevolent desire for revenge
 
-w: warmheartedness1 drf adj.all:warmhearted
+w: warmheartedness drf adj.all:warmhearted
 w: warmth
 hyper: lovingness
 g: a warmhearted feeling
@@ -2062,13 +2062,13 @@ w: tearfulness drf adjs.all:tearful drf adj.all:tearful
 hyper: sadness
 g: sadness expressed by weeping
 
-w: weight drf adjs.all:weighty
+w: weight drf adjs.all:weighty2
 hyper: oppression
 g: an oppressive feeling of heavy force; "bowed down by the weight of responsibility"
 
-w: wildness drf adjs.all:wild
+w: wildness drf adjs.all:wild4
 w: abandon
-hyper: passion
+hyper: passion1
 g: a feeling of extreme emotional intensity; "the wildness of his anger"
 
 w: willies
@@ -2079,13 +2079,13 @@ w: wishfulness drf adj.all:wishful
 hyper: longing
 g: an unrealistic yearning
 
-w: wish drf verb.emotion:wish2 drf verb.emotion:wish1 drf verb.emotion:wish drf verb.communication:wish2
-w: wishing drf verb.emotion:wish
-w: want drf verb.emotion:want drf verb.cognition:want1
+w: wish drf verb.emotion:wish drf verb.emotion:wish1 drf verb.emotion:wish2 drf verb.communication:wish
+w: wishing drf verb.emotion:wish2
+w: want drf verb.emotion:want drf verb.cognition:want
 hyper: desire
 g: a specific feeling of desire; "he got his wish"; "he was above all wishing and desire"
 
-w: wistfulness drf adjs.all:wistful1
+w: wistfulness drf adjs.all:wistful
 hyper: longing
 g: a sadly pensive longing
 
@@ -2095,13 +2095,13 @@ hyper: indifference
 g: avoiding emotional involvement
 
 w: woe
-w: woefulness drf adjs.all:woeful
+w: woefulness drf adjs.all:woeful1
 hyper: mournfulness
 g: intense mournfulness
 
-w: wonder drf verb.communication:wonder12
-w: wonderment drf verb.communication:wonder12
-w: admiration2
+w: wonder drf verb.communication:wonder
+w: wonderment drf verb.communication:wonder
+w: admiration
 hyper: astonishment
 g: the feeling aroused by something strange and surprising
 
@@ -2110,25 +2110,25 @@ w: Weltschmerz
 hyper: melancholy
 g: sadness on thinking about the evils of the world
 
-w: worry drf verb.emotion:worry12 drf verb.emotion:worry
-w: trouble3 drf verb.emotion:trouble drf verb.emotion:trouble1
+w: worry drf verb.emotion:worry1 drf verb.emotion:worry
+w: trouble drf verb.emotion:trouble1 drf verb.emotion:trouble
 hyper: anxiety
 g: a strong feeling of anxiety; "his worry over the prospect of being fired"; "it is not work but worry that kills"; "he wanted to die and end his troubles"
 
-w: worship1 drf verb.emotion:worship
+w: worship drf verb.emotion:worship1
 w: adoration
 hyper: love
 g: a feeling of profound love and admiration
 
 w: wound
-hyper: distress2
+hyper: distress
 g: a figurative injury (to your feelings or pride); "he feared that mentioning it might reopen the wound"; "deep in her breast lives the silent wound"; "The right reader of a good poem can tell the moment it strikes him that he has taken an immortal wound--that he will never get over it"--Robert Frost
 
 w: wrath
 hyper: fury
 g: intense anger (usually on an epic scale)
 
-w: zeal2 drf adjs.all:zealous
+w: zeal1 drf adjs.all:zealous
 hyper: ardor2
 g: excessive fervor to do something or accomplish some end; "he had an absolute zeal for litigation"
 

@@ -1,6 +1,6 @@
-w: abdomen drf adj.pert:abdominal
+w: abdomen1 drf adj.pert:abdominal
 w: venter drf adj.all:ventral
-w: stomach1 drf adj.pert:stomachal
+w: stomach drf adj.pert:stomachal
 w: belly
 hyper: body_part
 hp: torso
@@ -8,25 +8,25 @@ g: the region of the body of a vertebrate between the thorax and the pelvis
 
 w: abdominal_aorta
 hyper: aorta
-hp: abdomen
+hp: abdomen1
 g: a branch of the descending aorta
 
 w: abdominal_cavity
-w: abdomen1 drf adj.pert:abdominal
+w: abdomen drf adj.pert:abdominal
 hyper: cavity
-hp: abdomen
+hp: abdomen1
 g: the cavity containing the major viscera; in mammals it is separated from the thorax by the diaphragm
 
 w: abdominal_wall
 hyper: wall
-hp: abdomen
+hp: abdomen1
 g: a wall of the abdomen
 
 w: abdominal
 w: abdominal_muscle
-w: ab1
+w: ab
 hyper: skeletal_muscle
-hp: abdomen
+hp: abdomen1
 g: the muscles of the abdomen
 
 w: abducens_muscle
@@ -45,7 +45,7 @@ w: sixth_cranial_nerve
 hyper: cranial_nerve
 g: a small motor nerve supplying the lateral rectus muscle of the eye
 
-w: abductor drf verb.contact:abduct
+w: abductor drf verb.contact:abduct1
 w: abductor_muscle
 hyper: skeletal_muscle
 g: a muscle that draws a body part away from the median line
@@ -112,10 +112,10 @@ g: a large tendon that runs from the heel to the calf
 
 w: achromatin drf adj.pert:achromatinic
 hyper: body_substance
-hp: nucleus
+hp: nucleus1
 g: the part of a cell nucleus that is relatively uncolored by stains or dyes
 
-w: acinus drf adj.pert:acinar1 drf adj.pert:acinic drf adj.pert:acinous
+w: acinus drf adj.pert:acinar drf adj.pert:acinic drf adj.pert:acinous
 hyper: sac
 hp: gland
 g: one of the small sacs or saclike dilations in a compound gland
@@ -154,7 +154,7 @@ hyper: scar_tissue
 g: a fibrous band of scar tissue that binds together normally separate anatomical structures
 
 w: adipose_tissue
-w: fat drf adj.all:fat2 drf adj.all:fatty drf verb.consumption:fat
+w: fat drf adj.all:fat drf adj.all:fatty drf verb.consumption:fat
 w: fatty_tissue
 hyper: animal_tissue
 g: a kind of body tissue containing stored fat that serves as a source of energy; it also cushions and insulates vital organs; "fatty tissue protected them from the severe cold"
@@ -171,14 +171,14 @@ hp: adrenal_gland
 g: the cortex of the adrenal gland; secretes corticosterone and sex hormones
 
 w: adrenal_gland
-w: adrenal drf adj.pert:adrenal
+w: adrenal drf adj.pert:adrenal1
 w: suprarenal_gland
 hyper: endocrine_gland
 hp: kidney
 g: either of a pair of complex endocrine glands situated near the kidney
 
 w: adrenal_medulla
-hyper: medulla
+hyper: medulla1
 hyper: endocrine_gland
 hp: adrenal_gland
 g: the medulla of the adrenal gland; secretes epinephrine
@@ -202,14 +202,14 @@ w: adult_female_body
 w: woman's_body
 hyper: adult_body
 hyper: female_body
-hp: noun.person:woman
+hp: noun.person:woman1
 g: the body of an adult woman
 
 w: adult_male_body
 w: man's_body
 hyper: adult_body
 hyper: male_body
-hp: noun.person:man
+hp: noun.person:man6
 g: the body of an adult man
 
 w: Afro
@@ -262,13 +262,13 @@ g: (genetics) either of a pair (or series) of alternative forms of a gene that c
 w: alpha_receptor
 w: alpha-adrenergic_receptor
 w: alpha-adrenoceptor
-hyper: receptor1
+hyper: receptor
 hp: sympathetic_nervous_system
 g: receptors postulated to exist on nerve cell membranes of the sympathetic nervous system in order to explain the specificity of certain agents that affect only some sympathetic activities (such as vasoconstriction and relaxation of intestinal muscles and contraction of smooth muscles)
 
 w: alveolar_arch
 hyper: process
-hp: jaw
+hp: jaw1
 g: the part of the upper or lower jawbones in which the teeth are set
 
 w: alveolar_artery
@@ -286,11 +286,11 @@ w: alveolar_ridge
 w: gum_ridge
 w: alveolar_process
 hyper: process
-hp: jaw
+hp: jaw1
 g: a ridge that forms the borders of the upper and lower jaws and contains the sockets of the teeth
 
 w: alveolus drf adjs.all:alveolate
-w: air_sac3
+w: air_sac
 w: air_cell
 hyper: sac
 hp: lung
@@ -337,7 +337,7 @@ hp: anus
 g: the sphincter muscle of the anus
 
 w: anastomosis drf adj.pert:anastomotic
-w: inosculation drf verb.contact:inosculate
+w: inosculation drf verb.contact:inosculate1
 hyper: noun.state:junction
 g: a natural or surgical joining of parts or branches of tubular structures so as to make or become continuous
 
@@ -371,7 +371,7 @@ w: anisogamete drf adj.pert:anisogametic
 hyper: gamete
 g: either of a pair of unlike gametes especially those unlike in size
 
-w: ankle drf noun.artifact:anklet2 drf noun.artifact:anklet1 drf noun.artifact:anklet
+w: ankle drf noun.artifact:anklet drf noun.artifact:anklet1 drf noun.artifact:anklet2
 w: ankle_joint
 w: mortise_joint
 w: articulatio_talocruralis
@@ -387,7 +387,7 @@ hyper: bone
 hp: ankle
 g: the bone in the ankle that articulates with the leg bones to form the ankle joint
 
-w: antagonist drf adj.all:antagonistic2
+w: antagonist drf adj.all:antagonistic1
 hyper: antagonistic_muscle
 g: a muscle that relaxes while another contracts; "when bending the elbow the triceps are the antagonist"
 
@@ -491,7 +491,7 @@ w: aponeurosis drf adj.pert:aponeurotic
 hyper: fascia
 g: any of the deeper and thicker fascia that attach muscles to bones; resemble flattened tendons
 
-w: apophysis drf adj.pert:apophyseal1
+w: apophysis drf adj.pert:apophyseal
 hyper: process
 hp: vertebra
 dt: noun.cognition:anatomy
@@ -553,7 +553,7 @@ g: curved arteries of the kidney
 w: arcuate_artery
 w: arteria_arcuata
 hyper: artery
-hp: foot1
+hp: foot
 g: curved artery in the foot
 
 w: arcuate_vein_of_the_kidney
@@ -577,7 +577,7 @@ w: region
 hyper: body_part
 g: a part of an animal that has a special function or is supplied by a given artery or nerve; "in the abdominal region"
 
-w: areola2
+w: areola
 hyper: interstice
 g: small space in a tissue or body part such as the area between veins on a leaf or an insect's wing
 
@@ -593,7 +593,7 @@ g: small circular area such as that around the human nipple or an inflamed area 
 
 w: arm drf noun.artifact:armlet
 hyper: limb
-hp: body
+hp: body2
 hp: noun.animal:homo
 g: a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb
 
@@ -608,15 +608,15 @@ w: axilla drf adj.pert:axillary1
 w: axillary_cavity
 w: axillary_fossa
 hyper: cavity
-hp: shoulder
+hp: shoulder1
 g: the hollow under the arm where it is joined to the shoulder; "they were up to their armpits in water"
 
-w: arse
+w: arse1
 w: arsehole
 w: asshole
 w: bunghole
 hyper: anus
-du: noun.communication:slang
+du: noun.communication:slang1
 g: vulgar slang for anus
 
 w: arterial_blood
@@ -665,7 +665,7 @@ g: a movable speech organ
 
 w: articulatory_system
 hyper: system
-hp: body
+hp: body2
 g: the system of joints in the body
 
 w: arytenoid
@@ -803,16 +803,16 @@ hyper: sensory_system
 dt: noun.cognition:hearing
 g: the sensory system for hearing
 
-w: auricle1 drf adj.pert:auricular1
+w: auricle drf adj.pert:auricular2
 w: atrial_auricle
 w: auricula_atrii
 hyper: pouch
 hp: atrium_cordis
 g: a small conical pouch projecting from the upper anterior part of each atrium of the heart
 
-w: auricle2 drf adj.pert:auricular2 drf adjs.all:auriculate
+w: auricle1 drf adj.pert:auricular1 drf adjs.all:auriculate
 w: pinna
-w: ear1
+w: ear
 hyper: cartilaginous_structure
 hp: external_ear
 g: the externally visible cartilaginous structure of the external ear
@@ -827,7 +827,7 @@ g: a pouch projecting from the top front of each atrium of the heart
 w: auricular_artery
 w: arteria_auricularis
 hyper: artery
-hp: ear
+hp: ear1
 g: artery that supplies blood to the ear
 
 w: auricular_vein
@@ -928,8 +928,8 @@ w: posterior1 drf adj.all:posterior
 hyper: tooth
 g: a tooth situated at the back of the mouth
 
-w: back
-w: dorsum1 drf adj.all:dorsal
+w: back1
+w: dorsum drf adj.all:dorsal
 hyper: body_part
 hp: torso
 g: the posterior part of a human (or animal) body from the neck to the end of the spine; "his back was nicely tanned"
@@ -981,7 +981,7 @@ g: a large vein passing along the medial surface of the temporal lobe and emptyi
 w: basilar_artery
 w: arteria_basilaris
 hyper: artery
-hp: head
+hp: head1
 g: an unpaired artery; supplies the pons and cerebellum and the back part of the cerebrum and the inner ear
 
 w: basilar_membrane
@@ -1010,7 +1010,7 @@ w: honker
 w: hooter
 w: nozzle
 w: snoot
-w: snout1
+w: snout
 w: schnozzle
 w: schnoz
 hyper: nose
@@ -1021,7 +1021,7 @@ w: beard drf verb.stative:beard
 w: face_fungus
 w: whiskers
 hyper: facial_hair
-hp: face
+hp: face1
 hp: adult_male_body
 g: the hair growing on the lower part of a man's face
 
@@ -1033,7 +1033,7 @@ w: beehive
 hyper: hairdo
 g: a hairdo resembling a beehive
 
-w: belly2 drf verb.change:belly
+w: belly1 drf verb.change:belly
 w: paunch drf adjs.all:paunchy
 hyper: adipose_tissue
 hp: torso
@@ -1046,7 +1046,7 @@ g: a cell that produces insulin in the isles of Langerhans in the pancreas
 w: beta_receptor
 w: beta-adrenergic_receptor
 w: beta-adrenoceptor
-hyper: receptor1
+hyper: receptor
 hp: sympathetic_nervous_system
 g: receptors postulated to exist on nerve cell membranes of the sympathetic nervous system in order to explain the specificity of certain agents that affect only some sympathetic activities (such as vasodilation and increased heart beat)
 
@@ -1070,10 +1070,10 @@ w: big_toe
 w: great_toe
 w: hallux
 hyper: toe1
-hp: foot1
+hp: foot
 g: the first largest innermost toe
 
-w: bile drf adj.pert:biliary2 drf adj.pert:biliary drf adj.pert:bilious
+w: bile drf adj.pert:biliary drf adj.pert:biliary1 drf adj.pert:bilious
 w: gall
 hyper: digestive_juice
 g: a digestive juice secreted by the liver and stored in the gallbladder; aids in the digestion of fats
@@ -1128,7 +1128,7 @@ hyper: noun.location:point
 hp: retina
 g: the point where the optic nerve enters the retina; not sensitive to light
 
-w: blister drf adjs.all:blistery drf verb.change:blister
+w: blister drf adjs.all:blistery1 drf verb.change:blister1
 w: bulla
 w: bleb drf adjs.all:blebby
 hyper: vesicle
@@ -1192,16 +1192,16 @@ hp: noun.Tops:organism
 g: any part of an organism such as an organ or extremity
 
 w: body_substance
-hyper: noun.Tops:substance
-hp: body
+hyper: noun.Tops:substance1
+hp: body2
 g: the substance of the body
 
-w: body2 drf verb.stative:body
+w: body1 drf verb.stative:body
 w: dead_body
 hyper: noun.Tops:natural_object
 g: a natural object consisting of a dead animal or person; "they found the body in the lake"
 
-w: body drf adjs.all:bodily drf adj.pert:bodily1
+w: body2 drf adjs.all:bodily1 drf adj.pert:bodily
 w: organic_structure
 w: physical_structure
 hyper: noun.Tops:natural_object
@@ -1215,7 +1215,7 @@ hp: bone
 g: a cell that is part of a bone
 
 w: bone drf adj.pert:bony drf adj.all:bony drf adj.all:boney drf bonelet
-w: os
+w: os1
 hyper: connective_tissue
 hp: endoskeleton
 hs: noun.animal:horn1
@@ -1282,7 +1282,7 @@ w: vena_brachiocephalica
 hyper: vein
 g: veins formed by the union of the internal jugular and subclavian veins
 
-w: braid drf verb.contact:braid
+w: braid drf verb.contact:braid1
 w: plait drf verb.contact:plait
 w: tress
 w: twist drf verb.change:twist
@@ -1297,7 +1297,7 @@ g: a nerve cell in the brain
 w: brain drf verb.contact:brain1 drf verb.contact:brain
 w: encephalon
 hyper: neural_structure
-hp: head
+hp: head1
 hp: central_nervous_system
 g: that part of the central nervous system that includes all the higher nervous centers; enclosed within the skull; continuous with the spinal cord
 
@@ -1319,7 +1319,7 @@ hp: adult_female_body
 g: either of two soft fleshy milk-secreting glandular organs on the chest of a woman
 
 w: breast1 drf verb.stative:breast
-w: chest1
+w: chest
 hyper: external_body_part
 hp: thorax1
 g: the front of the trunk from the neck to the abdomen; "he beat his breast in anger"
@@ -1370,7 +1370,7 @@ g: either of the two main branches of the trachea
 w: brow
 w: forehead
 hyper: feature
-hp: face
+hp: face1
 g: the part of the face above the eyes
 
 w: brush_cut
@@ -1391,7 +1391,7 @@ g: a branch of the maxillary artery that supplies blood to the buccinator muscle
 
 w: buccal_cavity
 hyper: cavity
-hp: mouth1
+hp: mouth
 g: the cavity between the jaws and the cheeks
 
 w: bucktooth
@@ -1402,7 +1402,7 @@ w: buff
 hyper: skin
 g: bare skin; naked; "swimming in the buff"
 
-w: bulb1 drf adjs.all:bulbous
+w: bulb1 drf adjs.all:bulbous1
 hyper: structure
 g: a rounded dilation or expansion in a canal or vessel or organ
 
@@ -1439,7 +1439,7 @@ g: either of the two large fleshy masses of muscular tissue that form the human 
 
 w: buttocks
 w: nates
-w: arse1
+w: arse
 w: butt
 w: backside
 w: bum
@@ -1456,7 +1456,7 @@ w: rear_end
 w: rump
 w: stern
 w: seat
-w: tail1
+w: tail
 w: tail_end
 w: tooshie
 w: tush
@@ -1475,10 +1475,10 @@ g: a surgically created shunt (usually around a damaged part)
 
 w: cadaver drf adj.pert:cadaverous drf adj.pert:cadaveric
 w: corpse
-w: stiff du noun.communication:slang
+w: stiff du noun.communication:slang1
 w: clay
 w: remains
-hyper: body2
+hyper: body1
 g: the dead body of a human being; "the cadaver was intended for dissection"; "the end of the police search was the discovery of a corpse"; "the murderer confessed that he threw the stiff in the river"; "honor comes to bless the turf that wraps their clay"
 
 w: calcarine_sulcus
@@ -1528,7 +1528,7 @@ w: cancer_juice
 hyper: juice
 g: a milky substance found in certain cancerous growths
 
-w: canine drf adj.pert:canine2
+w: canine drf adj.pert:canine
 w: canine_tooth
 w: eyetooth
 w: eye_tooth
@@ -1538,7 +1538,7 @@ hyper: tooth
 g: one of the four pointed conical teeth (two in each jaw) located between the incisors and the premolars
 
 w: canthus
-hyper: noun.location:corner
+hyper: noun.location:corner3
 hp: eye
 g: either of the corners of the eye where the upper and lower eyelids meet
 
@@ -1557,7 +1557,7 @@ w: os_capitatum
 hyper: carpal_bone
 g: the wrist bone with a rounded head shape that articulates with the 3rd metacarpus
 
-w: capsule drf adj.pert:capsular
+w: capsule drf adj.pert:capsular1
 hyper: structure
 g: a structure that encloses a body part
 
@@ -1591,7 +1591,7 @@ g: any of various keel-shaped structures or ridges such as that on the breastbon
 
 w: carina_fornicis
 hyper: carina
-hp: fornix
+hp: fornix1
 g: ridge on the lower surface of the fornix of the brain
 
 w: carnassial_tooth
@@ -1659,10 +1659,10 @@ hp: corpus_striatum
 g: a tail-shaped basal ganglion located in a lateral ventricle of the brain
 
 w: cauliflower_ear
-hyper: auricle2
+hyper: auricle1
 g: an auricle deformed by injury; common among boxers
 
-w: caul
+w: caul1
 w: veil
 w: embryonic_membrane
 hyper: fetal_membrane
@@ -1678,7 +1678,7 @@ w: cavity
 w: bodily_cavity
 w: cavum
 hyper: structure
-hp: body
+hp: body2
 dt: noun.cognition:anatomy
 g: (anatomy) a natural hollow or sinus within the body
 
@@ -1818,7 +1818,7 @@ g: any of the arteries supplying blood to the cerebral cortex
 
 w: cerebral_cortex
 w: cerebral_mantle
-w: pallium1
+w: pallium
 w: cortex1 drf adj.pert:cortical
 hyper: neural_structure
 hp: cerebrum
@@ -1879,7 +1879,7 @@ hyper: vertebra
 hp: neck
 g: one of 7 vertebrae in the human spine located in the neck region
 
-w: cervix2 drf adj.pert:cervical1
+w: cervix1 drf adj.pert:cervical
 w: uterine_cervix
 w: cervix_uteri
 hyper: orifice
@@ -1892,7 +1892,7 @@ g: an enclosed volume in the body; "the chambers of his heart were healthy"
 
 w: cheek
 hyper: feature
-hp: face
+hp: face1
 g: either side of the face below the eyes
 
 w: cheek_muscle
@@ -1929,7 +1929,7 @@ g: the cavity in the vertebrate body enclosed by the ribs between the diaphragm 
 
 w: chiasma
 w: chiasm drf adj.pert:chiasmal drf adj.pert:chiasmic drf adj.pert:chiasmatic
-w: decussation drf verb.motion:decussate1
+w: decussation drf verb.motion:decussate
 hyper: structure
 g: an intersection or crossing of two tracts in the form of the letter X
 
@@ -1939,13 +1939,13 @@ g: a roll of hair worn at the nape of the neck
 
 w: child's_body
 hyper: juvenile_body
-hp: noun.person:child
+hp: noun.person:child3
 g: the body of a human child
 
 w: chin
-w: mentum2
+w: mentum
 hyper: feature
-hp: face
+hp: face1
 g: the protruding part of the lower jaw
 
 w: cholecystokinin
@@ -1953,10 +1953,10 @@ hyper: gastrointestinal_hormone
 g: a gastrointestinal hormone that stimulates the secretion of pancreatic enzymes and the contraction and emptying of the gall bladder; its release is stimulated by the presence of fatty acids and amino acids in the small intestine
 
 w: chop
-hyper: jaw
+hyper: jaw1
 g: a jaw; "I'll hit him on the chops"
 
-w: chopper drf verb.contact:chop1 drf verb.contact:chop
+w: chopper drf verb.contact:chop1 drf verb.contact:chop2
 w: pearly drf adjs.all:pearly
 hyper: tooth
 g: informal terms for a human `tooth'
@@ -1991,13 +1991,13 @@ g: one of two identical strands into which a chromosome splits during mitosis
 w: chromatin drf adj.pert:chromatinic
 w: chromatin_granule
 hyper: body_substance
-hp: nucleus
+hp: nucleus1
 hp: chromosome
 g: the readily stainable substance of a cell nucleus consisting of DNA and RNA and various proteins; during mitotic division it condenses into chromosomes
 
 w: chromosome drf adj.pert:chromosomal
 hyper: noun.object:body
-hp: nucleus
+hp: nucleus1
 g: a threadlike strand of DNA in the cell nucleus that carries the genes in a linear order; "humans have 22 chromosome pairs plus two sex chromosomes"
 
 w: chyle drf adj.pert:chylous drf adj.pert:chylaceous
@@ -2039,7 +2039,7 @@ g: a ring of arteries at the base of the brain
 w: circulatory_system
 w: cardiovascular_system
 hyper: vascular_system
-hp: body
+hp: body2
 g: the organs and tissues involved in circulating blood and lymph through the body
 
 w: circumflex_artery
@@ -2060,7 +2060,7 @@ g: either of two veins that accompany arteries of the same name serving the hip 
 w: circumflex_humeral_artery
 w: arteria_circumflexa_humeri
 hyper: circumflex_artery
-hp: shoulder2
+hp: shoulder
 g: an artery that supplies the shoulder joint and shoulder muscles
 
 w: circumflex_iliac_artery
@@ -2076,7 +2076,7 @@ g: accompanies the artery of the same name
 w: circumflex_scapular_artery
 w: arteria_circumflexa_scapulae
 hyper: circumflex_artery
-hp: shoulder2
+hp: shoulder
 g: an artery that serves the muscles of the shoulder and scapular area
 
 w: circumflex_vein
@@ -2110,7 +2110,7 @@ g: veins that serve the clitoris
 
 w: clitoris drf adj.pert:clitoric drf adj.pert:clitoral
 w: clit
-w: button1
+w: button
 hyper: erectile_organ
 hp: vulva
 g: a female sexual organ homologous to the penis
@@ -2120,8 +2120,8 @@ hyper: cavity
 dt: noun.cognition:zoology
 g: (zoology) the cavity (in birds, reptiles, amphibians, most fish, and monotremes but not mammals) at the end of the digestive tract into which the intestinal, genital, and urinary tracts open
 
-w: clot drf verb.change:clot2 drf verb.change:clot4 drf verb.change:clot1
-w: coagulum drf verb.change:coagulate1 drf verb.change:coagulate
+w: clot drf verb.change:clot drf verb.change:clot3 drf verb.change:clot1
+w: coagulum drf verb.change:coagulate drf verb.change:coagulate1
 hyper: noun.group:ball1
 g: a lump of material formed from the content of a liquid
 
@@ -2173,7 +2173,7 @@ g: obscene terms for penis
 w: colic_artery
 w: arteria_colica
 hyper: artery
-hp: abdomen
+hp: abdomen1
 g: arteries that supply blood to the colon
 
 w: colic_vein
@@ -2298,7 +2298,7 @@ hyper: animal_tissue
 g: tissue of mesodermal origin consisting of e.g. collagen fibroblasts and fatty cells; supports organs and fills spaces between them and forms tendons and ligaments
 
 w: contractile_organ
-w: contractor drf verb.contact:contract4
+w: contractor drf verb.contact:contract
 hyper: organ
 g: a bodily organ that contracts
 
@@ -2375,7 +2375,7 @@ w: striate_body
 hyper: basal_ganglion
 g: a striped mass of white and grey matter located in front of the thalamus in each cerebral hemisphere; consists of the caudate nucleus and the lenticular nucleus
 
-w: cortex drf adj.pert:cortical ant medulla
+w: cortex drf adj.pert:cortical ant medulla1
 hyper: animal_tissue
 hyper: noun.plant:plant_tissue
 g: the tissue forming the outer layer of an organ or structure in plant or animal
@@ -2386,13 +2386,13 @@ hyper: area
 hp: cerebral_cortex
 g: any of various regions of the cerebral cortex
 
-w: costa2 drf adj.pert:costal
+w: costa drf adj.pert:costal
 hyper: structure
 g: a riblike part of a plant or animal (such as a middle rib of a leaf or a thickened vein of an insect wing)
 
 w: costal_cartilage
 hyper: cartilaginous_structure
-hp: rib1
+hp: rib
 g: the cartilages that connect the sternum and the ends of the ribs; its elasticity allows the chest to move in respiration
 
 w: costal_groove
@@ -2410,7 +2410,7 @@ w: visage
 w: kisser
 w: smiler drf verb.body:smile
 w: mug
-hyper: face
+hyper: face1
 hp: human_head
 du: noun.communication:colloquialism
 dr: noun.location:United_Kingdom
@@ -2456,7 +2456,7 @@ w: flattop
 hyper: haircut
 g: a closely cropped haircut; usually for men
 
-w: crimp1 drf verb.contact:crimp
+w: crimp drf verb.contact:crimp1
 hyper: lock
 g: a lock of hair that has been artificially waved or curled
 
@@ -2468,11 +2468,11 @@ g: the tip of the greater wing of the sphenoid bone
 w: crotch
 w: fork
 hyper: noun.shape:angle
-hp: body
+hp: body2
 g: the angle formed by the inner sides of the legs where they join the human trunk
 
-w: crown drf verb.contact:crown
-hyper: noun.location:top1
+w: crown1 drf verb.contact:crown
+hyper: noun.location:top
 hp: tooth
 g: the part of a tooth above the gum that is covered with enamel
 
@@ -2504,12 +2504,12 @@ w: twat
 hyper: female_genitalia
 g: obscene terms for female genitals
 
-w: cusp
-hyper: noun.shape:point
+w: cusp1
+hyper: noun.shape:point1
 hp: tooth
 g: small elevation on the grinding surface of a tooth
 
-w: cusp1
+w: cusp
 w: leaflet drf noun.artifact:leaf
 hyper: flap
 hp: heart_valve
@@ -2520,7 +2520,7 @@ w: vena_cutanea
 hyper: vein
 g: one of a number of veins in the subcutaneous tissue that empty into deep veins
 
-w: cuticle1
+w: cuticle
 hyper: skin
 g: the dead skin at the base of a fingernail or toenail
 
@@ -2603,7 +2603,7 @@ hyper: plaque
 g: a film of mucus and bacteria deposited on the teeth that encourages the development of dental caries
 
 w: dentate_nucleus
-hyper: nucleus1
+hyper: nucleus
 hp: cerebellum
 g: a large laminar nucleus of grey matter within the white matter of each cerebral hemisphere
 
@@ -2615,11 +2615,11 @@ g: bone (calcified tissue) surrounding the pulp cavity of a tooth
 
 w: dentition
 w: teeth
-hyper: noun.group:set
-hp: mouth1
+hyper: noun.group:set2
+hp: mouth
 g: the kind and number and arrangement of teeth (collectively) in a person or animal
 
-w: depressor drf verb.contact:depress12
+w: depressor drf verb.contact:depress
 w: depressor_muscle
 hyper: skeletal_muscle
 g: any skeletal muscle that draws a body part down
@@ -2629,7 +2629,7 @@ w: depressor_nerve
 hyper: nerve
 g: any nerve whose activity tends to reduce the activity or tone of the body part it serves
 
-w: dermis drf adj.pert:dermic drf adj.pert:dermal
+w: dermis drf adj.pert:dermic drf adj.pert:dermal1
 w: corium
 w: derma
 hyper: noun.location:stratum
@@ -2651,7 +2651,7 @@ hp: neck
 g: a hanging fold of loose skin on an elderly person's neck
 
 w: diaphragm
-w: midriff
+w: midriff1
 hyper: muscular_structure
 hyper: membrane
 hp: torso
@@ -2691,14 +2691,14 @@ w: gastrointestinal_system
 w: systema_alimentarium
 w: systema_digestorium
 hyper: system
-hp: body
+hp: body2
 g: the system that makes food absorbable into the body
 
 w: digital_arteries
 w: arteria_digitalis
 hyper: artery
 hp: hand
-hp: foot1
+hp: foot
 g: arteries in the hand and foot that supply the fingers and toes
 
 w: digital_vein
@@ -2706,13 +2706,13 @@ w: vena_digitalis
 hyper: vein
 g: one of the veins serving the fingers or toes
 
-w: digit drf adj.pert:digital
+w: digit drf adj.pert:digital1
 w: dactyl
-hyper: extremity
+hyper: extremity1
 hp: noun.animal:vertebrate
 g: a finger or toe in human beings or corresponding body part in other vertebrates
 
-w: dilator drf verb.change:dilate1
+w: dilator drf verb.change:dilate
 hyper: body_part
 g: a muscle or nerve that dilates or widens a body part
 
@@ -2726,7 +2726,7 @@ hyper: vein
 g: one of the veins serving the spongy part of the cranial bones
 
 w: dominant_allele
-w: dominant drf adj.all:dominant2
+w: dominant drf adj.all:dominant
 hyper: allele
 g: an allele that produces the same phenotype whether its paired allele is identical or different
 
@@ -2745,7 +2745,7 @@ w: vena_scapularis_dorsalis
 hyper: vein
 g: vein that is a tributary of the subclavian vein or external jugular vein and accompanies the descending scapular artery
 
-w: dorsum drf adj.all:dorsal
+w: dorsum1 drf adj.all:dorsal
 hyper: body_part
 g: the back of the body of a vertebrate or any analogous surface (as the upper or outer surface of an organ or appendage or part); "the dorsum of the foot"
 
@@ -2754,7 +2754,7 @@ w: buccula
 hyper: chin
 g: a fold of fatty tissue under the chin
 
-w: down drf adjs.all:downy
+w: down drf adjs.all:downy1
 w: pile drf adjs.all:pilary drf adjs.all:pilous
 hyper: hair
 g: fine soft dense hair (as the fine short hair of cattle or deer or the wool of sheep or the undercoat of certain dogs)
@@ -2797,25 +2797,25 @@ hyper: meninx
 hs: tentorium
 g: the outermost (and toughest) of the 3 meninges
 
-w: ear
+w: ear1
 hyper: sense_organ
-hp: head
+hp: head1
 hp: auditory_system
 hp: vestibular_apparatus
 g: the sense organ for hearing and equilibrium
 
 w: eardrum
-w: tympanum
+w: tympanum1
 w: tympanic_membrane
 w: myringa
 hyper: membrane
-hp: ear
+hp: ear1
 g: the membrane in the ear that vibrates to sound
 
 w: earlobe
 w: ear_lobe
 hyper: lobe
-hp: auricle2
+hp: auricle1
 g: the fleshy pendulous part of the external human ear
 
 w: eccrine_gland
@@ -2826,11 +2826,11 @@ w: ectoplasm
 hyper: cytoplasm
 g: the outer granule-free layer of cytoplasm
 
-w: effector1
+w: effector
 hyper: nerve_fiber
 g: a nerve fiber that terminates on a muscle or gland and stimulates contraction or secretion
 
-w: effector ant receptor
+w: effector1 ant receptor1
 hyper: organ
 g: an organ (a gland or muscle) that becomes active in response to nerve impulses
 
@@ -2871,14 +2871,14 @@ g: one of several connecting veins in the scalp and head that drain blood from s
 w: enamel drf verb.creation:enamel
 w: tooth_enamel
 hyper: solid_body_substance
-hp: crown
+hp: crown1
 g: hard white substance covering the crown of a tooth
 
 w: end-plate
 w: endplate
 w: motor_end_plate
 hyper: end_organ
-hp: effector1
+hp: effector
 g: the flattened end of a motor neuron that transmits neural impulses to a muscle
 
 w: end_organ
@@ -2903,7 +2903,7 @@ g: any of the glands of the endocrine system that secrete hormones directly into
 
 w: endocrine_system
 hyper: system
-hp: body
+hp: body2
 g: the system of glands that produce endocrine secretions that help to control bodily metabolic activity
 
 w: endolymph
@@ -2994,7 +2994,7 @@ hp: epidermis
 g: any of the cells making up the epidermis
 
 w: epidermis drf adj.pert:epidermic drf adj.pert:epidermal
-w: cuticle
+w: cuticle1
 hyper: noun.location:stratum
 hp: skin
 g: the outer layer of the skin covering the exterior body surface of vertebrates
@@ -3014,7 +3014,7 @@ w: epigastric_vein
 hyper: vein
 g: veins serving the anterior walls of the abdomen
 
-w: epigastrium drf adj.pert:epigastric1 drf adj.pert:epigastric
+w: epigastrium drf adj.pert:epigastric drf adj.pert:epigastric1
 hyper: area
 g: the region lying on or over the stomach (just below the sternum)
 
@@ -3100,7 +3100,7 @@ g: the passage between the pharynx and the stomach
 w: ethmoid_sinus
 w: ethmoidal_sinus
 w: sinus_ethmoidales
-hyper: sinus2
+hyper: sinus1
 g: a sinus of the meatuses of the nasal cavity (behind the bridge of the nose)
 
 w: ethmoidal_artery
@@ -3151,7 +3151,7 @@ dt: noun.animal:invertebrate
 g: the exterior protective or supporting structure or shell of many animals (especially invertebrates) including bony or horny parts such as nails or scales or hoofs
 
 w: extensor_muscle
-w: extensor drf verb.body:extend1 drf verb.body:extend ant flexor
+w: extensor drf verb.body:extend drf verb.body:extend1 ant flexor
 hyper: skeletal_muscle
 g: a skeletal muscle whose contraction extends or stretches a body part
 
@@ -3207,12 +3207,12 @@ w: ECF
 hyper: liquid_body_substance
 g: liquid containing proteins and electrolytes including the liquid in blood plasma and interstitial fluid; "the body normally has about 15 quarts of extracellular fluid"
 
-w: extremity1
+w: extremity
 hyper: external_body_part
 hp: limb
 g: that part of a limb that is farthest from the torso
 
-w: extremity
+w: extremity1
 w: appendage
 w: member
 hyper: external_body_part
@@ -3223,7 +3223,7 @@ hyper: body_covering
 g: cast-off skins or coverings of various organisms during ecdysis
 
 w: eye_socket
-w: orbit drf adj.pert:orbital2
+w: orbit drf adj.pert:orbital1
 w: cranial_orbit
 w: orbital_cavity
 hyper: cavity
@@ -3240,7 +3240,7 @@ w: eyebrow
 w: brow1
 w: supercilium
 hyper: hair
-hp: face
+hp: face1
 g: the arch of hair above each eye
 
 w: eyelash
@@ -3258,23 +3258,23 @@ hp: eye
 g: either of two folds of skin that can be moved to cover or open the eye; "his lids would stay open no longer"
 
 w: eye drf verb.perception:eye
-w: oculus drf noun.person:oculist1
-w: optic drf adj.pert:optic4
+w: oculus drf noun.person:oculist
+w: optic drf adj.pert:optic1
 hyper: sense_organ
 hp: visual_system
-hp: face
+hp: face1
 du: noun.communication:colloquialism
 g: the organ of sight
 
-w: face1 drf adj.pert:facial
+w: face drf adj.pert:facial
 hyper: external_body_part
 hp: noun.Tops:animal
 g: the part of an animal corresponding to the human face
 
-w: face drf adj.pert:facial
-w: human_face1
+w: face1 drf adj.pert:facial
+w: human_face
 hyper: external_body_part
-hp: head
+hp: head1
 hp: noun.animal:homo
 g: the front of the human head from the forehead to the chin and ear to ear; "he washed his face"; "I wish I had seen the look on his face when he got the news"
 
@@ -3290,13 +3290,13 @@ g: hair on the face (especially on the face of a man)
 
 w: facial_muscle
 hyper: skeletal_muscle
-hp: face
+hp: face1
 g: any of the skeletal muscles of the face
 
 w: facial_vein
 w: vena_facialis
 hyper: vein
-hp: face
+hp: face1
 g: any of several veins draining the face
 
 w: facial drf adj.pert:facial
@@ -3304,7 +3304,7 @@ w: facial_nerve
 w: nervus_facialis
 w: seventh_cranial_nerve
 hyper: cranial_nerve
-hp: face
+hp: face1
 g: cranial nerve that supplies facial muscles
 
 w: falciform_ligament
@@ -3342,10 +3342,10 @@ w: fauces drf adj.pert:faucal
 hyper: passage
 g: the passage between the back of the mouth and the pharynx
 
-w: feature drf verb.stative:feature
+w: feature drf verb.stative:feature1
 w: lineament
 hyper: body_part
-hp: face
+hp: face1
 g: the characteristic parts of a person's face: eyes and nose and mouth and chin; "an expression of pleasure crossed his features"; "his lineaments were very regular"
 
 w: female_body
@@ -3406,7 +3406,7 @@ g: the longest and thickest bone of the human skeleton; extends from the pelvis 
 
 w: fenestra
 hyper: orifice
-hp: ear
+hp: ear1
 dt: noun.cognition:otology
 g: a small opening covered with membrane (especially one in the bone between the middle and inner ear)
 
@@ -3483,10 +3483,10 @@ w: fimbria
 hyper: process
 g: thin projections forming a fringe (especially around the ovarian end of the Fallopian tube)
 
-w: finger drf verb.contact:finger5 drf verb.contact:finger drf verb.communication:finger
+w: finger drf verb.contact:finger2 drf verb.contact:finger1 drf verb.communication:finger
 hyper: digit
 hp: hand
-hyper: extremity1
+hyper: extremity
 g: any of the terminal members of the hand (sometimes excepting the thumb); "her fingers were long and thin"
 
 w: finger_wave
@@ -3530,7 +3530,7 @@ hyper: hand
 g: a hand with the fingers clenched in the palm (as for hitting)
 
 w: fistula drf adjs.all:fistular drf adj.pert:fistulous
-w: sinus3
+w: sinus
 hyper: passage
 g: an abnormal passage leading from a suppurating cavity to the body surface
 
@@ -3549,10 +3549,10 @@ g: a movable piece of tissue partly connected to the body
 w: flatfoot
 w: splayfoot
 w: pes_planus
-hyper: foot1
+hyper: foot
 g: a foot afflicted with a fallen arch; abnormally flattened and spread out
 
-w: flesh2 drf adj.pert:fleshy
+w: flesh drf adj.pert:fleshy
 hyper: animal_tissue
 g: the soft tissue of the body of a vertebrate: mainly muscle tissue and fat
 
@@ -3578,7 +3578,7 @@ hp: cranium
 hp: child's_body
 g: any membranous gap between the bones of the cranium in an infant or fetus
 
-w: foot1 drf verb.motion:foot
+w: foot drf verb.motion:foot
 w: human_foot
 w: pes
 hyper: vertebrate_foot
@@ -3611,18 +3611,18 @@ w: forelock
 hyper: lock
 g: a lock of hair growing (or falling) over the forehead
 
-w: fornix1
+w: fornix
 hyper: body_part
 g: generally any arch shaped structure (but often it refers to the arched roof of an anatomical space)
 
-w: fornix
+w: fornix1
 w: trigonum_cerebrale
 hyper: fiber_bundle
 hp: limbic_system
 g: an arched bundle of white fibers at the base of the brain by which the hippocampus of each hemisphere projects to the contralateral hippocampus and to the thalamus and mamillary bodies
 
 w: fourth_ventricle
-hyper: ventricle2
+hyper: ventricle
 g: an irregular ventricle between the third ventricle and the central canal of the spinal cord
 
 w: fovea
@@ -3631,7 +3631,7 @@ hyper: area
 hp: retina
 g: area consisting of a small depression in the retina containing cones and where vision is most acute
 
-w: freckle drf verb.change:freckle drf verb.change:freckle1
+w: freckle drf verb.change:freckle1 drf verb.change:freckle
 w: lentigo drf adjs.all:lentiginous
 hyper: macule
 hp: skin
@@ -3646,12 +3646,12 @@ w: free_phagocyte
 hyper: phagocyte
 g: a phagocyte that circulates in the blood
 
-w: frill1
+w: frill
 hyper: plate
 dt: noun.cognition:paleontology
 g: (paleontology) a bony plate that curves upward behind the skull of many ceratopsian dinosaurs
 
-w: frill
+w: frill1
 w: ruff
 hyper: external_body_part
 g: an external body part consisting of feathers or hair about the neck of a bird or other animal
@@ -3685,7 +3685,7 @@ hp: cerebral_cortex
 g: that part of the cerebral cortex in either hemisphere of the brain lying directly behind the forehead
 
 w: frontal_sinus
-hyper: sinus2
+hyper: sinus1
 g: one of a pair of cavities in the frontal bone
 
 w: frontal_suture
@@ -3709,7 +3709,7 @@ hyper: ulnar_nerve
 hp: elbow
 g: a point on the elbow where the ulnar nerve passes near the surface; a sharp tingling sensation results when the nerve is knocked against the bone; "the funny bone is not humerus"
 
-w: fuzz drf adjs.all:fuzzy
+w: fuzz drf adjs.all:fuzzy2
 hyper: beard
 g: the first beard of an adolescent boy
 
@@ -3740,7 +3740,7 @@ g: a nerve cell whose body is outside the central nervous system; "damage to gan
 w: gastric_artery
 w: arteria_gastrica
 hyper: artery
-hp: stomach
+hp: stomach1
 g: the arteries that supply the walls of the stomach
 
 w: gastric_juice
@@ -3755,7 +3755,7 @@ g: alimentary tract smear of material obtained from the stomach
 w: gastric_vein
 w: vena_gastrica
 hyper: vein
-hp: stomach
+hp: stomach1
 g: one of several veins draining the stomach walls
 
 w: gastrin
@@ -3777,10 +3777,10 @@ w: gastroomental_vein
 w: gastroepiploic_vein
 w: vena_gastroomentalis
 hyper: vein
-hp: stomach
+hp: stomach1
 g: one of two veins serving the great curvature of the stomach
 
-w: gene drf adj.pert:genetical2 drf adj.pert:genetical drf adj.pert:genic drf adj.pert:genetic
+w: gene drf adj.pert:genetical drf adj.pert:genetical1 drf adj.pert:genic drf adj.pert:genetic2
 w: cistron
 w: factor
 hyper: noun.group:sequence
@@ -3814,7 +3814,7 @@ w: crotch1
 hyper: reproductive_organ
 g: external sex organ
 
-w: germ drf verb.change:germinate
+w: germ drf verb.change:germinate1
 hyper: structure
 g: a small apparently simple structure (as a fertilized egg) from which new tissue can develop into a complete organism
 
@@ -3830,10 +3830,10 @@ g: a gastrointestinal hormone produced by epithelial cells lining the fundus of 
 w: gingiva drf adj.pert:gingival
 w: gum drf verb.consumption:gum
 hyper: animal_tissue
-hp: mouth1
+hp: mouth
 g: the tissue (covered by mucous membrane) of the jaws that surrounds the bases of the teeth
 
-w: girdle drf verb.contact:girdle1
+w: girdle drf verb.contact:girdle
 hyper: skeletal_structure
 g: an encircling or ringlike structure
 
@@ -3874,13 +3874,13 @@ w: gleet
 hyper: pus
 g: a thin morbid discharge as from a wound or especially chronic gonorrhea
 
-w: glenoid_fossa
+w: glenoid_fossa1
 w: glenoid_cavity
 hyper: noun.shape:pit
 hp: scapula
 g: the concavity in the head of the scapula that receives the head of the humerus to form the shoulder joint
 
-w: glenoid_fossa1
+w: glenoid_fossa
 w: mandibular_fossa
 hyper: noun.shape:pit
 hp: temporal_bone
@@ -3914,7 +3914,7 @@ g: a hormone secreted by the pancreas; stimulates increases in blood sugar level
 w: gluteal_artery
 w: arteria_glutes
 hyper: artery
-hp: hip
+hp: hip2
 g: branches of the internal iliac artery that supply the hip joint and gluteal region
 
 w: gluteal_vein
@@ -3988,7 +3988,7 @@ hyper: craniometric_point
 hp: lower_jaw
 g: the craniometric point on either side at the apex of the lower jaw
 
-w: gore drf verb.contact:gore2
+w: gore drf verb.contact:gore1
 hyper: blood
 g: coagulated blood from a wound
 
@@ -4014,7 +4014,7 @@ g: a cerebral vein formed by the two internal cerebral veins and continuing into
 
 w: greater_omentum
 w: gastrocolic_omentum
-w: caul1
+w: caul
 hyper: omentum
 g: part of the peritoneum attached to the stomach and to the colon and covering the intestines
 
@@ -4030,10 +4030,10 @@ g: greyish nervous tissue containing cell bodies as well as fibers; forms the ce
 w: groin
 w: inguen drf adj.pert:inguinal
 hyper: area
-hp: loins1
+hp: loins
 g: the crease at the junction of the inner part of the thigh with the trunk together with the adjacent region and often including the external genitals
 
-w: groove drf verb.contact:groove
+w: groove drf verb.contact:groove1
 w: vallecula
 hyper: body_part
 dt: noun.cognition:anatomy
@@ -4108,8 +4108,8 @@ g: one of the tendons at the back of the knee
 w: hand drf verb.possession:hand
 w: manus
 w: mitt
-w: paw1 drf verb.contact:paw
-hyper: extremity1
+w: paw drf verb.contact:paw1
+hyper: extremity
 hp: arm
 hp: noun.animal:homo
 g: the (prehensile) extremity of the superior limb; "he had the hands of a surgeon"; "he extended his mitt"
@@ -4120,7 +4120,7 @@ hyper: skin
 g: a loose narrow strip of skin near the base of a fingernail; tearing it produces a painful sore that is easily infected
 
 w: haplotype
-hyper: noun.group:combination
+hyper: noun.group:combination4
 dt: noun.cognition:genetics
 g: (genetics) a combination of alleles (for different genes) that are located closely together on the same chromosome and that tend to be inherited together
 
@@ -4130,7 +4130,7 @@ hp: palate
 hp: upper_jaw
 g: the bony part of the roof of the mouth
 
-w: haunch1
+w: haunch
 hyper: body_part
 hp: torso
 g: the hip and buttock and upper thigh in human beings
@@ -4147,7 +4147,7 @@ w: hawk_nose
 hyper: nose
 g: a nose curved downward like the beak of a hawk
 
-w: head1
+w: head
 hyper: structure
 g: the rounded end of a bone that fits into a rounded cavity in another bone to form a joint; "the head of the humerus"
 
@@ -4156,10 +4156,10 @@ hyper: structure
 hp: skeletal_muscle
 g: that part of a skeletal muscle that is away from the bone that it moves
 
-w: head
+w: head1
 w: caput
 hyper: external_body_part
-hp: body
+hp: body2
 hp: noun.Tops:animal
 g: the upper part of the human body or the front part of the body in animals; contains the face and brains; "he stuck his head out the window"
 
@@ -4180,16 +4180,16 @@ hyper: internal_organ
 hp: circulatory_system
 g: the hollow muscular organ located behind the sternum and between the lungs; its rhythmic contractions move the blood through the body; "he stood still, his heart thumping wildly"
 
-w: heel drf verb.creation:heel drf verb.motion:heel
+w: heel drf verb.creation:heel drf verb.motion:heel1
 hyper: skeletal_structure
-hp: foot1
+hp: foot
 g: the back part of the human foot
 
 w: heelbone
 w: calcaneus
 w: os_tarsi_fibulare
 hyper: bone
-hp: foot1
+hp: foot
 g: the largest tarsal bone; forms the human heel
 
 w: helper_T_cell
@@ -4282,7 +4282,7 @@ w: ginglymoid_joint
 hyper: synovial_joint
 g: a freely moving joint in which the bones are so articulated as to allow extensive movement in one plane
 
-w: hip
+w: hip2
 hyper: body_part
 hp: torso
 g: either side of the body below the waist and above the thigh
@@ -4298,7 +4298,7 @@ hyper: bone
 hp: pelvis
 g: large flaring bone forming one half of the pelvis; made up of the ilium and ischium and pubis
 
-w: hip2
+w: hip1
 w: hip_joint
 w: coxa
 w: articulatio_coxae
@@ -4364,20 +4364,20 @@ w: soma
 w: build
 w: figure
 w: physique
-w: anatomy drf adj.pert:anatomic drf noun.person:anatomist drf adj.pert:anatomical
+w: anatomy drf adj.pert:anatomic1 drf noun.person:anatomist drf adj.pert:anatomical1
 w: shape
 w: bod
 w: chassis
 w: frame1
 w: form
 w: flesh1
-hyper: body
+hyper: body2
 hp: noun.Tops:person
 hp: noun.animal:homo
 g: alternative names for the body of a human being; "Leonardo studied the human body"; "he has a strong physique"; "the spirit is willing but the flesh is weak"
 
 w: human_head
-hyper: head
+hyper: head1
 hp: noun.animal:homo
 g: the head of a human being
 
@@ -4386,8 +4386,8 @@ hyper: arm_bone
 hp: arm
 g: bone extending from the shoulder to the elbow
 
-w: humor1 drf adj.pert:humoral
-w: humour1
+w: humor drf adj.pert:humoral
+w: humour
 hyper: body_substance
 dt: noun.cognition:physiology
 dt: noun.time:Middle_Ages
@@ -4427,7 +4427,7 @@ g: a U-shaped bone at the base of the tongue that supports the tongue muscles
 
 w: hypochondrium
 hyper: area
-hp: abdomen
+hp: abdomen1
 g: the upper region of the abdomen just below the lowest ribs on either side of the epigastrium
 
 w: hypogastric_plexus
@@ -4458,7 +4458,7 @@ hp: diencephalon
 g: a basal part of the diencephalon governing autonomic nervous system
 
 w: ileal_artery
-w: intestinal_artery
+w: intestinal_artery1
 w: arteria_ileum
 hyper: artery
 hp: small_intestine
@@ -4530,7 +4530,7 @@ hyper: tooth
 g: a tooth for cutting or gnawing; located in the front of the mouth in both jaws
 
 w: incompetent_cervix
-hyper: cervix2
+hyper: cervix1
 dt: noun.cognition:obstetrics
 g: (obstetrics) uterine cervix that becomes dilated before term and without labor often resulting in miscarriage or premature birth
 
@@ -4577,7 +4577,7 @@ g: an artery that is a branch of the facial artery that supplies the lower lip
 
 w: inferior_labial_vein
 w: vena_labialis_inferior
-hyper: labial_vein
+hyper: labial_vein1
 g: a tributary of the facial vein that drains the lower lip
 
 w: inferior_mesenteric_artery
@@ -4659,7 +4659,7 @@ g: a large artery arising from the arch of the aorta and divides into the right 
 
 w: instep
 hyper: arch
-hp: foot1
+hp: foot
 g: the arch of the foot
 
 w: insulin
@@ -4679,7 +4679,7 @@ w: intercapitular_vein
 w: vena_intercapitalis
 hyper: vein
 hp: hand
-hp: foot1
+hp: foot
 g: veins connecting the dorsal and palmar veins of the hand or the dorsal and plantar veins of the foot
 
 w: intercostal_artery
@@ -4787,9 +4787,9 @@ g: secretions by glands lining the walls of the intestines
 
 w: intestine drf adj.pert:intestinal
 w: bowel
-w: gut drf verb.contact:gut
+w: gut drf verb.contact:gut1
 hyper: internal_organ
-hp: abdomen
+hp: abdomen1
 g: the part of the alimentary canal between the stomach and the anus
 
 w: intima drf adj.pert:intimal
@@ -4813,7 +4813,7 @@ w: ischium
 w: ischial_bone
 w: os_ischii
 hyper: bone
-hp: hip2
+hp: hip1
 hp: pelvis
 g: one of the three sections of the hipbone; situated below the ilium
 
@@ -4833,18 +4833,18 @@ w: band
 hyper: tissue
 g: a cord-like tissue connecting two larger parts of an anatomical structure
 
-w: jaw1 drf verb.consumption:jaw
+w: jaw drf verb.consumption:jaw
 hyper: feature
-hp: face
+hp: face1
 g: the bones of the skull that frame the mouth and serve to open it; the bones that hold the teeth
 
-w: jaw drf verb.consumption:jaw
+w: jaw1 drf verb.consumption:jaw
 hyper: bone
 hp: skull
 g: the part of the skull of a vertebrate that frames the mouth and holds the teeth
 
 w: jejunal_artery
-w: intestinal_artery1
+w: intestinal_artery
 hyper: artery
 hp: small_intestine
 g: an artery that is a branch of the superior mesenteric artery that supplies the jejunum
@@ -4862,9 +4862,9 @@ hp: endoskeleton
 dt: noun.cognition:anatomy
 g: (anatomy) the point of connection between two bones or elements of a skeleton (especially if it allows motion)
 
-w: jowl1 drf adjs.all:jowly
+w: jowl drf adjs.all:jowly
 hyper: feature
-hp: face
+hp: face1
 g: a fullness and looseness of the flesh of the lower cheek and jaw (characteristic of aging)
 
 w: jugale
@@ -4953,14 +4953,14 @@ hyper: artery
 hp: lip
 g: an artery that is a branch of the facial artery that supplies the lips of the mouth
 
-w: labial_vein1
-w: vena_labialis1
+w: labial_vein
+w: vena_labialis
 hyper: vein
 hp: vulva
 g: veins draining the lips of the vulva
 
-w: labial_vein
-w: vena_labialis
+w: labial_vein1
+w: vena_labialis1
 hyper: vein
 hp: lip
 g: a vein draining the lips of the mouth
@@ -5055,7 +5055,7 @@ hyper: membrane
 hp: bone
 g: a thin membrane that is one of the calcified layers that form bones
 
-w: lamina drf adjs.all:laminar drf adjs.all:laminal drf verb.creation:laminate drf verb.contact:laminate2 drf verb.contact:laminate1 drf verb.contact:laminate
+w: lamina drf adjs.all:laminar drf adjs.all:laminal drf verb.creation:laminate drf verb.contact:laminate2 drf verb.contact:laminate drf verb.contact:laminate1
 hyper: plate
 g: a thin plate or layer (especially of bone or mineral)
 
@@ -5131,13 +5131,13 @@ hyper: geniculate_body
 g: a neural structure that serves as a processing station on the way from the retina to the occipital lobe of the cerebral cortex
 
 w: lateral_ventricle
-hyper: ventricle2
+hyper: ventricle
 g: either of two horseshoe-shaped ventricles one in each cerebral hemisphere; they communicate with the third ventricle via the foramen of Monro
 
 w: latissimus_dorsi
 w: lat
 hyper: skeletal_muscle
-hp: back
+hp: back1
 g: a broad flat muscle on either side of the back
 
 w: left_atrium
@@ -5174,13 +5174,13 @@ w: left_hand drf noun.person:lefthander
 hyper: hand
 g: the hand that is on the left side of the body; "jab with your left"
 
-w: leg2 drf adjs.all:leggy1
+w: leg drf adjs.all:leggy1
 hyper: limb
 g: a structure in animals that is similar to a human leg and used for locomotion
 
 w: leg1 drf adjs.all:leggy1
 hyper: limb
-hp: body
+hp: body2
 g: a human limb; commonly used to refer to a whole limb but technically only the part of the limb between the knee and ankle
 
 w: leg_bone
@@ -5273,7 +5273,7 @@ hp: spleen
 g: an artery that originates from the celiac trunk and supplies blood to the spleen
 
 w: life_form
-hyper: body
+hyper: body2
 g: the characteristic bodily form of a mature organism
 
 w: lifeblood
@@ -5286,7 +5286,7 @@ hp: muscular_structure
 g: a sheet or band of tough fibrous tissue connecting bones or cartilages or supporting muscles or organs
 
 w: limb
-hyper: extremity
+hyper: extremity1
 hp: appendicular_skeleton
 g: one of the jointed appendages of an animal used for locomotion or grasping: arm; leg; wing; flipper
 
@@ -5303,18 +5303,18 @@ g: a border or edge of any of various body parts distinguished by color or struc
 w: lingual_artery
 w: arteria_lingualis
 hyper: artery
-hp: mouth
+hp: mouth1
 g: an artery originating from the external carotid artery and supplying the under side of the tongue
 
 w: lingual_vein
 w: vena_lingualis
 hyper: vein
-hp: mouth
+hp: mouth1
 g: a vein that receives blood from the tongue and the floor of the mouth and empties into the internal jugular or the facial vein
 
 w: linin
 hyper: body_substance
-hp: nucleus
+hp: nucleus1
 g: an obsolete term for the network of viscous material in the cell nucleus on which the chromatin granules were thought to be suspended
 
 w: linkage_group
@@ -5325,7 +5325,7 @@ g: any pair of genes that tend to be transmitted together; "the genes of Drosoph
 w: lip
 hyper: external_body_part
 hyper: articulator
-hp: mouth
+hp: mouth1
 g: either of two fleshy folds of tissue that surround the mouth and play a role in speaking
 
 w: liposome
@@ -5335,8 +5335,8 @@ g: an artificially made microscopic vesicle into which nucleic acids can be pack
 w: liquid_body_substance
 w: bodily_fluid
 w: body_fluid
-w: humor drf adj.pert:humoral
-w: humour
+w: humor1 drf adj.pert:humoral
+w: humour1
 hyper: body_substance
 g: the liquid parts of the body
 
@@ -5350,11 +5350,11 @@ g: the finger farthest from the thumb
 w: little_toe
 hyper: toe1
 hyper: minimus
-hp: foot1
+hp: foot
 g: the fifth smallest outermost toe
 
 w: live_body
-hyper: body
+hyper: body2
 g: the body of a living animal or person
 
 w: liver drf adjs.all:livery
@@ -5388,7 +5388,7 @@ hyper: liquid_body_substance
 g: substance discharged from the vagina (cellular debris and mucus and blood) that gradually decreases in amount during the weeks following childbirth
 
 w: lock
-w: curl drf adj.all:curly drf verb.contact:curl
+w: curl drf adj.all:curly drf verb.contact:curl1
 w: ringlet
 w: whorl
 hyper: hair
@@ -5400,7 +5400,7 @@ w: loculus
 hyper: cavity
 g: a small cavity or space within an organ or in a plant or animal
 
-w: loins1
+w: loins
 hyper: body_part
 hp: torso
 g: the region of the hips and groin and lower abdomen
@@ -5422,8 +5422,8 @@ w: mandibular_bone
 w: submaxilla
 w: lower_jawbone
 w: jawbone
-w: jowl
-hyper: jaw
+w: jowl1
+hyper: jaw1
 hyper: articulator
 g: the jaw in vertebrates that is hinged to open the mouth
 
@@ -5446,13 +5446,13 @@ w: lumbar_nerve
 hyper: spinal_nerve
 g: any of five pairs of spinal nerves emerging from the lumbar section of the spinal cord
 
-w: lumbar_plexus1
-w: plexus_lumbalis1
+w: lumbar_plexus
+w: plexus_lumbalis
 hyper: plexus
 g: a lymphatic plexus located along the lower portion of the aorta and iliac vessels
 
-w: lumbar_plexus
-w: plexus_lumbalis
+w: lumbar_plexus1
+w: plexus_lumbalis1
 hyper: nerve_plexus
 g: a plexus of nerves formed by the ventral branches of the first four lumbar nerves
 
@@ -5463,7 +5463,7 @@ g: veins that drain the posterior body wall and the lumbar vertebral venous plex
 
 w: lumbar_vertebra
 hyper: vertebra
-hp: back
+hp: back1
 g: one of 5 vertebrae in the human vertebral column; lumbar vertebrae extend from the twelfth thoracic vertebra down to the sacral vertebrae
 
 w: lumbosacral_plexus
@@ -5493,7 +5493,7 @@ g: a thin coagulable fluid (similar to plasma but) containing white blood cells 
 
 w: lymph_node
 w: lymph_gland
-w: node1
+w: node
 hyper: lymphatic_tissue
 hp: circulatory_system
 hp: immune_system
@@ -5508,7 +5508,7 @@ g: a vascular duct that carries lymph which is eventually added to the venous bl
 w: lymphatic_system
 w: systema_lymphaticum
 hyper: vascular_system
-hp: body
+hp: body2
 g: the interconnected system of spaces and vessels between body tissues and organs by which lymph circulates throughout the body
 
 w: lymphatic_tissue
@@ -5545,7 +5545,7 @@ g: a small yellowish central area of the retina that is rich in cones and that m
 
 w: macule
 w: macula1 drf verb.contact:maculate drf verb.change:maculate
-hyper: noun.attribute:spot1
+hyper: noun.attribute:spot2
 hp: skin
 g: a patch of skin that is discolored but not usually elevated; caused by various diseases
 
@@ -5624,14 +5624,14 @@ hyper: noun.shape:incisure
 hp: lower_jaw
 g: small indentation in the middle of the lower jawbone
 
-w: mane1
+w: mane
 w: head_of_hair
 hyper: hair
 hp: noun.animal:homo
 g: growth of hair covering the scalp of a human being
 
 w: mantle
-w: pallium
+w: pallium1
 hyper: epidermis
 dt: noun.cognition:zoology
 g: (zoology) a protective layer of epidermis in mollusks or brachiopods that secretes a substance forming the shell
@@ -5672,7 +5672,7 @@ hyper: craniometric_point
 hp: mastoid
 g: the craniometric point at the lowest point of the mastoid process
 
-w: mastoid drf adj.pert:mastoid1
+w: mastoid drf adj.pert:mastoid
 w: mastoid_process
 w: mastoid_bone
 w: mastoidal
@@ -5680,12 +5680,12 @@ hyper: process
 hp: temporal_bone
 g: process of the temporal bone behind the ear at the base of the skull
 
-w: matrix
+w: matrix1
 hyper: animal_tissue
 hp: nail
 g: the formative tissue at the base of a nail
 
-w: matrix1
+w: matrix
 w: intercellular_substance
 w: ground_substance
 hyper: body_substance
@@ -5700,7 +5700,7 @@ hyper: artery
 g: either of two arteries branching from the external carotid artery and supplying structure of the face
 
 w: maxillary_sinus
-hyper: sinus2
+hyper: sinus1
 g: one of a pair of sinuses forming a cavity in the maxilla
 
 w: maxillary_vein
@@ -5738,14 +5738,14 @@ hyper: cavity
 hp: chest_cavity
 g: the part of the thoracic cavity between the lungs that contains the heart and aorta and esophagus and trachea and thymus
 
-w: medulla drf adj.pert:medullary ant cortex
+w: medulla1 drf adj.pert:medullary2 ant cortex
 hyper: animal_tissue
 hyper: noun.plant:plant_tissue
 g: the inner part of an organ or structure in plant or animal
 
 w: medulla_oblongata
-w: medulla2 drf adj.pert:medullary2
-w: bulb2 drf adj.pert:bulbar
+w: medulla drf adj.pert:medullary1
+w: bulb drf adj.pert:bulbar
 hyper: neural_structure
 hp: brainstem
 g: lower or hindmost part of the brain; continuous with spinal cord; (`bulb' is an old term for medulla oblongata); "the medulla oblongata is the most vital part of the brain because it contains centers controlling breathing and heart functioning"
@@ -5837,7 +5837,7 @@ hyper: blood
 hp: adult_female_body
 g: flow of blood from the uterus; occurs at roughly monthly intervals during a woman's reproductive years
 
-w: mentum
+w: mentum1
 hyper: body_part
 hp: noun.animal:insect
 hp: noun.plant:orchid
@@ -5914,13 +5914,13 @@ g: the short lateral arch formed by the heads of the metatarsals
 w: metatarsal_artery
 w: arteria_metatarsea
 hyper: artery
-hp: foot1
+hp: foot
 g: dorsal and plantar arteries to the metatarsal region of the foot
 
 w: metatarsal_vein
 w: vena_metatarsus
 hyper: vein
-hp: foot1
+hp: foot
 g: dorsal and plantar branches of veins serving the metatarsal region of the foot
 
 w: metatarsus drf adj.pert:metatarsal
@@ -5990,7 +5990,7 @@ g: either of two cerebral veins
 
 w: middle_ear
 w: tympanic_cavity
-w: tympanum1
+w: tympanum
 hyper: cavity
 hp: auditory_apparatus
 g: the main cavity of the ear; between the eardrum and the inner ear
@@ -6012,13 +6012,13 @@ hyper: thyroid_vein
 g: a vein on each side that drains the lateral part of the thyroid and empties into the internal jugular vein
 
 w: middle
-w: midriff1
+w: midriff
 w: midsection
 hyper: area
 hp: torso
 g: the middle area of the human torso (usually in front); "young American women believe that a bare midriff is fashionable"
 
-w: milk drf verb.change:milk1 drf verb.change:milk
+w: milk drf verb.change:milk drf verb.change:milk1
 hyper: liquid_body_substance
 hyper: noun.food:nutriment
 g: produced by mammary glands of female mammals for feeding their young
@@ -6058,7 +6058,7 @@ w: mohawk_haircut
 hyper: haircut
 g: haircut in which the head is shaved except for a band of hair down the middle of the scalp
 
-w: molar drf adj.pert:molar3
+w: molar drf adj.pert:molar
 w: grinder drf verb.change:grind
 hyper: tooth
 g: grinding tooth with a broad crown; located behind the premolars
@@ -6126,17 +6126,17 @@ hyper: nerve_cell
 hp: motor_nerve
 g: a neuron conducting impulses outwards from the brain or spinal cord
 
-w: mouth drf verb.contact:mouth drf verb.communication:mouth1 drf verb.communication:mouth
+w: mouth1 drf verb.contact:mouth drf verb.communication:mouth drf verb.communication:mouth1
 hyper: orifice
-hp: face
+hp: face1
 g: the externally visible part of the oral cavity on the face and the system of organs surrounding the opening; "she wiped lipstick from her mouth"
 
-w: mouth1 drf verb.contact:mouth drf verb.communication:mouth1 drf verb.communication:mouth
+w: mouth drf verb.contact:mouth drf verb.communication:mouth drf verb.communication:mouth1
 w: oral_cavity
 w: oral_fissure
 w: rima_oris
 hyper: rima
-hp: mouth
+hp: mouth1
 g: the opening through which food is taken in and vocalizations emerge; "he stuffed his mouth with candy"
 
 w: mucous_membrane
@@ -6150,7 +6150,7 @@ hyper: secretion
 g: protective secretion of the mucus membranes; in the gut it lubricates the passage of food and protects the epithelial cells; in the nose and throat and lungs it can make it difficult for bacteria to penetrate the body through the epithelium
 
 w: mummy drf verb.possession:mummify drf verb.change:mummify
-hyper: body2
+hyper: body1
 g: a body embalmed and dried and wrapped for burial (as in ancient Egypt)
 
 w: muscle_cell
@@ -6191,7 +6191,7 @@ g: veins that drain the upper abdominal wall and the lower intercostal spaces an
 
 w: musculoskeletal_system
 hyper: system
-hp: body
+hp: body2
 g: the system of muscles and tendons and ligaments and bones and joints and associated tissues that move the body and maintain its form
 
 w: musculus_abductor_digiti_minimi_manus
@@ -6398,13 +6398,13 @@ w: belly_button
 w: omphalos
 w: omphalus
 hyper: noun.location:point
-hp: abdomen
+hp: abdomen1
 g: a scar where the umbilical cord was attached; "you were not supposed to show your navel on television"; "they argued whether or not Adam had a navel"; "she had a tattoo just above her bellybutton"
 
 w: neck
-w: cervix1 drf adj.pert:cervical
+w: cervix drf adj.pert:cervical1
 hyper: external_body_part
-hp: body
+hp: body2
 g: the part of an organism (human or animal) that connects the head to the rest of the body; "he admired her long graceful neck"; "the horse won by a neck"
 
 w: neencephalon
@@ -6429,14 +6429,14 @@ hp: kidney
 g: any of the small tubules that are the excretory units of the vertebrate kidney
 
 w: nerve_cell
-w: neuron drf adj.pert:neural drf adj.pert:neuronic drf adj.pert:neuronal
+w: neuron drf adj.pert:neural1 drf adj.pert:neuronic drf adj.pert:neuronal
 hyper: somatic_cell
 hp: nervous_system
 g: a cell that is specialized to conduct nerve impulses
 
 w: nerve_ending
 w: nerve_end
-hyper: noun.location:end
+hyper: noun.location:end2
 hp: axon
 g: the terminal structure of an axon that does not end at a synapse
 
@@ -6448,7 +6448,7 @@ hp: nerve
 g: a threadlike extension of a nerve cell
 
 w: nerve_pathway
-w: tract
+w: tract1
 w: nerve_tract
 w: pathway
 hyper: white_matter
@@ -6466,7 +6466,7 @@ g: any bundle of nerve fibers running to various organs and tissues of the body
 w: nervous_system
 w: systema_nervosum
 hyper: system
-hp: body
+hp: body2
 g: the sensory and control apparatus consisting of a network of nerve cells
 
 w: nervous_tissue
@@ -6554,17 +6554,17 @@ w: mammilla
 w: mamilla
 w: pap
 w: teat
-w: tit2
+w: tit
 hyper: reproductive_organ
 hp: mammary_gland
 g: the small projection of a mammary gland
 
-w: node
+w: node1
 hyper: solid_body_substance
 g: any bulge or swelling of an anatomical structure or part
 
 w: nodule drf adjs.all:nodular drf adj.pert:nodular
-hyper: node
+hyper: node1
 g: a small node
 
 w: nonallele
@@ -6578,10 +6578,10 @@ hyper: noun.substance:monoamine_neurotransmitter
 hyper: noun.artifact:vasoconstrictor
 g: a catecholamine precursor of epinephrine that is secreted by the adrenal medulla and also released at synapses
 
-w: nose drf verb.contact:nose drf verb.motion:nose drf verb.perception:nose1
+w: nose drf verb.contact:nose drf verb.motion:nose1 drf verb.perception:nose1
 w: olfactory_organ
 hyper: chemoreceptor
-hp: face
+hp: face1
 hp: upper_respiratory_tract
 g: the organ of smell and entrance to the respiratory tract; the prominent part of the face of man or other mammals; "he has a cold in the nose"
 
@@ -6602,20 +6602,20 @@ g: the particular part of a chromosome that is associated with a nucleolus after
 w: nucleolus
 w: nucleole
 hyper: organelle
-hp: nucleus
+hp: nucleus1
 g: a small round body of protein in a cell nucleus; such organelles contain RNA and are involved in protein synthesis
 
 w: nucleoplasm
 w: karyoplasm
 hyper: protoplasm
-hs: nucleus
+hs: nucleus1
 g: the protoplasm that constitutes the nucleus of a cell
 
-w: nucleus1
+w: nucleus
 hyper: neural_structure
 g: any histologically identifiable mass of neural cell bodies in the brain or spinal cord
 
-w: nucleus drf verb.stative:nucleate
+w: nucleus1 drf verb.stative:nucleate
 w: cell_nucleus
 w: karyon
 hyper: organelle
@@ -6696,7 +6696,7 @@ hyper: eye
 g: the right eye
 
 w: oculus_sinister
-w: OS2
+w: OS
 hyper: eye
 g: the left eye
 
@@ -6813,7 +6813,7 @@ w: orbital_point
 hyper: craniometric_point
 g: the craniometric point at the lowest point on the lower edge of the orbit
 
-w: organ drf adj.all:organic
+w: organ drf adj.all:organic2
 hyper: body_part
 g: a fully differentiated structural and functional unit in an animal that is specialized for some particular function
 
@@ -6824,7 +6824,7 @@ g: the hearing organ of the inner ear; contains receptors that respond to sound 
 
 w: organ_of_hearing
 hyper: sense_organ
-hp: ear
+hp: ear1
 g: the part of the ear that is responsible for sensations of sound
 
 w: organelle
@@ -6835,7 +6835,7 @@ hp: noun.Tops:cell
 g: a specialized part of a cell; analogous to an organ; "the first organelle to be identified was the nucleus"
 
 w: orifice
-w: opening drf verb.stative:open drf verb.possession:open4
+w: opening drf verb.stative:open drf verb.possession:open
 w: porta
 hyper: passage
 g: an aperture or hole that opens into a bodily cavity; "the orifice into the aorta from the lower left chamber of the heart"
@@ -6845,7 +6845,7 @@ hyper: cavity
 hp: throat
 g: cavity formed by the pharynx at the back of the mouth
 
-w: os1
+w: os
 hyper: orifice
 g: a mouth or mouthlike opening
 
@@ -6914,7 +6914,7 @@ w: ovotestis
 hyper: gonad
 g: hermaphroditic gonad that contains both testicular and ovarian tissue
 
-w: ovule1 drf adj.pert:ovular1 drf verb.body:ovulate
+w: ovule drf adj.pert:ovular1 drf verb.body:ovulate
 hyper: ovum
 g: a small or immature ovum
 
@@ -6952,7 +6952,7 @@ g: a smooth hair style with the ends of the hair curled inward
 w: palate drf adj.pert:palatal
 w: roof_of_the_mouth
 hyper: noun.location:surface
-hp: mouth1
+hp: mouth
 g: the upper surface of the mouth that separates the oral and nasal cavities
 
 w: palatine_artery
@@ -6969,7 +6969,7 @@ w: vena_palatina
 hyper: vein
 g: a vein that drains the region of the palate and empties into the facial vein
 
-w: palatine drf adj.pert:palatine2
+w: palatine drf adj.pert:palatine
 w: palatine_bone
 w: os_palatinum
 hyper: bone
@@ -6994,7 +6994,7 @@ hp: lenticular_nucleus
 g: the inner pale yellow part of the lenticular nucleus
 
 w: palm drf adj.pert:palmar drf verb.contact:palm
-w: thenar drf adj.pert:thenar drf adj.pert:thenal
+w: thenar1 drf adj.pert:thenar drf adj.pert:thenal
 hyper: area
 hp: hand
 g: the inner surface of the hand from the wrist to the base of the fingers
@@ -7029,12 +7029,12 @@ w: venae_pancreatica
 hyper: vein
 g: veins draining the pancreas and emptying into the superior mesenteric and splenic veins
 
-w: papilla1 drf adj.pert:papillary
+w: papilla drf adj.pert:papillary
 hyper: process
 hp: sense_organ
 g: a small nipple-shaped protuberance concerned with taste, touch, or smell; "the papillae of the tongue"
 
-w: papilla drf adj.pert:papillary
+w: papilla1 drf adj.pert:papillary
 hyper: process
 g: a small projection of tissue at the base of a hair or tooth or feather
 
@@ -7056,7 +7056,7 @@ g: area of the retina immediately surrounding the fovea
 w: paranasal_sinus
 w: sinus_paranasales
 w: nasal_sinus
-hyper: sinus2
+hyper: sinus1
 g: any of the paired sinuses in the bones of the face adjacent to the nasal cavity that are lined with mucous membrane that is continuous with the lining of the nasal cavities
 
 w: parasympathetic_nervous_system
@@ -7080,7 +7080,7 @@ w: vena_paraumbilicalis
 hyper: vein
 g: small veins arising in skin around the navel; terminate as accessory portal veins
 
-w: parenchyma1
+w: parenchyma
 hyper: animal_tissue
 g: animal tissue that constitutes the essential part of an organ as contrasted with e.g. connective tissue and blood vessels
 
@@ -7148,9 +7148,9 @@ hyper: body_part
 dt: noun.cognition:anatomy
 g: (anatomy) a structure that separates areas in an organism
 
-w: part1
+w: part
 w: parting
-hyper: noun.location:line
+hyper: noun.location:line2
 hp: hair
 g: a line of scalp that can be seen when sections of hair are combed in opposite directions; "his part was right in the middle"
 
@@ -7171,9 +7171,9 @@ hyper: ductus_arteriosus
 g: a ductus arteriosus that failed to close at birth; may require surgical correction
 
 w: pate
-w: poll1
-w: crown1
-hyper: noun.location:top
+w: poll
+w: crown
+hyper: noun.location:top1
 hp: human_head
 g: the top of the head
 
@@ -7226,7 +7226,7 @@ g: the space bounded by the bones of the pelvis and containing the pelvic viscer
 w: pelvis drf adj.pert:pelvic
 w: pelvic_girdle
 w: pelvic_arch
-w: hip1
+w: hip
 hyper: girdle
 hp: appendicular_skeleton
 g: the structure of the vertebrate skeleton supporting the lower limbs in humans and the hind limbs or corresponding parts in other vertebrates
@@ -7344,7 +7344,7 @@ w: peroneus
 hyper: skeletal_muscle
 g: muscle of the lower leg that is involved in moving the foot
 
-w: person drf verb.stative:personify1 drf verb.cognition:personify
+w: person drf verb.stative:personify drf verb.cognition:personify
 hyper: human_body
 g: a human body (usually including the clothing); "a weapon was hidden on his person"
 
@@ -7418,7 +7418,7 @@ hyper: braid
 g: a plait of braided hair
 
 w: pin_curl
-hyper: crimp1
+hyper: crimp
 g: a curl of hair made by dampening a strand of hair and curling it and holding the curl with a clip or bobby pin
 
 w: pineal_gland
@@ -7447,7 +7447,7 @@ g: a small wrist bone that articulates only with the triquetral
 w: pit_of_the_stomach
 w: epigastric_fossa
 hyper: noun.shape:pit
-hp: stomach
+hp: stomach1
 g: a slight depression in the midline just below the sternum (where a blow can affect the solar plexus)
 
 w: pituitary drf adj.pert:pituitary
@@ -7475,7 +7475,7 @@ hyper: macule
 g: a spot on the skin characteristic of the plague
 
 w: plaque
-hyper: noun.attribute:spot1
+hyper: noun.attribute:spot2
 dt: noun.cognition:pathology
 g: (pathology) a small abnormal patch on or inside the body
 
@@ -7533,10 +7533,10 @@ w: polar_body
 hyper: noun.Tops:cell
 g: a small cell containing little cytoplasm that is produced along with the oocyte and later discarded
 
-w: poll2
-hyper: noun.location:top
+w: poll1
+hyper: noun.location:top1
 hp: noun.animal:horse
-hp: noun.animal:cow1
+hp: noun.animal:cow
 g: the part of the head between the ears
 
 w: polygene drf adjs.all:polygenic
@@ -7641,9 +7641,9 @@ w: pot
 w: potbelly
 w: bay_window
 w: corporation
-w: tummy1
-hyper: belly2
-du: noun.communication:slang
+w: tummy
+hyper: belly1
+du: noun.communication:slang1
 g: slang for a paunch
 
 w: pouch
@@ -7672,14 +7672,14 @@ w: bicuspid drf adjs.all:bicuspid
 hyper: tooth
 g: a tooth having two cusps or points; located between the incisors and the molars
 
-w: prepuce1
-w: foreskin1
+w: prepuce
+w: foreskin
 hyper: skin
 hp: clitoris
 g: a fold of skin covering the tip of the clitoris
 
-w: prepuce
-w: foreskin
+w: prepuce1
+w: foreskin1
 hyper: skin
 hp: penis
 g: a fold of skin covering the tip of the penis
@@ -7731,7 +7731,7 @@ hyper: muscle
 g: a muscle that produces or assists in pronation
 
 w: pronucleus
-hyper: nucleus
+hyper: nucleus1
 g: the nucleus of the ovum or sperm after fertilization but before they fuse to form the nucleus of the zygote
 
 w: proprioceptor
@@ -7768,7 +7768,7 @@ g: a kind of astrocyte found in the grey matter
 
 w: protoplasm
 w: living_substance
-hyper: noun.Tops:substance
+hyper: noun.Tops:substance1
 g: the substance of a living cell (including cytoplasm and nucleus)
 
 w: Protropin
@@ -7802,7 +7802,7 @@ g: two bony processes descending from the body of the sphenoid bone
 
 w: pubes
 w: pubic_region
-w: loins
+w: loins1
 hyper: area
 g: the lower part of the abdomen just above the external genital organs
 
@@ -7926,7 +7926,7 @@ g: a network of Purkinje fibers that carry the cardiac impulse from the atrioven
 
 w: pus
 w: purulence
-w: suppuration drf verb.body:suppurate1 drf verb.body:suppurate
+w: suppuration drf verb.body:suppurate drf verb.body:suppurate1
 w: ichor drf adj.pert:ichorous
 w: sanies drf adj.pert:sanious
 w: festering
@@ -8017,7 +8017,7 @@ hp: nerve
 dt: noun.cognition:anatomy
 g: (anatomy) a small structure resembling a rootlet (such as a fibril of a nerve)
 
-w: radius drf adj.pert:radial1
+w: radius drf adj.pert:radial
 hyper: arm_bone
 hp: forearm
 g: the outer and slightly shorter of the two bones of the human forearm
@@ -8038,7 +8038,7 @@ hyper: noun.shape:ridge
 hp: scrotum
 g: a ridge that forms a seam between two parts
 
-w: receptor1
+w: receptor
 hyper: structure
 g: a cellular structure that is postulated to exist in order to mediate between a chemical agent that acts on nervous tissue and the physiological response
 
@@ -8158,12 +8158,12 @@ g: any organ involved in the process of respiration
 w: respiratory_system
 w: systema_respiratorium
 hyper: system
-hp: body
+hp: body2
 g: the system for taking in oxygen and giving off carbon dioxide; in terrestrial animals this is accomplished by breathing
 
 w: respiratory_tract
 w: airway
-hyper: tract1
+hyper: tract
 hp: respiratory_system
 g: the passages through which air enters and leaves the body
 
@@ -8247,7 +8247,7 @@ w: rhomboid_muscle
 hyper: skeletal_muscle
 g: any of several muscles of the upper back that help move the shoulder blade
 
-w: rib2
+w: rib1
 hyper: structure
 g: a riblike supporting or strengthening part of an animal or plant
 
@@ -8257,7 +8257,7 @@ hp: thorax1
 hp: axial_skeleton
 g: the bony enclosing wall of the chest
 
-w: rib1
+w: rib
 w: costa1 drf adj.pert:costal
 hyper: bone
 hp: noun.animal:vertebrate
@@ -8325,7 +8325,7 @@ w: annualry
 hyper: finger
 g: the third finger (especially of the left hand)
 
-w: roach drf verb.contact:roach1
+w: roach drf verb.contact:roach
 hyper: hairdo
 g: a roll of hair brushed back from the forehead
 
@@ -8354,7 +8354,7 @@ g: the part of a tooth that is embedded in the jaw and serves as support
 
 w: rotator_cuff
 hyper: structure
-hp: shoulder2
+hp: shoulder
 g: a supporting structure of the shoulder consisting of the muscles and tendons that attach the arm to the shoulder joint and enable the arm to move
 
 w: round_bone
@@ -8366,7 +8366,7 @@ w: ligamentum_teres_uteri
 hyper: ligament
 g: ligament attached to the uterus on either side in front of and below the opening of the Fallopian tube and passing through the inguinal canal to the labia majora
 
-w: rudiment drf adjs.all:rudimentary drf adjs.all:rudimentary
+w: rudiment drf adjs.all:rudimentary1 drf adjs.all:rudimentary2
 hyper: body_part
 g: the remains of a body part that was functional at an earlier stage of life; "Meckel's diverticulum is the rudiment of the embryonic yolk sac"
 
@@ -8422,7 +8422,7 @@ g: a duct through which saliva passes from the salivary gland into the mouth
 
 w: salivary_gland
 hyper: exocrine_gland
-hp: mouth1
+hp: mouth
 hp: digestive_system
 g: any of three pairs of glands in the mouth and digestive system that secrete saliva for digestion
 
@@ -8467,7 +8467,7 @@ w: sarcosome drf adj.pert:sarcosomal
 hyper: mitochondrion
 g: a large mitochondrion in a striated muscle fiber
 
-w: sartorius drf adj.pert:sartorial1
+w: sartorius drf adj.pert:sartorial
 w: sartorius_muscle
 w: musculus_sartorius
 hyper: skeletal_muscle
@@ -8508,7 +8508,7 @@ w: shoulder_blade
 w: shoulder_bone
 hyper: bone
 hp: endoskeleton
-hp: shoulder2
+hp: shoulder
 g: either of two flat triangular bones one on each side of the shoulder in human beings
 
 w: scar_tissue
@@ -8610,7 +8610,7 @@ g: a membrane (as a cell membrane) that allows some molecules to pass through bu
 
 w: sense_organ
 w: sensory_receptor
-w: receptor drf verb.perception:receive ant effector
+w: receptor1 drf verb.perception:receive2 ant effector1
 hyper: organ
 hp: sensory_system
 g: an organ having nerve endings (in the skin or viscera or eye or ear or nose or mouth) that respond to stimulation
@@ -8644,7 +8644,7 @@ g: a neuron conducting impulses inwards to the brain or spinal cord
 
 w: sensory_system
 hyper: system
-hp: body
+hp: body2
 g: the body's system of sense organs
 
 w: septum drf adj.pert:septal
@@ -8710,7 +8710,7 @@ hyper: leg1
 g: you own legs; "I traveled on shank's mare"
 
 w: sheath
-w: case drf verb.contact:case1
+w: case drf verb.contact:case
 hyper: noun.object:covering
 g: an enveloping structure or covering enclosing an animal or plant organ or part
 
@@ -8734,7 +8734,7 @@ w: short_saphenous_vein
 hyper: saphenous_vein
 g: a vein running from the foot up the back of the leg to the knee
 
-w: shoulder drf verb.contact:shoulder1 drf verb.contact:shoulder drf verb.contact:shoulder2
+w: shoulder1 drf verb.contact:shoulder1 drf verb.contact:shoulder2 drf verb.contact:shoulder
 hyper: body_part
 hp: torso
 g: the part of the body between the neck and the upper arm
@@ -8745,7 +8745,7 @@ hyper: arch
 hp: pectoral_girdle
 g: the bony arch formed by the collarbones and shoulder blades in humans
 
-w: shoulder2 drf verb.contact:shoulder2
+w: shoulder drf verb.contact:shoulder
 w: shoulder_joint
 w: articulatio_humeri
 hyper: ball-and-socket_joint
@@ -8810,7 +8810,7 @@ hyper: bone
 hp: human_head
 g: the front part of the head or skull (including the forehead)
 
-w: sinus2
+w: sinus1
 hyper: cavity
 g: any of various air-filled cavities especially in the bones of the skull
 
@@ -8845,7 +8845,7 @@ w: skin_graft
 hyper: skin
 g: a piece of skin taken from a donor area and surgically grafted at the site of an injury or burn
 
-w: skin drf adj.pert:skinny drf verb.contact:skin2
+w: skin drf adj.pert:skinny drf verb.contact:skin
 w: tegument
 w: cutis drf adj.pert:cutaneal
 hyper: connective_tissue
@@ -8855,13 +8855,13 @@ g: a natural protective body covering and site of the sense of touch; "your skin
 
 w: skull
 hyper: bone
-hp: head
+hp: head1
 hp: axial_skeleton
 g: the bony skeleton of the head of vertebrates
 
 w: small
 hyper: body_part
-hp: back
+hp: back1
 g: the slender part of the back
 
 w: small_intestine
@@ -8893,7 +8893,7 @@ w: involuntary_muscle
 hyper: muscle
 g: a muscle that contracts without conscious control and found in walls of internal organs such as stomach and intestine and bladder and blood vessels (excluding the heart)
 
-w: snot drf adjs.all:snotty
+w: snot drf adjs.all:snotty1
 hyper: mucus
 g: nasal mucus
 
@@ -8918,7 +8918,7 @@ g: a large plexus of sympathetic nerves in the abdomen behind the stomach
 
 w: sole
 hyper: area
-hp: foot1
+hp: foot
 g: the underside of the foot
 
 w: soleus
@@ -8954,7 +8954,7 @@ g: a small patch of facial hair just below the lower lip and above the chin
 w: soup-strainer
 w: toothbrush
 hyper: mustache
-du: noun.communication:slang
+du: noun.communication:slang1
 g: slang for a mustache
 
 w: spare_tire
@@ -9044,7 +9044,7 @@ w: spinal_column
 w: vertebral_column
 w: spine drf adj.pert:spinal
 w: backbone
-w: back1
+w: back
 w: rachis
 hyper: skeletal_structure
 hp: axial_skeleton
@@ -9060,7 +9060,7 @@ g: a major part of the central nervous system which conducts sensory and motor n
 w: spinal_fluid
 w: cerebrospinal_fluid
 hyper: liquid_body_substance
-hp: ventricle2
+hp: ventricle
 hp: spinal_cord
 g: clear liquid produced in the ventricles of the brain; fills and protects cavities in the brain and spinal cord
 
@@ -9091,7 +9091,7 @@ g: a breathing orifice
 
 w: spit_curl
 w: kiss_curl
-hyper: crimp1
+hyper: crimp
 g: a spiral curl plastered on the forehead or cheek
 
 w: splanchnic_nerve
@@ -9167,15 +9167,15 @@ w: stigma
 hyper: spiracle
 g: an external tracheal aperture in a terrestrial arthropod
 
-w: stoma drf adj.pert:stomatous2 drf adj.all:stomatous drf adj.pert:stomatal2
+w: stoma drf adj.pert:stomatous drf adj.all:stomatous drf adj.pert:stomatal
 hyper: orifice
 hp: noun.act:colostomy
 hp: noun.act:tracheostomy
 dt: noun.cognition:surgery
 g: a mouth or mouthlike opening (especially one created by surgery on the surface of the body to create an opening to an internal organ)
 
-w: stomach drf adj.pert:stomachic
-w: tummy
+w: stomach1 drf adj.pert:stomachic
+w: tummy1
 w: tum
 w: breadbasket
 hyper: internal_organ
@@ -9318,7 +9318,7 @@ hp: midbrain
 g: a layer of deeply pigmented grey matter in the midbrain; associated with the striate body; is involved in metabolic disturbances associated with Parkinson's disease and with Huntington's disease
 
 w: subthalamic_nucleus
-hyper: nucleus
+hyper: nucleus1
 hp: subthalamus
 g: an oval mass of grey matter located in the caudal part of the subthalamus; associated with the striate body
 
@@ -9381,7 +9381,7 @@ g: an artery that is a branch of the facial artery that supplies the upper lip
 
 w: superior_labial_vein
 w: vena_labialis_superior
-hyper: labial_vein
+hyper: labial_vein1
 g: a tributary of the facial vein that drains the upper lip
 
 w: superior_mesenteric_artery
@@ -9508,16 +9508,16 @@ w: T_lymphocyte
 hyper: lymphocyte
 g: a small lymphocyte developed in the thymus; it orchestrates the immune system's response to infected or malignant cells
 
-w: taret_organ1
+w: taret_organ
 hyper: organ
 dt: noun.cognition:endocrinology
 g: (endocrinology) organ most affected by a particular hormone
 
-w: target_cell1
+w: target_cell
 hyper: somatic_cell
 g: any cell that has a specific receptor for an antigen or antibody or hormone or drug, or is the focus of contact by a virus or phagocyte or nerve fiber etc.
 
-w: target_cell
+w: target_cell1
 hyper: red_blood_cell
 g: an abnormal red blood cell with the appearance of a dark ring surrounding a dark center; associated with anemia
 
@@ -9553,7 +9553,7 @@ hp: epiglottis
 hp: throat
 g: an oval sensory end organ on the surface of the tongue
 
-w: tear1 drf verb.body:tear
+w: tear drf verb.body:tear
 w: teardrop
 hyper: noun.quantity:drop
 hp: lacrimal_secretion
@@ -9569,13 +9569,13 @@ hyper: chromosome
 g: a chromosome like a straight rod with the centromere in terminal position
 
 w: telomere
-hyper: noun.location:end
+hyper: noun.location:end2
 hp: chromosome
 g: either (free) end of a eukaryotic chromosome; "telomeres act as caps to keep the sticky ends of chromosomes from randomly clumping together"
 
 w: temple
 hyper: feature
-hp: head
+hp: head1
 g: the flat area on either side of the forehead; "the veins in his temple throbbed"
 
 w: temporal_artery
@@ -9621,7 +9621,7 @@ hyper: connective_tissue
 hp: muscular_structure
 g: a cord or band of inelastic tissue connecting a muscle with its bony attachment
 
-w: tensor drf verb.body:tense1
+w: tensor drf verb.body:tense
 hyper: muscle
 g: any of several muscles that cause an attached structure to become tense or firm
 
@@ -9649,7 +9649,7 @@ g: teres muscle that adducts the arm and rotates it laterally
 w: teres
 w: teres_muscle
 hyper: skeletal_muscle
-hp: shoulder
+hp: shoulder1
 g: either of two muscles in the shoulder region that move the shoulders and arms
 
 w: testicular_artery
@@ -9692,7 +9692,7 @@ w: thatch
 hyper: hairdo
 g: hair resembling thatched roofing material
 
-w: thenar1 drf adj.pert:thenar drf adj.pert:thenal
+w: thenar drf adj.pert:thenar drf adj.pert:thenal
 hyper: area
 hp: palm
 g: the fleshy area of the palm at the base of the thumb
@@ -9713,7 +9713,7 @@ hp: diencephalon
 g: a sensory structure capable of light reception located on the dorsal side of the diencephalon in various reptiles
 
 w: third_ventricle
-hyper: ventricle2
+hyper: ventricle
 g: a narrow ventricle in the midplane below the corpus callosum; communicates with the fourth ventricle via the Sylvian aqueduct
 
 w: thoracic_aorta
@@ -9739,7 +9739,7 @@ g: veins that drain the thoracic walls
 w: thoracic_vertebra
 w: dorsal_vertebra
 hyper: vertebra
-hp: back
+hp: back1
 g: one of 12 vertebrae in the human vertebral column; thoracic vertebrae extend from the seventh cervical vertebra down to the first lumbar vertebra
 
 w: thoracoepigastric_vein
@@ -9747,13 +9747,13 @@ w: vena_thoracoepigastrica
 hyper: vein
 g: a vein arising from the region of the superficial epigastric vein and opening into the axillary vein or thoracic vein
 
-w: thorax2
+w: thorax
 hyper: body_part
 hp: noun.animal:arthropod
 g: the middle region of the body of an arthropod between the head and the abdomen
 
 w: thorax1
-w: chest drf adjs.all:chesty
+w: chest1 drf adjs.all:chesty
 w: pectus
 hyper: body_part
 hp: torso
@@ -9812,7 +9812,7 @@ g: any of several small veins draining blood from the thyroid area
 w: thyroxine
 w: thyroxin
 w: tetraiodothyronine
-w: T4
+w: T1
 hyper: thyroid_hormone
 g: hormone produced by the thyroid glands to regulate metabolism by controlling the rate of oxidation in cells; "thyroxine is 65% iodine"
 
@@ -9861,15 +9861,15 @@ w: tobacco_juice
 hyper: saliva
 g: saliva colored brown by tobacco (snuff or chewing tobacco)
 
-w: toe2
+w: toe
 hyper: body_part
-hp: noun.animal:hoof
+hp: noun.animal:hoof1
 g: forepart of a hoof
 
-w: toe1 drf verb.contact:toe drf verb.motion:toe
+w: toe1 drf verb.contact:toe3 drf verb.motion:toe
 hyper: digit
-hp: foot1
-hyper: extremity1
+hp: foot
+hyper: extremity
 g: one of the digits of the foot
 
 w: toenail
@@ -9888,7 +9888,7 @@ w: glossa
 w: clapper
 hyper: organ
 hyper: articulator
-hp: mouth1
+hp: mouth
 hp: throat
 g: a mobile mass of muscular tissue covered with mucous membrane and located in the oral cavity
 
@@ -9910,23 +9910,23 @@ hm: dentition
 g: hard bonelike structures in the jaws of vertebrates; used for biting and chewing or for attack and defense
 
 w: tooth_socket
-w: alveolus2
+w: alveolus1
 hyper: socket
 hp: alveolar_ridge
 g: a bony socket in the alveolar ridge that holds a tooth
 
 w: torso
 w: trunk
-w: body1
+w: body
 hyper: body_part
-hp: body
+hp: body2
 g: the body excluding the head and neck and limbs; "they moved their arms and legs and bodies"
 
 w: trabecula drf adj.pert:trabecular
 hyper: fibrous_tissue
 g: rod-shaped structures of fibrous tissue that divide an organ into parts (as in the penis) or stabilize the structure of an organ (as in the spleen)
 
-w: trachea2 drf adj.pert:tracheal
+w: trachea drf adj.pert:tracheal
 hyper: tubule
 hp: respiratory_system
 g: one of the tubules forming the respiratory system of most insects and many arachnids
@@ -9943,13 +9943,13 @@ hp: upper_respiratory_tract
 hp: neck
 g: membranous tube with cartilaginous rings that conveys inhaled air from the larynx to the bronchi
 
-w: tract1
+w: tract
 hyper: system
 g: a system of body parts that together serve some particular purpose
 
 w: tragus
 hyper: cartilaginous_structure
-hp: auricle2
+hp: auricle1
 g: a small cartilaginous flap in front of the external opening of the ear
 
 w: transgene
@@ -9984,7 +9984,7 @@ w: hole
 w: maw
 w: yap
 w: gob
-hyper: mouth1
+hyper: mouth
 g: informal terms for the mouth
 
 w: trapezium
@@ -10031,7 +10031,7 @@ g: the main sensory nerve of the face and motor nerve for the muscles of mastica
 
 w: triiodothyronine
 w: liothyronine
-w: T3
+w: T
 hyper: thyroid_hormone
 g: thyroid hormone similar to thyroxine but with one less iodine atom per molecule and produced in smaller quantity; exerts the same biological effects as thyroxine but is more potent and briefer
 
@@ -10056,7 +10056,7 @@ hyper: cranial_nerve
 g: either of the two cranial nerves on either side that control the superior oblique muscles of the eyes
 
 w: true_rib
-hyper: rib1
+hyper: rib
 g: one of the first seven ribs in a human being which attach to the sternum
 
 w: true_vocal_cord
@@ -10067,7 +10067,7 @@ hyper: vocal_cord
 g: either of the two lower vocal folds that come together to form the glottis; produce a vocal tone when they are approximated and air from the lungs passes between them
 
 w: tuberosity drf adj.pert:tuberous
-w: tubercle2 drf adj.pert:tubercular1
+w: tubercle drf adj.pert:tubercular1
 w: eminence
 hyper: process
 g: a protuberance on a bone especially for attachment of a muscle or ligament
@@ -10162,7 +10162,7 @@ g: a slight rounded elevation where the malleus attaches to the eardrum
 
 w: underbelly
 w: underbody
-hyper: abdomen
+hyper: abdomen1
 g: the soft belly or underside of an animal's body
 
 w: underlip
@@ -10179,7 +10179,7 @@ w: upper_jaw
 w: upper_jawbone
 w: maxilla
 w: maxillary drf adj.pert:maxillary
-hyper: jaw
+hyper: jaw1
 g: the jaw in vertebrates that is fused to the cranium
 
 w: upper_respiratory_tract
@@ -10220,7 +10220,7 @@ hp: urogenital_system
 g: a membranous sac for temporary retention of urine
 
 w: urinary_tract
-hyper: tract1
+hyper: tract
 hp: urogenital_system
 g: the organs and tubes involved in the production and excretion of urine
 
@@ -10301,7 +10301,7 @@ g: smear taken from the vaginal mucosa for cytological analysis
 w: vagus drf adj.pert:vagal
 w: vagus_nerve
 w: nervus_vagus
-w: pneumogastric drf adj.pert:pneumogastric1
+w: pneumogastric drf adj.pert:pneumogastric
 w: pneumogastric_nerve
 w: tenth_cranial_nerve
 w: wandering_nerve
@@ -10314,7 +10314,7 @@ hp: heart
 g: a structure in a hollow organ (like the heart) with a flap to insure one-way flow of fluid through it
 
 w: valvule
-w: valvelet drf valve drf noun.artifact:valve1 drf noun.artifact:valve
+w: valvelet drf valve drf noun.artifact:valve drf noun.artifact:valve1
 w: valvula
 hyper: valve
 g: a small valve
@@ -10352,7 +10352,7 @@ g: a structure composed of or provided with blood vessels
 
 w: vascular_system
 hyper: system
-hp: body
+hp: body2
 hp: noun.plant:vascular_plant
 g: the vessels and tissue that carry or circulate fluids such as blood or lymph or sap through the body of an animal or plant
 
@@ -10364,7 +10364,7 @@ hyper: hormone
 hyper: noun.artifact:vasoconstrictor
 g: hormone secreted by the posterior pituitary gland (trade name Pitressin) and also by nerve endings in the hypothalamus; affects blood pressure by stimulating capillary muscles and reduces urine flow by affecting reabsorption of water by kidney tubules
 
-w: vegetation drf verb.change:vegetate4
+w: vegetation drf verb.change:vegetate3
 hyper: excrescence
 g: an abnormal growth or excrescence (especially a warty excrescence on the valves of the heart)
 
@@ -10428,12 +10428,12 @@ g: interlobular veins of the kidney; receive blood from the arcuate vein and emp
 
 w: venae_labiales_anteriores
 w: anterior_labial_veins
-hyper: labial_vein1
+hyper: labial_vein
 g: veins from the labia majora to the external pudendal vein
 
 w: venae_labiales_posteriores
 w: posterior_labial_veins
-hyper: labial_vein1
+hyper: labial_vein
 g: veins that pass posterior from the labia majora to the internal pudendal vein
 
 w: venae_palpebrales
@@ -10462,16 +10462,16 @@ hyper: blood
 g: blood found in the veins; "except in the pulmonary vein venous blood is rich in carbon dioxide and poor in oxygen"
 
 w: venous_sinus
-w: sinus1
+w: sinus2
 hyper: duct
 g: a wide channel containing blood; does not have the coating of an ordinary blood vessel
 
-w: venter2 drf adj.all:ventral
+w: venter1 drf adj.all:ventral
 hyper: uterus
 dt: noun.group:law
 g: the womb; "`in venter' is legal terminology for `conceived but not yet born'"
 
-w: venter1 drf adj.all:ventral
+w: venter2 drf adj.all:ventral
 hyper: body_part
 g: a bulging body part (as the belly of a muscle)
 
@@ -10483,12 +10483,12 @@ hyper: motor_nerve
 hp: spinal_nerve
 g: one of two the two roots of a spinal nerve that passes ventrally from the spinal cord and that consists of motor fibers
 
-w: ventricle2 drf adj.pert:ventricular1
+w: ventricle drf adj.pert:ventricular
 hyper: cavity
 hp: brain
 g: one of four connected cavities in the brain; is continuous with the central canal of the spinal cord and contains cerebrospinal fluid
 
-w: ventricle1 drf adj.pert:ventricular1
+w: ventricle1 drf adj.pert:ventricular
 w: heart_ventricle
 hyper: chamber
 g: a chamber of the heart that receives blood from an atrium and pumps it to the arteries
@@ -10522,8 +10522,8 @@ g: a vein that goes through the foramina of the cervical vertebrae and forms a p
 
 w: vertebrate_foot
 w: pedal_extremity
-hyper: extremity1
-hp: leg2
+hyper: extremity
+hp: leg
 hp: noun.animal:vertebrate
 g: the extremity of the limb in vertebrates
 
@@ -10533,7 +10533,7 @@ hyper: vein
 g: veins that drain the vesical plexus and join the internal iliac veins
 
 w: vesicle
-w: cyst drf adj.pert:cystic1
+w: cyst drf adj.pert:cystic
 hyper: sac
 g: a small anatomically normal sac or bladderlike structure (especially one containing fluid)
 
@@ -10563,7 +10563,7 @@ g: any of various bodily cavities leading to another cavity (as of the ear or va
 
 w: vestibule_of_the_ear
 hyper: vestibule
-hp: ear
+hp: ear1
 g: the central cavity of the bony labyrinth of the ear
 
 w: vestibule_of_the_vagina
@@ -10593,7 +10593,7 @@ g: one of the cells of the retina that is sensitive to light
 
 w: visual_system
 hyper: sensory_system
-dt: noun.cognition:sight
+dt: noun.cognition:sight2
 g: the sensory system for vision
 
 w: vital_organ
@@ -10689,7 +10689,7 @@ hyper: blood
 g: blood that has not been modified except for the addition of an anticoagulant; "whole blood is normally used in blood transfusions"
 
 w: widow's_peak
-hyper: noun.shape:point
+hyper: noun.shape:point1
 hp: hairline
 g: a V-shaped point in the hairline in the middle of the forehead
 

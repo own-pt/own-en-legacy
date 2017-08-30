@@ -4,18 +4,18 @@ g: an angle less than 90 degrees but more than 0 degrees
 
 w: acute_triangle
 w: acute-angled_triangle
-hyper: triangle
+hyper: triangle1
 g: a triangle whose interior angles are all acute
 
 w: altitude drf adj.pert:altitudinal
-hyper: noun.attribute:distance1
+hyper: noun.attribute:distance
 g: the perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel)
 
 w: amorphous_shape
 hyper: noun.Tops:shape
 g: an ill-defined or arbitrary shape
 
-w: angle drf adj.pert:angular drf adj.all:angular drf verb.change:angulate drf verb.motion:angle1 drf verb.motion:angle drf adj.all:angulate
+w: angle drf adj.pert:angular drf adj.all:angular drf verb.change:angulate drf verb.motion:angle drf verb.motion:angle1 drf adj.all:angulate
 hyper: space
 g: the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians
 
@@ -50,9 +50,9 @@ w: angularity drf adj.all:angular
 hyper: noun.Tops:shape
 g: a shape having one or more sharp angles
 
-w: arc drf verb.motion:arc drf adjs.all:arcuate
+w: arc1 drf verb.motion:arc drf adjs.all:arcuate
 hyper: curve
-hp: circle
+hp: circle1
 hp: sector
 g: a continuous portion of a circle
 
@@ -63,7 +63,7 @@ g: a curved shape in the vertical plane that spans an opening
 w: articulation drf verb.possession:articulate
 w: join
 w: joint drf verb.contact:joint drf verb.possession:joint drf verb.stative:joint
-w: juncture drf verb.stative:join1
+w: juncture drf verb.stative:join
 w: junction
 hyper: connection
 g: the shape or manner in which things come together and a connection is made
@@ -114,35 +114,35 @@ w: belly
 hyper: bulge
 g: a part that bulges deeply; "the belly of a sail"
 
-w: bend2 drf verb.motion:bend1 drf verb.motion:bend
+w: bend1 drf verb.motion:bend3 drf verb.motion:bend1
 w: crook drf verb.motion:crook
 w: twist1
 w: turn
 hyper: curve
 g: a circular segment of a curve; "a bend in the road"; "a crook in the path"
 
-w: bifurcation1 drf verb.stative:bifurcate drf verb.change:bifurcate
+w: bifurcation drf verb.stative:bifurcate drf verb.change:bifurcate
 hyper: branch
-hp: bifurcation
+hp: bifurcation1
 g: a bifurcating branch (one or both of them)
 
-w: bifurcation drf verb.change:bifurcate
+w: bifurcation1 drf verb.change:bifurcate
 hyper: furcation
 g: the place where something divides into two branches
 
-w: bight1 drf verb.contact:bight
+w: bight drf verb.contact:bight
 hyper: loop
 g: a loop in a rope
 
-w: bight
-hyper: bend2
+w: bight1
+hyper: bend1
 g: a bend or curve (especially in a coastline)
 
 w: blob drf verb.contact:blob
 hyper: amorphous_shape
 g: an indistinct shapeless form
 
-w: block1 drf adjs.all:blocky drf verb.change:block1
+w: block drf adjs.all:blocky drf verb.change:block
 w: cube1 drf adjs.all:cuboidal drf adjs.all:cubical drf verb.contact:cube
 hyper: solid
 g: a three-dimensional shape with six square or rectangular sides
@@ -154,11 +154,11 @@ g: a small round soft mass (as of chewed food)
 w: boundary drf verb.stative:bound
 w: edge drf verb.contact:edge
 w: bound drf verb.stative:bound drf verb.change:bound
-hyper: line
+hyper: line1
 g: a line determining the limits of an area
 
 w: bow
-w: arc1 drf verb.motion:arc
+w: arc drf verb.motion:arc
 hyper: curve
 g: something curved in shape
 
@@ -176,16 +176,16 @@ hyper: branch
 dt: noun.cognition:biology
 g: (biology) a branching or armlike part of an animal
 
-w: branch drf adj.all:branchy drf verb.change:branch
+w: branch drf adj.all:branchy drf verb.change:branch1
 w: leg
-w: ramification drf verb.change:ramify1 drf verb.change:ramify
+w: ramification drf verb.change:ramify1 drf verb.change:ramify2
 hyper: subfigure
 hp: furcation
 g: a part of a forked or branching shape; "he broke off one of the branches"
 
 w: brink
 w: threshold
-w: verge drf verb.stative:verge1
+w: verge drf verb.stative:verge
 hyper: boundary
 g: a region marking a boundary
 
@@ -201,7 +201,7 @@ w: gibbosity drf adjs.all:gibbous
 w: gibbousness drf adjs.all:gibbous
 w: jut
 w: prominence
-w: protuberance drf adjs.all:protuberant drf verb.stative:protuberate1
+w: protuberance drf adjs.all:protuberant drf verb.stative:protuberate
 w: protrusion drf verb.motion:protrude drf verb.change:protrude
 w: extrusion
 w: excrescence drf adj.pert:excrescent
@@ -225,7 +225,7 @@ hyper: plane
 g: a plane in which all points can be described in Cartesian coordinates
 
 w: cast drf verb.communication:cast
-w: mold drf verb.creation:mold1 drf verb.creation:mold drf verb.creation:mold2
+w: mold drf verb.creation:mold2 drf verb.creation:mold1 drf verb.creation:mold
 w: mould
 w: stamp drf verb.creation:stamp drf verb.perception:stamp
 hyper: solid
@@ -242,30 +242,30 @@ g: space that is surrounded by something
 
 w: centerline
 w: center_line
-hyper: line
+hyper: line1
 g: a line that bisects a plane figure
 
 w: chord
 hyper: straight_line
 g: a straight line connecting two points on a curve
 
-w: circle1 drf verb.contact:circle12
+w: circle drf verb.contact:circle
 hyper: noun.Tops:shape
 g: something approximating the shape of a circle; "the chairs were arranged in a circle"
 
-w: circle drf adj.all:circular
+w: circle1 drf adj.all:circular
 hyper: ellipse
 g: ellipse in which the two axes are of equal length; a plane curve generated by one point moving at a constant distance from a fixed point; "he calculated the circumference of the circle"
 
 w: circlet
-hyper: circle
+hyper: circle1
 g: a small circle
 
 w: cladogram
 hyper: tree
 g: a tree diagram used to illustrate phylogenetic relationships
 
-w: cleft drf verb.contact:cleave drf verb.contact:cleave1
+w: cleft drf verb.contact:cleave1 drf verb.contact:cleave
 hyper: indentation
 g: a split or indentation in something (as the palate or chin)
 
@@ -275,8 +275,8 @@ g: a curve (such as a circle) having no endpoints
 
 w: coil drf verb.motion:coil drf verb.contact:coil
 w: whorl
-w: roll drf verb.change:roll10 drf verb.contact:roll5 drf verb.stative:roll
-w: curl drf verb.contact:curl1 drf verb.motion:curl drf verb.change:curl
+w: roll drf verb.change:roll1 drf verb.contact:roll2 drf verb.stative:roll
+w: curl drf verb.contact:curl drf verb.motion:curl drf verb.change:curl
 w: curlicue
 w: ringlet
 w: gyre
@@ -285,10 +285,10 @@ hyper: round_shape
 g: a round shape formed by a series of concentric circles (as formed by leaves or flower petals)
 
 w: columella
-hyper: column2
+hyper: column
 g: a small column (or structure resembling a column) that is a part of a plant or animal
 
-w: column2 drf adjs.all:columnar2
+w: column drf adjs.all:columnar
 w: tower drf verb.stative:tower
 w: pillar
 hyper: noun.Tops:shape
@@ -368,7 +368,7 @@ hyper: curve
 g: any shape resembling the curved shape of the moon in its first or last quarters
 
 w: crevice
-w: cranny1
+w: cranny
 w: crack
 w: fissure drf verb.change:fissure
 w: chap
@@ -406,9 +406,9 @@ w: curate_cycloid
 hyper: cycloid
 g: a cycloid generated by a point inside the rolling circle
 
-w: curve drf verb.motion:curve ant straight_line
+w: curve drf verb.motion:curve2 ant straight_line
 w: curved_shape
-hyper: line
+hyper: line1
 g: the trace of a point whose direction of motion changes
 
 w: cutting_angle
@@ -423,7 +423,7 @@ w: cylinder drf adjs.all:cylindric
 hyper: round_shape
 g: a surface generated by rotating a parallel line around a fixed line
 
-w: cylinder2 drf adjs.all:cylindric
+w: cylinder1 drf adjs.all:cylindric
 hyper: solid
 g: a solid bounded by a cylindrical surface and two parallel planes (the bases)
 
@@ -453,12 +453,12 @@ w: dewdrop
 hyper: drop
 g: a drop of dew
 
-w: diagonal1 drf adjs.all:diagonal2
+w: diagonal drf adjs.all:diagonal
 hyper: straight_line
 dt: noun.cognition:geometry
 g: (geometry) a straight line connecting any two vertices of a polygon that are not adjacent
 
-w: diagonal drf adjs.all:diagonal
+w: diagonal1 drf adjs.all:diagonal1
 w: bias
 hyper: straight_line
 g: a line or cut across a fabric that is not at right angles to a side of the fabric
@@ -471,17 +471,17 @@ w: dimple drf verb.change:dimple
 hyper: depression
 g: any slight depression in a surface; "there are approximately 336 dimples on a golf ball"
 
-w: dip1 drf verb.motion:dip2 drf verb.change:dip1
+w: dip drf verb.motion:dip2 drf verb.change:dip
 hyper: depression
 g: a depression in an otherwise level surface; "there was a dip in the road"
 
-w: dip
+w: dip1
 w: angle_of_dip
 w: magnetic_dip
 w: magnetic_inclination
-w: inclination drf verb.motion:incline
+w: inclination drf verb.motion:incline1
 hyper: angle
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the angle that a magnetic needle makes with the plane of the horizon
 
 w: disk
@@ -526,7 +526,7 @@ hyper: sphere
 g: a shape that is spherical and small; "he studied the shapes of low-viscosity drops"; "beads of sweat on his forehead"
 
 w: eccentricity drf adj.all:eccentric
-hyper: noun.relation:ratio1
+hyper: noun.relation:ratio
 dt: noun.cognition:geometry
 g: (geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis; "a circle is an ellipse with zero eccentricity"
 
@@ -542,7 +542,7 @@ w: element_of_a_cylinder
 hyper: element
 g: a straight line running the length of the cylinder
 
-w: ellipse drf adjs.all:elliptic drf adjs.all:elliptical
+w: ellipse drf adjs.all:elliptic1 drf adjs.all:elliptical
 w: oval drf adjs.all:oval
 hyper: conic_section
 g: a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it; "the sums of the distances from the foci to any point on an ellipse is constant"
@@ -553,7 +553,7 @@ g: a surface whose plane sections are all ellipses or circles; "the Earth is an 
 
 w: entasis
 hyper: convex_shape
-hp: noun.artifact:column
+hp: noun.artifact:column2
 g: a slight convexity in the shaft of a column; compensates for the illusion of concavity that viewers experience when the sides are perfectly straight
 
 w: envelope
@@ -561,15 +561,15 @@ hyper: curve
 g: a curve that is tangent to each of a family of curves
 
 w: epicycle drf adj.pert:epicyclic drf adj.pert:epicyclical
-hyper: circle
+hyper: circle1
 g: a circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid
 
 w: epicycloid
 hyper: roulette
 g: a line generated by a point on a circle rolling around another circle
 
-w: equator drf adj.pert:equatorial2 drf verb.change:equate
-hyper: circle
+w: equator drf adj.pert:equatorial drf verb.change:equate
+hyper: circle1
 g: a circle dividing a sphere or other surface into two usually equal and symmetrical parts
 
 w: equilateral
@@ -578,7 +578,7 @@ g: a figure whose sides are all equal
 
 w: equilateral_triangle
 w: equiangular_triangle
-hyper: triangle
+hyper: triangle1
 hyper: regular_polygon
 g: a three-sided regular polygon
 
@@ -611,17 +611,17 @@ w: flank drf verb.stative:flank
 hyper: subfigure
 g: a subfigure consisting of a side of something
 
-w: flare drf verb.change:flare
+w: flare drf verb.change:flare1
 w: flair
 hyper: noun.Tops:shape
 g: a shape that spreads outward; "the skirt had a wide flare"
 
-w: fold drf verb.contact:fold
-w: crease2
+w: fold drf verb.contact:fold1
+w: crease
 w: plication drf verb.contact:plicate
-w: flexure drf verb.motion:flex
-w: crimp drf verb.contact:crimp1
-w: bend1 drf verb.motion:bend drf verb.contact:bend
+w: flexure drf verb.motion:flex1
+w: crimp drf verb.contact:crimp
+w: bend drf verb.motion:bend1 drf verb.contact:bend1
 hyper: angular_shape
 g: an angular or rounded shape made by folding; "a fold in the napkin"; "a crease in his trousers"; "a plication on her blouse"; "a flexure of the colon"; "a bend of his elbow"
 
@@ -650,7 +650,7 @@ g: the place where something divides into branches
 
 w: geodesic drf adj.pert:geodesic
 w: geodesic_line
-hyper: line
+hyper: line1
 dt: noun.cognition:mathematics
 g: (mathematics) the shortest line between two points on a mathematically defined surface (as a straight line on a plane or an arc of a great circle on a sphere)
 
@@ -658,7 +658,7 @@ w: gooseneck
 hyper: curve
 g: something in a thin curved form (like the neck of a goose)
 
-w: groove drf verb.contact:groove drf verb.contact:groove2
+w: groove drf verb.contact:groove1 drf verb.contact:groove
 w: channel
 hyper: depression
 g: a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)
@@ -672,7 +672,7 @@ hyper: angle
 g: the constant angle at which a helix cuts the elements of a cylinder or cone
 
 w: helix
-w: spiral1 drf verb.stative:spiral
+w: spiral drf verb.stative:spiral
 hyper: curve
 g: a curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle
 
@@ -706,12 +706,12 @@ w: hole
 hyper: space
 g: an unoccupied space
 
-w: hollow2 drf adj.all:hollow
+w: hollow drf adj.all:hollow
 hyper: cavity
 g: a cavity or space in something; "hunger had caused the hollows in their cheeks"
 
 w: hoodoo
-hyper: column2
+hyper: column
 dt: noun.cognition:geology
 g: (geology) a column of weathered and unusually shaped rock; "a tall sandstone hoodoo"
 
@@ -747,10 +747,10 @@ w: icosahedron drf adj.pert:icosahedral
 hyper: polyhedron
 g: any polyhedron having twenty plane faces
 
-w: incision drf adjs.all:incisive drf verb.contact:incise
-w: scratch drf verb.contact:scratch
-w: prick drf verb.contact:prick
-w: slit drf verb.contact:slit drf verb.contact:slit1
+w: incision drf adjs.all:incisive1 drf verb.contact:incise
+w: scratch drf verb.contact:scratch3
+w: prick drf verb.contact:prick1
+w: slit drf verb.contact:slit1 drf verb.contact:slit
 w: dent drf verb.contact:dent
 hyper: depression
 g: a depression scratched or carved into a surface
@@ -761,13 +761,13 @@ hyper: notch
 dt: noun.cognition:anatomy
 g: (anatomy) a notch or small hollow
 
-w: inclination1 drf verb.motion:incline
+w: inclination2 drf verb.motion:incline1
 w: angle_of_inclination
 hyper: angle
 dt: noun.cognition:geometry
 g: (geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)
 
-w: inclination2 drf verb.motion:incline
+w: inclination1 drf verb.motion:incline1
 w: inclination_of_an_orbit
 hyper: angle
 dt: noun.cognition:astronomy
@@ -784,7 +784,7 @@ hyper: angle
 g: the angle inside two adjacent sides of a polygon
 
 w: intersection
-hyper: noun.group:set2
+hyper: noun.group:set1
 g: a point or set of points common to two or more geometric configurations
 
 w: intrados
@@ -796,7 +796,7 @@ hyper: polygon
 g: an equiangular polygon
 
 w: isosceles_triangle
-hyper: triangle
+hyper: triangle1
 g: a triangle with two equal sides
 
 w: jog
@@ -808,12 +808,12 @@ hyper: projection
 g: a projection or ridge that suggests a keel
 
 w: kink drf verb.change:kink drf verb.contact:kink
-w: twist drf verb.contact:twist1
+w: twist drf verb.contact:twist2
 w: twirl
 hyper: fold
 g: a sharp bend in a line produced when a line having a loop is pulled tight
 
-w: knot drf adjs.all:knotty drf verb.contact:knot2 drf verb.creation:knot
+w: knot drf adjs.all:knotty3 drf verb.contact:knot drf verb.creation:knot
 w: gnarl drf adjs.all:gnarly drf verb.contact:gnarl
 hyper: distorted_shape
 g: something twisted and tight and swollen; "their muscles stood out in knots"; "the old man's fists were two great gnarls"; "his stomach was in knots"
@@ -828,7 +828,7 @@ hyper: natural_shape
 hp: noun.plant:leaf
 g: any of the various shape that leaves of plants can assume
 
-w: line
+w: line1
 hyper: noun.Tops:shape
 g: a length (straight or curved) without breadth or thickness; the trace of a moving point
 
@@ -862,11 +862,11 @@ g: (mathematics) a number equal to or less than any other number in a given set
 
 w: magnetic_declination
 w: magnetic_variation
-w: variation drf verb.stative:vary1
+w: variation drf verb.stative:vary
 hyper: angle
 g: the angle (at a particular location) between magnetic north and true north
 
-w: margin drf adjs.all:marginal
+w: margin drf adjs.all:marginal3
 w: border drf verb.stative:border
 w: perimeter
 hyper: boundary
@@ -885,7 +885,7 @@ w: natural_shape
 hyper: noun.Tops:shape
 g: a shape created by natural forces; not man-made
 
-w: node2
+w: node
 hyper: connection
 g: a connecting point at which several lines come together
 
@@ -913,10 +913,10 @@ hyper: angle
 g: an angle that is not a right angle or a multiple of a right angle
 
 w: oblique_triangle ant right_triangle
-hyper: triangle
+hyper: triangle1
 g: a triangle that contains no right angle
 
-w: oblong drf adjs.all:oblong
+w: oblong drf adjs.all:oblong1
 hyper: plane_figure
 g: a plane figure that deviates from a square or circle due to elongation
 
@@ -926,7 +926,7 @@ g: an angle between 90 and 180 degrees
 
 w: obtuse_triangle
 w: obtuse-angled_triangle
-hyper: triangle
+hyper: triangle1
 g: a triangle that contains an obtuse interior angle
 
 w: octagon
@@ -976,7 +976,7 @@ g: a small sphere
 
 w: pencil
 hyper: figure
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 dt: noun.cognition:geometry
 g: a figure formed by a set of straight lines or light rays meeting at a point
 
@@ -1000,7 +1000,7 @@ hyper: angle
 g: an angle of 360 degrees
 
 w: perimeter1
-hyper: line
+hyper: line1
 g: a line enclosing a plane areas
 
 w: periphery drf adj.all:peripheral
@@ -1052,26 +1052,26 @@ w: plume
 hyper: noun.Tops:shape
 g: anything that resembles a feather in shape or lightness; "a plume of smoke"; "grass with large plumes"
 
-w: pocket2
+w: pocket1
 hyper: space
 dt: noun.act:bowling
 g: (bowling) the space between the headpin and the pins behind it on the right or left; "the ball hit the pocket and gave him a perfect strike"
 
-w: point2 drf verb.contact:point12 drf verb.contact:point11 drf verb.contact:point13
+w: point drf verb.contact:point2 drf verb.contact:point1 drf verb.contact:point
 w: dot drf verb.change:dot drf verb.communication:dot drf verb.stative:dot
 hyper: disk
 g: a very small circular shape; "a row of points"; "draw lines between the dots"
 
-w: point drf verb.change:point
+w: point1 drf verb.change:point
 w: tip
-w: peak1
+w: peak
 hyper: convex_shape
 hp: cone
 hp: noun.artifact:alpenstock
 hp: noun.artifact:sword
-hp: noun.artifact:pencil
+hp: noun.artifact:pencil1
 hp: noun.artifact:arrowhead
-hp: noun.artifact:knife1
+hp: noun.artifact:knife
 g: a V shape; "the cannibal's teeth were filed to sharp points"
 
 w: polygon
@@ -1087,7 +1087,7 @@ w: polyhedron drf adj.pert:polyhedral
 hyper: solid
 g: a solid figure bounded by plane polygons or faces
 
-w: pore drf adjs.all:porous drf adj.all:poriferous
+w: pore drf adjs.all:porous1 drf adj.all:poriferous
 hyper: hole
 g: any tiny hole admitting passage of a liquid (fluid or gas)
 
@@ -1118,7 +1118,7 @@ w: prolate_cycloid
 hyper: cycloid
 g: a cycloid generated by a point outside the rolling circle
 
-w: pucker drf verb.contact:pucker2 drf verb.contact:pucker1
+w: pucker drf verb.contact:pucker1 drf verb.contact:pucker
 w: ruck drf verb.contact:ruck
 hyper: fold
 g: an irregular fold in an otherwise even surface (as in cloth)
@@ -1131,12 +1131,12 @@ w: quadrangular_prism
 hyper: prism
 g: a prism whose bases are quadrangles
 
-w: quadrate2
+w: quadrate
 hyper: cube
 g: a cubelike object
 
 w: quadrate1
-hyper: square
+hyper: square1
 g: a square-shaped object
 
 w: quadric
@@ -1150,7 +1150,7 @@ w: tetragon drf adj.pert:tetragonal
 hyper: polygon
 g: a four-sided polygon
 
-w: radius drf adj.pert:radial
+w: radius drf adj.pert:radial1
 hyper: straight_line
 g: a straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere)
 
@@ -1159,10 +1159,10 @@ hyper: vector
 dt: noun.cognition:mathematics
 g: (mathematics) a straight line extending from a point
 
-w: recess drf verb.contact:recess drf verb.contact:recess1
+w: recess drf verb.contact:recess1 drf verb.contact:recess
 w: recession
 w: niche
-w: corner drf verb.motion:corner1
+w: corner drf verb.motion:corner
 hyper: concave_shape
 g: a small concavity
 
@@ -1232,7 +1232,7 @@ w: diamond
 hyper: parallelogram
 g: a parallelogram with four equal sides; an oblique-angled equilateral parallelogram
 
-w: ridge drf verb.change:ridge drf verb.contact:ridge drf verb.contact:ridge1 drf verb.creation:ridge
+w: ridge drf verb.change:ridge drf verb.contact:ridge1 drf verb.contact:ridge drf verb.creation:ridge
 hyper: convex_shape
 g: any long raised strip
 
@@ -1242,7 +1242,7 @@ g: the 90 degree angle between two perpendicular lines
 
 w: right_triangle ant oblique_triangle
 w: right-angled_triangle
-hyper: triangle
+hyper: triangle1
 g: a triangle with one right angle
 
 w: rim drf verb.possession:rim
@@ -1255,7 +1255,7 @@ w: halo
 w: annulus
 w: doughnut
 w: anchor_ring
-hyper: toroid1
+hyper: toroid
 g: a toroidal shape; "a ring of ships in the harbor"; "a halo of smoke"
 
 w: roulette
@@ -1275,7 +1275,7 @@ w: S-shape
 hyper: curve
 g: a double curve resembling the letter S
 
-w: sag drf verb.motion:sag1 drf verb.motion:sag
+w: sag drf verb.motion:sag drf verb.motion:sag1
 w: droop drf adjs.all:droopy drf verb.change:droop drf verb.stative:droop drf verb.motion:droop
 hyper: depression
 g: a shape that sags; "there was a sag in the chair seat"
@@ -1285,7 +1285,7 @@ hyper: angle
 g: an angle pointing outward; an interior angle of a polygon that is less than 180 degrees
 
 w: scalene_triangle
-hyper: triangle
+hyper: triangle1
 g: a triangle with no two sides of equal length
 
 w: scallop drf verb.change:scallop drf verb.creation:scallop
@@ -1296,12 +1296,12 @@ w: crenelle
 hyper: curve
 g: one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.)
 
-w: scoop drf verb.contact:scoop1
-w: pocket1
+w: scoop drf verb.contact:scoop
+w: pocket2
 hyper: concave_shape
 g: a hollow concave shape made by removing something
 
-w: score drf verb.contact:score
+w: score drf verb.contact:score1
 w: scotch drf verb.contact:scotch
 hyper: incision
 g: a slight surface cut (especially a notch that is made to keep a tally)
@@ -1342,7 +1342,7 @@ w: snag drf verb.contact:snag1 drf verb.contact:snag
 hyper: bulge
 g: a sharp protuberance
 
-w: solid drf verb.change:solidify
+w: solid drf verb.change:solidify1
 hyper: noun.Tops:shape
 g: a three-dimensional shape
 
@@ -1389,21 +1389,21 @@ w: spherule
 hyper: ball
 g: a small sphere
 
-w: spiral drf verb.stative:spiral drf verb.motion:spiral
+w: spiral1 drf verb.stative:spiral drf verb.motion:spiral1
 hyper: curve
 g: a plane curve traced by a point circling about the center but at increasing distances from the center
 
-w: spur drf verb.contact:spur2
+w: spur drf verb.contact:spur
 w: spine drf adjs.all:spinous
 w: acantha drf adjs.all:acanthous
 hyper: projection
 g: any sharply pointed projection
 
-w: square1
+w: square
 hyper: noun.Tops:shape
 g: something approximating the shape of a square
 
-w: square drf verb.change:square
+w: square1 drf verb.change:square
 w: foursquare
 hyper: rectangle
 hyper: regular_polygon
@@ -1419,7 +1419,7 @@ hyper: tree
 g: a tree diagram showing a reconstruction of the transmission of manuscripts of a literary work
 
 w: straight_line ant curve
-hyper: line
+hyper: line1
 g: a line traced by a point traveling in a constant direction; a line of zero curvature; "the shortest distance between two points is a straight line"
 
 w: stria drf verb.change:striate
@@ -1432,7 +1432,7 @@ hyper: figure
 g: a figure that is a part of another figure
 
 w: symmetry drf adj.all:symmetric drf verb.change:symmetrize drf verb.change:symmetrise
-w: proportion drf verb.change:proportion1 ant disproportion
+w: proportion drf verb.change:proportion ant disproportion
 hyper: balance
 g: balance among the parts of something
 
@@ -1478,7 +1478,7 @@ w: knife
 hyper: projection
 g: any long thin projection that is transient; "tongues of flame licked at the walls"; "rifles exploded quick knives of fire into the dark"
 
-w: toroid1 drf adj.pert:toroidal
+w: toroid drf adj.pert:toroidal
 hyper: solid
 g: the doughnut-shaped object enclosed by a torus
 
@@ -1491,7 +1491,7 @@ hyper: distorted_shape
 g: a tortuous and twisted shape or position; "they built a tree house in the tortuosities of its boughs"; "the acrobat performed incredible contortions"
 
 w: torus
-w: toroid drf adj.pert:toroidal
+w: toroid1 drf adj.pert:toroidal
 hyper: round_shape
 g: a ring-shaped surface generated by rotating a circle around an axis that does not intersect the circle
 
@@ -1514,11 +1514,11 @@ w: tree_diagram
 hyper: plane_figure
 g: a figure that branches from a single root; "genealogical tree"
 
-w: triangle1
+w: triangle
 hyper: noun.Tops:shape
 g: something approximating the shape of a triangle; "the coastline of Chile and Argentina and Brazil forms two legs of a triangle"
 
-w: triangle drf adjs.all:triangular drf adjs.all:triangular drf verb.social:triangulate drf verb.cognition:triangulate
+w: triangle1 drf adjs.all:triangular1 drf adjs.all:triangular drf verb.social:triangulate drf verb.cognition:triangulate1
 w: trigon
 w: trilateral
 hyper: polygon
@@ -1571,7 +1571,7 @@ w: angle_of_view
 hyper: angle
 g: the angle included by a photographic lens
 
-w: void drf adjs.all:void drf verb.change:void4
+w: void drf adjs.all:void1 drf verb.change:void
 w: vacancy drf adjs.all:vacant1
 w: emptiness
 w: vacuum
@@ -1601,25 +1601,25 @@ w: undulation
 hyper: curve
 g: an undulating curve
 
-w: wedge drf verb.contact:wedge
+w: wedge drf verb.contact:wedge1
 w: wedge_shape
 w: cuneus
-hyper: triangle
+hyper: triangle1
 g: any shape that is triangular in cross section
 
-w: whirl drf verb.motion:whirl4 drf verb.motion:whirl2
-w: swirl drf verb.motion:swirl drf verb.motion:swirl1
+w: whirl drf verb.motion:whirl4 drf verb.motion:whirl1
+w: swirl drf verb.motion:swirl1 drf verb.motion:swirl
 w: vortex
 w: convolution
 hyper: round_shape
 g: the shape of something rotating rapidly
 
-w: wrinkle drf verb.contact:wrinkle2 drf verb.contact:wrinkle1 drf verb.contact:wrinkle drf verb.change:wrinkle10
-w: furrow drf verb.contact:furrow1
-w: crease1 drf verb.change:crease10 drf verb.contact:crease1 drf verb.contact:crease
-w: crinkle drf adjs.all:crinkly drf verb.change:crinkle10 drf verb.contact:crinkle
-w: seam1
-w: line1 drf verb.contact:line2
+w: wrinkle drf verb.contact:wrinkle2 drf verb.contact:wrinkle drf verb.contact:wrinkle1 drf verb.change:wrinkle
+w: furrow drf verb.contact:furrow
+w: crease1 drf verb.change:crease drf verb.contact:crease1 drf verb.contact:crease
+w: crinkle drf adjs.all:crinkly drf verb.change:crinkle drf verb.contact:crinkle
+w: seam
+w: line drf verb.contact:line1
 hyper: depression
 hp: noun.body:skin
 g: a slight depression in the smoothness of a surface; "his face has many lines"; "ironing gets rid of most wrinkles"

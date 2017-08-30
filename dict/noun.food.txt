@@ -54,11 +54,11 @@ hyper: tuna
 hp: noun.animal:albacore
 g: relatively small tuna with choice white flesh; major source of canned tuna
 
-w: alcohol drf adj.all:alcoholic drf verb.change:alcoholize1 drf verb.change:alcoholize
+w: alcohol drf adj.all:alcoholic drf verb.change:alcoholize drf verb.change:alcoholize1
 w: alcoholic_drink
 w: alcoholic_beverage
 w: intoxicant drf verb.consumption:intoxicate
-w: inebriant drf verb.consumption:inebriate1
+w: inebriant drf verb.consumption:inebriate
 hyper: beverage
 hyper: noun.artifact:drug_of_abuse
 g: a liquor or brew containing alcohol as the active agent; "alcohol (or drink) ruined him"
@@ -128,11 +128,11 @@ w: amaretto
 hyper: liqueur
 g: an Italian almond liqueur
 
-w: ambrosia2
+w: ambrosia
 hyper: dessert
 g: fruit dessert made of oranges and bananas with shredded coconut
 
-w: ambrosia1 drf adjs.all:ambrosial
+w: ambrosia1 drf adjs.all:ambrosial1
 w: nectar1 drf adjs.all:nectarous
 hyper: dainty
 dt: noun.group:classical_mythology
@@ -170,7 +170,7 @@ hyper: spread
 g: butter blended with mashed anchovies
 
 w: anchovy_dressing
-hyper: dressing1
+hyper: dressing
 g: vinaigrette and mashed anchovies
 
 w: anchovy_paste
@@ -196,7 +196,7 @@ w: angel_food_cake
 hyper: sponge_cake
 g: a light sponge cake made without egg yolks
 
-w: angelica2
+w: angelica
 hyper: flavorer
 g: candied stalks of the angelica plant
 
@@ -255,7 +255,7 @@ hyper: conserve
 g: thick dark spicy puree of apples
 
 w: apple_dumpling
-hyper: dumpling2
+hyper: dumpling1
 g: apples wrapped in pastry and baked
 
 w: apple_fritter
@@ -263,7 +263,7 @@ hyper: fritter
 g: fritter containing sliced apple
 
 w: apple_jelly
-hyper: jelly
+hyper: jelly1
 g: jelly made from apple juice
 
 w: apple_juice
@@ -292,7 +292,7 @@ hs: hard_cider
 g: distilled from hard cider
 
 w: applesauce_cake
-hyper: cake
+hyper: cake1
 g: moist spicy cake containing applesauce
 
 w: applesauce
@@ -363,7 +363,7 @@ hyper: sweetening
 g: an artificial sweetener made from aspartic acid; used as a calorie-free sweetener
 
 w: aspic
-hyper: gelatin2
+hyper: gelatin
 g: savory jelly based on fish or meat stock used as a mold for meats or vegetables
 
 w: Atlantic_salmon
@@ -384,7 +384,7 @@ hp: noun.plant:avocado
 g: a pear-shaped tropical fruit with green or blackish skin and rich yellowish pulp enclosing a single large seed
 
 w: baba
-hyper: cake
+hyper: cake1
 g: a small cake leavened with yeast
 
 w: baba_au_rhum
@@ -446,7 +446,7 @@ hyper: biscuit
 g: leavened with baking powder
 
 w: baklava
-hyper: pastry
+hyper: pastry1
 g: rich Middle Eastern cake made of thin layers of flaky pastry filled with nuts and honey
 
 w: balanced_diet
@@ -491,8 +491,8 @@ w: bannock
 hyper: flatbread
 g: a flat bread made of oat or barley flour; common in New England and Scotland
 
-w: banquet drf verb.consumption:banquet1
-w: feast drf verb.consumption:feast1 drf verb.consumption:feast
+w: banquet drf verb.consumption:banquet
+w: feast drf verb.consumption:feast drf verb.consumption:feast1
 w: spread1
 hyper: meal
 g: a meal that is well prepared and greatly enjoyed; "a banquet for the graduating seniors"; "the Thanksgiving feast"; "they put out quite a spread"
@@ -505,25 +505,25 @@ g: a small loaf or roll of soft bread
 w: Barbados_gooseberry
 w: blade_apple
 hyper: edible_fruit
-hp: noun.plant:Barbados_gooseberry1
+hp: noun.plant:Barbados_gooseberry
 g: small yellow to orange fruit of the Barbados gooseberry cactus used in desserts and preserves and jellies
 
 w: barbecue_sauce
 hyper: sauce
 g: spicy sweet and sour sauce usually based on catsup or chili sauce
 
-w: barbecue2 drf verb.change:barbecue
-w: barbeque2
+w: barbecue drf verb.change:barbecue
+w: barbeque
 hyper: dish
 g: meat that has been barbecued or grilled in a highly seasoned sauce
 
-w: barbecue drf verb.change:barbecue
-w: barbeque
+w: barbecue1 drf verb.change:barbecue
+w: barbeque1
 hyper: cookout
 g: a cookout in which food is cooked over an open fire; especially a whole animal carcass roasted on a spit
 
 w: barbecued_spareribs
-w: spareribs2
+w: spareribs
 hyper: dish
 g: baked or roasted with a spicy sauce
 
@@ -537,7 +537,7 @@ hyper: hard_candy
 g: a brittle transparent candy made by melting and cooling cane sugar
 
 w: barley_water
-hyper: broth
+hyper: broth1
 g: used to feed infants
 
 w: barley
@@ -548,7 +548,7 @@ g: a grain of barley
 
 w: barmbrack
 hyper: bread
-dr: noun.location:Ireland
+dr: noun.location:Ireland1
 g: a rich currant cake or bun
 
 w: bartlett
@@ -595,7 +595,7 @@ g: small dark purple fruit used especially in jams and pies
 
 w: bean_curd
 w: tofu
-hyper: curd2
+hyper: curd
 g: cheeselike food made of curdled soybean milk
 
 w: bean_dip
@@ -613,7 +613,7 @@ g: a flat tortilla topped with refried beans
 w: bean
 w: edible_bean
 hyper: legume
-hp: noun.plant:bean
+hp: noun.plant:bean1
 g: any of various edible seeds of plants of the family Leguminosae used for food
 
 w: bear_claw
@@ -632,7 +632,7 @@ g: dry fruity light red wine drunk within a few months after it is made; from th
 
 w: beechnut
 hyper: edible_nut
-hp: noun.plant:beech
+hp: noun.plant:beech1
 g: small sweet triangular nut of any of various beech trees
 
 w: beef_Bourguignonne
@@ -642,7 +642,7 @@ g: beef and mushrooms and onions stewed in red wine and seasonings
 
 w: beef_broth
 w: beef_stock
-hyper: broth1
+hyper: broth
 g: a stock made with beef
 
 w: beef_burrito
@@ -651,7 +651,7 @@ g: a burrito with a beef filling
 
 w: beef_fondue
 w: boeuf_fondu_bourguignon
-hyper: fondue2
+hyper: fondue
 g: cubes of beef cooked in hot oil and then dipped in various tasty sauces
 
 w: beef_goulash
@@ -704,7 +704,7 @@ g: rare-roasted beef tenderloin coated with mushroom paste in puff pastry
 
 w: beef
 w: boeuf
-hyper: meat1
+hyper: meat
 hp: noun.animal:cattle
 g: meat from an adult domestic bovine
 
@@ -760,7 +760,7 @@ g: large bell-shaped sweet pepper in green or red or yellow or orange or black v
 
 w: beluga_caviar
 hyper: caviar
-hp: noun.animal:beluga1
+hp: noun.animal:beluga
 g: roe of beluga sturgeon usually from Russia; highly valued
 
 w: benedictine
@@ -794,11 +794,11 @@ hp: noun.plant:betel_palm
 g: seed of betel palm; chewed with leaves of the betel pepper and lime as a digestive stimulant and narcotic in southeastern Asia
 
 w: beverage
-w: drink drf verb.consumption:drink
+w: drink1 drf verb.consumption:drink3
 w: drinkable
 w: potable drf adj.all:potable
 hyper: noun.Tops:food
-hyper: noun.substance:liquid4
+hyper: noun.substance:liquid
 g: any liquid suitable for drinking; "may I take your beverage order?"
 
 w: bialy
@@ -818,7 +818,7 @@ w: bilberry
 w: whortleberry
 w: European_blueberry
 hyper: berry
-hp: noun.plant:bilberry2
+hp: noun.plant:bilberry
 g: blue-black berries similar to American blueberries
 
 w: biltong
@@ -842,12 +842,12 @@ g: food given to birds; usually mixed seeds
 
 w: bird
 w: fowl
-hyper: meat1
+hyper: meat
 hp: noun.animal:bird
 g: the flesh of a bird or fowl (wild or domestic) used as food
 
 w: birthday_cake
-hyper: cake
+hyper: cake1
 g: decorated cake served at a birthday party
 
 w: biryani
@@ -867,7 +867,7 @@ w: bisque
 hyper: soup
 g: a thick cream soup made from shellfish
 
-w: bite
+w: bite1
 w: collation
 w: snack drf verb.consumption:snack
 hyper: meal
@@ -877,7 +877,7 @@ w: bitok
 hyper: dish
 g: a Russian dish made with patties of ground meat (mixed with onions and bread and milk) and served with a sauce of sour cream
 
-w: bitter drf adjs.all:bitter
+w: bitter drf adjs.all:bitter1
 hyper: ale
 dr: noun.location:United_Kingdom
 g: English term for a dry sharp-tasting ale with strong flavor of hops (usually on draft)
@@ -885,7 +885,7 @@ g: English term for a dry sharp-tasting ale with strong flavor of hops (usually 
 w: bitter_chocolate
 w: baking_chocolate
 w: cooking_chocolate
-hyper: chocolate
+hyper: chocolate1
 g: pure unsweetened chocolate used in baking and icings and sauces and candy
 
 w: bitter_lemon
@@ -906,13 +906,13 @@ g: alcoholic liquor flavored with bitter herbs and roots
 w: bittersweet_chocolate
 w: semi-sweet_chocolate
 w: dark_chocolate
-hyper: chocolate
+hyper: chocolate1
 g: chocolate liquor with cocoa butter and small amounts of sugar and vanilla; lecithin is usually added
 
 w: black-eyed_pea
 w: cowpea
 hyper: legume
-hp: noun.plant:cowpea
+hp: noun.plant:cowpea1
 g: eaten fresh as shell beans or dried
 
 w: black_bean
@@ -936,11 +936,11 @@ hyper: olive
 g: olives picked ripe and cured in brine then dried or pickled or preserved canned or in oil
 
 w: black_pepper
-hyper: pepper1
+hyper: pepper
 g: pepper that is ground from whole peppercorns with husks on
 
 w: black_tea
-hyper: tea2
+hyper: tea1
 g: fermented tea leaves
 
 w: black_walnut
@@ -988,8 +988,8 @@ hyper: whiskey
 g: mixture of two or more whiskeys or of a whiskey and neutral spirits
 
 w: bleu_cheese_dressing
-w: blue_cheese_dressing
-hyper: dressing1
+w: blue_cheese_dressing1
+hyper: dressing
 g: creamy dressing containing crumbled blue cheese
 
 w: bleu
@@ -1034,9 +1034,9 @@ hyper: saltwater_fish
 hp: noun.animal:puffer
 g: delicacy that is highly dangerous because of a potent nerve poison in ovaries and liver
 
-w: blue_cheese_dressing2
+w: blue_cheese_dressing
 w: Roquefort_dressing
-hyper: dressing1
+hyper: dressing
 g: vinaigrette containing crumbled Roquefort or blue cheese
 
 w: blue_crab
@@ -1082,8 +1082,8 @@ w: rose_wine
 hyper: wine
 g: pinkish table wine from red grapes whose skins were removed after fermentation began
 
-w: board drf verb.stative:board drf verb.consumption:board1 drf verb.consumption:board
-w: table1
+w: board drf verb.stative:board drf verb.consumption:board drf verb.consumption:board1
+w: table
 hyper: fare
 g: food or meals in general; "she sets a fine table"; "room and board"
 
@@ -1175,7 +1175,7 @@ hyper: dish
 g: dried navy beans baked slowly with molasses and salt pork
 
 w: Boston_cream_pie
-hyper: cake
+hyper: cake1
 g: layer cake filled with custard
 
 w: Boston_lettuce
@@ -1195,7 +1195,7 @@ hyper: fish_stew
 g: highly seasoned Mediterranean soup or stew made of several kinds of fish and shellfish with tomatoes and onions or leeks and seasoned with saffron and garlic and herbs
 
 w: bouillon
-hyper: broth
+hyper: broth1
 g: a clear seasoned broth
 
 w: bouillon_cube
@@ -1247,7 +1247,7 @@ hyper: liquor
 hs: stinger
 hs: pink_lady
 hs: claret_cup
-hs: ratafia1
+hs: ratafia
 g: distilled from wine or fermented fruit juice
 
 w: brandy_sling
@@ -1286,7 +1286,7 @@ hyper: sauce
 g: creamy white sauce made with bread instead of flour and seasoned with cloves and onion
 
 w: bread drf verb.contact:bread
-w: breadstuff1
+w: breadstuff
 w: staff_of_life
 hyper: baked_goods
 hyper: starches
@@ -1307,11 +1307,11 @@ w: bread-stick
 hyper: bread
 g: a crisp stick-shaped roll; often served with soup
 
-w: breadstuff2
+w: breadstuff1
 hyper: foodstuff
 g: flour or meal or grain used in baking bread
 
-w: breakfast drf verb.consumption:breakfast1 drf verb.consumption:breakfast
+w: breakfast drf verb.consumption:breakfast drf verb.consumption:breakfast1
 hyper: meal
 g: the first meal of the day (usually in the morning)
 
@@ -1319,7 +1319,7 @@ w: breakfast_food
 hyper: food
 g: any food (especially cereal) usually served for breakfast
 
-w: bream2
+w: bream
 w: freshwater_bream
 hyper: freshwater_fish
 hp: noun.animal:freshwater_bream
@@ -1378,10 +1378,10 @@ w: toffy
 hyper: candy
 g: caramelized sugar cooled in thin sheets
 
-w: broad_bean2
+w: broad_bean
 w: horse_bean
 hyper: fodder
-hp: noun.plant:broad_bean
+hp: noun.plant:broad_bean1
 g: a bean plant cultivated for use animal fodder
 
 w: broccoli
@@ -1395,7 +1395,7 @@ hyper: cruciferous_vegetable
 hp: noun.plant:broccoli_raab
 g: slightly bitter dark green leaves and clustered flower buds
 
-w: broiler drf verb.change:broil
+w: broiler drf verb.change:broil1
 hyper: chicken
 g: flesh of a small young chicken not over 2 1/2 lb suitable for broiling
 
@@ -1405,17 +1405,17 @@ hyper: freshwater_fish
 hp: noun.animal:brook_trout
 g: a delicious freshwater food fish
 
-w: broth
+w: broth1
 hyper: soup
 g: a thin soup of meat or fish or vegetable stock
 
-w: broth1
-w: stock1
+w: broth
+w: stock
 hyper: soup
 g: liquid in which meat and vegetables are simmered; used as a basis for e.g. soups or sauces; "she made gravy with a base of beef stock"
 
 w: brown_Betty
-hyper: pudding
+hyper: pudding2
 g: baked pudding of apples and breadcrumbs
 
 w: brown_bread1
@@ -1433,7 +1433,7 @@ hyper: rice
 g: unpolished rice retaining the yellowish-brown outer layer
 
 w: brown_sauce1
-w: sauce_Espagnole
+w: sauce_Espagnole1
 hyper: sauce
 g: bouillon or beef stock thickened with butter and flour roux and variously seasoned with herbs or Worcestershire etc.
 
@@ -1538,7 +1538,7 @@ hyper: edible_nut
 hp: noun.plant:bunya_bunya
 g: nut tasting like roasted chestnuts; a staple food of Australian aborigines
 
-w: burgoo3
+w: burgoo1
 hyper: cookout
 g: a gathering at which burgoo stew is served
 
@@ -1564,7 +1564,7 @@ w: business_lunch
 hyper: lunch
 g: lunch (usually at a restaurant) where business is discussed and the cost is charged as a business expense
 
-w: butter drf adjs.all:buttery drf adj.pert:butyraceous drf verb.contact:butter
+w: butter drf adjs.all:buttery1 drf adj.pert:butyraceous drf verb.contact:butter
 hyper: dairy_product
 hyper: food
 g: an edible emulsion of fat globules made by churning milk or cream; for cooking and table use
@@ -1583,7 +1583,7 @@ g: drum-shaped squash with dark green rind marked in silver or grey
 
 w: butterfish
 hyper: saltwater_fish
-hp: noun.animal:butterfish1
+hp: noun.animal:butterfish
 hp: noun.animal:rock_gunnel
 g: any of numerous small flat Atlantic food fish having smooth skin
 
@@ -1605,7 +1605,7 @@ w: buttermilk_pancake
 hyper: pancake
 g: a pancake made with buttermilk
 
-w: butternut1
+w: butternut
 hyper: edible_nut
 hp: noun.plant:butternut
 g: oily egg-shaped nut of an American tree of the walnut family
@@ -1629,7 +1629,7 @@ hyper: field_ration
 g: a canned field ration issued by the United States Army
 
 w: cabbage
-w: chou1
+w: chou
 hyper: cruciferous_vegetable
 hp: noun.plant:cabbage
 g: any of various types of cabbage
@@ -1643,7 +1643,7 @@ g: superior Bordeaux type of red wine
 w: cacao_bean
 w: cocoa_bean
 hyper: noun.plant:cacao
-hs: chocolate
+hs: chocolate1
 hs: cocoa1
 hs: creme_de_cacao
 g: seed of the cacao tree; ground roasted beans are source of chocolate
@@ -1682,7 +1682,7 @@ hyper: pea
 hp: noun.plant:pigeon_pea
 g: small highly nutritious seed of the tropical pigeon-pea plant
 
-w: cake
+w: cake1
 hyper: baked_goods
 g: baked goods made from or based on a mixture of flour, sugar, eggs, and fat
 
@@ -1691,7 +1691,7 @@ hyper: ready-mix
 g: a commercial mix for making a cake
 
 w: calf's-foot_jelly
-hyper: gelatin2
+hyper: gelatin
 g: a savory jelly made with gelatin obtained by boiling calves' feet
 
 w: calf's_brain
@@ -1753,7 +1753,7 @@ w: candy_apple
 w: taffy_apple
 w: caramel_apple
 w: toffee_apple
-hyper: sweet
+hyper: sweet1
 g: an apple that is covered with a candy-like substance (usually caramelized sugar)
 
 w: candied_citrus_peel
@@ -1779,12 +1779,12 @@ hyper: candy
 g: a small yellow and white candy shaped to resemble a kernel of corn
 
 w: candy_egg
-hyper: Easter_egg1
+hyper: Easter_egg
 g: egg-shaped candy
 
 w: candy
 w: confect
-hyper: sweet
+hyper: sweet1
 g: a rich sweet made of flavored sugar and often combined with fruit or nuts
 
 w: cane_sugar
@@ -1810,7 +1810,7 @@ hyper: canned_food
 g: meat preserved in a can or tin
 
 w: cannelloni
-hyper: pasta1
+hyper: pasta
 g: tubular pasta filled with meat or cheese
 
 w: canola_oil
@@ -1855,11 +1855,11 @@ hyper: edible_fruit
 hp: noun.plant:carambola
 g: deeply ridged yellow-brown tropical fruit; used raw as a vegetable or in salad or when fully ripe as a dessert
 
-w: caramel drf verb.change:caramelize1 drf verb.change:caramelize drf verb.change:caramelise1 drf verb.change:caramelise
+w: caramel drf verb.change:caramelize drf verb.change:caramelize1 drf verb.change:caramelise drf verb.change:caramelise1
 hyper: candy
 g: firm chewy candy made from caramelized sugar and butter and milk
 
-w: caramel1 drf verb.change:caramelize1 drf verb.change:caramelize drf verb.change:caramelise1 drf verb.change:caramelise
+w: caramel1 drf verb.change:caramelize drf verb.change:caramelize1 drf verb.change:caramelise drf verb.change:caramelise1
 w: caramelized_sugar
 hyper: sugar
 g: burnt sugar; used to color and flavor food
@@ -1887,7 +1887,7 @@ hyper: diet
 g: a diet of foods high in starch that increases carbohydrate reserves in muscles; "carbo loading is used by endurance athletes just before competing"
 
 w: carbonado
-hyper: meat1
+hyper: meat
 g: a piece of meat (or fish) that has been scored and broiled
 
 w: carbonara
@@ -1934,7 +1934,7 @@ g: the lean flesh of a fish that is often farmed; can be baked or braised
 
 w: carrot
 hyper: root_vegetable
-hp: noun.plant:carrot
+hp: noun.plant:carrot1
 g: orange root; important source of carotene
 
 w: carrot_juice
@@ -1942,7 +1942,7 @@ hyper: juice
 g: usually freshly squeezed juice of carrots
 
 w: carrot_pudding
-hyper: pudding1
+hyper: pudding
 g: pudding made with grated carrots
 
 w: carrot_stick
@@ -2014,9 +2014,9 @@ w: caviare
 hyper: roe
 g: salted roe of sturgeon or other large fish; usually served as an hors d'oeuvre
 
-w: cayenne2
-w: cayenne_pepper2
-hyper: chili
+w: cayenne1
+w: cayenne_pepper1
+hyper: chili1
 g: a long and often twisted hot red pepper
 
 w: cayenne
@@ -2058,11 +2058,11 @@ g: leaves having celery-like stems eaten raw or cooked
 
 w: center
 w: centre
-hyper: sweet
+hyper: sweet1
 hs: chocolate_candy
 g: the sweet central portion of a piece of candy that is enclosed in chocolate or some other covering
 
-w: cereal drf adj.pert:cereal
+w: cereal1 drf adj.pert:cereal
 hyper: breakfast_food
 g: a breakfast food prepared from grain
 
@@ -2131,11 +2131,11 @@ hyper: liqueur
 g: aromatic green or yellow liqueur flavored with orange peel and hyssop and peppermint oils; made at monastery near Grenoble, France
 
 w: chaser drf verb.motion:chase
-hyper: drink4
+hyper: drink
 g: a drink to follow immediately after another drink
 
 w: Chateaubriand
-hyper: fillet1
+hyper: fillet
 g: a very thick center cut of beef tenderloin
 
 w: cheddar
@@ -2155,7 +2155,7 @@ hyper: dip
 g: a dip made of cheeses
 
 w: cheese_fondue
-hyper: fondue
+hyper: fondue1
 g: fondue made of cheese melted in wine for dipping bread and sometimes fruits
 
 w: cheese_pizza
@@ -2180,11 +2180,11 @@ hyper: spread
 g: spread made of cheese mixed with butter or cream or cream cheese and seasonings
 
 w: cheeseburger
-hyper: hamburger1
+hyper: hamburger
 g: a hamburger with melted cheese on it
 
 w: cheesecake
-hyper: cake
+hyper: cake1
 g: made with sweetened cream cheese and eggs and cream baked in a crumb crust
 
 w: chef's_salad
@@ -2205,7 +2205,7 @@ g: large tropical fruit with leathery skin and soft pulp; related to custard app
 w: cherry
 hyper: edible_fruit
 hyper: noun.plant:drupe
-hp: noun.plant:cherry
+hp: noun.plant:cherry1
 g: a red fruit with a single hard stone
 
 w: cherry_tomato
@@ -2229,12 +2229,12 @@ g: a mild yellow English cheese with a crumbly texture
 
 w: chestnut
 hyper: edible_nut
-hp: noun.plant:chestnut
+hp: noun.plant:chestnut1
 g: edible nut of any of various chestnut trees of the genus Castanea
 
 w: chew drf verb.consumption:chew
 w: chaw drf verb.consumption:chaw
-w: cud
+w: cud1
 w: quid
 w: plug
 w: wad drf verb.contact:wad1
@@ -2243,7 +2243,7 @@ g: a wad of something chewable as tobacco
 
 w: chewing_gum
 w: gum
-hyper: sweet
+hyper: sweet1
 g: a preparation (usually made of sweetened chicle) for chewing
 
 w: Chianti
@@ -2256,7 +2256,7 @@ g: rice and chicken cooked together with or without other ingredients and variou
 
 w: chicken_broth
 w: chicken_stock
-hyper: broth1
+hyper: broth
 g: a stock made with chicken
 
 w: chicken_cacciatore
@@ -2341,13 +2341,13 @@ w: chicken
 w: poulet
 w: volaille
 hyper: poultry
-hp: noun.animal:chicken1
+hp: noun.animal:chicken
 g: the flesh of a chicken used for food
 
 w: chickpea
 w: garbanzo
 hyper: legume
-hp: noun.plant:chickpea
+hp: noun.plant:chickpea1
 g: large white roundish Asiatic legume; usually dried
 
 w: chicory_escarole
@@ -2357,23 +2357,23 @@ hyper: salad_green
 hp: noun.plant:endive
 g: variety of endive having leaves with irregular frilled edges
 
-w: chicory2
+w: chicory
 w: chicory_root
 hyper: coffee_substitute
 g: root of the chicory plant roasted and ground to substitute for or adulterate coffee
 
-w: chicory
+w: chicory1
 w: curly_endive
 hyper: salad_green
 hp: noun.plant:chicory1
 g: crisp spiky leaves with somewhat bitter taste
 
 w: chiffon_cake
-hyper: cake
+hyper: cake1
 g: very light cake
 
 w: chili_dog
-hyper: hotdog2
+hyper: hotdog
 g: a hotdog with chili con carne on it
 
 w: chili_powder
@@ -2388,13 +2388,13 @@ w: chili_vinegar
 hyper: vinegar
 g: fiery vinegar flavored with chili peppers
 
-w: chili1
+w: chili
 w: chili_con_carne
 hyper: dish
 dr: noun.location:Mexico
 g: ground beef and chili peppers or chili powder often with tomatoes and kidney beans
 
-w: chili
+w: chili1
 w: chili_pepper
 w: chilli
 w: chilly
@@ -2425,10 +2425,10 @@ hs: five_spice_powder
 g: anise-scented star-shaped fruit or seed used in Asian cooking and medicine
 
 w: Chinese_brown_sauce
-w: brown_sauce2
+w: brown_sauce
 hyper: sauce
 dt: noun.act:cooking
-dr: noun.location:China
+dr: noun.location:China1
 g: a sauce based on soy sauce
 
 w: Chinese_cabbage
@@ -2483,7 +2483,7 @@ w: choc-ice
 hyper: chocolate_ice_cream
 g: colloquial British abbreviation for chocolate ice cream
 
-w: chocolate
+w: chocolate1
 hyper: food
 g: a food made from roasted ground cacao beans
 
@@ -2492,11 +2492,11 @@ hyper: chocolate_candy
 g: a bar of chocolate candy
 
 w: chocolate_cake
-hyper: cake
+hyper: cake1
 g: cake containing chocolate
 
 w: chocolate_candy
-hyper: chocolate
+hyper: chocolate1
 g: candy made with chocolate
 
 w: chocolate_chip_cookie
@@ -2509,11 +2509,11 @@ hyper: eclair
 g: eclair topped with chocolate
 
 w: chocolate_egg
-hyper: Easter_egg1
+hyper: Easter_egg
 g: egg-shaped chocolate candy
 
 w: chocolate_fondue
-hyper: fondue
+hyper: fondue1
 g: fondue made of chocolate melted with milk or cream for dipping fruits
 
 w: chocolate_fudge
@@ -2525,12 +2525,12 @@ hyper: ice_cream
 g: ice cream flavored with chocolate
 
 w: chocolate_kiss
-hyper: kiss
+hyper: kiss1
 hyper: chocolate_candy
 g: a kiss that consists of a conical bite-sized piece of chocolate
 
 w: chocolate_liquor
-hyper: chocolate
+hyper: chocolate1
 g: the liquid or paste that is produced when cocoa beans are roasted and ground; the basis of all chocolate
 
 w: chocolate_milk
@@ -2538,11 +2538,11 @@ hyper: milk1
 g: milk flavored with chocolate syrup
 
 w: chocolate_mousse
-hyper: mousse2
+hyper: mousse
 g: dessert mousse made with chocolate
 
 w: chocolate_pudding
-hyper: pudding
+hyper: pudding2
 g: sweet chocolate flavored custard-like pudding usually thickened with flour rather than eggs
 
 w: chocolate_sauce
@@ -2585,7 +2585,7 @@ w: chow_mein
 hyper: dish
 g: chop suey served with fried noodles
 
-w: chowchow2
+w: chowchow
 hyper: relish
 g: chopped pickles in mustard sauce
 
@@ -2594,7 +2594,7 @@ hyper: conserve
 g: a Chinese preserve of mixed fruits and ginger
 
 w: chow
-w: chuck2
+w: chuck1
 w: eats
 w: grub
 hyper: fare
@@ -2634,7 +2634,7 @@ g: a beverage made from juice pressed from apples
 
 w: cinnamon
 hyper: spice
-hp: noun.plant:cinnamon
+hp: noun.plant:cinnamon1
 g: spice from the dried aromatic bark of the Ceylon cinnamon tree; used as rolled strips or ground
 
 w: cinnamon_bread
@@ -2648,7 +2648,7 @@ hyper: sweet_roll
 g: rolled dough spread with cinnamon and sugar (and raisins) then sliced before baking
 
 w: cinnamon_toast
-hyper: toast
+hyper: toast1
 g: buttered toast with sugar and cinnamon (and nutmeg and grated lemon peel)
 
 w: citrange
@@ -2661,7 +2661,7 @@ hyper: citrus
 hp: noun.plant:citron
 g: large lemonlike fruit with thick aromatic rind; usually preserved
 
-w: citrus drf adj.pert:citrous
+w: citrus drf adj.pert:citrous1
 w: citrus_fruit
 w: citrous_fruit
 hyper: edible_fruit
@@ -2728,12 +2728,12 @@ hyper: cream
 dr: noun.location:United_Kingdom
 g: thick cream made from scalded milk
 
-w: clove
+w: clove1
 hyper: spice
-hs: noun.plant:clove2
+hs: noun.plant:clove
 g: spice from dried unopened flower bud of the clove tree; used whole or ground
 
-w: clove1
+w: clove
 w: garlic_clove
 hyper: garlic
 g: one of the small bulblets that can be split off of the axis of a larger garlic bulb
@@ -2748,7 +2748,7 @@ w: triple-decker
 hyper: sandwich
 g: made with three slices of usually toasted bread
 
-w: cobbler2
+w: cobbler
 hyper: highball
 g: tall sweetened iced drink of wine or liquor with fruit
 
@@ -2787,11 +2787,11 @@ g: usually catsup with horseradish and lemon juice
 
 w: cocoa1
 hyper: foodstuff
-hs: cocoa2
+hs: cocoa
 g: powder of ground roasted cacao beans with most of the fat removed
 
 w: cocoa_butter
-hyper: chocolate
+hyper: chocolate1
 hs: white_chocolate
 g: the vegetable fat from the cacao that is extracted from chocolate liquor; the basis for white chocolate
 
@@ -2803,51 +2803,51 @@ hp: noun.plant:coco_plum
 g: plum-shaped whitish to almost black fruit used for preserves; tropical American
 
 w: cocoa_powder
-hyper: chocolate
+hyper: chocolate1
 g: the powdery remains of chocolate liquor after cocoa butter is removed; used in baking and in low fat and low calorie recipes and as a flavoring for ice cream
 
-w: cocoa2
-w: chocolate2
+w: cocoa
+w: chocolate
 w: hot_chocolate
 w: drinking_chocolate
 hyper: beverage
 g: a beverage made from cocoa powder and milk and sugar; usually drunk hot
 
 w: coconut_cake
-hyper: cake
+hyper: cake1
 g: cake containing shredded coconut in batter and frosting
 
 w: coconut_macaroon
 hyper: macaroon
 g: macaroon containing coconut
 
-w: coconut_milk2
+w: coconut_milk
 w: coconut_cream
-hyper: milk2
+hyper: milk
 g: white liquid obtained from compressing fresh coconut meat
 
-w: coconut_milk
+w: coconut_milk1
 w: coconut_water
-hyper: milk2
-hs: coconut
+hyper: milk
+hs: coconut1
 g: clear to whitish fluid from within a fresh coconut
 
 w: coconut_oil
 w: copra_oil
 hyper: vegetable_oil
-hs: coconut
+hs: coconut1
 g: oil from coconuts
 
-w: coconut
+w: coconut1
 w: cocoanut
 hyper: edible_nut
-hp: noun.plant:coconut1
+hp: noun.plant:coconut
 g: large hard-shelled oval nut with a fibrous husk containing thick white meat surrounding a central cavity filled (when fresh) with fluid or milk
 
-w: coconut2
+w: coconut
 w: coconut_meat
 hyper: food
-hs: coconut
+hs: coconut1
 g: the edible white meat of a coconut; often shredded for use in e.g. cakes and curries
 
 w: cocozelle
@@ -2876,7 +2876,7 @@ g: a seed of the coffee tree; ground to make coffee
 
 w: coffee_break
 w: tea_break
-hyper: bite
+hyper: bite1
 g: a snack taken during a break in the work day; "a ten-minute coffee break"; "the British have tea breaks"
 
 w: coffee_liqueur
@@ -2893,7 +2893,7 @@ g: a drink resembling coffee that is sometimes substituted for it
 
 w: coffeecake
 w: coffee_cake
-hyper: cake
+hyper: cake1
 g: a cake or sweet bread usually served with coffee
 
 w: coffee
@@ -2923,11 +2923,11 @@ g: butter creamed with parsley and tarragon and beef extract
 
 w: cold_cereal
 w: dry_cereal
-hyper: cereal
+hyper: cereal1
 g: a cereal that is not heated before serving
 
 w: cold_cuts
-hyper: meat1
+hyper: meat
 g: sliced assorted cold meats
 
 w: cold_duck
@@ -2950,7 +2950,7 @@ hyper: highball
 g: tall iced drink of liquor (usually gin) with fruit juice
 
 w: coloring drf verb.change:color
-w: colouring drf verb.change:colour9
+w: colouring drf verb.change:colour
 w: food_coloring
 w: food_colouring
 w: food_color
@@ -2966,13 +2966,13 @@ w: comestible drf adj.all:comestible
 w: edible
 w: eatable
 w: pabulum
-w: victual drf verb.consumption:victual drf verb.possession:victual drf verb.possession:victual2
-w: victuals
+w: victual drf verb.consumption:victual drf verb.possession:victual1 drf verb.possession:victual
+w: victuals2
 hyper: noun.Tops:food
 g: any substance that can be used as food
 
 w: comfit
-hyper: sweet
+hyper: sweet1
 g: candy containing a fruit or nut
 
 w: comfort_food
@@ -2988,8 +2988,8 @@ g: leaves make a popular tisane; young leaves used in salads or cooked
 w: commissariat
 w: provisions
 w: provender1
-w: viands1
-w: victuals2
+w: viands
+w: victuals
 hyper: noun.Tops:food
 g: a stock or supply of foods
 
@@ -3003,12 +3003,12 @@ w: fruit_compote
 hyper: dessert
 g: dessert of stewed or baked fruit
 
-w: concentrate drf verb.change:concentrate3 drf verb.change:concentrate
+w: concentrate drf verb.change:concentrate4 drf verb.change:concentrate5
 hyper: foodstuff
 g: a concentrated form of a foodstuff; the bulk is reduced by removing water
 
-w: concoction drf verb.creation:concoct1
-w: mixture drf verb.change:mix
+w: concoction drf verb.creation:concoct
+w: mixture drf verb.change:mix1
 w: intermixture
 hyper: foodstuff
 g: any foodstuff made by combining different ingredients; "he volunteered to taste her latest concoction"; "he drank a mixture of beer and lemonade"
@@ -3026,7 +3026,7 @@ hyper: flavorer
 g: a preparation (a sauce or relish or spice) to enhance flavor or enjoyment; "mustard and ketchup are condiments"
 
 w: confectionery
-hyper: sweet
+hyper: sweet1
 g: candy and other sweets considered collectively; "the business decided to concentrate on confectionery and soft drinks"
 
 w: confit
@@ -3034,7 +3034,7 @@ hyper: cut
 g: a piece of meat (especially a duck) cooked slowly in its own fat
 
 w: confiture
-hyper: sweet
+hyper: sweet1
 g: preserved or candied fruit
 
 w: congee
@@ -3071,8 +3071,8 @@ g: any packaged dish or food that can be prepared quickly and easily as by thawi
 
 w: cookie
 w: cooky
-w: biscuit2
-hyper: cake
+w: biscuit1
+hyper: cake1
 dr: noun.location:United_Kingdom
 g: any of various small flat sweet cakes (`biscuit' is the British term)
 
@@ -3088,13 +3088,13 @@ w: cookout drf verb.change:cook_out
 hyper: picnic
 g: an informal meal cooked and eaten outdoors
 
-w: cooler drf verb.change:cool1
+w: cooler drf verb.change:cool
 hyper: beverage
 g: an iced drink especially white wine and fruit juice
 
 w: copra
-hyper: coconut2
-hs: coconut
+hyper: coconut
+hs: coconut1
 g: the dried meat of the coconut from which oil is extracted
 
 w: coq_au_vin
@@ -3114,14 +3114,14 @@ hyper: roe
 hp: lobster
 g: unfertilized lobster roe; reddens in cooking; used as garnish or to color sauces
 
-w: coriander
+w: coriander1
 w: Chinese_parsley
 w: cilantro
 hyper: herb
 hp: noun.plant:coriander
 g: parsley-like herb used as seasoning or garnish
 
-w: coriander2
+w: coriander
 w: coriander_seed
 hyper: flavorer
 hp: noun.plant:coriander
@@ -3167,11 +3167,11 @@ g: cornbread muffin
 
 w: corn_oil
 hyper: vegetable_oil
-hs: noun.plant:corn2
+hs: noun.plant:corn
 g: oil from the germs of corn grains
 
 w: corn_pudding
-hyper: pudding1
+hyper: pudding
 g: pudding made of corn and cream and egg
 
 w: corn_sugar
@@ -3184,7 +3184,7 @@ g: syrup prepared from corn
 
 w: corn_whiskey
 w: corn_whisky
-w: corn3
+w: corn
 hyper: whiskey
 g: whiskey distilled from a mash of not less than 80 percent corn
 
@@ -3196,10 +3196,10 @@ w: corned_beef_hash
 hyper: hash
 g: hash made with corned beef
 
-w: corn
+w: corn1
 w: edible_corn
 hyper: grain
-hp: noun.plant:corn
+hp: noun.plant:corn2
 g: ears of corn that can be prepared and served for human food
 
 w: Cornish_pasty
@@ -3274,16 +3274,16 @@ hyper: nutriment
 hp: meal
 g: part of a meal served at one time; "she prepared a three course meal"
 
-w: couscous1
+w: couscous
 hyper: dish
 g: a spicy dish that originated in northern Africa; consists of pasta steamed with a meat and vegetable stew
 
-w: couscous
-hyper: pasta
+w: couscous1
+hyper: pasta1
 g: a pasta made in northern Africa of crushed and steamed semolina
 
 w: couverture
-hyper: chocolate
+hyper: chocolate1
 g: chocolate that contains at least 32 percent cocoa butter
 
 w: cows'_milk
@@ -3297,7 +3297,7 @@ g: a yellow Pippin with distinctive flavor
 w: crab_apple
 w: crabapple
 hyper: apple
-hp: noun.plant:crab_apple2
+hp: noun.plant:crab_apple
 g: small sour apple; suitable for preserving; "crabapples make a tangy jelly"
 
 w: crab_cocktail
@@ -3386,7 +3386,7 @@ hyper: cheese
 g: soft unripened cheese made of sweet milk and cream
 
 w: cream_puff
-w: chou
+w: chou1
 hyper: puff
 g: puff filled with cream or custard
 
@@ -3490,17 +3490,17 @@ w: twister
 hyper: friedcake
 g: small friedcake formed into twisted strips and fried; richer than doughnuts
 
-w: crumb drf adjs.all:crumbly drf verb.change:crumb drf verb.change:crumb1 drf verb.contact:crumb
+w: crumb drf adjs.all:crumbly drf verb.change:crumb1 drf verb.change:crumb drf verb.contact:crumb
 hyper: morsel
 hp: baked_goods
 g: small piece of e.g. bread or cake
 
 w: crumb_cake
-hyper: cake
+hyper: cake1
 g: cake or coffeecake topped with a mixture of sugar and butter and flour
 
 w: crumpet
-hyper: cake
+hyper: cake1
 g: a thick soft cake with a porous texture; cooked on a griddle
 
 w: crystallized_ginger
@@ -3513,7 +3513,7 @@ hyper: vegetable
 hp: noun.plant:cucumber
 g: cylindrical green fruit with thin green rind and white flesh eaten as a vegetable; related to melons
 
-w: cud1
+w: cud
 w: rechewed_food
 hyper: feed
 g: food of a ruminant regurgitated to be chewed again
@@ -3535,7 +3535,7 @@ hyper: punch
 g: a punch served in a pitcher instead of a punch bowl
 
 w: cupcake
-hyper: cake
+hyper: cake1
 g: small cake baked in a muffin tin
 
 w: cuppa
@@ -3549,16 +3549,16 @@ w: curacoa
 hyper: orange_liqueur
 g: flavored with sour orange peel
 
-w: curd2
+w: curd
 hyper: foodstuff
 g: a coagulated liquid resembling milk curd; "bean curd"; "lemon curd"
 
-w: curd
+w: curd1
 hyper: dairy_product
 hs: cheese
 g: coagulated milk; used to make cheese; "Little Miss Muffet sat on a tuffet eating some curds and whey"
 
-w: currant2
+w: currant
 hyper: raisin
 g: small dried seedless raisin grown in the Mediterranean region and California; used in cooking
 
@@ -3587,7 +3587,7 @@ g: globose or ovoid squash with striped grey and green warty rind
 
 w: cusk
 hyper: saltwater_fish
-hp: noun.animal:cusk1
+hp: noun.animal:cusk
 g: the lean flesh of a cod-like fish of North Atlantic waters
 
 w: custard
@@ -3625,13 +3625,13 @@ g: cut of meat from a calf
 
 w: cut
 w: cut_of_meat
-hyper: meat1
+hyper: meat
 g: a piece of meat that has been cut from an animal carcass
 
 w: cutlet
-w: scallop2 drf verb.competition:scallop
-w: scollop2 drf verb.competition:scollop
-w: escallop2
+w: scallop1 drf verb.competition:scallop
+w: scollop1 drf verb.competition:scollop
+w: escallop1
 hyper: piece
 g: thin slice of meat (especially veal) usually fried or broiled
 
@@ -3655,7 +3655,7 @@ g: milk and butter and cheese
 w: damson
 w: damson_plum
 hyper: plum
-hp: noun.plant:damson_plum
+hp: noun.plant:damson_plum1
 g: dark purple plum of the damson tree
 
 w: dandelion_green
@@ -3679,12 +3679,12 @@ g: a fine variety of black tea grown in northern India
 w: dark_bread
 w: whole_wheat_bread
 w: whole_meal_bread
-w: brown_bread2
+w: brown_bread
 hyper: bread
 g: bread made with whole wheat flour
 
-w: dark_meat1
-hyper: meat1
+w: dark_meat
+hyper: meat
 hp: bird
 hp: drumstick
 hp: second_joint
@@ -3736,12 +3736,12 @@ w: club_steak
 hyper: beefsteak
 g: small steak from the front of the short loin of beef
 
-w: demerara1
+w: demerara
 w: demerara_rum
 hyper: rum
 g: dark rum from Guyana
 
-w: demerara
+w: demerara1
 w: demerara_sugar
 hyper: brown_sugar
 g: light brown cane sugar; originally from Guyana
@@ -3756,7 +3756,7 @@ hyper: wine
 g: still sweet wine often served with dessert or after a meal
 
 w: dessert
-w: sweet1
+w: sweet
 w: afters
 hyper: course
 g: a dish served as the last course of a meal
@@ -3781,7 +3781,7 @@ w: diabetic_diet
 hyper: diet
 g: a diet designed to help control the symptoms of diabetes
 
-w: diet drf adj.pert:dietary drf adj.pert:dietetic drf adj.pert:dietetical drf noun.person:dietician drf verb.consumption:diet drf verb.consumption:diet1
+w: diet drf adj.pert:dietary drf adj.pert:dietetic drf adj.pert:dietetical drf noun.person:dietician drf verb.consumption:diet1 drf verb.consumption:diet
 hyper: fare
 g: a prescribed selection of foods
 
@@ -3790,7 +3790,7 @@ hyper: fare
 dt: noun.Tops:animal
 g: the usual food and drink consumed by an organism (person or animal)
 
-w: dietary drf adj.pert:dietary drf verb.consumption:diet1 drf verb.consumption:diet
+w: dietary drf adj.pert:dietary drf verb.consumption:diet drf verb.consumption:diet1
 hyper: fare
 g: a regulated daily food allowance
 
@@ -3825,10 +3825,10 @@ g: aromatic threadlike foliage of the dill plant used as seasoning
 
 w: dim_sum
 hyper: cuisine
-dr: noun.location:China
+dr: noun.location:China1
 g: traditional Chinese cuisine; a variety of foods (including several kinds of steamed or fried dumplings) are served successively in small portions
 
-w: dinner drf verb.consumption:dine2 drf verb.consumption:dine1
+w: dinner drf verb.consumption:dine1 drf verb.consumption:dine
 hyper: meal
 g: the main meal of the day served in the evening or at midday; "dinner will be at 8"; "on Sundays they had a large dinner when they returned from church"
 
@@ -3863,7 +3863,7 @@ w: dolphinfish
 w: mahimahi
 hyper: saltwater_fish
 hp: noun.animal:dolphinfish
-dr: noun.location:Hawaii
+dr: noun.location:Hawaii1
 g: the lean flesh of a saltwater fish found in warm waters (especially in Hawaii)
 
 w: Dom_Pedro
@@ -3899,7 +3899,7 @@ g: a small ring-shaped friedcake
 
 w: dowdy
 w: pandowdy
-hyper: pastry
+hyper: pastry1
 g: deep-dish apple dessert covered with a rich crust
 
 w: draft_beer
@@ -3911,10 +3911,10 @@ w: draft
 w: draught
 w: potation
 w: tipple drf verb.consumption:tipple
-hyper: drink4
+hyper: drink
 g: a serving of drink (usually alcoholic) drawn from a keg; "they served beer on draft"
 
-w: dragee2
+w: dragee
 hyper: candy
 g: silvery candy beads used for decorating cakes
 
@@ -3928,7 +3928,7 @@ hyper: liqueur
 du: noun.communication:trademark
 g: a sweet Scotch whisky liqueur
 
-w: dressing1 drf verb.contact:dress
+w: dressing drf verb.contact:dress1
 w: salad_dressing
 hyper: sauce
 g: savory dressings for salads; basically of two kinds: either the thin French or vinaigrette type or the creamy mayonnaise type
@@ -3941,7 +3941,7 @@ w: dried_fruit
 hyper: edible_fruit
 g: fruit preserved by drying
 
-w: drink4 drf verb.consumption:drink
+w: drink drf verb.consumption:drink3
 hyper: helping
 g: a single serving of a beverage; "I asked for a hot drink"; "likes a drink before dinner"
 
@@ -3963,7 +3963,7 @@ hyper: biscuit
 g: biscuit made from dough with enough milk that it can be dropped from a spoon
 
 w: drop_scone
-w: griddlecake2
+w: griddlecake
 w: Scotch_pancake
 hyper: scone
 g: a scone made by dropping a spoonful of batter on a griddle
@@ -4002,16 +4002,16 @@ g: flesh of a young domestic duck
 
 w: duff
 w: plum_duff
-hyper: pudding
+hyper: pudding2
 g: a stiff flour pudding steamed or boiled usually and containing e.g. currants and raisins and citron
 
-w: dumpling2
+w: dumpling1
 hyper: dessert
 g: dessert made by baking fruit wrapped in pastry
 
-w: dumpling1
+w: dumpling
 w: dumplings
-hyper: pasta
+hyper: pasta1
 g: small balls or strips of boiled or steamed dough
 
 w: Dungeness_crab
@@ -4028,23 +4028,23 @@ w: Dutch-processed_cocoa
 hyper: cocoa_powder
 g: cocoa powder treated with a mild alkalizing agent (such as baking soda)
 
-w: Easter_egg1
+w: Easter_egg
 hyper: candy
 g: an egg-shaped candy used to celebrate Easter
 
-w: Easter_egg
+w: Easter_egg1
 hyper: hard-boiled_egg
 g: a colored hard-boiled egg used to celebrate Easter
 
 w: eatage
 w: forage drf verb.consumption:forage
-w: pasture drf verb.contact:pasture10 drf verb.contact:pasture
-w: pasturage drf verb.contact:pasture10 drf verb.contact:pasture
+w: pasture drf verb.contact:pasture drf verb.contact:pasture1
+w: pasturage drf verb.contact:pasture drf verb.contact:pasture1
 w: grass
 hyper: fodder
 g: bulky food like grass or hay for browsing or grazing horses or cattle
 
-w: eater drf verb.consumption:eat
+w: eater drf verb.consumption:eat1
 hyper: produce
 g: any green goods that are good to eat; "these apples are good eaters"
 
@@ -4058,7 +4058,7 @@ hyper: brandy
 g: strong coarse brandy
 
 w: Eccles_cake
-hyper: cake
+hyper: cake1
 dr: noun.location:United_Kingdom
 g: a flat round cake of sweetened pastry filled with dried fruit
 
@@ -4099,7 +4099,7 @@ g: made of milk and flavored syrup with soda water
 w: egg_foo_yong
 w: egg_fu_yung
 hyper: omelet
-dr: noun.location:China
+dr: noun.location:China1
 g: omelet containing onions and celery and chopped meat or fish
 
 w: egg_noodle
@@ -4109,7 +4109,7 @@ g: narrow strip of pasta dough made with eggs
 w: egg_roll
 w: spring_roll
 hyper: dish
-dr: noun.location:China
+dr: noun.location:China1
 g: minced vegetables and meat wrapped in a pancake and fried
 
 w: egg_white
@@ -4130,7 +4130,7 @@ w: eggdrop_soup
 hyper: soup
 g: made by stirring beaten eggs into a simmering broth
 
-w: egg drf verb.contact:egg drf verb.contact:egg1
+w: egg drf verb.contact:egg1 drf verb.contact:egg
 w: eggs
 hyper: foodstuff
 g: oval reproductive body of a fowl (especially a hen) used as food
@@ -4217,12 +4217,12 @@ g: lightly sauteed veal cutlets spread with a Soubise sauce and liver paste then
 
 w: escargot
 w: snail drf verb.contact:snail
-hyper: meat1
+hyper: meat
 hs: noun.animal:edible_snail
 g: edible terrestrial snail usually served in the shell with a sauce of melted butter and garlic
 
 w: Espagnole
-w: sauce_Espagnole1
+w: sauce_Espagnole
 hyper: sauce
 g: brown sauce with tomatoes and a caramelized mixture of minced carrots and onions and celery seasoned with Madeira
 
@@ -4247,7 +4247,7 @@ hyper: concentrate
 g: milk concentrated by evaporation
 
 w: eye_opener
-hyper: drink4
+hyper: drink
 g: an alcoholic drink intended to wake one up early in the morning
 
 w: fad_diet
@@ -4271,7 +4271,7 @@ g: the food and drink that are regularly served or consumed
 
 w: farfalle
 w: bowtie_pasta
-hyper: pasta
+hyper: pasta1
 g: pasta shaped with scalloped edges and pinched in the middle, suggestive of a bow tie
 
 w: farina
@@ -4291,20 +4291,20 @@ hyper: salt_pork
 g: salt pork from the back of a hog carcass
 
 w: fava_bean
-w: broad_bean
+w: broad_bean1
 hyper: shell_bean
 g: shell beans cooked as lima beans
 
 w: fedelline
-hyper: pasta
+hyper: pasta1
 g: extremely fine pasta thinner than vermicelli
 
 w: feed_grain
 hyper: feed
 g: grain grown for cattle feed
 
-w: feed drf verb.consumption:feed2 drf verb.consumption:feed
-w: provender2
+w: feed drf verb.consumption:feed4 drf verb.consumption:feed5
+w: provender
 hyper: noun.Tops:food
 g: food for domestic livestock
 
@@ -4314,7 +4314,7 @@ hyper: edible_fruit
 hp: noun.plant:feijoa
 g: dark-green kiwi-sized tropical fruit with white flesh; used chiefly for jellies and preserves
 
-w: fennel
+w: fennel2
 hyper: spice
 g: fennel seeds are ground and used as a spice or as an ingredient of a spice mixture
 
@@ -4329,7 +4329,7 @@ hyper: herb
 hp: noun.plant:common_fennel
 g: leaves used for seasoning
 
-w: fennel2
+w: fennel
 w: Florence_fennel
 w: finocchio
 hyper: vegetable
@@ -4348,20 +4348,20 @@ g: fettuccine in cream sauce with cheese
 
 w: fettuccine
 w: fettuccini
-hyper: pasta
+hyper: pasta1
 g: pasta in flat strips wider than linguine
 
 w: field_pea
 hyper: pea
-hp: noun.plant:field_pea
+hp: noun.plant:field_pea1
 g: coarse small-seeded pea often used as food when young and tender
 
 w: field_ration
-hyper: ration1
+hyper: ration
 g: rations issued for United States troops in the field
 
 w: field_soybean
-hyper: soy
+hyper: soy1
 hs: oil_cake
 g: seeds used as livestock feed
 
@@ -4371,17 +4371,17 @@ hp: noun.plant:fig
 g: fleshy sweet pear-shaped yellowish or purple multiple fruit eaten fresh or preserved or dried
 
 w: filet_mignon
-hyper: fillet1
+hyper: fillet
 g: small steak cut from the thick end of a beef tenderloin
 
-w: fillet1 drf verb.contact:fillet
-w: filet1 drf verb.contact:filet
+w: fillet drf verb.contact:fillet
+w: filet drf verb.contact:filet
 hyper: beefsteak
 hp: beef_tenderloin
 g: a boneless steak cut from the tenderloin of beef
 
-w: fillet2 drf verb.contact:fillet
-w: filet2 drf verb.contact:filet
+w: fillet1 drf verb.contact:fillet
+w: filet1 drf verb.contact:filet
 w: fish_fillet
 w: fish_filet
 hyper: piece
@@ -4424,8 +4424,8 @@ hyper: dish
 g: fried fish and french-fried potatoes
 
 w: fish_cake
-w: fish_ball2
-hyper: patty3
+w: fish_ball1
+hyper: patty
 g: a fried ball or patty of flaked fish and mashed potatoes
 
 w: fish_chowder
@@ -4474,7 +4474,7 @@ hyper: beverage
 g: an effervescent beverage (usually alcoholic)
 
 w: flageolet
-w: haricot2
+w: haricot
 hyper: common_bean
 g: a French bean variety with light-colored seeds; usually dried
 
@@ -4525,7 +4525,7 @@ w: flip
 hyper: mixed_drink
 g: hot or cold alcoholic mixed drink containing a beaten egg
 
-w: flitch2
+w: flitch
 hyper: fish_steak
 g: fish steak usually cut from a halibut
 
@@ -4543,7 +4543,7 @@ w: flour drf adjs.all:floury drf verb.change:flour drf verb.contact:flour
 hyper: foodstuff
 hs: bread
 hs: dough
-hs: pastry
+hs: pastry1
 g: fine powdery foodstuff obtained by grinding and sifting the meal of a cereal grain
 
 w: fluffy_omelet
@@ -4551,7 +4551,7 @@ hyper: omelet
 g: souffle-like omelet made by beating and adding the whites separately
 
 w: flummery
-hyper: pudding
+hyper: pudding2
 g: a bland custard or pudding especially of oatmeal
 
 w: fodder drf verb.consumption:fodder
@@ -4567,13 +4567,13 @@ w: fondant
 hyper: candy
 g: candy made of a thick creamy sugar paste
 
-w: fondue2
-w: fondu2
+w: fondue
+w: fondu
 hyper: dish
 g: cubes of meat or seafood cooked in hot oil and then dipped in any of various sauces
 
-w: fondue
-w: fondu
+w: fondue1
+w: fondu1
 hyper: dish
 g: hot cheese or chocolate melted to the consistency of a sauce into which bread or fruits are dipped
 
@@ -4583,7 +4583,7 @@ g: food in a secure or hidden storage place
 
 w: food
 w: solid_food
-hyper: noun.substance:solid4
+hyper: noun.substance:solid
 hp: noun.Tops:food
 g: any solid substance (as opposed to liquid) that is used as a source of nourishment; "food and drink"
 
@@ -4610,7 +4610,7 @@ hyper: shank
 g: a cut of meat from the upper part of a front leg
 
 w: formula
-hyper: milk2
+hyper: milk
 g: a liquid food for infants
 
 w: fortified_wine
@@ -4619,7 +4619,7 @@ g: wine to which alcohol (usually grape brandy) has been added
 
 w: fortune_cookie
 hyper: cookie
-dr: noun.location:China
+dr: noun.location:China1
 g: thin folded wafer containing a maxim on a slip of paper
 
 w: fox_grape
@@ -4628,32 +4628,32 @@ hp: noun.plant:fox_grape
 g: purplish-black wild grape of the eastern United States with tough skins that slip easily from the flesh; cultivated in many varieties
 
 w: frangipane
-hyper: pastry
+hyper: pastry1
 g: pastry with a creamy almond-flavored filling
 
 w: frank
 w: frankfurter
 w: hotdog1
 w: hot_dog1
-w: dog1
+w: dog
 w: wiener
 w: wienerwurst
 w: weenie
 hyper: sausage
-hp: hotdog2
+hp: hotdog
 g: a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll
 
 w: frankfurter_bun
 w: hotdog_bun
 hyper: bun
-hp: hotdog2
+hp: hotdog
 g: a long bun shaped to hold a frankfurter
 
-w: frappe3
-hyper: drink4
+w: frappe
+hyper: drink
 g: liqueur poured over shaved ice
 
-w: frappe2
+w: frappe1
 hyper: milkshake
 g: thick milkshake containing ice cream
 
@@ -4668,13 +4668,13 @@ g: a crusty sourdough bread often baked in long slender tapered loaves or baguet
 w: French_dressing
 w: vinaigrette
 w: sauce_vinaigrette
-hyper: dressing1
+hyper: dressing
 g: oil and vinegar with mustard and garlic
 
 w: french_fries
 w: french-fried_potatoes
 w: fries
-w: chips1 du noun.location:Britain
+w: chips du noun.location:Britain
 hyper: potato
 g: strips of potato fried in deep fat
 
@@ -4692,7 +4692,7 @@ hyper: firm_omelet
 g: omelet cooked quickly and slid onto a plate
 
 w: French_pastry
-hyper: pastry
+hyper: pastry1
 g: sweet filled pastry made of especially puff paste
 
 w: French_sorrel
@@ -4741,7 +4741,7 @@ hyper: dish
 g: boiled rice mixed with scallions and minced pork or shrimp and quickly scrambled with eggs
 
 w: friedcake
-hyper: cake
+hyper: cake1
 g: small cake in the form of a ring or twist or ball or strip fried in deep fat
 
 w: frijole
@@ -4767,7 +4767,7 @@ g: hind legs of frogs used as food; resemble chicken and cooked as chicken
 
 w: frosting drf verb.contact:frost
 w: icing drf verb.contact:ice
-w: ice1 drf verb.contact:ice
+w: ice drf verb.contact:ice
 hyper: topping
 g: a flavored sugar topping used to coat and decorate cakes
 
@@ -4831,7 +4831,7 @@ hyper: salad
 g: salad composed of fruits
 
 w: fruitcake
-hyper: cake
+hyper: cake1
 g: a rich cake containing dried fruit and nuts and citrus peel and so on
 
 w: frumenty
@@ -4860,8 +4860,8 @@ w: Galliano
 hyper: liqueur
 g: golden Italian liqueur flavored with herbs
 
-w: game drf adjs.all:gamy drf adjs.all:gamey
-hyper: meat1
+w: game drf adjs.all:gamy1 drf adjs.all:gamey1
+hyper: meat
 g: the flesh of wild animals that is used for food
 
 w: gammon1
@@ -4906,12 +4906,12 @@ w: garnish drf verb.creation:garnish
 hyper: noun.artifact:decoration
 g: something (such as parsley) added to a dish for flavor or decoration
 
-w: gastronomy2 drf adj.pert:gastronomic
+w: gastronomy drf adj.pert:gastronomic
 hyper: cuisine
 g: a particular style of cookery (as of a region); "New England gastronomy"
 
 w: gateau
-hyper: cake
+hyper: cake1
 g: any of various rich and elaborate cakes
 
 w: gazpacho
@@ -4924,11 +4924,11 @@ hyper: dish
 g: well-seasoned balls of ground fish and eggs and crushed crumbs simmered in fish stock
 
 w: gelatin_dessert
-hyper: gelatin2
+hyper: gelatin
 g: jellied dessert made with gelatin and fruit juice or water
 
-w: gelatin2
-w: jelly1 drf verb.change:jellify1 drf verb.change:jellify
+w: gelatin
+w: jelly drf verb.change:jellify1 drf verb.change:jellify
 hyper: dainty
 g: an edible jelly (sweet or pungent) made with gelatin and used as a dessert or salad base or a coating for foods
 
@@ -4956,14 +4956,14 @@ hp: noun.plant:Spanish_lime
 g: round one-inch Caribbean fruit with green leathery skin and sweet juicy translucent pulp; eaten like grapes
 
 w: genoise
-hyper: cake
+hyper: cake1
 g: rich and delicate Italian sponge cake
 
 w: ghee
 hyper: clarified_butter
 g: clarified butter used in Indian cookery
 
-w: gherkin2
+w: gherkin
 hyper: pickle
 g: any of various small cucumbers pickled whole
 
@@ -5015,14 +5015,14 @@ hyper: beverage
 g: carbonated slightly alcoholic drink flavored with fermented ginger
 
 w: gingerbread
-hyper: cake
+hyper: cake1
 g: cake flavored with ginger
 
 w: gingerbread_man
 hyper: cookie
 g: gingerbread cut in the shape of a person
 
-w: ginger2 drf verb.perception:ginger
+w: ginger1 drf verb.perception:ginger
 w: gingerroot
 hyper: flavorer
 hp: noun.plant:common_ginger
@@ -5037,7 +5037,7 @@ g: dried ground gingerroot
 
 w: gingersnap
 w: ginger_snap
-w: snap
+w: snap1
 w: ginger_nut
 hyper: cookie
 g: a crisp round cookie flavored with ginger
@@ -5067,7 +5067,7 @@ hyper: bread
 g: bread made with gluten flour
 
 w: gnocchi
-hyper: dumpling1
+hyper: dumpling
 g: (Italian) a small dumpling made of potato or flour or semolina that is boiled or baked and is usually served with a sauce or with grated cheese
 
 w: goa_bean
@@ -5132,13 +5132,13 @@ g: semisweet whole-wheat cracker
 
 w: grain
 w: food_grain
-w: cereal1 drf adj.pert:cereal
+w: cereal drf adj.pert:cereal
 hyper: foodstuff
 g: foodstuff prepared from the starchy grains of cereal grasses
 
 w: granadilla
 hyper: passion_fruit
-hp: noun.plant:granadilla2
+hp: noun.plant:granadilla1
 hp: noun.plant:granadilla
 g: the egg-shaped edible fruit of tropical American vines related to passionflowers
 
@@ -5168,7 +5168,7 @@ hp: noun.plant:grape
 g: any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters
 
 w: grape_jelly
-hyper: jelly
+hyper: jelly1
 g: jelly made from grape juice
 
 w: grape_juice
@@ -5201,11 +5201,11 @@ w: grated_cheese
 hyper: cheese
 g: hard or semihard cheese grated
 
-w: gravy1
+w: gravy
 hyper: sauce
 g: a sauce made by adding stock, flour, or other ingredients to the juice and fat that drips from cooking meats
 
-w: gravy
+w: gravy1
 w: pan_gravy
 hyper: juice
 g: the seasoned but not thickened juices that drip from cooking meats; often a little water is added
@@ -5252,7 +5252,7 @@ hyper: shell_bean
 g: seeds shelled and cooked as lima beans
 
 w: green_tea
-hyper: tea2
+hyper: tea1
 g: tea leaves that have been steamed and dried without fermenting
 
 w: greengage
@@ -5302,9 +5302,9 @@ hyper: rum
 g: rum cut with water
 
 w: ground_beef
-w: hamburger
+w: hamburger1
 hyper: beef
-hp: hamburger1
+hp: hamburger
 g: beef that has been ground
 
 w: groundnut
@@ -5360,14 +5360,14 @@ w: gum_ball
 hyper: chewing_gum
 g: a ball of chewing gum with a coating of colored sugar
 
-w: gumbo
+w: gumbo1
 hyper: soup
 g: a soup or stew thickened with okra pods
 
-w: gumbo1
+w: gumbo
 w: okra
 hyper: vegetable
-hp: noun.plant:okra
+hp: noun.plant:okra1
 g: long mucilaginous green pods; may be simmered or sauteed but used especially in soups and stews
 
 w: gumdrop
@@ -5389,15 +5389,15 @@ dr: noun.location:Scotland
 g: made of sheep's or calf's viscera minced with oatmeal and suet and onions and boiled in the animal's stomach
 
 w: hair_of_the_dog
-hyper: drink4
+hyper: drink
 g: an alcoholic drink supposed to cure a hangover
 
 w: hake
 hyper: fish
 g: the lean flesh of a fish similar to cod
 
-w: halal drf adjs.all:halal
-hyper: meat1
+w: halal drf adjs.all:halal1
+hyper: meat
 dt: noun.cognition:Islam
 g: (Islam) meat from animals that have been slaughtered in the prescribed way according to the shariah
 
@@ -5406,7 +5406,7 @@ hyper: dairy_product
 g: half milk and half light cream; contains 10% to 18% butterfat
 
 w: half-and-half_dressing
-hyper: dressing1
+hyper: dressing
 g: half mayonnaise and half vinaigrette seasoned with minced garlic and mashed anchovies and grated Parmesan cheese; especially good for combination salads
 
 w: halibut
@@ -5431,7 +5431,7 @@ w: hamburger_roll
 hyper: bun
 g: a round bun shaped to hold a hamburger patty
 
-w: hamburger1
+w: hamburger
 w: beefburger
 w: burger
 hyper: sandwich
@@ -5471,7 +5471,7 @@ hyper: sauce
 g: butter and sugar creamed together with brandy or other flavoring and served with rich puddings
 
 w: hardbake
-hyper: sweet
+hyper: sweet1
 g: a British sweet made with molasses and butter and almonds
 
 w: hardtack
@@ -5501,7 +5501,7 @@ hyper: variety_meat
 hyper: loaf1
 g: heart and liver and other edible viscera especially of hogs; usually chopped and formed into a loaf and braised
 
-w: hasty_pudding2
+w: hasty_pudding
 hyper: porridge
 dr: noun.location:United_Kingdom
 g: sweetened porridge made of tapioca or flour or oatmeal cooked quickly in milk or water
@@ -5557,13 +5557,13 @@ hyper: cream
 g: contains more than 36% butterfat
 
 w: heel
-hyper: noun.location:end
+hyper: noun.location:end2
 hp: loaf_of_bread
 g: one of the crusty ends of a loaf of bread
 
-w: helping drf verb.consumption:help
+w: helping drf verb.consumption:help1
 w: portion
-w: serving drf verb.consumption:serve1
+w: serving drf verb.consumption:serve
 hyper: noun.quantity:small_indefinite_quantity
 hp: meal
 g: an individual quantity of food or drink taken as part of a meal; "the helpings were all small"; "his portion was larger than hers"; "there's enough for two servings each"
@@ -5629,19 +5629,19 @@ g: a cut of meat from the upper part of a rear leg
 
 w: hoecake
 hyper: johnnycake
-dr: noun.location:South1
+dr: noun.location:South
 g: thin usually unleavened johnnycake made of cornmeal; originally baked on the blade of a hoe over an open fire (southern)
 
-w: hog_plum1
+w: hog_plum
 w: wild_plum
 hyper: edible_fruit
 hp: noun.plant:chickasaw_plum
 g: fruit of the wild plum of southern United States
 
-w: hog_plum2
+w: hog_plum1
 w: yellow_mombin
 hyper: edible_fruit
-hp: noun.plant:hog_plum2
+hp: noun.plant:hog_plum
 g: yellow oval tropical fruit
 
 w: hollandaise
@@ -5659,7 +5659,7 @@ hyper: potato
 g: sliced pieces of potato fried in a pan until brown and crisp
 
 w: hominy
-hyper: corn
+hyper: corn1
 g: hulled corn with the bran and germ removed
 
 w: homogenized_milk
@@ -5680,7 +5680,7 @@ hyper: sweet_roll
 g: rolled dough spread with sugar and nuts then sliced and baked in muffin tins with honey or sugar and butter in the bottom
 
 w: honey_cake
-hyper: cake
+hyper: cake1
 g: a spicy cake partially sweetened with honey
 
 w: honey_crisp
@@ -5711,13 +5711,13 @@ g: a dish served as an appetizer before the main meal
 
 w: horsemeat
 w: horseflesh
-hyper: meat1
+hyper: meat
 hp: noun.animal:horse
 g: the flesh of horses as food
 
 w: horseradish
 hyper: condiment
-hs: noun.plant:horseradish1
+hs: noun.plant:horseradish
 hs: horseradish_sauce
 g: grated horseradish root
 
@@ -5736,11 +5736,11 @@ hyper: chocolate_sauce
 g: thick chocolate sauce served hot
 
 w: hot_cereal
-hyper: cereal
+hyper: cereal1
 g: a cereal that is served hot
 
 w: hot_pepper
-hyper: pepper2
+hyper: pepper1
 g: any of various pungent capsicum fruits
 
 w: hot_pot
@@ -5762,8 +5762,8 @@ w: hotchpotch
 hyper: stew
 g: a stew (or thick soup) made with meat and vegetables
 
-w: hotdog2
-w: hot_dog2
+w: hotdog
+w: hot_dog
 w: red_hot
 hyper: sandwich
 g: a frankfurter served hot on a bun
@@ -5833,7 +5833,7 @@ g: ice cream in a crisp conical wafer
 w: ice-cream_soda
 w: ice-cream_float
 w: float
-hyper: drink4
+hyper: drink
 g: a drink with ice cream floating in it
 
 w: ice-cream_sundae
@@ -5848,7 +5848,7 @@ g: frozen dessert containing cream and sugar and flavoring
 
 w: ice_lolly
 w: lolly
-w: lollipop2
+w: lollipop
 w: popsicle
 hyper: frozen_dessert
 g: ice cream or water ice on a small wooden stick; "in England a popsicle is called an ice lolly"
@@ -5871,8 +5871,8 @@ w: ice_coffee
 hyper: coffee
 g: a strong sweetened coffee served over ice with cream
 
-w: ice
-w: frappe1
+w: ice1
+w: frappe2
 hyper: frozen_dessert
 g: a frozen dessert with fruit flavoring (especially one containing no milk)
 
@@ -5923,7 +5923,7 @@ hyper: white_bread
 g: unsweetened yeast-raised bread made without shortening and baked in long thick loaves with tapered ends
 
 w: Italian_dressing
-hyper: dressing1
+hyper: dressing
 g: a vinaigrette with garlic and herbs: oregano and basil and dill
 
 w: jaboticaba
@@ -5953,7 +5953,7 @@ g: sweet almost seedless orange of Israel
 
 w: jalapeno
 w: jalapeno_pepper
-hyper: chili
+hyper: chili1
 g: hot green or red pepper of southwestern United States and Mexico
 
 w: jam
@@ -5982,7 +5982,7 @@ hyper: gelatin_dessert
 hyper: noun.substance:hydrocolloid
 g: fruit-flavored dessert (trade mark Jell-O) made from a commercially prepared gelatin powder
 
-w: jelly drf verb.change:jellify1 drf verb.change:jellify
+w: jelly1 drf verb.change:jellify1 drf verb.change:jellify
 hyper: conserve
 g: a preserve made of the jelled juice of fruit
 
@@ -5999,7 +5999,7 @@ g: thin sheet of sponge cake spread with jelly and then rolled up to make a cyli
 w: jerky
 w: jerked_meat
 w: jerk
-hyper: meat1
+hyper: meat
 g: meat (especially beef) cut in strips and dried in the sun
 
 w: Jerusalem_artichoke
@@ -6046,7 +6046,7 @@ w: jujube1
 hyper: gumdrop
 g: chewy fruit-flavored jellied candy (sometimes medicated to soothe a sore throat)
 
-w: jujube2
+w: jujube
 w: Chinese_date
 w: Chinese_jujube
 hyper: edible_fruit
@@ -6070,7 +6070,7 @@ g: a vegetable cut into thin strips (usually used as a garnish)
 
 w: jumble
 w: jumbal
-hyper: cake
+hyper: cake1
 g: small flat ring-shaped cake or cookie
 
 w: juniper_berries
@@ -6161,7 +6161,7 @@ g: like steak and kidney pie but without steak
 
 w: kingfish
 hyper: saltwater_fish
-hp: noun.animal:kingfish1
+hp: noun.animal:kingfish2
 hp: noun.animal:cero
 g: the lean flesh of any of several fish caught off the Atlantic coast of the United States
 
@@ -6185,11 +6185,11 @@ hyper: dish
 dt: noun.cognition:Judaism
 g: (Judaism) roasted fowl intestines with a seasoned filling of matzo meal and suet
 
-w: kiss1
+w: kiss
 hyper: cookie
 g: a cookie made of egg whites and sugar
 
-w: kiss
+w: kiss1
 w: candy_kiss
 hyper: candy
 g: any of several bite-sized candies
@@ -6265,7 +6265,7 @@ hp: noun.animal:lake_trout
 g: flesh of large trout of northern lakes
 
 w: lamb drf verb.body:lamb
-hyper: meat1
+hyper: meat
 hp: noun.animal:domestic_sheep
 g: the flesh of a young domestic sheep eaten as food
 
@@ -6305,7 +6305,7 @@ g: East Indian tart yellow berrylike fruit
 
 w: lard drf verb.creation:lard
 hyper: edible_fat
-hs: noun.animal:hog
+hs: noun.animal:hog1
 g: soft white semisolid fat obtained by rendering the fatty tissue of the hog
 
 w: larder
@@ -6317,18 +6317,18 @@ hyper: freshwater_bass
 hp: noun.animal:largemouth
 g: flesh of largemouth bass
 
-w: lasagna2
-w: lasagne2
-hyper: pasta1
+w: lasagna
+w: lasagne
+hyper: pasta
 g: baked dish of layers of lasagna pasta with sauce and cheese and meat or vegetables
 
 w: lasagna1
-w: lasagne
-hyper: pasta
+w: lasagne1
+hyper: pasta1
 g: very wide flat strips of pasta
 
 w: layer_cake
-hyper: cake
+hyper: cake1
 g: cake having layers held together by a sweet filling and usually covered with frosting
 
 w: leaf_lettuce
@@ -6414,10 +6414,10 @@ g: the rind of a lemon
 w: lemon_sole1
 w: English_sole
 hyper: sole
-hp: noun.animal:lemon_sole1
+hp: noun.animal:lemon_sole2
 g: highly valued almost pure white flesh
 
-w: lemon_sole2
+w: lemon_sole
 w: winter_flounder
 hyper: flounder
 hp: noun.animal:winter_flounder
@@ -6437,7 +6437,7 @@ g: a commercial mix for making lemonade
 
 w: lentil
 hyper: legume
-hp: noun.plant:lentil
+hp: noun.plant:lentil1
 g: round flat seed of the lentil plant used for food
 
 w: lentil_soup
@@ -6449,12 +6449,12 @@ hyper: salad_green
 hp: noun.plant:garden_lettuce
 g: leaves of any of various plants of Lactuca sativa
 
-w: libation2
-hyper: drink4
+w: libation
+hyper: drink
 du: noun.communication:wit
 g: (facetious) a serving of an alcoholic beverage
 
-w: libation
+w: libation1
 hyper: helping
 g: a serving (of wine) poured out in honor of a deity
 
@@ -6503,7 +6503,7 @@ g: a soft white cheese with a very strong pungent odor and flavor
 
 w: lime
 hyper: citrus
-hp: noun.plant:lime1
+hp: noun.plant:lime
 g: the green acidic fruit of any of various lime trees
 
 w: lime_juice
@@ -6541,7 +6541,7 @@ g: a highly seasoned Portuguese pork sausage flavored with garlic and onions
 
 w: linguine
 w: linguini
-hyper: pasta
+hyper: pasta1
 g: pasta in long slender flat strips
 
 w: liqueur
@@ -6556,7 +6556,7 @@ g: a diet of foods that can be served in liquid or strained form (plus custards 
 w: liquor1
 w: pot_liquor
 w: pot_likker
-hyper: broth1
+hyper: broth
 g: the liquid in which vegetables or meat have be cooked
 
 w: liquor
@@ -6658,7 +6658,7 @@ hyper: cut_of_lamb
 hp: lamb
 g: meat from a loin of lamb
 
-w: lollipop
+w: lollipop1
 w: sucker1
 w: all-day_sucker
 hyper: candy
@@ -6677,7 +6677,7 @@ hp: noun.plant:loquat
 g: yellow olive-sized semitropical fruit with a large free stone and relatively little flesh; used for jellies
 
 w: Lorenzo_dressing
-hyper: dressing1
+hyper: dressing
 g: vinaigrette with chili sauce and chopped watercress
 
 w: lovage
@@ -6721,7 +6721,7 @@ hyper: cold_cuts
 hyper: loaf1
 g: any of various sausages or molded loaf meats sliced and served cold
 
-w: lunch drf verb.consumption:lunch1 drf verb.consumption:lunch
+w: lunch drf verb.consumption:lunch drf verb.consumption:lunch1
 w: luncheon
 w: tiffin
 w: dejeuner
@@ -6731,7 +6731,7 @@ g: a midday meal
 w: lutefisk
 w: lutfisk
 hyper: dish
-dr: noun.location:Scandinavia
+dr: noun.location:Scandinavia1
 g: dried cod soaked in a lye solution before boiling to give it a gelatinous consistency
 
 w: lye_hominy
@@ -6749,11 +6749,11 @@ hp: noun.plant:macadamia_nut
 g: nutlike seed with sweet and crisp white meat
 
 w: macaroni
-hyper: pasta
+hyper: pasta1
 g: pasta in the form of slender tubes
 
 w: macaroni_and_cheese
-hyper: pasta1
+hyper: pasta
 g: macaroni prepared in a cheese sauce
 
 w: macaroni_salad
@@ -6808,9 +6808,9 @@ hyper: Madeira
 hs: noun.plant:malvasia
 g: sweet Madeira wine
 
-w: malt1 drf noun.person:maltster drf verb.change:malt2 drf verb.change:malt3
+w: malt2 drf noun.person:maltster drf verb.change:malt2 drf verb.change:malt
 hyper: grain
-hs: malt2
+hs: malt1
 g: a cereal grain (usually barley) that is kiln-dried after having been germinated by soaking in water; used especially in brewing and distilling
 
 w: malted_milk1
@@ -6818,18 +6818,18 @@ hyper: ingredient
 g: powder made of dried milk and malted cereals
 
 w: malted
-w: malt3 drf noun.person:maltster drf verb.change:malt3
-w: malted_milk2
+w: malt drf noun.person:maltster drf verb.change:malt
+w: malted_milk
 hyper: milkshake
 g: a milkshake made with malt powder
 
-w: malt2 drf noun.person:maltster drf verb.change:malt drf verb.change:malt1
+w: malt1 drf noun.person:maltster drf verb.change:malt3 drf verb.change:malt1
 w: malt_liquor
 hyper: lager
 g: a lager of high alcohol content; by law it is considered too alcoholic to be sold as lager or beer
 
 w: mamey
-w: mammee1
+w: mammee
 w: mammee_apple
 hyper: edible_fruit
 hp: noun.plant:mammee_apple
@@ -6864,7 +6864,7 @@ hyper: clam_chowder
 g: a chowder made with clams and tomatoes and other vegetables and seasonings
 
 w: manicotti
-hyper: pasta
+hyper: pasta1
 g: large pasta tubes stuffed with chopped meat or mild cheese and baked in tomato sauce
 
 w: Manzanilla
@@ -6882,16 +6882,16 @@ g: tropical fruit from the Philippines having a mass of small seeds embedded in 
 
 w: maraschino1
 w: maraschino_cherry
-hyper: sweet
+hyper: sweet1
 g: cherry preserved in true or imitation maraschino liqueur
 
-w: maraschino2
+w: maraschino
 w: maraschino_liqueur
 hyper: liqueur
 g: distilled from fermented juice of bitter wild marasca cherries
 
 w: marble_cake
-hyper: cake
+hyper: cake1
 g: made of light and dark batter very lightly blended
 
 w: marbling
@@ -6945,7 +6945,7 @@ w: marrowbone
 hyper: noun.body:bone
 g: a bone containing edible marrow; used especially in flavoring soup
 
-w: marrow2
+w: marrow
 w: bone_marrow
 hyper: dainty
 hp: marrowbone
@@ -6955,7 +6955,7 @@ w: marrowfat_pea
 hyper: pea
 g: a variety of large pea that is commonly processed and sold in cans
 
-w: marrow
+w: marrow1
 w: vegetable_marrow
 hyper: summer_squash
 hp: noun.plant:marrow
@@ -7013,7 +7013,7 @@ g: highly seasoned soup or stew made of freshwater fishes (eel, carp, perch) wit
 w: matzo_ball
 w: matzoh_ball
 w: matzah_ball
-hyper: dumpling1
+hyper: dumpling
 g: a Jewish dumpling made of matzo meal; usually served in soup
 
 w: matzo_meal
@@ -7035,7 +7035,7 @@ g: a punch made of Moselle and sugar and sparkling water or champagne flavored w
 
 w: mayonnaise
 w: mayo
-hyper: dressing1
+hyper: dressing
 g: egg yolks and oil and vinegar
 
 w: McIntosh
@@ -7055,7 +7055,7 @@ w: repast
 hyper: nutriment
 g: the food served and eaten at one time
 
-w: meat1 drf adj.all:meaty
+w: meat drf adj.all:meaty
 hyper: food
 g: the flesh of animals (including fishes and birds and snails) used as food
 
@@ -7077,7 +7077,7 @@ w: medallion
 hyper: helping
 g: a circular helping of food (especially a boneless cut of meat); "medallions of veal"
 
-w: medlar2
+w: medlar
 hyper: edible_fruit
 hp: noun.plant:wild_medlar
 g: a South African globular fruit with brown leathery skin and pithy flesh having a sweet-acid taste
@@ -7094,7 +7094,7 @@ hs: noun.plant:Sauvignon_grape
 g: red Bordeaux wine from the Medoc district of southwestern France
 
 w: Melba_toast
-hyper: toast
+hyper: toast1
 g: very thin crisp brown toast
 
 w: melon
@@ -7115,7 +7115,7 @@ hyper: topping
 g: sweet topping especially for pies made of beaten egg whites and sugar
 
 w: meringue_kiss
-hyper: kiss
+hyper: kiss1
 g: a kiss made of sugar and egg white and baked slowly
 
 w: Merlot
@@ -7124,14 +7124,14 @@ g: dry red wine made from a grape grown widely in Bordeaux and California
 
 w: mescal
 hyper: liquor
-hs: noun.plant:maguey2
+hs: noun.plant:maguey
 g: a colorless Mexican liquor distilled from fermented juices of certain desert plants of the genus Agavaceae (especially the century plant)
 
-w: mess1 drf verb.consumption:mess
+w: mess drf verb.consumption:mess
 hyper: nutriment
 g: soft semiliquid food; "a mess of porridge"
 
-w: mess drf verb.consumption:mess
+w: mess1 drf verb.consumption:mess
 hyper: meal
 g: a meal eaten in a mess hall by service personnel
 
@@ -7144,17 +7144,17 @@ w: lemon_butter
 hyper: butter
 g: clarified butter browned slowly and seasoned with lemon juice and parsley
 
-w: milk2 drf verb.change:milk1
+w: milk drf verb.change:milk
 hyper: foodstuff
 g: any of several nutritive milklike liquids
 
-w: milk1 drf adjs.all:milky drf verb.change:milk1 drf verb.change:milk
+w: milk1 drf adjs.all:milky drf verb.change:milk drf verb.change:milk1
 hyper: dairy_product
 hyper: beverage
 g: a white nutritious liquid secreted by mammals and used as food by human beings
 
 w: milk_chocolate
-hyper: chocolate
+hyper: chocolate1
 g: chocolate made from chocolate liquor with sugar and cocoa butter and powdered milk solids and vanilla and (usually) lecithin; the most common form of chocolate for eating; used in chocolate candy and baking and coatings
 
 w: milk_punch
@@ -7164,7 +7164,7 @@ g: a punch made of spirits and milk and sugar and spices
 w: milkshake
 w: milk_shake
 w: shake
-hyper: drink4
+hyper: drink
 g: frothy drink of milk and flavoring and sometimes fruit or ice cream
 
 w: millet
@@ -7193,13 +7193,13 @@ w: mincemeat
 hyper: concoction
 g: spiced mixture of chopped raisins and apples and other ingredients with or without meat
 
-w: mineral_water1
+w: mineral_water
 hyper: drinking_water
 g: water naturally or artificially impregnated with mineral salts or gasses; often effervescent; often used therapeutically
 
-w: mint1
+w: mint
 hyper: herb
-hs: mint
+hs: mint1
 hp: noun.plant:mint
 g: the leaves of a mint plant used fresh or candied
 
@@ -7207,7 +7207,7 @@ w: mint_sauce
 hyper: condiment
 g: sweetened diluted vinegar with chopped mint leaves
 
-w: mint
+w: mint1
 w: mint_candy
 hyper: candy
 g: a candy that is flavored with a mint oil
@@ -7242,7 +7242,7 @@ w: premix
 hyper: concoction
 g: a commercially prepared mixture of dry ingredients
 
-w: mocha2
+w: mocha
 hyper: flavorer
 g: a flavoring made from coffee mixed with chocolate
 
@@ -7264,7 +7264,7 @@ hyper: cookie
 g: very spicy cookies sweetened partially with molasses
 
 w: molasses_kiss
-hyper: kiss
+hyper: kiss1
 g: a candy kiss that resembles toffee
 
 w: molasses_taffy
@@ -7327,7 +7327,7 @@ g: onion-flavored creamy cheese sauce with egg yolk and grated cheese
 
 w: morsel
 w: bit
-w: bite1
+w: bite
 hyper: taste
 g: a small amount of solid food; a mouthful; "all they had left was a bit of bread"
 
@@ -7336,14 +7336,14 @@ hyper: white_wine
 g: German white wine from the Moselle valley or a similar wine made elsewhere
 
 w: mostaccioli
-hyper: pasta
+hyper: pasta1
 g: pasta somewhat resembling little moustaches
 
 w: moussaka
 hyper: dish
 g: casserole of eggplant and ground lamb with onion and tomatoes bound with white sauce and beaten eggs
 
-w: mousse2
+w: mousse
 hyper: dessert
 g: a rich, frothy, creamy dessert made with whipped egg whites and heavy cream
 
@@ -7353,7 +7353,7 @@ g: a light creamy dish made from fish or meat and set with gelatin
 
 w: mouton
 w: mutton
-hyper: meat1
+hyper: meat
 hp: noun.animal:domestic_sheep
 g: meat from a mature domestic sheep
 
@@ -7391,7 +7391,7 @@ w: mullet
 w: grey_mullet
 w: gray_mullet
 hyper: fish
-hp: noun.animal:mullet2
+hp: noun.animal:mullet
 g: highly valued lean flesh of marine or freshwater mullet
 
 w: mulligan_stew
@@ -7425,10 +7425,10 @@ hyper: grape
 hp: noun.plant:muscadine
 g: dull-purple grape of southern United States
 
-w: muscat2
-w: muscatel2
-w: muscadel2
-w: muscadelle2
+w: muscat
+w: muscatel
+w: muscadel
+w: muscadelle
 hyper: fortified_wine
 hs: muscat1
 g: wine from muscat grapes
@@ -7528,7 +7528,7 @@ g: a rectangular piece of pastry with thin flaky layers and filled with custard 
 
 w: nasturtium
 hyper: flavorer
-hp: noun.plant:nasturtium1
+hp: noun.plant:nasturtium
 g: flowers and seeds and leaves all used as flavorings
 
 w: navel_orange
@@ -7558,7 +7558,7 @@ w: throat_sweetbread
 hyper: variety_meat
 g: edible thymus gland of an animal
 
-w: nectar2
+w: nectar
 hyper: fruit_juice
 g: fruit juice especially when undiluted
 
@@ -7573,7 +7573,7 @@ g: wine and hot water with sugar and lemon juice and nutmeg
 
 w: Nesselrode
 w: Nesselrode_pudding
-hyper: pudding
+hyper: pudding2
 g: a rich frozen pudding made of chopped chestnuts and maraschino cherries and candied fruits and liqueur or rum
 
 w: net_melon
@@ -7602,7 +7602,7 @@ hyper: cooking_apple
 g: apple used primarily in cooking
 
 w: nightcap
-hyper: drink4
+hyper: drink
 g: an alcoholic drink taken at bedtime; often alcoholic
 
 w: nipa
@@ -7614,16 +7614,16 @@ w: nonfat_dry_milk
 hyper: powdered_milk
 g: dehydrated skimmed milk
 
-w: nonpareil1
-hyper: sweet
+w: nonpareil
+hyper: sweet1
 g: colored beads of sugar used as a topping on e.g. candies and cookies
 
-w: nonpareil2
+w: nonpareil1
 hyper: chocolate_candy
 g: a flat disk of chocolate covered with beads of colored sugar
 
 w: noodle
-hyper: pasta
+hyper: pasta1
 g: a ribbonlike strip of pasta
 
 w: Northern_Spy
@@ -7638,14 +7638,14 @@ hp: noun.animal:Norway_lobster
 g: caught in European waters; slenderer than American lobster
 
 w: nosh drf verb.consumption:nosh
-hyper: bite
+hyper: bite1
 dt: noun.communication:Yiddish
 g: (Yiddish) a snack or light meal
 
 w: nosh-up
 hyper: meal
 dr: noun.location:United_Kingdom
-du: noun.communication:slang
+du: noun.communication:slang1
 g: a large satisfying meal
 
 w: nougat
@@ -7688,9 +7688,9 @@ hs: mace
 g: hard aromatic seed of the nutmeg tree used as spice when grated or ground
 
 w: nutriment
-w: nourishment drf verb.consumption:nourish
+w: nourishment drf verb.consumption:nourish1
 w: nutrition drf adj.pert:nutritionary drf adjs.all:nutritious drf adj.pert:nutritional drf noun.person:nutritionist
-w: sustenance drf verb.consumption:sustain1
+w: sustenance drf verb.consumption:sustain
 w: aliment drf adjs.all:alimentary drf verb.consumption:aliment
 w: alimentation drf verb.consumption:aliment
 w: victuals1
@@ -7712,7 +7712,7 @@ hyper: cookie
 g: cookies containing rolled oats
 
 w: oatmeal
-w: burgoo1
+w: burgoo
 hyper: porridge
 g: porridge made of rolled oats
 
@@ -7755,12 +7755,12 @@ g: a cocktail made of whiskey and bitters and sugar with fruit slices
 w: olive
 hyper: relish
 hyper: noun.plant:drupe
-hp: noun.plant:olive
+hp: noun.plant:olive1
 g: one-seeded fruit of the European olive tree usually pickled and used as a relish
 
 w: olive_oil
 hyper: vegetable_oil
-hs: noun.plant:olive1
+hs: noun.plant:olive
 g: oil from olives
 
 w: olla_podrida
@@ -7798,7 +7798,7 @@ hyper: flavorer
 g: ground dried onion and salt
 
 w: oolong
-hyper: tea2
+hyper: tea1
 g: Chinese tea leaves that have been partially fermented before being dried
 
 w: open-face_sandwich
@@ -7843,7 +7843,7 @@ hyper: soft_drink
 g: orange-flavored carbonated drink
 
 w: orange_toast
-hyper: toast
+hyper: toast1
 g: buttered toast with sugar and grated orange rind and a little orange juice
 
 w: orange_zest
@@ -7860,7 +7860,7 @@ hyper: cookie
 g: chocolate cookie with white cream filling
 
 w: orzo
-hyper: pasta
+hyper: pasta1
 g: pasta shaped like pearls of barley; frequently prepared with lamb in Greek cuisine
 
 w: osso_buco
@@ -7892,7 +7892,7 @@ g: a small dry usually round cracker
 w: oyster_plant
 w: vegetable_oyster
 hyper: salsify
-hp: noun.plant:salsify
+hp: noun.plant:salsify1
 g: long white salsify
 
 w: oyster_stew
@@ -7909,7 +7909,7 @@ hyper: huitre
 g: oysters spread with butter and spinach and seasonings and baked on the half shell
 
 w: Pablum
-hyper: cereal
+hyper: cereal1
 hp: soft_diet
 du: noun.communication:trademark
 g: a soft form of cereal for infants
@@ -7946,7 +7946,7 @@ w: flapjack
 w: griddlecake1
 w: hotcake
 w: hot_cake
-hyper: cake
+hyper: cake1
 g: a flat cake of thin batter fried on both sides on a griddle
 
 w: panfish
@@ -7977,7 +7977,7 @@ w: parfait
 hyper: frozen_dessert
 g: layers of ice cream and syrup and whipped cream
 
-w: paring drf verb.contact:pare2
+w: paring drf verb.contact:pare1
 hyper: noun.Tops:object
 du: noun.communication:plural
 g: (usually plural) a part of a fruit or vegetable that is pared or cut off; especially the skin or peel; "she could peel an apple with a single long paring"
@@ -8020,7 +8020,7 @@ hyper: edible_fruit
 hp: noun.plant:passionflower
 g: egg-shaped tropical fruit of certain passionflower vines; used for sherbets and confectionery and drinks
 
-w: pasta1
+w: pasta
 hyper: dish
 g: a dish that contains pasta as its main ingredient
 
@@ -8028,7 +8028,7 @@ w: pasta_salad
 hyper: salad
 g: a salad having any of various pastas as the base
 
-w: pasta
+w: pasta1
 w: alimentary_paste
 hyper: food
 g: shaped and dried dough made from flour and water and sometimes egg
@@ -8045,11 +8045,11 @@ w: pastrami
 hyper: beef
 g: highly seasoned cut of smoked beef
 
-w: pastry
+w: pastry1
 hyper: baked_goods
 g: any of various baked foods made of dough or batter
 
-w: pastry2
+w: pastry
 w: pastry_dough
 hyper: dough
 g: a dough of flour and water and shortening
@@ -8062,21 +8062,21 @@ w: pate
 hyper: spread
 g: liver or meat or fowl finely minced or ground and variously seasoned
 
-w: patty2
+w: patty1
 hyper: pie
 g: small pie or pasty
 
-w: patty1
+w: patty2
 hyper: candy
 g: round flat candy
 
 w: patty_shell
 w: bouchee
-hyper: pastry
+hyper: pastry1
 g: shell of puff paste
 
-w: patty3
-w: cake2
+w: patty
+w: cake
 hyper: dish
 g: small flat mass of chopped food
 
@@ -8134,17 +8134,17 @@ g: a spread made from ground peanuts
 w: peanut_oil
 w: groundnut_oil du noun.location:Britain
 hyper: vegetable_oil
-hs: noun.plant:peanut2
+hs: noun.plant:peanut
 g: an oil from peanuts; used in cooking and making soap
 
 w: peanut
-w: earthnut2
+w: earthnut
 w: goober
 w: goober_pea
 w: groundnut1
 w: monkey_nut
 hyper: edible_nut
-hp: noun.plant:peanut
+hp: noun.plant:peanut1
 g: pod of the peanut vine containing usually 2 nuts or seeds; `groundnut' and `monkey nut' are British terms
 
 w: pear
@@ -8166,13 +8166,13 @@ hyper: eating_apple
 g: any of several varieties of apples with red skins
 
 w: pease_pudding
-hyper: pudding
+hyper: pudding2
 dr: noun.location:United_Kingdom
 g: a pudding made with strained split peas mixed with egg
 
 w: pecan
 hyper: edible_nut
-hp: noun.plant:pecan
+hp: noun.plant:pecan1
 g: smooth brown oval nut of south central United States
 
 w: pecan_pie
@@ -8180,18 +8180,18 @@ hyper: pie
 g: pie made of pecans and sugar and corn syrup and butter and eggs
 
 w: peel drf verb.contact:peel
-w: skin drf verb.contact:skin
+w: skin drf verb.contact:skin2
 hyper: rind
 hp: edible_fruit
 g: the rind of a fruit or vegetable
 
 w: pemmican
 w: pemican
-hyper: meat1
+hyper: meat
 g: lean dried meat pounded fine and mixed with melted fat; used especially by North American Indians
 
 w: penne
-hyper: pasta
+hyper: pasta1
 g: pasta in short tubes with diagonally cut ends
 
 w: penuche
@@ -8201,7 +8201,7 @@ w: panocha
 hyper: fudge
 g: fudge made with brown sugar and butter and milk and nuts
 
-w: pepper2
+w: pepper1
 hyper: solanaceous_vegetable
 hp: noun.plant:capsicum
 g: sweet and hot varieties of fruits of plants of the genus Capsicum
@@ -8223,16 +8223,16 @@ g: strips of steak sauteed with green peppers and onions
 w: peppermint_oil
 hyper: flavorer
 hs: noun.plant:peppermint
-hs: peppermint1
+hs: peppermint
 g: oil from the peppermint plant used as flavoring
 
 w: peppermint_patty
-hyper: patty1
+hyper: patty2
 g: a patty flavored with peppermint
 
-w: peppermint1
+w: peppermint
 w: peppermint_candy
-hyper: mint
+hyper: mint1
 g: a candy flavored with peppermint oil
 
 w: pepperoni
@@ -8243,10 +8243,10 @@ w: pepperoni_pizza
 hyper: pizza
 g: tomato and cheese pizza with pepperoni
 
-w: pepper1 drf adjs.all:peppery drf verb.perception:pepper
+w: pepper drf adjs.all:peppery drf verb.perception:pepper
 w: peppercorn
 hyper: flavorer
-hp: noun.plant:pepper1
+hp: noun.plant:pepper
 g: pungent seasoning from the berry of the common pepper plant of East India; use whole or ground
 
 w: Pepsi
@@ -8300,7 +8300,7 @@ hyper: feed
 g: food prepared for animal pets
 
 w: petit_four
-hyper: cake
+hyper: cake1
 g: small (individual) frosted and ornamented cake
 
 w: petite_marmite
@@ -8370,12 +8370,12 @@ hyper: cut_of_pork
 g: shoulder of a hog usually smoked
 
 w: pie
-hyper: pastry
+hyper: pastry1
 g: dish baked in pastry-lined pan often with a pastry top
 
 w: pie_crust
 w: pie_shell
-hyper: pastry
+hyper: pastry1
 g: pastry used to hold pie fillings
 
 w: piece_de_resistance
@@ -8383,7 +8383,7 @@ hyper: dish
 g: the most important dish of a meal
 
 w: piece drf verb.consumption:piece
-w: slice drf verb.contact:slice
+w: slice drf verb.contact:slice2
 hyper: helping
 g: a serving that has been cut from a larger portion; "a piece of pie"; "a slice of bread"
 
@@ -8527,14 +8527,14 @@ g: flour that does not contain a raising agent
 
 w: plantain
 hyper: vegetable
-hp: noun.plant:plantain
+hp: noun.plant:plantain1
 g: starchy banana-like fruit; eaten (always cooked) as a staple vegetable throughout the tropics
 
 w: planter's_punch
 hyper: cocktail
 g: a cocktail made of rum and lime or lemon juice with sugar and sometimes bitters
 
-w: plate2
+w: plate
 hyper: cut_of_beef
 g: the thin under portion of the forequarter
 
@@ -8543,8 +8543,8 @@ hyper: entree
 g: a main course served on a plate; "a vegetable plate"; "the blue plate special"
 
 w: pledge drf verb.consumption:pledge
-w: toast1 drf verb.consumption:toast
-hyper: drink4
+w: toast drf verb.consumption:toast
+hyper: drink
 g: a drink in honor of or to the health of a person or event
 
 w: plonk
@@ -8566,7 +8566,7 @@ g: any of numerous varieties of small to medium-sized round or oval fruit having
 
 w: plum_pudding
 w: Christmas_pudding
-hyper: pudding
+hyper: pudding2
 g: a rich steamed or boiled pudding that resembles cake
 
 w: plum_sauce
@@ -8629,7 +8629,7 @@ hp: noun.plant:pond_apple
 g: ovoid yellow fruit with very fragrant peach-colored flesh; related to custard apples
 
 w: popcorn
-hyper: corn
+hyper: corn1
 hp: noun.plant:popcorn
 g: small kernels of corn exploded by heat
 
@@ -8649,7 +8649,7 @@ g: small grey seed of a poppy flower; used whole or ground in baked items
 w: pop
 w: soda
 w: soda_pop
-w: soda_water2
+w: soda_water1
 w: tonic1
 hyper: soft_drink
 g: a sweet drink containing carbonated water and flavoring; "in New England they call sodas tonics"
@@ -8662,7 +8662,7 @@ g: meat patties rolled in rice and simmered in a tomato sauce
 w: porgy
 w: scup1
 hyper: saltwater_fish
-hp: noun.animal:scup1
+hp: noun.animal:scup
 g: lean flesh of fish found in warm waters of southern Atlantic coast of the United States
 
 w: pork-and-veal_goulash
@@ -8709,8 +8709,8 @@ g: made of lamb or pork
 
 w: pork
 w: porc
-hyper: meat1
-hp: noun.animal:hog
+hyper: meat
+hp: noun.animal:hog1
 g: meat from a domestic hog or pig
 
 w: porridge
@@ -8734,7 +8734,7 @@ hyper: fortified_wine
 g: sweet dark-red dessert wine originally from Portugal
 
 w: posset
-hyper: drink4
+hyper: drink
 g: sweet spiced hot milk curdled with ale or beer
 
 w: Postum
@@ -8815,7 +8815,7 @@ hp: noun.animal:domestic_fowl
 g: flesh of chickens or turkeys or ducks or geese raised for food
 
 w: pound_cake
-hyper: cake
+hyper: cake1
 hyper: loaf1
 g: rich loaf cake made of a pound each of butter and sugar and flour
 
@@ -8851,7 +8851,7 @@ g: glazed and salted cracker typically in the shape of a loose knot
 
 w: prickly_pear
 hyper: edible_fruit
-hp: noun.plant:prickly_pear1
+hp: noun.plant:prickly_pear
 g: round or pear-shaped spiny fruit of any of various prickly pear cacti
 
 w: Prima
@@ -8863,7 +8863,7 @@ w: processed_cheese
 hyper: cheese
 g: made by blending several lots of cheese
 
-w: produce drf verb.creation:produce5
+w: produce drf verb.creation:produce2
 w: green_goods
 w: green_groceries
 w: garden_truck
@@ -8871,7 +8871,7 @@ hyper: food
 g: fresh fruits and vegetable grown for the market
 
 w: profiterole
-hyper: pastry
+hyper: pastry1
 g: a small hollow pastry that is typically filled with cream and covered with chocolate
 
 w: proof_spirit
@@ -8887,7 +8887,7 @@ hyper: dried_fruit
 g: dried plum
 
 w: prune_cake
-hyper: cake
+hyper: cake1
 g: moist cake containing prunes that have been made into a puree
 
 w: prune_whip
@@ -8898,22 +8898,22 @@ w: pruno
 hyper: hooch
 g: a liquor concocted from a mixture of ingredients (such as prunes and raisins and milk and sugar) that can be fermented to produce alcohol; made by prison inmates
 
-w: pudding1
+w: pudding
 hyper: dish
 g: any of various soft thick unsweetened baked dishes; "corn pudding"
 
-w: pudding
+w: pudding2
 hyper: dessert
 g: any of various soft sweet desserts thickened usually with flour and baked or boiled or steamed
 
-w: pudding2
+w: pudding1
 w: pud
 hyper: dessert
 dr: noun.location:United_Kingdom
 g: (British) the dessert course of a meal (`pud' is used informally)
 
 w: puff
-hyper: pastry
+hyper: pastry1
 g: a light inflated pastry or puff shell
 
 w: puff_batter
@@ -8924,7 +8924,7 @@ g: batter for making light hollow cases to hold various fillings
 
 w: puff_paste
 w: pate_feuillete
-hyper: pastry2
+hyper: pastry
 g: dough used for very light flaky rich pastries
 
 w: puffed_rice
@@ -8943,7 +8943,7 @@ g: fruit of an East Indian tree similar to the rambutan but sweeter
 
 w: pulque
 hyper: alcohol
-hs: noun.plant:maguey2
+hs: noun.plant:maguey
 g: fermented Mexican drink from juice of various agave plants especially the maguey
 
 w: pulse
@@ -8997,13 +8997,13 @@ g: Atlantic coast round clams with hard shells; large clams usually used for cho
 
 w: quail
 hyper: wildfowl
-hp: noun.animal:quail1
+hp: noun.animal:quail
 dt: noun.animal:game_bird
 g: flesh of quail; suitable for roasting or broiling if young; otherwise must be braised
 
 w: quandong_nut
 hyper: edible_nut
-hp: noun.plant:quandong3
+hp: noun.plant:quandong
 g: edible nutlike seed of the quandong fruit
 
 w: quandong
@@ -9011,7 +9011,7 @@ w: quandang
 w: quantong
 w: native_peach
 hyper: edible_fruit
-hp: noun.plant:quandong3
+hp: noun.plant:quandong
 g: red Australian fruit; used for dessert or in jam
 
 w: quark_cheese
@@ -9060,7 +9060,7 @@ hyper: rack
 g: a roast of the rib section of lamb
 
 w: radicchio
-hyper: chicory
+hyper: chicory1
 g: prized variety of chicory having globose heads of red leaves
 
 w: radish
@@ -9129,12 +9129,12 @@ w: store_cheese
 hyper: cheddar
 g: informal names for American cheddar
 
-w: ratafia1
-w: ratafee1
+w: ratafia
+w: ratafee
 hyper: liqueur
 g: sweet liqueur made from wine and brandy flavored with plum or peach or apricot kernels and bitter almonds
 
-w: ratafia2
+w: ratafia1
 w: ratafia_biscuit
 hyper: macaroon
 g: macaroon flavored with ratafia liqueur
@@ -9143,7 +9143,7 @@ w: ratatouille
 hyper: stew
 g: a vegetable stew; usually made with tomatoes, eggplant, zucchini, peppers, onion, and seasonings
 
-w: ration1 drf verb.possession:ration drf verb.possession:ration1
+w: ration drf verb.possession:ration1 drf verb.possession:ration
 hyper: fare
 g: the food allowance for one day (especially for service personnel); "the rations should be nutritionally balanced"
 
@@ -9154,11 +9154,11 @@ g: veloute sauce seasoned with chopped chervil, chives, tarragon, shallots and c
 
 w: ravioli
 w: cappelletti
-hyper: pasta
+hyper: pasta1
 g: small circular or square cases of dough with savory fillings
 
 w: raw_meat
-hyper: meat1
+hyper: meat
 g: uncooked meat
 
 w: raw_milk
@@ -9199,7 +9199,7 @@ hyper: herring
 g: a dried and smoked herring having a reddish color
 
 w: red_meat
-hyper: meat1
+hyper: meat
 g: meat that is dark in color before cooking (as beef, venison, lamb, mutton)
 
 w: red_rockfish
@@ -9244,7 +9244,7 @@ hyper: beverage
 g: a drink that refreshes; "he stopped at the bar for a quick refresher"
 
 w: refreshment
-hyper: bite
+hyper: bite1
 g: snacks and drinks served as a light meal
 
 w: refried_beans
@@ -9322,7 +9322,7 @@ hs: noun.plant:Riesling
 g: fragrant dry or sweet white wine from the Rhine valley or a similar wine from California
 
 w: rigatoni
-hyper: pasta
+hyper: pasta1
 g: tubular pasta in short ribbed pieces
 
 w: rijsttaffel
@@ -9367,14 +9367,14 @@ hyper: manhattan
 g: a manhattan cocktail made with Scotch whiskey
 
 w: rock_cake
-hyper: cake
+hyper: cake1
 g: a small cake with a hard surface said to resemble a rock
 
 w: rock_candy1
 hyper: candy
 g: sugar in large hard clear crystals on a string
 
-w: rock_candy2
+w: rock_candy
 w: rock
 hyper: candy
 g: hard bright-colored stick candy (typically flavored with peppermint)
@@ -9391,7 +9391,7 @@ g: any of several coarse fishes (such as dogfish or wolffish) when used as food
 
 w: rockfish
 hyper: saltwater_fish
-hp: noun.animal:rockfish1
+hp: noun.animal:rockfish
 g: the lean flesh of any of various valuable market fish caught among rocks
 
 w: roe
@@ -9410,7 +9410,7 @@ g: a pickled herring filet that has been rolled or wrapped around a pickle
 
 w: roly-poly
 w: roly-poly_pudding
-hyper: pudding
+hyper: pudding2
 dr: noun.location:United_Kingdom
 g: pudding made of suet pastry spread with jam or fruit and rolled up and baked or steamed
 
@@ -9457,16 +9457,16 @@ w: roulade
 hyper: dish
 g: a dish consisting of a slice of meat that is rolled around a filling and cooked
 
-w: round
+w: round1
 hyper: cut_of_beef
 g: a cut of beef between the rump and the lower leg
 
 w: round_steak
 hyper: beefsteak
-hp: round
+hp: round1
 g: a lean cut of beef from between the rump and the shank
 
-w: round1
+w: round
 w: round_of_drinks
 hyper: helping
 g: a serving to each of a group (usually alcoholic); "he ordered a second round"
@@ -9483,7 +9483,7 @@ g: leaves sometimes used for flavoring fruit or claret cup but should be used wi
 w: rugulah
 w: rugelach
 w: ruggelach
-hyper: pastry
+hyper: pastry1
 g: pastry made with a cream cheese dough and different fillings (as raisins and walnuts and cinnamon or chocolate and walnut and apricot preserves)
 
 w: rum
@@ -9516,7 +9516,7 @@ g: a steak cut from the rump
 
 w: Russian_dressing
 w: Russian_mayonnaise
-hyper: dressing1
+hyper: dressing
 g: mayonnaise with horseradish grated onion and chili sauce or catsup; sometimes with caviar added
 
 w: rutabaga
@@ -9594,7 +9594,7 @@ hp: noun.plant:salad_burnet
 g: leaves sometimes used for salad
 
 w: salad_cream
-hyper: dressing1
+hyper: dressing
 dr: noun.location:United_Kingdom
 g: a creamy salad dressing resembling mayonnaise
 
@@ -9664,7 +9664,7 @@ w: saltine
 hyper: cracker
 g: a cracker sprinkled with salt before baking
 
-w: salt drf adj.all:salty drf verb.change:salt drf verb.perception:salt
+w: salt drf adj.all:salty drf verb.change:salt1 drf verb.perception:salt
 w: table_salt
 w: common_salt
 hyper: flavorer
@@ -9697,7 +9697,7 @@ g: a serving consisting of a sandwich or sandwiches with garnishes
 
 w: sangaree
 w: sangria
-hyper: drink4
+hyper: drink
 dr: noun.location:Spain
 g: sweetened red wine and orange or lemon juice with soda water
 
@@ -9709,7 +9709,7 @@ hp: noun.plant:sapodilla
 g: tropical fruit with a rough brownish skin and very sweet brownish pulp
 
 w: sapote
-w: mammee2
+w: mammee1
 w: marmalade_plum
 hyper: edible_fruit
 hp: noun.plant:marmalade_tree
@@ -9757,7 +9757,7 @@ hp: dish
 g: flavorful relish or dressing or topping served as an accompaniment to food
 
 w: sauce_Louis
-hyper: dressing1
+hyper: dressing
 g: mayonnaise and heavy cream combined with chopped green pepper and green onion seasoned with chili sauce and Worcestershire sauce and lemon juice
 
 w: sauerbraten
@@ -9769,11 +9769,11 @@ hyper: dish
 g: shredded cabbage fermented in brine
 
 w: sausage
-hyper: meat1
+hyper: meat
 g: highly seasoned minced meat stuffed in casings
 
 w: sausage_meat
-hyper: meat1
+hyper: meat
 hs: sausage
 g: any meat that is minced and spiced and cooked as patties or used to fill sausages
 
@@ -9782,7 +9782,7 @@ hyper: pizza
 g: tomato and cheese pizza with sausage
 
 w: sausage_roll
-hyper: pastry
+hyper: pastry1
 g: sausage meat rolled and baked in pastry
 
 w: saute
@@ -9800,7 +9800,7 @@ hs: noun.plant:Sauvignon_blanc
 g: a California wine
 
 w: savarin
-hyper: cake
+hyper: cake1
 g: a sponge cake baked in a ring mold
 
 w: saveloy
@@ -9813,8 +9813,8 @@ w: savoury
 hyper: herb
 g: either of two aromatic herbs of the mint family
 
-w: savory1 drf adjs.all:savory drf adjs.all:savory
-w: savoury1 drf adjs.all:savoury drf adjs.all:savoury
+w: savory1 drf adjs.all:savory drf adjs.all:savory1
+w: savoury1 drf adjs.all:savoury drf adjs.all:savoury1
 hyper: dainty
 g: an aromatic or spicy dish served at the end of dinner or as an hors d'oeuvre
 
@@ -9897,7 +9897,7 @@ hyper: dish
 g: hard-cooked egg encased in sausage meat then breaded and deep-fried
 
 w: Scotch_kiss
-hyper: kiss
+hyper: kiss1
 g: butterscotch candy kiss
 
 w: Scotch_woodcock
@@ -9915,7 +9915,7 @@ hyper: whiskey
 hs: Rob_Roy
 g: whiskey distilled in Scotland; especially whiskey made from malted barley in a pot still
 
-w: scrag2 drf verb.contact:scrag1
+w: scrag drf verb.contact:scrag1
 hyper: cut_of_mutton
 hp: neck
 g: lean end of the neck
@@ -9944,9 +9944,9 @@ hyper: cider
 dr: noun.location:United_Kingdom
 g: strong cider (as made in western England)
 
-w: scup2
+w: scup
 hyper: saltwater_fish
-hp: noun.animal:scup2
+hp: noun.animal:scup1
 g: flesh of fish found in colder waters of northern Atlantic coast of the United States
 
 w: scuppernong
@@ -9954,7 +9954,7 @@ hyper: muscadine
 g: amber-green muscadine grape of southeastern United States
 
 w: sea_bass
-w: bass2
+w: bass
 hyper: saltwater_fish
 hp: noun.animal:sea_bass
 g: the lean flesh of a saltwater fish of the family Serranidae
@@ -10000,7 +10000,7 @@ g: a segment of a citrus fruit; "he ate a section of the orange"
 
 w: seedcake
 w: seed_cake
-hyper: cake
+hyper: cake1
 g: a sweet cake flavored with sesame or caraway seeds and lemon
 
 w: seeded_raisin
@@ -10017,8 +10017,8 @@ w: self-raising_flour
 hyper: mix
 g: a commercially prepared mixture of flour and salt and a leavening agent
 
-w: seltzer1
-hyper: mineral_water1
+w: seltzer
+hyper: mineral_water
 g: naturally effervescent mineral water
 
 w: semi-skimmed_milk
@@ -10052,12 +10052,12 @@ g: roe of shad; may be parboiled or baked or sauteed gently
 
 w: shallot
 hyper: onion
-hp: noun.plant:shallot
+hp: noun.plant:shallot1
 g: small mild-flavored onion-like or garlic-like clustered bulbs used for seasoning
 
 w: shandygaff
 w: shandy
-hyper: drink4
+hyper: drink
 g: a drink made of beer and lemonade
 
 w: shank
@@ -10066,10 +10066,10 @@ g: a cut of meat (beef or veal or mutton or lamb) from the upper part of the leg
 
 w: Shawnee_cake
 hyper: johnnycake
-dr: noun.location:Rhode_Island
+dr: noun.location:Rhode_Island1
 g: form of johnnycake
 
-w: shebeen2
+w: shebeen
 hyper: noun.artifact:tavern
 g: unlicensed drinking establishment
 
@@ -10258,7 +10258,7 @@ w: sloe_gin
 hyper: gin
 g: gin flavored with sloes (fruit of the blackthorn)
 
-w: slop1
+w: slop
 hyper: food
 g: (usually plural) weak or watery unappetizing food or drink; "he lived on the thin slops that food kitchens provided"
 
@@ -10266,9 +10266,9 @@ w: Sloppy_Joe
 hyper: sandwich
 g: ground beef (not a patty) cooked in a spicy sauce and served on a bun
 
-w: slop drf verb.contact:slop1 drf verb.consumption:slop
+w: slop1 drf verb.contact:slop drf verb.consumption:slop
 w: slops
-w: swill drf verb.consumption:swill1
+w: swill drf verb.consumption:swill
 w: pigswill
 w: pigwash
 hyper: feed
@@ -10314,7 +10314,7 @@ g: a thick smooth drink consisting of fresh fruit pureed with ice cream or yoghu
 
 w: smorgasbord
 hyper: buffet
-dr: noun.location:Scandinavia
+dr: noun.location:Scandinavia1
 g: an assortment of foods starting with herring or smoked eel or salmon etc with bread and butter; then cheeses and eggs and pickled vegetables and aspics; finally hot foods; served as a buffet meal
 
 w: snack_food
@@ -10326,14 +10326,14 @@ hyper: sauce
 g: for preparing snails: butter seasoned with shallots and garlic and parsley
 
 w: snap_bean
-w: snap1
+w: snap
 hyper: green_bean
 g: tender green beans without strings that easily snap into sections
 
 w: snapper
 hyper: saltwater_fish
 hp: noun.animal:snapper1
-hp: noun.animal:snapper2
+hp: noun.animal:snapper
 g: flesh of any of various important food fishes of warm seas
 
 w: snow_pea
@@ -10341,7 +10341,7 @@ w: sugar_pea
 hyper: green_pea
 g: green peas with flat edible pods
 
-w: snowball2
+w: snowball
 hyper: frozen_dessert
 g: ball of ice cream covered with coconut and usually chocolate sauce
 
@@ -10360,7 +10360,7 @@ g: unsweetened cracker leavened slightly with soda and cream of tartar
 w: soda_water
 w: carbonated_water
 w: club_soda
-w: seltzer2
+w: seltzer1
 w: sparkling_water
 hyper: drinking_water
 hs: pop
@@ -10407,7 +10407,7 @@ hyper: flatfish
 hp: noun.animal:sole
 g: lean flesh of any of several flatfish
 
-w: sop drf verb.contact:sop drf verb.contact:sop2
+w: sop drf verb.contact:sop1 drf verb.contact:sop
 w: sops
 hyper: morsel
 g: piece of solid food for dipping in a liquid
@@ -10415,7 +10415,7 @@ g: piece of solid food for dipping in a liquid
 w: sorb
 w: sorb_apple
 hyper: edible_fruit
-hp: noun.plant:service_tree1
+hp: noun.plant:service_tree
 g: acid gritty-textured fruit
 
 w: sorghum
@@ -10483,7 +10483,7 @@ hyper: edible_fruit
 hp: noun.plant:cream-of-tartar_tree
 g: acid-tasting Australian gourd-like fruit with a woody rind and large seeds
 
-w: sour_gourd2
+w: sour_gourd
 w: monkey_bread
 hyper: edible_fruit
 hp: noun.plant:baobab
@@ -10519,7 +10519,7 @@ g: pork trimmings chopped and pickled and jelled
 w: souvlaki
 w: souvlakia
 hyper: kabob
-dr: noun.location:Greece
+dr: noun.location:Greece1
 g: made of lamb
 
 w: sowbelly
@@ -10527,14 +10527,14 @@ hyper: salt_pork
 g: salt pork from the belly of a hog carcass
 
 w: soy_sauce
-w: soy1
+w: soy
 hyper: condiment
 g: thin sauce made of fermented soy beans
 
 w: soya_milk
 w: soybean_milk
 w: soymilk
-hyper: milk2
+hyper: milk
 hs: bean_curd
 g: a milk substitute containing soybean flour and water; used in some infant formulas and in making tofu
 
@@ -10548,25 +10548,25 @@ g: meal made from soybeans
 w: soybean_oil
 w: soyabean_oil
 hyper: vegetable_oil
-hs: soy
+hs: soy1
 g: oil from soya beans
 
-w: soy
+w: soy1
 w: soybean
 w: soya
 w: soya_bean
 hyper: bean
 hs: soybean_meal
 hs: soy_sauce
-hp: noun.plant:soy
+hp: noun.plant:soy1
 g: the most highly proteinaceous vegetable known; the fruit of the soybean plant is used in a variety of foods and as fodder (especially as a replacement for animal protein)
-
-w: spaghetti1
-hyper: pasta1
-g: spaghetti served with a tomato sauce
 
 w: spaghetti
 hyper: pasta
+g: spaghetti served with a tomato sauce
+
+w: spaghetti1
+hyper: pasta1
 g: pasta in the form of long strings
 
 w: spaghetti_and_meatballs
@@ -10584,7 +10584,7 @@ hp: noun.plant:spaghetti_squash
 g: medium-sized oval squash with flesh in the form of strings that resemble spaghetti
 
 w: spaghettini
-hyper: pasta
+hyper: pasta1
 g: thin spaghetti
 
 w: Spam
@@ -10595,7 +10595,7 @@ g: a canned meat made largely from pork
 w: Spanish_mackerel
 hyper: mackerel
 hp: noun.animal:Spanish_mackerel
-hp: noun.animal:Spanish_mackerel2
+hp: noun.animal:Spanish_mackerel1
 g: flesh of commercially important fishes especially of the Atlantic coastal waters of America
 
 w: Spanish_onion
@@ -10622,7 +10622,7 @@ w: sparkling_wine
 hyper: wine
 g: effervescent wine
 
-w: spatchcock drf verb.creation:spatchcock1
+w: spatchcock drf verb.creation:spatchcock
 hyper: chicken
 g: flesh of a chicken (or game bird) split down the back and grilled (usually immediately after being killed)
 
@@ -10640,7 +10640,7 @@ hyper: flavorer
 g: any of a variety of pungent aromatic vegetable substances used for flavoring food
 
 w: spice_cake
-hyper: cake
+hyper: cake1
 g: cake flavored with spices
 
 w: spice_cookie
@@ -10655,7 +10655,7 @@ g: dark green leaves; eaten cooked or raw in salads
 w: spiny_lobster
 w: langouste
 w: rock_lobster
-w: crayfish2
+w: crayfish
 hyper: shellfish
 hp: noun.animal:spiny_lobster
 g: warm-water lobsters without claws; those from Australia and South Africa usually marketed as frozen tails; caught also in Florida and California
@@ -10673,7 +10673,7 @@ hyper: soup
 g: made of stock and split peas with onions carrots and celery
 
 w: sponge_cake
-hyper: cake
+hyper: cake1
 g: a light porous cake made with eggs and flour and sugar without shortening
 
 w: spoon_bread
@@ -10692,8 +10692,8 @@ hyper: herring
 hp: noun.animal:brisling
 g: small fatty European fish; usually smoked or canned like sardines
 
-w: spread drf verb.contact:spread13 drf verb.contact:spread12
-w: paste1
+w: spread drf verb.contact:spread1 drf verb.contact:spread
+w: paste
 hyper: condiment
 g: a tasty mixture to be spread on bread or crackers or used in preparing other dishes
 
@@ -10705,7 +10705,7 @@ w: spritzer
 hyper: mixed_drink
 g: a mixed drink made of wine mixed with a sparkling water
 
-w: sprout drf verb.body:sprout1 drf verb.change:sprout
+w: sprout drf verb.body:sprout drf verb.change:sprout
 hyper: greens
 g: a newly grown bud (especially from a germinating seed)
 
@@ -10763,7 +10763,7 @@ g: steak with sauteed kidneys and onions cooked in wine and stock then covered w
 
 w: steak_au_poivre
 w: peppered_steak
-w: pepper_steak2
+w: pepper_steak
 hyper: dish
 g: steak covered with crushed peppercorns pan-broiled and served with brandy-and-butter sauce
 
@@ -10778,7 +10778,7 @@ hyper: dish
 g: ground beef mixed with raw egg and e.g. onions and capers and anchovies; eaten raw
 
 w: steamed_pudding
-hyper: pudding
+hyper: pudding2
 g: a pudding cooked by steaming
 
 w: stew drf verb.change:stew
@@ -10786,7 +10786,7 @@ hyper: dish
 g: food prepared by stewing especially meat or fish with vegetables
 
 w: stew_meat
-hyper: meat1
+hyper: meat
 g: tough meat that needs stewing to be edible
 
 w: stick
@@ -10807,11 +10807,11 @@ hyper: cocktail
 g: a cocktail made of made of creme de menthe and brandy
 
 w: stirrup_cup
-hyper: drink4
+hyper: drink
 g: a farewell drink (especially one offered to a horseman ready to depart); usually alcoholic
 
 w: stock_cube
-hyper: broth1
+hyper: broth
 g: a cube of dehydrated stock
 
 w: stockfish
@@ -10861,11 +10861,11 @@ w: strawberry_preserves
 hyper: jam
 g: made with strawberries
 
-w: streusel1
-hyper: pastry
+w: streusel
+hyper: pastry1
 g: pastry with a topping of streusel
 
-w: streusel
+w: streusel1
 hyper: topping
 g: a crumbly topping for a pastry
 
@@ -10888,7 +10888,7 @@ hyper: sea_bass
 g: caught along the Atlantic coast of the United States
 
 w: strudel
-hyper: pastry
+hyper: pastry1
 g: thin sheet of filled dough rolled and baked
 
 w: stuffed_cabbage
@@ -10903,7 +10903,7 @@ w: stuffed_peppers
 hyper: dish
 g: parboiled green peppers stuffed usually with rice and meat and baked briefly
 
-w: stuffed_tomato2
+w: stuffed_tomato
 w: cold_stuffed_tomato
 hyper: dish
 g: tomato cases filled with various salad mixtures and served cold
@@ -10913,8 +10913,8 @@ w: hot_stuffed_tomato
 hyper: dish
 g: tomato cases filled with various mixtures and baked briefly
 
-w: stuffing drf verb.change:stuff
-w: dressing2 drf verb.change:dress
+w: stuffing drf verb.change:stuff2
+w: dressing1 drf verb.change:dress
 hyper: concoction
 g: a mixture of seasoned ingredients used to stuff meats and vegetables
 
@@ -10922,7 +10922,7 @@ w: succotash
 hyper: dish
 g: fresh corn and lima beans with butter or cream
 
-w: sucker2
+w: sucker
 hyper: freshwater_fish
 hp: noun.animal:sucker1
 g: flesh of any of numerous North American food fishes with toothless jaws
@@ -10936,7 +10936,7 @@ hyper: edible_fat
 g: hard fat around the kidneys and loins in beef and sheep
 
 w: suet_pudding
-hyper: pudding
+hyper: pudding2
 dr: noun.location:United_Kingdom
 g: a sweet or savory pudding made with suet and steamed or boiled
 
@@ -10990,7 +10990,7 @@ hyper: dish
 dr: noun.location:Japan
 g: thin beef strips (or chicken or pork) cooked briefly at the table with onions and greens and soy sauce
 
-w: sultana2
+w: sultana
 hyper: vinifera_grape
 g: pale yellow seedless grape used for raisins and wine
 
@@ -11010,7 +11010,7 @@ hyper: tea
 g: tea made by exposing tea leaves steeped in water to the direct rays of the sun; usually served with ice
 
 w: sundowner
-hyper: drink4
+hyper: drink
 dr: noun.location:United_Kingdom
 g: a drink taken at sundown
 
@@ -11030,7 +11030,7 @@ hyper: edible_seed
 hp: noun.plant:common_sunflower
 g: edible seed of sunflowers; used as food and poultry feed and as a source of oil
 
-w: supper drf verb.consumption:sup2
+w: supper drf verb.consumption:sup
 hyper: meal
 g: a light evening meal; served in early evening if dinner is at midday or served late in the evening at bedtime
 
@@ -11040,7 +11040,7 @@ dr: noun.location:Japan
 g: rice (with raw fish) wrapped in seaweed
 
 w: swallow
-w: sup drf verb.consumption:sup2
+w: sup drf verb.consumption:sup
 hyper: taste
 g: a small amount of liquid food; "a sup of ale"
 
@@ -11075,7 +11075,7 @@ g: unfermented cider
 
 w: sweet_corn
 w: green_corn
-hyper: corn
+hyper: corn1
 g: corn that can be eaten as a vegetable while still young and soft
 
 w: sweet_oil
@@ -11088,7 +11088,7 @@ hp: noun.plant:sweet_orange
 g: orange with sweet juicy pulp; often has a thin skin
 
 w: sweet_pepper
-hyper: pepper2
+hyper: pepper1
 hp: noun.plant:sweet_pepper
 g: large mild crisp thick-walled capsicum peppers usually bell-shaped or somewhat oblong; commonly used in salads
 
@@ -11124,7 +11124,7 @@ w: sweetbreads
 hyper: variety_meat
 g: edible glands of an animal
 
-w: sweet
+w: sweet1
 w: confection
 hyper: dainty
 g: a food rich in sugar
@@ -11135,7 +11135,7 @@ hyper: flavorer
 g: something added to foods to make them taste sweeter
 
 w: sweetmeat
-hyper: sweet
+hyper: sweet1
 g: a sweetened delicacy (as a preserve or pastry)
 
 w: sweetsop
@@ -11162,9 +11162,9 @@ hyper: saltwater_fish
 hp: noun.animal:swordfish
 g: flesh of swordfish usually served as steaks
 
-w: syllabub2
-w: sillabub2
-hyper: drink4
+w: syllabub
+w: sillabub
+hyper: drink
 g: spiced hot milk with rum or wine
 
 w: syllabub1
@@ -11181,14 +11181,14 @@ w: T-bone_steak
 hyper: beefsteak
 g: small steak from the thin end of the short loin containing a T-shaped bone and small piece of tenderloin
 
-w: tabasco2
-w: red_pepper2
+w: tabasco
+w: red_pepper1
 hyper: hot_pepper
 hp: noun.plant:tabasco_pepper
-hs: Tabasco1
+hs: Tabasco
 g: very hot red peppers; usually long and thin; some very small
 
-w: Tabasco1
+w: Tabasco
 w: Tabasco_sauce
 hyper: hot_sauce
 g: very spicy sauce (trade name Tabasco) made from fully-aged red peppers
@@ -11217,7 +11217,7 @@ hyper: candy
 g: chewy candy of sugar or syrup boiled until thick and pulled until glossy
 
 w: tagliatelle
-hyper: pasta
+hyper: pasta1
 g: pasta cut in narrow ribbons
 
 w: tahini
@@ -11258,7 +11258,7 @@ hp: noun.plant:tangerine
 g: any of various deep orange mandarins grown in the United States and southern Africa
 
 w: tap_water
-hyper: noun.substance:water
+hyper: noun.substance:water2
 g: water directly from the spigot
 
 w: tapenade
@@ -11267,11 +11267,11 @@ g: a spread consisting of capers and black olives and anchovies made into a pure
 
 w: tapioca
 hyper: foodstuff
-hs: noun.plant:cassava2
+hs: noun.plant:cassava
 g: granular preparation of cassava starch used to thicken especially puddings
 
 w: tapioca_pudding
-hyper: pudding
+hyper: pudding2
 g: sweet pudding thickened with tapioca
 
 w: taro
@@ -11280,7 +11280,7 @@ w: cocoyam
 w: dasheen
 w: edda
 hyper: root_vegetable
-hp: noun.plant:taro
+hp: noun.plant:taro1
 hs: poi
 g: tropical starchy tuberous root
 
@@ -11296,7 +11296,7 @@ dr: noun.location:United_States
 g: a small open pie with a fruit filling
 
 w: tart1 drf tartlet
-hyper: pastry
+hyper: pastry1
 dr: noun.location:United_Kingdom
 g: a pastry cup with a filling of fruit or custard and no top crust
 
@@ -11324,14 +11324,14 @@ hyper: beverage
 g: a beverage that resembles tea but is not made from tea leaves
 
 w: tea_bag
-hyper: tea2
+hyper: tea1
 g: a measured amount of tea in a bag for an individual serving of tea
 
 w: tea_bread
 hyper: bun
 g: sweetened buns to be eaten with tea
 
-w: tea1
+w: tea2
 w: afternoon_tea
 w: teatime
 hyper: meal
@@ -11339,17 +11339,17 @@ dr: noun.location:United_Kingdom
 g: a light midafternoon meal of tea and sandwiches or cakes; "an Englishman would interrupt a war to have his afternoon tea"
 
 w: teacake1
-hyper: cake
+hyper: cake1
 dr: noun.location:United_States
 g: any of various small cakes or cookies often served with tea
 
-w: teacake2
+w: teacake
 w: tea_biscuit
 hyper: cookie
 dr: noun.location:United_Kingdom
 g: flat semisweet cookie or biscuit usually served with tea
 
-w: tea2
+w: tea1
 w: tea_leaf
 hyper: herb
 hs: tea
@@ -11393,7 +11393,7 @@ hyper: vinifera_grape
 g: seedless green table grape of California
 
 w: Thousand_Island_dressing
-hyper: dressing1
+hyper: dressing
 g: mayonnaise with chili sauce or catsup and minced olives and peppers and hard-cooked egg
 
 w: thyme
@@ -11407,7 +11407,7 @@ g: individual serving of minced e.g. meat or fish in a rich creamy sauce baked i
 
 w: timbale1
 w: timbale_case
-hyper: pastry
+hyper: pastry1
 g: small pastry shell for creamy mixtures of minced foods
 
 w: timothy
@@ -11429,14 +11429,14 @@ hyper: herb_tea
 g: infusion of e.g. dried or fresh flowers or leaves
 
 w: toad-in-the-hole
-hyper: pastry
+hyper: pastry1
 g: sausage baked in batter
 
-w: toast drf verb.change:toast
+w: toast1 drf verb.change:toast
 hyper: bread
 g: slices of bread that have been toasted
 
-w: Tokay2
+w: Tokay
 hyper: wine
 hs: Tokay1
 g: Hungarian wine made from Tokay grapes
@@ -11486,7 +11486,7 @@ w: tongue
 hyper: variety_meat
 g: the tongue of certain animals used as meat
 
-w: tonic2
+w: tonic
 w: tonic_water
 w: quinine_water
 hyper: soft_drink
@@ -11503,11 +11503,11 @@ hp: dish
 g: a flavorful addition on top of a dish
 
 w: torte
-hyper: cake
+hyper: cake1
 g: rich cake usually covered with cream and fruit or nuts; originated in Austria
 
 w: tortellini
-hyper: pasta
+hyper: pasta1
 g: small ring-shaped stuffed pasta
 
 w: tortilla
@@ -11534,7 +11534,7 @@ dr: noun.location:Mexico
 g: a crisp flat tortilla
 
 w: tournedos
-hyper: fillet1
+hyper: fillet
 g: thick steak cut from the beef tenderloin
 
 w: tourtiere
@@ -11553,7 +11553,7 @@ dr: noun.location:United_Kingdom
 g: a pale cane syrup
 
 w: trifle
-hyper: pudding2
+hyper: pudding1
 g: a cold pudding made of layers of sponge cake spread with fruit or jelly; may be decorated with nuts, cream, or chocolate
 
 w: tripe
@@ -11573,7 +11573,7 @@ w: trout
 hyper: fish
 g: flesh of any of several primarily freshwater game and food fishes
 
-w: truffle2
+w: truffle1
 w: chocolate_truffle
 hyper: candy
 g: creamy chocolate candy
@@ -11601,7 +11601,7 @@ w: tuna
 w: tuna_fish
 w: tunny
 hyper: saltwater_fish
-hp: noun.animal:tuna1
+hp: noun.animal:tuna
 g: important warm-water fatty fish of the genus Thunnus of the family Scombridae; usually served as steaks
 
 w: turban_squash
@@ -11684,12 +11684,12 @@ g: a small sponge cake with a synthetic cream filling
 
 w: upside-down_cake
 w: skillet_cake
-hyper: cake
+hyper: cake1
 g: batter baked atop a layer of sweetened fruit then turned upside down so fruit is on top
 
 w: Uruguay_potato
 hyper: potato
-hp: noun.plant:Uruguay_potato1
+hp: noun.plant:Uruguay_potato
 g: similar to the common potato
 
 w: V-8_juice
@@ -11711,7 +11711,7 @@ hyper: ice_cream
 g: ice cream flavored with vanilla extract
 
 w: vanilla_pudding
-hyper: pudding
+hyper: pudding2
 g: sweet vanilla flavored custard-like pudding usually thickened with flour rather than eggs
 
 w: vanilla
@@ -11726,7 +11726,7 @@ g: a wine made principally from one grape and carrying the name of that grape
 
 w: variety_meat
 w: organs
-hyper: meat1
+hyper: meat
 g: edible viscera of a butchered animal
 
 w: veal_cordon_bleu
@@ -11749,12 +11749,12 @@ g: thin sauteed cutlets of veal
 
 w: veal
 w: veau
-hyper: meat1
-hp: noun.animal:calf
+hyper: meat
+hp: noun.animal:calf1
 g: meat from a calf
 
 w: vegetable_oil
-w: oil drf adjs.all:oily
+w: oil drf adjs.all:oily2
 hyper: edible_fat
 hs: margarine
 g: any of a group of liquid edible fats that are obtained from plants
@@ -11787,19 +11787,19 @@ hyper: white_wine
 g: a dry white Italian wine made from Verdicchio grapes
 
 w: vermicelli
-hyper: pasta
+hyper: pasta1
 g: pasta in strings thinner than spaghetti
 
 w: vermouth
 hyper: wine
 g: any of several white wines flavored with aromatic herbs; used as aperitifs or in mixed drinks
 
-w: viand2
+w: viand
 hyper: dish
 g: a choice or delicious dish
 
-w: Vichy_water1
-hyper: mineral_water1
+w: Vichy_water
+hyper: mineral_water
 g: sparkling mineral water from springs at Vichy, France or water similar to it
 
 w: vichyssoise
@@ -11813,7 +11813,7 @@ g: a large red plum served as dessert
 
 w: Victoria_sandwich
 w: Victoria_sponge
-hyper: cake
+hyper: cake1
 dr: noun.location:United_Kingdom
 g: a cake consisting of two layers of sponge cake with a jelly filling in between
 
@@ -11870,23 +11870,23 @@ hyper: martini
 g: martini made with vodka rather than gin
 
 w: vol-au-vent
-hyper: pastry
+hyper: pastry1
 g: puff paste shell filled with a savory meat mixture usually with a sauce
 
 w: Vouvray
 hyper: white_wine
 g: a dry white French wine (either still or sparkling) made in the Loire valley
 
-w: wafer1
+w: wafer
 hyper: cookie
 g: a small thin crisp cake or cookie
 
-w: wafer2
+w: wafer1
 hyper: bread
 g: thin disk of unleavened bread used in a religious service (especially in the celebration of the Eucharist)
 
 w: waffle
-hyper: cake
+hyper: cake1
 g: pancake batter baked in a waffle iron
 
 w: Waldorf_salad
@@ -11895,7 +11895,7 @@ g: typically made of apples and celery with nuts or raisins and dressed with may
 
 w: walnut
 hyper: edible_nut
-hp: noun.plant:walnut
+hp: noun.plant:walnut1
 g: nut of any of various walnut trees having a wrinkled two-lobed seed with a hard shell
 
 w: walnut_oil
@@ -11913,9 +11913,9 @@ hyper: punch
 g: a punch made of sweetened ale or wine heated with spices and roasted apples; especially at Christmas
 
 w: water
-hyper: noun.substance:liquid4
+hyper: noun.substance:liquid
 hyper: noun.Tops:food
-hyper: noun.Tops:nutrient1
+hyper: noun.Tops:nutrient
 g: a liquid necessary for the life of most animals and plants; "he asked for a drink of water"
 
 w: water_biscuit
@@ -11929,12 +11929,12 @@ g: edible bulbous tuber of a Chinese marsh plant
 
 w: water_chinquapin
 hyper: edible_seed
-hp: noun.plant:water_chinquapin1
+hp: noun.plant:water_chinquapin
 g: edible nutlike seeds of an American lotus having the flavor of a chinquapin
 
 w: water_ice
 w: sorbet
-hyper: ice
+hyper: ice1
 g: an ice containing no milk but having a mushy consistency; usually made from fruit juice
 
 w: watercress
@@ -11959,7 +11959,7 @@ g: lean flesh of food and game fishes of the Atlantic coast of the United States
 
 w: wedding_cake
 w: bridecake
-hyper: cake
+hyper: cake1
 g: a rich cake with two or more tiers and covered with frosting and decorations; served at a wedding reception
 
 w: wedge_bone
@@ -12044,12 +12044,12 @@ g: cream that has enough butterfat (30% to 36%) to be whipped
 
 w: whiskey_neat
 w: whisky_neat
-hyper: drink4
+hyper: drink
 g: a drink consisting of whiskey without a mixer; "he ordered a whiskey neat"
 
 w: whiskey_on_the_rocks
 w: whisky_on_the_rocks
-hyper: drink4
+hyper: drink
 g: whiskey with ice
 
 w: whiskey_sour
@@ -12071,15 +12071,15 @@ hyper: bread
 g: bread made with finely ground and usually bleached wheat flour
 
 w: white_cake
-hyper: cake
+hyper: cake1
 g: cake made without egg yolks
 
 w: white_chocolate
-hyper: chocolate
+hyper: chocolate1
 g: a blend of cocoa butter and milk solids and sugar and vanilla; used in candy bars and baking and coatings; not technically chocolate because it contains no chocolate liquor
 
 w: white_pepper
-hyper: pepper1
+hyper: pepper
 g: pepper ground from husked peppercorns
 
 w: white_rice
@@ -12110,22 +12110,22 @@ w: whitebait
 hyper: herring
 g: minnows or other small fresh- or saltwater fish (especially herring); usually cooked whole
 
-w: whitefish2
+w: whitefish
 hyper: seafood
 dr: noun.location:United_Kingdom
 g: any market fish--edible saltwater fish or shellfish--except herring
 
 w: whitefish1
 hyper: freshwater_fish
-hp: noun.animal:whitefish1
+hp: noun.animal:whitefish
 g: flesh of salmon-like or trout-like cold-water fish of cold lakes of the northern hemisphere
 
-w: whiting2
+w: whiting
 hyper: saltwater_fish
-hp: noun.animal:whiting
+hp: noun.animal:whiting3
 g: flesh of a cod-like fish of the Atlantic waters of Europe
 
-w: whiting
+w: whiting1
 hyper: saltwater_fish
 hp: noun.animal:whiting1
 hp: noun.animal:silver_hake
@@ -12154,7 +12154,7 @@ hyper: grain
 hp: noun.plant:wild_rice
 g: grains of aquatic grass of North America
 
-w: wild_spinach2
+w: wild_spinach
 hyper: greens
 hp: noun.plant:lamb's-quarters
 hp: noun.plant:good-king-henry
@@ -12227,7 +12227,7 @@ w: wintergreen
 w: boxberry
 w: checkerberry
 w: teaberry
-w: spiceberry1
+w: spiceberry
 hyper: berry
 hp: noun.plant:teaberry
 g: spicy red berrylike fruit; source of wintergreen oil
@@ -12238,7 +12238,7 @@ g: any thin watery drink
 
 w: won_ton
 w: wonton
-hyper: dumpling1
+hyper: dumpling
 g: a Chinese dumpling filled with spiced minced pork; usually served in soup
 
 w: won_ton1
@@ -12254,7 +12254,7 @@ hyper: sauce
 g: a savory sauce of vinegar and soy sauce and spices
 
 w: wort
-hyper: malt1
+hyper: malt2
 g: unfermented or fermenting malt
 
 w: wrap
@@ -12273,7 +12273,7 @@ w: yam
 hyper: sweet_potato
 g: sweet potato with deep orange flesh that remains moist when baked
 
-w: yam2
+w: yam1
 hyper: root_vegetable
 g: edible tuberous root of various yam plants of the genus Dioscorea grown in the tropics world-wide for food
 
@@ -12317,7 +12317,7 @@ hs: noun.plant:Zinfandel
 g: dry fruity red wine from California
 
 w: ziti
-hyper: pasta
+hyper: pasta1
 g: medium-sized tubular pasta in short pieces
 
 w: zombie
@@ -12335,6 +12335,6 @@ w: zwieback
 w: rusk
 w: Brussels_biscuit
 w: twice-baked_bread
-hyper: toast
+hyper: toast1
 g: slice of sweet raised bread baked again until it is brown and hard and crisp
 
