@@ -157,9 +157,7 @@
                       ("r" "adv" 4)))
 
 (defparameter *lex-filenum* '((0 "adj.all" "all adjective clusters")
-                              (100 "adjs.all" "all adjective clusters")
                               (1 "adj.pert" "relational adjectives (pertainyms)")
-                              (101 "adjs.pert" "relational adjectives (pertainyms)")
                               (2 "adv.all" "all adverbs")
                               (3 "noun.Tops" "unique beginner for nouns")
                               (4 "noun.act" "nouns denoting acts or actions")
@@ -202,8 +200,7 @@
                               (41 "verb.social" "verbs of political and social activities and events")
                               (42 "verb.stative" "verbs of being, having, spatial relations")
                               (43 "verb.weather" "verbs of raining, snowing, thawing, thundering")
-                              (44 "adj.ppl" "participial adjectives")
-                              (144 "adjs.ppl" "participial adjectives")))
+                              (44 "adj.ppl" "participial adjectives")))
 
 (defparameter *pointers* '(("n" . (("!" "ant" "Antonym")
                                    ("@" "hyper" "Hypernym")
@@ -263,8 +260,8 @@
 
 (defparameter *redundant-pointers* '("~" "~i" "-c" "-r" "-u" "%m" "%s" "%p"))
 
+(defparameter *senses* nil)
 (defparameter *synsets* nil)
-
 (defparameter *org-mode* nil)
 
 ;; Antonym	Antonym
@@ -292,10 +289,12 @@ appropriate pointers in the data structures."
           (let* ((sense1 (parser-senseidx arg1sensekey))
                  (sense2 (parser-senseidx arg2sensekey))
                  (s1 (gethash (format nil "~a-v" (subseq arg1offset 1)) *synsets*))
-                 (s2 (gethash (format nil "~a-n" (subseq arg2offset 1)) *synsets*)))
+                 (s2 (gethash (format nil "~a-n" (subseq arg2offset 1)) *synsets*))
+                 (sense-info1 (gethash (getf sense1 :key) *senses*))
+                 (sense-info2 (gethash (getf sense2 :key) *senses*)))
             (push (list relation (synset-id s2) "n" 
-                        (1+  (find-word (getf sense1 :lemma) (getf sense1 :lexid) s1)) 
-                        (1+  (find-word (getf sense2 :lemma) (getf sense2 :lexid) s2)))
+                        (1+  (seventh sense-info1)) 
+                        (1+  (seventh sense-info2)))
                   (synset-pointers s1))))))))
 
 (defun mk-sense1 (w)
@@ -444,10 +443,41 @@ specification for this word (see MK-POINTER in the flet.)"
   (flet ((fix-adjective (s)
            (when (equal "s" (synset-type s))
              (setf (synset-type s) "a")
-             (setf (synset-lnum s) (+ 100 (synset-lnum s))))))
+             ;; (setf (synset-lnum s) (+ 100 (synset-lnum s)))
+             )))
     (fix-adjective s)
     (let* ((key (format nil "~a-~a" (synset-id s) (synset-type s))))
       (setf (gethash key *synsets*) s))))
+
+(defun update-words-lex-ids (words wids)
+  "Update the LEX_IDs of all words in WORDS, according to the hash
+table WIDS.  The hash table contains the current count for each
+lemma."
+  (let ((new-words))
+    (dolist (w words)
+      (let ((max-id (gethash (first w) wids)))
+        (if max-id
+            (setf (gethash (first w) wids) (1+ max-id))
+            (setf (gethash (first w) wids) 0))
+        (setf (second w) (gethash  (first w) wids)))
+      (push w new-words))
+    (reverse new-words)))
+
+(defun fix-lex-ids (lnum)
+  "We can't guarantee that the combination of LEMMA+LEX_ID [wndb(5WN)]
+gives us an unique sense ID for all lex. files.  This rule is violated
+in the satellite adjectives, unfortunately.  The easiest solution is
+to remove all lex_ids and replace them with our own.  Since pointers
+use a different indexing scheme (synset offset + word number), this is
+not a problem.  We need to make sure that we have the correct mapping
+to sense keys. This is done by the ADD-SENSEIDX function.  Note that
+this is done per lexfile (LNUM), since we only need to guarantee
+uniqueness per lex file and not globally."
+  (let ((wids (make-hash-table :test #'equal)))
+    (dolist (s (hash-table-values *synsets*))
+      (when (eq lnum (synset-lnum s))
+        (let ((words (synset-words s)))
+          (setf (synset-words s) (update-words-lex-ids words wids)))))))
 
 (defun mk-frames (s)
   "Generate the global frame information. A frame is GLOBAL if it
@@ -462,13 +492,22 @@ applies to all the senses in the synset."
     (format stream
             "~a~a~ag: ~a~%~%" (mk-senses s) (mk-sem-pointers s) (mk-frames s) (synset-gloss s))))
 
-(defun sense-key-to-wn-sense (key)
-  (let* ((sense (parser-senseidx key))
-         (lexid (getf sense :lexid))
-         (lf (first (cdr (assoc (getf sense :lexfilenum) *lex-filenum* :test #'equal)))))
-    (if (= 0 lexid)
-        (format nil "~a:~a" lf (getf sense :lemma))
-        (format nil "~a:~a~a" lf (getf sense :lemma) lexid))))
+(defun add-senseidx (s)
+  (let* ((key (getf s :key))
+         (suffix (synset-type-to-suffix (getf s :ss-type)))
+         (synset-id (format nil "~a-~a" (getf s :synset) (if (equal suffix "s") "a" suffix)))
+         (synset (gethash synset-id *synsets*))
+         (lfilename (lexfile-name (synset-lnum synset)))
+         (lemma (getf s :lemma))
+         (words (synset-words synset)))
+    (setf (gethash key *senses*)
+          (list lfilename 
+                (first (find lemma words :key #'first :test #'string-equal))
+                (second (find lemma words :key #'first :test #'string-equal))
+                key
+                (getf s :synset)
+                (getf s :ss-type)
+                (position lemma words :key #'first :test #'string-equal)))))
 
 (defun order-synsets (synset-ids)
   (flet ((synset-key (id)
@@ -476,14 +515,21 @@ applies to all the senses in the synset."
    (sort synset-ids #'string< :key #'synset-key)))
 
 (defun load-en (dict-dir)
+  (setf *senses* (make-hash-table :test #'equal))
   (setf *synsets* (make-hash-table :test #'equal))
 
   (dolist (f '("data.noun" "data.verb" "data.adj" "data.adv"))
     (mapcar #'add-synset (parse-file (merge-pathnames dict-dir f) #'parse-data-line)))
 
-  (with-open-file (s "synset-ids.txt" :direction :output :if-exists :supersede)
-    (maphash (lambda (k v)
-               (format s "~a,~a:~a~%" k (lexfile-name (synset-lnum v)) (representative-word v))) *synsets*))
+  (mapcar (lambda (x) (fix-lex-ids (first x))) *lex-filenum*)
+
+  (mapcar #'add-senseidx (parse-file (merge-pathnames dict-dir "index.sense") #'parser-senseidx))
+
+  (with-open-file (s "pwn-3.0.mapping" :direction :output :if-exists :supersede)
+    (dolist (sense (hash-table-values *senses*))
+      (if (= 0 (third sense))
+          (format s "~a:~a,~a,~a,~a~%" (first sense) (second sense) (fourth sense) (fifth sense) (sixth sense))
+          (format s "~a:~a~a,~a,~a,~a~%" (first sense) (second sense) (third sense) (fourth sense) (fifth sense) (sixth sense)))))
 
   (read-morphosemantic-links "morphosemantic-links.csv")
 
@@ -500,7 +546,7 @@ applies to all the senses in the synset."
                  (dolist (s v)
                    (mk-synset out s)))) namespaces))
 
-    t)
+  t)
 
 (defun test ()
   (load-en #p"/home/fcbr/repos/wordnet/WordNet-3.0/dict/"))
