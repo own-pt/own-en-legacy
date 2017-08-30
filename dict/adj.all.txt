@@ -15826,6 +15826,7 @@ dt: noun.act:sport
 g: not offside; being within the prescribed area of play
 
 w: onstage ant offstage
+w: on_stage
 g: situated or taking place on the area of a stage visible to the audience
 
 w: onymous ant anonymous

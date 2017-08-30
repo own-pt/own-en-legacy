@@ -49727,7 +49727,7 @@ g: a person who swindles you by means of deception or fraud
 w: swineherd
 w: pigman
 hyper: herder
-g: a herder or swine
+g: a herder of swine
 
 w: swing_voter
 w: floating_voter
@@ -56617,7 +56617,7 @@ w: trainmaster
 w: train_dispatcher
 hyper: dispatcher1
 hyper: trainman
-g: a railroad employer who is in charge of a railway yard
+g: a railroad employee who is in charge of a railway yard
 
 w: Yastrzemski
 w: Carl_Yastrzemski

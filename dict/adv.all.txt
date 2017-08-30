@@ -8038,6 +8038,7 @@ w: onshore ant offshore
 g: on or toward the land; "they were living onshore"
 
 w: onstage ant offstage
+w: on_stage
 g: on the stage; "it was time for her to go onstage"
 
 w: opaquely da adjs.all:opaque
