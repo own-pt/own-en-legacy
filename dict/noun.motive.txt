@@ -48,7 +48,7 @@ dt: noun.act:psychoanalysis
 g: (psychoanalysis) an unconscious urge to die
 
 w: dipsomania
-w: alcoholism1
+w: alcoholism
 w: potomania
 hyper: mania
 g: an intense persistent desire to drink alcoholic beverages to excess
@@ -81,7 +81,7 @@ g: a positive motivational influence
 
 w: incitement drf verb.contact:incite
 w: incitation drf verb.creation:incite drf verb.contact:incite drf verb.communication:incite
-w: provocation drf verb.emotion:provoke drf verb.creation:provoke drf verb.communication:provoke
+w: provocation drf verb.emotion:provoke1 drf verb.creation:provoke drf verb.communication:provoke
 hyper: psychic_energy
 g: something that incites or provokes; a means of arousing or stirring to action
 
@@ -165,7 +165,7 @@ w: rational_motive
 hyper: noun.Tops:motivation
 g: a motive that can be defended by reasoning or logical argument
 
-w: reason drf verb.cognition:reason1
+w: reason drf verb.cognition:reason
 w: ground drf verb.cognition:ground
 hyper: rational_motive
 g: a rational motive for a belief or action; "the reason that war was declared"; "the grounds for their declaration"

@@ -1,465 +1,465 @@
-w: abstain property noun.attribute:abstinence property noun.attribute:abstention agent noun.person:abstainer1 agent noun.person:abstainer drf adjs.all:abstinent drf noun.attribute:abstention drf noun.person:abstinent drf noun.person:abstainer drf noun.person:abstainer1 drf noun.attribute:abstinence ant consume
+w: abstain property noun.attribute:abstinence property noun.attribute:abstention agent noun.person:abstainer agent noun.person:abstainer1 drf adjs.all:abstinent drf noun.attribute:abstention drf noun.person:abstinent drf noun.person:abstainer1 drf noun.person:abstainer drf noun.attribute:abstinence ant consume3
 w: refrain
 w: desist
-fr: 2 22 33
+frame: 2 22 33
 g: choose not to consume; "I abstain from alcohol"
 
 w: accommodate event noun.act:accommodation drf noun.act:accommodation
 hyper: provide
-fr: 17
+frame: 17
 g: provide with something desired or needed; "Can you accommodate me with a rental car?"
 
-w: addict event noun.state:addiction by-means-of noun.act:addiction agent noun.person:addict1 agent noun.person:addict drf adj.all:addictive drf noun.act:addiction drf noun.state:addiction drf noun.person:addict1 drf noun.person:addict
+w: addict event noun.state:addiction by-means-of noun.act:addiction agent noun.person:addict agent noun.person:addict1 drf adj.all:addictive drf noun.act:addiction drf noun.state:addiction drf noun.person:addict drf noun.person:addict1
 w: hook by-means-of noun.cognition:hook drf noun.cognition:hook
 hyper: verb.change:habituate
-entail: use2
-fr: 20
+entail: use
+frame: 20
 g: to cause (someone or oneself) to become dependent (on something, especially a narcotic drug)
 
 w: address drf adjs.all:addressable
 hyper: use1
-fr: 15 20
+frame: 15 20
 g: address or apply oneself to something, direct one's efforts towards something, such as a question
 
 w: afford
-hyper: verb.possession:spend
-fr: 8
+hyper: verb.possession:spend1
+frame: 8
 g: be able to spare or give up; "I can't afford to spend two hours with this person"
 
 w: alcoholize
 hyper: regale
-fr: 9
+frame: 9
 g: subject to the influence of alcohol; "After we finished dinner, we were thoroughly alcoholized"
 
 w: answer
 hyper: meet
-fr: 11
+frame: 11
 g: be satisfactory for; meet the requirements of or serve the purpose of; "This may answer her needs"
 
-w: avail
+w: avail1
 hyper: use1
-fr: 20
+frame: 20
 g: use to one's advantage; "He availed himself of the available resources"
 
-w: avail4 drf adj.all:available
-w: help4
-hyper: exploit
-fr: 8
+w: avail drf adj.all:available
+w: help
+hyper: exploit1
+frame: 8
 g: take or use; "She helped herself to some of the office supplies"
 
-w: be_full ant starve
-fr: 2
+w: be_full ant starve1
+frame: 2
 g: be sated, have enough to eat; "I'm full--don't give me any more beans, please"
 
 w: befuddle
-w: fuddle1
+w: fuddle
 hyper: intoxicate
-fr: 10
+frame: 10
 g: make stupid with alcohol
 
-w: board1 agent noun.person:boarder1 agent noun.person:boarder drf noun.food:board drf noun.artifact:board1 drf noun.person:boarder1 drf noun.person:boarder
-vg: board
-entail: consume
-hyper: use2
-fr: 22
+w: board agent noun.person:boarder2 agent noun.person:boarder drf noun.food:board drf noun.artifact:board1 drf noun.person:boarder2 drf noun.person:boarder
+vg: board1
+entail: consume3
+hyper: use
+frame: 22
 g: lodge and take meals (at)
 
-w: board uses noun.food:board drf noun.food:board drf noun.artifact:board1
+w: board1 uses noun.food:board drf noun.food:board drf noun.artifact:board1
 hyper: provide
-entail: feed1
-vg: board1
-fr: 9
+entail: feed6
+vg: board
+frame: 9
 g: provide food and lodging (for); "The old lady is boarding three men"
 
-w: bolt1
+w: bolt
 hyper: swallow
-fr: 8
+frame: 8
 g: swallow hastily
 
 w: bottlefeed ant breastfeed
-hyper: feed1
-fr: 9
+hyper: feed6
+frame: 9
 g: feed (infants) with a bottle
 
 w: break_bread
-hyper: eat1
-fr: 2
+hyper: eat2
+frame: 2
 g: have a meal, usually with company; "The early Christian disciples broke bread together"
 
-w: breakfast1 uses noun.food:breakfast drf noun.food:breakfast
-hyper: feed1
-fr: 9
+w: breakfast uses noun.food:breakfast drf noun.food:breakfast
+hyper: feed6
+frame: 9
 g: provide breakfast for
 
-w: breakfast event noun.food:breakfast drf noun.food:breakfast
-hyper: eat1
-fr: 2
+w: breakfast1 event noun.food:breakfast drf noun.food:breakfast
+hyper: eat2
+frame: 2
 g: eat an early morning meal; "We breakfast at seven"
 
 w: breastfeed ant bottlefeed
-w: suckle
-w: suck2 event noun.act:suck body-part noun.animal:sucker2 drf noun.act:suck drf noun.animal:sucker2
-w: nurse agent noun.person:nurse1 drf noun.person:nurse1 drf noun.act:nursing1 drf noun.artifact:nursery1
+w: suckle1
+w: suck event noun.act:suck body-part noun.animal:sucker drf noun.act:suck drf noun.animal:sucker
+w: nurse agent noun.person:nurse1 drf noun.person:nurse1 drf noun.act:nursing drf noun.artifact:nursery
 w: wet-nurse
 w: lactate event noun.time:lactation event noun.process:lactation event noun.act:lactation drf noun.time:lactation drf noun.process:lactation drf noun.act:lactation
 w: give_suck
-vg: suck4
-hyper: feed1
-fr: 2 9
+vg: suck1
+hyper: feed6
+frame: 2 9
 g: give suck to; "The wetnurse suckled the infant"; "You cannot nurse your baby in public in some places"
 
 w: browse event noun.act:browse drf noun.act:browse
-w: graze2 event noun.act:graze drf noun.act:graze
+w: graze event noun.act:graze drf noun.act:graze
 hyper: nosh
-fr: 2 22
+frame: 2 22
 g: eat lightly, try different dishes; "There was so much food at the party that we quickly got sated just by browsing"
 
 w: brunch event noun.food:brunch drf noun.food:brunch
-hyper: eat1
-fr: 2
+hyper: eat2
+frame: 2
 g: eat a meal in the late morning; "We brunch in Sundays"
 
 w: burn_off
 w: burn
 w: burn_up
-hyper: consume1
-fr: 8 11
+hyper: consume2
+frame: 8 11
 g: use up (energy); "burn off calories through vigorous exercise"
 
 w: cannibalize agent noun.person:cannibal drf noun.person:cannibal
 w: cannibalise agent noun.person:cannibal drf noun.person:cannibal
-hyper: consume
-fr: 2
+hyper: consume3
+frame: 2
 g: eat human flesh
 
 w: cannibalize1
 w: cannibalise1
 entail: verb.creation:disassemble
 hyper: use1
-fr: 8
+frame: 8
 g: use parts of something to repair something else
 
 w: carry1
-hyper: nourish
+hyper: nourish1
 dt: noun.animal:livestock
-vg: verb.creation:carry8
-fr: 11
+vg: verb.creation:carry1
+frame: 11
 g: be able to feed; "This land will carry ten cows to the acre"
 
 w: carry
 w: hold
-hyper: drink1
-fr: 8
+hyper: drink2
+frame: 8
 g: drink alcohol without showing ill effects; "He can hold his liquor"; "he had drunk more than he could carry"
 
 w: cater1 agent noun.person:caterer drf noun.person:caterer
 hyper: provide
-fr: 8
+frame: 8
 g: supply food ready to eat; for parties and banquets
 
 w: chain-smoke agent noun.person:chain-smoker drf noun.person:chain-smoker
 hyper: smoke
-fr: 2
+frame: 2
 g: smoke one cigarette after another; light one cigarette from the preceding one
 
-w: champ1
+w: champ
 hyper: chew
-fr: 1
+frame: 1
 g: chafe at the bit, like horses
 
 w: chaw undergoer noun.food:chaw drf noun.food:chaw
 hyper: chew
-fr: 8
+frame: 8
 g: chew without swallowing; "chaw tobacco"
 
 w: chew undergoer noun.food:chew event noun.act:chew agent noun.person:chewer drf noun.person:chewer drf noun.food:chew drf noun.act:chew drf noun.act:chewing
 w: masticate event noun.act:mastication drf noun.act:mastication
 w: manducate
-w: jaw by-means-of noun.body:jaw drf noun.body:jaw1 drf noun.body:jaw
-hyper: verb.contact:grate
-fr: 2 8
+w: jaw by-means-of noun.body:jaw1 drf noun.body:jaw drf noun.body:jaw1
+hyper: verb.contact:grate1
+frame: 2 8
 g: chew (food); to bite and grind with the teeth; "He jawed his bubble gum"; "Chew your food and don't swallow it!"; "The cows were masticating the grass"
 
 w: chomp event noun.act:chomp drf noun.act:chomping drf noun.act:chomp
-w: champ
+w: champ1
 hyper: chew
-fr: 2 8
+frame: 2 8
 g: chew noisily; "The boy chomped his sandwich"
 
 w: claret undergoer noun.food:claret drf noun.food:claret
-hyper: drink1
-fr: 2
+hyper: drink2
+frame: 2
 g: drink claret; "They were clareting until well past midnight"
 
 w: cloy
 w: pall
 hyper: satiate
-fr: 1 10 11
+frame: 1 10 11
 g: cause surfeit through excess though initially pleasing; "Too much spicy food cloyed his appetite"
 
 w: commercialize
-hyper: exploit1
-fr: 8
+hyper: exploit
+frame: 8
 g: exploit for maximal profit, usually by sacrificing quality; "The hotel owners are commercializing the beaches"
 
-w: consume1 drf adj.all:consumptive drf adjs.all:consumable
-w: eat_up3
+w: consume2 drf adj.all:consumptive drf adjs.all:consumable
+w: eat_up1
 w: use_up
-w: eat13  fr 22
+w: eat3  frame 22
 w: deplete state noun.state:depletion event noun.act:depletion drf noun.state:depletion drf noun.act:depletion
 w: exhaust event noun.act:exhaustion drf noun.act:exhaustion
-w: run_through
+w: run_through1
 w: wipe_out
-hyper: verb.possession:spend
-vg: verb.possession:take6
-fr: 8 11
+hyper: verb.possession:spend1
+vg: verb.possession:take
+frame: 8 11
 g: use up (resources or materials); "this car consumes a lot of gas"; "We exhausted our savings"; "They run through 20 bottles of wine a week"
 
-w: consume event noun.act:consumption1 agent noun.person:consumer drf adj.all:consumptive drf noun.act:consumption1 drf noun.person:consumer ant abstain
+w: consume3 event noun.act:consumption agent noun.person:consumer drf adj.all:consumptive drf noun.act:consumption drf noun.person:consumer ant abstain
 w: ingest event noun.act:ingestion drf noun.act:ingestion
-w: take_in
+w: take_in1
 w: take see take_up
 w: have
-fr: 8
+frame: 8
 g: serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee"
 
-w: consume2
+w: consume1
 w: squander agent noun.person:squanderer drf noun.person:squanderer drf noun.act:squandering
-w: waste event noun.act:waste agent noun.person:waster drf noun.act:waste drf noun.person:waster fr 2
+w: waste1 event noun.act:waste1 agent noun.person:waster drf noun.act:waste1 drf noun.person:waster frame 2
 w: ware
-hyper: verb.possession:spend
-fr: 8
+hyper: verb.possession:spend1
+frame: 8
 g: spend extravagantly; "waste not, want not"
 
 w: content state noun.feeling:contentment event noun.state:content drf noun.feeling:contentment drf noun.state:content
 hyper: verb.change:limit
-fr: 20
+frame: 20
 g: satisfy in a limited way; "He contented himself with one glass of beer per day"
 
-w: corn uses noun.plant:corn2 uses noun.plant:corn drf noun.plant:corn2 drf noun.plant:corn
-hyper: feed1
-fr: 8
+w: corn uses noun.plant:corn uses noun.plant:corn2 drf noun.plant:corn drf noun.plant:corn2
+hyper: feed6
+frame: 8
 g: feed (cattle) with corn
 
-w: crave drf noun.feeling:craving fr 8
-w: hunger1 state noun.attribute:hunger event noun.attribute:hunger drf noun.attribute:hunger
+w: crave drf noun.feeling:craving frame 8
+w: hunger state noun.attribute:hunger event noun.attribute:hunger drf noun.attribute:hunger
 w: thirst event noun.attribute:thirst drf noun.attribute:thirst
-w: starve1
+w: starve
 w: lust event noun.feeling:lust event noun.act:lust drf noun.feeling:lust drf noun.act:lust
-hyper: verb.emotion:desire
-fr: 22
+hyper: verb.emotion:desire2
+frame: 22
 g: have a craving, appetite, or great desire for
 
 w: crunch
 w: munch event noun.act:munch agent noun.person:muncher drf noun.act:munch drf noun.person:muncher
 hyper: chew
-fr: 8
+frame: 8
 g: chew noisily; "The children crunched the celery sticks"
 
 w: cry
 hyper: want
-fr: 4
+frame: 4
 g: demand immediate action; "This situation is crying for attention"
 
 w: degust event noun.act:degustation drf noun.act:degustation
 hyper: sample
-fr: 8
+frame: 8
 g: taste with relish; "degust this wonderful soup"
 
 w: delight state noun.feeling:delight by-means-of noun.cognition:delight drf noun.feeling:delight drf noun.cognition:delight
-w: enjoy event noun.feeling:enjoyment event noun.act:enjoyment agent noun.person:enjoyer drf noun.feeling:enjoyment drf noun.act:enjoyment drf noun.person:enjoyer fr 8
+w: enjoy1 event noun.feeling:enjoyment event noun.act:enjoyment agent noun.person:enjoyer drf noun.feeling:enjoyment drf noun.act:enjoyment drf noun.person:enjoyer frame 8
 w: revel
-entail: use
-fr: 22
+entail: use2
+frame: 22
 g: take delight in; "he delights in his granddaughter"
 
-w: devour1 agent noun.person:devourer drf noun.person:devourer
+w: devour agent noun.person:devourer drf noun.person:devourer
 w: down1
-w: consume3
+w: consume
 w: go_through
-hyper: eat
-fr: 10
+hyper: eat1
+frame: 10
 g: eat immoderately; "Some people can down a pound of meat in the course of one meal"
 
-w: devour
+w: devour1
 w: guttle
-w: raven
-w: pig agent noun.person:pig drf noun.person:pig
-hyper: eat
-fr: 8
+w: raven1
+w: pig agent noun.person:pig1 drf noun.person:pig1
+hyper: eat1
+frame: 8
 g: eat greedily; "he devoured three sandwiches"
 
-w: diet1 event noun.food:diet event noun.act:diet drf noun.food:dietary drf noun.act:diet drf noun.food:diet drf noun.act:dieting drf noun.person:dieter
-hyper: fast1
-fr: 2
+w: diet event noun.food:diet event noun.act:diet drf noun.food:dietary drf noun.act:diet drf noun.food:diet drf noun.act:dieting drf noun.person:dieter
+hyper: fast
+frame: 2
 g: follow a regimen or a diet, as for health reasons; "He has high blood pressure and must stick to a low-salt diet"
 
-w: diet event noun.food:diet event noun.act:diet drf noun.person:dieter drf noun.food:dietary drf noun.act:diet drf noun.food:diet drf noun.act:dieting
-hyper: fast
-fr: 2
+w: diet1 event noun.food:diet event noun.act:diet drf noun.person:dieter drf noun.food:dietary drf noun.act:diet drf noun.food:diet drf noun.act:dieting
+hyper: fast1
+frame: 2
 g: eat sparingly, for health reasons or to lose weight
 
-w: digest instrument noun.artifact:digester event noun.process:digestion drf adj.all:digestible drf adj.pert:digestive drf noun.process:digestion drf noun.artifact:digester
-entail: consume
+w: digest instrument noun.artifact:digester event noun.process:digestion1 drf adj.all:digestible drf adj.pert:digestive drf noun.process:digestion1 drf noun.artifact:digester
+entail: consume3
 hyper: verb.change:process
-vg: verb.change:digest2
-fr: 2 8
+vg: verb.change:digest
+frame: 2 8
 g: convert food into absorbable substances; "I cannot digest milk products"
 
-w: dine1 location noun.artifact:diner1 location noun.artifact:diner event noun.food:dinner agent noun.group:dinner agent noun.person:diner drf noun.group:dinner drf noun.food:dinner drf noun.person:diner drf noun.artifact:diner1 drf noun.artifact:diner drf noun.act:dining see dine_in see dine_out
-hyper: eat1
-fr: 2
+w: dine location noun.artifact:diner1 location noun.artifact:diner event noun.food:dinner agent noun.group:dinner agent noun.person:diner drf noun.group:dinner drf noun.food:dinner drf noun.person:diner drf noun.artifact:diner1 drf noun.artifact:diner drf noun.act:dining see dine_in see dine_out
+hyper: eat2
+frame: 2
 g: have supper; eat dinner; "We often dine with friends in this restaurant"
 
-w: dine2 location noun.artifact:diner1 location noun.artifact:diner agent noun.group:dinner agent noun.food:dinner drf noun.group:dinner drf noun.food:dinner drf noun.artifact:diner1 drf noun.artifact:diner
-hyper: feed1
-fr: 9
+w: dine1 location noun.artifact:diner1 location noun.artifact:diner agent noun.group:dinner agent noun.food:dinner drf noun.group:dinner drf noun.food:dinner drf noun.artifact:diner1 drf noun.artifact:diner
+hyper: feed6
+frame: 9
 g: give dinner to; host for dinner; "I'm wining and dining my friends"
 
 w: dope drf noun.artifact:dope
 hyper: drug
-fr: 2
+frame: 2
 g: take drugs to improve one's athletic performance
 
-w: drain event noun.act:drain1 drf noun.act:drain1
-hyper: consume1
-fr: 8 10 11
+w: drain event noun.act:drain drf noun.act:drain
+hyper: consume2
+frame: 8 10 11
 g: deplete of resources; "The exercise class drains me of energy"
 
 w: drain_the_cup
 w: drink_up
-hyper: drink
-fr: 2
+hyper: drink3
+frame: 2
 g: drink to the last drop; "drink up--there's more wine coming"
 
 w: drench
-cause: drink
+cause: drink3
 hyper: provide
 dt: noun.Tops:animal
-fr: 8
+frame: 8
 g: force to drink
 
-w: drink1 event noun.act:drink agent noun.person:drinker drf noun.act:drink drf noun.person:drinker drf noun.act:drinking1
+w: drink2 event noun.act:drink1 agent noun.person:drinker1 drf noun.act:drink1 drf noun.person:drinker1 drf noun.act:drinking1
 w: booze agent noun.person:boozer drf noun.person:boozer drf noun.food:booze
-w: fuddle
-vg: drink2
-hyper: consume
-fr: 2
+w: fuddle1
+vg: drink1
+hyper: consume3
+frame: 2
 g: consume alcohol; "We were up drinking all night"
 
-w: drink undergoer noun.food:drink4 undergoer noun.food:drink event noun.act:drink1 agent noun.person:drinker1 drf noun.food:drink drf noun.act:drink1 drf noun.food:drink4 drf noun.person:drinker1 drf noun.act:drinking see drink_up see drink_down
+w: drink3 undergoer noun.food:drink undergoer noun.food:drink1 event noun.act:drink agent noun.person:drinker drf noun.food:drink1 drf noun.act:drink drf noun.food:drink drf noun.person:drinker drf noun.act:drinking see drink_up see drink_down
 w: imbibe event noun.act:imbibition agent noun.person:imbiber drf noun.act:imbibition drf noun.person:imbiber drf noun.act:imbibing
-hyper: consume
-fr: 8
+hyper: consume3
+frame: 8
 g: take in liquids; "The patient must drink several liters each day"; "The children like to drink soda"
 
-w: drink2 event noun.act:drink agent noun.person:drinker drf noun.act:drink drf noun.person:drunkard drf noun.person:drinker drf noun.act:drinking1
+w: drink1 event noun.act:drink1 agent noun.person:drinker1 drf noun.act:drink1 drf noun.person:drunkard drf noun.person:drinker1 drf noun.act:drinking1
 w: tope agent noun.person:toper drf noun.person:toper
-hyper: use2
-vg: drink1
-fr: 2
+hyper: use
+vg: drink2
+frame: 2
 g: drink excessive amounts of alcohol; be an alcoholic; "The husband drinks and beats his wife"
 
-w: drive7 instrument noun.communication:driver by-means-of noun.artifact:drive2 drf noun.communication:driver drf noun.artifact:drive2
+w: drive instrument noun.communication:driver by-means-of noun.artifact:drive2 drf noun.communication:driver drf noun.artifact:drive2
 hyper: power
-fr: 11
+frame: 11
 g: cause to function by supplying the force or power for or by controlling; "The amplifier drives the tube"; "steam drives the engines"; "this device drives the disks for the computer"
 
 w: drop
 hyper: drug
-fr: 8
+frame: 8
 g: take (a drug, especially LSD), by mouth; "She dropped acid when she was a teenager"
 
 w: drug undergoer noun.artifact:drug drf noun.artifact:drug
 w: do_drugs
 cause: trip
-hyper: consume
-fr: 9
+hyper: consume3
+frame: 9
 g: use recreational drugs
 
 w: dry-nurse
-hyper: verb.social:care13
-fr: 9
+hyper: verb.social:care
+frame: 9
 g: take care of an infant without breastfeeding it
 
 w: dunk
 w: dip instrument noun.artifact:dipper event noun.event:dip drf noun.food:dip drf noun.event:dip drf noun.artifact:dipper
-hyper: eat
-fr: 21
+hyper: eat1
+frame: 21
 g: dip into a liquid while eating; "She dunked the piece of bread in the sauce"
 
-w: eat undergoer noun.food:eater agent noun.person:eater drf noun.person:eater drf noun.food:eater drf noun.act:eating
-vg: eat1
-vg: feed
-hyper: eat1
+w: eat1 undergoer noun.food:eater agent noun.person:eater drf noun.person:eater drf noun.food:eater drf noun.act:eating
+vg: eat2
+vg: feed5
+hyper: eat2
 entail: chew
 entail: swallow
-hyper: consume
-fr: 8
+hyper: consume3
+frame: 8
 g: take in solid food; "She was eating a banana"; "What did you eat for dinner last night?"
 
-w: eat1 agent noun.person:eater drf noun.person:eater drf noun.act:eating see eat_in see eat_out see eat_up
-hyper: consume
-vg: eat
-fr: 2
+w: eat2 agent noun.person:eater drf noun.person:eater drf noun.act:eating see eat_in see eat_out see eat_up
+hyper: consume3
+vg: eat1
+frame: 2
 g: eat a meal; take a meal; "We did not eat until 10 P.M. because there were so many phone calls"; "I didn't eat yet, so I gladly accept your invitation"
 
 w: eat_in ant eat_out
 w: dine_in
-hyper: eat1
-fr: 2
+hyper: eat2
+frame: 2
 g: eat at home
 
 w: eat_out ant eat_in
 w: dine_out
-hyper: eat1
-fr: 2
+hyper: eat2
+frame: 2
 g: eat at a restaurant or at somebody else's home
 
-w: eat_up  fr 2
+w: eat_up  frame 2
 w: finish
 w: polish_off
-hyper: eat
-fr: 8
+hyper: eat1
+frame: 8
 g: finish eating all the food on one's plate or on the table; "She polished off the remaining potatoes"
 
-w: enjoy1 event noun.attribute:enjoyment drf noun.attribute:enjoyment
+w: enjoy event noun.attribute:enjoyment drf noun.attribute:enjoyment
 hyper: use1
-fr: 8
+frame: 8
 g: have benefit from; "enjoy privileges"
 
 w: exert
-w: exercise event noun.act:exercise3 drf noun.act:exercise3
+w: exercise event noun.act:exercise drf noun.act:exercise
 hyper: use1
-fr: 8 11
+frame: 8 11
 g: put to use; "exert one's power or influence"
 
-w: exploit1 event noun.act:exploitation drf noun.act:exploitation
+w: exploit event noun.act:exploitation drf noun.act:exploitation
 w: tap
 hyper: use1
-fr: 8
+frame: 8
 g: draw from; make good use of; "we must exploit the resources we are given wisely"
 
-w: exploit event noun.act:exploitation1 event noun.act:exploitation agent noun.person:exploiter drf adjs.all:exploitive drf adjs.all:exploitative drf adjs.all:exploitatory drf noun.act:exploitation1 drf noun.act:exploitation drf noun.person:exploiter
-w: work10
+w: exploit1 event noun.act:exploitation1 event noun.act:exploitation agent noun.person:exploiter drf adjs.all:exploitive drf adjs.all:exploitative drf adjs.all:exploitatory drf noun.act:exploitation1 drf noun.act:exploitation drf noun.person:exploiter
+w: work
 hyper: use1
-vg: verb.perception:work10
-fr: 8 9
+vg: verb.perception:work
+frame: 8 9
 g: use or manipulate to one's advantage; "He exploit the new taxation system"; "She knows how to work the system"; "he works his parents for sympathy"
 
 w: fare event noun.food:fare drf noun.food:fare
-hyper: eat
-fr: 2
+hyper: eat1
+frame: 2
 g: eat well
-
-w: fast1 event noun.act:fast drf noun.act:fast drf noun.act:fasting
-hyper: abstain
-fr: 2
-g: abstain from certain foods, as for religious or medical reasons; "Catholics sometimes fast during Lent"
 
 w: fast event noun.act:fast drf noun.act:fast drf noun.act:fasting
 hyper: abstain
-fr: 2
+frame: 2
+g: abstain from certain foods, as for religious or medical reasons; "Catholics sometimes fast during Lent"
+
+w: fast1 event noun.act:fast drf noun.act:fast drf noun.act:fasting
+hyper: abstain
+frame: 2
 g: abstain from eating; "Before the medical exam, you must fast"
 
 w: fatten
@@ -470,145 +470,145 @@ w: plump
 w: plump_out
 w: fatten_out
 w: fatten_up
-entail: feed1
-hyper: verb.change:change1
-fr: 8 9
+entail: feed6
+hyper: verb.change:change5
+frame: 8 9
 g: make fat or plump; "We will plump out that poor starving child"
 
-w: feast1 uses noun.group:feast uses noun.food:feast event noun.event:feast1 drf noun.event:feast1 drf noun.food:feast drf noun.group:feast
-w: banquet1 uses noun.group:banquet uses noun.food:banquet drf noun.group:banquet drf noun.food:banquet
-w: junket1
+w: feast uses noun.group:feast uses noun.food:feast event noun.event:feast drf noun.event:feast drf noun.food:feast drf noun.group:feast
+w: banquet uses noun.group:banquet uses noun.food:banquet drf noun.group:banquet drf noun.food:banquet
+w: junket
 hyper: host
-vg: feast
-fr: 9
+vg: feast1
+frame: 9
 g: provide a feast or banquet for
 
-w: feast event noun.group:feast event noun.food:feast event noun.event:feast1 drf noun.event:feast1 drf noun.food:feast drf noun.group:feast drf noun.act:feasting
-w: banquet
-w: junket
-vg: feast1
-hyper: eat1
-fr: 2 22
+w: feast1 event noun.group:feast event noun.food:feast event noun.event:feast drf noun.event:feast drf noun.food:feast drf noun.group:feast drf noun.act:feasting
+w: banquet1
+w: junket1
+vg: feast
+hyper: eat2
+frame: 2 22
 g: partake in a feast or banquet
 
-w: feed4 drf noun.act:feeding1
+w: feed2 drf noun.act:feeding
 hyper: provide
-fr: 14 15
+frame: 14 15
 g: provide as food; "Feed the guests the nuts"
 
 w: feed3 by-means-of noun.object:feeder drf noun.object:feeder
 hyper: verb.possession:supply
-fr: 11
+frame: 11
 g: feed into; supply; "Her success feeds her vanity"
 
-w: feed2 property noun.food:feed drf noun.food:feed
+w: feed4 property noun.food:feed drf noun.food:feed
 hyper: provide
-fr: 10 11
+frame: 10 11
 g: serve as food for; be the food for; "This dish feeds six"
 
 w: feed_on
 w: feed_upon
 hyper: meet
-fr: 8
+frame: 8
 g: be sustained by; "He fed on the great ideas of her mentor"
 
-w: feed undergoer noun.food:feed agent noun.person:feeder drf noun.food:feed drf noun.person:feeder drf noun.act:feeding
-w: eat2 drf noun.act:eating
-hyper: consume
-vg: eat
-fr: 1 4
+w: feed5 undergoer noun.food:feed agent noun.person:feeder drf noun.food:feed drf noun.person:feeder drf noun.act:feeding1
+w: eat drf noun.act:eating
+hyper: consume3
+vg: eat1
+frame: 1 4
 g: take in food; used of animals only; "This dog doesn't eat certain kinds of meat"; "What do whales eat?"
 
-w: feed5
-w: feast2 event noun.event:feast drf noun.event:feast
+w: feed1
+w: feast2 event noun.event:feast1 drf noun.event:feast1
 hyper: regale
-fr: 9 21
+frame: 9 21
 g: gratify; "feed one's eyes on a gorgeous view"
 
-w: feed1 instrument noun.artifact:feeder drf noun.artifact:feeder drf noun.act:feeding1 ant starve3
-w: give drf noun.act:giving fr 14 15
-cause: eat
+w: feed6 instrument noun.artifact:feeder drf noun.artifact:feeder drf noun.act:feeding ant starve3
+w: give drf noun.act:giving frame 14 15
+cause: eat1
 hyper: provide
-fr: 9
+frame: 9
 g: give food to; "Feed the starving children in India"; "don't give the child this tough meat"
 
-w: fill_up  fr 22
-w: fill1
-hyper: eat
-fr: 9
+w: fill_up  frame 22
+w: fill
+hyper: eat1
+frame: 9
 g: eat until one is sated; "He filled up on turkey"
 
 w: fix_up
 hyper: provide
-fr: 17
+frame: 17
 g: find (something or someone) for; "I'll fix you up with a nice girl"
 
 w: fodder uses noun.food:fodder undergoer noun.food:fodder drf noun.food:fodder
-hyper: feed1
-fr: 8
+hyper: feed6
+frame: 8
 g: give fodder (to domesticated animals)
 
 w: forage drf noun.food:forage
-hyper: feed
-fr: 1 4
+hyper: feed5
+frame: 1 4
 g: wander and feed; "The animals forage in the woods"
 
 w: force-feed drf noun.act:forced_feeding
-hyper: feed1
-fr: 9
+hyper: feed6
+frame: 9
 g: feed someone who will not or cannot eat
 
 w: free-base
-w: base drf noun.substance:base drf noun.artifact:base7
+w: base drf noun.substance:base1 drf noun.artifact:base2
 hyper: drug
-fr: 2 8
+frame: 2 8
 g: use (purified cocaine) by burning it and inhaling the fumes
 
 w: fritter
 w: frivol_away
-w: dissipate event noun.act:dissipation2 drf noun.act:dissipation2
+w: dissipate event noun.act:dissipation1 drf noun.act:dissipation1
 w: shoot
 w: fritter_away
 w: fool
 w: fool_away
-hyper: consume2
-entail: consume1
-fr: 8
+hyper: consume1
+entail: consume2
+frame: 8
 g: spend frivolously and unwisely; "Fritter away one's inheritance"
 
 w: garbage_down
 w: gobble_up
 w: shovel_in
-w: bolt_down
-hyper: eat
-fr: 8
+w: bolt_down1
+hyper: eat1
+frame: 8
 g: eat a large amount of food quickly; "The children gobbled down most of the birthday cake"
 
-w: give10
+w: give1
 hyper: toast
-fr: 8
+frame: 8
 g: propose; "He gave the first of many toasts at the birthday party"
 
 w: gluttonize drf noun.person:glutton
 w: gluttonise
 w: fress
-hyper: eat
-fr: 2
+hyper: eat1
+frame: 2
 g: eat a lot and without restraint
 
-w: go9
+w: go
 vg: run_low
-fr: 4
+frame: 4
 g: be spent; "All my money went for food and rent"
 
 w: go_down
-fr: 1 6
+frame: 1 6
 g: be ingested; "This wine sure goes down well"; "The food wouldn't go down"
 
 w: gobble agent noun.person:gobbler drf noun.person:gobbler see gobble_up
-w: bolt
-hyper: eat
-fr: 8
+w: bolt1
+hyper: eat1
+frame: 8
 g: eat hastily without proper chewing; "Don't bolt your food!"
 
 w: gorge agent noun.person:gorger drf noun.person:gorger
@@ -623,882 +623,882 @@ w: overeat drf noun.act:overeating
 w: gormandize
 w: gormandise
 w: gourmandize drf noun.person:gourmand drf noun.person:gourmandizer
-w: binge event noun.act:binge drf noun.act:binge
+w: binge event noun.act:binge1 drf noun.act:binge1
 w: pig_out
 w: satiate1
 w: scarf_out
-hyper: eat1
-fr: 22
+hyper: eat2
+frame: 22
 g: overeat or eat immodestly; make a pig of oneself; "She stuffed herself at the dinner"; "The kids binged on ice cream"
 
 w: grass uses noun.plant:grass drf noun.plant:grass
-hyper: verb.contact:crop10
-fr: 8
+hyper: verb.contact:crop
+frame: 8
 g: feed with grass
 
 w: gratify event noun.act:gratification drf noun.act:gratification
-w: pander13 agent noun.person:panderer1 drf noun.person:panderer1
-w: indulge event noun.attribute:indulgence2 drf noun.attribute:indulgence2 drf noun.act:indulging
+w: pander agent noun.person:panderer1 drf noun.person:panderer1
+w: indulge1 event noun.attribute:indulgence1 drf noun.attribute:indulgence1 drf noun.act:indulging
 hyper: provide
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: yield (to); give satisfaction to
 
 w: guggle
 w: gurgle
-hyper: drink
-fr: 2 8
+hyper: drink3
+frame: 2 8
 g: drink from a flask with a gurgling sound
 
-w: gulp1 event noun.act:gulp1 event noun.act:gulp agent noun.person:gulper drf noun.act:gulp1 drf noun.act:gulp drf noun.person:gulper drf noun.act:gulping
+w: gulp event noun.act:gulp event noun.act:gulp1 agent noun.person:gulper drf noun.act:gulp drf noun.act:gulp1 drf noun.person:gulper drf noun.act:gulping
 w: quaff event noun.food:quaff agent noun.person:quaffer drf noun.person:quaffer drf noun.food:quaff
 w: swig event noun.act:swig drf noun.act:swig
 entail: swallow
-hyper: drink
-fr: 8
+hyper: drink3
+frame: 8
 g: to swallow hurriedly or greedily or in one draught; "The men gulped down their beers"
 
-w: gutter uses noun.artifact:gutter by-means-of noun.artifact:gutter drf noun.artifact:gutter
+w: gutter uses noun.artifact:gutter1 by-means-of noun.artifact:gutter1 drf noun.artifact:gutter1
 hyper: provide
-fr: 8
+frame: 8
 g: provide with gutters; "gutter the buildings"
 
 w: guzzle drf noun.act:guzzling
-hyper: drink
-fr: 8
+hyper: drink3
+frame: 8
 g: drink greedily or as if with great thirst; "The boys guzzled the cheap vodka"
 
 w: harness
-hyper: exploit1
-fr: 8
+hyper: exploit
+frame: 8
 g: exploit the power of; "harness natural forces and resources"
 
 w: have_a_ball
 w: have_a_good_time
 hyper: delight
-fr: 2
+frame: 2
 g: enjoy oneself greatly; "We had a ball at the party and didn't come home until 2 AM"
 
 w: hit
-hyper: consume
-fr: 8
+hyper: consume3
+frame: 8
 g: consume to excess; "hit the bottle"
 
 w: horse uses noun.animal:horse drf noun.animal:horse
 hyper: provide
-fr: 8 9
+frame: 8 9
 g: provide with a horse or horses
 
-w: host agent noun.person:host2 agent noun.person:host1 agent noun.person:host drf noun.person:host drf noun.person:host1 drf noun.person:host2
+w: host agent noun.person:host2 agent noun.person:host agent noun.person:host3 drf noun.person:host3 drf noun.person:host drf noun.person:host2
 hyper: verb.social:entertain
-fr: 9
+frame: 9
 g: be the host of or for; "We hosted 4 couples last night"
 
 w: huff
-w: snort2
+w: snort
 hyper: verb.body:inhale
 entail: drug
-fr: 8
+frame: 8
 g: inhale recreational drugs; "The addict was snorting cocaine almost every day"; "the kids were huffing glue"
 
-w: indulge12 event noun.attribute:indulgence drf noun.attribute:indulgence
-w: luxuriate14 drf noun.act:luxuriation drf noun.state:luxury
-hyper: consume1
-fr: 8
+w: indulge event noun.attribute:indulgence drf noun.attribute:indulgence
+w: luxuriate1 drf noun.act:luxuriation drf noun.state:luxury
+hyper: consume2
+frame: 8
 g: enjoy to excess; "She indulges in ice cream"
 
 w: inhale undergoer noun.artifact:inhalation event noun.act:inhalation drf adj.pert:inhalant drf noun.artifact:inhalation drf noun.act:inhalation drf noun.substance:inhalant
 hyper: smoke
-fr: 2 8
+frame: 2 8
 g: draw deep into the lungs in by breathing; "Clinton smoked marijuana but never inhaled"
 
-w: inject1 drf noun.substance:injectant
+w: inject drf noun.substance:injectant
 hyper: drug
-fr: 8
+frame: 8
 g: take by injection; "inject heroin"
 
-w: inject
-hyper: feed1
-fr: 8 17 20
+w: inject1
+hyper: feed6
+frame: 8 17 20
 g: feed intravenously
 
-w: intoxicate state noun.state:intoxication drf noun.state:intoxication drf noun.food:intoxicant
-w: soak1
-w: inebriate1 state noun.state:inebriation event noun.state:inebriation1 drf noun.state:inebriation1 drf noun.state:inebriation drf noun.food:inebriant drf noun.person:inebriate
+w: intoxicate state noun.state:intoxication1 drf noun.state:intoxication1 drf noun.food:intoxicant
+w: soak
+w: inebriate state noun.state:inebriation1 event noun.state:inebriation drf noun.state:inebriation drf noun.state:inebriation1 drf noun.food:inebriant drf noun.person:inebriate
 hyper: verb.body:affect
-fr: 10
+frame: 10
 g: make drunk (with alcoholic drinks)
 
 w: keep_off
 w: avoid
 hyper: abstain
-fr: 8
+frame: 8
 g: refrain from certain foods or beverages; "I keep off drugs"; "During Ramadan, Muslims avoid tobacco during the day"
 
 w: kick
 w: give_up
 hyper: verb.social:waive
-fr: 8 33
+frame: 8 33
 g: stop consuming; "kick a habit"; "give up alcohol"
 
-w: lap event noun.act:lap drf noun.act:lap
+w: lap event noun.act:lap1 drf noun.act:lap1
 w: lap_up
 w: lick
-hyper: drink
-fr: 11
+hyper: drink3
+frame: 11
 g: take up with the tongue; "The cat lapped up the milk"; "the cub licked the milk from its mother's breast"
 
 w: light_up
 w: fire_up
-w: light instrument noun.artifact:light1 drf noun.artifact:light1 fr 8
+w: light instrument noun.artifact:light drf noun.artifact:light frame 8
 entail: smoke
-hyper: verb.weather:ignite
-fr: 2
+hyper: verb.weather:ignite1
+frame: 2
 g: begin to smoke; "After the meal, some of the diners lit up"
 
 w: live_in ant live_out
 w: sleep_in
-hyper: board
-fr: 2
+hyper: board1
+frame: 2
 g: live in the house where one works; "our babysitter lives in, as it is too far to commute for her"
 
 w: live_it_up
 hyper: delight
-fr: 1 22
+frame: 1 22
 g: enjoy oneself; "it's your birthday, so let's live it up!"
 
 w: live_out ant live_in
 w: sleep_out
 hyper: verb.motion:commute
-fr: 2
+frame: 2
 g: work in a house where one does not live; "our cook lives out; he can easily commute from his home"
 
-w: lunch1 uses noun.food:lunch drf noun.food:lunch
-hyper: feed1
-fr: 9
+w: lunch uses noun.food:lunch drf noun.food:lunch
+hyper: feed6
+frame: 9
 g: provide a midday meal for; "She lunched us well"
 
-w: lunch event noun.food:lunch agent noun.person:luncher drf noun.person:luncher drf noun.food:lunch drf noun.act:lunching
-hyper: eat1
-fr: 2
+w: lunch1 event noun.food:lunch agent noun.person:luncher drf noun.person:luncher drf noun.food:lunch drf noun.act:lunching
+hyper: eat2
+frame: 2
 g: take the midday meal; "At what time are you lunching?"
 
-w: luxuriate drf noun.state:luxury drf noun.attribute:luxury1 drf noun.attribute:luxury drf noun.act:luxuriation
+w: luxuriate drf noun.state:luxury drf noun.attribute:luxury drf noun.attribute:luxury1 drf noun.act:luxuriation
 w: wanton
-hyper: consume2
-fr: 2
+hyper: consume1
+frame: 2
 g: become extravagant; indulge (oneself) luxuriously
 
 w: mainline
-hyper: inject1
-fr: 2 8
+hyper: inject
+frame: 2 8
 g: inject into the vein; "She is mainlining heroin"
 
 w: make_hay
-hyper: exploit
-fr: 22
+hyper: exploit1
+frame: 22
 g: turn to one's advantage; "The environmentalist lobby made hay of the nuclear plant accident"
 
 w: meet
-w: satisfy1 event noun.act:satisfaction by-means-of noun.object:satisfier drf adjs.all:satisfactory drf adj.all:satisfactory drf noun.act:satisfaction drf noun.object:satisfier
+w: satisfy event noun.act:satisfaction by-means-of noun.object:satisfier drf adjs.all:satisfactory drf adj.all:satisfactory drf noun.act:satisfaction drf noun.object:satisfier
 w: fill2 by-means-of noun.quantity:fill drf noun.quantity:fill
 w: fulfill state noun.feeling:fulfillment drf noun.feeling:fulfillment
 w: fulfil state noun.feeling:fulfilment drf noun.feeling:fulfilment
 hyper: provide
-fr: 8
+frame: 8
 g: fill or meet a want or need
 
-w: mess location noun.artifact:mess event noun.food:mess drf noun.artifact:mess drf noun.food:mess drf noun.food:mess1
-hyper: eat1
+w: mess location noun.artifact:mess event noun.food:mess1 drf noun.artifact:mess drf noun.food:mess1 drf noun.food:mess
+hyper: eat2
 dt: noun.group:military
-fr: 2
+frame: 2
 g: eat in a mess hall
 
-w: metabolize drf noun.process:metabolism
+w: metabolize drf noun.process:metabolism1
 w: metabolise
 entail: digest
-fr: 8
+frame: 8
 g: produce by metabolism
 
 w: milk
-hyper: exploit1
-fr: 8 9
+hyper: exploit
+frame: 8 9
 g: exploit as much as possible; "I am milking this for all it's worth"
 
-w: mine event noun.artifact:mine1 agent noun.person:miner drf noun.artifact:mine1 drf noun.person:miner drf noun.act:mining
-entail: verb.contact:dig
-hyper: exploit1
-dt: noun.act:mining
-fr: 8
+w: mine event noun.artifact:mine agent noun.person:miner drf noun.artifact:mine drf noun.person:miner drf noun.act:mining1
+entail: verb.contact:dig2
+hyper: exploit
+dt: noun.act:mining1
+frame: 8
 g: get from the earth by excavation; "mine ores and metals"
 
-w: misapply event noun.act:misapplication2 drf noun.act:misapplication2
+w: misapply event noun.act:misapplication drf noun.act:misapplication
 w: misuse event noun.act:misuse drf noun.act:misuse
 hyper: use1
-fr: 8
+frame: 8
 g: apply to a wrong thing or person; apply badly or incorrectly; "The words are misapplied in this context"; "You are misapplying the name of this religious group"
 
 w: mumble drf noun.act:mumbling
 w: gum by-means-of noun.body:gum drf noun.body:gum drf noun.act:gumming
 hyper: chew
-fr: 8
+frame: 8
 g: grind with the gums; chew without teeth and with great difficulty; "the old man had no teeth left and mumbled his food"
 
-w: need1
-fr: 8 9
+w: need
+frame: 8 9
 g: have or feel a need for; "always needing friends and money"
 
-w: nibble1 agent noun.person:nibbler drf noun.quantity:nibble drf noun.person:nibbler
+w: nibble agent noun.person:nibbler drf noun.quantity:nibble drf noun.person:nibbler
 w: pick
 w: piece drf noun.food:piece
-hyper: eat
-fr: 8
+hyper: eat1
+frame: 8
 g: eat intermittently; take small bites of; "He pieced at the sandwich all morning"; "She never eats a full meal--she just nibbles"
 
 w: nosh event noun.food:nosh agent noun.person:nosher drf noun.person:nosher drf noun.food:nosh
 w: snack event noun.food:snack agent noun.person:snacker drf noun.person:snacker drf noun.food:snack
-hyper: eat1
-fr: 2 22
+hyper: eat2
+frame: 2 22
 g: eat a snack; eat lightly; "She never loses weight because she snacks between meals"
 
-w: nourish uses noun.food:nourishment drf adjs.all:nutrient drf noun.food:nourishment
+w: nourish1 uses noun.food:nourishment drf adjs.all:nutrient drf noun.food:nourishment
 w: nurture uses noun.act:nurturance drf noun.act:nurturance
-w: sustain1 event noun.act:sustainment by-means-of noun.food:sustenance drf adj.pert:sustainable drf noun.act:sustainment drf noun.food:sustenance
+w: sustain event noun.act:sustainment by-means-of noun.food:sustenance drf adj.pert:sustainable drf noun.act:sustainment drf noun.food:sustenance
 hyper: provide
-fr: 9 10
+frame: 9 10
 g: provide with nourishment; "We sustained ourselves on bread and water"; "This kind of food is not nourishing for young children"
 
-w: nutrify uses noun.Tops:nutrient event noun.process:nutrition drf noun.process:nutrition drf noun.Tops:nutrient
+w: nutrify uses noun.Tops:nutrient1 event noun.process:nutrition drf noun.process:nutrition drf noun.Tops:nutrient1
 w: aliment event noun.act:alimentation by-means-of noun.food:alimentation by-means-of noun.food:aliment drf adj.pert:alimentative drf noun.food:alimentation drf noun.act:alimentation drf noun.food:aliment
-w: nourish1 event noun.act:nourishment drf adjs.all:nutrient drf noun.act:nourishment
-hyper: feed1
-fr: 11
+w: nourish event noun.act:nourishment drf adjs.all:nutrient drf noun.act:nourishment
+hyper: feed6
+frame: 11
 g: give nourishment to
 
 w: overexploit event noun.act:overexploitation drf noun.act:overexploitation
-hyper: exploit1
-fr: 8
+hyper: exploit
+frame: 8
 g: exploit excessively; "We should not overexploit our natural resources"
 
 w: overfeed drf noun.act:overfeeding
-hyper: feed1
-fr: 8 9
+hyper: feed6
+frame: 8 9
 g: feed excessively
 
 w: overstrain event noun.phenomenon:overstrain drf noun.phenomenon:overstrain
 w: overextend
 hyper: strain
-fr: 8 11
+frame: 8 11
 g: strain excessively; "He overextended himself when he accepted the additional assignment"
 
 w: overuse event noun.act:overuse drf noun.act:overuse
 w: overdrive
 hyper: use1
-fr: 8
+frame: 8
 g: make use of too often or too extensively
 
-w: pander agent noun.person:panderer agent noun.person:pander drf noun.person:pander drf noun.person:panderer
+w: pander1 agent noun.person:panderer agent noun.person:pander drf noun.person:pander drf noun.person:panderer
 w: pimp agent noun.person:pimp drf noun.person:pimp
-w: procure agent noun.person:procurer drf noun.person:procurer
+w: procure agent noun.person:procurer1 drf noun.person:procurer1
 hyper: provide
-fr: 2
+frame: 2
 g: arrange for sexual partners for others
 
-w: partake13
+w: partake
 w: touch
-hyper: consume
-fr: 8
+hyper: consume3
+frame: 8
 g: consume; "She didn't touch her food all night"
 
 w: patronage event noun.act:patronage1 drf noun.act:patronage1
-hyper: sustain
-fr: 8 9 10 11
+hyper: sustain1
+frame: 8 9 10 11
 g: support by being a patron of
 
 w: peck body-part noun.animal:pecker1 drf noun.animal:pecker1
 w: pick_up
-hyper: eat
-fr: 11
+hyper: eat1
+frame: 11
 g: eat by pecking at, like a bird
 
-w: pick_at  fr 8
-w: peck_at  fr 8
+w: pick_at  frame 8
+w: peck_at  frame 8
 w: peck1
-hyper: eat
-fr: 2
+hyper: eat1
+frame: 2
 g: eat like a bird; "The anorexic girl just picks at her food"
 
 w: picnic event noun.food:picnic agent noun.person:picnicker agent noun.person:picknicker drf noun.food:picnic drf noun.person:picnicker drf noun.person:picknicker
-hyper: eat1
-fr: 2 22
+hyper: eat2
+frame: 2 22
 g: eat alfresco, in the open air; "We picnicked near the lake on this gorgeous Sunday"
 
 w: pitch_in
 w: dig_in
-hyper: eat
-fr: 2
+hyper: eat1
+frame: 2
 g: eat heartily; "The food was placed on the table and the children pitched in"
 
 w: plank drf noun.substance:plank
-hyper: serve
-fr: 8
+hyper: serve1
+frame: 8
 g: cook and serve on a plank; "Planked vegetable"; "Planked shad"
 
-w: play13 event noun.act:play4 drf noun.act:play4
-hyper: exploit
-fr: 22
+w: play event noun.act:play3 drf noun.act:play3
+hyper: exploit1
+frame: 22
 g: use to one's advantage; "She plays on her clients' emotions"
 
 w: ply1
 hyper: use1
-fr: 8
+frame: 8
 g: use diligently; "ply your wits!"
 
-w: pop
-hyper: inject1
-fr: 8
+w: pop1
+hyper: inject
+frame: 8
 g: take drugs, especially orally; "The man charged with murder popped a valium to calm his nerves"
 
 w: port undergoer noun.food:port drf noun.food:port
-hyper: drink1
-fr: 2
+hyper: drink2
+frame: 2
 g: drink port; "We were porting all in the club after dinner"
 
 w: power property noun.phenomenon:power event noun.phenomenon:power drf noun.phenomenon:power
 hyper: provide
-fr: 11
+frame: 11
 g: supply the force or power for the functioning of; "The gasoline powers the engines"
 
 w: predigest
 hyper: digest
 dt: noun.animal:ruminant
-fr: 8
+frame: 8
 g: digest (food) beforehand
 
-w: prey1 agent noun.person:prey drf noun.person:prey
-w: feed9
-hyper: exploit
-fr: 8 9 10 11
+w: prey agent noun.person:prey drf noun.person:prey
+w: feed
+hyper: exploit1
+frame: 8 9 10 11
 g: profit from in an exploitatory manner; "He feeds on her insecurity"
 
-w: provide event noun.act:provision1 agent noun.person:provider1 drf noun.act:provision1 drf noun.person:provider1 fr 17
-w: supply uses noun.quantity:supply uses noun.act:supply drf noun.act:supply drf noun.quantity:supply fr 17
-w: ply  fr 17
-w: cater agent noun.person:caterer drf noun.person:caterer fr 27
-hyper: verb.possession:give
-fr: 8 21
+w: provide event noun.act:provision agent noun.person:provider1 drf noun.act:provision drf noun.person:provider1 frame 17
+w: supply uses noun.quantity:supply uses noun.act:supply drf noun.act:supply drf noun.quantity:supply frame 17
+w: ply  frame 17
+w: cater agent noun.person:caterer drf noun.person:caterer frame 27
+hyper: verb.possession:give14
+frame: 8 21
 g: give what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests"
 
 w: pub-crawl
 w: bar_hop
-hyper: drink1
-fr: 2
+hyper: drink2
+frame: 2
 g: go from one pub to the next and get progressively more drunk; "he pub-crawled around Birmingham"
 
 w: puff event noun.act:puff drf noun.act:puff
-w: drag event noun.act:drag2 drf noun.act:drag2
-w: draw1
+w: drag event noun.act:drag drf noun.act:drag
+w: draw
 entail: smoke
 hyper: verb.body:inhale
-fr: 2 22
+frame: 2 22
 g: suck in or take (air); "draw a deep breath"; "draw on a cigarette"
 
-w: puff1 event noun.act:puff drf noun.act:puff drf noun.act:puffing2
-w: whiff2
+w: puff1 event noun.act:puff drf noun.act:puff drf noun.act:puffing
+w: whiff
 hyper: smoke
-fr: 8
+frame: 8
 g: smoke and exhale strongly; "puff a cigar"; "whiff a pipe"
 
 w: pull_out_all_the_stops
 hyper: use1
-fr: 2
+frame: 2
 g: use all resources available; "The organizers pulled out all the stops for the centennial meeting"
 
 w: put
 w: assign
 hyper: use1
-fr: 21
+frame: 21
 g: attribute or give; "She put too much emphasis on her the last statement"; "He put all his efforts into this job"; "The teacher put an interesting twist to the interpretation of the story"
 
 w: quarry agent noun.person:quarrier drf noun.artifact:quarry drf noun.person:quarrier drf noun.act:quarrying
-entail: verb.contact:dig
-hyper: exploit1
+entail: verb.contact:dig2
+hyper: exploit
 dt: noun.act:quarrying
-fr: 8
+frame: 8
 g: extract (something such as stones) from or as if from a quarry; "quarry marble"
 
 w: quell
 w: stay
 w: appease
 hyper: meet
-fr: 1 10
+frame: 1 10
 g: overcome or allay; "quell my hunger"
 
 w: quench
 w: slake
 w: allay
 w: assuage
-entail: consume
+entail: consume3
 hyper: meet
-fr: 8 11
+frame: 8 11
 g: satisfy (thirst); "The cold water quenched his thirst"
 
-w: range property noun.location:range2 drf noun.location:range2
-hyper: feed1
+w: range property noun.location:range drf noun.location:range
+hyper: feed6
 vg: verb.contact:crop1
-fr: 8
+frame: 8
 g: let eat; "range the animals in the prairie"
 
-w: raven1
-hyper: feed
-fr: 1 4
+w: raven2
+hyper: feed5
+frame: 1 4
 g: feed greedily; "The lions ravened the bodies"
 
-w: raven2  fr 2
-w: prey10 undergoer noun.animal:prey drf noun.animal:prey fr 22
-w: predate event noun.act:predation1 event noun.act:predation drf noun.act:predation1 drf noun.act:predation
+w: raven  frame 2
+w: prey1 undergoer noun.animal:prey drf noun.animal:prey frame 22
+w: predate event noun.act:predation event noun.act:predation1 drf noun.act:predation drf noun.act:predation1
 hyper: forage
-fr: 8 11
+frame: 8 11
 g: prey on or hunt for; "These mammals predate certain eggs"
 
 w: receive
-hyper: partake13
+hyper: partake
 dt: noun.cognition:Christianity
-fr: 2 8
+frame: 2 8
 g: partake of the Holy Eucharist sacrament
 
 w: recycle drf noun.act:recycling
 w: reprocess
 w: reuse
 hyper: use1
-fr: 8
+frame: 8
 g: use again after processing; "We must recycle the cardboard boxes"
 
 w: regale
 w: treat uses noun.food:treat drf noun.food:treat
 hyper: provide
 vg: verb.possession:treat
-fr: 9 17 20
+frame: 9 17 20
 g: provide with choice or abundant food or drink; "Don't worry about the expensive wine--I'm treating"; "She treated her houseguests with good food every night"
 
 w: regurgitate
-hyper: feed1
-fr: 11
+hyper: feed6
+frame: 11
 g: feed through the beak by regurgitating previously swallowed food; "many birds feed their young by regurgitating what they have swallowed and carried to the nest"
 
 w: rehash undergoer noun.communication:rehash drf noun.communication:rehash
 hyper: recycle
-fr: 8
+frame: 8
 g: present or use over, with no or few changes
 
 w: remount uses noun.animal:remount drf noun.animal:remount
 hyper: horse
-fr: 8 9
+frame: 8 9
 g: provide with fresh horses; "remount a regiment"
 
 w: repose
 hyper: put
-fr: 21
+frame: 21
 g: put or confide something in a person or thing; "These philosophers reposed the law in the people"
 
 w: reseed
-hyper: sustain
-fr: 1
+hyper: sustain1
+frame: 1
 g: maintain by seeding without human intervention; "Some plants reseed themselves indefinitely"
 
-w: ruminate event noun.act:rumination1 drf adj.pert:ruminant drf noun.act:rumination1 drf noun.animal:rumen drf noun.animal:ruminant
-hyper: eat
+w: ruminate event noun.act:rumination drf adj.pert:ruminant drf noun.act:rumination drf noun.animal:rumen drf noun.animal:ruminant
+hyper: eat1
 dt: noun.animal:ruminant
-fr: 2
+frame: 2
 g: chew the cuds; "cows ruminate"
 
 w: run_low
 w: run_short
-w: go
-hyper: verb.stative:end
-vg: go9
-fr: 1
+w: go1
+hyper: verb.stative:end1
+vg: go
+frame: 1
 g: to be spent or finished; "The money had gone after a few days"; "Gas is running low at the gas stations in the Midwest"
 
-w: sample result noun.group:sampler result noun.artifact:sampler event noun.cognition:sample agent noun.person:sampler drf noun.cognition:sample drf noun.person:sampler drf noun.group:sampler drf noun.artifact:sampler
+w: sample result noun.group:sampler result noun.artifact:sampler1 event noun.cognition:sample1 agent noun.person:sampler drf noun.cognition:sample1 drf noun.person:sampler drf noun.group:sampler drf noun.artifact:sampler1
 w: try event noun.cognition:trial agent noun.person:trier1 drf noun.person:trier1 drf noun.cognition:trial
 w: try_out drf noun.cognition:tryout
-w: taste undergoer noun.food:taste agent noun.person:taster drf noun.food:taste drf noun.person:taster drf noun.cognition:tasting drf noun.act:tasting2
-hyper: consume
-fr: 8
+w: taste undergoer noun.food:taste agent noun.person:taster drf noun.food:taste drf noun.person:taster drf noun.cognition:tasting drf noun.act:tasting1
+hyper: consume3
+frame: 8
 g: take a sample of; "Try these new crackers"; "Sample the regional dishes"
 
 w: satiate event noun.act:satiation drf noun.act:satiation
 w: sate
 w: replete event noun.act:repletion drf noun.act:repletion
-w: fill by-means-of noun.quantity:fill drf noun.quantity:fill
-hyper: consume
-fr: 1 9 10
+w: fill1 by-means-of noun.quantity:fill drf noun.quantity:fill
+hyper: consume3
+frame: 1 9 10
 g: fill to satisfaction; "I am sated"
 
 w: scavenge agent noun.animal:scavenger drf noun.animal:scavenger
-hyper: feed1
-fr: 2
+hyper: feed6
+frame: 2
 g: feed on carrion or refuse; "hyenas scavenge"
 
-w: serve1 instrument noun.artifact:server agent noun.person:server drf noun.person:server drf noun.artifact:server drf noun.food:serving
-w: help drf noun.food:helping
-vg: serve
+w: serve instrument noun.artifact:server1 agent noun.person:server drf noun.person:server drf noun.artifact:server1 drf noun.food:serving
+w: help1 drf noun.food:helping
+vg: serve1
 hyper: provide
-fr: 9
+frame: 9
 g: help to some food; help with food or drink; "I served him three times, and after that he helped himself"
 
-w: serve
+w: serve1
 w: serve_up
 w: dish_out
 w: dish_up
-w: dish undergoer noun.quantity:dish undergoer noun.food:dish undergoer noun.artifact:dish drf noun.quantity:dish drf noun.food:dish drf noun.artifact:dish
+w: dish undergoer noun.quantity:dish undergoer noun.food:dish undergoer noun.artifact:dish1 drf noun.quantity:dish drf noun.food:dish drf noun.artifact:dish1
 hyper: provide
-vg: serve1
-fr: 8
+vg: serve
+frame: 8
 g: provide (usually but not necessarily food); "We serve meals for the homeless"; "She dished out the soup at 8 P.M."; "The entertainers served up a lively show"
 
-w: shower12
+w: shower
 hyper: provide
-fr: 22
+frame: 22
 g: provide abundantly with; "He showered her with presents"
 
-w: sip event noun.act:sip1 agent noun.person:sipper drf noun.person:sipper drf noun.act:sip1
-hyper: drink
-fr: 8
+w: sip event noun.act:sip agent noun.person:sipper drf noun.person:sipper drf noun.act:sip
+hyper: drink3
+frame: 8
 g: drink in sips; "She was sipping her tea"
 
 w: skin_pop
-hyper: pop
-fr: 8
+hyper: pop1
+frame: 8
 g: inject (drugs) into the skin
 
-w: slop uses noun.food:slop drf noun.food:slop
-w: swill1 uses noun.food:swill drf noun.food:swill
-hyper: feed1
-fr: 8
+w: slop uses noun.food:slop1 drf noun.food:slop1
+w: swill uses noun.food:swill drf noun.food:swill
+hyper: feed6
+frame: 8
 g: feed pigs
 
 w: slurp
-hyper: eat
-fr: 2 8
+hyper: eat1
+frame: 2 8
 g: eat noisily; "He slurped his soup"
 
 w: smack
-hyper: verb.communication:utter2
-fr: 2
+hyper: verb.communication:utter
+frame: 2
 g: press (the lips) together and open (the lips) noisily, as in eating
 
 w: smoke event noun.act:smoke agent noun.person:smoker drf noun.act:smoke drf noun.artifact:smoke1 drf noun.artifact:smoke drf noun.person:smoker drf noun.act:smoking
 entail: verb.body:inhale
-entail: verb.body:exhale
-hyper: consume
-fr: 2 8
+entail: verb.body:exhale1
+hyper: consume3
+frame: 2 8
 g: inhale and exhale smoke from cigarettes, cigars, pipes; "We never smoked marijuana"; "Do you smoke?"
 
 w: souse agent noun.person:souse drf noun.person:souse
-w: soak agent noun.person:soaker drf noun.person:soaker
-w: inebriate state noun.state:inebriation event noun.state:inebriation1 agent noun.person:inebriate drf noun.state:inebriation1 drf noun.state:inebriation drf noun.person:inebriate
+w: soak1 agent noun.person:soaker drf noun.person:soaker
+w: inebriate1 state noun.state:inebriation1 event noun.state:inebriation agent noun.person:inebriate drf noun.state:inebriation drf noun.state:inebriation1 drf noun.person:inebriate
 w: hit_it_up
-hyper: drink1
-fr: 2
+hyper: drink2
+frame: 2
 g: become drunk or drink excessively
 
 w: sow_one's_oats
 w: sow_one's_wild_oats
 hyper: gratify
-fr: 2
+frame: 2
 g: live promiscuously and self-indulgently
 
 w: spare
-hyper: use
-fr: 8
+hyper: use2
+frame: 8
 g: use frugally or carefully
 
 w: spoonfeed drf noun.act:spoonfeeding
-hyper: feed1
-fr: 9
+hyper: feed6
+frame: 9
 g: feed with a spoon
 
 w: spree event noun.act:spree drf noun.act:spree
 hyper: gratify
-fr: 2
+frame: 2
 g: engage without restraint in an activity and indulge, as when shopping
 
-w: starve4
+w: starve2
 vg: starve3
-hyper: verb.possession:deprive
-fr: 8 9
+hyper: verb.possession:deprive1
+frame: 8 9
 g: deprive of a necessity and cause suffering; "he is starving her of love"; "The engine was starved of fuel"
 
-w: starve3 event noun.act:starvation drf noun.act:starvation drf noun.act:starving ant feed1
-w: famish3
-cause: starve
-hyper: verb.possession:deprive
-vg: starve4
-fr: 9
+w: starve3 event noun.act:starvation drf noun.act:starvation drf noun.act:starving ant feed6
+w: famish1
+cause: starve1
+hyper: verb.possession:deprive1
+vg: starve2
+frame: 9
 g: deprive of food; "They starved the prisoners"
 
-w: starve2
+w: starve4
 w: famish2
-hyper: verb.change:die
-fr: 1 2
+hyper: verb.change:die2
+frame: 1 2
 g: die of food deprivation; "The political prisoners starved to death"; "Many famished in the countryside during the drought"
 
-w: starve state noun.state:starvation drf noun.state:starvation ant be_full
-w: hunger event noun.state:hunger drf noun.state:hunger
+w: starve1 state noun.state:starvation drf noun.state:starvation ant be_full
+w: hunger1 event noun.state:hunger drf noun.state:hunger
 w: famish
-hyper: verb.body:suffer
-fr: 2 22
+hyper: verb.body:suffer2
+frame: 2 22
 g: be hungry; go without food; "Let's eat--I'm starving!"
 
-w: stomach drf noun.feeling:stomach
+w: stomach drf noun.feeling:stomach1
 hyper: digest
-fr: 8
+frame: 8
 g: bear to eat; "He cannot stomach raw fish"
 
-w: strain event noun.act:strain2 event noun.act:strain drf noun.act:strain drf noun.act:strain2 drf noun.act:straining1
+w: strain event noun.act:strain1 event noun.act:strain drf noun.act:strain drf noun.act:strain1 drf noun.act:straining1
 w: extend
 hyper: use1
-fr: 8 11
+frame: 8 11
 g: use to the utmost; exert vigorously or to full capacity; "He really extended himself when he climbed Kilimanjaro"; "Don't strain your mind too much"
 
 w: strip_mine location noun.artifact:strip_mine agent noun.person:strip_miner drf noun.person:strip_miner drf noun.artifact:strip_mine
 w: surface_mine
 w: surface-mine
 hyper: mine
-dt: noun.act:mining
-fr: 2 8
+dt: noun.act:mining1
+frame: 2 8
 g: extract (ore) from a strip-mine
 
-w: suck4 event noun.act:suction event noun.act:suck agent noun.person:sucker drf noun.act:suck drf noun.act:suction drf noun.person:sucker drf noun.act:sucking see suck_in
-hyper: drink
+w: suck1 event noun.act:suction event noun.act:suck agent noun.person:sucker drf noun.act:suck drf noun.act:suction drf noun.person:sucker drf noun.act:sucking see suck_in
+hyper: drink3
 vg: breastfeed
-fr: 8
+frame: 8
 g: draw into the mouth by creating a practical vacuum in the mouth; "suck the poison from the place where the snake bit"; "suck on a straw"; "the baby sucked on the mother's breast"
 
-w: suckle1
-entail: drink
-hyper: feed
-fr: 2
+w: suckle
+entail: drink3
+hyper: feed5
+frame: 2
 g: suck milk from the mother's breasts; "the infant was suckling happily"
 
-w: sup2 undergoer noun.food:sup event noun.group:supper event noun.food:supper drf noun.food:sup drf noun.group:supper drf noun.food:supper drf noun.act:supping
-hyper: consume
-fr: 8
+w: sup undergoer noun.food:sup event noun.group:supper event noun.food:supper drf noun.food:sup drf noun.group:supper drf noun.food:supper drf noun.act:supping
+hyper: consume3
+frame: 8
 g: take solid or liquid food into the mouth a little at a time either by drinking or by eating with a spoon
 
-w: surfeit event noun.state:surfeit1 event noun.act:surfeit drf noun.state:surfeit1 drf noun.act:surfeit
-hyper: indulge12
-fr: 8
+w: surfeit event noun.state:surfeit event noun.act:surfeit drf noun.state:surfeit drf noun.act:surfeit
+hyper: indulge
+frame: 8
 g: indulge (one's appetite) to satiety
 
-w: sustain by-means-of noun.possession:sustenance drf noun.possession:sustenance
+w: sustain1 by-means-of noun.possession:sustenance drf noun.possession:sustenance
 w: keep uses noun.possession:keep drf noun.possession:keep
-w: maintain uses noun.possession:maintenance event noun.act:maintenance1 drf noun.possession:maintenance drf noun.act:maintenance1
-hyper: verb.possession:have
-fr: 8 9 10 11
+w: maintain uses noun.possession:maintenance event noun.act:maintenance drf noun.possession:maintenance drf noun.act:maintenance
+hyper: verb.possession:have5
+frame: 8 9 10 11
 g: supply with necessities and support; "She alone sustained her family"; "The money will sustain our good cause"; "There's little to earn and many to keep"
 
 w: swallow event noun.act:swallow drf noun.act:swallow
 w: get_down
-hyper: consume
-fr: 8
+hyper: consume3
+frame: 8
 g: pass through the esophagus as part of eating or drinking; "Swallow the raw fish--it won't kill you!"
 
-w: swill drf noun.act:swilling
+w: swill1 drf noun.act:swilling
 w: swill_down
-hyper: drink
-fr: 8
+hyper: drink3
+frame: 8
 g: drink large quantities of (liquid, especially alcoholic drink)
 
-w: take_a_hit12 dt noun.artifact:drug fr 22
+w: take_a_hit dt noun.artifact:drug frame 22
 w: snort1
 hyper: drug
-fr: 8
+frame: 8
 g: inhale through the nose
 
 w: take_in_vain
 hyper: verb.change:pervert
-fr: 8
+frame: 8
 g: use a name, such as God, without proper respect
 
-w: take_in1
+w: take_in
 w: sop_up
 w: suck_in
 w: take_up
-hyper: consume
-fr: 8
+hyper: consume3
+frame: 8
 g: take up as if with a sponge
 
 w: take_out drf noun.food:takeout
 w: take_away drf noun.food:takeaway
-hyper: eat1
-fr: 8
+hyper: eat2
+frame: 8
 g: buy and consume food from a restaurant or establishment that sells prepared food; "We'll take out pizza, since I am too tired to cook"
 
 w: tank
-hyper: drink1
-fr: 2
+hyper: drink2
+frame: 2
 g: consume excessive amounts of alcohol
 
 w: tax
 w: task
 hyper: strain
-fr: 8
+frame: 8
 g: use to the limit; "you are taxing my patience"
 
 w: teetotal agent noun.person:teetotaller drf noun.person:teetotaller
 hyper: abstain
-fr: 2
+frame: 2
 g: practice teetotalism and abstain from the consumption of alcoholic beverages
 
 w: tipple undergoer noun.food:tipple agent noun.person:tippler drf noun.person:tippler drf noun.food:tipple
 w: bib
-hyper: drink1
-fr: 2
+hyper: drink2
+frame: 2
 g: drink moderately but regularly; "We tippled the cognac"
 
-w: toast event noun.food:toast1 drf noun.food:toast1
-w: drink12  fr 22
+w: toast event noun.food:toast drf noun.food:toast
+w: drink  frame 22
 w: pledge event noun.food:pledge drf noun.food:pledge
-w: salute event noun.communication:salute event noun.communication:salutation1 drf noun.communication:salute drf noun.communication:salutation1
+w: salute event noun.communication:salute event noun.communication:salutation drf noun.communication:salute drf noun.communication:salutation
 w: wassail agent noun.person:wassailer1 drf noun.food:wassail drf noun.person:wassailer1
-entail: drink1
+entail: drink2
 hyper: verb.social:honor
-fr: 8 9
+frame: 8 9
 g: propose a toast to; "Let us toast the birthday girl!"; "Let's drink to the New Year"
 
 w: toss_off
-w: pop2
-w: bolt_down1
+w: pop
+w: bolt_down
 w: belt_down
 w: pour_down
 w: down
 w: drink_down
 w: kill
-hyper: drink
-fr: 8
+hyper: drink3
+frame: 8
 g: drink down entirely; "He downed three martinis before dinner"; "She killed a bottle of brandy that night"; "They popped a few beer after work"
 
 w: trip event noun.state:trip drf noun.state:trip
 w: trip_out
 w: turn_on
 w: get_off
-fr: 2 13
+frame: 2 13
 g: get high, stoned, or drugged; "He trips every weekend"
 
 w: tuck_in
 w: tuck_away
 w: put_away
 hyper: eat_up
-entail: eat1
-fr: 8
+entail: eat2
+frame: 8
 g: eat up; usually refers to a considerable quantity of food; "My son tucked in a whole pizza"
 
 w: underlay
 hyper: provide
-fr: 8
+frame: 8
 g: provide with a base, support, lining, or backing; "underlay the boards with joists"
 
 w: undernourish state noun.state:undernourishment drf noun.state:undernourishment
 w: malnourish result noun.state:malnourishment drf noun.state:malnourishment
-hyper: feed1
-fr: 9
+hyper: feed6
+frame: 9
 g: provide with insufficient quality or quantity of nourishment; "The stunted growth of these children shows that they are undernourished"
 
-w: use event noun.process:use drf noun.process:use see use_up
+w: use2 event noun.process:use drf noun.process:use see use_up
 w: expend drf noun.act:expenditure1
-entail: consume1
-fr: 8 11
+entail: consume2
+frame: 8 11
 g: use up, consume fully; "The legislature expended its time on school questions"
 
-w: use2 event noun.act:use agent noun.person:user2 drf noun.act:use drf noun.person:user2
-w: habituate drf noun.cognition:habit drf noun.act:habit2
-hyper: consume
-fr: 8
+w: use event noun.act:use agent noun.person:user2 drf noun.act:use drf noun.person:user2
+w: habituate drf noun.cognition:habit drf noun.act:habit1
+hyper: consume3
+frame: 8
 g: take or consume (regularly or habitually); "She uses drugs rarely"
 
-w: use1 event noun.act:use agent noun.person:user drf adjs.all:useable drf adjs.all:useable drf adjs.all:useable drf adjs.all:usable drf adjs.all:usable drf adjs.all:usable drf noun.act:use drf noun.person:user drf noun.act:usage
+w: use1 event noun.act:use agent noun.person:user drf adjs.all:useable drf adjs.all:useable1 drf adjs.all:useable2 drf adjs.all:usable drf adjs.all:usable1 drf adjs.all:usable2 drf noun.act:use drf noun.person:user drf noun.act:usage
 w: utilize event noun.act:utilization agent noun.person:utilizer drf adjs.all:utilizable drf noun.act:utilization drf noun.person:utilizer drf noun.attribute:utility
 w: utilise event noun.act:utilisation drf noun.act:utilisation drf noun.attribute:utility
-w: apply event noun.act:application2 drf adjs.all:applicative drf adjs.all:applicatory drf noun.act:application2
+w: apply event noun.act:application drf adjs.all:applicative drf adjs.all:applicatory drf noun.act:application
 w: employ event noun.act:employment1 drf noun.act:employment1
 vg: verb.social:practice1
-cause: verb.stative:apply
-fr: 8 9 11 15 21 24
+cause: verb.stative:apply1
+frame: 8 9 11 15 21 24
 g: put into service; make work or employ for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't use this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer"
 
 w: victual undergoer noun.food:victual material noun.food:victual drf noun.food:victual
-hyper: eat1
-fr: 2
+hyper: eat2
+frame: 2
 g: take in nourishment
 
-w: wallow1
+w: wallow
 hyper: verb.social:indulge1
-fr: 8
+frame: 8
 g: devote oneself entirely to something; indulge in to an immoderate degree, usually with pleasure; "Wallow in luxury"; "wallow in your sorrows"
 
-w: wallow
+w: wallow1
 hyper: delight
-fr: 8
+frame: 8
 g: delight greatly in; "wallow in your success!"
 
 w: want undergoer noun.object:want event noun.state:want1 agent noun.person:wanter drf noun.person:wanter drf noun.state:want1 drf noun.object:want
-w: need state noun.state:need drf noun.state:need
+w: need1 state noun.state:need1 drf noun.state:need1
 w: require undergoer noun.object:requirement drf noun.object:requirement
-hyper: verb.stative:be3
-fr: 8 11
+hyper: verb.stative:be9
+frame: 8 11
 g: have need of; "This piano wants the attention of a competent tuner"
 
 w: wash_down
-hyper: eat
-fr: 8
+hyper: eat1
+frame: 8
 g: eat food accompanied by lots of liquid; also use metaphorically; "She washed down her dinner with a bottle of red wine"; "He washes down his worries with a nightly glass of whisky"
 
-w: waste5 property noun.attribute:waste event noun.act:waste drf noun.attribute:waste drf noun.act:waste
+w: waste property noun.attribute:waste event noun.act:waste1 drf noun.attribute:waste drf noun.act:waste1
 hyper: use1
-fr: 8 11
+frame: 8 11
 g: use inefficiently or inappropriately; "waste heat"; "waste a joke on an unappreciative audience"
 
 w: wean drf noun.act:weaning
 w: ablactate
 entail: breastfeed
-hyper: verb.possession:deprive
-fr: 9
+hyper: verb.possession:deprive1
+frame: 9
 g: gradually deprive (infants and young mammals) of mother's milk; "she weaned her baby when he was 3 months old and started him on powdered milk"; "The kitten was weaned and fed by its owner with a bottle"
 
 w: wine undergoer noun.food:wine drf noun.food:wine drf noun.artifact:winery
-hyper: drink1
-fr: 2
+hyper: drink2
+frame: 2
 g: drink wine
 
 w: wine1 undergoer noun.food:wine drf noun.food:wine drf noun.artifact:winery
 hyper: regale
-fr: 9
+frame: 9
 g: treat to wine; "Our relatives in Italy wined and dined us for a week"
 
 w: wine_and_dine
-entail: eat1
-entail: drink1
-hyper: feast
-fr: 2 22
+entail: eat2
+entail: drink2
+hyper: feast1
+frame: 2 22
 g: eat sumptuously; "we wined and dined in Paris"
 
 w: wine_and_dine1
 hyper: host
-fr: 9
+frame: 9
 g: provide with food and drink, usually lavishly
 
 w: wolf
 w: wolf_down
-hyper: eat
-fr: 8
+hyper: eat1
+frame: 8
 g: eat hastily; "The teenager wolfed down the pizza"
 
 w: work_through
-w: run_through1 drf noun.act:run-through
+w: run_through drf noun.act:run-through
 w: go_through1
-hyper: verb.social:work2
-fr: 8
+hyper: verb.social:work5
+frame: 8
 g: apply thoroughly; think through; "We worked through an example"
 

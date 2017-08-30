@@ -2,12 +2,12 @@ w: absolute_space
 hyper: space
 g: physical space independent of what occupies it
 
-w: abstraction drf verb.cognition:abstract
+w: abstraction drf verb.cognition:abstract1
 w: abstract_entity
 hyper: entity
 g: a general concept formed by extracting common features from specific examples
 
-w: act drf verb.creation:actuate2 drf verb.creation:actuate drf verb.social:act
+w: act drf verb.creation:actuate drf verb.creation:actuate1 drf verb.social:act2
 w: deed
 w: human_action
 w: human_activity
@@ -16,9 +16,9 @@ g: something that people do or cause to happen
 
 w: animal drf verb.creation:animalize drf verb.creation:animalise
 w: animate_being
-w: beast drf adjs.all:beastly drf adjs.all:bestial
+w: beast drf adjs.all:beastly1 drf adjs.all:bestial
 w: brute
-w: creature drf verb.creation:create
+w: creature drf verb.creation:create4
 w: fauna
 hyper: organism
 hm: noun.animal:Animalia
@@ -63,7 +63,7 @@ w: noesis drf adjs.all:noetic
 hyper: psychological_feature
 g: the psychological result of perception and learning and reasoning
 
-w: communication drf adjs.all:communicational drf verb.possession:communicate10 drf verb.communication:communicate8 drf verb.communication:communicate7 drf verb.communication:communicate2 drf verb.communication:communicate1 drf verb.communication:communicate
+w: communication drf adjs.all:communicational drf verb.possession:communicate drf verb.communication:communicate1 drf verb.communication:communicate2 drf verb.communication:communicate drf verb.communication:communicate3 drf verb.communication:communicate4
 hyper: abstraction
 g: something that is communicated by or to or between people or groups
 
@@ -87,8 +87,8 @@ hyper: state
 g: the experiencing of affective and emotional states; "she had a feeling of euphoria"; "he had terrible feelings of guilt"; "I disliked him and the feeling was mutual"
 
 w: food
-w: nutrient drf adjs.all:nutrient drf verb.consumption:nutrify
-hyper: substance1
+w: nutrient1 drf adjs.all:nutrient drf verb.consumption:nutrify
+hyper: substance
 g: any substance that can be metabolized by an animal to give energy and build tissue
 
 w: group drf verb.competition:group drf verb.cognition:group
@@ -109,7 +109,7 @@ w: animate_thing
 hyper: whole
 g: a living (or once living) entity
 
-w: location drf verb.stative:locate drf verb.possession:locate1 drf verb.possession:locate drf verb.change:locate
+w: location drf verb.stative:locate drf verb.possession:locate drf verb.possession:locate1 drf verb.change:locate
 hyper: object
 hp: space
 g: a point or extent in space
@@ -118,16 +118,16 @@ w: matter
 hyper: physical_entity
 g: that which has mass and occupies space; "physicists study both the nature of matter and the forces which govern it"
 
-w: measure drf verb.cognition:measure1 drf verb.change:measure drf verb.cognition:measure
+w: measure drf verb.cognition:measure drf verb.change:measure drf verb.cognition:measure1
 w: quantity
 w: amount drf verb.stative:amount1
 hyper: abstraction
-attr: adj.all:standard2
-attr: adj.all:nonstandard2
+attr: adj.all:standard1
+attr: adj.all:nonstandard1
 g: how much there is or how many there are of something that you can quantify
 
 w: motivation drf adj.pert:motivational drf verb.creation:motivate
-w: motive drf adjs.all:motive2 drf verb.creation:motivate
+w: motive drf adjs.all:motive1 drf verb.creation:motivate
 w: need
 hyper: psychological_feature
 g: the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior; "we did not understand his motivation"; "he acted with the best of motives"
@@ -140,17 +140,17 @@ w: natural_object ant artifact
 hyper: whole
 g: an object occurring naturally; not made by man
 
-w: nutrient1
-hyper: substance1
+w: nutrient
+hyper: substance
 g: any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis
 
-w: object drf verb.change:objectify1
+w: object drf verb.change:objectify
 w: physical_object
 hyper: physical_entity
 g: a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects"
 
-w: organism drf adj.pert:organismic drf adj.all:organic2 drf adj.all:organic
-w: being drf verb.stative:be1
+w: organism drf adj.pert:organismic drf adj.all:organic drf adj.all:organic2
+w: being drf verb.stative:be8
 hyper: living_thing
 g: a living thing that has (or can develop) the ability to act or function independently
 
@@ -166,12 +166,12 @@ w: mortal drf adj.all:mortal
 w: soul
 hyper: organism
 hyper: causal_agent
-hm: noun.group:people
+hm: noun.group:people3
 g: a human being; "there was too much for one person to do"
 
 w: phase_space
 hyper: space
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) an ideal space in which the coordinate dimensions represent the variables that are required to describe a system or substance; "a multidimensional phase space"
 
 w: phenomenon
@@ -183,7 +183,7 @@ hyper: entity
 g: an entity that has physical existence
 
 w: plant drf adj.pert:plantal drf noun.plant:plantlet drf verb.contact:plant
-w: flora drf adj.pert:floral
+w: flora drf adj.pert:floral1
 w: plant_life
 hyper: organism
 hm: noun.plant:Plantae
@@ -203,7 +203,7 @@ w: psychological_feature
 hyper: abstraction
 g: a feature of the mental life of a living organism
 
-w: relation drf noun.state:relationship drf noun.relation:relationship1 drf noun.relation:relationship drf verb.stative:relate1 drf verb.cognition:relate
+w: relation drf noun.state:relationship1 drf noun.relation:relationship drf noun.relation:relationship1 drf verb.stative:relate drf verb.cognition:relate
 hyper: abstraction
 g: an abstraction belonging to or characteristic of two entities or parts together
 
@@ -225,11 +225,11 @@ w: state
 hyper: attribute
 g: the way something is with respect to its main attributes; "the current state of knowledge"; "his state of health"; "in a weak financial state"
 
-w: substance1
+w: substance
 hyper: matter
 g: a particular kind or species of matter with uniform properties; "shigella is one of the most toxic substances known to man"
 
-w: substance drf adj.all:substantial
+w: substance1 drf adj.all:substantial
 hyper: matter
 hyper: noun.relation:part
 g: the real physical matter of which a person or thing consists; "DNA is the substance of our genes"
@@ -242,7 +242,7 @@ w: time
 hyper: attribute
 g: the continuum of experience in which events pass from the future through the present to the past
 
-w: whole drf adjs.all:whole
+w: whole drf adjs.all:whole2
 w: unit drf verb.contact:unify drf verb.change:unify drf verb.contact:unitize drf verb.change:unitize
 hyper: object
 g: an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit"

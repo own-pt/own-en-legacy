@@ -1,253 +1,253 @@
 w: absorb event noun.process:absorption2 drf adj.all:absorptive drf adj.all:absorbent drf adj.all:absorbable drf noun.process:absorption2 ant emit
 w: take_in
-fr: 8 11
+frame: 8 11
 g: suck or take up or in; "A black star absorbs all matter"
 
 w: black_out
 hyper: snuff_out
-fr: 8 11
+frame: 8 11
 g: obliterate or extinguish; "Some life-forms were obliterated by the radiation, others survived"
 
-w: blaze1 event noun.attribute:blaze drf noun.attribute:blaze
-hyper: shine
-fr: 1
+w: blaze event noun.attribute:blaze drf noun.attribute:blaze
+hyper: shine1
+frame: 1
 g: shine brightly and intensively; "Meteors blazed across the atmosphere"
 
-w: blaze by-means-of noun.process:blaze drf noun.process:blaze see blaze_up
-hyper: verb.change:burn
-fr: 1
+w: blaze1 by-means-of noun.process:blaze drf noun.process:blaze see blaze_up
+hyper: verb.change:burn2
+frame: 1
 g: burn brightly and intensely; "The summer sun alone can cause a pine to blaze"
 
 w: blight state noun.state:blight event noun.state:blight1 drf noun.state:blight1 drf noun.state:blight
 w: plague event noun.state:plague1 event noun.state:plague event noun.group:plague drf noun.group:plague drf noun.state:plague1 drf noun.state:plague
 hyper: verb.change:afflict
-fr: 10 11
+frame: 10 11
 g: cause to suffer a blight; "Too much rain may blight the garden with mold"
 
 w: blow event noun.phenomenon:blow drf noun.phenomenon:blow
-fr: 1 3 4
+frame: 1 3 4
 g: be blowing or storming; "The wind blew from the West"
 
 w: blow_out1
 hyper: erupt
-fr: 1
+frame: 1
 g: erupt in an uncontrolled manner; "The oil well blew out"
 
 w: bluster event noun.phenomenon:bluster drf noun.phenomenon:bluster
 hyper: blow
-fr: 3
+frame: 3
 g: blow hard; be gusty, as of wind; "A southeaster blustered onshore"; "The flames blustered"
 
 w: breeze event noun.phenomenon:breeze drf noun.phenomenon:breeze
 hyper: blow
-fr: 1 3 4
+frame: 1 3 4
 g: blow gently and lightly; "It breezes most evenings at the shore"
 
-w: burn2 drf adjs.all:burnable
-w: combust2 event noun.act:combustion drf adj.all:combustible drf adjs.all:combustive drf noun.act:combustion
-cause: verb.change:burn
+w: burn1 drf adjs.all:burnable
+w: combust event noun.act:combustion drf adj.all:combustible drf adjs.all:combustive drf noun.act:combustion
+cause: verb.change:burn2
 vg: erupt
-fr: 8 11
+frame: 8 11
 g: cause to burn or combust; "The sun burned off the fog"; "We combust coal and other fossil fuels"
 
-w: burn1
+w: burn
 w: glow event noun.phenomenon:glow drf noun.phenomenon:glow
-hyper: shine
-fr: 1
+hyper: shine1
+frame: 1
 g: shine intensely, as if with heat; "The coals were glowing in the dark"; "The candles were burning"
 
-w: catch4
+w: catch
 hyper: erupt
-fr: 1
+frame: 1
 g: start burning; "The fire caught"
 
 w: char result noun.substance:char drf noun.substance:char
 w: coal result noun.substance:coal result noun.object:coal drf noun.substance:coal drf noun.object:coal
-hyper: burn2
-fr: 8
+hyper: burn1
+frame: 8
 g: burn to charcoal; "Without a drenching rain, the forest fire will char everything"
 
 w: clear_up ant overcast
 w: clear
 w: light_up
 w: brighten
-fr: 1 3
+frame: 1 3
 g: become clear; "The sky cleared after the storm"
 
 w: deflagrate event noun.process:deflagration drf noun.process:deflagration
-hyper: burn2
-fr: 8 11
+hyper: burn1
+frame: 8 11
 g: cause to burn rapidly and with great intensity; "care must be exercised when this substance is to be deflagrated"
 
 w: douse
 w: put_out
 hyper: snuff_out
-fr: 8
+frame: 8
 g: put out, as of a candle or a light; "Douse the lights"
 
 w: drizzle event noun.phenomenon:drizzle drf noun.phenomenon:drizzle
 w: mizzle event noun.phenomenon:mizzle drf noun.phenomenon:mizzle
 hyper: rain
-fr: 3
+frame: 3
 g: rain lightly; "When it drizzles in summer, hiking can be pleasant"
 
 w: emit event noun.act:emission by-means-of noun.artifact:emitter drf noun.act:emission drf noun.artifact:emitter ant absorb
 w: give_out
 w: give_off
-fr: 8 11
+frame: 8 11
 g: give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.; "The ozone layer blocks some harmful rays which the sun emits"
 
 w: erupt
-w: ignite1 event noun.act:ignition drf adjs.all:ignitible drf adjs.all:ignitable drf noun.act:ignition
+w: ignite event noun.act:ignition drf adjs.all:ignitible drf adjs.all:ignitable drf noun.act:ignition
 w: catch_fire
 w: take_fire
-w: combust drf adj.all:combustible drf adjs.all:combustive
-w: conflagrate
+w: combust1 drf adj.all:combustible drf adjs.all:combustive
+w: conflagrate1
 hyper: verb.change:change_state
-vg: burn2
-fr: 1
+vg: burn1
+frame: 1
 g: start to burn or burst into flames; "Marsh gases ignited suddenly"; "The oily rags combusted spontaneously"
 
-w: flame event noun.process:flame drf noun.process:flame drf noun.process:flaming
-hyper: verb.change:burn
-fr: 1
+w: flame1 event noun.process:flame drf noun.process:flame drf noun.process:flaming
+hyper: verb.change:burn2
+frame: 1
 g: be in flames or aflame; "The sky seemed to flame in the Hawaiian sunset"
 
 w: flare_up
-hyper: ignite
-fr: 1
+hyper: ignite1
+frame: 1
 g: ignite quickly and suddenly, especially after having died down; "the fire flared up and died down once again"
 
-w: flare1 event noun.process:flare drf noun.process:flare
-w: flame1 see flame_up
-hyper: shine
-fr: 1
+w: flare event noun.process:flare drf noun.process:flare
+w: flame see flame_up
+hyper: shine1
+frame: 1
 g: shine with a sudden light; "The night sky flared with the massive bombardment"
 
-w: flare event noun.process:flare drf noun.process:flare
+w: flare1 event noun.process:flare drf noun.process:flare
 w: flame_up
 w: blaze_up
 w: burn_up
-hyper: verb.change:burn
-fr: 1
+hyper: verb.change:burn2
+frame: 1
 g: burn brightly; "Every star seemed to flare with new intensity"
 
 w: flicker event noun.event:flicker drf noun.event:flicker
 w: flick
-hyper: shine
-fr: 1
+hyper: shine1
+frame: 1
 g: shine unsteadily; "The candle flickered"
 
 w: fog_up
 hyper: overcast
-fr: 1 3
+frame: 1 3
 g: get foggy; "The windshield fogged up"
 
-w: freeze10 by-means-of noun.phenomenon:freeze drf noun.phenomenon:freeze drf noun.process:freezing
-fr: 3
+w: freeze by-means-of noun.phenomenon:freeze drf noun.phenomenon:freeze drf noun.process:freezing
+frame: 3
 g: be very cold, below the freezing point; "It is freezing in Kalamazoo"
 
 w: fume undergoer noun.phenomenon:fume drf noun.phenomenon:fume
 w: smoke event noun.process:smoke event noun.phenomenon:smoke drf noun.process:smoke drf noun.phenomenon:smoke drf noun.process:smoking
 hyper: emit
-fr: 1
+frame: 1
 g: emit a cloud of fine particles; "The chimney was fuming"
 
-w: glare1
+w: glare
 hyper: reflect
-fr: 1
+frame: 1
 g: be sharply reflected; "The moon glared back at itself from the lake's surface"
 
 w: gutter
-hyper: burn1
-fr: 1
+hyper: burn
+frame: 1
 g: burn unsteadily, feebly, or low; flicker; "The cooling lava continued to gutter toward lower ground"
 
 w: hail event noun.phenomenon:hail drf noun.phenomenon:hail
 hyper: precipitate
-fr: 3
+frame: 3
 g: precipitate as small ice particles; "It hailed for an hour"
 
 w: haze event noun.phenomenon:haze drf noun.phenomenon:haze
 hyper: overcast
-fr: 1
+frame: 1
 g: become hazy, dull, or cloudy
 
 w: ice_up
 w: frost_over
 w: ice_over
-entail: freeze10
-hyper: verb.change:change
-fr: 1 3
+entail: freeze
+hyper: verb.change:change7
+frame: 1 3
 g: become covered with a layer of ice; of a surface such as a window; "When the wings iced up, the pilot was forced to land his plane"
 
-w: ignite material noun.substance:ignitor material noun.substance:igniter instrument noun.artifact:ignitor instrument noun.artifact:igniter event noun.process:ignition event noun.act:ignition drf adjs.all:ignitible drf adjs.all:ignitable drf noun.process:ignition drf noun.act:ignition drf noun.substance:igniter drf noun.artifact:igniter drf noun.substance:ignitor drf noun.artifact:ignitor ant extinguish
-w: light material noun.substance:lighter instrument noun.artifact:lighter instrument noun.artifact:light1 drf noun.artifact:light1 drf noun.substance:lighter drf noun.artifact:lighter
-cause: verb.change:burn
-hyper: burn2
-fr: 8 11
+w: ignite1 material noun.substance:ignitor material noun.substance:igniter instrument noun.artifact:ignitor instrument noun.artifact:igniter event noun.process:ignition event noun.act:ignition drf adjs.all:ignitible drf adjs.all:ignitable drf noun.process:ignition drf noun.act:ignition drf noun.substance:igniter drf noun.artifact:igniter drf noun.substance:ignitor drf noun.artifact:ignitor ant extinguish
+w: light material noun.substance:lighter instrument noun.artifact:lighter instrument noun.artifact:light drf noun.artifact:light drf noun.substance:lighter drf noun.artifact:lighter
+cause: verb.change:burn2
+hyper: burn1
+frame: 8 11
 g: cause to start burning; subject to fire or great heat; "Great heat can ignite almost any dry matter"; "Light a cigarette"
 
-w: kindle
+w: kindle1
 w: enkindle
-w: conflagrate1
-w: inflame event noun.act:inflammation1 drf noun.act:inflammation1
-hyper: ignite
-fr: 8 11
+w: conflagrate
+w: inflame1 event noun.act:inflammation1 drf noun.act:inflammation1
+hyper: ignite1
+frame: 8 11
 g: cause to start burning; "The setting sun kindled the sky with oranges and reds"
 
-w: kindle1 drf noun.substance:kindling drf noun.act:kindling
-w: inflame1 event noun.act:inflammation1 drf noun.act:inflammation1
+w: kindle drf noun.substance:kindling drf noun.act:kindling
+w: inflame event noun.act:inflammation1 drf noun.act:inflammation1
 hyper: flare_up
-fr: 1
+frame: 1
 g: catch fire; "The dried grass of the prairie kindled, spreading the flames for miles"
 
-w: light_up2
-hyper: ignite
-fr: 1
+w: light_up1
+hyper: ignite1
+frame: 1
 g: ignite; "The sky lit up quickly above the raging volcano"
 
-w: light_up1
+w: light_up2
 hyper: erupt
-fr: 1
+frame: 1
 g: start to burn with a bright flame; "The coal in the BBQ grill finally lit up"
 
 w: liquefy event noun.process:liquefaction drf adjs.all:liquefiable drf noun.process:liquefaction
 hyper: verb.change:change_state
-fr: 1
+frame: 1
 g: become liquid; "The garden air overnight liquefied into a morning dew"
 
 w: luminesce result noun.phenomenon:luminescence event noun.attribute:luminescence drf adjs.all:luminescent drf noun.phenomenon:luminescence drf noun.attribute:luminescence
 hyper: reflect
-fr: 1
+frame: 1
 g: be or become luminescent; exhibit luminescence
 
 w: mirror result noun.cognition:mirror by-means-of noun.artifact:mirror drf noun.cognition:mirror drf noun.artifact:mirror
-hyper: verb.perception:reflect
-fr: 10 11
+hyper: verb.perception:reflect2
+frame: 10 11
 g: reflect as if in a mirror; "The smallest pond at night mirrors the firmament above"
 
 w: opalesce property noun.attribute:opalescence drf adjs.all:opalescent drf noun.attribute:opalescence
 hyper: reflect
-fr: 1
+frame: 1
 g: reflect light or colors like an opal; "Distant clouds opalesce like pale brocade"; "raindrops caught in a sunbeam seem to opalesce"
 
 w: outshine
-hyper: shine
-fr: 11
+hyper: shine1
+frame: 11
 g: shine brighter than; "What star outshines the sun?"
 
 w: overcast event noun.state:overcast1 event noun.state:overcast drf noun.state:overcast1 drf noun.state:overcast ant clear_up
 w: cloud by-means-of noun.object:cloud drf noun.object:cloud drf noun.process:clouding see cloud_over see cloud_up
 hyper: verb.change:darken1
-fr: 11
+frame: 11
 g: make overcast or cloudy; "Fall weather often overcasts our beaches"
 
 w: overcloud
 w: cloud_over
 w: cloud_up
 hyper: verb.change:darken
-fr: 1 3
+frame: 1 3
 g: become covered with clouds; "The sky clouded over"
 
 w: pour
@@ -256,157 +256,157 @@ w: stream
 w: rain_cats_and_dogs
 w: rain_buckets
 hyper: rain
-fr: 3
+frame: 3
 g: rain heavily; "Put on your rain coat-- it's pouring outside!"
 
 w: precipitate event noun.quantity:precipitation event noun.phenomenon:precipitation drf noun.quantity:precipitation drf noun.phenomenon:precipitation
 w: come_down
 w: fall
-entail: verb.change:condense1
-vg: verb.motion:fall3
-fr: 1 8
+entail: verb.change:condense5
+vg: verb.motion:fall4
+frame: 1 8
 g: fall from clouds; "rain, snow and sleet were falling"; "Vesuvius precipitated its fiery, destructive rage on Herculaneum"
 
 w: radiate property noun.attribute:radiance event noun.phenomenon:radiation drf adjs.all:radiant drf noun.phenomenon:radiation drf noun.attribute:radiancy drf noun.attribute:radiance
 hyper: emit
-fr: 1 11
+frame: 1 11
 g: send out rays or waves; "The sun radiates heat"
 
 w: rain event noun.substance:rain event noun.phenomenon:rain drf noun.substance:rain drf noun.phenomenon:rain
 w: rain_down
 hyper: precipitate
-fr: 3 11
+frame: 3 11
 g: precipitate as rain; "If it rains much more, we can expect some flooding"
 
-w: ray event noun.phenomenon:ray drf noun.phenomenon:ray
+w: ray event noun.phenomenon:ray1 drf noun.phenomenon:ray1
 hyper: emit
-fr: 11
+frame: 11
 g: emit as rays; "That tower rays a laser beam for miles across the sky"
 
 w: reek
 hyper: emit
-fr: 1
+frame: 1
 g: give off smoke, fumes, warm vapour, steam, etc.; "Marshes reeking in the sun"
 
 w: reflect drf adj.all:reflective
-w: shine1 property noun.attribute:shine by-means-of noun.object:shiner drf noun.object:shiner drf noun.attribute:shine
+w: shine property noun.attribute:shine by-means-of noun.object:shiner drf noun.object:shiner drf noun.attribute:shine
 hyper: emit
-fr: 1
+frame: 1
 g: be bright by reflecting or casting light; "Drive carefully--the wet road reflects"
 
 w: reignite
-hyper: ignite
-fr: 8
+hyper: ignite1
+frame: 8
 g: ignite anew, as of something burning; "The strong winds reignited the cooling embers"
 
 w: rekindle
-hyper: kindle
-fr: 8
+hyper: kindle1
+frame: 8
 g: kindle anew, as of a fire
 
 w: run_dry
-w: dry_out1
+w: dry_out
 hyper: verb.change:dry
-fr: 1
+frame: 1
 g: become empty of water; "The river runs dry in the summer"
 
-w: scintillate1 event noun.event:scintillation drf noun.event:scintillation
+w: scintillate event noun.event:scintillation drf noun.event:scintillation
 vg: twinkle
 hyper: emit
-fr: 11
+frame: 11
 g: give off; "the substance scintillated sparks and flashes"
 
 w: set_ablaze
 w: set_aflame
-w: set_on_fire1
+w: set_on_fire
 w: set_afire
-entail: ignite
-hyper: burn2
-fr: 8 11
+entail: ignite1
+hyper: burn1
+frame: 8 11
 g: set fire to; cause to start burning; "Lightening set fire to the forest"
 
 w: set_in
 hyper: blow
-fr: 1
+frame: 1
 g: blow toward the shore; "That gale could set in on us with the next high tide"
 
-w: shadow result noun.state:shadow1 result noun.location:shadow drf noun.location:shadow drf noun.state:shadow1
+w: shadow result noun.state:shadow result noun.location:shadow drf noun.location:shadow drf noun.state:shadow
 w: shade event noun.state:shade drf noun.state:shade
 w: shade_off
 hyper: verb.change:darken1
-fr: 9 10 11
+frame: 9 10 11
 g: cast a shadow over
 
 w: sheet
 hyper: pour
-fr: 3
+frame: 3
 g: come down as if in sheets; "The rain was sheeting down during the monsoon"
 
 w: shimmer event noun.event:shimmer drf noun.event:shimmer
-hyper: shine
-fr: 1
+hyper: shine1
+frame: 1
 g: shine with a weak or fitful light; "Beech leaves shimmered in the moonlight"
 
-w: shine3 uses noun.attribute:shine drf noun.attribute:shine
-cause: shine
-fr: 8 21
+w: shine2 uses noun.attribute:shine drf noun.attribute:shine
+cause: shine1
+frame: 8 21
 g: throw or flash the light of (a lamp); "Shine the light on that window, please"
 
-w: shine uses noun.attribute:shine drf noun.attribute:shine
-w: beam3 undergoer noun.phenomenon:beam drf noun.phenomenon:beam
-fr: 1
+w: shine1 uses noun.attribute:shine drf noun.attribute:shine
+w: beam undergoer noun.phenomenon:beam1 drf noun.phenomenon:beam1
+frame: 1
 g: emit light; be bright, as of the sun or a light; "The sun shone bright that day"; "The fire beamed on their faces"
 
 w: shoot
 hyper: emit
-fr: 11
+frame: 11
 g: emit (as light, flame, or fumes) suddenly and forcefully; "The dragon shot fumes and flames out of its mouth"
 
 w: shower event noun.phenomenon:shower event noun.event:shower drf noun.phenomenon:shower drf noun.event:shower
 w: shower_down
 hyper: rain
-fr: 3
+frame: 3
 g: rain abundantly; "Meteors showered down over half of Australia"
 
 w: sleet event noun.phenomenon:sleet drf noun.phenomenon:sleet
 hyper: precipitate
-fr: 3
+frame: 3
 g: precipitate as a mixture of rain and snow; "If the temperature rises above freezing, it will probably sleet"
 
 w: sluice by-means-of noun.artifact:sluice drf noun.artifact:sluice
 w: sluice_down
 hyper: pour
-fr: 1 4
+frame: 1 4
 g: pour as if from a sluice; "An aggressive tide sluiced across the barrier reef"
 
 w: snow result noun.substance:snow event noun.phenomenon:snow drf noun.substance:snow drf noun.phenomenon:snow
 hyper: precipitate
-fr: 3
+frame: 3
 g: fall as snow; "It was snowing all night"
 
 w: snuff_out
 w: blow_out
-w: extinguish instrument noun.artifact:extinguisher event noun.act:extinction1 drf noun.act:extinction1 drf noun.artifact:extinguisher drf noun.act:extinguishing ant ignite
+w: extinguish instrument noun.artifact:extinguisher event noun.act:extinction drf noun.act:extinction drf noun.artifact:extinguisher drf noun.act:extinguishing ant ignite1
 w: quench drf noun.act:quenching
-fr: 8 11
+frame: 8 11
 g: put out, as of fires, flames, or lights; "Too big to be extinguished at once, the forest fires at best could be contained"; "quench the flames"; "snuff out the candles"
 
-w: sparkle property noun.attribute:sparkle event noun.event:sparkle by-means-of noun.possession:sparkler drf noun.attribute:sparkle drf noun.event:sparkle drf noun.possession:sparkler drf noun.event:sparkling
-w: scintillate3 property noun.attribute:scintillation drf adjs.all:scintillant drf noun.attribute:scintillation
+w: sparkle1 property noun.attribute:sparkle1 event noun.event:sparkle by-means-of noun.possession:sparkler drf noun.attribute:sparkle1 drf noun.event:sparkle drf noun.possession:sparkler drf noun.event:sparkling
+w: scintillate1 property noun.attribute:scintillation drf adjs.all:scintillant drf noun.attribute:scintillation
 w: coruscate event noun.event:coruscation drf adjs.all:coruscant drf noun.event:coruscation
 hyper: reflect
-fr: 1
+frame: 1
 g: reflect brightly; "Unquarried marble sparkled on the hillside"
 
-w: spark result noun.object:spark event noun.event:spark1 drf noun.object:spark drf noun.phenomenon:spark drf noun.event:spark1
-w: sparkle2 event noun.event:sparkle drf noun.event:sparkle
+w: spark result noun.object:spark event noun.event:spark drf noun.object:spark drf noun.phenomenon:spark drf noun.event:spark
+w: sparkle event noun.event:sparkle drf noun.event:sparkle
 hyper: emit
-fr: 1
+frame: 1
 g: emit or produce sparks; "A high tension wire, brought down by a storm, can continue to spark"
 
 w: spat
 hyper: precipitate
-fr: 1
+frame: 1
 g: come down like raindrops; "Bullets were spatting down on us"
 
 w: sprinkle event noun.phenomenon:sprinkle drf noun.phenomenon:sprinkle drf noun.phenomenon:sprinkling
@@ -415,58 +415,58 @@ w: spatter
 w: patter
 w: pitter-patter
 hyper: rain
-fr: 3
+frame: 3
 g: rain gently; "It has only sprinkled, but the roads are slick"
 
 w: squall event noun.phenomenon:squall drf noun.phenomenon:squall
 hyper: blow
-fr: 1
+frame: 1
 g: blow in a squall; "When it squalls, a prudent sailor reefs his sails"
 
 w: steam
 hyper: emit
-fr: 1 2
+frame: 1 2
 g: emit steam; "The rain forest was literally steaming"
 
-w: storm1 event noun.phenomenon:storm drf noun.phenomenon:storm
+w: storm event noun.phenomenon:storm drf noun.phenomenon:storm
 entail: rain
-fr: 3
+frame: 3
 g: rain, hail, or snow hard and be very windy, often with thunder or lightning; "If it storms, we'll need shelter"
 
-w: storm event noun.phenomenon:storm drf noun.phenomenon:storm
+w: storm1 event noun.phenomenon:storm drf noun.phenomenon:storm
 hyper: blow
-fr: 3
+frame: 3
 g: blow hard; "It was storming all night"
 
 w: suck event noun.act:suction event noun.act:suck drf noun.act:suck drf noun.act:suction
 w: suck_in
 hyper: absorb
-fr: 11
+frame: 11
 g: attract by using an inexorable force, inducement, etc.; "The current boom in the economy sucked many workers in from abroad"
 
 w: swamp location noun.object:swamp drf noun.object:swamp
 w: drench
-hyper: verb.change:flood
-fr: 1 11
+hyper: verb.change:flood1
+frame: 1 11
 g: drench or submerge or be drenched or submerged; "The tsunami swamped every boat in the harbor"
 
-w: thunder result noun.event:thunder1 event noun.event:thunder1 drf noun.event:thunder1
+w: thunder result noun.event:thunder event noun.event:thunder drf noun.event:thunder
 w: boom
-entail: storm
-fr: 3
+entail: storm1
+frame: 3
 g: be the case that thunder is being heard; "Whenever it thunders, my dog crawls under the bed"
 
 w: twinkle event noun.event:twinkle by-means-of noun.object:twinkler drf noun.event:twinkle drf noun.object:twinkler
 w: winkle
-w: scintillate event noun.attribute:scintillation1 drf adjs.all:scintillant drf noun.attribute:scintillation1 drf noun.object:scintilla
-hyper: shine
+w: scintillate2 event noun.attribute:scintillation1 drf adjs.all:scintillant drf noun.attribute:scintillation1 drf noun.object:scintilla
+hyper: shine1
 dt: noun.object:celestial_body
-vg: scintillate1
-fr: 1
+vg: scintillate
+frame: 1
 g: emit or reflect light in a flickering manner; "Does a constellation twinkle more brightly than a single star?"
 
 w: waft
 hyper: blow
-fr: 1 4
+frame: 1 4
 g: blow gently; "A breeze wafted through the door"
 

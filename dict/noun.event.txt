@@ -2,20 +2,20 @@ w: abiotrophy
 hyper: degeneration
 g: a loss of vitality and a degeneration of cells and tissues not due to any apparent injury
 
-w: accident1
+w: accident
 hyper: mishap
 g: an unfortunate mishap; especially one causing damage or injury
 
-w: accident drf adjs.all:accidental
+w: accident1 drf adjs.all:accidental
 w: stroke2
 w: fortuity
 w: chance_event
 hyper: happening
 g: anything that happens suddenly or by chance without an apparent cause; "winning the lottery was a happy accident"; "the pregnancy was a stroke of bad luck"; "it was due to an accident or fortuity"
 
-w: accompaniment drf verb.stative:accompany
+w: accompaniment drf verb.stative:accompany1
 w: concomitant
-w: attendant drf adjs.all:attendant
+w: attendant drf adjs.all:attendant1
 w: co-occurrence drf adjs.all:co-occurrent drf verb.stative:cooccur
 hyper: happening
 g: an event or situation that happens at the same time as or in connection with another
@@ -36,8 +36,8 @@ w: adaptive_radiation
 hyper: radiation
 g: the development of many different forms from an originally homogeneous group of organisms as they fill different ecological niches
 
-w: adjustment drf verb.change:adjust1
-w: accommodation drf verb.stative:accommodate drf verb.change:accommodate1 drf verb.change:accommodate
+w: adjustment drf verb.change:adjust3
+w: accommodation drf verb.stative:accommodate1 drf verb.change:accommodate drf verb.change:accommodate1
 w: fitting drf verb.change:fit1 drf verb.change:fit
 hyper: improvement
 g: making or becoming suitable; adjusting to circumstances
@@ -51,7 +51,7 @@ hyper: misfortune
 g: a stroke of ill fortune; a calamitous event; "a period marked by adversities"
 
 w: affair
-w: occasion1
+w: occasion
 w: social_occasion
 w: function
 w: social_function
@@ -59,7 +59,7 @@ hyper: social_event
 g: a vaguely specified social event; "the party was quite an affair"; "an occasion arranged to honor the president"; "a seemingly endless round of social functions"
 
 w: affliction drf verb.emotion:afflict
-hyper: trouble
+hyper: trouble1
 g: a cause of great suffering and distress
 
 w: aftershock
@@ -71,7 +71,7 @@ hyper: sound_wave
 g: a sound wave that is transmitted via air
 
 w: airburst
-hyper: explosion
+hyper: explosion2
 g: an explosion in the atmosphere
 
 w: airflow
@@ -90,7 +90,7 @@ hyper: cross-fertilization
 g: cross-fertilization in plants
 
 w: allomerism drf adj.pert:allomerous
-hyper: variation1
+hyper: variation
 dt: noun.cognition:chemistry
 g: (chemistry) variability in chemical composition without variation in crystalline form
 
@@ -105,7 +105,7 @@ g: union of sperm and egg in sexual reproduction
 
 w: amplitude
 hyper: shift
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the maximum displacement of a periodic wave
 
 w: angelus_bell
@@ -114,7 +114,7 @@ hyper: bell
 g: the sound of a bell rung in Roman Catholic churches to announce the time when the Angelus should be recited
 
 w: annihilation drf verb.change:annihilate
-w: disintegration1
+w: disintegration
 hyper: destruction
 g: total destruction; "bomb tests resulted in the annihilation of the atoll"
 
@@ -142,7 +142,7 @@ w: apparition
 hyper: appearance
 g: the appearance of a ghostlike figure; "I was recalled to the present by the apparition of a frightening specter"
 
-w: appearance drf verb.change:appear ant disappearance
+w: appearance drf verb.change:appear2 ant disappearance1
 hyper: happening
 g: the event of coming into sight
 
@@ -152,7 +152,7 @@ hyper: movement
 g: the event of one object coming closer to another
 
 w: arms_race
-hyper: race1
+hyper: race
 g: a competition between nations to have the most powerful armaments
 
 w: ascension1 drf adj.pert:ascensional drf verb.motion:ascend3
@@ -160,7 +160,7 @@ hyper: change_of_location
 dt: noun.cognition:astronomy
 g: (astronomy) the rising of a star above the horizon
 
-w: Ascension2
+w: Ascension
 w: Ascension_of_Christ
 ihyper: miracle1
 dt: noun.communication:New_Testament
@@ -188,12 +188,12 @@ hyper: contest
 g: a contest between athletes
 
 w: atrophy drf verb.body:atrophy
-w: withering drf verb.change:wither1
+w: withering drf verb.change:wither
 hyper: weakening
 g: any weakening or degeneration (especially through lack of use)
 
-w: attenuation drf verb.change:attenuate
-w: fading drf verb.change:fade1 drf verb.body:fade
+w: attenuation drf verb.change:attenuate1
+w: fading drf verb.change:fade drf verb.body:fade
 hyper: weakening
 g: weakening in force or intensity; "attenuation in the volume of the sound"
 
@@ -223,7 +223,7 @@ g: self-fertilization in plants
 w: automobile_race
 w: auto_race
 w: car_race
-hyper: race
+hyper: race1
 g: a race between (usually high-performance) automobiles
 
 w: avalanche drf verb.motion:avalanche
@@ -240,7 +240,7 @@ g: an abrupt change in the course of a stream that forms the boundary between tw
 
 w: axial_rotation
 w: axial_motion
-w: roll2 drf verb.motion:roll11 drf verb.body:roll6 drf verb.change:roll10 drf verb.contact:roll drf verb.motion:roll1 drf verb.motion:roll
+w: roll drf verb.motion:roll4 drf verb.body:roll drf verb.change:roll1 drf verb.contact:roll1 drf verb.motion:roll1 drf verb.motion:roll5
 hyper: rotation
 g: rotary motion of an object around its own axis; "wheels in axial rotation"
 
@@ -253,12 +253,12 @@ w: back-blast
 hyper: blowback
 g: backfire from a recoilless weapon
 
-w: backfire drf verb.perception:backfire
-hyper: explosion
+w: backfire1 drf verb.perception:backfire
+hyper: explosion2
 g: a loud noise made by the explosion of fuel in the manifold or exhaust of an internal combustion engine
 
-w: backfire3
-hyper: fire
+w: backfire2
+hyper: fire1
 g: a fire that is set intentionally in order to slow an approaching forest fire or grassfire by clearing a burned area in its path
 
 w: backflow
@@ -281,7 +281,7 @@ g: radiation coming from sources other than those being observed
 
 w: background
 w: background_signal
-hyper: noise1
+hyper: noise
 g: extraneous signals that can be confused with the phenomenon to be observed or measured; "they got a bad connection and could hardly hear one another over the background signals"
 
 w: backspin
@@ -293,16 +293,16 @@ w: formal
 hyper: dance
 g: a lavish dance requiring formal attire
 
-w: bang drf verb.perception:bang drf verb.motion:bang
-w: clap drf verb.contact:clap
-w: eruption1
+w: bang1 drf verb.perception:bang drf verb.motion:bang
+w: clap1 drf verb.contact:clap2
+w: eruption2
 w: blast1 drf verb.perception:blast
 w: bam
-hyper: noise
+hyper: noise1
 g: a sudden very loud noise
 
 w: banging
-hyper: noise
+hyper: noise1
 g: a continuing very loud noise
 
 w: bar_mitzvah drf verb.social:bar_mitzvah
@@ -310,11 +310,11 @@ hyper: initiation
 dt: noun.cognition:Judaism
 g: (Judaism) an initiation ceremony marking the 13th birthday of a Jewish boy and signifying the beginning of religious responsibility; "a bar mitzvah is an important social event"
 
-w: bark2 drf verb.communication:bark1
-hyper: noise
+w: bark drf verb.communication:bark1
+hyper: noise1
 g: a noise resembling the bark of a dog
 
-w: bark drf verb.communication:bark
+w: bark1 drf verb.communication:bark
 hyper: cry
 g: the sound made by a dog
 
@@ -327,7 +327,7 @@ hyper: success
 du: noun.communication:colloquialism
 g: an impressively successful event; "the rock concert was a real barnburner"
 
-w: bash1
+w: bash
 w: do
 w: brawl
 hyper: party
@@ -346,20 +346,20 @@ hyper: damage1
 dt: noun.group:military
 g: loss of military equipment in battle
 
-w: bay drf verb.communication:bay
+w: bay drf verb.communication:bay1
 hyper: cry
 g: the sound of a hound on the scent
 
-w: beat1 drf verb.perception:beat1 drf verb.contact:beat
+w: beat1 drf verb.perception:beat drf verb.contact:beat3
 hyper: sound
 g: the sound of stroke or blow; "he heard the beat of a drum"
 
-w: beep drf verb.perception:beep drf verb.communication:beep1
+w: beep drf verb.perception:beep drf verb.communication:beep
 w: bleep drf verb.perception:bleep
 hyper: sound
 g: a short high tone produced as a signal or warning
 
-w: beginning drf verb.change:begin1 ant ending
+w: beginning drf verb.change:begin ant ending
 hyper: happening
 g: the event consisting of the start of something; "the beginning of the war"
 
@@ -382,16 +382,16 @@ hyper: movement
 g: movement that causes the formation of a curve
 
 w: bicycle_race
-hyper: race
+hyper: race1
 g: a race between people riding bicycles
 
 w: big_bang
-hyper: explosion
-dt: noun.cognition:cosmology
+hyper: explosion2
+dt: noun.cognition:cosmology1
 g: (cosmology) the cosmic explosion that is hypothesized to have marked the origin of the universe
 
-w: billow drf adjs.all:billowy drf verb.motion:billow
-w: surge1 drf verb.motion:surge4 drf verb.motion:surge3
+w: billow drf adjs.all:billowy drf verb.motion:billow2
+w: surge1 drf verb.motion:surge3 drf verb.motion:surge2
 hyper: wave1
 g: a large sea wave
 
@@ -408,10 +408,10 @@ g: the event of being born; "they celebrated the birth of their first child"
 
 w: bite
 hyper: success
-dt: noun.act:fishing
+dt: noun.act:fishing1
 g: (angling) an instance of a fish taking the bait; "after fishing for an hour he still had not had a bite"
 
-w: blackout drf verb.change:black_out1
+w: blackout drf verb.change:black_out
 hyper: power_outage
 g: the failure of electric power for a general region
 
@@ -420,14 +420,14 @@ w: blaring
 w: cacophony drf adj.all:cacophonic drf adj.all:cacophonous
 w: clamor drf adjs.all:clamorous
 w: din drf verb.perception:din
-hyper: noise
+hyper: noise1
 g: a loud harsh or strident noise
 
 w: blast drf verb.competition:blast
-hyper: explosion
+hyper: explosion2
 g: an explosion (as of dynamite)
 
-w: bleat drf verb.communication:bleat
+w: bleat drf verb.communication:bleat1
 hyper: cry
 g: the sound of sheep or goats (or any sound resembling this)
 
@@ -446,25 +446,25 @@ hyper: wound
 g: a wound that would cause an English soldier to be sent home from service abroad
 
 w: blip
-hyper: shock1
+hyper: shock2
 g: a sudden minor shock or meaningless interruption; "the market had one bad blip today"; "you can't react to the day-to-day blips"; "renewed jitters in the wake of a blip in retail sales"
 
 w: blowback
-w: backfire1
-hyper: explosion
+w: backfire
+hyper: explosion2
 g: the backward escape of gases and unburned gunpowder after a gun is fired
 
-w: blow
-w: bump drf adj.all:bumpy drf verb.contact:bump
+w: blow1
+w: bump drf adj.all:bumpy drf verb.contact:bump1
 hyper: impact
 g: an impact (as from a collision); "the bump threw him off the bicycle"
 
-w: blowout drf verb.change:blow_out
+w: blowout1 drf verb.change:blow_out
 hyper: malfunction
 g: a sudden malfunction of a part or apparatus; "the right front tire had a blowout"; "as a result of the blowout we lost all the lights"
 
 w: boat_race
-hyper: race
+hyper: race1
 g: a race between people rowing or driving boats
 
 w: bomb_blast
@@ -479,14 +479,14 @@ g: a shocking surprise; "news of the attack came like a bombshell"
 
 w: bonfire
 w: balefire
-hyper: fire
+hyper: fire1
 g: a large outdoor fire that is lighted as a signal or in celebration
 
 w: bong
 hyper: sound
 g: a dull resonant sound as of a bell
 
-w: boom2
+w: boom
 w: bonanza
 w: gold_rush
 w: gravy
@@ -498,15 +498,15 @@ hyper: happening
 g: a sudden happening that brings good fortune (as a sudden opportunity to make money); "the demand for testing has created a boom for those unregulated laboratories where boxes of specimen jars are processed like an assembly line"
 
 w: boom1 drf verb.perception:boom1 drf verb.perception:boom
-w: roar drf verb.communication:roar1
-w: roaring drf verb.communication:roar1
-w: thunder drf adjs.all:thunderous drf verb.communication:thunder1 drf verb.communication:thunder drf verb.motion:thunder
-hyper: noise
+w: roar1 drf verb.communication:roar2
+w: roaring drf verb.communication:roar2
+w: thunder1 drf adjs.all:thunderous drf verb.communication:thunder drf verb.communication:thunder1 drf verb.motion:thunder
+hyper: noise1
 g: a deep prolonged loud noise
 
-w: bounce drf adjs.all:bouncy drf verb.motion:bounce2 drf verb.motion:bounce
+w: bounce drf adjs.all:bouncy drf verb.motion:bounce1 drf verb.motion:bounce2
 w: bouncing
-hyper: recoil
+hyper: recoil1
 g: rebounding from an impact (or series of impacts)
 
 w: bout
@@ -514,7 +514,7 @@ hyper: contest
 g: a contest or fight (especially between boxers or wrestlers)
 
 w: bow-wow
-hyper: bark
+hyper: bark1
 g: the bark of a dog
 
 w: boxing_match
@@ -522,14 +522,14 @@ hyper: match
 g: a match between boxers; usually held in a boxing ring
 
 w: brake_failure
-hyper: breakdown1
+hyper: breakdown
 g: brakes fail to stop a vehicle
 
 w: bray drf verb.communication:bray drf verb.body:bray
 hyper: cry
 g: the cry of an ass
 
-w: break2 drf verb.change:break
+w: break1 drf verb.change:break9
 hyper: separation
 g: the occurrence of breaking; "the break in the dam threatened the valley"
 
@@ -537,15 +537,15 @@ w: break4
 hyper: change
 g: an abrupt change in the tone or register of the voice (as at puberty or due to emotion); "then there was a break in her voice"
 
-w: breakdown1 drf verb.change:break_down
+w: breakdown drf verb.change:break_down
 w: equipment_failure
 hyper: failure
 g: a cessation of normal operation; "there was a power breakdown"
 
-w: break1
+w: break2
 w: good_luck
 w: happy_chance
-hyper: accident
+hyper: accident1
 g: an unexpected piece of good luck; "he finally got his big break"
 
 w: breath_of_fresh_air
@@ -553,10 +553,10 @@ hyper: easing
 g: a welcome relief; "the new management was like a breath of fresh air"
 
 w: brush_fire
-hyper: fire
+hyper: fire1
 g: an uncontrolled fire that consumes brush and shrubs and bushes
 
-w: brush drf verb.contact:brush
+w: brush drf verb.contact:brush3
 w: light_touch
 hyper: touch
 g: momentary contact
@@ -565,7 +565,7 @@ w: bunfight
 w: bun-fight
 hyper: party
 dr: noun.location:United_Kingdom
-du: noun.communication:slang
+du: noun.communication:slang1
 g: (Briticism) a grand formal party on an important occasion
 
 w: burial drf verb.social:bury
@@ -577,14 +577,14 @@ hyper: funeral
 g: the ritual placing of a corpse in a grave
 
 w: burnup
-hyper: race
+hyper: race1
 dr: noun.location:United_Kingdom
-du: noun.communication:slang
+du: noun.communication:slang1
 g: a high-speed motorcycle race on a public road
 
 w: business_cycle
 w: trade_cycle
-hyper: variation1
+hyper: variation
 g: recurring fluctuations in economic activity consisting of recession and recovery and growth and decline
 
 w: buzz drf verb.perception:buzz drf verb.communication:buzz
@@ -593,7 +593,7 @@ w: bombination drf verb.perception:bombinate
 hyper: sound
 g: sound of rapid vibration; "the buzz of a bumble bee"
 
-w: cackle drf adjs.all:cackly drf verb.communication:cackle
+w: cackle drf adjs.all:cackly drf verb.communication:cackle1
 hyper: cry
 g: the sound made by a hen after laying an egg
 
@@ -606,16 +606,16 @@ hyper: misfortune
 g: an event resulting in great loss and misfortune; "the whole city was affected by the irremediable calamity"; "the earthquake was a disaster"
 
 w: calvary
-w: martyrdom1 drf noun.person:martyr
+w: martyrdom1 drf noun.person:martyr1
 hyper: affliction
 g: any experience that causes intense suffering
 
 w: campfire
-hyper: fire
+hyper: fire1
 g: a small outdoor fire for warmth or cooking (as at a camp)
 
 w: capsizing
-hyper: shipwreck
+hyper: shipwreck1
 dt: noun.act:seafaring
 g: (nautical) the event of a boat accidentally turning over in the water
 
@@ -629,7 +629,7 @@ hyper: cycle1
 g: a cycle (of expansion and compression) of an idealized reversible heat engine that does work without loss of heat
 
 w: case
-w: instance drf verb.perception:instantiate1 drf verb.perception:instantiate
+w: instance drf verb.perception:instantiate drf verb.perception:instantiate1
 w: example drf verb.communication:exemplify
 hyper: happening
 g: an occurrence of something; "it was a case of bad judgment"; "another instance occurred yesterday"; "but there is always the famous example of the Smiths"
@@ -661,8 +661,8 @@ hyper: incident
 g: an incident that attracts great public attention
 
 w: cave_in drf verb.motion:cave_in
-w: subsidence1 drf verb.motion:subside2
-hyper: collapse
+w: subsidence2 drf verb.motion:subside
+hyper: collapse1
 g: the sudden collapse of something into a hollow beneath it
 
 w: caw drf verb.communication:caw
@@ -672,10 +672,10 @@ g: the sound made by corvine birds
 w: ceilidh
 hyper: party
 dr: noun.location:Scotland
-dr: noun.location:Ireland
+dr: noun.location:Ireland1
 g: an informal social gathering at which there is Scottish or Irish folk music and singing and folk dancing and story telling
 
-w: celebration drf verb.social:celebrate1 drf verb.social:celebrate
+w: celebration drf verb.social:celebrate drf verb.social:celebrate1
 w: jubilation drf verb.social:jubilate
 hyper: affair
 g: a joyful occasion for special festivities to mark some happy event
@@ -683,7 +683,7 @@ g: a joyful occasion for special festivities to mark some happy event
 w: ceremony drf adjs.all:ceremonial
 w: ceremonial drf adjs.all:ceremonial
 w: ceremonial_occasion
-w: observance1 drf verb.social:observe2
+w: observance drf verb.social:observe1
 hyper: affair
 g: a formal event performed on a special occasion; "a ceremony commemorating Pearl Harbor"
 
@@ -697,13 +697,13 @@ hyper: contest
 g: a competition at which a champion is chosen
 
 w: change_of_location
-w: travel drf verb.motion:travel3 drf verb.motion:travel
+w: travel drf verb.motion:travel4 drf verb.motion:travel5
 hyper: movement
 g: a movement through space that changes the location of something
 
-w: change drf verb.change:change2 drf verb.change:change1 drf verb.change:change
+w: change drf verb.change:change6 drf verb.change:change5 drf verb.change:change7
 w: alteration drf verb.change:alter1
-w: modification drf verb.change:modify
+w: modification drf verb.change:modify1
 hyper: happening
 g: an event that occurs when something passes from one state or phase to another; "the change was intended to increase sales"; "this storm is certainly a change for the worse"; "the neighborhood had undergone few modifications since his last visit years ago"
 
@@ -712,7 +712,7 @@ hyper: episode
 g: a series of related events forming an episode; "a chapter of disasters"
 
 w: chariot_race
-hyper: race
+hyper: race1
 g: a race between ancient chariots
 
 w: Charybdis
@@ -720,14 +720,14 @@ hyper: whirlpool
 dt: noun.group:Greek_mythology
 g: (Greek mythology) a ship-devouring whirlpool lying on the other side of a narrow strait from Scylla
 
-w: chatter1
-w: chattering1 drf verb.contact:chatter
-hyper: noise
+w: chatter
+w: chattering drf verb.contact:chatter
+hyper: noise1
 g: the rapid series of noises made by the parts of a machine
 
-w: chatter drf verb.communication:chatter2
-w: chattering drf verb.communication:chatter2
-hyper: noise
+w: chatter1 drf verb.communication:chatter1
+w: chattering1 drf verb.communication:chatter1
+hyper: noise1
 g: the high-pitched continuing noise made by animals (birds or monkeys)
 
 w: checkmate
@@ -748,8 +748,8 @@ hyper: contest
 g: a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops
 
 w: chink drf verb.perception:chink
-w: click drf verb.perception:click drf verb.motion:click
-w: clink drf verb.perception:clink1 drf verb.perception:clink
+w: click drf verb.perception:click1 drf verb.motion:click
+w: clink drf verb.perception:clink drf verb.perception:clink1
 hyper: sound
 g: a short light metallic sound
 
@@ -762,20 +762,20 @@ w: twitter drf verb.communication:twitter
 hyper: sound
 g: a series of chirps
 
-w: chorus drf adj.pert:choral1 drf verb.communication:chorus
+w: chorus drf adj.pert:choral drf verb.communication:chorus
 hyper: sound
 g: any utterance produced simultaneously by a group; "a chorus of boos"
 
-w: Christianization drf verb.change:Christianize
+w: Christianization drf verb.change:Christianize1
 w: Christianisation drf verb.change:Christianise
 hyper: conversion1
 g: conversion to Christianity
 
 w: chug drf verb.perception:chug
-hyper: noise
+hyper: noise1
 g: the dull explosive noise made by an engine
 
-w: circulation drf verb.motion:circulate4 drf verb.change:circulate
+w: circulation drf verb.motion:circulate2 drf verb.change:circulate
 hyper: change_of_location
 dt: noun.Tops:plant
 g: free movement or passage (as of cytoplasm within a cell or sap through a plant); "ocean circulation is an important part of global climate"; "a fan aids air circulation"
@@ -784,9 +784,9 @@ w: circumstance
 hyper: ceremony
 g: formal ceremony about important occasions; "pomp and circumstance"
 
-w: clack drf verb.perception:clack drf verb.communication:clack1
-w: clap1 drf verb.contact:clap
-hyper: noise
+w: clack drf verb.perception:clack drf verb.communication:clack
+w: clap drf verb.contact:clap2
+hyper: noise1
 g: a sharp abrupt noise as if two objects hit together; may be repeated
 
 w: claiming_race
@@ -799,12 +799,12 @@ w: clangour drf verb.perception:clangour
 w: clangoring
 w: clank drf verb.perception:clank
 w: clash
-w: crash1 drf verb.motion:crash1
-hyper: noise
+w: crash2 drf verb.motion:crash
+hyper: noise1
 g: a loud resonant repeating noise; "he could hear the clang of distant bells"
 
 w: clatter drf verb.perception:clatter
-hyper: noise
+hyper: noise1
 g: a rattling noise (often produced by rapid movement); "the shutters clattered against the house"; "the clatter of iron wheels on cobblestones"
 
 w: cleistogamy
@@ -825,14 +825,14 @@ hyper: contest
 g: a contest whose outcome is uncertain up to the very end
 
 w: climax drf adj.all:climactic drf verb.change:climax
-w: flood_tide1
+w: flood_tide
 hyper: juncture
 g: the highest point of anything conceived of as growing or developing or unfolding; "the climax of the artist's career"; "in the flood tide of his success"
 
 w: climb drf verb.change:climb
-w: climbing drf verb.motion:climb drf verb.change:climb1
-w: mounting drf verb.motion:mount drf verb.change:mount
-hyper: rise2
+w: climbing drf verb.motion:climb2 drf verb.change:climb2
+w: mounting drf verb.motion:mount1 drf verb.change:mount
+hyper: rise
 g: an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)
 
 w: clip-clop
@@ -863,10 +863,10 @@ g: an afternoon party at which cocktails are served
 
 w: coincidence
 w: happenstance
-hyper: accident
+hyper: accident1
 g: an event that might have been arranged although it was really accidental
 
-w: collapse drf verb.motion:collapse
+w: collapse1 drf verb.motion:collapse3
 hyper: happening
 g: a natural event caused by something suddenly falling down or caving in; "the roof is in danger of collapse"; "the collapse of the old star under its own gravity"
 
@@ -876,58 +876,58 @@ du: noun.communication:euphemism
 dt: noun.group:military
 g: (euphemism) inadvertent casualties and destruction inflicted on civilians in the course of military operations
 
-w: collision drf verb.contact:collide
-hyper: accident1
+w: collision1 drf verb.contact:collide1
+hyper: accident
 g: an accident resulting from violent impact of a moving object; "three passengers were killed in the collision"; "the collision of the two ships resulted in a serious oil spill"
 
-w: collision1 drf verb.contact:collide drf verb.contact:collide1
-w: hit1 drf verb.contact:hit1
+w: collision drf verb.contact:collide1 drf verb.contact:collide
+w: hit drf verb.contact:hit2
 hyper: contact
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a brief event in which two or more bodies come together; "the collision of the particles resulted in an exchange of energy and a change of direction"
 
 w: comber
 hyper: wave1
 g: a long curling sea wave
 
-w: combining drf verb.stative:combine drf verb.contact:combine3
-w: combine drf verb.stative:combine drf verb.possession:combine drf verb.contact:combine3 drf verb.contact:combine1 drf verb.change:combine2 drf verb.change:combine
+w: combining drf verb.stative:combine drf verb.contact:combine1
+w: combine drf verb.stative:combine drf verb.possession:combine drf verb.contact:combine1 drf verb.contact:combine drf verb.change:combine1 drf verb.change:combine
 hyper: union
 g: an occurrence that results in things being united
 
-w: commemoration drf verb.cognition:commemorate2 drf verb.cognition:commemorate
+w: commemoration drf verb.cognition:commemorate drf verb.cognition:commemorate2
 w: memorialization drf verb.communication:memorialize
 w: memorialisation drf verb.communication:memorialise
 hyper: ceremony
 g: a ceremony to honor the memory of someone or something
 
-w: commencement2
+w: commencement
 w: commencement_exercise
 w: commencement_ceremony
-w: graduation1 drf verb.possession:graduate1 drf verb.possession:graduate
+w: graduation drf verb.possession:graduate1 drf verb.possession:graduate
 w: graduation_exercise
-hyper: exercise1
+hyper: exercise
 g: an academic exercise in which diplomas are conferred
 
-w: compaction drf verb.contact:compact9
-w: compression2
+w: compaction drf verb.contact:compact
+w: compression
 w: concretion drf verb.change:concrete
 w: densification
 hyper: concentration
 g: an increase in the density of something
 
 w: complication drf verb.change:complicate
-w: ramification drf verb.change:ramify4
-hyper: development1
+w: ramification drf verb.change:ramify
+hyper: development
 g: a development that complicates a situation; "the court's decision had many unforeseen ramifications"
 
-w: compression drf verb.contact:compress
-w: condensation drf verb.change:condense6 drf verb.change:condense5 drf verb.change:condense4
-w: contraction2
+w: compression1 drf verb.contact:compress1
+w: condensation drf verb.change:condense2 drf verb.change:condense drf verb.change:condense4
+w: contraction
 hyper: shrinking
 g: the process or result of becoming smaller or pressed together; "the contraction of a gas on cooling"
 
-w: concentration drf verb.change:concentrate3 drf verb.change:concentrate1 drf verb.change:concentrate
+w: concentration drf verb.change:concentrate4 drf verb.change:concentrate3 drf verb.change:concentrate5
 hyper: increase
 g: increase in density
 
@@ -936,16 +936,16 @@ hyper: mix
 g: an occurrence of an unusual mixture; "it suddenly spewed out a thick green concoction"
 
 w: concussion drf verb.motion:concuss
-hyper: injury
+hyper: injury1
 g: injury to the brain caused by a blow; usually resulting in loss of consciousness
 
 w: concussion1 drf verb.motion:concuss
-hyper: blow
+hyper: blow1
 g: any violent blow
 
 w: conflagration
-w: inferno drf adj.pert:infernal1
-hyper: fire
+w: inferno drf adj.pert:infernal
+hyper: fire1
 g: a very intense and uncontrolled fire
 
 w: conglomeration drf verb.change:conglomerate
@@ -968,23 +968,23 @@ w: aftermath
 hyper: result
 g: the outcome of an event especially as relative to an individual
 
-w: conservation drf noun.person:conservationist drf verb.possession:conserve2
+w: conservation drf noun.person:conservationist drf verb.possession:conserve
 w: preservation
 hyper: improvement
 g: an occurrence of improvement by virtue of preventing loss or injury or other change
 
-w: consolidation drf verb.change:consolidate4 drf verb.change:consolidate3
+w: consolidation drf verb.change:consolidate2 drf verb.change:consolidate3
 hyper: combining
 g: combining into a solid mass
 
 w: constriction drf verb.change:constrict
 w: coarctation
-hyper: compression
+hyper: compression1
 g: tight or narrow compression
 
-w: contact drf verb.contact:contact3
-w: impinging drf verb.social:impinge10
-w: striking drf verb.contact:strike1
+w: contact drf verb.contact:contact
+w: impinging drf verb.social:impinge
+w: striking drf verb.contact:strike3
 hyper: happening
 g: the physical coming together of two or more things; "contact with the pier scraped paint from the hull"
 
@@ -993,7 +993,7 @@ w: competition
 hyper: social_event
 g: an occasion on which a winner is selected from among two or more contestants
 
-w: convergence drf adj.all:convergent drf verb.motion:converge drf verb.stative:converge
+w: convergence drf adj.all:convergent drf verb.motion:converge drf verb.stative:converge1
 hyper: happening
 g: the occurrence of two or more things coming together
 
@@ -1001,17 +1001,17 @@ w: conversion1 drf verb.change:convert1
 hyper: change
 g: a change of religion; "his conversion to the Catholic faith"
 
-w: conversion drf verb.change:convert
-w: transition drf verb.change:transition1
-w: changeover drf verb.change:change_over2
+w: conversion drf verb.change:convert2
+w: transition drf verb.change:transition
+w: changeover drf verb.change:change_over
 hyper: transformation
 g: an event that results in a transformation
 
 w: convulsion
-hyper: trouble
+hyper: trouble1
 g: a physical disturbance such as an earthquake or upheaval
 
-w: coo drf verb.communication:coo
+w: coo drf verb.communication:coo1
 hyper: cry
 g: the sound made by a pigeon
 
@@ -1023,7 +1023,7 @@ w: coronation drf verb.social:coronate
 w: enthronement drf verb.social:enthrone1 drf verb.social:enthrone
 w: enthronization drf verb.social:enthrone
 w: enthronisation drf verb.social:enthrone
-w: investiture1 drf verb.social:invest2 drf verb.social:invest
+w: investiture drf verb.social:invest1 drf verb.social:invest2
 hyper: initiation
 g: the ceremony of installing a new monarch
 
@@ -1037,43 +1037,43 @@ hyper: surprise
 g: a dramatic surprise
 
 w: crack
-w: cracking drf verb.perception:crack1
-w: snap drf verb.motion:snap1 drf verb.change:snap1 drf verb.motion:snap
-hyper: noise
+w: cracking drf verb.perception:crack
+w: snap1 drf verb.motion:snap drf verb.change:snap drf verb.motion:snap1
+hyper: noise1
 g: a sudden sharp noise; "the crack of a whip"; "he heard the cracking of the ice"; "he can hear the snap of a twig"
 
 w: crackle drf verb.perception:crackle
 w: crackling drf verb.perception:crackle
 w: crepitation drf verb.perception:crepitate
-hyper: noise
+hyper: noise1
 g: the sharp sound of snapping noises
 
-w: crash3 drf verb.change:crash10
+w: crash drf verb.change:crash1
 hyper: mishap
 dt: noun.cognition:computer_science
 g: (computer science) an event that causes a computer system to become inoperative; "the crash occurred during a thunderstorm and the system has been down ever since"
 
-w: crash2 drf verb.change:crash11
-w: collapse1 drf verb.motion:collapse drf verb.change:collapse
+w: crash1 drf verb.change:crash
+w: collapse drf verb.motion:collapse3 drf verb.change:collapse
 hyper: happening
 g: a sudden large decline of business or the prices of stocks (especially one that causes additional failures)
 
-w: crash drf verb.contact:crash
-w: wreck
-hyper: accident1
+w: crash3 drf verb.contact:crash2
+w: wreck1
+hyper: accident
 g: a serious accident (usually involving one or more vehicles); "they are still investigating the crash of the TWA plane"
 
-w: creak drf adjs.all:creaky drf verb.perception:creak
+w: creak drf adjs.all:creaky1 drf verb.perception:creak
 w: creaking drf verb.perception:creak
-hyper: noise
+hyper: noise1
 g: a squeaking sound; "the creak of the floorboards gave him away"
 
-w: creation drf verb.creation:create13 drf verb.creation:create2
+w: creation drf verb.creation:create2 drf verb.creation:create
 w: conception
 hyper: beginning
 g: the event that occurred at the beginning of something; "from its creation the plan was doomed to failure"
 
-w: creep drf verb.motion:creep
+w: creep drf verb.motion:creep3
 hyper: change_of_location
 g: a slow longitudinal movement or deformation
 
@@ -1087,15 +1087,15 @@ hyper: match
 g: a match between two cricket teams
 
 w: crime_wave
-hyper: rise
+hyper: rise3
 g: a sudden rise in the crime rate
 
-w: crisis drf adjs.all:critical
+w: crisis drf adjs.all:critical1
 hyper: juncture
 g: a crucial stage or turning point in the course of something; "after the crisis the patient either dies or gets better"
 
-w: cross-fertilization drf verb.body:cross-fertilize1 drf verb.body:cross-fertilize ant self-fertilization
-w: cross-fertilisation drf verb.body:cross-fertilise1 drf verb.body:cross-fertilise
+w: cross-fertilization drf verb.body:cross-fertilize drf verb.body:cross-fertilize1 ant self-fertilization
+w: cross-fertilisation drf verb.body:cross-fertilise drf verb.body:cross-fertilise1
 hyper: fertilization
 g: fertilization by the union of male and female gametes from different individual of the same species
 
@@ -1104,15 +1104,15 @@ hyper: pollination
 g: fertilization by transfer of pollen from the anthers of one flower to the stigma of another
 
 w: cross_country
-hyper: race
+hyper: race1
 g: a long race run over open country
 
 w: crosstalk
 w: XT
-hyper: noise1
+hyper: noise
 g: the presence of an unwanted signal via an accidental coupling
 
-w: crow drf verb.communication:crow2
+w: crow drf verb.communication:crow1
 hyper: cry
 g: the cry of a cock (or an imitation of it)
 
@@ -1125,7 +1125,7 @@ ihyper: death
 g: the death of Jesus by crucifixion
 
 w: crunch drf verb.communication:crunch
-hyper: noise
+hyper: noise1
 g: the sound of something crunching; "he heard the crunch of footsteps on the gravel path"
 
 w: crustal_movement
@@ -1134,14 +1134,14 @@ hyper: movement
 dt: noun.cognition:geology
 g: movement resulting from or causing deformation of the earth's crust
 
-w: cry drf verb.communication:cry3
+w: cry drf verb.communication:cry
 hyper: sound
 g: the characteristic utterance of an animal; "animal cries filled the night"
 
 w: Cultural_Revolution
 w: Great_Proletarian_Cultural_Revolution
 hyper: revolution1
-dr: noun.location:China
+dr: noun.location:China1
 g: a radical reform in China initiated by Mao Zedong in 1965 and carried out largely by the Red Guard; intended to eliminate counterrevolutionary elements in the government it resulted in purges of the intellectuals and socioeconomic chaos
 
 w: cup_final
@@ -1150,7 +1150,7 @@ dt: noun.act:soccer
 g: the final match of any cup competition (such as the annual final of the English soccer competition at Wembley)
 
 w: current
-w: stream drf verb.motion:stream
+w: stream drf verb.motion:stream1
 hyper: flow
 g: a steady flow of a fluid (usually from natural causes); "the raft floated downstream on the current"; "he felt a stream of air"; "the hose ejected a stream of water"
 
@@ -1159,7 +1159,7 @@ w: torment
 hyper: affliction
 g: a severe affliction
 
-w: cycle2 drf adjs.all:cyclic drf adj.all:cyclic1 drf adj.all:cyclical drf verb.change:cycle drf verb.motion:cycle3 drf verb.motion:cycle2
+w: cycle drf adjs.all:cyclic drf adj.all:cyclic2 drf adj.all:cyclical drf verb.change:cycle drf verb.motion:cycle drf verb.motion:cycle1
 hyper: repeat
 g: a periodically repeated sequence of events; "a cycle of reprisal and retaliation"
 
@@ -1174,7 +1174,7 @@ hyper: periodic_event
 g: a single complete execution of a periodically repeated phenomenon; "a year constitutes a cycle of the seasons"
 
 w: daily_variation
-hyper: variation1
+hyper: variation
 g: fluctuations that occur between one day and the next
 
 w: damage1
@@ -1183,9 +1183,9 @@ hyper: casualty1
 dt: noun.group:military
 g: loss of military equipment
 
-w: damage drf verb.change:damage
-w: harm1 drf verb.body:harm
-w: impairment drf verb.change:impair
+w: damage drf verb.change:damage1
+w: harm drf verb.body:harm
+w: impairment drf verb.change:impair1
 hyper: change
 g: the occurrence of a change for the worse
 
@@ -1197,7 +1197,7 @@ w: dash
 hyper: track_event
 g: a footrace run at top speed; "he is preparing for the 100-yard dash"
 
-w: dawn1 drf verb.stative:dawn1
+w: dawn drf verb.stative:dawn
 w: morning
 hyper: start
 g: the earliest period; "the dawn of civilization"; "the morning of the world"
@@ -1206,7 +1206,7 @@ w: dead_heat
 hyper: draw
 g: a tie in a race
 
-w: deal drf verb.social:deal2
+w: deal drf verb.social:deal1
 hyper: result
 g: the type of treatment received (especially as the result of an agreement); "he got a good deal on his car"
 
@@ -1214,15 +1214,15 @@ w: death_knell
 hyper: omen
 g: an omen of death or destruction
 
-w: death ant birth drf verb.change:die drf verb.perception:die
+w: death ant birth drf verb.change:die2 drf verb.perception:die
 w: decease drf verb.change:decease
 w: expiry
 hyper: change
 g: the event of dying or departure from life; "her death came as a terrible shock"; "upon your decease the capital will pass to your grandchildren"
 
-w: debacle2
-w: fiasco2
-hyper: collapse
+w: debacle1
+w: fiasco
+hyper: collapse1
 g: a sudden and violent collapse
 
 w: debilitation drf verb.change:debilitate
@@ -1241,7 +1241,7 @@ w: decathlon
 hyper: athletic_contest
 g: an athletic contest consisting of ten different events
 
-w: decision2
+w: decision
 hyper: result
 dt: noun.act:boxing
 g: (boxing) a victory won on points when no knockout has occurred; "had little trouble in taking a unanimous decision over his opponent"
@@ -1250,13 +1250,13 @@ w: decision1
 hyper: result
 g: the outcome of a game or contest; "the team dropped three decisions in a row"
 
-w: decrease drf verb.change:decrease1 drf verb.change:decrease ant increase
+w: decrease drf verb.change:decrease drf verb.change:decrease1 ant increase
 w: lessening
 w: drop-off drf verb.change:drop_off1
 hyper: change
 g: a change downward; "there was a decrease in his temperature as the fever subsided"; "there was a sharp drop-off in sales"
 
-w: decrepitation drf verb.change:decrepitate1 drf verb.change:decrepitate
+w: decrepitation drf verb.change:decrepitate drf verb.change:decrepitate1
 hyper: crackle
 g: the crackling or breaking up of certain crystals when they are heated
 
@@ -1265,7 +1265,7 @@ hyper: ceremony
 g: a ceremony in which something (as a building) is dedicated to some goal or purpose
 
 w: defeat drf noun.person:defeatist drf verb.social:defeat ant victory
-w: licking1
+w: licking
 hyper: ending
 hyper: failure
 g: an unsuccessful ending to a struggle or contest; "it was a narrow defeat"; "the army's only defeat"; "they suffered a convincing licking"
@@ -1285,7 +1285,7 @@ w: refraction
 hyper: bending
 g: the amount by which a propagating wave is bent
 
-w: deformation1 drf adj.pert:deformational drf verb.contact:deform2 drf verb.contact:deform1 drf verb.contact:deform drf verb.change:deform2 drf verb.change:deform1 drf verb.change:deform
+w: deformation1 drf adj.pert:deformational drf verb.contact:deform1 drf verb.contact:deform2 drf verb.contact:deform drf verb.change:deform2 drf verb.change:deform1 drf verb.change:deform
 hyper: change
 g: alteration in the shape or dimensions of an object as a result of the application of stress to it
 
@@ -1307,7 +1307,7 @@ w: denouement
 hyper: result
 g: the outcome of a complex sequence of events
 
-w: derailment drf verb.motion:derail1 drf verb.motion:derail
+w: derailment drf verb.motion:derail drf verb.motion:derail1
 hyper: mishap
 g: an accident in which a train runs off its track
 
@@ -1321,7 +1321,7 @@ w: comeupance
 hyper: consequence
 g: an outcome (good or bad) that is well deserved
 
-w: destabilization drf verb.change:destabilize
+w: destabilization drf verb.change:destabilize1
 hyper: change
 dt: noun.artifact:ship
 dt: noun.artifact:aircraft
@@ -1334,12 +1334,12 @@ g: an event (or a course of events) that will inevitably happen in the future
 
 w: destruction drf verb.contact:destroy
 w: demolition drf verb.creation:demolish
-w: wipeout drf verb.change:wipe_out drf verb.change:wipe_out2 drf verb.change:wipe_out3 drf verb.change:wipe_out4 drf verb.creation:wipe_out
+w: wipeout drf verb.change:wipe_out3 drf verb.change:wipe_out1 drf verb.change:wipe_out drf verb.change:wipe_out2 drf verb.creation:wipe_out
 hyper: ending
 g: an event (or the result of an event) that completely destroys something
 
 w: detriment drf adjs.all:detrimental
-w: hurt1 drf verb.change:hurt4
+w: hurt drf verb.change:hurt
 hyper: damage
 g: a damage or loss
 
@@ -1348,15 +1348,15 @@ w: desolation drf verb.change:desolate1 drf verb.change:desolate
 hyper: ruin
 g: an event that results in total destruction
 
-w: development1 drf verb.change:develop3
+w: development drf verb.change:develop5
 hyper: change
 g: a recent event that has some relevance for the present situation; "recent developments in Iraq"; "what a revolting development!"
 
 w: deviation drf verb.stative:deviate
-w: divergence drf verb.stative:diverge1
-w: departure1 drf verb.stative:depart
-w: difference drf verb.cognition:differentiate2 drf verb.cognition:differentiate1 drf verb.change:differentiate
-hyper: variation1
+w: divergence drf verb.stative:diverge2
+w: departure drf verb.stative:depart
+w: difference drf verb.cognition:differentiate drf verb.cognition:differentiate1 drf verb.change:differentiate2
+hyper: variation
 g: a variation that deviates from the standard or norm; "the deviation from the mean"
 
 w: dextrorotation ant levorotation
@@ -1369,7 +1369,7 @@ hyper: dispersion
 g: the dispersion of the Jews outside Israel; from the destruction of the temple in Jerusalem in 587-86 BC when they were exiled to Babylonia up to the present time
 
 w: diastole drf adj.pert:diastolic
-hyper: pulse
+hyper: pulse1
 g: the widening of the chambers of the heart between two contractions when the chambers fill with blood
 
 w: diffusion
@@ -1382,10 +1382,10 @@ hyper: sound
 g: a ringing sound
 
 w: ding-dong
-hyper: noise
+hyper: noise1
 g: the noise made by a bell
 
-w: dip drf verb.contact:dip11 drf verb.change:dip drf verb.consumption:dip drf verb.contact:dip
+w: dip drf verb.contact:dip drf verb.change:dip1 drf verb.consumption:dip drf verb.contact:dip2
 hyper: submergence
 g: a brief immersion
 
@@ -1393,27 +1393,27 @@ w: direct_tide
 hyper: high_tide
 g: the occurrence of high tide on one side of the earth coinciding with high tide on the opposite side
 
-w: disappearance1
+w: disappearance
 hyper: happening
 g: ceasing to exist; "he regretted the disappearance of Greek from school curricula"; "what was responsible for the disappearance of the rainforest?"; "the disappearance of resistance at very low temperatures"
 
-w: disappearance drf verb.perception:disappear ant appearance
+w: disappearance1 drf verb.perception:disappear ant appearance
 hyper: happening
 g: the event of passing out of sight
 
-w: discharge
+w: discharge1
 hyper: happening
 g: the sudden giving off of energy
 
-w: discharge1 drf verb.contact:discharge
-w: outpouring
-w: run drf adjs.all:runny drf verb.motion:run1
+w: discharge drf verb.contact:discharge2
+w: outpouring1
+w: run3 drf adjs.all:runny drf verb.motion:run3
 hyper: flow
 g: the pouring forth of a fluid
 
-w: discrepancy drf adjs.all:discrepant
+w: discrepancy drf adjs.all:discrepant2
 w: variance
-w: variant drf adjs.all:variant drf verb.stative:vary
+w: variant drf adjs.all:variant1 drf verb.stative:vary1
 hyper: deviation
 g: an event that departs from expectations
 
@@ -1435,23 +1435,23 @@ w: disruption
 hyper: interruption
 g: an event that results in a displacement or discontinuity
 
-w: dismemberment drf verb.contact:dismember
+w: dismemberment drf verb.contact:dismember1
 w: taking_apart
 hyper: mutilation
-hyper: noun.act:torture
+hyper: noun.act:torture1
 g: the removal of limbs; being cut to pieces
 
-w: dispersion drf verb.motion:disperse
+w: dispersion drf verb.motion:disperse1
 w: scattering drf verb.motion:scatter1
 hyper: spread
 g: spreading widely or driving off
 
 w: dissilience drf adjs.all:dissilient
-hyper: emergence
+hyper: emergence1
 dt: noun.cognition:botany
 g: the emergence of seeds as seed pods burst open when they are ripe
 
-w: dissipation drf verb.motion:dissipate1 drf verb.motion:dissipate
+w: dissipation drf verb.motion:dissipate drf verb.motion:dissipate1
 hyper: dispersion
 g: breaking up and scattering by dispersion; "the dissipation of the mist"
 
@@ -1461,7 +1461,7 @@ hyper: damage
 g: a change for the worse
 
 w: diurnal_variation
-hyper: variation1
+hyper: variation
 g: fluctuations that occur during each day
 
 w: diving
@@ -1471,14 +1471,14 @@ hp: swimming_meet
 g: an athletic competition that involves diving into water
 
 w: dog_racing
-hyper: race
+hyper: race1
 g: a race between dogs; usually an occasion for betting on the outcome
 
 w: dogfight
 hyper: contest
 g: a fiercely disputed contest; "their rancor dated from a political dogfight between them"; "a real dogfight for third place"; "a prolonged dogfight over their rival bids for the contract"
 
-w: doom drf verb.communication:doom4
+w: doom drf verb.communication:doom1
 w: doomsday
 w: day_of_reckoning
 w: end_of_the_world
@@ -1495,7 +1495,7 @@ w: downhill
 hyper: ski_race
 g: a ski race down a trail
 
-w: drama drf adjs.all:dramatic drf adj.all:dramatic drf verb.communication:dramatize drf verb.communication:dramatize1 drf verb.communication:dramatise1
+w: drama drf adjs.all:dramatic drf adj.all:dramatic1 drf verb.communication:dramatize1 drf verb.communication:dramatize drf verb.communication:dramatise
 w: dramatic_event
 hyper: episode
 g: an episode that is turbulent or highly emotional
@@ -1506,7 +1506,7 @@ w: tie drf verb.competition:tie
 hyper: finish
 g: the finish of a contest in which the score is tied and the winner is undecided; "the game ended in a draw"; "their record was 3 wins, 6 losses and a tie"
 
-w: driftage drf verb.motion:drift4
+w: driftage drf verb.motion:drift
 hyper: deviation
 dt: noun.artifact:aircraft
 g: the deviation (by a vessel or aircraft) from its intended course due to drifting
@@ -1521,14 +1521,14 @@ w: drippage
 hyper: flow
 g: a liquid (as water) that flows in drops (as from the eaves of house)
 
-w: drip drf adjs.all:drippy drf verb.contact:drip10 drf verb.motion:drip
+w: drip drf adjs.all:drippy1 drf verb.contact:drip drf verb.motion:drip
 w: trickle drf verb.motion:trickle
-w: dribble drf verb.contact:dribble10
+w: dribble drf verb.contact:dribble
 hyper: flow
 g: flowing in drops; the formation and falling of drops of liquid; "there's a drip through the roof"
 
-w: drop drf verb.motion:drop drf verb.motion:drop1
-w: fall drf verb.motion:fall15 drf verb.motion:fall3
+w: drop drf verb.motion:drop2 drf verb.motion:drop1
+w: fall3 drf verb.motion:fall2 drf verb.motion:fall4
 hyper: descent
 hyper: gravitation
 g: a free and rapid descent by the force of gravity; "it was a miracle that he survived the drop from that height"
@@ -1543,7 +1543,7 @@ hyper: decrease
 g: a becoming gradually less; "there is no greater sadness that the dwindling away of a family"
 
 w: earthquake
-w: quake drf verb.motion:quake2
+w: quake drf verb.motion:quake1
 w: temblor
 w: seism drf adjs.all:seismic drf adjs.all:seismal
 hyper: noun.phenomenon:geological_phenomenon
@@ -1561,8 +1561,8 @@ hyper: flow
 hp: ebbtide
 g: the outward flow of the tide
 
-w: ebbtide ant flood_tide
-hyper: tide
+w: ebbtide ant flood_tide1
+hyper: tide1
 g: the tide while water is flowing out
 
 w: eclipse drf verb.perception:eclipse
@@ -1571,7 +1571,7 @@ hyper: interruption
 g: one celestial body obscures another
 
 w: eddy drf verb.motion:eddy
-w: twist1
+w: twist
 hyper: current
 g: a miniature whirlpool or whirlwind resulting when the current of a fluid doubles back on itself
 
@@ -1583,45 +1583,45 @@ dt: noun.cognition:astronomy
 g: (astronomy) the reappearance of a celestial body after an eclipse
 
 w: electrical_discharge
-hyper: discharge
+hyper: discharge1
 g: a discharge of electricity
 
 w: elevation drf verb.motion:elevate
-w: lift drf verb.motion:lift3 drf verb.motion:lift
+w: lift drf verb.motion:lift2 drf verb.motion:lift
 w: raising drf verb.motion:raise2
-hyper: rise2
+hyper: rise
 g: the event of something being raised upward; "an elevation of the temperature in the afternoon"; "a raising of the land resulting from volcanic activity"
 
 w: elimination_tournament
-hyper: tournament
+hyper: tournament1
 g: a tournament in which losers are eliminated in successive rounds
 
 w: emanation
-w: rise3 drf verb.body:rise
+w: rise2 drf verb.body:rise
 w: procession
 hyper: origin
 dt: noun.cognition:theology
 g: (theology) the origination of the Holy Spirit at Pentecost; "the emanation of the Holy Spirit"; "the rising of the Holy Ghost"; "the doctrine of the procession of the Holy Spirit from the Father and the Son"
 
 w: embarrassment drf verb.emotion:embarrass ant disembarrassment
-hyper: trouble
+hyper: trouble1
 g: some event that causes someone to be embarrassed; "the outcome of the vote was an embarrassment for the liberals"
 
-w: emergence drf verb.change:emerge
+w: emergence1 drf verb.change:emerge2
 w: egress1 drf verb.change:egress
 w: issue
 hyper: beginning
 g: the becoming visible; "not a day's difference between the emergence of the andrenas and the opening of the willow catkins"
 
-w: emergence1 drf verb.change:emerge1
+w: emergence drf verb.change:emerge1
 w: outgrowth
-w: growth1 drf verb.stative:grow drf verb.change:grow3
+w: growth drf verb.stative:grow drf verb.change:grow6
 hyper: beginning
 g: the gradual beginning or coming forth; "figurines presage the emergence of sculpture in Greece"
 
 w: emergency drf adjs.all:emergent
 w: exigency drf adjs.all:exigent
-w: pinch1
+w: pinch
 hyper: crisis
 g: a sudden unforeseen crisis (usually involving danger) that requires immediate action; "he never knew what to do in an emergency"
 
@@ -1629,37 +1629,37 @@ w: emission
 hyper: flow
 g: the occurrence of a flow of water (as from a pipe)
 
-w: endgame1
-w: end_game1
-hyper: end
-g: the final stages of an extended process of negotiation; "the diplomatic endgame"
-
 w: endgame
 w: end_game
 hyper: end
+g: the final stages of an extended process of negotiation; "the diplomatic endgame"
+
+w: endgame1
+w: end_game1
+hyper: end
 g: the final stages of a chess game after most of the pieces have been removed from the board
 
-w: ending drf verb.stative:end1 drf verb.creation:end13 ant beginning
+w: ending drf verb.stative:end drf verb.creation:end ant beginning
 w: conclusion
-w: finish2 drf verb.change:finish3 drf verb.stative:finish drf verb.change:finish2
+w: finish2 drf verb.change:finish2 drf verb.stative:finish drf verb.change:finish
 hyper: happening
 g: event whose occurrence ends something; "his death marked the ending of an era"; "when these final episodes are broadcast it will be the finish of the show"
 
-w: end drf verb.creation:end13 drf verb.stative:end1 drf verb.change:end1 drf verb.stative:end
+w: end drf verb.creation:end drf verb.stative:end drf verb.change:end drf verb.stative:end1
 w: last
 w: final_stage
 hyper: ending
 g: the concluding parts of an event or occurrence; "the end was exciting"; "I had to miss the last of the movie"
 
 w: engagement drf verb.contact:engage drf verb.change:engage
-w: mesh drf verb.contact:mesh1
-w: meshing drf verb.contact:mesh1
+w: mesh drf verb.contact:mesh
+w: meshing drf verb.contact:mesh
 w: interlocking
 hyper: contact
 g: contact by fitting together; "the engagement of the clutch"; "the meshing of gears"
 
 w: engine_failure
-hyper: breakdown1
+hyper: breakdown
 g: engine does not run
 
 w: English
@@ -1686,7 +1686,7 @@ hyper: happening
 g: a happening that is distinctive in a series of related events
 
 w: eradication drf verb.creation:eradicate
-w: obliteration drf verb.change:obliterate3 drf verb.change:obliterate2 drf verb.change:obliterate
+w: obliteration drf verb.change:obliterate1 drf verb.change:obliterate drf verb.change:obliterate3
 hyper: destruction
 g: the complete destruction of every trace of something
 
@@ -1696,24 +1696,24 @@ hyper: happening
 dt: noun.cognition:computer_science
 g: (computer science) the occurrence of an incorrect result produced by a computer
 
-w: eruption2 drf verb.change:erupt4
-hyper: emergence
+w: eruption3 drf verb.change:erupt
+hyper: emergence1
 g: the emergence of a tooth as it breaks through the gum
 
-w: escape drf verb.change:escape4
-w: leak drf adj.all:leaky drf verb.change:leak4 drf verb.change:leak
-w: leakage drf verb.change:leak4 drf verb.change:leak
+w: escape drf verb.change:escape
+w: leak drf adj.all:leaky drf verb.change:leak drf verb.change:leak1
+w: leakage drf verb.change:leak drf verb.change:leak1
 w: outflow
-hyper: discharge1
+hyper: discharge
 g: the discharge of a fluid from some container; "they tried to stop the escape of gas from the damaged pipe"; "he had to clean up the leak"
 
-w: etiology drf adj.pert:etiologic drf adj.pert:etiological drf noun.person:etiologist
-w: aetiology drf adj.pert:aetiologic drf noun.person:aetiologist drf adj.pert:aetiological
+w: etiology drf adj.pert:etiologic1 drf adj.pert:etiological1 drf noun.person:etiologist
+w: aetiology drf adj.pert:aetiologic1 drf noun.person:aetiologist drf adj.pert:aetiological1
 hyper: cause
 g: the cause of a disease
 
 w: evanescence drf adjs.all:evanescent drf verb.change:evanesce
-hyper: disappearance
+hyper: disappearance1
 g: the event of fading and gradually vanishing from sight; "the evanescence of the morning mist"
 
 w: eventuality
@@ -1722,7 +1722,7 @@ w: contingence
 hyper: happening
 g: a possible event or occurrence or result
 
-w: exercise1
+w: exercise
 hyper: ceremony
 du: noun.communication:plural
 g: (usually plural) a ceremony that involves processions and speeches; "academic exercises"
@@ -1731,25 +1731,25 @@ w: expense
 hyper: detriment
 g: a detriment or sacrifice; "at the expense of"
 
-w: experience drf verb.change:experience drf verb.emotion:experience drf verb.perception:experience drf verb.perception:experience1
+w: experience drf verb.change:experience drf verb.emotion:experience drf verb.perception:experience1 drf verb.perception:experience
 hyper: happening
 g: an event as apprehended; "a surprising experience"; "that painful experience certainly got our attention"
 
-w: explosion1 drf verb.change:explode2
+w: explosion drf verb.change:explode4
 hyper: increase
 g: a sudden great increase; "the population explosion"; "the information explosion"
 
-w: explosion2
-hyper: noise
+w: explosion1
+hyper: noise1
 g: the noise caused by an explosion; "the explosion was heard a mile away"
 
-w: explosion drf verb.change:explode1
+w: explosion2 drf verb.change:explode
 w: detonation drf verb.change:detonate1
-w: blowup drf verb.change:blow_up3
-hyper: discharge
+w: blowup drf verb.change:blow_up
+hyper: discharge1
 g: a violent release of energy caused by a chemical or nuclear reaction
 
-w: extinction drf verb.change:extinguish1
+w: extinction drf verb.change:extinguish3
 w: extermination
 hyper: annihilation
 g: complete annihilation; "they think a meteor cause the extinction of the dinosaurs"
@@ -1771,15 +1771,15 @@ w: factor
 hyper: cause
 g: anything that contributes causally to a result; "a number of factors determined the outcome"
 
-w: fadeout1
-hyper: noise1
+w: fadeout
+hyper: noise
 g: a gradual temporary loss of a transmitted signal due to electrical disturbances
 
 w: fading_away
 hyper: dwindling
 g: gradually diminishing in brightness or loudness or strength
 
-w: failure drf verb.social:fail12 drf verb.social:fail ant success
+w: failure drf verb.social:fail5 drf verb.social:fail2 ant success
 hyper: happening
 g: an event that does not accomplish its intended purpose; "the surprise party was a complete failure"
 
@@ -1795,11 +1795,11 @@ w: square_deal
 hyper: deal
 g: fair treatment
 
-w: Fall3 drf verb.social:fall1
+w: Fall drf verb.social:fall1
 ihyper: noun.Tops:event
 g: the lapse of mankind into sinfulness because of the sin of Adam and Eve; "women have been blamed ever since the Fall"
 
-w: fall4 drf verb.motion:fall ant rise2
+w: fall2 drf verb.motion:fall5 ant rise
 hyper: change_of_location
 g: a movement downward; "the rise and fall of the tides"
 
@@ -1808,12 +1808,12 @@ hyper: landmark
 dt: noun.communication:Old_Testament
 g: (Judeo-Christian mythology) when Adam and Eve ate of the fruit of the tree of knowledge of good and evil in the Garden of Eden, God punished them by driving them out of the Garden of Eden and into the world where they would be subject to sickness and pain and eventual death
 
-w: fall1 drf verb.social:fall drf verb.social:fall2 ant rise
+w: fall1 drf verb.social:fall3 drf verb.social:fall2 ant rise3
 w: downfall
 hyper: weakening
 g: a sudden decline in strength or number or importance; "the fall of the House of Hapsburg"
 
-w: fall2
+w: fall
 w: pin
 hyper: victory
 hp: wrestling_match
@@ -1824,9 +1824,9 @@ hyper: calamity
 g: a severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death
 
 w: fatal_accident
-w: casualty2
+w: casualty
 hyper: fatality
-hyper: accident1
+hyper: accident
 g: an accident that causes someone to die
 
 w: fatality
@@ -1835,19 +1835,19 @@ hyper: death
 g: a death resulting from an accident or a disaster; "a decrease in the number of automobile fatalities"
 
 w: fault
-hyper: breakdown1
+hyper: breakdown
 dt: noun.cognition:electronics
 g: (electronics) equipment failure attributable to some defect in a circuit (loose connection or insulation failure or short circuit etc.); "it took much longer to find the fault than to fix it"
 
-w: feast drf verb.consumption:feast2
+w: feast1 drf verb.consumption:feast2
 hyper: thing
 g: something experienced with great delight; "a feast for the eyes"
 
 w: fender-bender
-hyper: collision
+hyper: collision1
 g: a collision between motor vehicles that produces minor damage
 
-w: fertilization1 drf verb.change:fertilize
+w: fertilization1 drf verb.change:fertilize1
 w: fertilisation1
 w: fecundation1 drf verb.change:fecundate
 w: dressing
@@ -1857,12 +1857,12 @@ g: making fertile as by applying fertilizer or manure
 w: fertilization drf verb.body:fertilize
 w: fertilisation
 w: fecundation drf verb.body:fecundate
-w: impregnation drf verb.body:impregnate1 drf verb.body:impregnate
+w: impregnation drf verb.body:impregnate drf verb.body:impregnate1
 hyper: creation
 g: creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant
 
 w: fete drf verb.social:fete
-w: feast1 drf verb.consumption:feast1 drf verb.consumption:feast
+w: feast drf verb.consumption:feast drf verb.consumption:feast1
 w: fiesta
 hyper: party
 g: an elaborate party (often outdoors)
@@ -1876,7 +1876,7 @@ w: field_trial
 hyper: contest
 g: a contest between gun dogs to determine their proficiency in pointing and retrieving
 
-w: final drf adjs.all:final
+w: final drf adjs.all:final1
 hyper: match
 hp: elimination_tournament
 g: the final match between the winners of all previous matches in an elimination tournament
@@ -1889,11 +1889,11 @@ w: finish1
 hyper: downfall1
 g: the downfall of someone (as of persons on one side of a conflict); "booze will be the finish of him"; "it was a fight to the finish"
 
-w: fire1
-hyper: trial
+w: fire
+hyper: trial1
 g: a severe trial; "he went through fire and damnation"
 
-w: fire drf verb.change:fire1
+w: fire1 drf verb.change:fire
 hyper: happening
 g: the event of something burning (often destructive); "they lost everything in the fire"
 
@@ -1914,14 +1914,14 @@ w: flame-out1
 hyper: failure
 g: a complete or conspicuous failure; "the spectacular flame-out of the company's stock cost many people their life savings"
 
-w: flap1 drf verb.motion:flap2 drf verb.motion:flap3 drf verb.motion:flap drf verb.motion:flap1
-w: flapping drf verb.motion:flap3 drf verb.motion:flap2 drf verb.motion:flap1 drf verb.motion:flap
-w: flutter1
-w: fluttering drf verb.motion:flutter1
-hyper: wave
+w: flap drf verb.motion:flap1 drf verb.motion:flap drf verb.motion:flap3 drf verb.motion:flap2
+w: flapping drf verb.motion:flap drf verb.motion:flap1 drf verb.motion:flap2 drf verb.motion:flap3
+w: flutter
+w: fluttering drf verb.motion:flutter3
+hyper: wave2
 g: the motion made by flapping up and down
 
-w: flash drf verb.change:flash4
+w: flash drf verb.change:flash
 hyper: happening
 g: a sudden intense burst of radiant energy
 
@@ -1929,8 +1929,8 @@ w: flashback
 hyper: recurrence
 g: an unexpected but vivid recurrence of a past experience (especially a recurrence of the effects of an hallucinogenic drug taken much earlier)
 
-w: flash1 drf verb.change:flash3
-w: flashing drf verb.change:flash3
+w: flash1 drf verb.change:flash1
+w: flashing drf verb.change:flash1
 hyper: experience
 g: a short vivid experience; "a flash of emotion swept over him"; "the flashings of pain were a warning"
 
@@ -1938,68 +1938,68 @@ w: flesh_wound
 hyper: wound
 g: a wound that does not damage important internal organs or shatter any bones
 
-w: flick drf verb.contact:flick3
+w: flick drf verb.contact:flick1
 hyper: contact
 g: a light sharp contact (usually with something flexible); "he gave it a flick with his finger"; "he felt the flick of a whip"
 
 w: flicker drf verb.perception:flicker drf verb.weather:flicker
-w: spark1 drf verb.weather:spark
-w: glint drf verb.perception:glint
+w: spark drf verb.weather:spark
+w: glint drf verb.perception:glint1
 hyper: flash
 g: a momentary flash of light
 
-w: flood_tide ant ebbtide
+w: flood_tide1 ant ebbtide
 w: flood
 w: rising_tide
-hyper: tide
+hyper: tide1
 g: the occurrence of incoming water (between a low tide and the following high tide); "a tide in the affairs of men which, taken at the flood, leads on to fortune" -Shakespeare
 
 w: flop drf verb.social:flop
 w: bust drf verb.contact:bust1
-w: fizzle
+w: fizzle1
 hyper: failure
 g: a complete failure; "the play was a dismal flop"
 
-w: flow drf verb.stative:flow drf verb.motion:flow2 drf verb.motion:flow
-w: flowing drf verb.motion:flow
+w: flow drf verb.stative:flow drf verb.motion:flow drf verb.motion:flow1
+w: flowing drf verb.motion:flow1
 hyper: change_of_location
 g: the motion characteristic of fluids (liquids or gases)
 
-w: fluctuation1 drf verb.motion:fluctuate3 drf verb.motion:fluctuate
-hyper: wave
+w: fluctuation drf verb.motion:fluctuate drf verb.motion:fluctuate1
+hyper: wave2
 g: a wave motion; "the fluctuations of the sea"
 
-w: flush drf verb.change:flush3 drf verb.change:flush2 drf verb.change:flush
+w: flush drf verb.change:flush3 drf verb.change:flush1 drf verb.change:flush2
 w: gush drf verb.motion:gush
-w: outpouring1
+w: outpouring
 hyper: flow
 g: a sudden rapid flow (as of water); "he heard the flush of a toilet"; "there was a little gush of blood"; "she attacked him with an outpouring of words"
 
-w: flux drf verb.change:flux1
+w: flux drf verb.change:flux
 w: fluxion drf verb.motion:flux
 hyper: flow
 g: a flow or discharge
 
-w: flying_start1
-w: running_start1
+w: flying_start
+w: running_start
 hyper: racing_start
 g: a racing start in which the contestants are already in full motion when they pass the starting line
 
-w: flying_start
-w: running_start
+w: flying_start1
+w: running_start1
 hyper: start
 g: a quick and auspicious beginning
 
 w: footfall
 w: footstep
-w: step drf verb.motion:step4 drf verb.motion:step
+w: step drf verb.motion:step drf verb.motion:step3
 hyper: sound
 g: the sound of a step of someone walking; "he heard footsteps on the porch"
 
 w: footrace
 w: foot_race
-w: run2 drf verb.competition:run1 drf verb.motion:run5 drf verb.motion:run10 drf verb.motion:run
-hyper: race
+w: run1 drf verb.competition:run2 drf verb.motion:run10 drf verb.motion:run1 drf verb.motion:run9
+hyper: race1
 g: a race run on foot; "she broke the record for the half-mile run"
 
 w: foreboding drf verb.communication:forebode
@@ -2016,22 +2016,22 @@ hyper: tremor
 g: a tremor preceding an earthquake
 
 w: forest_fire
-hyper: fire
+hyper: fire1
 g: an uncontrolled fire in a wooded area
 
-w: formality drf adjs.all:formal
+w: formality drf adjs.all:formal1
 w: formalities
 hyper: ceremony
 g: a requirement of etiquette or custom; "a mere formality"
 
-w: foundering drf verb.motion:founder1
+w: foundering drf verb.motion:founder
 w: going_under
 hyper: sinking
 dt: noun.artifact:ship
 g: (of a ship) sinking
 
 w: fragmentation drf verb.change:fragment
-hyper: explosion
+hyper: explosion2
 g: the scattering of bomb fragments after the bomb explodes
 
 w: free_fall
@@ -2039,11 +2039,11 @@ hyper: drop
 g: the ideal falling motion of something subject only to a gravitational field
 
 w: freestyle
-hyper: race
+hyper: race1
 g: a race (as in swimming) in which each contestant has a free choice of the style to use
 
 w: freshet
-w: spate
+w: spate1
 hyper: flow
 g: the occurrence of a water flow resulting from sudden rain or melting snow
 
@@ -2068,15 +2068,15 @@ w: fun_run
 hyper: footrace
 g: a footrace run for fun (often including runners who are sponsored for a charity)
 
-w: fusion drf verb.change:fuse
+w: fusion drf verb.change:fuse2
 w: merger drf verb.change:merge2
 w: unification drf verb.change:unify1 drf verb.change:unify
 hyper: union
 g: an occurrence that involves the production of a union
 
 w: fuss
-w: trouble1
-w: bother drf verb.social:bother1
+w: trouble
+w: bother drf verb.social:bother
 w: hassle drf verb.emotion:hassle
 hyper: perturbation
 g: an angry disturbance; "he didn't want to make a fuss"; "they had labor trouble"; "a spot of bother"
@@ -2086,22 +2086,22 @@ hyper: sound
 g: the sound produced while gargling
 
 w: genesis
-w: generation drf verb.creation:generate drf verb.body:generate
+w: generation drf verb.creation:generate2 drf verb.body:generate
 hyper: beginning
 g: a coming into being
 
-w: germination drf verb.change:germinate1
+w: germination drf verb.change:germinate
 hyper: origin
 g: the origin of some development; "the germination of their discontent"
 
-w: gleam drf verb.perception:gleam
-w: gleaming drf verb.perception:gleam
+w: gleam drf verb.perception:gleam1
+w: gleaming drf verb.perception:gleam1
 w: glimmer drf adjs.all:glimmery drf verb.perception:glimmer
 hyper: flash
 g: a flash of light (especially reflected light)
 
 w: glitter drf adjs.all:glittery
-w: sparkle drf adjs.all:sparkly drf verb.weather:sparkle2 drf verb.weather:sparkle
+w: sparkle drf adjs.all:sparkly1 drf verb.weather:sparkle drf verb.weather:sparkle1
 w: coruscation drf verb.weather:coruscate
 hyper: flash
 g: the occurrence of a small flash or spark
@@ -2142,11 +2142,11 @@ g: winning all of the tricks in a hand of bridge
 
 w: grassfire
 w: prairie_fire
-hyper: fire
+hyper: fire1
 g: an uncontrolled fire in a grassy area
 
 w: grate
-hyper: noise
+hyper: noise1
 g: a harsh rasping sound made by scraping something
 
 w: gravitation drf adj.pert:gravitational drf verb.motion:gravitate ant levitation
@@ -2159,16 +2159,16 @@ g: the implosion of a star resulting from its own gravity; the result is a small
 
 w: gravity_wave
 w: gravitation_wave
-hyper: wave
-dt: noun.cognition:physics
+hyper: wave2
+dt: noun.cognition:physics1
 g: (physics) a wave that is hypothesized to propagate gravity and to travel at the speed of light
 
 w: green_revolution
 hyper: revolution1
 g: the introduction of pesticides and high-yield grains and better management during the 1960s and 1970s which greatly increased agricultural productivity
 
-w: grinding drf verb.contact:grind
-hyper: noise
+w: grinding drf verb.contact:grind1
+hyper: noise1
 g: a harsh and strident sound (as of the grinding of gears)
 
 w: ground_fire
@@ -2183,11 +2183,11 @@ w: ground_loop
 hyper: mishap
 g: a sharp uncontrollable turn made by an airplane while moving along the ground
 
-w: ground_swell1
+w: ground_swell
 hyper: transition1
 g: an obvious change of public opinion or political sentiment that occurs without leadership or overt expression; "there was a ground swell of antiwar sentiment"
 
-w: ground_swell
+w: ground_swell1
 w: heavy_swell
 hyper: swell
 g: a broad and deep undulation of the ocean
@@ -2199,10 +2199,10 @@ g: the sound of growling (as made by animals)
 
 w: grunt drf verb.communication:grunt
 w: oink
-hyper: noise
+hyper: noise1
 g: the short low gruff noise of the kind made by hogs
 
-w: gurgle drf verb.perception:gurgle2 drf verb.perception:gurgle
+w: gurgle drf verb.perception:gurgle1 drf verb.perception:gurgle
 hyper: sound
 g: the bubbling sound of water flowing from a bottle with a narrow neck
 
@@ -2215,10 +2215,10 @@ hyper: field_event
 g: an athletic competition in which a heavy metal ball that is attached to a flexible wire is hurled as far as possible
 
 w: hap drf verb.change:hap
-hyper: accident
+hyper: accident1
 g: an accidental happening; "he recorded all the little haps and mishaps of his life"
 
-w: happening drf verb.change:happen
+w: happening drf verb.change:happen2
 w: occurrence drf adjs.all:occurrent
 w: occurrent
 w: natural_event
@@ -2244,12 +2244,12 @@ hyper: horse_race
 g: a horse race between people riding in sulkies behind horses that are trotting or pacing
 
 w: head_crash
-hyper: crash3
+hyper: crash
 dt: noun.cognition:computer_science
 g: (computer science) a crash of a read/write head in a hard disk drive (usually caused by contact of the head with the surface of the magnetic disk)
 
 w: headway
-w: head drf verb.motion:head2 drf verb.motion:head1 drf verb.motion:head
+w: head1 drf verb.motion:head drf verb.motion:head2 drf verb.motion:head1
 hyper: progress
 g: forward movement; "the ship made little headway against the gale"
 
@@ -2258,7 +2258,7 @@ hyper: defeat
 g: a narrow defeat or a defeat at the last minute
 
 w: heat
-hyper: race
+hyper: race1
 g: a preliminary race in which the winner advances to a more important race
 
 w: heat_flash
@@ -2269,19 +2269,19 @@ w: heat_lightning
 hyper: lightning
 g: bright flashes of light near the horizon without thunder (especially on hot evenings); usually attributed to distant lightning that is reflected by clouds
 
-w: heave drf verb.change:heave
+w: heave1 drf verb.change:heave
 hyper: movement
 dt: noun.cognition:geology
 g: (geology) a horizontal dislocation
 
-w: heave1 drf verb.motion:heave
-w: heaving1 drf verb.motion:heave
-hyper: rise2
+w: heave drf verb.motion:heave1
+w: heaving drf verb.motion:heave1
+hyper: rise
 g: an upward movement (especially a rhythmical rising and falling); "the heaving of waves on a rough sea"
 
 w: hell
 w: blaze
-hyper: trouble
+hyper: trouble1
 g: a cause of difficulty and suffering; "war is hell"; "go to blazes"
 
 w: high_jump
@@ -2291,15 +2291,15 @@ g: a competition that involves jumping as high as possible over a horizontal bar
 w: high_tide ant low_tide
 w: high_water
 w: highwater
-hyper: tide
+hyper: tide1
 g: the tide when the water is highest
 
-w: hiss drf verb.communication:hiss2 drf verb.communication:hiss1 drf verb.communication:hiss
-w: hissing drf verb.communication:hiss2 drf verb.communication:hiss1 drf verb.communication:hiss
+w: hiss drf verb.communication:hiss2 drf verb.communication:hiss drf verb.communication:hiss1
+w: hissing drf verb.communication:hiss2 drf verb.communication:hiss drf verb.communication:hiss1
 w: hushing
-w: fizzle1
-w: sibilation drf verb.communication:sibilate
-hyper: noise
+w: fizzle
+w: sibilation drf verb.communication:sibilate3
+hyper: noise1
 g: a fricative sound (especially as an expression of disapproval); "the performers could not be heard over the hissing of the audience"
 
 w: home_stand
@@ -2311,45 +2311,45 @@ hyper: end
 du: noun.communication:colloquialism
 g: the end of an enterprise; "they were on the homestretch when the computer crashed"
 
-w: honk drf verb.communication:honk
+w: honk drf verb.communication:honk1
 hyper: cry
 g: the cry of a goose (or any sound resembling this)
 
-w: hop drf verb.motion:hop
+w: hop drf verb.motion:hop4
 w: record_hop
 hyper: dance
 g: an informal dance where popular music is played
 
 w: horse_race
-hyper: race
+hyper: race1
 g: a contest of speed between horses; usually held for the purpose of betting
 
 w: house_party
 hyper: party
 g: a party lasting over one or more nights at a large house
 
-w: howl2 drf verb.communication:howl3
+w: howl drf verb.communication:howl
 hyper: cry
 g: the long plaintive cry of a hound or a wolf
 
-w: howl drf verb.communication:howl1
-hyper: noise
+w: howl1 drf verb.communication:howl2
+hyper: noise1
 g: a loud sustained noise resembling the cry of a hound; "the howl of the wind made him restless"
 
 w: hubbub
 w: uproar drf adjs.all:uproarious
 w: brouhaha
 w: katzenjammer
-hyper: noise
+hyper: noise1
 g: loud confused noise from many sources
 
-w: hum drf verb.stative:hum drf verb.perception:hum drf verb.communication:hum1
-w: humming drf verb.stative:hum drf verb.communication:hum1
-hyper: noise
+w: hum drf verb.stative:hum drf verb.perception:hum drf verb.communication:hum
+w: humming drf verb.stative:hum drf verb.communication:hum
+hyper: noise1
 g: a humming noise; "the hum of distant traffic"
 
 w: humiliation drf verb.emotion:humiliate
-w: mortification drf verb.emotion:mortify1
+w: mortification drf verb.emotion:mortify2
 hyper: case
 g: an instance in which you are caused to lose your prestige or self-respect; "he had to undergo one humiliation after another"
 
@@ -2364,7 +2364,7 @@ w: Iditarod_Trail_Dog_Sled_Race
 hyper: cross_country
 g: an important dogsled race run annually on the Iditarod Trail
 
-w: idyll drf adjs.all:idyllic drf adjs.all:idyllic
+w: idyll drf adjs.all:idyllic drf adjs.all:idyllic1
 hyper: episode
 g: an episode of such pastoral or romantic charm as to qualify as the subject of a poetic idyll
 
@@ -2373,12 +2373,12 @@ hyper: contact
 g: the striking of one body against another
 
 w: implosion drf verb.change:implode
-hyper: collapse
+hyper: collapse1
 g: a sudden inward collapse; "the implosion of a light bulb"
 
-w: improvement drf verb.change:improve
-w: betterment drf verb.change:better
-w: advance1 drf verb.social:advance1 drf verb.change:advance
+w: improvement drf verb.change:improve1
+w: betterment drf verb.change:better1
+w: advance1 drf verb.social:advance drf verb.change:advance2
 hyper: transformation
 g: a change for the better; progress in development
 
@@ -2387,7 +2387,7 @@ hyper: happening
 hp: episode
 g: a single distinct event
 
-w: increase drf verb.change:increase2 drf verb.change:increase ant decrease
+w: increase drf verb.change:increase1 drf verb.change:increase ant decrease
 hyper: change
 g: a change resulting in an increase; "the increase is scheduled for next month"
 
@@ -2399,9 +2399,9 @@ w: inevitable
 hyper: destiny
 g: an unavoidable event; "don't argue with the inevitable"
 
-w: infection drf verb.body:infect1
+w: infection drf verb.body:infect
 w: contagion drf adjs.all:contagious1
-w: transmission drf verb.possession:transmit10
+w: transmission drf verb.possession:transmit
 hyper: incident
 g: an incident in which an infectious disease is transmitted
 
@@ -2411,8 +2411,8 @@ dt: noun.cognition:astronomy
 g: (astronomy) the alignment of the Earth and a planet on the same side of the sun
 
 w: inflation
-hyper: explosion
-dt: noun.cognition:cosmology
+hyper: explosion2
+dt: noun.cognition:cosmology1
 g: (cosmology) a brief exponential expansion of the universe (faster than the speed of light) postulated to have occurred shortly after the big bang
 
 w: inflection
@@ -2423,20 +2423,20 @@ g: deviation from a straight or normal course
 
 w: ingress ant egress
 w: immersion1 ant emersion
-hyper: disappearance
+hyper: disappearance1
 hp: eclipse
 dt: noun.cognition:astronomy
 g: (astronomy) the disappearance of a celestial body prior to an eclipse
 
-w: initiation drf verb.social:initiate1
-w: induction drf verb.social:induct1 drf verb.social:induct
+w: initiation drf verb.social:initiate
+w: induction drf verb.social:induct drf verb.social:induct2
 w: installation drf verb.social:install
 hyper: ceremony
 g: a formal entry into an organization or position or office; "his initiation into the club"; "he was ordered to report for induction into the army"; "he gave a speech as part of his installation into the hall of fame"
 
-w: injury drf verb.body:injure
+w: injury1 drf verb.body:injure
 w: accidental_injury
-hyper: accident1
+hyper: accident
 g: an accident that results in physical damage or hurt
 
 w: insertional_mutagenesis
@@ -2449,7 +2449,7 @@ hyper: throw
 g: the stroke of an engine piston moving away from the crankshaft
 
 w: interruption
-w: break drf verb.stative:break5
+w: break drf verb.stative:break1
 hyper: happening
 g: some abrupt occurrence that interrupts an ongoing activity; "the telephone is an annoying interruption"; "there was a break in the action when a player was hurt"
 
@@ -2478,8 +2478,8 @@ hyper: spread
 dt: noun.cognition:physiology
 g: (physiology) the spread of sensory neural impulses in the cortex
 
-w: isomerization drf verb.change:isomerize1 drf verb.change:isomerize
-w: isomerisation drf verb.change:isomerise1 drf verb.change:isomerise
+w: isomerization drf verb.change:isomerize drf verb.change:isomerize1
+w: isomerisation drf verb.change:isomerise drf verb.change:isomerise1
 hyper: conversion
 g: the conversion of a compound into an isomer of itself
 
@@ -2488,10 +2488,10 @@ hyper: field_event
 g: an athletic competition in which a javelin is thrown as far as possible
 
 w: jet drf verb.contact:jet
-w: squirt drf verb.contact:squirt10 drf verb.contact:squirt
-w: spurt drf verb.motion:spurt1
-w: spirt drf verb.motion:spirt1
-hyper: discharge1
+w: squirt drf verb.contact:squirt1 drf verb.contact:squirt
+w: spurt drf verb.motion:spurt
+w: spirt drf verb.motion:spirt
+hyper: discharge
 g: the occurrence of a sudden discharge (as of liquid)
 
 w: jingle drf adjs.all:jingly drf verb.perception:jingle
@@ -2500,7 +2500,7 @@ hyper: sound
 g: a metallic sound; "the jingle of coins"; "the jangle of spurs"
 
 w: jitter
-hyper: noise1
+hyper: noise
 g: small rapid variations in a waveform resulting from fluctuations in the voltage supply or mechanical vibrations or other sources
 
 w: jitter1 drf adj.pert:jittery
@@ -2513,25 +2513,25 @@ dr: noun.location:United_Kingdom
 g: a happy party
 
 w: jolt drf verb.motion:jolt
-w: jar drf verb.motion:jar
+w: jar drf verb.motion:jar1
 w: jounce
-w: shock2
-hyper: blow
+w: shock1
+hyper: blow1
 g: a sudden jarring impact; "the door closed with a jolt"; "all the jars and jolts were smoothed out by the shock absorbers"
 
 w: joust drf verb.competition:joust
-w: tilt1 drf verb.competition:tilt
+w: tilt drf verb.competition:tilt
 hyper: noun.act:struggle1
-hp: tournament1
+hp: tournament
 g: a combat between two mounted knights tilting against each other with blunted lances
 
-w: jump1 drf verb.change:jump
-w: leap1
+w: jump drf verb.change:jump1
+w: leap
 hyper: increase
 g: a sudden and decisive increase; "a jump in attendance"
 
 w: juncture
-w: occasion
+w: occasion1
 hyper: happening
 g: an event that occurs at a critical time; "at such junctures he always had an impulse to leave"; "it was needed only on special occasions"
 
@@ -2551,7 +2551,7 @@ w: start-off
 hyper: start
 g: a start given to contestants; "I was there with my parents at the kickoff"
 
-w: killing drf verb.contact:kill1 drf verb.contact:kill
+w: killing drf verb.contact:kill3 drf verb.contact:kill4
 w: violent_death
 hyper: fatality
 g: an event that causes someone to die
@@ -2574,16 +2574,16 @@ w: knock2
 hyper: misfortune
 g: a bad experience; "the school of hard knocks"
 
-w: knock drf verb.contact:knock4
-w: bash drf verb.contact:bash
-w: bang1 drf verb.contact:bang
-w: smash1 drf verb.contact:smash8 drf verb.change:smash drf verb.contact:smash
+w: knock drf verb.contact:knock2
+w: bash1 drf verb.contact:bash
+w: bang drf verb.contact:bang2
+w: smash drf verb.contact:smash drf verb.change:smash drf verb.contact:smash3
 w: belt drf verb.contact:belt
-hyper: blow
+hyper: blow1
 g: a vigorous blow; "the sudden knock floored him"; "he took a bash right in his face"; "he got a bang on the head"
 
-w: knock1 drf verb.perception:knock1 drf verb.perception:knock drf verb.contact:knock1
-w: knocking drf verb.perception:knock1 drf verb.contact:knock1
+w: knock1 drf verb.perception:knock1 drf verb.perception:knock drf verb.contact:knock
+w: knocking drf verb.perception:knock1 drf verb.contact:knock
 hyper: sound
 g: the sound of knocking (as on a door or in an engine or bearing); "the knocking grew louder"
 
@@ -2597,11 +2597,11 @@ w: watershed
 hyper: juncture
 g: an event marking a unique or important historical change of course or one on which important developments depend; "the agreement was a watershed in the history of both nations"
 
-w: landslide1
+w: landslide
 hyper: victory
 g: an overwhelming electoral victory; "Roosevelt defeated Hoover in a landslide"
 
-w: landslide
+w: landslide1
 w: landslip
 hyper: slide
 g: a slide of a large mass of dirt and rock down a mountain or cliff
@@ -2610,15 +2610,15 @@ w: last_laugh
 hyper: victory
 g: ultimate success achieved after a near failure (inspired by the saying `he laughs best who laughs last'); "we had the last laugh after the votes were counted"
 
-w: leap drf verb.change:leap
-w: jump drf verb.change:jump1
+w: leap1 drf verb.change:leap
+w: jump1 drf verb.change:jump2
 w: saltation1
 hyper: transition1
 g: an abrupt transition; "a successful leap from college to the major leagues"
 
 w: leeward_tide
 w: lee_tide
-hyper: tide
+hyper: tide1
 g: a tide that runs in the same direction as the wind is blowing; "a leeward tide is dangerous for small boats"
 
 w: levitation ant gravitation
@@ -2631,11 +2631,11 @@ hyper: rotation
 g: rotation to the left
 
 w: liftoff drf verb.motion:lift_off
-hyper: rise2
+hyper: rise
 g: the initial ascent of a rocket from its launching pad
 
 w: lift1 drf verb.motion:lift
-w: rise1 drf verb.motion:rise4
+w: rise1 drf verb.motion:rise
 hyper: wave1
 g: a wave that lifts the surface of the water or ground
 
@@ -2661,7 +2661,7 @@ w: broad_jump
 hyper: field_event
 g: a competition that involves jumping as far as possible from a running start
 
-w: loss1
+w: loss2
 hyper: experience
 g: the experience of losing a loved one; "he sympathized on the loss of their grandfather"
 
@@ -2670,17 +2670,17 @@ hyper: change
 g: the occurrence of a loss of the ability to perceive and respond
 
 w: lottery
-hyper: accident
+hyper: accident1
 g: something that is regarded as a chance event; "the election was just a lottery to them"
 
 w: low_tide ant high_tide
 w: low_water
-hyper: tide
+hyper: tide1
 g: the lowest (farthest) ebb of the tide
 
 w: luau
 hyper: fete
-dr: noun.location:Hawaii
+dr: noun.location:Hawaii1
 g: an elaborate Hawaiian feast or party (especially one accompanied by traditional foods and entertainment)
 
 w: lunar_eclipse
@@ -2721,7 +2721,7 @@ w: marathon drf noun.person:marathoner
 hyper: footrace
 g: a footrace of 26 miles 385 yards
 
-w: martyrdom drf noun.person:martyr1
+w: martyrdom drf noun.person:martyr
 hyper: death
 g: death that is imposed because of the person's adherence of a religious faith or cause
 
@@ -2747,12 +2747,12 @@ hyper: ceremony
 dr: noun.location:United_Kingdom
 g: a public ceremony on Maundy Thursday when the monarch distributes Maundy money
 
-w: meeting drf verb.motion:meet1
+w: meeting drf verb.motion:meet
 w: encounter drf verb.possession:encounter
 hyper: convergence
 g: a casual or unexpected convergence; "he still remembers their meeting in Paris"; "there was a brief encounter in the hallway"
 
-w: meet drf verb.competition:meet drf verb.social:meet1
+w: meet drf verb.competition:meet drf verb.social:meet2
 w: sports_meeting
 hyper: athletic_contest
 g: a meeting at which a number of athletic contests are held
@@ -2770,7 +2770,7 @@ hyper: start
 g: the first occurrence of menstruation in a woman
 
 w: meow drf verb.communication:meow
-w: mew drf verb.communication:mew
+w: mew drf verb.communication:mew1
 w: miaou drf verb.communication:miaou
 w: miaow drf verb.communication:miaow
 w: miaul
@@ -2778,19 +2778,19 @@ hyper: cry
 g: the sound made by a cat (or any sound resembling this)
 
 w: merry-go-round
-hyper: cycle2
+hyper: cycle
 g: a never-ending cycle of activities and events (especially when they seem to have little purpose); "if we lose the election the whole legislative merry-go-round will have to start over"
 
 w: might-have-been
 hyper: noun.Tops:event
 g: an event that could have occurred but never did
 
-w: migration1
+w: migration
 hyper: noun.Tops:event
 dt: noun.cognition:chemistry
 g: (chemistry) the nonrandom movement of an atom or radical from one place to another within a molecule
 
-w: migration drf adj.pert:migrational drf verb.motion:migrate1
+w: migration1 drf adj.pert:migrational drf verb.motion:migrate
 hyper: periodic_event
 g: the periodic passage of groups of animals (especially birds or fishes) from one region to another for feeding or breeding
 
@@ -2811,7 +2811,7 @@ w: miracle drf adjs.all:miraculous
 hyper: happening
 g: any amazing or wonderful occurrence
 
-w: miracle1 drf adjs.all:miraculous
+w: miracle1 drf adjs.all:miraculous1
 hyper: noun.Tops:event
 g: a marvellous event manifesting a supernatural act of a divine agent
 
@@ -2821,13 +2821,13 @@ hyper: failure
 g: failure of a plan
 
 w: misfire drf verb.competition:misfire
-w: dud1
-hyper: breakdown1
+w: dud
+hyper: breakdown
 g: an explosion that fails to occur
 
 w: misfortune
 w: bad_luck
-hyper: trouble
+hyper: trouble1
 g: unnecessary and unforeseen trouble resulting from an unfortunate event
 
 w: mishap
@@ -2841,8 +2841,8 @@ w: misfire1
 hyper: failure
 g: a failure to hit (or meet or find etc)
 
-w: mix drf verb.contact:mix2 drf verb.change:mix1 drf verb.change:mix2 drf verb.contact:mix drf verb.change:mix
-w: mixture drf verb.contact:mix drf verb.change:mix1
+w: mix drf verb.contact:mix1 drf verb.change:mix2 drf verb.change:mix drf verb.contact:mix drf verb.change:mix1
+w: mixture drf verb.contact:mix drf verb.change:mix2
 hyper: combining
 g: an event that combines things in a mixture; "a gradual mixture of cultures"
 
@@ -2851,7 +2851,7 @@ hyper: cycle_of_rebirth
 dt: noun.cognition:Hinduism
 g: (Hinduism) release from the cycle of rebirth
 
-w: monstrosity drf adjs.all:monstrous
+w: monstrosity drf adjs.all:monstrous1
 hyper: malformation
 g: something hideous or frightful; "they regarded the atom bomb as a monstrosity"
 
@@ -2859,13 +2859,13 @@ w: moo drf verb.communication:moo
 hyper: cry
 g: the sound made by a cow or bull
 
-w: movement drf verb.motion:move3
+w: movement drf verb.motion:move2
 w: motion
 hyper: happening
 g: a natural event that involves a change in the position or location of something
 
 w: mudslide
-hyper: landslide
+hyper: landslide1
 g: a landslide of mud
 
 w: mutagenesis
@@ -2884,12 +2884,12 @@ hyper: change
 dt: noun.cognition:genetics
 g: (genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the genotype of an organism
 
-w: mutilation drf verb.change:mutilate drf verb.body:mutilate
-hyper: injury
+w: mutilation drf verb.change:mutilate1 drf verb.body:mutilate
+hyper: injury1
 g: an injury that causes disfigurement or that deprives you of a limb or other important body part
 
-w: mutter drf verb.communication:mutter1 drf noun.person:mutterer
-w: muttering drf verb.communication:mutter1
+w: mutter drf verb.communication:mutter drf noun.person:mutterer
+w: muttering drf verb.communication:mutter
 w: murmur drf adjs.all:murmurous drf verb.communication:murmur drf noun.person:murmurer
 w: murmuring drf verb.communication:murmur
 w: murmuration drf verb.communication:murmur
@@ -2897,7 +2897,7 @@ w: mussitation drf verb.communication:mussitate
 hyper: sound
 g: a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech
 
-w: neap_tide ant springtide
+w: neap_tide ant springtide1
 w: neap
 hyper: high_tide
 g: a less than average tide occurring at the first and third quarters of the moon
@@ -2920,7 +2920,7 @@ g: the characteristic sounds made by a horse
 w: nerve_impulse
 w: nervous_impulse
 w: neural_impulse
-w: impulse
+w: impulse1
 hyper: electrical_discharge
 g: the electrical discharge that travels along a nerve fiber; "they demonstrated the transmission of impulses from the cortex to the hypothalamus"
 
@@ -2932,14 +2932,14 @@ w: night_terror
 hyper: drama
 g: an emotional episode (usually in young children) in which the person awakens in terror with feelings of anxiety and fear but is unable to remember any incident that might have provoked those feelings
 
-w: noise drf verb.perception:noise
+w: noise1 drf verb.perception:noise
 hyper: sound
 g: sound of any kind (especially unintelligible or dissonant sound); "he enjoyed the street noises"; "they heard indistinct noises of people talking"; "during the firework display that ended the gala the noise reached 98 decibels"
 
-w: noise1
+w: noise
 w: interference
-w: disturbance1
-hyper: trouble
+w: disturbance
+hyper: trouble1
 g: electrical or acoustic activity that can disturb communication
 
 w: nonevent
@@ -2972,8 +2972,8 @@ w: Z
 hyper: ending
 g: the ending of a series or sequence; "the Alpha and the Omega, the first and the last, the beginning and the end"--Revelation
 
-w: omen drf adjs.all:ominous drf adjs.all:ominous drf verb.communication:omen
-w: portent drf adjs.all:portentous drf adjs.all:portentous drf verb.communication:portend
+w: omen drf adjs.all:ominous1 drf adjs.all:ominous drf verb.communication:omen
+w: portent drf adjs.all:portentous drf adjs.all:portentous1 drf verb.communication:portend
 w: presage drf verb.communication:presage
 w: prognostic drf adjs.all:prognostic
 w: prognostication drf verb.communication:prognosticate1
@@ -2995,22 +2995,22 @@ hyper: start
 g: the beginning or early stages; "the onset of pneumonia"
 
 w: onslaught
-hyper: trouble
+hyper: trouble1
 g: a sudden and severe onset of trouble
 
-w: open drf adjs.all:open
-hyper: tournament
+w: open drf adjs.all:open6
+hyper: tournament1
 g: a tournament in which both professionals and amateurs may play
 
 w: opener drf verb.social:open1
 hyper: start
 g: the first event in a series; "she played Chopin for her opener"; "the season's opener was a game against the Yankees"
 
-w: opening1 drf verb.social:open1 drf verb.social:open
+w: opening drf verb.social:open1 drf verb.social:open
 hyper: ceremony
 g: a ceremony accompanying the start of some enterprise
 
-w: opening drf adj.all:opening
+w: opening1 drf adj.all:opening
 w: opening_night
 w: curtain_raising
 hyper: start
@@ -3031,16 +3031,16 @@ w: ordeal
 hyper: experience
 g: a severe or trying experience
 
-w: origin drf verb.stative:originate2 drf verb.stative:originate drf verb.creation:originate
-w: origination drf verb.stative:originate2 drf verb.stative:originate
+w: origin drf verb.stative:originate drf verb.stative:originate1 drf verb.creation:originate
+w: origination drf verb.stative:originate drf verb.stative:originate1
 w: inception
 hyper: beginning
 g: an event that is a beginning; a first part or stage of subsequent events
 
 w: oscillation drf verb.motion:oscillate
 w: vibration drf verb.motion:vibrate1
-hyper: wave
-dt: noun.cognition:physics
+hyper: wave2
+dt: noun.cognition:physics1
 g: (physics) a regular periodic variation in value about a mean
 
 w: out-of-body_experience
@@ -3048,19 +3048,19 @@ hyper: experience
 g: the dissociative experience of observing yourself from an external perspective as though your mind or soul had left and was observing your body
 
 w: outage
-hyper: breakdown1
+hyper: breakdown
 dt: noun.artifact:computer
 g: a temporary suspension of operation (as of computers); "there will be a network outage from 8 to 10 a.m."
 
 w: outbreak
-w: eruption3 drf verb.change:erupt2
-w: irruption drf verb.change:irrupt3
+w: eruption1 drf verb.change:erupt4
+w: irruption drf verb.change:irrupt
 hyper: happening
 g: a sudden violent spontaneous occurrence (usually of some undesirable condition); "the outbreak of hostilities"
 
 w: outburst
 w: burst
-w: flare-up1 drf verb.change:flare_up
+w: flare-up drf verb.change:flare_up
 hyper: happening
 g: a sudden intense happening; "an outburst of heavy rain"; "a burst of lightning"
 
@@ -3069,7 +3069,7 @@ hyper: throw
 g: the stroke of an engine piston moving toward the crankshaft
 
 w: overflow drf verb.motion:overflow
-w: runoff drf verb.motion:run_off4
+w: runoff drf verb.motion:run_off2
 w: overspill
 hyper: flow
 g: the occurrence of surplus liquid (as water) exceeding the limit or capacity
@@ -3084,11 +3084,11 @@ hyper: epidemic
 g: an epidemic that is geographically widespread; occurring throughout a region or even throughout the world
 
 w: pant
-hyper: noise
+hyper: noise1
 g: the noise made by a short puff of steam (as from an engine)
 
 w: paradiddle
-w: roll3 drf verb.perception:roll
+w: roll2 drf verb.perception:roll
 w: drum_roll
 hyper: sound
 g: the sound of a drum (especially a snare drum) beaten rapidly and continuously
@@ -3111,34 +3111,34 @@ dt: noun.artifact:computer
 g: one complete cycle of operations (as by a computer); "it was not possible to complete the computation in a single pass"
 
 w: pass
-w: head1
+w: head
 w: straits
 hyper: juncture
 g: a difficult juncture; "a pretty pass"; "matters came to a head yesterday"
 
-w: passing2 drf verb.change:pass1
+w: passing2 drf verb.change:pass
 hyper: end
 g: the end of something; "the passing of winter"
 
-w: passing drf verb.change:pass11
-w: loss2
-w: departure drf verb.motion:depart4 drf verb.motion:depart1 drf verb.motion:depart
+w: passing drf verb.change:pass1
+w: loss1
+w: departure1 drf verb.motion:depart3 drf verb.motion:depart1 drf verb.motion:depart2
 w: exit drf verb.change:exit
 w: expiration drf verb.change:expire
-w: going drf verb.change:go
+w: going drf verb.change:go3
 w: release
 hyper: death
 du: noun.communication:euphemism
 g: euphemistic expressions for death; "thousands mourned his passing"
 
-w: passing1 drf verb.motion:pass1
-w: passage drf verb.motion:pass1
+w: passing1 drf verb.motion:pass4
+w: passage drf verb.motion:pass4
 hyper: movement
 g: the motion of one object relative to another; "stellar passings can perturb the orbits of comets"
 
-w: pat drf verb.contact:pat
-w: rap
-w: tap drf verb.motion:tap drf verb.perception:tap1 drf verb.contact:tap
+w: pat drf verb.contact:pat1
+w: rap1
+w: tap1 drf verb.motion:tap drf verb.perception:tap1 drf verb.contact:tap2
 hyper: sound
 g: the sound made by a gentle blow
 
@@ -3148,7 +3148,7 @@ g: a quick succession of light rapid sounds; "the patter of mice"; "the patter o
 
 w: peal drf verb.perception:peal1 drf verb.perception:peal
 w: pealing drf verb.perception:peal1 drf verb.perception:peal
-w: roll drf verb.perception:roll
+w: roll1 drf verb.perception:roll
 w: rolling drf verb.perception:roll
 hyper: sound
 g: a deep prolonged sound (as of thunder or large bells)
@@ -3180,12 +3180,12 @@ dt: noun.group:military
 g: military personnel lost by death or capture
 
 w: perturbation
-w: disturbance
+w: disturbance1
 hyper: noun.act:activity
 g: activity that is a malfunction, intrusion, or interruption; "the term `distress' connotes some degree of perturbation and emotional upset"; "he looked around for the source of the disturbance"; "there was a disturbance of neural function"
 
 w: phenomenon
-hyper: development1
+hyper: development
 g: a remarkable development
 
 w: photo_finish
@@ -3203,10 +3203,10 @@ hyper: case
 g: an instance of some kind; "it was a nice piece of work"; "he had a bit of good luck"
 
 w: pileup
-hyper: collision
+hyper: collision1
 g: multiple collisions of vehicles
 
-w: ping drf verb.perception:ping drf verb.perception:ping1 drf verb.contact:ping
+w: ping drf verb.perception:ping1 drf verb.perception:ping drf verb.contact:ping
 hyper: sound
 g: a sharp high-pitched resonant sound (as of a sonar echo or a bullet striking metal)
 
@@ -3232,15 +3232,15 @@ hyper: volcanic_eruption
 g: a volcanic eruption in which a stream of gas and ash is violently ejected to a height of several miles
 
 w: plonk drf verb.contact:plonk
-hyper: noise
+hyper: noise1
 g: the noise of something dropping (as into liquid)
 
-w: plop drf verb.motion:plop1 drf verb.motion:plop
-hyper: noise
+w: plop drf verb.motion:plop drf verb.motion:plop1
+hyper: noise1
 g: the noise of a rounded object dropping into a liquid without a splash
 
-w: plump drf verb.motion:plump1
-hyper: noise
+w: plump drf verb.motion:plump
+hyper: noise1
 g: the sound of a sudden heavy fall
 
 w: plunge drf verb.motion:plunge drf verb.motion:plunge1
@@ -3270,9 +3270,9 @@ hyper: field_event
 g: a competition that involves jumping over a high crossbar with the aid of a long pole
 
 w: political_campaign
-w: campaign drf verb.competition:campaign1
-w: run3 drf verb.competition:run6
-hyper: race1
+w: campaign drf verb.competition:campaign
+w: run drf verb.competition:run1
+hyper: race
 g: a race between candidates for elective office; "I managed his campaign for governor"; "he is raising money for a Senate run"
 
 w: pollination drf verb.body:pollinate
@@ -3280,8 +3280,8 @@ w: pollenation drf verb.body:pollenate
 hyper: fertilization
 g: transfer of pollen from the anther to the stigma of a plant
 
-w: pop drf verb.change:pop3 drf verb.change:pop4 drf verb.perception:pop6 drf verb.competition:pop drf verb.perception:pop
-w: popping drf verb.perception:pop drf verb.competition:pop
+w: pop drf verb.change:pop1 drf verb.change:pop drf verb.perception:pop drf verb.competition:pop drf verb.perception:pop1
+w: popping drf verb.perception:pop1 drf verb.competition:pop
 hyper: sound
 g: a sharp explosive sound as from a gunshot or drawing a cork
 
@@ -3289,16 +3289,16 @@ w: population_shift
 hyper: transformation
 g: a change in the relative numbers of the different groups of individuals making up a population
 
-w: posthumous_birth1
+w: posthumous_birth
 hyper: birth
 g: birth of a child after the father has died
 
-w: posthumous_birth
+w: posthumous_birth1
 hyper: birth
 g: birth of a child by Caesarean section after the death of the mother
 
 w: potato_race
-hyper: race
+hyper: race1
 g: a novelty race in which competitors move potatoes from one place to another one at a time
 
 w: potlatch
@@ -3308,16 +3308,16 @@ g: a ceremonial feast held by some Indians of the northwestern coast of North Am
 
 w: pounding
 w: buffeting
-hyper: blow
+hyper: blow1
 g: repeated heavy blows
 
 w: power_outage
 w: power_failure
-hyper: breakdown1
+hyper: breakdown
 g: equipment failure resulting when the supply of power fails; "the ice storm caused a power outage"
 
 w: prang
-hyper: crash
+hyper: crash3
 dr: noun.location:United_Kingdom
 g: a crash involving a car or plane
 
@@ -3325,15 +3325,15 @@ w: Preakness
 hyper: thoroughbred_race
 g: an annual race for three-year-old horses; held at Pimlico in Baltimore, Maryland
 
-w: precipitation drf verb.motion:precipitate1 drf verb.contact:precipitate
+w: precipitation drf verb.motion:precipitate drf verb.contact:precipitate
 hyper: drop
 g: the act of casting down or falling headlong from a height
 
-w: predestination drf noun.person:predestinationist drf verb.communication:predestine drf verb.cognition:predestine
+w: predestination drf noun.person:predestinationist drf verb.communication:predestine drf verb.cognition:predestine1
 hyper: destiny
 g: previous determination as if by destiny or fate
 
-w: preliminary2 drf adjs.all:preliminary
+w: preliminary1 drf adjs.all:preliminary
 w: overture
 w: prelude drf verb.stative:prelude
 hyper: origin
@@ -3349,13 +3349,13 @@ w: prize_fight drf verb.contact:prizefight
 hyper: boxing_match
 g: a boxing match between professional boxers for a cash prize
 
-w: producer drf verb.creation:produce2
+w: producer drf verb.creation:produce1
 hyper: cause
 g: something that produces; "Maine is a leading producer of potatoes"; "this microorganism is a producer of disease"
 
 w: progress drf verb.motion:progress
 w: progression
-w: advance drf adjs.all:advance drf verb.motion:advance
+w: advance drf adjs.all:advance1 drf verb.motion:advance2
 hyper: change_of_location
 g: a movement forward; "he listened for the progress of the troops"
 
@@ -3366,16 +3366,16 @@ g: a formal ball held for a school class toward the end of the academic year
 
 w: pulsation drf verb.creation:pulsate
 w: pulsing drf verb.creation:pulse
-w: pulse1 drf verb.creation:pulse drf verb.creation:pulsate
-w: impulse1
-hyper: wave
+w: pulse drf verb.creation:pulse drf verb.creation:pulsate
+w: impulse
+hyper: wave2
 dt: noun.cognition:electronics
 g: (electronics) a sharp transient wave in the normal electrical state (or a series of such transients); "the pulsations seemed to be coming from a star"
 
-w: pulse drf verb.motion:pulse drf verb.motion:pulsate
-w: pulsation2 drf verb.motion:pulsate
+w: pulse1 drf verb.motion:pulse1 drf verb.motion:pulsate1
+w: pulsation1 drf verb.motion:pulsate1
 w: heartbeat
-w: beat drf verb.motion:beat
+w: beat drf verb.motion:beat4
 hyper: periodic_event
 g: the rhythmic contraction and expansion of the arteries with each beat of the heart; "he could feel the beat of her heart"
 
@@ -3383,7 +3383,7 @@ w: punctuation
 hyper: interruption
 g: something that makes repeated and regular interruptions or divisions
 
-w: puncture drf verb.change:puncture3 drf verb.change:puncture drf verb.contact:puncture
+w: puncture drf verb.change:puncture1 drf verb.change:puncture drf verb.contact:puncture1
 hyper: mishap
 g: loss of air pressure in a tire when a hole is made by some sharp object
 
@@ -3404,13 +3404,13 @@ hyper: sound
 g: the harsh sound of a duck
 
 w: quantum_jump
-hyper: leap
-dt: noun.cognition:physics
+hyper: leap1
+dt: noun.cognition:physics1
 g: (physics) an abrupt transition of an electron or atom or molecule from one quantum state to another with the emission or absorption of a quantum
 
 w: quantum_leap
 w: quantum_jump1
-hyper: jump1
+hyper: jump
 g: a sudden large increase or advance; "this may not insure success but it will represent a quantum leap from last summer"
 
 w: quarterfinal
@@ -3418,15 +3418,15 @@ hyper: match
 hp: elimination_tournament
 g: one of the four competitions in an elimination tournament whose winners go on to play in the semifinals
 
-w: quaver drf verb.communication:quaver1
+w: quaver drf verb.communication:quaver
 hyper: sound
 g: a tremulous sound
 
-w: race1 drf verb.competition:race
+w: race drf verb.competition:race
 hyper: contest
 g: any competition; "the race for the presidency"
 
-w: race drf adjs.all:racy drf verb.competition:race
+w: race1 drf adjs.all:racy3 drf verb.competition:race
 hyper: contest
 g: a contest of speed; "the race is to the swift"
 
@@ -3440,10 +3440,10 @@ hyper: start
 g: the start of a race
 
 w: racket drf adjs.all:rackety drf verb.perception:racket drf verb.social:racket
-hyper: noise
+hyper: noise1
 g: a loud and disturbing noise
 
-w: radiation drf verb.change:radiate5
+w: radiation drf verb.change:radiate1
 hyper: noun.process:natural_process
 hyper: spread
 g: the spread of a group of organisms into new habitats
@@ -3452,23 +3452,23 @@ w: radio_noise
 hyper: static
 g: static at radio wavelengths
 
-w: rally1
+w: rally
 hyper: automobile_race
 g: an automobile race run over public roads
 
 w: rapid_climb
 w: rapid_growth
-w: zoom drf verb.motion:zoom3
-hyper: rise2
+w: zoom drf verb.motion:zoom2
+hyper: rise
 g: a rapid rise
 
-w: rap1 drf verb.perception:rap drf verb.contact:rap
-w: strike drf verb.contact:strike drf verb.contact:strike1
-w: tap1 drf verb.perception:tap1 drf verb.contact:tap
-hyper: blow
+w: rap drf verb.perception:rap drf verb.contact:rap
+w: strike drf verb.contact:strike1 drf verb.contact:strike3
+w: tap drf verb.perception:tap1 drf verb.contact:tap2
+hyper: blow1
 g: a gentle blow
 
-w: rarefaction drf verb.change:rarefy3 drf verb.change:rarefy
+w: rarefaction drf verb.change:rarefy drf verb.change:rarefy2
 hyper: concentration
 g: a decrease in the density of something; "a sound wave causes periodic rarefactions in its medium"
 
@@ -3481,7 +3481,7 @@ g: a series of short sharp taps (as made by strokes on a drum or knocks on a doo
 w: rattle drf verb.perception:rattle
 w: rattling drf verb.perception:rattle drf verb.motion:rattle
 w: rale
-hyper: noise
+hyper: noise1
 g: a rapid series of short loud sounds (as might be heard with a stethoscope in some types of respiratory disorders); "the death rattle"
 
 w: ravage drf verb.change:ravage1 drf verb.change:ravage
@@ -3512,28 +3512,28 @@ hyper: appearance
 g: the event of something appearing again; "the reappearance of Halley's comet"
 
 w: receding drf verb.change:recede
-w: fadeout drf verb.change:fade_out
-hyper: disappearance
+w: fadeout1 drf verb.change:fade_out
+hyper: disappearance1
 g: a slow or gradual disappearance
 
-w: recoil1 drf verb.contact:recoil
-w: kick drf verb.contact:kick8
+w: recoil drf verb.contact:recoil
+w: kick drf verb.contact:kick1
 hyper: movement
 g: the backward jerk of a gun when it is fired
 
-w: recoil drf verb.motion:recoil1
+w: recoil1 drf verb.motion:recoil1
 w: repercussion
 w: rebound drf verb.motion:rebound
 w: backlash
 hyper: movement
 g: a movement back from an impact
 
-w: recombination1 drf verb.change:recombine3
+w: recombination drf verb.change:recombine2
 hyper: combining
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a combining of charges or transfer of electrons in a gas that results in the neutralization of ions; important for ions arising from the passage of high-energy particles
 
-w: recombination drf verb.change:recombine1 drf verb.change:recombine
+w: recombination1 drf verb.change:recombine1 drf verb.change:recombine
 hyper: combining
 dt: noun.cognition:genetics
 g: (genetics) a combining of genes or characters different from what they were in the parents
@@ -3542,11 +3542,11 @@ w: recovery drf verb.change:recover
 hyper: improvement
 g: return to an original state; "the recovery of the forest after the fire was surprisingly rapid"
 
-w: recrudescence drf adjs.all:recrudescent drf verb.change:recrudesce1
+w: recrudescence drf adjs.all:recrudescent drf verb.change:recrudesce
 hyper: outbreak
 g: a return of something after a period of abatement; "a recrudescence of racism"; "a recrudescence of the symptoms"
 
-w: rectification drf verb.change:rectify6
+w: rectification drf verb.change:rectify4
 hyper: conversion
 g: the conversion of alternating current to direct current
 
@@ -3559,7 +3559,7 @@ w: rededication drf verb.communication:rededicate
 hyper: dedication
 g: a new dedication; "the rededication of the Temple of Jerusalem"
 
-w: refinement drf verb.change:refine1
+w: refinement drf verb.change:refine2
 w: elaboration drf verb.change:elaborate
 hyper: improvement
 g: the result of improving something; "he described a refinement of this technique"
@@ -3578,20 +3578,20 @@ w: renascence
 hyper: birth
 g: a second or new birth
 
-w: relaxation drf verb.change:relax5 drf verb.change:relax2
-w: loosening drf verb.change:loosen1 drf verb.change:loosen
-w: slackening drf verb.change:slacken1
+w: relaxation drf verb.change:relax drf verb.change:relax2
+w: loosening drf verb.change:loosen drf verb.change:loosen1
+w: slackening drf verb.change:slacken3
 hyper: weakening
 g: an occurrence of control or strength weakening; "the relaxation of requirements"; "the loosening of his grip"; "the slackening of the wind"
 
 w: relay
 w: relay_race
-hyper: race
+hyper: race1
 g: a race between teams; each member runs or swims part of the distance
 
-w: remission drf verb.change:remit2
-w: remittal drf verb.change:remit2
-w: subsidence2 drf verb.change:subside
+w: remission drf verb.change:remit1
+w: remittal drf verb.change:remit1
+w: subsidence drf verb.change:subside
 hyper: suspension
 g: an abatement in intensity or degree (as in the manifestations of a disease); "his cancer is in remission"
 
@@ -3601,30 +3601,30 @@ hyper: periodic_event
 g: an event that repeats; "the events today were a repeat of yesterday's"
 
 w: repechage
-hyper: race
+hyper: race1
 g: a race (especially in rowing) in which runners-up in the eliminating heats compete for a place in the final race
 
-w: replay drf verb.competition:replay1 drf verb.competition:replay
+w: replay drf verb.competition:replay drf verb.competition:replay1
 w: rematch
 hyper: repeat
-dt: noun.act:game
+dt: noun.act:game3
 g: something (especially a game) that is played again
 
 w: report
-hyper: noise
+hyper: noise1
 g: a sharp explosive sound (especially the sound of a gun firing); "they heard a violent report followed by silence"
 
-w: resilience drf adjs.all:resilient drf verb.change:resile2
-w: resiliency drf adjs.all:resilient drf verb.motion:resile
-hyper: recoil
+w: resilience drf adjs.all:resilient1 drf verb.change:resile
+w: resiliency drf adjs.all:resilient1 drf verb.motion:resile
+hyper: recoil1
 g: an occurrence of rebounding or springing back
 
 w: resolution
 hyper: remission
 g: the subsidence of swelling or other signs of inflammation (especially in a lung)
 
-w: result drf verb.stative:result
-w: resultant drf adjs.all:resultant drf verb.stative:result2
+w: result drf verb.stative:result1
+w: resultant drf adjs.all:resultant drf verb.stative:result
 w: final_result
 w: outcome
 w: termination
@@ -3638,20 +3638,20 @@ ihyper: miracle1
 dt: noun.communication:New_Testament
 g: (New Testament) the rising of Christ on the third day after the Crucifixion
 
-w: return2 drf verb.change:return
+w: return drf verb.change:return1
 w: coming_back
 hyper: turning
 g: the occurrence of a change in direction back in the opposite direction
 
-w: reversal drf verb.change:reverse1
+w: reversal1 drf verb.change:reverse1
 w: turn_around drf verb.motion:turn_around
 hyper: turning
 g: turning in an opposite direction or position; "the reversal of the image in the lens"
 
-w: reverse1
-w: reversal2
-w: setback1 drf verb.social:set_back
-w: blow2
+w: reverse
+w: reversal
+w: setback drf verb.social:set_back
+w: blow
 w: black_eye
 hyper: happening
 g: an unfortunate happening that hinders or impedes; something that is thwarting or frustrating
@@ -3666,26 +3666,26 @@ hyper: change
 g: a drastic and far-reaching change in ways of thinking and behaving; "the industrial revolution was also a cultural revolution"
 
 w: rhonchus
-hyper: noise
+hyper: noise1
 g: a sound like whistling or snoring that is heard with a stethoscope during expiration as air passes through obstructed channels
 
 w: ricochet drf verb.motion:ricochet
 w: carom drf verb.motion:carom
-hyper: recoil
+hyper: recoil1
 g: a glancing rebound
 
-w: ring drf verb.communication:ring drf verb.perception:ring1 drf verb.perception:ring
-w: ringing drf verb.perception:ring1 drf verb.perception:ring
+w: ring drf verb.communication:ring drf verb.perception:ring1 drf verb.perception:ring2
+w: ringing drf verb.perception:ring1 drf verb.perception:ring2
 w: tintinnabulation drf verb.perception:tintinnabulate
 hyper: sound
 g: the sound of a bell ringing; "the distinctive ring of the church bell"; "the ringing of the telephone"; "the tintinnabulation that so voluminously swells from the ringing and the dinging of the bells"--E. A. Poe
 
-w: ripple1
+w: ripple
 hyper: oscillation
 dt: noun.cognition:electronics
 g: (electronics) an oscillation of small amplitude imposed on top of a steady value
 
-w: ripple drf verb.perception:ripple drf verb.motion:ripple
+w: ripple1 drf verb.perception:ripple drf verb.motion:ripple
 w: rippling drf verb.motion:ripple
 w: riffle drf verb.motion:riffle
 w: wavelet drf wave1
@@ -3693,27 +3693,27 @@ hyper: wave1
 g: a small wave on the surface of a liquid
 
 w: rip
-w: riptide1
+w: riptide
 w: tide_rip
 w: crosscurrent
 w: countercurrent
 hyper: noun.phenomenon:turbulence
 g: a stretch of turbulent water in a river or the sea caused by one current flowing into or across another current
 
-w: riptide
+w: riptide1
 w: rip_current
 hyper: current
-hp: tide
+hp: tide1
 g: a strong surface current flowing outwards from a shore
 
-w: rise drf verb.change:rise2 ant fall1
-hyper: emergence1
+w: rise3 drf verb.change:rise1 ant fall1
+hyper: emergence
 g: a growth in strength or number or importance
 
-w: rise2 drf verb.motion:rise8 drf verb.motion:rise ant fall4
-w: rising drf verb.motion:rise
-w: ascent drf verb.motion:ascend2
-w: ascension drf adj.pert:ascensional drf verb.motion:ascend2
+w: rise drf verb.motion:rise3 drf verb.motion:rise5 ant fall2
+w: rising drf verb.motion:rise5
+w: ascent drf verb.motion:ascend5
+w: ascension drf adj.pert:ascensional drf verb.motion:ascend5
 hyper: change_of_location
 g: a movement upward; "they cheered the rise of the hot-air balloon"
 
@@ -3721,28 +3721,28 @@ w: road_to_Damascus
 hyper: landmark
 g: a sudden turning point in a person's life (similar to the sudden conversion of the Apostle Paul on the road from Jerusalem to Damascus of arrest Christians)
 
-w: roar1 drf verb.communication:roar5
+w: roar drf verb.communication:roar
 hyper: cry
 g: the sound made by a lion
 
 w: rockslide
-hyper: landslide
+hyper: landslide1
 g: a landslide of rocks
 
-w: roller drf verb.motion:roll10
-w: roll1
+w: roller drf verb.motion:roll
+w: roll3
 w: rolling_wave
 hyper: wave1
 g: a long heavy sea wave as it advances towards the shore
 
 w: rotation
-w: revolution drf adj.pert:revolutionary2 drf verb.motion:revolve1 drf verb.motion:revolve
+w: revolution drf adj.pert:revolutionary drf verb.motion:revolve1 drf verb.motion:revolve
 w: gyration drf verb.motion:gyrate1
 hyper: turning
 g: a single complete turn (axial or orbital); "the plane made three rotations before it crashed"; "the revolution of the earth about the sun takes one year"
 
 w: round_robin
-hyper: tournament
+hyper: tournament1
 g: a tournament in which every contestant plays every other contestant
 
 w: rout drf verb.competition:rout1
@@ -3755,20 +3755,20 @@ w: drumbeat
 hyper: sound
 g: the sound made by beating a drum
 
-w: ruin drf adjs.all:ruinous drf verb.contact:ruin
+w: ruin drf adjs.all:ruinous drf verb.contact:ruin1
 w: ruination
 hyper: destruction
 g: an event that results in destruction
 
 w: rumble drf verb.communication:rumble drf verb.perception:rumble
 w: rumbling drf verb.perception:rumble drf verb.communication:rumble
-w: grumble drf verb.perception:grumble drf verb.communication:grumble2
-w: grumbling drf verb.perception:grumble drf verb.communication:grumble2
-hyper: noise
+w: grumble drf verb.perception:grumble drf verb.communication:grumble
+w: grumbling drf verb.perception:grumble drf verb.communication:grumble
+hyper: noise1
 g: a loud low dull continuous noise; "they heard the rumbling of thunder"
 
 w: runaway
-w: blowout1
+w: blowout
 w: romp drf verb.competition:romp
 w: laugher
 w: shoo-in
@@ -3776,9 +3776,9 @@ w: walkaway
 hyper: victory
 g: an easy victory
 
-w: run1 drf verb.change:run1
+w: run2 drf verb.change:run4
 w: ladder drf verb.change:ladder
-w: ravel drf verb.contact:ravel drf verb.contact:ravel1
+w: ravel drf verb.contact:ravel1 drf verb.contact:ravel
 hyper: damage
 g: a row of unravelled stitches; "she got a run in her stocking"
 
@@ -3789,8 +3789,8 @@ g: a substantial increase over a relatively short period of time; "a runup in in
 
 w: rupture
 w: breach
-w: break3 drf verb.social:break13
-w: severance drf verb.contact:sever1
+w: break3 drf verb.social:break6
+w: severance drf verb.contact:sever
 w: rift
 w: falling_out
 hyper: separation
@@ -3801,8 +3801,8 @@ hyper: outburst
 g: a sudden burst of activity; "come back after the rush"
 
 w: rush
-w: spate2
-w: surge drf verb.motion:surge1 drf verb.motion:surge3
+w: spate
+w: surge drf verb.motion:surge drf verb.motion:surge2
 w: upsurge
 hyper: flow
 g: a sudden forceful flow
@@ -3811,11 +3811,11 @@ w: rustle drf verb.perception:rustle
 w: rustling drf verb.perception:rustle
 w: whisper
 w: whispering
-hyper: noise
+hyper: noise1
 g: a light noise, like the noise of silk clothing or leaves blowing in the wind
 
 w: sack_race
-hyper: race
+hyper: race1
 g: a novelty race in which competitors jump ahead with their feet confined in a sack
 
 w: sacrifice
@@ -3837,14 +3837,14 @@ hyper: outburst
 g: an outburst resembling the discharge of firearms or the release of bombs
 
 w: samsara
-hyper: cycle2
+hyper: cycle
 dt: noun.cognition:Hinduism
 dt: noun.cognition:Buddhism
 g: (Hinduism and Buddhism) the endless cycle of birth and suffering and death and rebirth
 
 w: scandal drf adjs.all:scandalous drf verb.emotion:scandalize drf verb.emotion:scandalise
-w: outrage drf adjs.all:outrageous drf verb.emotion:outrage1
-hyper: trouble
+w: outrage drf adjs.all:outrageous drf verb.emotion:outrage
+hyper: trouble1
 g: a disgraceful event
 
 w: scene
@@ -3857,13 +3857,13 @@ g: the formal separation of a church into two churches or the withdrawal of one 
 
 w: scrape
 w: scraping
-w: scratch drf adjs.all:scratchy
+w: scratch drf adjs.all:scratchy3
 w: scratching
-hyper: noise
+hyper: noise1
 g: a harsh noise made by scraping; "the scrape of violin bows distracted her"
 
 w: scratch_race
-hyper: race
+hyper: race1
 g: a race in which all contestants start from scratch (on equal terms)
 
 w: screech drf adjs.all:screechy drf verb.perception:screech
@@ -3872,11 +3872,11 @@ w: shriek drf verb.communication:shriek
 w: shrieking
 w: scream drf verb.perception:scream
 w: screaming drf verb.perception:scream
-hyper: noise
+hyper: noise1
 g: a high-pitched noise resembling a human cry; "he ducked at the screechings of shells"; "he heard the scream of the brakes"
 
 w: scrunch drf verb.perception:scrunch
-hyper: noise
+hyper: noise1
 g: a crunching noise
 
 w: sea_change
@@ -3914,7 +3914,7 @@ hyper: flow
 g: the process of seeping
 
 w: seiche
-hyper: wave
+hyper: wave2
 g: a wave on the surface of a lake or landlocked bay; caused by atmospheric or seismic disturbances
 
 w: self-fertilization ant cross-fertilization
@@ -3953,7 +3953,7 @@ hyper: result
 g: the termination of employment (by resignation or dismissal)
 
 w: separation drf verb.contact:separate
-w: breakup drf verb.social:break_up drf verb.motion:break_up
+w: breakup drf verb.social:break_up drf verb.motion:break_up1
 w: detachment drf verb.contact:detach
 hyper: change
 g: coming apart
@@ -3985,9 +3985,9 @@ w: set
 hyper: descent
 g: the descent of a heavenly body below the horizon; "before the set of sun"
 
-w: settling drf verb.motion:settle4
-w: subsiding drf verb.motion:subside2
-w: subsidence drf verb.motion:subside2
+w: settling drf verb.motion:settle5
+w: subsiding drf verb.motion:subside
+w: subsidence1 drf verb.motion:subside
 hyper: sinking
 g: a gradual sinking to a lower level
 
@@ -4003,13 +4003,13 @@ w: sheet_lighting
 hyper: lightning
 g: lightning that appears as a broad sheet; due to reflections of more distant lightning and to diffusion by the clouds
 
-w: shift drf verb.change:shift2 drf verb.change:shift1 drf verb.change:shift
+w: shift drf verb.change:shift4 drf verb.change:shift5 drf verb.change:shift6
 w: displacement
 hyper: translation
 g: an event in which something is displaced without rotation
 
 w: shimmer drf adjs.all:shimmery drf verb.stative:shimmer drf verb.weather:shimmer
-w: play drf verb.motion:play
+w: play drf verb.motion:play1
 hyper: change
 g: a weak and tremulous light; "the shimmer of colors on iridescent feathers"; "the play of light on the water"
 
@@ -4017,22 +4017,22 @@ w: shimmy
 hyper: wobble
 g: an abnormal wobble in a motor vehicle (especially in the front wheels); "he could feel the shimmy in the steering wheel"
 
-w: shipwreck1 drf verb.social:shipwreck1 drf verb.social:shipwreck
+w: shipwreck drf verb.social:shipwreck1 drf verb.social:shipwreck
 hyper: ruin
 g: an irretrievable loss; "that was the shipwreck of their romance"
 
-w: shipwreck drf verb.contact:shipwreck
-w: wreck1 drf verb.contact:wreck
-hyper: accident1
+w: shipwreck1 drf verb.contact:shipwreck
+w: wreck drf verb.contact:wreck
+hyper: accident
 g: an accident that destroys a ship at sea
 
 w: shock_wave
 w: blast_wave
-hyper: wave
+hyper: wave2
 g: a region of high pressure travelling through a gas at a high velocity; "the explosion created a shock wave"
 
-w: shock1 drf verb.body:shock drf verb.emotion:shock drf verb.emotion:shock1
-w: blow1
+w: shock2 drf verb.body:shock1 drf verb.emotion:shock2 drf verb.emotion:shock1
+w: blow2
 hyper: surprise
 g: an unpleasant or disappointing surprise; "it came as a shock to learn that he was injured"
 
@@ -4051,11 +4051,11 @@ hyper: descent
 g: a sudden downpour (as of tears or sparks etc) likened to a rain shower; "a little shower of rose petals"; "a sudden cascade of sparks"
 
 w: shrilling drf verb.communication:shrill
-hyper: noise
+hyper: noise1
 g: a continuing shrill noise; "the clash of swords and the shrilling of trumpets"--P. J. Searles
 
 w: shrinking drf verb.change:shrink1
-w: shrinkage drf verb.change:shrink1 drf verb.change:shrink
+w: shrinkage drf verb.change:shrink1 drf verb.change:shrink2
 hyper: decrease
 g: process or result of becoming less or smaller; "the material lost 2 inches per yard in shrinkage"
 
@@ -4069,10 +4069,10 @@ hyper: incident
 g: a subordinate incident of little importance relative to the main event; "instruction is not an educational sideshow"
 
 w: sideswipe
-hyper: blow
+hyper: blow1
 g: a glancing blow from or on the side of something (especially motor vehicles)
 
-w: sigh drf verb.communication:sigh1 drf verb.body:sigh
+w: sigh drf verb.communication:sigh drf verb.body:sigh
 hyper: sound
 g: a sound like a person sighing; "she heard the sigh of the wind in the trees"
 
@@ -4081,10 +4081,10 @@ hyper: harmonic_motion
 g: periodic motion in which the restoring force is proportional to the displacement
 
 w: sine_wave
-hyper: wave
+hyper: wave2
 g: a wave whose waveform resembles a sine curve
 
-w: sinking drf verb.motion:sink
+w: sinking drf verb.motion:sink1
 hyper: descent
 g: a descent as through liquid (especially through water); "they still talk about the sinking of the Titanic"
 
@@ -4093,7 +4093,7 @@ hyper: decrease
 g: a slow fall or decline (as for lack of strength); "after several hours of sinking an unexpected rally rescued the market"; "he could not control the sinking of his legs"
 
 w: sizzle
-hyper: noise
+hyper: noise1
 g: a sizzling noise
 
 w: skeleton
@@ -4104,7 +4104,7 @@ g: a scandal that is kept secret; "there must be a skeleton somewhere in that fa
 
 w: ski_race
 w: skiing_race
-hyper: race
+hyper: race1
 g: a race between people wearing skis
 
 w: skirl drf verb.creation:skirl drf verb.perception:skirl
@@ -4117,18 +4117,18 @@ g: a traditional Tibetan funeral ritual in which the corpse is exposed to the op
 
 w: slack_water
 w: slack_tide
-hyper: tide
+hyper: tide1
 g: the occurrence of relatively still water at the turn of the (low) tide
 
 w: slalom drf verb.motion:slalom
 hyper: ski_race
 g: a downhill race over a winding course defined by upright poles
 
-w: slam2 drf verb.contact:slam1
-hyper: noise
+w: slam1 drf verb.contact:slam
+hyper: noise1
 g: the noise made by the forceful impact of two objects
 
-w: slam1 drf verb.contact:slam2 drf verb.contact:slam
+w: slam2 drf verb.contact:slam1 drf verb.contact:slam2
 hyper: impact
 g: a forceful impact that makes a loud noise
 
@@ -4139,49 +4139,49 @@ hp: noun.act:bridge
 g: winning all or all but one of the tricks in bridge
 
 w: slap drf verb.contact:slap
-w: smack drf verb.contact:smack2
-hyper: blow
+w: smack drf verb.contact:smack1
+hyper: blow1
 g: a blow from a flat object (as an open hand)
 
 w: sleepover drf verb.stative:sleep_over
 hyper: affair
 g: an occasion of spending a night away from home or having a guest spend the night in your home (especially as a party for children)
 
-w: slide drf verb.motion:slide1
+w: slide drf verb.motion:slide2
 hyper: descent
 dt: noun.cognition:geology
 g: (geology) the descent of a large mass of earth or rocks or snow etc.
 
 w: slip
-w: trip drf verb.motion:trip1 drf verb.motion:trip
+w: trip drf verb.motion:trip drf verb.motion:trip1
 hyper: mishap
 g: an accidental misstep threatening (or causing) a fall; "he blamed his slip on the ice"; "the jolt caused many slips and a few spills"
 
-w: smash drf verb.contact:smash5
+w: smash1 drf verb.contact:smash2
 w: smash-up
-hyper: collision
+hyper: collision1
 dt: noun.artifact:motor_vehicle
 g: a serious collision (especially of motor vehicles)
 
 w: smoulder drf verb.change:smoulder
 w: smolder
-hyper: fire
+hyper: fire1
 g: a fire that burns with thick smoke but no flame; "the smoulder suddenly became a blaze"
 
 w: smudge
-hyper: fire
+hyper: fire1
 g: a smoky fire to drive away insects
 
-w: snap2 drf verb.contact:snap2 drf verb.perception:snap
-hyper: noise
+w: snap drf verb.contact:snap4 drf verb.perception:snap
+hyper: noise1
 g: the noise produced by the rapid movement of a finger from the tip to the base of the thumb on the same hand; "servants appeared at the snap of his fingers"
 
-w: snap1 drf verb.change:snap drf verb.contact:snap1
-hyper: break2
+w: snap2 drf verb.change:snap1 drf verb.contact:snap
+hyper: break1
 g: a sudden breaking
 
 w: snore drf verb.body:snore
-hyper: noise
+hyper: noise1
 g: the rattling noise produced when snoring
 
 w: social_event
@@ -4202,10 +4202,10 @@ w: soliton
 w: soliton_wave
 w: solitary_wave
 hyper: traveling_wave
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a quantum of energy or quasiparticle that can be propagated as a traveling wave in nonlinear systems and is neither preceded nor followed by another such disturbance; does not obey the superposition principle and does not dissipate; "soliton waves can travel long distances with little loss of energy or structure"
 
-w: song drf verb.communication:sing
+w: song drf verb.communication:sing1
 hyper: sound
 g: a distinctive or characteristic sound; "the song of bullets was in the air"; "the song of the wind"; "the wheels sang their song as the train rocketed ahead"
 
@@ -4213,13 +4213,13 @@ w: sonic_boom
 hyper: shock_wave
 g: an explosive sound caused by the shock wave of an airplane traveling faster than the speed of sound; "a sonic boom follows an aircraft as a wake follows a ship"
 
-w: sound drf verb.perception:sound1 drf verb.perception:sound2 drf verb.perception:sound3 drf verb.perception:sound
+w: sound drf verb.perception:sound1 drf verb.perception:sound drf verb.perception:sound3 drf verb.perception:sound2
 hyper: happening
 g: the sudden occurrence of an audible event; "the sound awakened them"
 
 w: sound_wave
 w: acoustic_wave
-hyper: wave
+hyper: wave2
 dt: noun.cognition:acoustics
 g: (acoustics) a wave that transmits sound
 
@@ -4234,7 +4234,7 @@ w: splattering
 w: sputter drf verb.perception:sputter
 w: splutter drf verb.communication:splutter
 w: sputtering drf verb.perception:sputter
-hyper: noise
+hyper: noise1
 g: the noise of something spattering or sputtering explosively; "he heard a spatter of gunfire"
 
 w: Special_Olympics
@@ -4247,11 +4247,11 @@ w: spelling_contest
 hyper: contest
 g: a contest in which you are eliminated if you fail to spell a word correctly
 
-w: spike1
-hyper: rise
+w: spike
+hyper: rise3
 g: a sharp rise followed by a sharp decline; "the seismograph showed a sharp spike in response to the temblor"
 
-w: spike drf verb.change:spike4
+w: spike1 drf verb.change:spike2
 hyper: electrical_discharge
 g: a transient variation in voltage or current
 
@@ -4259,9 +4259,9 @@ w: spin
 hyper: rotation
 g: a swift whirling motion (usually of a missile)
 
-w: splash drf adj.pert:splashy drf verb.perception:splash drf verb.contact:splash drf verb.contact:splash1
-w: plash drf verb.contact:plash
-hyper: noise
+w: splash drf adj.pert:splashy drf verb.perception:splash drf verb.contact:splash3 drf verb.contact:splash2
+w: plash drf verb.contact:plash1
+hyper: noise1
 g: the sound like water splashing
 
 w: splat drf verb.change:splat1 drf verb.perception:splat
@@ -4269,49 +4269,49 @@ hyper: splash
 g: a single splash; "he heard a splat as it hit the floor"
 
 w: split_decision
-hyper: decision2
+hyper: decision
 g: a boxing decision in which the judges are not unanimous
 
 w: spray
 hyper: jet
 g: a jet of vapor
 
-w: spread drf verb.motion:spread2 drf verb.motion:spread drf verb.communication:spread2 drf verb.communication:spread drf verb.stative:spread drf verb.contact:spread7 drf verb.contact:spread
+w: spread drf verb.motion:spread1 drf verb.motion:spread drf verb.communication:spread drf verb.communication:spread1 drf verb.stative:spread drf verb.contact:spread3 drf verb.contact:spread4
 w: spreading drf verb.stative:spread
 hyper: change_of_location
 g: process or result of distributing or extending over a wide expanse of space
 
-w: springtide1
+w: springtide
 hyper: flush
 g: a swelling rush of anything; "he rose on the springtide of prosperity"
 
-w: springtide ant neap_tide
+w: springtide1 ant neap_tide
 hyper: high_tide
 g: a greater than average tide occurring during the new and full moons
 
-w: spritz drf verb.contact:spritz drf verb.contact:spritz2
+w: spritz drf verb.contact:spritz1 drf verb.contact:spritz
 hyper: jet
 g: a quick squirt of some liquid (usually carbonated water)
 
-w: squawk drf adjs.all:squawky drf verb.communication:squawk1
-hyper: noise
+w: squawk drf adjs.all:squawky drf verb.communication:squawk
+hyper: noise1
 g: the noise of squawking; "she awoke to the squawk of chickens"; "the squawk of car horns"
 
 w: squeak drf adjs.all:squeaky drf verb.perception:squeak
-hyper: noise
+hyper: noise1
 g: a short high-pitched noise; "the squeak of shoes on powdery snow"
 
-w: squeal drf verb.communication:squeal1
-hyper: howl
+w: squeal drf verb.communication:squeal
+hyper: howl1
 g: a high-pitched howl
 
-w: squeeze drf verb.contact:squeeze5 drf verb.contact:squeeze2
-w: wring drf verb.contact:wring2
+w: squeeze drf verb.contact:squeeze drf verb.contact:squeeze2
+w: wring drf verb.contact:wring
 hyper: movement
 g: a twisting squeeze; "gave the wet cloth a wring"
 
 w: squish
-hyper: noise
+hyper: noise1
 g: the noise of soft mud being walked on
 
 w: stake_race
@@ -4322,36 +4322,36 @@ w: stalemate drf verb.competition:stalemate
 hyper: draw
 g: drawing position in chess: any of a player's possible moves would place his king in check
 
-w: stall drf verb.motion:stall4 drf verb.motion:stall2 drf verb.motion:stall
+w: stall drf verb.motion:stall drf verb.motion:stall1 drf verb.motion:stall3
 hyper: malfunction
 g: a malfunction in the flight of an aircraft in which there is a sudden loss of lift that results in a downward plunge; "the plane went into a stall and I couldn't control it"
 
-w: stampede drf verb.motion:stampede1
+w: stampede drf verb.motion:stampede
 hyper: change_of_location
 g: a wild headlong rush of frightened animals (horses or cattle)
 
 w: standing_wave
 w: stationary_wave
-hyper: wave
+hyper: wave2
 g: a wave (as a sound wave in a chamber or an electromagnetic wave in a transmission line) in which the ratio of its instantaneous amplitude at one point to that at any other point does not vary with time
 
-w: stand drf verb.stative:stand6
+w: stand drf verb.stative:stand1
 w: standstill
-w: tie-up drf verb.contact:tie_up4
+w: tie-up drf verb.contact:tie_up
 hyper: stop
 g: an interruption of normal activity
 
-w: start drf verb.social:start4 drf verb.stative:start3 drf verb.social:start drf verb.creation:start1 drf verb.creation:start drf verb.stative:start drf verb.change:start1 drf verb.change:start
+w: start drf verb.social:start drf verb.stative:start drf verb.social:start1 drf verb.creation:start drf verb.creation:start1 drf verb.stative:start1 drf verb.change:start drf verb.change:start1
 hyper: beginning
 g: the beginning of anything; "it was off to a good start"
 
 w: static
 w: atmospherics
 w: atmospheric_static
-hyper: noise1
+hyper: noise
 g: a crackling or hissing noise caused by electrical interference
 
-w: steeplechase2
+w: steeplechase
 hyper: footrace
 g: a footrace of usually 3000 meters over a closed track with hurdles and a water jump
 
@@ -4359,8 +4359,8 @@ w: steeplechase1
 hyper: horse_race
 g: a horse race over an obstructed course
 
-w: stop drf verb.motion:stop1 drf verb.stative:stop drf verb.motion:stop
-w: halt drf verb.change:halt2 drf verb.social:halt drf verb.motion:halt1 drf verb.motion:halt5
+w: stop drf verb.motion:stop2 drf verb.stative:stop drf verb.motion:stop1
+w: halt drf verb.change:halt drf verb.social:halt drf verb.motion:halt drf verb.motion:halt1
 hyper: ending
 g: the event of something ending; "it came to a stop at the bottom of the hill"
 
@@ -4368,15 +4368,15 @@ w: streak
 hyper: flash
 g: a sudden flash (as of lightning)
 
-w: strengthening drf verb.change:strengthen ant weakening
+w: strengthening drf verb.change:strengthen1 ant weakening
 hyper: transformation
 g: becoming stronger
 
 w: stridulation drf verb.perception:stridulate
-hyper: noise
+hyper: noise1
 g: a shrill grating or chirping noise made by some insects by rubbing body parts together
 
-w: stroke1 drf verb.contact:stroke
+w: stroke drf verb.contact:stroke
 hyper: touch
 g: a light touch
 
@@ -4388,7 +4388,7 @@ w: stunner
 hyper: surprise
 g: an unexpected and amazing event; "the stunner was what happened on Saturday"
 
-w: sublimation2 drf verb.change:sublimate5
+w: sublimation drf verb.change:sublimate2
 hyper: transformation
 dt: noun.cognition:chemistry
 g: (chemistry) a change directly from the solid to the gaseous state without becoming liquid
@@ -4402,19 +4402,19 @@ w: subluxation drf verb.body:subluxate
 hyper: luxation
 g: partial displacement of a joint or organ
 
-w: submergence drf verb.motion:submerge drf verb.contact:submerge1 drf verb.change:submerge2
-w: submerging drf verb.motion:submerge drf verb.contact:submerge1 drf verb.change:submerge2
+w: submergence drf verb.motion:submerge drf verb.contact:submerge drf verb.change:submerge
+w: submerging drf verb.motion:submerge drf verb.contact:submerge drf verb.change:submerge
 w: submersion drf verb.motion:submerse drf verb.contact:submerse drf verb.motion:submerge
 w: immersion
 hyper: sinking
 g: sinking until covered completely with water
 
-w: substitution drf verb.possession:substitute1 drf verb.possession:substitute
+w: substitution drf verb.possession:substitute drf verb.possession:substitute1
 w: permutation
-w: transposition1
+w: transposition
 w: replacement drf verb.change:replace
-w: switch drf verb.possession:switch drf verb.change:switch3 drf verb.change:switch
-hyper: variation1
+w: switch drf verb.possession:switch drf verb.change:switch2 drf verb.change:switch3
+hyper: variation
 g: an event in which one thing is substituted for another; "the replacement of lost blood by a transfusion of donor blood"
 
 w: success ant failure
@@ -4455,7 +4455,7 @@ hyper: background_noise
 g: noise produced by the friction of the stylus of a record player moving over the rotating record
 
 w: surf drf verb.motion:surf
-w: breaker drf verb.motion:break1
+w: breaker drf verb.motion:break6
 w: breakers
 hyper: wave1
 g: waves breaking on the shore
@@ -4464,11 +4464,11 @@ w: surprise drf verb.competition:surprise drf verb.social:surprise drf verb.cogn
 hyper: change
 g: a sudden unexpected event
 
-w: suspension drf verb.change:suspend
+w: suspension drf verb.change:suspend1
 w: respite
 w: reprieve
 w: hiatus
-w: abatement1 drf verb.change:abate
+w: abatement drf verb.change:abate1
 hyper: interruption
 g: an interruption in the intensity or amount of something
 
@@ -4502,7 +4502,7 @@ g: a brushing or rustling sound
 
 w: swoosh
 w: whoosh
-hyper: noise
+hyper: noise1
 g: the noise produced by the sudden rush of a fluid (a gas or liquid)
 
 w: syntax_error
@@ -4511,24 +4511,24 @@ dt: noun.cognition:computer_science
 g: an error of language resulting from code that does not conform to the syntax of the programming language; "syntax errors can be recognized at compilation time"; "a common syntax error is to omit a parenthesis"
 
 w: systole
-hyper: pulse
+hyper: pulse1
 g: the contraction of the chambers of the heart (especially the ventricles) to drive blood into the aorta and pulmonary artery
 
-w: takedown1
-hyper: fall2
+w: takedown
+hyper: fall
 hp: wrestling_match
-dt: noun.act:wrestling
+dt: noun.act:wrestling1
 g: (amateur wrestling) being brought to the mat from a standing position; "a takedown counts two points"
 
-w: takeoff drf verb.motion:take_off drf verb.motion:take_off2
-hyper: rise2
+w: takeoff drf verb.motion:take_off1 drf verb.motion:take_off
+hyper: rise
 g: the initial ascent of an airplane as it becomes airborne
 
 w: tapping drf verb.perception:tap1
 hyper: sound
 g: the sound of light blow or knock; "he heard the tapping of the man's cane"
 
-w: taste drf verb.cognition:taste5
+w: taste drf verb.cognition:taste
 hyper: experience
 g: a brief experience of something; "he got a taste of life on the wild side"; "she enjoyed her brief taste of independence"
 
@@ -4602,34 +4602,34 @@ g: a sound with a strong rhythmic beat; "the throbbing of the engines"
 
 w: throb drf verb.motion:throb1 drf verb.perception:throb
 w: throbbing drf verb.perception:throb
-w: pounding1 drf verb.motion:pound
-hyper: pulse
+w: pounding1 drf verb.motion:pound1
+hyper: pulse1
 g: an instance of rapid strong pulsation (of the heart); "he felt a throbbing in his head"
 
 w: throw
-w: stroke
+w: stroke1
 w: cam_stroke
 hyper: movement
 g: the maximum movement available to a pivoted or reciprocating piece by a cam
 
-w: thrum drf verb.perception:thrum2
+w: thrum drf verb.perception:thrum1
 hyper: sound
 g: a thrumming sound; "he could hear the thrum of a banjo"
 
-w: thump1 drf verb.perception:thump
+w: thump drf verb.perception:thump
 w: thumping drf verb.perception:thump
 w: clump drf verb.perception:clump
-w: clunk drf adjs.all:clunky drf verb.perception:clunk
-w: thud drf verb.perception:thud1 drf verb.contact:thud drf verb.perception:thud
+w: clunk drf adjs.all:clunky1 drf verb.perception:clunk
+w: thud drf verb.perception:thud drf verb.contact:thud drf verb.perception:thud1
 hyper: sound
 g: a heavy dull sound (as made by impact of heavy objects)
 
-w: thunder1 drf adjs.all:thundery drf verb.weather:thunder
-hyper: noise
+w: thunder drf adjs.all:thundery1 drf verb.weather:thunder
+hyper: noise1
 g: a booming or crashing noise caused by air expanding along the path of a bolt of lightning
 
 w: thunderclap
-hyper: thunder1
+hyper: thunder
 g: a single sharp crash of thunder
 
 w: thunk
@@ -4658,10 +4658,10 @@ g: a high wave (often dangerous) caused by tidal flow (as by colliding tidal cur
 w: tidal_flow
 w: tidal_current
 hyper: current
-hp: tide
+hp: tide1
 g: the water current caused by the tides
 
-w: tidal_wave2
+w: tidal_wave
 hyper: manifestation
 g: an overwhelming manifestation of some emotion or phenomenon; "a tidal wave of nausea"; "the flood of letters hit him with the force of a tidal wave"; "a tidal wave of crime"
 
@@ -4670,15 +4670,15 @@ hyper: wave1
 hyper: calamity
 g: an unusual (and often destructive) rise of water along the seashore caused by a storm or a combination of wind and high tide
 
-w: tidal_wave
+w: tidal_wave2
 hyper: wave1
 g: a wave resulting from the periodic flow of the tides that is caused by the gravitational attraction of the moon and sun
 
-w: tide1 drf verb.motion:tide1
-hyper: variation1
+w: tide drf verb.motion:tide
+hyper: variation
 g: something that may increase or decrease (like the tides of the sea); "a rising tide of popular interest"
 
-w: tide drf adj.pert:tidal drf verb.motion:tide2 drf verb.motion:tide3
+w: tide1 drf adj.pert:tidal drf verb.motion:tide2 drf verb.motion:tide1
 hyper: periodic_event
 g: the periodic rise and fall of the sea level under the gravitational pull of the moon
 
@@ -4697,7 +4697,7 @@ w: tin_plague
 hyper: transformation
 g: the transformation of ordinary white tin into powdery grey tin at very cold temperatures
 
-w: ting drf verb.perception:ting1 drf verb.perception:ting
+w: ting drf verb.perception:ting drf verb.perception:ting1
 w: tinkle drf adjs.all:tinkly drf verb.perception:tinkle
 hyper: sound
 g: a light clear metallic sound as of a small bell
@@ -4720,7 +4720,7 @@ g: forward spin (usually of a moving ball) that is imparted by an upward stroke
 
 w: torch_race
 hyper: relay
-dr: noun.location:Greece
+dr: noun.location:Greece1
 dt: noun.time:antiquity
 g: (ancient Greece) in which a torch is passed from one runner to the next
 
@@ -4733,7 +4733,7 @@ w: total_eclipse
 hyper: eclipse
 g: an eclipse as seen from a place where the eclipsed body is completely obscured
 
-w: touch drf verb.stative:touch1 drf verb.contact:touch4 drf verb.contact:touch1 drf verb.perception:touch drf verb.contact:touch
+w: touch drf verb.stative:touch drf verb.contact:touch1 drf verb.contact:touch3 drf verb.perception:touch drf verb.contact:touch2
 w: touching drf verb.perception:touch
 hyper: contact
 g: the event of something coming in contact with the body; "he longed for the touch of her hand"; "the cooling touch of the night air"
@@ -4742,11 +4742,11 @@ w: Tour_de_France
 hyper: bicycle_race
 g: a French bicycle race for professional cyclists that lasts three weeks and covers about 3,000 miles
 
-w: tournament1
+w: tournament
 hyper: contest
 g: a series of jousts between knights contesting for a prize
 
-w: tournament
+w: tournament1
 w: tourney drf verb.competition:tourney
 hyper: contest
 g: a sporting competition in which contestants play a series of games to decide the winner
@@ -4768,29 +4768,29 @@ w: tramp
 hyper: footfall
 g: a heavy footfall; "the tramp of military boots"
 
-w: trample drf verb.motion:trample4 drf verb.body:trample drf verb.motion:trample
+w: trample drf verb.motion:trample1 drf verb.body:trample drf verb.motion:trample
 w: trampling drf verb.motion:trample
 hyper: sound
 g: the sound of heavy treading or stomping; "he heard the trample of many feet"
 
-w: Transfiguration drf verb.change:transfigure2
+w: Transfiguration drf verb.change:transfigure
 w: Transfiguration_of_Jesus
 hyper: miracle1
 dt: noun.communication:New_Testament
 g: (New Testament) the sudden emanation of radiance from the person of Jesus
 
 w: transformation
-w: transmutation
-w: shift1 drf verb.change:shift4 drf verb.change:shift3
+w: transmutation1
+w: shift1 drf verb.change:shift1 drf verb.change:shift2
 hyper: change
 g: a qualitative change
 
 w: transient drf adjs.all:transient
 hyper: oscillation
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a short-lived oscillation in a system caused by a sudden change of voltage or current or load
 
-w: transition1 drf verb.change:transition drf verb.change:transition1
+w: transition1 drf verb.change:transition1 drf verb.change:transition
 hyper: change
 g: a change from one place or state or subject or stage to another
 
@@ -4802,19 +4802,19 @@ w: transmigration drf verb.stative:transmigrate
 hyper: reincarnation
 g: the passing of a soul into another body after death
 
-w: transmutation1 drf verb.change:transmute1
+w: transmutation drf verb.change:transmute1
 hyper: change
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the change of one chemical element into another (as by nuclear decay or radioactive bombardment); "the transmutation of base metals into gold proved to be impossible"
 
-w: transposition
+w: transposition1
 hyper: mutation
 dt: noun.cognition:genetics
 g: (genetics) a kind of mutation in which a chromosomal segment is transfered to a new position on the same or another chromosome
 
 w: traveling_wave
 w: travelling_wave
-hyper: wave
+hyper: wave2
 g: a wave in which the medium moves in the direction of propagation of the wave
 
 w: treat drf verb.possession:treat
@@ -4831,12 +4831,12 @@ w: microseism
 hyper: earthquake
 g: a small earthquake
 
-w: trial1
+w: trial
 hyper: contest
 dt: noun.act:sport
 g: (sports) a preliminary competition to determine qualifications; "the trials for the semifinals began yesterday"
 
-w: trial drf verb.emotion:try1
+w: trial1 drf verb.emotion:try
 w: tribulation drf verb.emotion:tribulate
 w: visitation drf verb.communication:visit1
 hyper: affliction
@@ -4852,7 +4852,7 @@ w: hop-step-and-jump
 hyper: athletic_contest
 g: an athletic contest in which a competitor must perform successively a hop and a step and a jump in continuous movement
 
-w: trouble drf adjs.all:troublous drf verb.body:trouble drf verb.emotion:trouble drf verb.emotion:trouble1
+w: trouble1 drf adjs.all:troublous drf verb.body:trouble drf verb.emotion:trouble1 drf verb.emotion:trouble
 hyper: happening
 g: an event causing distress or pain; "what is the trouble?"; "heart trouble"
 
@@ -4867,22 +4867,22 @@ g: a contest in which teams pull of opposite ends of a rope; the team dragged ac
 
 w: turkey
 w: bomb drf verb.social:bomb
-w: dud
+w: dud1
 hyper: flop
 g: an event that fails badly or is totally ineffectual; "the first experiment was a real turkey"; "the meeting was a dud as far as new business was concerned"
 
-w: turning drf verb.motion:turn
-w: turn drf verb.change:turn drf verb.motion:turn3 drf verb.motion:turn2 drf verb.motion:turn
+w: turning drf verb.motion:turn7
+w: turn1 drf verb.change:turn4 drf verb.motion:turn6 drf verb.motion:turn2 drf verb.motion:turn7
 hyper: movement
 g: a movement in a new direction; "the turning of the wind"
 
-w: turn1 drf verb.change:turn3 drf verb.change:turn4 drf verb.stative:turn
+w: turn drf verb.change:turn5 drf verb.change:turn3 drf verb.stative:turn1
 w: turn_of_events
-w: twist
-hyper: development1
+w: twist1
+hyper: development
 g: an unforeseen development; "events suddenly took an awkward turn"
 
-w: twang drf verb.contact:twang drf verb.perception:twang drf verb.perception:twang1
+w: twang drf verb.contact:twang drf verb.perception:twang1 drf verb.perception:twang
 hyper: sound
 g: a sharp vibrating sound (as of a plucked string)
 
@@ -4891,12 +4891,12 @@ hyper: chirp
 g: a weak chirping sound as of a small bird
 
 w: twinkle drf verb.weather:twinkle drf verb.perception:twinkle
-w: scintillation drf verb.weather:scintillate1
-w: sparkling drf verb.weather:sparkle
+w: scintillation drf verb.weather:scintillate
+w: sparkling drf verb.weather:sparkle1
 hyper: change
 g: a rapid change in brightness; a brief spark or flash
 
-w: twist2 drf verb.contact:twist6 drf verb.motion:twist1
+w: twist2 drf verb.contact:twist drf verb.motion:twist1
 w: wrench drf verb.motion:wrench
 hyper: movement
 g: a jerky pulling movement
@@ -4904,7 +4904,7 @@ g: a jerky pulling movement
 w: undertide
 w: undercurrent
 hyper: current
-hp: tide
+hp: tide1
 g: a current below the surface of a fluid
 
 w: undertow
@@ -4916,7 +4916,7 @@ w: sea-poose
 hyper: undertide
 g: the seaward undercurrent created after waves have broken on the shore
 
-w: undulation1 drf verb.motion:undulate
+w: undulation drf verb.motion:undulate1
 hyper: movement
 g: wavelike motion; a gentle rising and falling in the manner of waves
 
@@ -4929,27 +4929,27 @@ hyper: factor
 g: a factor in a given situation whose bearing and importance is not apparent; "I don't know what the new man will do; he's still an unknown quantity"
 
 w: upheaval drf verb.contact:upheave
-w: uplift drf verb.motion:uplift2
+w: uplift drf verb.motion:uplift
 w: upthrow
 w: upthrust
-hyper: rise2
+hyper: rise
 dt: noun.cognition:geology
 g: (geology) a rise of land to a higher elevation (as in the process of mountain building)
 
-w: uplifting drf verb.motion:uplift
-hyper: rise2
+w: uplifting drf verb.motion:uplift1
+hyper: rise
 g: the rise of something; "the uplifting of the clouds revealed the blue of a summer sky"
 
 w: vagary
 hyper: change
 g: an unexpected and inexplicable change in something (in a situation or a person's behavior, etc.); "the vagaries of the weather"; "his wealth fluctuates with the vagaries of the stock market"; "he has dealt with human vagaries for many years"
 
-w: vanishing drf verb.change:vanish
-hyper: disappearance
+w: vanishing drf verb.change:vanish1
+hyper: disappearance1
 g: a sudden or mysterious disappearance
 
-w: variation1 drf verb.stative:vary1
-w: fluctuation drf verb.motion:fluctuate
+w: variation drf verb.stative:vary
+w: fluctuation1 drf verb.motion:fluctuate1
 hyper: change
 g: an instance of change; the rate or magnitude of change
 
@@ -4959,10 +4959,10 @@ dt: noun.communication:music
 g: (music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch
 
 w: vicissitude
-hyper: variation1
+hyper: variation
 g: a variation in circumstances or fortune at different times in your life or in the development of something; "the project was subject to the usual vicissitudes of exploratory research"
 
-w: victory drf adjs.all:victorious drf adjs.all:victorious ant defeat
+w: victory drf adjs.all:victorious1 drf adjs.all:victorious ant defeat
 w: triumph drf verb.competition:triumph
 hyper: ending
 hyper: success
@@ -4981,8 +4981,8 @@ hyper: sound
 g: a sound suggestive of a vocal utterance; "the noisy voice of the waterfall"; "the incessant voices of the artillery"
 
 w: volcanic_eruption
-w: eruption drf verb.change:erupt
-hyper: discharge
+w: eruption drf verb.change:erupt5
+hyper: discharge1
 g: the sudden occurrence of a violent discharge of steam and volcanic material
 
 w: volution
@@ -4994,7 +4994,7 @@ hyper: sound
 g: the roaring sound made by a motor that is running at high speed
 
 w: wages
-w: reward drf verb.social:reward1 drf verb.possession:reward
+w: reward drf verb.social:reward drf verb.possession:reward
 w: payoff
 hyper: consequence
 g: a recompense for worthy acts or retribution for wrongdoing; "the wages of sin is death"; "virtue is its own reward"
@@ -5009,7 +5009,7 @@ w: waltz
 hyper: victory
 g: an assured victory (especially in an election)
 
-w: wallow drf verb.motion:wallow
+w: wallow drf verb.motion:wallow1
 hyper: axial_rotation
 g: an indolent or clumsy rolling about; "a good wallow in the water"
 
@@ -5027,7 +5027,7 @@ hyper: distortion
 g: a moral or mental distortion
 
 w: water_hammer
-hyper: bang
+hyper: bang1
 g: the banging sound of steam in pipes
 
 w: Watergate
@@ -5039,14 +5039,14 @@ w: waterloo
 hyper: defeat
 g: a final crushing defeat; "he met his waterloo"
 
-w: wave2
-hyper: rise
+w: wave
+hyper: rise3
 g: something that rises rapidly; "a wave of emotion swept over him"; "there was a sudden wave of buying before the market closed"; "a wave of conservatism in the country led by the hard right"
 
 w: wave_form
 w: waveform
 w: wave_shape
-hyper: wave
+hyper: wave2
 g: the shape of a wave illustrated graphically by plotting the values of the period quantity against time
 
 w: wave1 drf wavelet
@@ -5054,21 +5054,21 @@ w: moving_ridge
 hyper: movement
 g: one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)
 
-w: wave
-w: undulation drf verb.motion:undulate
+w: wave2
+w: undulation1 drf verb.motion:undulate1
 hyper: movement
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a movement up and down or back and forth
 
-w: waxing ant waning drf verb.change:wax1 drf verb.change:wax
+w: waxing ant waning drf verb.change:wax drf verb.change:wax1
 hyper: increase
 g: a gradual increase in magnitude or extent; "the waxing of the moon"
 
-w: weakening drf verb.change:weaken ant strengthening
+w: weakening drf verb.change:weaken3 ant strengthening
 hyper: transformation
 g: becoming weaker
 
-w: wedding drf verb.social:wed1
+w: wedding drf verb.social:wed
 w: wedding_ceremony
 w: nuptials
 w: hymeneals
@@ -5080,10 +5080,10 @@ hyper: sound
 g: the sound made by a sharp swift blow
 
 w: whammy
-hyper: reverse1
+hyper: reverse
 g: a serious or devastating setback
 
-w: whirl drf verb.motion:whirl3 drf verb.motion:whirl1 drf verb.motion:whirl
+w: whirl drf verb.motion:whirl2 drf verb.motion:whirl drf verb.motion:whirl3
 w: commotion
 hyper: movement
 g: confused movement; "he was caught up in a whirl of work"; "a commotion of people fought for the exits"
@@ -5106,13 +5106,13 @@ hyper: party
 dr: noun.location:United_Kingdom
 g: a progressive whist party
 
-w: whistle drf verb.communication:whistle1
-w: whistling drf verb.perception:whistle drf verb.communication:whistle1
+w: whistle drf verb.communication:whistle
+w: whistling drf verb.perception:whistle drf verb.communication:whistle
 hyper: sound
 g: the sound made by something moving rapidly or by steam coming out of a small aperture
 
 w: white_noise
-hyper: noise1
+hyper: noise
 g: a noise produced by a stimulus containing all of the audible frequencies of vibration; "white noise is a good masking agent"
 
 w: whitecap
@@ -5136,7 +5136,7 @@ w: wildfire
 hyper: conflagration
 g: a raging and rapidly spreading conflagration
 
-w: win drf verb.competition:win1 drf verb.competition:win
+w: win drf verb.competition:win drf verb.competition:win1
 hyper: victory
 g: a victory (as in a race or other competition); "he was happy to get the win"
 
@@ -5145,12 +5145,12 @@ w: Winter_Olympics
 hyper: Olympic_Games
 g: an Olympics for winter sports
 
-w: wobble drf adjs.all:wobbly drf verb.motion:wobble drf verb.motion:wobble2
+w: wobble drf adjs.all:wobbly drf verb.motion:wobble2 drf verb.motion:wobble
 hyper: movement
 g: an unsteady rocking motion
 
-w: wonder drf adjs.all:wondrous drf verb.communication:wonder12
-w: marvel drf adjs.all:marvelous drf adjs.all:marvellous drf verb.communication:marvel drf verb.communication:marvel12
+w: wonder drf adjs.all:wondrous drf verb.communication:wonder
+w: marvel drf adjs.all:marvelous1 drf adjs.all:marvellous1 drf verb.communication:marvel drf verb.communication:marvel1
 hyper: happening
 g: something that causes feelings of wonder; "the wonders of modern science"
 
@@ -5159,7 +5159,7 @@ hyper: manifestation
 g: a manifestation of the mind and will of God
 
 w: World_Cup
-hyper: tournament
+hyper: tournament1
 g: a soccer tournament held every four years between national soccer teams to determine a world champion
 
 w: World_Series
@@ -5172,7 +5172,7 @@ hyper: result
 g: the least favorable outcome; "the worst that could happen"
 
 w: wound drf verb.body:wound
-w: injury1
+w: injury
 w: combat_injury
 hyper: personnel_casualty
 dt: noun.group:military

@@ -3,23 +3,23 @@ w: banker's_acceptance
 hyper: draft
 g: banking: a time draft drawn on and accepted by a bank
 
-w: accession1
+w: accession
 hyper: property_right
 dt: noun.group:civil_law
 g: (civil law) the right to all of that which your property produces whether by growth or improvement
 
-w: accession
+w: accession1
 w: addition
 hyper: acquisition
 g: something added to what you already have; "the librarian shelved the new accessions"; "he was a new addition to the staff"
 
-w: account2
-w: accounting drf verb.possession:account
+w: account
+w: accounting1 drf verb.possession:account
 w: account_statement
-hyper: noun.communication:statement1
+hyper: noun.communication:statement6
 g: a statement of recent transactions and the resulting balance; "they send me an accounting every month"
 
-w: accounting1 drf verb.possession:account
+w: accounting drf verb.possession:account
 w: accounting_system
 w: method_of_accounting
 hyper: register
@@ -41,7 +41,7 @@ dt: noun.group:law
 g: (law) an increase in a beneficiary's share in an estate (as when a co-beneficiary dies or fails to meet some condition or rejects the inheritance)
 
 w: accrual_basis ant cash_basis
-hyper: accounting1
+hyper: accounting
 g: a method of accounting in which each item is entered as it is earned or incurred regardless of when actual payments are received or made
 
 w: accumulation
@@ -54,7 +54,7 @@ hyper: transferred_property
 g: something acquired; "a recent acquisition by the museum"
 
 w: active_trust ant passive_trust
-hyper: trust3
+hyper: trust
 g: a trust in which the trustee must perform certain duties
 
 w: actual_damages
@@ -79,9 +79,9 @@ g: an amount paid before it is earned
 
 w: agio
 w: agiotage
-w: premium3
+w: premium1
 w: exchange_premium
-hyper: charge2
+hyper: charge1
 g: a fee charged for exchanging currencies
 
 w: aid
@@ -101,18 +101,18 @@ g: court-ordered support paid by one spouse to another after they are separated
 
 w: allotment
 w: allocation drf verb.possession:allocate
-hyper: share
+hyper: share1
 g: a share set aside for a specific purpose
 
-w: allowance2
+w: allowance1
 hyper: reimbursement
 g: a sum granted as reimbursement for expenses
 
-w: allowance drf verb.possession:allowance drf verb.cognition:allow1
-hyper: share
+w: allowance2 drf verb.possession:allowance drf verb.cognition:allow
+hyper: share1
 g: an amount allowed or granted (as during a given period); "travel allowance"; "my weekly allowance of two eggs"; "a child's allowance should not be too generous"
 
-w: allowance1
+w: allowance3
 w: adjustment drf verb.cognition:adjust
 hyper: recompense
 g: an amount added or deducted on the basis of qualifying circumstances; "an allowance for profit"
@@ -134,7 +134,7 @@ hyper: annuity
 g: an annuity paid in a series of more or less equal payments at the beginning of equally spaced periods; "rent payable in advance constitutes an annuity in advance for the landlord"
 
 w: annuity
-w: rente1
+w: rente
 hyper: regular_payment
 g: income from capital investment paid in a series of regular payments; "his retirement fund was set up to be paid as an annuity"
 
@@ -147,18 +147,18 @@ w: anti-dumping_duty
 hyper: protective_tariff
 g: a tariff imposed to prevent dumping
 
-w: appanage1
-w: apanage1
+w: appanage
+w: apanage
 hyper: fringe_benefit
 g: any customary and rightful perquisite appropriate to your station in life; "for thousands of years the chair was an appanage of state and dignity rather than an article of ordinary use"
 
-w: appanage
-w: apanage
-hyper: grant2
+w: appanage1
+w: apanage1
+hyper: grant1
 g: a grant (by a sovereign or a legislative body) of resources to maintain a dependent member of a ruling family; "bishoprics were received as appanages for the younger sons of great families"
 
 w: appropriation
-hyper: money
+hyper: money1
 dt: noun.group:legislature
 g: money set aside (as by a legislature) for a specific purpose
 
@@ -172,11 +172,11 @@ g: lien permitting an artisan to retain possession of a piece of work until has 
 
 w: asking_price
 w: selling_price
-hyper: price
+hyper: price1
 g: the price at which something is offered for sale
 
-w: assessment drf verb.possession:assess1 drf verb.possession:assess
-hyper: charge1
+w: assessment drf verb.possession:assess drf verb.possession:assess1
+hyper: charge
 g: an amount determined as payable; "the assessment for repairs outraged the club's membership"
 
 w: assets
@@ -184,31 +184,31 @@ hyper: noun.Tops:possession
 du: noun.communication:plural
 g: anything of material value or usefulness that is owned by a person or company
 
-w: assurance2
-hyper: insurance2
+w: assurance
+hyper: insurance
 dr: noun.location:United_Kingdom
 g: a British term for some kinds of insurance
 
-w: atonement drf verb.social:atone12
+w: atonement drf verb.social:atone
 w: expiation drf verb.social:expiate
-w: satisfaction
+w: satisfaction1
 hyper: damages
 g: compensation for a wrong; "we were unable to get satisfaction from the local store"
 
 w: audited_account
-w: audit drf verb.cognition:audit1
-hyper: accounting1
+w: audit drf verb.cognition:audit
+hyper: accounting
 g: an inspection of the accounting procedures and records by a trained accountant or CPA
 
 w: authorized_shares
 w: authorized_stock
 w: capital_stock
-hyper: stock
+hyper: stock2
 g: the maximum number of shares authorized under the terms of a corporation's articles of incorporation
 
 w: automobile_insurance
 w: car_insurance
-hyper: insurance2
+hyper: insurance
 g: insurance against loss due to theft or traffic accidents
 
 w: automobile_loan
@@ -228,18 +228,18 @@ g: a debt that is unlikely to be repaid
 
 w: bail drf verb.social:bail
 w: bail_bond
-w: bond3
+w: bond1
 hyper: recognizance
 dt: noun.communication:criminal_law
 g: (criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial; "the judge set bail at $10,000"; "a $10,000 bond was furnished by an alderman"
 
-w: balance1
-hyper: noun.quantity:remainder
+w: balance
+hyper: noun.quantity:remainder1
 g: the difference between the totals of the credit and debit sides of an account
 
-w: balance drf verb.possession:balance
+w: balance1 drf verb.possession:balance
 hyper: noun.attribute:equality
-hp: account2
+hp: account
 g: equality between the totals of the credit and debit sides of an account
 
 w: balance_of_payments
@@ -251,7 +251,7 @@ w: balance_of_trade
 w: trade_balance
 w: visible_balance
 w: trade_gap
-hyper: balance1
+hyper: balance
 g: the difference in value over a period of time of a country's imports and exports of merchandise; "a nation's balance of trade is favorable when its exports exceed its imports"
 
 w: balance_sheet
@@ -259,7 +259,7 @@ hyper: record
 g: a record of the financial situation of an institution on a particular date by listing its assets and the claims against those assets
 
 w: balanced_budget
-hyper: budget3
+hyper: budget1
 g: a budget is balanced when current expenditures are equal to receipts
 
 w: bank
@@ -288,7 +288,7 @@ hyper: loan
 g: a loan made by a bank; to be repaid with interest on or before a fixed date
 
 w: bank_rate
-hyper: discount_rate
+hyper: discount_rate1
 g: the discount rate fixed by a central bank
 
 w: bankbook
@@ -302,8 +302,8 @@ hyper: funds
 dt: noun.act:commercial_enterprise
 g: a roll of currency notes (often taken as the resources of a person or business etc.); "he shot his roll on a bob-tailed nag"
 
-w: bargain1 drf verb.possession:bargain
-w: buy drf verb.stative:buy drf verb.possession:buy
+w: bargain drf verb.possession:bargain
+w: buy drf verb.stative:buy drf verb.possession:buy2
 w: steal
 hyper: purchase
 g: an advantageous purchase; "she got a bargain at the auction"; "the stock was a real buy at that price"
@@ -318,7 +318,7 @@ dr: noun.location:United_Kingdom
 g: the interest rate set by the Bank of England for lending to other banks
 
 w: bawbee
-hyper: coin2
+hyper: coin
 g: an old Scottish coin of little value
 
 w: benefaction drf verb.social:benefact
@@ -346,7 +346,7 @@ hyper: hotel_plan
 g: a hotel plan that provides a full breakfast daily
 
 w: bestowal
-w: bestowment drf verb.possession:bestow2
+w: bestowment drf verb.possession:bestow1
 hyper: gift
 g: a gift that is bestowed or conferred
 
@@ -354,11 +354,11 @@ w: bezant
 w: bezzant
 w: byzant
 w: solidus
-hyper: coin2
+hyper: coin
 g: a gold coin of the Byzantine Empire; widely circulated in Europe in the Middle Ages
 
 w: bid_price
-hyper: price
+hyper: price1
 dt: noun.artifact:stock_exchange
 g: (stock market) the price at which a broker is willing to buy a certain security
 
@@ -370,7 +370,7 @@ w: banker's_bill
 w: bank_note
 w: banknote
 w: Federal_Reserve_note
-w: greenback1
+w: greenback
 hyper: paper_money
 g: a piece of paper money (especially one issued by a central bank); "he peeled off five one-thousand-zloty notes"
 
@@ -395,22 +395,22 @@ hm: checkbook
 g: a check that has been signed but with the amount payable left blank
 
 w: blind_trust
-hyper: trust3
+hyper: trust
 g: a trust that enables a person to avoid possible conflict of interest by transferring assets to a fiduciary; the person establishing the trust gives up the right to information about the assets
 
 w: blood_bank
 hyper: bank
 g: a place for storing whole blood or blood plasma; "the Red Cross created a blood bank for emergencies"
 
-w: blood_money1
+w: blood_money
 hyper: compensation
 g: compensation paid to the family of a murdered person
 
-w: blood_money2
+w: blood_money1
 hyper: reward
 g: a reward for information about a murderer
 
-w: blood_money3
+w: blood_money2
 hyper: payment
 g: paid to a hired murderer
 
@@ -420,13 +420,13 @@ hyper: common_stock
 g: a common stock of a nationally known company whose value and dividends are reliable; typically have high price and low yield; "blue chips are usually safe investments"
 
 w: bond_issue
-hyper: bond2
+hyper: bond
 g: bonds sold by a corporation or government agency at a particular time and identifiable by date of maturity
 
-w: bond2 drf verb.possession:bond
+w: bond drf verb.possession:bond
 w: bond_certificate
 hyper: debt_instrument
-hyper: security4
+hyper: security
 g: a certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal
 
 w: bonus
@@ -445,8 +445,8 @@ w: gelt
 w: kale
 w: lettuce
 w: lolly
-w: lucre2
-w: loot1
+w: lucre
+w: loot
 w: moolah
 w: pelf
 w: scratch
@@ -454,7 +454,7 @@ w: shekels
 w: simoleons
 w: sugar
 w: wampum
-hyper: money
+hyper: money1
 g: informal terms for money
 
 w: book_value
@@ -475,7 +475,7 @@ hp: audited_account
 g: the last line in an audit; the line that shows profit or loss
 
 w: bounty
-w: premium1
+w: premium4
 hyper: reward
 dt: noun.act:government
 g: payment or reward (especially from a government) for acts such as catching criminals or killing predatory animals or enlisting in the military
@@ -509,11 +509,11 @@ w: brokerage_account
 hyper: noun.state:account
 g: a fund that a customer has entrusted to a securities brokerage; "you can't get a brokerage account unless you have $20,000"
 
-w: budget2 drf adj.pert:budgetary drf verb.cognition:budget
-hyper: fund
+w: budget drf adj.pert:budgetary drf verb.cognition:budget
+hyper: fund1
 g: a sum of money allocated for a particular purpose; "the laboratory runs on a budget of a million a year"
 
-w: budget3 drf adj.pert:budgetary drf verb.cognition:budget
+w: budget1 drf adj.pert:budgetary drf verb.cognition:budget
 hyper: noun.cognition:plan
 g: a summary of intended expenditures along with proposals for how to meet them; "the president submitted the annual budget to Congress"
 
@@ -540,11 +540,11 @@ g: tax write-off for expenses of doing business
 
 w: business_expense
 w: trade_expense
-hyper: expense
+hyper: expense1
 g: ordinary and necessary expenses incurred in a taxpayer's business or trade
 
 w: business_interruption_insurance
-hyper: insurance2
+hyper: insurance
 g: insurance that provides protection for the loss of profits and continuing fixed expenses resulting from a break in commercial activities due to the occurrence of a peril
 
 w: business_loan
@@ -571,18 +571,18 @@ w: phone_card
 hyper: credit_card
 g: a card that is used instead of cash to make telephone calls
 
-w: capital drf noun.person:capitalist drf verb.cognition:capitalise1
+w: capital1 drf noun.person:capitalist1 drf verb.cognition:capitalise
 hyper: assets
 g: wealth in the form of money or property owned by a person or business and human resources of economic value
 
-w: capital_account2
-hyper: account2
+w: capital_account
+hyper: account
 hp: balance_of_payments
 dt: noun.cognition:economics
 g: (economics) that part of the balance of payments recording a nation's outflow and inflow of financial securities
 
 w: capital_account1
-hyper: account2
+hyper: account
 dt: noun.cognition:finance
 g: (finance) an account of the net value of a business at a specified date
 
@@ -610,7 +610,7 @@ w: capital_stock1
 hyper: book_value
 g: the book value of the outstanding shares of a corporation
 
-w: capital1 drf noun.person:capitalist drf verb.cognition:capitalize1 drf verb.change:capitalize drf verb.possession:capitalise2 drf verb.cognition:capitalise1 drf verb.cognition:capitalise drf verb.change:capitalise
+w: capital drf noun.person:capitalist1 drf verb.cognition:capitalize drf verb.change:capitalize drf verb.possession:capitalise drf verb.cognition:capitalise drf verb.cognition:capitalise1 drf verb.change:capitalise
 w: working_capital
 hyper: assets
 g: assets available for use in the production of further assets
@@ -630,16 +630,16 @@ g: a rented car; "she picked up a hire car at the airport and drove to her hotel
 
 w: carry-over
 w: carry-forward
-hyper: balance1
+hyper: balance
 dr: noun.location:United_Kingdom
 g: the accumulated and undivided profits of a corporation after provision has been made for dividends and reserves
 
 w: carrying_charge
-hyper: charge2
+hyper: charge1
 g: charge made for carrying an account or for merchandise sold on an installment plan
 
 w: carrying_cost
-w: carrying_charge2
+w: carrying_charge1
 hyper: opportunity_cost
 g: the opportunity cost of unproductive assets; the expense incurred by ownership
 
@@ -648,7 +648,7 @@ hyper: brokerage_account
 g: an account with a securities brokerage whose transactions are settled on a cash basis
 
 w: cash_basis ant accrual_basis
-hyper: accounting1
+hyper: accounting
 g: a method of accounting in which each item is entered as payments are received or made
 
 w: cash_card
@@ -670,7 +670,7 @@ g: the amount that the insurance company will pay on a given life insurance poli
 
 w: cash drf verb.possession:cash
 w: hard_cash
-w: hard_currency
+w: hard_currency1
 hyper: currency
 g: money in the form of bills or coins; "there is a desperate shortage of hard cash"
 
@@ -681,7 +681,7 @@ w: treasurer's_cheque
 hyper: check
 g: a check issued by the officer of a bank on the banks own account (not that of a private person); "cashier's checks are as good as cash"
 
-w: cash2 ant credit
+w: cash1 ant credit2
 w: immediate_payment
 hyper: payment
 g: prompt payment for goods or services in currency or by check
@@ -700,15 +700,15 @@ w: certified_cheque
 hyper: check
 g: a check containing certification that the person who issued the check has sufficient funds on deposit to cover payment
 
-w: change1
-hyper: coin2
+w: change
+hyper: coin
 g: coins of small denomination regarded collectively; "he had a pocketful of change"
 
-w: change2
+w: change1
 hyper: cash
 g: the balance of money received when the amount you tender is greater than the amount due; "I paid with a twenty and pocketed the change"
 
-w: change3
+w: change2
 hyper: cash
 g: money received in return for its equivalent in a larger denomination or a different currency; "he got change for a twenty and used it to pay the taxi driver"
 
@@ -716,18 +716,18 @@ w: chantry
 hyper: endowment
 g: an endowment for the singing of Masses
 
-w: charge1 drf verb.possession:charge2
+w: charge drf verb.possession:charge2
 hyper: liabilities
 dt: tax
 g: financial liabilities (such as a tax); "the charges against the estate"
 
-w: charge2 drf verb.possession:charge3 drf verb.possession:charge2 drf verb.cognition:charge12
+w: charge1 drf verb.possession:charge3 drf verb.possession:charge2 drf verb.cognition:charge1
 hyper: cost
 g: the price charged for some article or service; "the admission charge"
 
 w: charitable_trust
 w: public_trust
-hyper: trust3
+hyper: trust
 g: a trust created for charitable or religious or educational or scientific purposes
 
 w: chattel_mortgage
@@ -739,14 +739,14 @@ w: personal_chattel
 w: movable
 hyper: personal_property
 dt: noun.artifact:furniture
-dt: noun.artifact:car
+dt: noun.artifact:car3
 g: personal as opposed to real property; any tangible movable property (furniture or domestic animals or a car etc)
 
 w: cheap_money
-hyper: credit2
+hyper: credit1
 g: credit available at low rates of interest
 
-w: check drf verb.communication:check7
+w: check drf verb.communication:check
 w: bank_check
 w: cheque drf verb.possession:cheque
 hyper: draft
@@ -782,7 +782,7 @@ hyper: noun.Tops:possession
 g: a person's financial situation (good or bad); "he found himself in straitened circumstances"
 
 w: Civil_List
-hyper: budget2
+hyper: budget
 dr: noun.location:United_Kingdom
 g: a sum of money voted by British Parliament each year for the expenses of the British royal family
 
@@ -792,15 +792,15 @@ g: common stock classified as A or B where A has certain advantages (e.g., votin
 
 w: Clifford_trust
 w: grantor_trust
-hyper: trust3
+hyper: trust
 g: a trust established to shift the income to someone who is taxed at a lower rate than the grantor for a period of 10 years or more
 
 w: closing_price
-hyper: price
+hyper: price1
 dt: noun.artifact:stock_exchange
 g: (stock market) the price of the last transaction completed during a day's trading session
 
-w: coin2 drf verb.creation:coin
+w: coin drf verb.creation:coin1
 hyper: coinage
 g: a flat metal piece (usually a disc) used as money
 
@@ -812,7 +812,7 @@ hyper: currency
 g: coins collectively
 
 w: coinsurance drf verb.possession:coinsure
-hyper: insurance2
+hyper: insurance
 g: insurance issued jointly by two or more underwriters
 
 w: collateral drf adjs.all:collateral
@@ -827,11 +827,11 @@ w: comforts
 w: creature_comforts
 w: amenities
 w: conveniences
-hyper: support
+hyper: support1
 g: things that make you comfortable and at ease; "all the comforts of home"
 
 w: commercial_credit
-hyper: credit2
+hyper: credit1
 g: credit granted by a bank to a business concern for commercial purposes
 
 w: commercial_letter_of_credit
@@ -847,13 +847,13 @@ hyper: fee
 g: a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary); "he works on commission"
 
 w: common_stock_equivalent
-hyper: stock
+hyper: stock2
 g: preferred stock or convertible bonds or warrants that can be converted into common stock
 
 w: common_stock
 w: common_shares
 w: ordinary_shares
-hyper: stock
+hyper: stock2
 g: stock other than preferred stock; entitles the owner to a share of the corporation's profits and a share of the voting power in shareholder elections; "over 40 million Americans invest in common stocks"
 
 w: commonage
@@ -870,10 +870,10 @@ g: property and income belonging jointly to a married couple
 
 w: compensating_balance
 w: offsetting_balance
-hyper: balance1
+hyper: balance
 g: a minimum credit balance that a bank may require a borrower to keep on deposit as a condition for granting a loan; a common requirement for establishing a line of credit at a bank; "the compensating balance increases the effective interest rate to the bank since the net amount loaned is reduced but the interest paid is unchanged"
 
-w: compensation drf verb.social:compensate drf verb.possession:compensate2 drf verb.possession:compensate1 drf verb.possession:compensate
+w: compensation drf verb.social:compensate drf verb.possession:compensate drf verb.possession:compensate1 drf verb.possession:compensate2
 hyper: recompense
 g: something (such as money) given or received as payment or reparation (as for a service or loss or injury)
 
@@ -912,25 +912,25 @@ hyper: gift
 g: a voluntary gift (as of money or service or ideas) made to some worthwhile cause
 
 w: control_account
-hyper: accounting1
+hyper: accounting
 hp: general_ledger
 g: an account that shows totals of amounts entered in a subsidiary ledger
 
 w: control_stock
-hyper: stock
+hyper: stock2
 g: shares owned by shareholders who have a controlling interest
 
 w: controlling_interest
-hyper: interest3
+hyper: interest1
 g: ownership of more than 50% of a corporation's voting shares
 
 w: convertible_bond
-hyper: bond2
+hyper: bond
 g: a bond that can be converted to other securities under certain conditions
 
 w: convertible
 w: convertible_security
-hyper: security4
+hyper: security
 g: a corporate security (usually bonds or preferred stock) that can be exchanged for another form of security (usually common stock)
 
 w: cookie_jar_reserve
@@ -950,7 +950,7 @@ hyper: service_charge
 g: a charge added at a restaurant for every bottle of wine served that was not bought on the premises
 
 w: corporate_bond
-hyper: bond2
+hyper: bond
 g: a bond issued by a corporation; carries no claim to ownership and pays no dividends but payments to bondholders have priority over payments to stockholders; "a corporate bond is a safer investment than common stock in the same company"
 
 w: cost drf verb.stative:cost
@@ -958,7 +958,7 @@ hyper: outgo
 g: the total spent for goods or services including money and time and labor
 
 w: cost-of-living_allowance
-hyper: allowance1
+hyper: allowance3
 g: an allowance for changes in the consumer price index
 
 w: cost-of-living_benefit
@@ -995,8 +995,8 @@ w: counter_check
 hyper: check
 g: a blank check provided by a bank for the convenience of customers who are making withdrawals
 
-w: counterbalance drf verb.social:counterbalance drf verb.stative:counterbalance1
-w: offset drf verb.stative:offset drf verb.stative:offset1
+w: counterbalance drf verb.social:counterbalance drf verb.stative:counterbalance
+w: offset drf verb.stative:offset1 drf verb.stative:offset
 hyper: compensation
 g: a compensating equivalent
 
@@ -1010,7 +1010,7 @@ g: an estate in the country
 
 w: coupon_bond
 w: bearer_bond
-hyper: bond2
+hyper: bond
 g: a bond issued with detachable coupons that must be presented to the issuer for interest payments
 
 w: cover_charge
@@ -1018,12 +1018,12 @@ w: cover drf verb.possession:cover
 hyper: fixed_charge
 g: a fixed charge by a restaurant or nightclub over and above the charge for food and drink
 
-w: coverage drf verb.communication:cover
+w: coverage drf verb.communication:cover3
 w: insurance_coverage
 hyper: sum
 g: the total amount and type of insurance carried
 
-w: credit2
+w: credit1
 hyper: assets
 g: money available for a client to borrow
 
@@ -1047,25 +1047,25 @@ w: bank_line
 w: line
 w: personal_credit_line
 w: personal_line_of_credit
-hyper: credit2
+hyper: credit1
 g: the maximum credit that a customer is allowed
 
 w: credit_side
-hyper: accounting1
+hyper: accounting
 g: account of payments received; usually the right side of a financial statement
 
-w: credit1 drf verb.possession:credit ant debit1
+w: credit drf verb.possession:credit ant debit
 w: credit_entry
 hyper: entry
 g: an accounting entry acknowledging income or capital items
 
-w: credit ant cash2
+w: credit2 ant cash1
 w: deferred_payment
 hyper: payment
 g: arrangement for deferred payment for goods and services
 
 w: crown
-hyper: coin2
+hyper: coin
 g: an English coin worth 5 shillings
 
 w: crown_jewel
@@ -1103,14 +1103,14 @@ hyper: duty
 g: money collected under a tariff
 
 w: cut
-hyper: share
-hp: loot
+hyper: share1
+hp: loot1
 g: a share of the profits; "everyone got a cut of the earnings"
 
 w: damages
 w: amends
-w: indemnity drf verb.possession:indemnify
-w: indemnification drf verb.possession:indemnify
+w: indemnity drf verb.possession:indemnify1
+w: indemnification drf verb.possession:indemnify1
 w: restitution
 w: redress drf verb.social:redress
 hyper: compensation
@@ -1131,10 +1131,10 @@ hyper: noun.communication:positive_identification
 g: a card (usually plastic) that enables the holder to withdraw money or to have the cost of purchases charged directly to the holder's bank account
 
 w: debit_side
-hyper: accounting1
+hyper: accounting
 g: account of payments owed; usually the left side of a financial statement
 
-w: debit1 drf verb.possession:debit ant credit1
+w: debit drf verb.possession:debit ant credit
 w: debit_entry
 hyper: entry
 g: an accounting entry acknowledging sums that are owing
@@ -1159,9 +1159,9 @@ hyper: sum
 dt: tax
 g: (taxes) an amount that can be deducted (especially for the purposes of calculating income tax)
 
-w: deduction
-w: discount drf verb.possession:discount
-hyper: allowance1
+w: deduction1
+w: discount2 drf verb.possession:discount
+hyper: allowance3
 g: an amount or percentage deducted
 
 w: deep_pocket
@@ -1173,9 +1173,9 @@ w: defalcation
 hyper: sum
 g: the sum of money that is misappropriated
 
-w: default2 drf verb.possession:default
-w: nonpayment2
-w: nonremittal2
+w: default drf verb.possession:default
+w: nonpayment
+w: nonremittal
 hyper: noun.act:failure
 g: act of failing to meet a financial obligation
 
@@ -1192,11 +1192,11 @@ hyper: tax
 g: any tax in which the rate decreases as the amount subject to taxation increases
 
 w: delinquency
-hyper: nonpayment
+hyper: nonpayment1
 g: nonpayment of a debt when due
 
 w: demand_deposit
-hyper: deposit1
+hyper: deposit
 g: a bank deposit from which withdrawals can be made without notice
 
 w: demand_note
@@ -1204,11 +1204,11 @@ hyper: note
 g: a note payable on demand
 
 w: demurrage
-hyper: charge2
+hyper: charge1
 g: a charge required as compensation for the delay of a ship or freight car or other cargo beyond its scheduled time of departure
 
 w: denier
-hyper: coin2
+hyper: coin
 g: any of various former European coins of different denominations
 
 w: departure_tax
@@ -1216,29 +1216,29 @@ hyper: tax
 g: a tax that is levied when you are departing a country by land or sea or air
 
 w: deposit2
-hyper: security
+hyper: security1
 g: money given as security for an article acquired for temporary use; "his deposit was refunded when he returned the car"
 
-w: deposit1 drf verb.possession:deposit
+w: deposit drf verb.possession:deposit
 w: bank_deposit
-hyper: fund
+hyper: fund1
 g: money deposited in a bank or some similar institution
 
 w: depreciation_allowance
-hyper: allowance1
+hyper: allowance3
 g: an allowance for loss due to depreciation
 
 w: depreciation_charge
-hyper: charge2
+hyper: charge1
 g: an amount periodically charged to expense or against revenue in compensation for depreciation of property
 
-w: depreciation drf verb.change:depreciate1 drf verb.change:depreciate
+w: depreciation drf verb.change:depreciate drf verb.change:depreciate1
 w: wear_and_tear
 hyper: financial_loss
 hyper: non-cash_expense
 g: decrease in value of an asset due to obsolescence or use
 
-w: devise2 drf verb.possession:devise
+w: devise drf verb.possession:devise
 hyper: noun.communication:will
 g: a will disposing of real property
 
@@ -1253,7 +1253,7 @@ hyper: noun.artifact:jewel
 g: a transparent piece of diamond that has been cut and polished and is valued as a precious gem
 
 w: dime
-hyper: coin2
+hyper: coin
 g: a United States coin worth one tenth of a dollar
 
 w: direct_loan
@@ -1266,7 +1266,7 @@ g: a tax paid directly by the person or organization on whom it is levied
 
 w: direct_trust
 w: express_trust
-hyper: trust3
+hyper: trust
 g: a trust created by the free and deliberate act of the parties involved (usually on the basis of written documentation)
 
 w: disability_benefit
@@ -1278,23 +1278,23 @@ w: disability_payment
 hyper: regular_payment
 g: a monthly payment made to someone who has become disabled and is unable to work
 
-w: discount_rate1
+w: discount_rate
 hyper: interest_rate
 dr: noun.location:United_States
 g: the rate of interest set by the Federal Reserve that member banks are charged when they borrow money through the Federal Reserve System
 
-w: discount_rate
-w: discount1
+w: discount_rate1
+w: discount
 w: bank_discount
 hyper: interest_rate
 g: interest on an annual basis deducted in advance on a loan
 
 w: discretionary_trust
-hyper: trust3
+hyper: trust
 g: a trust that gives the trustee discretion to pay the beneficiary as much of the trust income as the trustee believes appropriate
 
 w: dispensation drf verb.possession:dispense drf verb.body:dispense
-hyper: share
+hyper: share1
 g: a share that has been dispensed or distributed
 
 w: disposable_income
@@ -1333,11 +1333,11 @@ hyper: noun.Tops:communication
 g: a written account of ownership or obligation
 
 w: dole
-hyper: share
+hyper: share1
 g: a share of money or food or clothing that has been charitably given
 
 w: dollar1
-hyper: coin2
+hyper: coin
 g: a United States coin worth one dollar; "the dollar coin has never been popular in the United States"
 
 w: dollar
@@ -1366,7 +1366,7 @@ hyper: income
 g: two incomes received from the same source (as by holding a government job and receiving a government pension)
 
 w: double_eagle
-hyper: coin2
+hyper: coin
 g: a former gold coin in the United States worth 20 dollars
 
 w: double_time
@@ -1374,21 +1374,21 @@ hyper: wage
 g: a doubled wage (for working overtime)
 
 w: doubloon
-hyper: coin2
+hyper: coin
 g: a former Spanish gold coin
 
-w: dower drf verb.possession:dower
+w: dower1 drf verb.possession:dower
 hyper: life_estate
 g: a life estate to which a wife is entitled on the death of her husband
 
 w: down_payment
-w: deposit
+w: deposit1
 hyper: payment
 g: a partial payment made at the time of purchase; the balance to be paid later
 
 w: dowry
 w: dowery drf verb.possession:dower
-w: dower1 drf verb.possession:dower
+w: dower drf verb.possession:dower
 w: portion1
 hyper: gift
 g: money or property brought by a woman to her husband at marriage
@@ -1404,7 +1404,7 @@ hyper: fee
 g: a fee added for returning a rented car to a location different from the one where it was rented
 
 w: ducat
-hyper: coin2
+hyper: coin
 g: formerly a gold coin of various European countries
 
 w: due
@@ -1417,11 +1417,11 @@ hyper: indirect_tax
 g: a government tax on imports or exports; "they signed a treaty to lower duties on trade between their countries"
 
 w: eagle
-hyper: coin2
+hyper: coin
 g: a former gold coin in the United States worth 10 dollars
 
 w: earnest
-hyper: security
+hyper: security1
 g: something of value given by one person to another to bind a contract
 
 w: earnest_money
@@ -1433,17 +1433,17 @@ w: earning_per_share
 hyper: net_income
 g: the portion of a company's profit allocated to each outstanding share of common stock
 
-w: easy_money1 ant tight_money
+w: easy_money ant tight_money
 hyper: noun.state:financial_condition
 g: the economic condition in which credit is easy to secure
 
-w: easy_money
+w: easy_money1
 w: gravy_train
 hyper: income
 g: income obtained with a minimum of effort
 
 w: easy_street
-hyper: security1
+hyper: security2
 g: financial security
 
 w: EBITDA
@@ -1452,7 +1452,7 @@ hyper: income
 g: income before interest and taxes and depreciation and amortization have been subtracted; an indicator of a company's profitability that is watched by investors (especially in leveraged buyouts)
 
 w: economic_rent
-w: rent1
+w: rent
 hyper: return
 g: the return derived from cultivated land in excess of that derived from the poorest land cultivated under similar conditions
 
@@ -1462,7 +1462,7 @@ hyper: personal_property
 g: property of a personal character that is portable but not used in business; "she left some of her personal effects in the house"; "I watched over their effects until they returned"
 
 w: eightpence
-hyper: coin2
+hyper: coin
 g: a coin worth eight pennies
 
 w: emerald
@@ -1479,7 +1479,7 @@ g: ownership of a business by the people who work for it
 
 w: encumbrance
 w: incumbrance
-hyper: charge1
+hyper: charge
 g: a charge against property (as a lien or mortgage)
 
 w: endowment_insurance
@@ -1488,7 +1488,7 @@ g: life insurance for a specified amount which is payable to the insured person 
 
 w: endowment drf verb.possession:endow
 w: endowment_fund
-hyper: capital
+hyper: capital1
 g: the capital that provides income for an institution
 
 w: enrichment drf verb.possession:enrich
@@ -1504,7 +1504,7 @@ hyper: business_deduction
 g: deduction allowed for some (limited) kinds of entertainment for business purposes
 
 w: entrance_fee
-w: admission drf verb.stative:admit3 drf verb.social:admit1
+w: admission drf verb.stative:admit3 drf verb.social:admit
 w: admission_charge
 w: admission_fee
 w: admission_price
@@ -1516,19 +1516,19 @@ g: the fee charged for admission
 w: entry
 w: accounting_entry
 w: ledger_entry
-hyper: accounting1
+hyper: accounting
 g: a written record of a commercial transaction
 
 w: equalizing_dividend
 hyper: dividend
 g: a dividend paid to compensate shareholders for losses resulting from a change in the dividend schedule
 
-w: equity1
+w: equity
 hyper: assets
 g: the difference between the market value of a property and the claims held against it
 
-w: equity
-hyper: interest3
+w: equity1
+hyper: interest1
 g: the ownership interest of shareholders in a corporation
 
 w: escheat
@@ -1548,12 +1548,12 @@ w: escrow_funds
 hyper: funds
 g: funds held in escrow
 
-w: estate2
+w: estate
 hyper: property
 g: everything you own; all of your assets (whether real property or personal property) and liabilities
 
 w: estate1
-w: land
+w: land1
 w: landed_estate
 w: acres
 w: demesne
@@ -1591,34 +1591,34 @@ w: exemption
 hyper: tax_write-off
 g: a deduction allowed to a taxpayer because of his status (having certain dependents or being blind or being over 65 etc.); "additional exemptions are allowed for each dependent"
 
-w: expense1
+w: expense
 hyper: outgo
 g: money spent to perform work and usually reimbursed by an employer; "he kept a careful record of his expenses at the meeting"
 
 w: expense_account
 w: travel_and_entertainment_account
-hyper: account2
+hyper: account
 g: an account to which salespersons or executives can charge travel and entertainment expenses
 
 w: expense_record
 hyper: record
 g: a written record of money spent
 
-w: expense
+w: expense1
 w: disbursal
 w: disbursement drf verb.possession:disburse
 hyper: cost
 g: amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)
 
 w: export_credit
-hyper: credit2
+hyper: credit1
 g: a credit opened by an importer with a bank in an exporter's country to finance an export operation
 
 w: export_duty
 hyper: duty
 g: a duty imposed on exports
 
-w: extortion drf verb.possession:extort
+w: extortion drf verb.possession:extort1
 hyper: overcharge
 g: an exorbitant charge
 
@@ -1631,20 +1631,20 @@ hyper: bank
 g: a place for storing and preserving corneas that are obtained from human corpses immediately after death; used for corneal transplantation to patients with corneal defects
 
 w: factory_price
-hyper: price
+hyper: price1
 g: price charged for goods picked up at the factory
 
 w: fare
 w: transportation
-hyper: charge2
+hyper: charge1
 g: the sum charged for riding in a public conveyance
 
 w: farmstead
-hyper: land1
+hyper: land
 g: the buildings and adjacent grounds of a farm
 
 w: farthing
-hyper: coin2
+hyper: coin
 g: a former British bronze coin worth a quarter of a penny
 
 w: fast_buck
@@ -1665,7 +1665,7 @@ hyper: fixed_charge
 g: a fixed charge for a privilege or for professional services
 
 w: fee1
-hyper: interest3
+hyper: interest1
 g: an interest in land capable of being inherited
 
 w: fee_simple
@@ -1699,7 +1699,7 @@ w: fifty
 hyper: bill
 g: a United States bill worth 50 dollars
 
-w: figure drf verb.cognition:figure
+w: figure drf verb.cognition:figure1
 hyper: sum
 g: an amount of money expressed numerically; "a figure of $17 was suggested"
 
@@ -1712,7 +1712,7 @@ hyper: gain
 g: the amount of monetary gain
 
 w: financial_loss
-hyper: loss1
+hyper: loss
 g: loss of money or decrease in financial value
 
 w: finder's_fee
@@ -1726,7 +1726,7 @@ hyper: penalty
 g: money extracted as a penalty
 
 w: fire_insurance
-hyper: insurance2
+hyper: insurance
 g: insurance against loss due to fire
 
 w: first_mortgage
@@ -1738,7 +1738,7 @@ hyper: treasury
 g: a state treasury or exchequer or a royal treasury; originally the public treasury of Rome or the emperor's private purse
 
 w: fivepence
-hyper: coin2
+hyper: coin
 g: a coin worth five cents
 
 w: fiver
@@ -1750,11 +1750,11 @@ g: a United States bill worth 5 dollars
 w: fixed_charge
 w: fixed_cost
 w: fixed_costs
-hyper: charge2
+hyper: charge1
 g: a periodic charge that does not vary with business volume (as insurance or rent or mortgage payments etc.)
 
 w: float
-hyper: stock
+hyper: stock2
 g: the number of shares outstanding and available for trading by the public
 
 w: floater
@@ -1784,16 +1784,16 @@ hyper: draft
 g: a bill of exchange that is drawn in one country and made payable in another
 
 w: foreign_exchange
-hyper: noun.act:exchange
+hyper: noun.act:exchange3
 g: the system by which one currency is exchanged for another; enables international transactions to take place
-
-w: forfeit1 drf verb.possession:forfeit
-w: forfeiture1 drf verb.possession:forfeit
-hyper: loss1
-g: something that is lost or surrendered as a penalty;
 
 w: forfeit drf verb.possession:forfeit
 w: forfeiture drf verb.possession:forfeit
+hyper: loss
+g: something that is lost or surrendered as a penalty;
+
+w: forfeit1 drf verb.possession:forfeit
+w: forfeiture1 drf verb.possession:forfeit
 hyper: penalty
 g: a penalty for a fault or mistake that involves losing or giving up something; "the contract specified forfeits if the work was not completed on time"
 
@@ -1807,7 +1807,7 @@ g: food and lodging provided in addition to money; "they worked for $30 and foun
 
 w: fourpence
 w: groat
-hyper: coin2
+hyper: coin
 g: a former English silver coin worth four pennies
 
 w: fractional_currency
@@ -1827,11 +1827,11 @@ w: freebee
 hyper: gift
 g: something that is free (usually provided as part of a promotional scheme); "the road map was a freebie"
 
-w: freehold1 drf noun.person:freeholder
+w: freehold drf noun.person:freeholder
 hyper: estate1
 g: an estate held in fee simple or for life
 
-w: freehold drf noun.person:freeholder
+w: freehold1 drf noun.person:freeholder
 hyper: tenure
 g: tenure by which land is held in fee simple or for life
 
@@ -1851,9 +1851,9 @@ w: fuel_level
 hyper: reserve
 g: the amount of fuel remaining
 
-w: fund drf verb.possession:fund drf verb.possession:fund1
+w: fund1 drf verb.possession:fund5 drf verb.possession:fund1
 w: monetary_fund
-hyper: money
+hyper: money1
 g: a reserve of money set aside for some purpose
 
 w: funds
@@ -1864,7 +1864,7 @@ w: pecuniary_resource
 hyper: assets
 g: assets in the form of money
 
-w: gain ant loss
+w: gain ant loss1
 hyper: sum
 g: the amount by which the revenue of a business exceeds its cost of operating
 
@@ -1929,7 +1929,7 @@ hyper: precious_metal
 g: coins made of gold
 
 w: gold1
-hyper: wealth2
+hyper: wealth
 g: great wealth; "Whilst that for which all virtue now is sold, and almost every vice--almighty gold"--Ben Jonson
 
 w: gold_standard
@@ -1943,7 +1943,7 @@ dt: noun.cognition:accounting
 g: (accounting) an intangible asset valued according to the advantage or reputation a business has acquired (over and above its tangible assets)
 
 w: government_bond
-hyper: bond2
+hyper: bond
 g: a bond that is an IOU of the United States Treasury; considered the safest security in the investment world
 
 w: government_income
@@ -1953,10 +1953,10 @@ g: income available to the government
 
 w: government_security
 w: agency_security
-hyper: security4
+hyper: security
 g: a security issued by United States government agencies or the Farm Credit System
 
-w: grant drf verb.possession:grant3
+w: grant drf verb.possession:grant2
 hyper: aid
 g: any monetary aid
 
@@ -1965,8 +1965,8 @@ hyper: grant
 hyper: aid
 g: a grant to a person or school for some educational project
 
-w: grant2 drf verb.possession:grant2
-w: assignment2 drf verb.possession:assign
+w: grant1 drf verb.possession:grant3
+w: assignment drf verb.possession:assign2
 hyper: transferred_property
 dt: noun.group:law
 g: (law) a transfer of property by deed of conveyance
@@ -1991,7 +1991,7 @@ hyper: noun.attribute:value
 g: the measure of an economy adopted by the United States in 1991; the total market values of goods and services produced by workers and capital within a nation's borders during a given period (usually 1 year)
 
 w: gross_estate
-hyper: estate2
+hyper: estate
 g: the total valuation of the estate's assets at the time of the person's death
 
 w: gross_national_product
@@ -2001,7 +2001,7 @@ g: former measure of the United States economy; the total market value of goods 
 
 w: gross_profit
 w: gross_profit_margin
-w: margin2
+w: margin1
 hyper: net_income
 dt: noun.act:corporate_finance
 g: (finance) the net sales minus the cost of goods and services sold
@@ -2019,22 +2019,22 @@ hyper: sum
 g: the entire amount of income before any deductions are made
 
 w: ground_rent
-hyper: rent
+hyper: rent1
 g: payment for the right to occupy and improve a piece of land
 
 w: group_insurance
-hyper: insurance2
+hyper: insurance
 g: insurance that is purchased by a group (such as the employees of a company) usually at a reduced rate to individual members of the group
 
 w: growth_stock
-hyper: stock
+hyper: stock2
 g: stock of a corporation that has had faster than average gains in earnings and is expected to continue to
 
 w: grubstake drf verb.possession:grubstake
-hyper: interest3
+hyper: interest1
 g: funds advanced to a prospector or to someone starting a business in return for a share of the profits
 
-w: guarantee3
+w: guarantee
 w: guaranty
 hyper: collateral
 g: a collateral agreement to answer for the debt of another in case that person defaults
@@ -2044,7 +2044,7 @@ hyper: reward
 g: a reward or payment
 
 w: guinea
-hyper: coin2
+hyper: coin
 g: a former British gold coin worth 21 shillings
 
 w: hacienda
@@ -2056,21 +2056,21 @@ hyper: wage
 g: reduced wage paid to someone who is not working full time
 
 w: half_crown
-hyper: coin2
+hyper: coin
 g: an English coin worth half a crown
 
 w: half_dollar
 w: fifty-cent_piece
-hyper: coin2
+hyper: coin
 g: a United States coin worth half of a dollar
 
 w: half_eagle
-hyper: coin2
+hyper: coin
 g: a former gold coin in United States worth 5 dollars
 
 w: halfpenny
 w: ha'penny
-hyper: coin2
+hyper: coin
 g: an English coin worth half a penny
 
 w: handling_cost
@@ -2078,16 +2078,16 @@ w: handling_charge
 hyper: cost
 g: the cost of handling (especially the cost of packaging and mailing an order)
 
-w: hard_currency1
+w: hard_currency
 hyper: currency
 g: a currency that is not likely to depreciate suddenly in value; "the countries agreed to conduct their bilateral trade in hard currency, replacing previous barter arrangements"; "Germany once had a solid economy, good fiscal and monetary policies, and a hard currency"
 
 w: hazard_insurance
-hyper: insurance2
+hyper: insurance
 g: insurance that provides protection against certain risks such as storms or fires
 
 w: health_insurance
-hyper: insurance2
+hyper: insurance
 g: insurance against loss due to ill health
 
 w: health_maintenance_organization
@@ -2102,16 +2102,16 @@ g: an annual contribution made by Roman Catholics to support the papal see
 
 w: hedge
 w: hedging
-hyper: security1
+hyper: security2
 g: any technique designed to reduce or eliminate financial risk; for example, taking two positions that will offset each other if prices change
 
-w: heirloom1
+w: heirloom
 hyper: property
 hp: inheritance
 dt: noun.group:law
 g: (law) any property that is considered by law or custom as inseparable from an inheritance is inherited with that inheritance
 
-w: heirloom
+w: heirloom1
 hyper: inheritance
 g: something that has been in a family for generations
 
@@ -2129,7 +2129,7 @@ dt: tax
 g: a tax paid unwittingly by the consumer (such as ad valorem taxes)
 
 w: highway_robbery
-hyper: price
+hyper: price1
 g: an exorbitant price; "what they are asking for gas these days is highway robbery"
 
 w: hire-purchase
@@ -2138,7 +2138,7 @@ hyper: installment_plan
 dr: noun.location:United_Kingdom
 g: installment plan; "we bought a car on the never-never"
 
-w: hoard drf verb.possession:hoard1
+w: hoard drf verb.possession:hoard
 w: cache drf verb.possession:cache
 w: stash drf verb.possession:stash
 hyper: store
@@ -2157,7 +2157,7 @@ hyper: loan
 g: a loan secured by equity value in the borrower's home
 
 w: homestead
-hyper: land1
+hyper: land
 g: the home and adjacent grounds occupied by a family
 
 w: homestead1 drf verb.change:homestead
@@ -2175,12 +2175,12 @@ g: insurance that pays all or part of a patient's hospital expense
 
 w: hot_stock
 w: hot_issue
-hyper: stock
+hyper: stock2
 g: newly issued stock that is in great public demand
 
 w: hotel_plan
 w: meal_plan
-hyper: noun.cognition:design1
+hyper: noun.cognition:design2
 g: a plan and a room rate for providing a room and meals to guests at a hotel
 
 w: hundred_dollar_bill
@@ -2193,17 +2193,17 @@ hyper: bribe
 g: a bribe paid to someone to insure that something is kept secret
 
 w: ice
-w: sparkler drf verb.weather:sparkle
+w: sparkler drf verb.weather:sparkle1
 hyper: diamond
 du: noun.communication:colloquialism
 g: diamonds; "look at the ice on that dame!"
 
 w: implied_trust
-hyper: trust3
+hyper: trust
 g: a trust inferred by operation of law
 
 w: import_credit
-hyper: credit2
+hyper: credit1
 g: credit opened by an importer at a bank in his own country upon which an exporter may draw
 
 w: import_duty
@@ -2212,13 +2212,13 @@ g: a duty imposed on imports
 
 w: incentive_program
 w: incentive_scheme
-hyper: noun.cognition:scheme
+hyper: noun.cognition:scheme1
 g: a formal scheme for inducing someone (as employees) to do something
 
 w: incidental_expense
 w: incidental
 w: minor_expense
-hyper: expense1
+hyper: expense
 du: noun.communication:plural
 g: (frequently plural) an expense not budgeted or not specified; "he requested reimbursement of $7 for incidental expenses"
 
@@ -2230,7 +2230,7 @@ w: income_statement
 w: earnings_report
 w: operating_statement
 w: profit-and-loss_statement
-hyper: noun.communication:statement1
+hyper: noun.communication:statement6
 g: a financial statement that gives operating results for a specific period
 
 w: income_tax
@@ -2253,7 +2253,7 @@ hyper: transfer_tax
 g: a tax on the estate of the deceased person
 
 w: inheritance
-w: heritage2
+w: heritage
 hyper: transferred_property
 dt: noun.group:law
 g: that which is inherited; a title or property or estate that passes by law to the heir on the death of the owner
@@ -2263,7 +2263,7 @@ hyper: draft
 g: a bill of exchange that is both drawn and made payable in the same country
 
 w: installation_charge
-hyper: charge2
+hyper: charge1
 g: the charge for installing something
 
 w: installment
@@ -2287,11 +2287,11 @@ hyper: regular_payment
 g: a system for paying for goods by installments
 
 w: insurable_interest
-hyper: interest3
+hyper: interest1
 g: an interest in a person or thing that will support the issuance of an insurance policy; an interest in the survival of the insured or in the preservation of the thing that is insured
 
-w: insurance2 drf verb.communication:insure
-hyper: security1
+w: insurance drf verb.communication:insure
+hyper: security2
 g: promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company
 
 w: intangible
@@ -2312,7 +2312,7 @@ hyper: fixed_charge
 g: a fixed charge for borrowing money; usually a percentage of the amount borrowed; "how much interest do you pay on your mortgage?"
 
 w: interest_expense
-hyper: expense
+hyper: expense1
 g: interest paid on loans
 
 w: interest_rate
@@ -2320,9 +2320,9 @@ w: rate_of_interest
 hyper: rate
 g: the percentage of a sum of money charged for its use
 
-w: interest3
-w: stake2
-hyper: share
+w: interest1
+w: stake1
+hyper: share1
 dt: noun.group:law
 g: (law) a right or legal share of something; a financial involvement with something; "they have interests all over the world"; "a stake in the company's future"
 
@@ -2345,14 +2345,14 @@ hyper: assets
 g: money that is invested with an expectation of profit
 
 w: invisible_balance
-hyper: balance1
+hyper: balance
 g: the difference in value over a period of time of a country's imports and exports of services and payments of property incomes
 
 w: IOU
 hyper: note
 g: an informal debt instrument; representing `I owe you'
 
-w: issue1 drf verb.social:issue
+w: issue drf verb.social:issue
 w: military_issue
 w: government_issue
 hyper: store
@@ -2365,7 +2365,7 @@ g: any outstanding award
 
 w: jointure
 w: legal_jointure
-hyper: estate2
+hyper: estate
 dt: noun.group:law
 g: (law) an estate secured to a prospective wife as a marriage settlement in lieu of a dower
 
@@ -2375,7 +2375,7 @@ g: lien on a debtor's property that is granted to a creditor by court judgment; 
 
 w: junk_bond
 w: high-yield_bond
-hyper: bond2
+hyper: bond
 g: a (speculative) bond with a credit rating of BB or lower; issued for leveraged buyouts and other takeovers by companies with questionable credit
 
 w: kickback drf verb.possession:kick_back
@@ -2383,7 +2383,7 @@ hyper: bribe
 g: a commercial bribe paid by a seller to a purchasing agent in order to induce the agent to enter into the transaction
 
 w: killing
-w: cleanup drf verb.possession:clean_up4
+w: cleanup drf verb.possession:clean_up
 hyper: net_income
 du: noun.communication:colloquialism
 g: a very large profit
@@ -2392,11 +2392,11 @@ w: king's_ransom
 hyper: treasure
 g: a very large treasure
 
-w: kite1 drf verb.possession:kite1
+w: kite drf verb.possession:kite
 hyper: check
 g: a bank check that has been fraudulently altered to increase its face value
 
-w: kite drf verb.possession:kite
+w: kite1 drf verb.possession:kite1
 hyper: check
 g: a bank check drawn on insufficient funds at another bank in order to take advantage of the float
 
@@ -2408,23 +2408,23 @@ w: lagniappe
 hyper: gift
 g: a small gift (especially one given by a merchant to a customer who makes a purchase)
 
-w: land1
+w: land
 hyper: real_property
 g: the land on which real estate is located; "he built the house on land leased from the city"
 
 w: land_grant
-hyper: grant2
+hyper: grant1
 g: a grant of public land (as to a railway or college)
 
 w: land_resources
 hyper: natural_resource
 g: natural resources in the form of arable land
 
-w: landholding1
+w: landholding
 hyper: ownership
 g: ownership of land; the state or fact of owning land
 
-w: landholding
+w: landholding1
 hyper: property
 g: a holding in the form of land
 
@@ -2441,8 +2441,8 @@ w: leasehold
 hyper: estate1
 g: land or property held under a lease
 
-w: lease drf verb.possession:lease1 drf verb.social:lease
-w: rental drf adj.pert:rental1
+w: lease drf verb.possession:lease drf verb.social:lease1
+w: rental drf adj.pert:rental
 w: letting
 hyper: property
 g: property that is leased or rented out or let
@@ -2466,11 +2466,11 @@ g: a bond that has not been registered with the Securities and Exchange Commissi
 
 w: letter_of_credit
 hyper: document
-hyper: credit2
+hyper: credit1
 g: a document issued by a bank that guarantees the payment of a customer's draft; substitutes the bank's credit for the customer's credit
 
 w: letter_security
-hyper: security4
+hyper: security
 g: a stock or bond that is not registered with the Securities and Exchange Commission and cannot be sold in the public market
 
 w: letter_stock
@@ -2478,7 +2478,7 @@ hyper: letter_security
 g: stock that has not been registered with the Securities and Exchange Commission and cannot be sold to the general public
 
 w: levy drf verb.possession:levy
-hyper: charge1
+hyper: charge
 g: a charge imposed and collected
 
 w: liabilities
@@ -2487,7 +2487,7 @@ du: noun.communication:plural
 g: anything that is owed to someone else
 
 w: liability_insurance
-hyper: insurance2
+hyper: insurance
 g: insurance that provides protection from claims arising from injuries or damage to other people or property
 
 w: library_fine
@@ -2507,13 +2507,13 @@ g: the right to take another's property if an obligation is not discharged
 
 w: life_estate
 w: estate_for_life
-hyper: estate2
+hyper: estate
 dt: noun.group:law
 g: (law) an estate whose duration is limited to the life of the person holding it
 
 w: life_insurance
 w: life_assurance
-hyper: insurance2
+hyper: insurance
 g: insurance paid to named beneficiaries when the insured person dies; "in England they call life insurance life assurance"
 
 w: lighterage drf verb.motion:lighter
@@ -2537,7 +2537,7 @@ w: liquid_assets
 w: current_assets
 w: quick_assets
 hyper: assets
-hm: capital1
+hm: capital
 du: noun.communication:plural
 g: assets in the form of cash (or easily convertible into cash)
 
@@ -2546,12 +2546,12 @@ hyper: asking_price
 g: the selling price of something as stated in a catalogue or price list; often subject to discounts; "I got it at 30% off the list price"
 
 w: listed_security ant unlisted_security
-hyper: security4
+hyper: security
 g: a security that has been accepted for trading by one of the organized and registered securities exchanges in the US
 
 w: living_trust
 w: inter_vivos_trust
-hyper: trust3
+hyper: trust
 g: a trust created and operating during the grantor's lifetime
 
 w: living_wage
@@ -2563,7 +2563,7 @@ hyper: debt
 g: the temporary provision of money (usually at interest)
 
 w: lobbying_expense
-hyper: expense
+hyper: expense1
 g: expenses incurred in promoting or evaluating legislation; "many lobbying expenses are deductible by a taxpayer"
 
 w: lock-up_option
@@ -2574,33 +2574,33 @@ w: lockage
 hyper: fee
 g: a fee charged for passage through a lock in a canal or waterway
 
-w: loot drf verb.possession:loot
+w: loot1 drf verb.possession:loot1
 w: booty
 w: pillage drf verb.possession:pillage
-w: plunder drf verb.possession:plunder2 drf verb.possession:plunder1 drf verb.possession:plunder
+w: plunder drf verb.possession:plunder drf verb.possession:plunder1 drf verb.possession:plunder2
 w: prize1
-w: swag
+w: swag1
 w: dirty_money
 hyper: stolen_property
 g: goods or money obtained illegally
 
-w: losings drf verb.possession:lose6 drf verb.possession:lose1 ant winnings
+w: losings drf verb.possession:lose drf verb.possession:lose3 ant winnings
 w: losses
 hyper: financial_loss
 g: something lost (especially money lost at gambling)
 
-w: loss1
+w: loss
 hyper: transferred_property
 g: something that is lost; "the car was a total loss"; "loss of livestock left the rancher bankrupt"
 
-w: loss ant gain
+w: loss1 ant gain
 w: red_ink
 w: red
 hyper: sum
 g: the amount by which the cost of a business exceeds its revenue; "the company operated at a loss last year"; "the company operated in the red last year"
 
 w: louis_d'or
-hyper: coin2
+hyper: coin
 g: a former French gold coin
 
 w: lump_sum
@@ -2620,11 +2620,11 @@ hyper: money_supply
 g: a measure of the money supply; M2 plus deposits at institutions that are not banks (such as savings and loan associations)
 
 w: maintenance drf verb.consumption:maintain
-hyper: support
+hyper: support1
 g: means of maintenance of a family or group
 
 w: malpractice_insurance
-hyper: insurance2
+hyper: insurance
 g: insurance purchased by physicians and hospitals to cover the cost of being sued for malpractice; "obstetricians have to pay high rates for malpractice insurance"
 
 w: manor drf adj.pert:manorial
@@ -2638,10 +2638,10 @@ g: an account with a securities brokerage in which the broker extends credit
 w: margin_of_profit
 w: profit_margin
 w: gross_margin
-hyper: noun.relation:ratio1
+hyper: noun.relation:ratio
 g: the ratio gross profits divided by net sales
 
-w: margin1
+w: margin
 w: security_deposit
 hyper: down_payment
 g: the amount of collateral a customer deposits with a broker when borrowing from the broker to buy securities
@@ -2673,18 +2673,18 @@ hyper: assets
 g: assets in the form of material possessions
 
 w: Maundy_money
-hyper: coin2
+hyper: coin
 dr: noun.location:United_Kingdom
 g: specially minted silver coins that are distributed by the British sovereign on Maundy Thursday
 
 w: meal_ticket
-hyper: support
+hyper: support1
 du: noun.communication:colloquialism
 g: a source of income or livelihood
 
 w: means
 w: substance
-hyper: capital
+hyper: capital1
 g: considerable capital (wealth or income); "he is a man of means"
 
 w: mechanic's_lien
@@ -2692,7 +2692,7 @@ hyper: lien
 g: lien to secure payment for work and materials in erecting or repairing a building or other structure
 
 w: medallion
-hyper: coin2
+hyper: coin
 g: any of various large ancient Greek coins
 
 w: Medicaid_funds
@@ -2700,7 +2700,7 @@ hyper: funds
 g: public funds used to pay for Medicaid
 
 w: medical_expense
-hyper: expense
+hyper: expense1
 g: amount spent for diagnosis or treatment or prevention of medical problems
 
 w: medicare_check
@@ -2746,17 +2746,17 @@ w: modified_American_plan
 hyper: American_plan
 g: a hotel plan that includes breakfast and dinner (but not lunch)
 
-w: money1 drf adj.pert:monetary drf noun.person:moneyer
+w: money drf adj.pert:monetary drf noun.person:moneyer
 hyper: currency
 g: the official currency issued by a government or national bank; "he changed his money into francs"
 
-w: money drf adj.pert:monetary drf noun.person:moneyer
+w: money1 drf adj.pert:monetary drf noun.person:moneyer
 hyper: medium_of_exchange
 hp: money_supply
 g: the most common medium of exchange; functions as legal tender; "we tried to collect the money he owed us"
 
 w: money2
-hyper: wealth
+hyper: wealth1
 g: wealth reckoned in terms of money; "all his money is in real estate"
 
 w: money_order
@@ -2777,7 +2777,7 @@ hyper: security_interest
 g: a conditional conveyance of property as security for the repayment of a loan
 
 w: mortgage-backed_security
-hyper: security4
+hyper: security
 g: a security created when a group of mortgages are gathered together and bonds are sold to other institutions or the public; investors receive a portion of the interest payments on the mortgages as well as the principal payments; usually guaranteed by the government
 
 w: mortmain
@@ -2787,11 +2787,11 @@ dt: noun.group:corporation
 g: real property held inalienably (as by an ecclesiastical corporation)
 
 w: moving_expense
-hyper: expense
+hyper: expense1
 g: the cost of moving your residence from one location to another
 
 w: municipal_bond
-hyper: bond2
+hyper: bond
 g: a bond issued by a state or local government
 
 w: municipal_note
@@ -2799,7 +2799,7 @@ hyper: note
 g: a municipal debt instrument with a maturity of less than 2 years
 
 w: mutual_fund
-hyper: fund
+hyper: fund1
 g: the pooled money that is invested in assets
 
 w: national_debt
@@ -2820,15 +2820,15 @@ hyper: resource
 g: resources (actual and potential) supplied by nature
 
 w: net_estate
-hyper: estate2
+hyper: estate
 dt: tax
 g: the estate remaining after debts and funeral expenses and administrative expenses have been deducted from the gross estate; the estate then left to be distributed (and subject to federal and state inheritance taxes)
 
 w: net_income
-w: net drf verb.possession:net1
+w: net drf verb.possession:net
 w: net_profit
 w: lucre1
-w: profit drf noun.person:profiteer drf verb.possession:profit
+w: profit drf noun.person:profiteer drf verb.possession:profit1
 w: profits1
 w: earnings1
 hyper: income
@@ -2842,22 +2842,22 @@ w: new_penny
 hyper: penny
 g: a coin used in Great Britain since 1971 worth one hundredth of a pound
 
-w: nickel
-hyper: coin2
+w: nickel1
+hyper: coin
 g: a United States coin worth one twentieth of a dollar
 
-w: nickel1
+w: nickel
 w: nickel_note
 hyper: fiver
 g: five dollars worth of a drug; "a nickel bag of drugs"; "a nickel deck of heroin"
 
 w: ninepence
-hyper: coin2
+hyper: coin
 g: a coin worth nine pennies
 
 w: no-par-value_stock
 w: no-par_stock
-hyper: stock
+hyper: stock2
 g: stock with no par value specified in the corporate charter or on the stock certificate
 
 w: no_fault_insurance
@@ -2866,7 +2866,7 @@ hyper: automobile_insurance
 g: a system of automobile insurance where a party who is injured in an automobile accident recovers damages up to a specific amount against his own insurance company regardless of who was responsible for the accident; "the amount of litigation resulting from minor accidents is reduced by no fault insurance"
 
 w: no_man's_land
-hyper: land1
+hyper: land
 g: land that is unowned and uninhabited (and usually undesirable)
 
 w: nominal_damages
@@ -2875,11 +2875,11 @@ dt: noun.group:law
 g: (law) a trivial sum (usually $1.00) awarded as recognition that a legal injury was sustained (as for technical violations of a contract)
 
 w: non-cash_expense
-hyper: expense
+hyper: expense1
 g: an expense (such as depreciation) that is not paid for in cash
 
 w: noncallable_bond
-hyper: bond2
+hyper: bond
 g: a bond containing a provision that the holder cannot redeem the security before a specific date (usually at maturity)
 
 w: nondiscretionary_trust
@@ -2887,9 +2887,9 @@ w: fixed_investment_trust
 hyper: noun.group:investment_company
 g: an investment trust that can buy only those securities listed when the trust was organized
 
-w: nonpayment ant payment
-w: default drf verb.possession:default
-w: nonremittal
+w: nonpayment1 ant payment
+w: default1 drf verb.possession:default
+w: nonremittal1
 hyper: financial_loss
 g: loss resulting from failure of a debt to be paid
 
@@ -2940,18 +2940,18 @@ hyper: consumer_credit
 g: a consumer credit line that can be used up to a certain limit or paid down at any time
 
 w: operating_budget
-hyper: budget2
+hyper: budget
 g: a budget for current expenses as distinct from financial transactions or permanent improvements
 
 w: operating_capital
-hyper: capital1
+hyper: capital
 g: capital available for the operations of a firm (e.g. manufacturing or transportation) as distinct from financial transactions and long-term improvements
 
 w: operating_expense
 w: operating_cost
 w: overhead
 w: budget_items
-hyper: expense
+hyper: expense1
 hp: operating_budget
 dt: tax
 g: the expense of maintaining property (e.g., paying property taxes and utilities and insurance); it does not include depreciation or the cost of financing or income taxes
@@ -2984,7 +2984,7 @@ g: a fee charged to a borrower (especially for a mortgage loan) to cover the cos
 w: outgo ant income
 w: spending
 w: expenditure drf verb.possession:expend
-w: outlay1
+w: outlay
 hyper: transferred_property
 g: money paid out; an amount spent
 
@@ -2999,7 +2999,7 @@ hyper: assets
 g: a surplus or excess of money or merchandise that is actually on hand and that exceeds expectations
 
 w: overcharge drf verb.possession:overcharge
-hyper: charge2
+hyper: charge1
 g: a price that is too high
 
 w: overcompensation
@@ -3019,7 +3019,7 @@ w: overpayment drf verb.possession:overpay
 hyper: payment
 g: a payment larger than needed or expected
 
-w: ownership drf noun.person:owner2 drf noun.person:owner
+w: ownership drf noun.person:owner drf noun.person:owner1
 hyper: noun.Tops:relation
 g: the relation of an owner to the thing possessed; possession with the right to transfer possession to others
 
@@ -3028,7 +3028,7 @@ hyper: support_payment
 g: support paid by one half of an unmarried partnership after the relationship ends
 
 w: paper_loss ant paper_profit
-hyper: loss
+hyper: loss1
 g: an unrealized loss on an investment calculated by subtracting the current market price from the investor's cost
 
 w: paper_money
@@ -3054,7 +3054,7 @@ hyper: loan
 g: a loan that is shared by a group of banks that join to make a loan too big for any one of them alone
 
 w: partnership_certificate
-hyper: security4
+hyper: security
 g: a certificate showing the interests of all parties in a business partnership
 
 w: passbook_savings_account
@@ -3062,10 +3062,10 @@ hyper: savings_account
 g: a savings account in which deposits and withdrawals are recorded in the depositor's passbook
 
 w: passive_trust ant active_trust
-hyper: trust3
+hyper: trust
 g: a trust in which the trustee performs no active duties
 
-w: patrimony2
+w: patrimony
 hyper: endowment
 g: a church endowment
 
@@ -3074,7 +3074,7 @@ hyper: tax
 g: a tax toward paving streets
 
 w: pawn drf verb.possession:pawn
-hyper: pledge2
+hyper: pledge
 g: an article deposited as security
 
 w: pawn_ticket
@@ -3109,7 +3109,7 @@ w: pay_as_you_earn
 hyper: withholding_tax
 g: the British system of withholding tax
 
-w: payment drf verb.possession:pay14 drf verb.possession:pay4 drf verb.possession:pay ant nonpayment
+w: payment drf verb.possession:pay3 drf verb.possession:pay4 drf verb.possession:pay5 ant nonpayment1
 hyper: cost
 g: a sum of money paid or a claim discharged
 
@@ -3129,13 +3129,13 @@ w: payola
 hyper: bribe
 g: a bribe given to a disc jockey to induce him to promote a particular record
 
-w: payroll2
-w: paysheet2
+w: payroll
+w: paysheet
 hyper: sum
 g: the total amount of money paid in wages; "the company had a large payroll"
 
-w: payroll
-w: paysheet
+w: payroll1
+w: paysheet1
 hyper: register
 g: a list of employees and their salaries; "the company had a long payroll"
 
@@ -3162,7 +3162,7 @@ g: a stock selling for less that $1/share
 w: penny
 w: cent
 w: centime
-hyper: coin2
+hyper: coin
 g: a coin worth one-hundredth of the value of the basic unit
 
 w: pension drf verb.possession:pension
@@ -3171,11 +3171,11 @@ g: a regular payment to a person that is intended to allow them to subsist witho
 
 w: pension_fund
 w: superannuation_fund
-hyper: fund
+hyper: fund1
 g: a fund reserved to pay workers' pensions when they retire from service
 
 w: peppercorn_rent
-hyper: rent
+hyper: rent1
 dr: noun.location:United_Kingdom
 g: very low or nominal rent
 
@@ -3184,12 +3184,12 @@ hyper: income
 g: the total national income divided by the number of people in the nation
 
 w: per_diem
-hyper: allowance2
+hyper: allowance1
 g: a daily allowance for living expenses (especially while traveling in connection with your job)
 
 w: performance_bond
 w: surety_bond
-hyper: bond2
+hyper: bond
 g: a bond given to protect the recipient against loss in case the terms of a contract are not filled; a surety company assumes liability for nonperformance
 
 w: perpetual_warrant
@@ -3202,7 +3202,7 @@ hyper: check
 g: a check drawn against funds deposited in your personal checking account
 
 w: personal_expense
-hyper: expense
+hyper: expense1
 g: the cost of personal or family living; "some personal expenses are tax deductible"
 
 w: personal_income
@@ -3222,11 +3222,11 @@ hyper: property
 g: movable property (as distinguished from real estate)
 
 w: petty_cash
-hyper: fund
+hyper: fund1
 g: a small fund of cash that a firm keeps for the payment of incidental expenses
 
 w: piece_of_eight
-hyper: coin2
+hyper: coin
 g: an old silver Spanish coin; worth 8 reales
 
 w: pile
@@ -3235,7 +3235,7 @@ w: big_bucks
 w: megabucks
 w: big_money
 hyper: money2
-du: noun.communication:slang
+du: noun.communication:slang1
 g: a large sum of money (especially as pay or profit); "she made a bundle selling real estate"; "they sank megabucks into their new house"
 
 w: pipage drf verb.motion:pipe
@@ -3250,7 +3250,7 @@ w: plantation
 hyper: estate1
 g: an estate where cash crops are grown on a large scale (especially in tropical areas)
 
-w: pledge2 drf verb.communication:pledge2
+w: pledge drf verb.communication:pledge
 hyper: security_interest
 g: a deposit of personal property as security for a debt; "his saxophone was in pledge"
 
@@ -3286,7 +3286,7 @@ hyper: reserve_account
 g: any communal combination of funds; "everyone contributed to the pool"
 
 w: pooling_of_interest
-hyper: accounting1
+hyper: accounting
 g: an accounting method used in the merging of companies; the balance sheets are added together item by item; this method is tax-free
 
 w: pool1
@@ -3309,15 +3309,15 @@ hyper: cost
 g: the cost of carrying or transporting
 
 w: porterage drf verb.contact:porter
-hyper: charge2
+hyper: charge1
 g: the charge for carrying burdens by porters
 
 w: post-obit_bond
-hyper: bond2
+hyper: bond
 g: a bond made by a reversioner to secure a loan; payable out of his reversion
 
 w: postage
-hyper: charge2
+hyper: charge1
 g: the charge for mailing something
 
 w: postdoctoral
@@ -3333,11 +3333,11 @@ hyper: stake
 dt: noun.act:poker
 g: the cumulative amount involved in a game (such as poker)
 
-w: poundage1
-hyper: charge2
+w: poundage
+hyper: charge1
 g: a charge based on weight measured in pounds
 
-w: poundage
+w: poundage1
 hyper: fee
 g: a fee charged for the recovery of impounded animals
 
@@ -3355,26 +3355,26 @@ hyper: valuable
 g: any of the less common and valuable metals often used to make coins or jewelry
 
 w: preemptive_right
-hyper: noun.attribute:preemption
+hyper: noun.attribute:preemption1
 g: the right granting to shareholders the first opportunity to buy a new issue of stock; provides protection against dilution of the shareholder's ownership interest
 
 w: preferred_stock
 w: preferred_shares
 w: preference_shares
-hyper: stock
+hyper: stock2
 g: stock whose holders are guaranteed priority in the payment of dividends but whose holders have no voting rights
 
 w: premium
 hyper: value
 g: the amount that something in scarce supply is valued above its nominal value; "they paid a premium for access to water"
 
-w: premium4
+w: premium3
 hyper: bonus
 hyper: prize
 g: a prize, bonus, or award given as an inducement to purchase products, enter competitions initiated by business interests, etc.; "they encouraged customers with a premium for loyal patronage"
 
 w: Premium_Bond
-hyper: bond2
+hyper: bond
 dr: noun.location:United_Kingdom
 g: a government bond that bears no interest or capital gains but enters the holder into lotteries
 
@@ -3383,11 +3383,11 @@ w: insurance_premium
 hyper: payment
 g: payment for insurance
 
-w: present drf adj.all:present2 drf verb.possession:present1
+w: present drf adj.all:present drf verb.possession:present
 hyper: gift
 g: something presented as a gift; "his tie was a present from his wife"
 
-w: price2
+w: price
 hyper: cost
 g: cost of bribing someone; "they say that every politician has a price"
 
@@ -3395,7 +3395,7 @@ w: price_support
 hyper: subsidy
 g: a government subsidy used to maintain prices at a certain level
 
-w: price drf adjs.all:pricy drf adjs.all:pricey drf verb.cognition:price drf verb.possession:price
+w: price1 drf adjs.all:pricy drf adjs.all:pricey drf verb.cognition:price drf verb.possession:price
 w: terms
 w: damage
 hyper: cost
@@ -3409,19 +3409,19 @@ w: primogeniture
 hyper: inheritance
 g: right of inheritance belongs exclusively to the eldest son
 
-w: principal1
+w: principal
 hyper: debt
 hp: loan
 g: the original amount of a debt on which interest is calculated
 
-w: principal2
+w: principal1
 w: corpus
 w: principal_sum
-hyper: capital
+hyper: capital1
 g: capital as contrasted with the income derived from it
 
 w: privy_purse
-hyper: allowance
+hyper: allowance2
 g: allowance for a monarch's personal expenses
 
 w: prize_money
@@ -3429,7 +3429,7 @@ hyper: prize
 g: any money given as a prize
 
 w: prize
-w: award drf verb.possession:award
+w: award drf verb.possession:award1
 hyper: gift
 g: something given for victory or superiority in a contest or competition or for winning a lottery; "the prize was a free trip to Europe"
 
@@ -3439,11 +3439,11 @@ g: combined costs of raw material and labor incurred in producing goods
 
 w: profit_and_loss
 w: profit_and_loss_account
-hyper: account2
+hyper: account
 g: an account compiled at the end of an accounting period to show gross and net profit or loss
 
 w: profit_sharing
-hyper: share
+hyper: share1
 g: a system in which employees receive a share of the net profits of the business
 
 w: progressive_tax
@@ -3466,7 +3466,7 @@ g: a capital tax on property imposed by municipalities; based on the estimated v
 
 w: property
 w: belongings drf verb.possession:belong
-w: holding drf verb.possession:hold
+w: holding drf verb.possession:hold2
 hyper: noun.Tops:possession
 g: something owned; any tangible or intangible possession that is owned by someone; "that hat is my property"; "he is a man of property";
 
@@ -3475,7 +3475,7 @@ hyper: tax
 g: any tax in which the rate is constant as the amount subject to taxation increases
 
 w: proprietorship_certificate
-hyper: security4
+hyper: security
 g: a certificate showing who is responsible in an individually owned business
 
 w: proprietorship drf noun.person:proprietor
@@ -3521,14 +3521,14 @@ hyper: acquisition
 g: something acquired by purchase
 
 w: purchase_price
-hyper: price
+hyper: price1
 g: the price at which something is actually purchased
 
-w: purse1
+w: purse
 hyper: sum
 g: a sum of money spoken of as the contents of a money purse; "he made the contribution out of his own purse"; "he and his wife shared a common purse"
 
-w: purse
+w: purse1
 hyper: sum
 g: a sum of money offered as a prize; "the purse barely covered the winner's expenses"
 
@@ -3542,11 +3542,11 @@ dt: noun.artifact:stock_exchange
 g: (stock market) a series of transactions in which the speculator increases his holdings by using the rising market value of those holdings as margin for further purchases
 
 w: quarter
-hyper: coin2
+hyper: coin
 g: a United States or Canadian coin worth one fourth of a dollar; "he fed four quarters into the slot machine"
 
 w: quarter_stock
-hyper: stock
+hyper: stock2
 g: stock with a par value of $25/share
 
 w: quid_pro_quo
@@ -3554,7 +3554,7 @@ w: quid
 hyper: retainer
 g: something for something; that which a party receives (or is promised) in return for something he does or gives or promises
 
-w: quittance1
+w: quittance
 hyper: document
 g: a document or receipt certifying release from an obligation or debt
 
@@ -3563,7 +3563,7 @@ hyper: allotment
 g: a proportional share assigned to each participant
 
 w: rack_rent
-hyper: rent
+hyper: rent1
 g: an extortionate rent
 
 w: rake-off drf verb.possession:rake_off
@@ -3594,7 +3594,7 @@ g: the charge for exchanging currency of one country for currency of another
 
 w: rate
 w: charge_per_unit
-hyper: charge2
+hyper: charge1
 g: amount of a charge or payment relative to some basis; "a 10-minute phone call at that rate would cost $5"
 
 w: rates
@@ -3602,8 +3602,8 @@ hyper: tax
 dr: noun.location:United_Kingdom
 g: a local tax on property (usually used in the plural)
 
-w: ration drf verb.possession:ration drf verb.possession:ration1
-hyper: share
+w: ration drf verb.possession:ration1 drf verb.possession:ration
+hyper: share1
 g: a fixed portion that is allotted (especially in times of scarcity)
 
 w: ready_cash
@@ -3613,7 +3613,7 @@ hyper: cash
 g: money in the form of cash that is readily available; "his wife was always a good source of ready cash"; "he paid cold cash for the TV set"
 
 w: real
-hyper: coin2
+hyper: coin
 g: an old small silver Spanish coin
 
 w: real_estate_loan
@@ -3638,7 +3638,7 @@ hyper: allotment
 g: a share that has been allocated again
 
 w: rebate drf verb.possession:rebate
-w: discount2
+w: discount1
 hyper: refund
 g: a refund of some fraction of the amount paid
 
@@ -3649,11 +3649,11 @@ g: money that you currently expect to receive from notes or accounts
 
 w: recognizance
 w: recognisance
-hyper: security
+hyper: security1
 dt: noun.group:law
 g: (law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited
 
-w: recompense drf verb.possession:recompense
+w: recompense drf verb.possession:recompense1
 hyper: payment
 g: payment or reward (as for service rendered)
 
@@ -3662,7 +3662,7 @@ hyper: document
 dt: noun.group:law
 g: a document that can serve as legal evidence of a transaction; "they could find no record of the purchase"
 
-w: redemption drf verb.possession:redeem1
+w: redemption drf verb.possession:redeem2
 hyper: repayment
 dt: noun.group:corporation
 g: repayment of the principal amount of a debt or security at or before maturity (as when a corporation repurchases its own stock)
@@ -3680,17 +3680,17 @@ w: refund drf verb.possession:refund
 hyper: payment
 g: money returned to a payer
 
-w: register drf verb.social:register5 drf verb.communication:register3 drf verb.social:register
+w: register drf verb.social:register drf verb.communication:register1 drf verb.social:register1
 hyper: record
 g: a book in which names and transactions are listed
 
 w: registered_bond
-hyper: bond2
+hyper: bond
 hyper: registered_security
 g: a bond whose owner is recorded on the books of the issuer; can be transferred to another owner only when endorsed by the registered owner
 
 w: registered_security
-hyper: security4
+hyper: security
 g: a security whose owner's name is recorded on the books of the issuer (or issuer's agent)
 
 w: regular_payment
@@ -3702,7 +3702,7 @@ hyper: compensation
 g: compensation paid (to someone) for damages or losses or money already spent etc.; "he received reimbursement for his travel expenses"
 
 w: reinsurance drf verb.communication:reinsure
-hyper: insurance2
+hyper: insurance
 g: sharing the risk by insurance companies; part or all of the insurer's risk is assumed by other companies in return for part of the premium paid by the insured; "reinsurance enables a client to get coverage that would be too great for any one company to assume"
 
 w: relief
@@ -3721,7 +3721,7 @@ w: renewable_resource
 hyper: natural_resource
 g: any natural resource (as wood or solar energy) that can be replenished naturally with the passage of time
 
-w: rent drf adj.pert:rental drf verb.social:rent drf verb.possession:rent drf verb.possession:rent1 drf verb.social:rent1
+w: rent1 drf adj.pert:rental1 drf verb.social:rent drf verb.possession:rent1 drf verb.possession:rent drf verb.social:rent1
 hyper: annuity_in_advance
 g: a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service
 
@@ -3734,17 +3734,17 @@ w: rental_income
 hyper: income
 g: income received from rental properties
 
-w: reparation1 drf verb.possession:repair
+w: reparation drf verb.possession:repair
 hyper: compensation
 g: compensation (given or received) for an insult or injury; "an act for which there is no reparation"
 
-w: reparation
+w: reparation1
 hyper: compensation
 du: noun.communication:plural
 g: (usually plural) compensation exacted from a defeated nation by the victors; "Germany was unable to pay the reparations demanded after World War I"
 
-w: repayment drf verb.possession:repay1 drf verb.possession:repay
-w: quittance
+w: repayment drf verb.possession:repay1 drf verb.possession:repay2
+w: quittance1
 hyper: payment
 g: payment of a debt or obligation
 
@@ -3767,7 +3767,7 @@ hyper: assets
 du: noun.communication:plural
 g: capital held back from investment in order to meet probable or possible demands
 
-w: reserve drf verb.cognition:reserve drf verb.possession:reserve3
+w: reserve drf verb.cognition:reserve drf verb.possession:reserve
 w: backlog drf verb.change:backlog
 w: stockpile drf verb.possession:stockpile
 hyper: accumulation
@@ -3797,17 +3797,17 @@ hyper: penalty
 g: a justly deserved penalty
 
 w: return drf verb.creation:return
-w: issue
+w: issue1
 w: take drf verb.possession:take4
 w: takings
 w: proceeds
-w: yield drf verb.creation:yield
+w: yield drf verb.creation:yield1
 w: payoff2
 hyper: income
 g: the income or profit arising from such transactions as the sale of land or other property; "the average return was about 5%"
 
 w: revenue_bond
-hyper: bond2
+hyper: bond
 g: a bond issued by an agency that is commissioned to finance public works; revenue from the public property is used to pay off the bond
 
 w: revenue_tariff
@@ -3815,7 +3815,7 @@ hyper: duty
 g: a tariff imposed to raise revenue
 
 w: reversion drf adj.pert:reversionary
-hyper: interest3
+hyper: interest1
 dt: noun.group:law
 g: (law) an interest in an estate that reverts to the grantor (or his heirs) at the end of some period (e.g., the death of the grantee)
 
@@ -3826,7 +3826,7 @@ g: an annuity payable to one person in the event that someone else is unable to 
 
 w: review
 w: limited_review
-hyper: accounting1
+hyper: accounting
 dt: noun.cognition:accounting
 g: (accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data
 
@@ -3835,7 +3835,7 @@ hyper: credit_account
 g: a charge account that does not have to be paid to zero balance
 
 w: revolving_fund
-hyper: fund
+hyper: fund1
 g: a fund which, if borrowed or used, is intended to be replenished so it may be loaned or spent repeatedly
 
 w: reward
@@ -3843,7 +3843,7 @@ hyper: payment
 g: payment made in return for a service rendered
 
 w: right drf verb.social:right
-hyper: interest3
+hyper: interest1
 du: noun.communication:plural
 g: (frequently plural) the interest possessed by law or custom in some intangible thing; "mineral rights"; "film rights"
 
@@ -3859,8 +3859,8 @@ w: ruby
 hyper: noun.artifact:jewel
 g: a transparent piece of ruby that has been cut and polished and is valued as a precious gem
 
-w: sacrifice drf verb.possession:sacrifice2
-hyper: loss1
+w: sacrifice drf verb.possession:sacrifice
+hyper: loss
 g: a loss entailed by giving up or selling something at less than its value; "he had to sell his car at a considerable sacrifice"
 
 w: sales_incentive
@@ -3881,7 +3881,7 @@ w: sapphire
 hyper: noun.artifact:jewel
 g: a transparent piece of sapphire that has been cut and polished and is valued as a precious gem
 
-w: satisfaction1
+w: satisfaction
 hyper: payment
 dt: noun.group:law
 g: (law) the payment of a debt or fulfillment of an obligation; "the full and final satisfaction of the claim"
@@ -3895,29 +3895,29 @@ w: savings_bank_trust
 w: trust_account
 w: trustee_account
 w: Totten_trust
-hyper: trust3
+hyper: trust
 g: a savings account deposited by someone who makes themselves the trustee for a beneficiary and who controls it during their lifetime; afterward the balance is payable to the previously named beneficiary
 
 w: savings_bond
 hyper: government_bond
 g: non-negotiable government bond; cannot be bought and sold once the original purchase is made
 
-w: savings drf verb.possession:save1
+w: savings drf verb.possession:save3
 w: nest_egg
-hyper: fund
+hyper: fund1
 g: a fund of money put by as a reserve
 
-w: scholarship drf noun.person:scholar2 drf noun.person:scholar1
+w: scholarship drf noun.person:scholar drf noun.person:scholar2
 hyper: aid
 hyper: prize
 g: financial aid provided to a student on the basis of academic merit
 
 w: scrip
-hyper: security4
+hyper: security
 g: a certificate whose value is recognized by the payer and payee; scrip is not currency but may be convertible into currency
 
 w: seasonal_adjustment
-hyper: allowance1
+hyper: allowance3
 g: a statistical adjustment made to accommodate predictable fluctuations as a function of the season of the year; "seasonal adjustments for housing starts must be made in mid-winter"
 
 w: second_mortgage
@@ -3925,24 +3925,24 @@ hyper: mortgage
 g: a mortgage that is subordinate to a first mortgage
 
 w: secured_bond ant unsecured_bond
-hyper: bond2
+hyper: bond
 g: a bond that is back by collateral
 
 w: security_interest
-hyper: interest3
+hyper: interest1
 g: any interest in a property that secures the payment of an obligation
 
-w: security4
-w: certificate drf verb.possession:certify2 drf verb.possession:certificate drf verb.communication:certificate
+w: security
+w: certificate drf verb.possession:certify drf verb.possession:certificate drf verb.communication:certificate
 hyper: noun.communication:legal_document
 g: a formal declaration that documents a fact of relevance to finance and investment; the holder has a right to receive interest or dividends; "he held several valuable securities"
 
-w: security1 drf adjs.all:secure
+w: security2 drf adjs.all:secure1
 w: protection
 hyper: assets
 g: defense against financial failure; financial independence; "his pension gave him security in his old age"; "insurance provided protection against loss of wages due to illness"
 
-w: security
+w: security1
 w: surety
 hyper: transferred_property
 g: property that your creditor can claim in case you default on your obligation; "bankers are reluctant to lend without good security"
@@ -3953,7 +3953,7 @@ hyper: seed_stock
 g: good quality seeds (as kernels of corn) that are reserved for planting
 
 w: seed_money
-hyper: capital1
+hyper: capital
 g: capital needed to set up a new business or enterprise
 
 w: seed_pearl
@@ -3975,28 +3975,28 @@ hyper: fee
 g: charged by a government for coining bullion
 
 w: self-insurance
-hyper: insurance2
+hyper: insurance
 g: insuring yourself by setting aside money to cover possible losses rather than by purchasing an insurance policy
 
 w: service_charge
 w: service_fee
-hyper: charge2
+hyper: charge1
 g: a percentage of a bill (as at a hotel or restaurant) added in payment for service
 
 w: severalty
 hyper: ownership
 g: exclusive individual ownership
 
-w: share1
+w: share
 hyper: stock_certificate
-hp: stock
+hp: stock2
 g: any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate; "he bought 100 shares of IBM at the market price"
 
 w: shareholding
 hyper: property
 g: a holding in the form of shares of corporations
 
-w: share drf verb.possession:share1
+w: share1 drf verb.possession:share1
 w: portion
 w: part
 w: percentage
@@ -4005,11 +4005,11 @@ hp: net_income
 g: assets belonging to or due to or contributed by an individual person or group; "he wanted his share in cash"
 
 w: shilling
-hyper: coin2
+hyper: coin
 g: an English coin worth one twentieth of a pound
 
 w: shinplaster
-hyper: money
+hyper: money1
 g: paper money of little value issued on insufficient security
 
 w: ship_money
@@ -4065,26 +4065,26 @@ hyper: tax
 g: a system of taxation in which a tax is levied on a single commodity (usually land)
 
 w: sinking_fund
-hyper: fund
+hyper: fund1
 g: a fund accumulated regularly in a separate account and used to redeem debt securities
 
 w: sixpence
 w: tanner
-hyper: coin2
+hyper: coin
 dr: noun.location:United_Kingdom
 g: a small coin of the United Kingdom worth six pennies; not minted since 1970
 
 w: slice
 w: piece
-hyper: share
+hyper: share1
 g: a share of something; "a slice of the company's revenue"
 
 w: slug
-hyper: coin2
+hyper: coin
 g: a counterfeit coin
 
 w: slush_fund
-hyper: fund
+hyper: fund1
 g: a fund for buying votes or bribing public officials
 
 w: small_change
@@ -4120,11 +4120,11 @@ hyper: bank
 g: land retired from crop cultivation and planted with soil-building crops; government subsidies are paid to farmers for their retired land
 
 w: song
-hyper: bargain1
+hyper: bargain
 g: a very small sum; "he bought it for a song"
 
 w: sou
-hyper: coin2
+hyper: coin
 g: a former French coin of low denomination; often used of any small amount of money; "he hasn't a sou to his name"
 
 w: special_assessment
@@ -4142,7 +4142,7 @@ hyper: investment
 g: an investment that is very risky but could yield great profits; "he knew the stock was a speculation when he bought it"
 
 w: spendthrift_trust
-hyper: trust3
+hyper: trust
 g: a trust created to maintain a beneficiary but to be secure against the beneficiary's improvidence
 
 w: spiritualty
@@ -4151,8 +4151,8 @@ w: church_property
 hyper: property
 g: property or income owned by a church
 
-w: split drf verb.social:split3
-hyper: share
+w: split drf verb.social:split
+hyper: share1
 g: a promised or claimed share of loot or money; "he demanded his split before they disbanded"
 
 w: spoil drf verb.contact:spoil
@@ -4162,11 +4162,11 @@ g: (usually plural) valuables taken by violence (especially in war); "to the vic
 
 w: spot_price
 w: cash_price
-hyper: price
+hyper: price1
 g: the current delivery price of a commodity traded in the spot market
 
 w: squeeze
-hyper: loss
+hyper: loss1
 g: a situation in which increased costs cannot be passed on to the customer; "increased expenses put a squeeze on profits"
 
 w: stake drf verb.competition:stake drf verb.social:stake
@@ -4192,19 +4192,19 @@ hyper: tax_lien
 g: a lien on the property of a taxpayer that the tax collector can use upon default of payment of taxes
 
 w: stater
-hyper: coin2
+hyper: coin
 g: any of the various silver or gold coins of ancient Greece
 
 w: sterling
-hyper: money1
+hyper: money
 g: British money; especially the pound sterling as the basic monetary unit of the UK
 
 w: stipend drf adj.pert:stipendiary
 hyper: regular_payment
 g: a sum of money allotted on a regular basis; usually for some specific purpose
 
-w: stock
-hyper: capital1
+w: stock2
+hyper: capital
 g: the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity); "he owns a controlling share of the company's stock"
 
 w: stock_buyback
@@ -4212,8 +4212,8 @@ hyper: purchase
 g: a corporation's purchase of its own outstanding stock; increases earnings/share so stock price rises (which can discourage a takeover attempt)
 
 w: stock_certificate
-w: stock2
-hyper: security4
+w: stock
+hyper: security
 g: a certificate documenting the shareholder's ownership in the corporation; "the value of his stocks doubled during the past year"
 
 w: stock_dividend
@@ -4236,7 +4236,7 @@ w: stockholding1
 hyper: ownership
 g: ownership of stocks; the state or fact of holding stock; "prohibition of unrestricted intercorporate stockholding"- W.Z.Ripley
 
-w: stockholding2
+w: stockholding
 w: stockholdings
 hyper: property
 g: a specific number of stocks or shares owned; "sell holdings he has in corporations"
@@ -4250,14 +4250,14 @@ w: stolen_property
 hyper: transferred_property
 g: property that has been stolen
 
-w: store drf verb.possession:store
-w: stock1 drf noun.person:stockist drf noun.animal:stocker drf verb.possession:stock6 drf verb.possession:stock2 drf verb.possession:stock1 drf verb.possession:stock
-w: fund1
+w: store drf verb.possession:store1
+w: stock1 drf noun.person:stockist drf noun.animal:stocker drf verb.possession:stock1 drf verb.possession:stock4 drf verb.possession:stock3 drf verb.possession:stock5
+w: fund
 hyper: accumulation
 g: a supply of something available for future use; "he brought back a large store of Cuban cigars"
 
 w: stowage
-hyper: charge2
+hyper: charge1
 g: the charge for stowing goods
 
 w: straight-line_method
@@ -4285,7 +4285,7 @@ hyper: payment
 g: a payment for consecutive issues of a newspaper or magazine for a given period of time
 
 w: subscription_right
-hyper: noun.attribute:preemption
+hyper: noun.attribute:preemption1
 g: the right of a shareholder in a company to subscribe to shares of a new issue of common stock before it is offered to the public
 
 w: subscription_warrant
@@ -4296,17 +4296,17 @@ w: subsidiary_ledger
 hyper: ledger
 g: details of an account supporting the amount stated in the general ledger
 
-w: subsidization drf verb.possession:subsidize1 drf verb.possession:subsidize
-w: subsidisation drf verb.possession:subsidise1 drf verb.possession:subsidise
-hyper: money
+w: subsidization drf verb.possession:subsidize drf verb.possession:subsidize1
+w: subsidisation drf verb.possession:subsidise drf verb.possession:subsidise1
+hyper: money1
 g: money (or other benefits) obtained as a subsidy
 
-w: subsidy drf verb.possession:subsidize drf verb.possession:subsidise
+w: subsidy drf verb.possession:subsidize1 drf verb.possession:subsidise1
 hyper: grant
 g: a grant paid by a government to an enterprise that benefits the public; "a subsidy for research in artificial intelligence"
 
 w: subsistence
-hyper: support
+hyper: support1
 g: minimal (or marginal) resources for subsisting; "social security provided only a bare subsistence"
 
 w: subtreasury
@@ -4329,7 +4329,7 @@ hyper: assets
 g: a quantity of money; "he borrowed a large sum"; "the amount he had in cash was insufficient"
 
 w: support_level
-hyper: price
+hyper: price1
 dt: noun.artifact:stock_exchange
 g: (stock market) the price at which a certain security becomes attractive to investors
 
@@ -4337,25 +4337,25 @@ w: support_payment
 hyper: payment
 g: a payment made by one person for the support of another
 
-w: support1 drf verb.possession:support
+w: support drf verb.possession:support
 w: financial_support
-w: funding drf verb.possession:fund
+w: funding drf verb.possession:fund5
 w: backing drf verb.possession:back
 w: financial_backing
 hyper: resource
 g: financial resources provided to make some project possible; "the foundation provided support for the experiment"
 
-w: support drf verb.possession:support
+w: support1 drf verb.possession:support
 w: keep drf verb.consumption:keep
 w: livelihood
 w: living
 w: bread_and_butter
-w: sustenance drf verb.consumption:sustain
+w: sustenance drf verb.consumption:sustain1
 hyper: resource
 g: the financial means whereby one lives; "each child was expected to pay for their keep"; "he applied to the state for support"; "he could no longer earn his own livelihood"
 
-w: surcharge drf verb.possession:surcharge1
-hyper: charge2
+w: surcharge drf verb.possession:surcharge
+hyper: charge1
 g: an additional charge (as for items previously omitted or as a penalty for failure to exercise common caution or common skill)
 
 w: surtax drf verb.possession:surtax
@@ -4368,16 +4368,16 @@ hyper: dollar1
 g: a United States coin worth one dollar
 
 w: suspense_account
-hyper: account2
+hyper: account
 g: an account used temporarily to carry doubtful receipts and disbursements or discrepancies pending their analysis and permanent classification
 
-w: swag1
+w: swag
 hyper: valuable
 du: noun.communication:colloquialism
 g: valuable goods
 
 w: sweat_equity
-hyper: equity
+hyper: equity1
 g: interest in a building that a tenant earns by contributing to its renovation or maintenance
 
 w: take-home_pay
@@ -4390,16 +4390,16 @@ hyper: property
 g: property or belongings that are tangible
 
 w: tankage
-hyper: charge2
+hyper: charge1
 g: the charge for storing something in tanks
 
 w: tare
-hyper: allowance1
+hyper: allowance3
 g: an adjustment made for the weight of the packaging in order to determine the net weight of the goods
 
 w: tax-exempt_security
 w: tax-exempt
-hyper: security4
+hyper: security
 g: a security that is not subject to taxation
 
 w: tax_advantage
@@ -4420,9 +4420,9 @@ hyper: noun.act:decrease
 g: a direct reduction in tax liability (not dependent on the taxpayer's tax bracket)
 
 w: tax_income
-w: taxation1 drf verb.possession:tax
+w: taxation1 drf verb.possession:tax1
 w: tax_revenue
-w: revenue2
+w: revenue
 hyper: government_income
 g: government income due to taxation
 
@@ -4445,12 +4445,12 @@ g: a way of organizing business to reduce the taxes it must pay on current earni
 
 w: tax_write-off
 w: tax_deduction
-w: deduction1
+w: deduction
 hyper: write-off
 g: a reduction in the gross amount on which a tax is calculated; reduces taxes by the percentage fixed for the taxpayer's income bracket
 
-w: tax drf verb.possession:tax
-w: taxation drf verb.possession:tax
+w: tax drf verb.possession:tax1
+w: taxation drf verb.possession:tax1
 w: revenue_enhancement
 hyper: levy
 g: charge against a citizen's person or property or activity for the support of government
@@ -4472,7 +4472,7 @@ hyper: bill
 g: a United States bill worth 10 dollars
 
 w: tenpence
-hyper: coin2
+hyper: coin
 dr: noun.location:United_Kingdom
 g: a decimal coin worth ten pennies
 
@@ -4482,15 +4482,15 @@ hyper: noun.attribute:legal_right
 g: the right to hold property; part of an ancient hierarchical system of holding lands
 
 w: term_insurance
-hyper: insurance2
+hyper: insurance
 g: low-cost insurance that is valid only for a stated period of time and has no cash surrender value or loan value; "term insurance is most often associated with life insurance policies"
 
 w: terminable_interest
-hyper: interest3
+hyper: interest1
 g: an interest in property that terminates under specific conditions
 
 w: testamentary_trust
-hyper: trust3
+hyper: trust
 g: a trust that is created under a will and that becomes active after the grantor dies
 
 w: thank_offering
@@ -4502,11 +4502,11 @@ hyper: property
 g: any movable possession (especially articles of clothing); "she packed her things and left"
 
 w: threepence
-hyper: coin2
+hyper: coin
 dr: noun.location:United_Kingdom
 g: former cupronickel coin of the United Kingdom equal to three pennies
 
-w: tight_money ant easy_money1
+w: tight_money ant easy_money
 hyper: noun.state:financial_condition
 g: the economic condition in which credit is difficult to secure and interest rates are high
 
@@ -4536,7 +4536,7 @@ w: time_note
 hyper: note
 g: a note that specifies the time (or times) of repayment
 
-w: tithe2
+w: tithe
 hyper: levy
 g: a levy of one tenth of something
 
@@ -4545,7 +4545,7 @@ hyper: offering
 g: an offering of a tenth part of some personal income
 
 w: token_money
-hyper: money
+hyper: money1
 g: coins of regular issue whose face value is greater than their intrinsic value
 
 w: token_payment
@@ -4562,11 +4562,11 @@ w: tonnage_duty
 hyper: duty
 g: a tax imposed on ships that enter the US; based on the tonnage of the ship
 
-w: tontine
+w: tontine1
 hyper: annuity
 g: an annuity scheme wherein participants share certain benefits and on the death of any participant his benefits are redistributed among the remaining participants; can run for a fixed period of time or until the death of all but one participant
 
-w: tontine2
+w: tontine
 w: tontine_insurance
 hyper: life_insurance
 g: a form of life insurance whereby on the death or default of a participant his share is distributed to the remaining members
@@ -4584,7 +4584,7 @@ hyper: deficit
 g: an excess of imports over exports
 
 w: trade_discount
-hyper: deduction
+hyper: deduction1
 g: a discount from the list price of a commodity allowed by a manufacturer or wholesaler to a merchant
 
 w: train_fare
@@ -4596,7 +4596,7 @@ hyper: aid
 g: financial aid that enables you to get trained for a specified job; "the bill provided traineeships in vocational rehabilitation"
 
 w: tranche
-hyper: share
+hyper: share1
 g: a portion of something (especially money)
 
 w: transfer_payment
@@ -4614,15 +4614,15 @@ g: a possession whose ownership changes or lapses
 
 w: travel_allowance
 w: travel_reimbursement
-hyper: allowance2
+hyper: allowance1
 g: a sum allowed for travel
 
 w: travel_bargain
-hyper: bargain1
+hyper: bargain
 g: a bargain rate for travellers on commercial routes (usually air routes)
 
 w: travel_expense
-hyper: expense1
+hyper: expense
 du: noun.communication:plural
 g: (frequently plural) expenses incurred by an employee in the performance of the job and usually reimbursed by the employer
 
@@ -4648,26 +4648,26 @@ g: treasure of unknown ownership found hidden (usually in the earth)
 
 w: treasure
 w: hoarded_wealth
-hyper: wealth2
+hyper: wealth
 g: accumulated wealth in the form of money or jewels etc.; "the pirates hid their treasure on a small island in the West Indies"
 
 w: Treasury_bill
 w: T-bill
-hyper: Treasury1
+hyper: Treasury
 g: a short-term obligation that is not interest-bearing (it is purchased at a discount); can be traded on a discount basis for 91 days
 
 w: Treasury_bond
-hyper: Treasury1
+hyper: Treasury
 g: a debt instrument with maturities of 10 years or longer
 
 w: Treasury_note
-hyper: Treasury1
+hyper: Treasury
 g: securities with maturities of 1 to 10 years; sold for cash or in exchange for maturing issues or at auction
 
 w: treasury_stock
 w: treasury_shares
 w: reacquired_stock
-hyper: stock
+hyper: stock2
 g: stock that has been bought back by the issuing corporation and is available for retirement or resale; it is issued but not outstanding; it cannot vote and pays no dividends
 
 w: treasury
@@ -4675,7 +4675,7 @@ w: exchequer
 hyper: funds
 g: the funds of a government or institution or individual
 
-w: Treasury1
+w: Treasury
 w: Treasury_obligations
 hyper: government_bond
 g: negotiable debt obligations of the United States government which guarantees that interest and principal payments will be paid on time
@@ -4685,19 +4685,19 @@ hyper: punitive_damages
 g: three times the amount that a court would normally find the injured party entitled to
 
 w: trial_balance
-hyper: balance
+hyper: balance1
 g: a balance of debits and credits in double-entry bookkeeping; drawn up to test their equality
 
 w: truckage
 hyper: fee
 g: a fee charged for transporting goods by truckage
 
-w: trust3
+w: trust
 hyper: property
 g: something (as property) held by one party (the trustee) for the benefit of another (the beneficiary); "he is the beneficiary of a generous trust set up by his father"
 
 w: trust_fund
-hyper: fund
+hyper: fund1
 g: a fund held in trust
 
 w: tuition
@@ -4717,11 +4717,11 @@ g: a United States bill worth 2 dollars
 
 w: twopence
 w: tuppence
-hyper: coin2
+hyper: coin
 g: a former United Kingdom silver coin; United Kingdom bronze decimal coin worth two pennies
 
 w: undercharge drf verb.possession:undercharge
-hyper: charge2
+hyper: charge1
 g: a price that is too low
 
 w: underpayment
@@ -4730,17 +4730,17 @@ g: a payment smaller than needed or expected
 
 w: undivided_interest
 w: undivided_right
-hyper: interest3
+hyper: interest1
 g: the interest in property owned by tenants whereby each tenant has an equal right to enjoy the entire property
 
-w: unearned_income1
-w: unearned_revenue1
+w: unearned_income
+w: unearned_revenue
 hyper: income
 dt: tax
 g: personal income that you did not earn (e.g., dividends or interest or rent income)
 
-w: unearned_income
-w: unearned_revenue
+w: unearned_income1
+w: unearned_revenue1
 hyper: income
 dt: noun.cognition:accounting
 g: (accounting) income received but not yet earned (usually considered a current liability on a company's balance sheet)
@@ -4756,21 +4756,21 @@ g: calculated cost for a given unit of a product
 w: unlisted_security ant listed_security
 w: over_the_counter_security
 w: OTC_security
-hyper: security4
+hyper: security
 g: a security traded in the over-the-counter market
 
 w: unsecured_bond ant secured_bond
 w: debenture
 w: debenture_bond
-hyper: bond2
+hyper: bond
 g: the ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future
 
 w: upset_price
 hyper: asking_price
-dt: noun.act:auction
+dt: noun.act:auction1
 g: (auction) the minimum price at which a seller of property will entertain bids
 
-w: usury1 drf adjs.all:usurious
+w: usury drf adjs.all:usurious
 w: vigorish
 hyper: interest_rate
 g: an exorbitant or unlawful rate of interest
@@ -4785,17 +4785,17 @@ hyper: treasure
 g: something of value; "all our valuables were stolen"
 
 w: valuation
-hyper: price
+hyper: price1
 g: assessed price; "the valuation of this property is much too high"
 
 w: valuation_reserve
 w: valuation_account
-w: allowance3
+w: allowance
 w: allowance_account
 hyper: reserve_account
 g: a reserve fund created by a charge against profits in order to provide for changes in the value of a company's assets
 
-w: value drf verb.cognition:value drf verb.cognition:value3 drf verb.cognition:evaluate drf verb.cognition:valuate
+w: value drf verb.cognition:value2 drf verb.cognition:value drf verb.cognition:evaluate drf verb.cognition:valuate
 w: economic_value
 hyper: noun.Tops:measure
 g: the amount (of money or goods or services) that is considered to be a fair equivalent for something else; "he tried to estimate the value of the produce at normal prices"
@@ -4808,15 +4808,15 @@ g: a tax levied on the difference between a commodity's price before taxes and i
 
 w: venture_capital drf noun.person:venture_capitalist
 w: risk_capital
-hyper: capital1
+hyper: capital
 g: wealth available for investment in new or speculative enterprises
 
 w: vested_interest
-hyper: interest3
+hyper: interest1
 dt: noun.group:law
 g: (law) an interest in which there is a fixed right to present or future enjoyment and that can be conveyed to another
 
-w: viatical_settlement2
+w: viatical_settlement
 hyper: advance_death_benefit
 g: cash derived from sale of an insurance policy by a terminally ill policy holder
 
@@ -4825,25 +4825,25 @@ hyper: tenure
 g: tenure by which a villein held land
 
 w: voting_stock
-hyper: stock
+hyper: stock2
 g: shares in a corporation that entitle the shareholder to voting and proxy rights
 
 w: voting_trust
-hyper: trust3
+hyper: trust
 g: an agreement whereby persons owning stock with voting powers retain ownership while transferring the voting rights to the trustees
 
 w: wage
-w: pay1 drf verb.possession:pay1 drf verb.possession:pay4 drf verb.possession:pay2 drf verb.possession:pay
-w: earnings drf verb.possession:earn3
+w: pay drf verb.possession:pay1 drf verb.possession:pay4 drf verb.possession:pay2 drf verb.possession:pay5
+w: earnings drf verb.possession:earn
 w: remuneration drf verb.possession:remunerate
 w: salary
 hyper: regular_payment
-hp: payroll
+hp: payroll1
 g: something that remunerates; "wages were paid by check"; "he wasted his pay on drink"; "they saved a quarter of all their earnings"
 
 w: war_chest
-hyper: fund
-dt: noun.cognition:politics
+hyper: fund1
+dt: noun.cognition:politics1
 g: a fund accumulated to finance a war (or a political campaign)
 
 w: warehouseman's_lien
@@ -4853,35 +4853,35 @@ g: right of a warehouseman to retain goods until all storage charges have been p
 w: warrant
 w: stock_warrant
 w: stock-purchase_warrant
-hyper: security
+hyper: security1
 g: a type of security issued by a corporation (usually together with a bond or preferred stock) that gives the holder the right to purchase a certain amount of common stock at a stated price; "as a sweetener they offered warrants along with the fixed-income securities"
 
 w: wastage
-hyper: loss1
+hyper: loss
 g: anything lost by wear or waste
 
 w: water-rate
-hyper: charge2
+hyper: charge1
 dr: noun.location:United_Kingdom
 g: rate per quarter for water from a public supply
 
 w: watered_stock
-hyper: stock
+hyper: stock2
 g: stock representing ownership of overvalued assets; stock of a corporation whose total worth is less than its invested capital
 
 w: way
-hyper: share
+hyper: share1
 g: a portion of something divided into shares; "they split the loot three ways"
 
 w: ways_and_means
 hyper: resource
 g: resources available to meet expenses (especially legislation for raising revenue for a government)
 
-w: wealth
+w: wealth1
 hyper: property
 g: property that has economic utility: a monetary value or an exchange value
 
-w: wealth2 drf adjs.all:wealthy
+w: wealth drf adjs.all:wealthy
 w: riches
 hyper: material_resource
 g: an abundance of material possessions and resources
@@ -4914,14 +4914,14 @@ w: windfall_profit
 hyper: net_income
 g: profit that occurs unexpectedly as a consequence of some event not controlled by those who profit from it
 
-w: winnings drf verb.possession:win drf verb.competition:win ant losings
+w: winnings drf verb.possession:win drf verb.competition:win1 ant losings
 w: win drf verb.possession:win
-w: profits2
+w: profits
 hyper: financial_gain
 g: something won (especially money)
 
 w: withholding_tax
-w: withholding drf verb.possession:withhold1
+w: withholding drf verb.possession:withhold
 hyper: income_tax
 g: income tax withheld from employees' wages and paid directly to the government by the employer
 
@@ -4936,20 +4936,20 @@ hyper: property
 g: all the property that someone possess; "he left all his worldly possessions to his daughter"
 
 w: write-off drf verb.change:write_off
-w: write-down drf verb.change:write_down10
+w: write-down drf verb.change:write_down
 hyper: depreciation
 dt: noun.cognition:accounting
 g: (accounting) reduction in the book value of an asset
 
 w: zero-coupon_security
 w: zero_coupon_security
-hyper: security4
+hyper: security
 g: a security that makes no interest payments but instead is sold at a deep discount from its face value
 
 w: zero_coupon_bond
 w: zero-coupon_bond
 hyper: zero-coupon_security
-hyper: bond2
+hyper: bond
 dt: noun.group:corporation
 dt: noun.act:government
 g: a bond that is issued at a deep discount from its value at maturity and pays no interest during the life of the bond; the commonest form of zero-coupon security

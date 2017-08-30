@@ -3,8 +3,8 @@
 (defun read-wn (dir list-files)
   (let ((wn (make-hash-table :test #'equal)))
     (loop for file in list-files do
-	  (setf (gethash file wn)
-		(read-file (merge-pathnames dir (symbol-name file)))))
+	  (setf (gethash (make-symbol file) wn)
+		(read-file (merge-pathnames dir file))))
     wn))
 
 
@@ -20,7 +20,7 @@
   (let ((line (read-line file nil nil)))
     (cond ((equal line "")
 	   (make-synset lines file-synsets) (load-synsets file file-synsets '()))
-
+	  
 	  (line
 	   (load-synsets file file-synsets (append lines (list line))))
 

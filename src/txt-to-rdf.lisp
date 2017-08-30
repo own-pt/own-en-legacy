@@ -36,7 +36,7 @@
 
 
 (defun add-synset-type (stream synset file-name)
-  (let ((file (symbol-name file-name)))
+  (let ((file (string-upcase (symbol-name file-name))))
     (cond ((cl-ppcre:scan "NOUN" file) (add-type stream synset "NounSynset"))
 	  ((cl-ppcre:scan "ADJ" file)  (add-type stream synset "AdjectiveSynset"))
 	  ((cl-ppcre:scan "ADV" file)  (add-type stream synset "AdverbSynset"))
@@ -52,7 +52,7 @@
 
 (defun add-word (stream uri-sense sense-obj)
   (let* ((word (sense-word sense-obj))
-	 (uri-word (format nil "<http://http://openwordnet-pt.org/../instances/word-~a>" word)))
+	 (uri-word (format nil "<https://w3id.org/own-pt/wn30-en/instances/word-~a>" word)))
     (format stream "~a  <https://w3id.org/own-pt/wn30/schema/Word> ~a .~%" uri-sense uri-word)
     (add-type stream uri-word "Word")
     (add-lexicalform stream uri-word word)))
@@ -66,12 +66,12 @@
 
 
 (defun add-wordsense-props (stream file-name uri-sense sense-obj)
-  (let ((pointers (cdr (assoc file-name  *pointers* :test #'(lambda (x y) (cl-ppcre:scan y x))))))
+  (let ((pointers (cdr (assoc file-name  *pointers* :test #'(lambda (x y) (cl-ppcre:scan (string-upcase y) (string-upcase x)))))))
     (add-prop stream uri-sense (sense-links-targets sense-obj) pointers file-name "wordsense")))
 
 
 (defun add-synset-props (stream file-name synset synset-obj)
-  (let ((pointers (cdr (assoc file-name  *pointers* :test #'(lambda (x y) (cl-ppcre:scan y x))))))
+  (let ((pointers (cdr (assoc file-name  *pointers* :test #'(lambda (x y) (cl-ppcre:scan (string-upcase y) (string-upcase x)))))))
     (add-prop stream synset (synset-pointers synset-obj) pointers file-name "synset")))
 
 

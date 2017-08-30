@@ -3,424 +3,424 @@ w: loathe agent noun.person:loather drf noun.person:loather drf noun.feeling:loa
 w: abominate undergoer noun.person:abomination result noun.feeling:abomination event noun.act:abomination agent noun.person:abominator drf adjs.all:abominable drf noun.person:abomination drf noun.feeling:abomination drf noun.act:abomination drf noun.person:abominator
 w: execrate undergoer noun.cognition:execration state noun.feeling:execration drf noun.feeling:execration drf noun.cognition:execration
 hyper: hate
-fr: 8 9
+frame: 8 9
 g: find repugnant; "I loathe that man"; "She abhors cats"
 
 w: abreact event noun.act:abreaction drf noun.act:abreaction
-hyper: still1
+hyper: still
 dt: noun.act:psychoanalysis
-fr: 2
+frame: 2
 g: discharge bad feelings or tension through verbalization
 
-w: ache6
+w: ache
 w: yearn1 agent noun.person:yearner drf noun.person:yearner drf noun.feeling:yearning
 w: yen event noun.feeling:yen drf noun.feeling:yen
 w: pine drf noun.feeling:pining
 w: languish
 hyper: hanker
-fr: 22
+frame: 22
 g: have a desire for something or someone who is not present; "She ached for a cigarette"; "I am pining for my lover"
 
-w: admire state noun.feeling:admiration1 agent noun.person:admirer2 agent noun.person:admirer1 agent noun.person:admirer drf noun.feeling:admiration1 drf noun.person:admirer1 drf noun.person:admirer2 drf noun.person:admirer ant look_down_on
+w: admire state noun.feeling:admiration1 agent noun.person:admirer1 agent noun.person:admirer agent noun.person:admirer2 drf noun.feeling:admiration1 drf noun.person:admirer drf noun.person:admirer1 drf noun.person:admirer2 ant look_down_on
 w: look_up_to
 hyper: verb.cognition:respect
-fr: 8 9
+frame: 8 9
 g: feel admiration for
 
 w: adore drf adjs.all:adorable drf noun.person:adorer
-hyper: love
-fr: 8 9 28 32
+hyper: love2
+frame: 8 9 28 32
 g: love intensely; "he just adored his wife"
 
 w: affect event noun.feeling:affect drf adjs.all:affective drf noun.feeling:affect
 w: impress1 drf adj.all:impressible drf adjs.all:impressive drf adj.all:impressive
-w: move
+w: move1
 w: strike
 vg: verb.perception:hit
 cause: feel
 vg: verb.creation:motivate
-fr: 10
+frame: 10
 g: have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd"
 
-w: afflict state noun.state:affliction2 by-means-of noun.event:affliction drf adjs.all:afflictive drf noun.state:affliction2 drf noun.event:affliction
-hyper: upset1
-fr: 10
+w: afflict state noun.state:affliction by-means-of noun.event:affliction drf adjs.all:afflictive drf noun.state:affliction drf noun.event:affliction
+hyper: upset
+frame: 10
 g: cause great unhappiness for; distress; "she was afflicted by the death of her parents"
 
 w: agitate drf adjs.all:agitative ant calm
-w: rouse4 drf noun.act:rousing
-w: turn_on2 drf noun.cognition:turn-on
-w: charge5 event noun.feeling:charge drf noun.feeling:charge
+w: rouse drf noun.act:rousing
+w: turn_on drf noun.cognition:turn-on
+w: charge event noun.feeling:charge drf noun.feeling:charge
 w: commove
-w: excite3 by-means-of noun.act:excitement drf adjs.all:excitant drf noun.act:excitement
+w: excite1 by-means-of noun.act:excitement drf adjs.all:excitant drf noun.act:excitement
 w: charge_up
 hyper: disturb
-fr: 9 10
+frame: 9 10
 g: cause to be agitated, excited, or roused; "The speaker charged up the crowd with his inflammatory remarks"
 
-w: agonize1
-w: agonise1 drf noun.state:agony drf noun.feeling:agony
-cause: agonize
+w: agonize
+w: agonise drf noun.state:agony drf noun.feeling:agony
+cause: agonize1
 hyper: pain
-fr: 10
+frame: 10
 g: cause to agonize
 
-w: agonize drf noun.state:agony
-w: agonise drf noun.state:agony drf noun.feeling:agony
+w: agonize1 drf noun.state:agony
+w: agonise1 drf noun.state:agony drf noun.feeling:agony
 hyper: suffer
-fr: 2 22
+frame: 2 22
 g: suffer agony or anguish
 
-w: alienate1
+w: alienate
 hyper: affect
-fr: 10
+frame: 10
 g: make withdrawn or isolated or emotionally dissociated; "the boring work alienated his employees"
 
 w: ambition undergoer noun.feeling:ambition undergoer noun.attribute:ambition by-means-of noun.attribute:ambition drf noun.feeling:ambition drf noun.attribute:ambition
-hyper: desire
-fr: 28
+hyper: desire2
+frame: 28
 g: have as one's ambition
 
-w: anger undergoer noun.act:anger state noun.state:anger state noun.feeling:anger state noun.act:anger drf noun.state:anger drf noun.feeling:anger drf noun.act:anger
-cause: anger1
-hyper: arouse
-fr: 9 10
+w: anger1 undergoer noun.act:anger state noun.state:anger state noun.feeling:anger state noun.act:anger drf noun.state:anger drf noun.feeling:anger drf noun.act:anger
+cause: anger
+hyper: arouse1
+frame: 9 10
 g: make angry; "The news angered him"
 
-w: anger1 undergoer noun.act:anger state noun.state:anger state noun.feeling:anger state noun.act:anger drf noun.state:anger drf noun.feeling:anger drf noun.act:anger
+w: anger undergoer noun.act:anger state noun.state:anger state noun.feeling:anger state noun.act:anger drf noun.state:anger drf noun.feeling:anger drf noun.act:anger
 w: see_red
 hyper: feel
-fr: 2
+frame: 2
 g: become angry; "He angers easily"
 
-w: anguish2 event noun.feeling:anguish2 drf noun.feeling:anguish2
+w: anguish event noun.feeling:anguish drf noun.feeling:anguish
 hyper: suffer
-fr: 2
+frame: 2
 g: suffer great pains or distress
 
 w: annoy event noun.act:annoyance agent noun.person:annoyer drf noun.person:annoyer drf noun.act:annoyance
 w: rag1
 w: get_to
-w: bother state noun.state:botheration by-means-of noun.cognition:botheration by-means-of noun.cognition:bother agent noun.cognition:bother drf noun.state:botheration drf noun.cognition:botheration drf noun.cognition:bother
+w: bother2 state noun.state:botheration by-means-of noun.cognition:botheration by-means-of noun.cognition:bother agent noun.cognition:bother drf noun.state:botheration drf noun.cognition:botheration drf noun.cognition:bother
 w: get_at
-w: irritate state noun.state:irritation event noun.feeling:irritation1 event noun.act:irritation1 by-means-of noun.act:irritation drf noun.state:irritation drf noun.feeling:irritation1 drf noun.act:irritation1 drf noun.act:irritation drf noun.cognition:irritant
+w: irritate state noun.state:irritation1 event noun.feeling:irritation event noun.act:irritation1 by-means-of noun.act:irritation drf noun.state:irritation1 drf noun.feeling:irritation drf noun.act:irritation1 drf noun.act:irritation drf noun.cognition:irritant
 w: rile
 w: nark
 w: nettle
 w: gravel
 w: vex state noun.state:vexation event noun.act:vexation agent noun.person:vexer drf noun.state:vexation drf noun.act:vexation drf noun.person:vexer
-w: chafe
+w: chafe1
 w: devil event noun.act:devilment drf noun.act:devilment drf noun.act:deviltry1 drf noun.act:devilry1
 hyper: displease
-vg: chafe1
-fr: 9 10
+vg: chafe
+frame: 9 10
 g: cause annoyance in; disturb, especially by minor irritations; "Mosquitoes buzzing in my ear really bothers me"; "It irritates me that she never closes the door after she leaves"
 
-w: antagonize drf noun.state:antagonism drf noun.feeling:antagonism2
-w: antagonise drf noun.state:antagonism drf noun.feeling:antagonism2
+w: antagonize drf noun.state:antagonism drf noun.feeling:antagonism
+w: antagonise drf noun.state:antagonism drf noun.feeling:antagonism
 hyper: annoy
-fr: 9 10
+frame: 9 10
 g: provoke the hostility of; "Don't antagonize your boss"
 
 w: anticipate drf adjs.all:anticipative
 w: look_for
 w: look_to
-hyper: verb.cognition:expect1
-fr: 8
+hyper: verb.cognition:expect
+frame: 8
 g: be excited or anxious about
 
 w: appreciate drf adjs.all:appreciative
-hyper: verb.communication:acknowledge1
-fr: 8
+hyper: verb.communication:acknowledge2
+frame: 8
 g: recognize with gratitude; be grateful for
 
-w: apprehend state noun.feeling:apprehension state noun.cognition:apprehension1 agent noun.person:apprehender1 drf adjs.all:apprehensive drf adjs.all:apprehensive drf noun.feeling:apprehension drf noun.cognition:apprehension1 drf noun.person:apprehender1
+w: apprehend state noun.feeling:apprehension state noun.cognition:apprehension agent noun.person:apprehender drf adjs.all:apprehensive1 drf adjs.all:apprehensive2 drf noun.feeling:apprehension drf noun.cognition:apprehension drf noun.person:apprehender
 w: quail_at
-entail: fear
+entail: fear3
 hyper: anticipate
-fr: 8
+frame: 8
 g: anticipate with dread or anxiety
 
-w: arouse event noun.act:arousal drf noun.act:arousal
+w: arouse1 event noun.act:arousal1 drf noun.act:arousal1
 w: elicit event noun.cognition:elicitation drf noun.cognition:elicitation
 w: enkindle
 w: kindle
 w: evoke event noun.cognition:evocation1 drf adjs.all:evocative drf noun.cognition:evocation1
 w: fire
-w: raise8
-w: provoke by-means-of noun.motive:provocation drf adj.all:provocative drf noun.motive:provocation
-hyper: verb.creation:make
-fr: 8
+w: raise
+w: provoke1 by-means-of noun.motive:provocation drf adj.all:provocative drf noun.motive:provocation
+hyper: verb.creation:make11
+frame: 8
 g: call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy"
 
-w: arouse1
+w: arouse
 w: sex event noun.feeling:sex event noun.act:sex drf noun.feeling:sex drf noun.act:sex
-w: excite1
-w: turn_on drf noun.cognition:turn-on
+w: excite2
+w: turn_on1 drf noun.cognition:turn-on
 w: wind_up
 hyper: stimulate
-fr: 9 10
+frame: 9 10
 g: stimulate sexually; "This movie usually arouses the male audience"
 
-w: attract undergoer noun.communication:attraction state noun.cognition:attractor property noun.cognition:attraction property noun.attribute:attraction drf adj.all:attractive1 drf noun.communication:attraction drf noun.cognition:attraction drf noun.attribute:attraction drf noun.cognition:attractor ant repel
+w: attract undergoer noun.communication:attraction state noun.cognition:attractor1 property noun.cognition:attraction property noun.attribute:attraction drf adj.all:attractive1 drf noun.communication:attraction drf noun.cognition:attraction drf noun.attribute:attraction drf noun.cognition:attractor1 ant repel
 w: appeal property noun.attribute:appeal drf noun.attribute:appeal
-fr: 4 9 10
+frame: 4 9 10
 g: be attractive to; "The idea of a vacation appeals to me"; "The beautiful garden attracted many people"
 
-w: awe state noun.feeling:awe2 drf noun.feeling:awe2
-hyper: frighten
-fr: 9
+w: awe state noun.feeling:awe1 drf noun.feeling:awe1
+hyper: frighten1
+frame: 9
 g: inspire awe in; "The famous professor awed the undergraduates"
 
-w: beatify1 result noun.state:beatification event noun.state:beatification event noun.act:beatification1 drf noun.state:beatification drf noun.act:beatification1
+w: beatify1 result noun.state:beatification event noun.state:beatification event noun.act:beatification drf noun.state:beatification drf noun.act:beatification
 hyper: elate
-fr: 9 10
+frame: 9 10
 g: make blessedly happy
 
 w: beckon
 hyper: attract
-fr: 1
+frame: 1
 g: appear inviting; "The shop window decorations beckoned"
 
-w: begrudge ant wish1 fr 14
-w: resent1
-fr: 26
+w: begrudge1 ant wish1 frame 14
+w: resent
+frame: 26
 g: wish ill or allow unwillingly
 
 w: benight
 hyper: overwhelm
-fr: 10
+frame: 10
 g: overtake with darkness or night
 
 w: besiege
 hyper: distress
-fr: 10
+frame: 10
 g: cause to feel distressed or worried; "She was besieged by so many problems that she got discouraged"
 
 w: bewilder
 w: bemuse state noun.cognition:bemusement drf noun.cognition:bemusement
 w: discombobulate state noun.feeling:discombobulation drf noun.feeling:discombobulation
 w: throw
-hyper: upset1
-fr: 9 10
+hyper: upset
+frame: 9 10
 g: cause to be confused emotionally
 
 w: bore agent noun.person:bore drf noun.person:bore ant interest
-w: tire1
-fr: 9 10
+w: tire
+frame: 9 10
 g: cause to be bored
 
-w: bother3 state noun.state:botheration by-means-of noun.cognition:botheration drf noun.state:botheration drf noun.cognition:botheration
-vg: bother2
+w: bother state noun.state:botheration by-means-of noun.cognition:botheration drf noun.state:botheration drf noun.cognition:botheration
+vg: bother1
 hyper: agitate
-fr: 9 10
+frame: 9 10
 g: make nervous or agitated; "The mere thought of her bothered him and made his heart beat faster"
 
-w: bother2
+w: bother1
 hyper: confuse
-vg: bother3
-fr: 9 10
+vg: bother
+frame: 9 10
 g: make confused or perplexed or puzzled
 
 w: brace
 w: poise drf noun.attribute:poise
-hyper: verb.change:fix3
-fr: 9
+hyper: verb.change:fix2
+frame: 9
 g: prepare (oneself) for something unpleasant or difficult
 
-w: break_down drf noun.state:breakdown1
+w: break_down drf noun.state:breakdown
 w: lose_it
 w: snap
-hyper: verb.body:act
-fr: 2
+hyper: verb.body:act1
+frame: 2
 g: lose control of one's emotions; "When she heard that she had not passed the exam, she lost it completely"; "When her baby died, she snapped"
 
 w: break_someone's_heart
 hyper: pain
-fr: 9 10
+frame: 9 10
 g: cause deep emotional pain and grief to somebody; "The young man broke the girl's heart when he told her was going to marry her best friend"
 
 w: break
 w: burst
 w: erupt
 hyper: express_emotion
-fr: 22
+frame: 22
 g: force out or release suddenly and often violently something pent up; "break into tears"; "erupt in anger"
 
 w: bridle
-hyper: anger1
-fr: 2
+hyper: anger
+frame: 2
 g: anger or take offense; "She bridled at his suggestion to elope"
 
-w: bring5
-vg: verb.communication:bring3
+w: bring
+vg: verb.communication:bring
 hyper: verb.contact:attract
-fr: 10
+frame: 10
 g: attract the attention of; "The noise and the screaming brought the curious"
 
 w: bring_down
 hyper: enthuse
-fr: 9 10
+frame: 9 10
 g: cause to be enthusiastic; "Her playing brought down the house"
 
 w: bring_out
 hyper: encourage
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: encourage to be less reserved; "The teacher tried to bring out the shy boy"
 
 w: bubble_over
 w: overflow
 w: spill_over
 hyper: seethe
-fr: 2
+frame: 2
 g: overflow with a certain feeling; "The children bubbled over with joy"; "My boss was bubbling over with anger"
 
 w: buffalo
 hyper: overawe
-fr: 9 10
+frame: 9 10
 g: intimidate or overawe
 
 w: burn
 hyper: feel
-fr: 2
+frame: 2
 g: feel strong emotion, especially anger or passion; "She was burning with anger"; "He was burning to try out his new skies"
 
 w: calm1 state noun.attribute:calm drf noun.attribute:calm
 w: calm_down1
-w: cool_off
+w: cool_off1
 w: chill_out
 w: simmer_down
 w: settle_down
 w: cool_it
 hyper: verb.change:change_state
-fr: 1 2
+frame: 1 2
 g: become quiet or calm, especially after a state of agitation; "After the fight both men need to cool off."; "It took a while after the baby was born for things to settle down again."
 
 w: calm ant agitate
 w: calm_down
-w: quiet result noun.attribute:quiet drf noun.attribute:quiet
+w: quiet result noun.attribute:quiet1 drf noun.attribute:quiet1
 w: tranquilize by-means-of noun.artifact:tranquilizer drf noun.artifact:tranquilizer
 w: tranquillize
 w: tranquillise
 w: quieten
 w: lull event noun.time:lull drf noun.time:lull
-w: still event noun.attribute:still drf noun.attribute:still
-hyper: comfort1
-fr: 9 10
+w: still1 event noun.attribute:still drf noun.attribute:still
+hyper: comfort
+frame: 9 10
 g: make calm or still; "quiet the dragons of worry and fear"
 
 w: capture
 w: enamour
 w: trance result noun.state:trance event noun.state:trance drf noun.state:trance
-w: catch5 drf noun.person:catch
+w: catch drf noun.person:catch
 w: becharm
 w: enamor
-w: captivate state noun.state:captivation state noun.feeling:captivation drf noun.person:captive2 drf noun.state:captivation drf noun.feeling:captivation
-w: beguile property noun.attribute:beguilement agent noun.person:beguiler drf noun.attribute:beguilement drf noun.person:beguiler
-w: charm property noun.attribute:charm agent noun.person:charmer1 agent noun.person:charmer drf noun.person:charmer1 drf noun.attribute:charm drf noun.person:charmer
+w: captivate state noun.state:captivation state noun.feeling:captivation drf noun.person:captive1 drf noun.state:captivation drf noun.feeling:captivation
+w: beguile property noun.attribute:beguilement agent noun.person:beguiler1 drf noun.attribute:beguilement drf noun.person:beguiler1
+w: charm property noun.attribute:charm agent noun.person:charmer agent noun.person:charmer1 drf noun.person:charmer drf noun.attribute:charm drf noun.person:charmer1
 w: fascinate1 state noun.feeling:fascination drf noun.feeling:fascination
 w: bewitch drf noun.attribute:bewitchery
 w: entrance state noun.feeling:entrancement drf noun.feeling:entrancement
 w: enchant1 state noun.feeling:enchantment drf noun.feeling:enchantment
 hyper: attract
-fr: 9 10
+frame: 9 10
 g: attract; cause to be enamored; "She captured all the men's hearts"
 
-w: care2 event noun.feeling:care drf noun.feeling:care drf noun.feeling:caring1 see verb.social:care13 see care_for8
+w: care1 event noun.feeling:care1 drf noun.feeling:care1 drf noun.feeling:caring see verb.social:care see care_for1
 hyper: feel_for
-fr: 2 22
+frame: 2 22
 g: feel concern or interest; "I really care about my work"; "I don't care"
 
 w: care_a_hang
 w: give_a_hoot
 w: give_a_hang
 w: give_a_damn
-fr: 2 22
+frame: 2 22
 g: show no concern or interest; always used in the negative; "I don't give a hoot"; "She doesn't give a damn about her job"
 
-w: care_for1
-hyper: like5
-fr: 8 33
+w: care_for
+hyper: like2
+frame: 8 33
 g: have a liking, fondness, or taste (for)
 
-w: care_for8
+w: care_for1
 w: cherish
 w: hold_dear
 w: treasure undergoer noun.possession:treasure1 drf noun.possession:treasure1
-hyper: love
-fr: 8 9
+hyper: love2
+frame: 8 9
 g: be fond of; be attached to
 
-w: chafe1
+w: chafe
 vg: annoy
 hyper: feel
-fr: 2
+frame: 2
 g: feel extreme irritation or anger; "He was chafing at her suggestion that he stay at home while she went on a vacation"
 
-w: cheer2 drf noun.communication:cheering
+w: cheer drf noun.communication:cheering
 w: hearten ant dishearten
 w: recreate
 w: embolden
 hyper: encourage
-fr: 9 10
+frame: 9 10
 g: give encouragement to
 
 w: chill event noun.feeling:chill drf noun.feeling:chill
 hyper: depress
-fr: 9 10 11
+frame: 9 10 11
 g: depress or discourage; "The news of the city's surrender chilled the soldiers"
 
 w: cling
-fr: 11
+frame: 11
 g: to remain emotionally or intellectually attached; "He clings to the idea that she might still love him."
 
 w: cloud
 hyper: affect
-fr: 10
+frame: 10
 g: make gloomy or depressed; "Their faces were clouded with sadness"
 
 w: combust1
 cause: flip_one's_lid
-hyper: anger
-fr: 9 10 11
+hyper: anger1
+frame: 9 10 11
 g: cause to become violent or angry; "Riots combusted Pakistan after the U.S. air attacks on Afghanistan"
 
-w: comfort1 event noun.act:comfort agent noun.person:comforter1 agent noun.person:comforter drf noun.act:comfort drf noun.person:comforter1 drf noun.person:comforter
+w: comfort event noun.act:comfort agent noun.person:comforter1 agent noun.person:comforter drf noun.act:comfort drf noun.person:comforter1 drf noun.person:comforter
 w: soothe
 w: console state noun.feeling:consolation event noun.act:consolation drf adj.all:consolable drf adjs.all:consolatory drf noun.feeling:consolation drf noun.act:consolation
 w: solace uses noun.state:solace uses noun.feeling:solace result noun.state:solacement result noun.feeling:solacement event noun.act:solace drf noun.act:solace drf noun.state:solace drf noun.feeling:solace drf noun.state:solacement drf noun.feeling:solacement
-fr: 9 10
+frame: 9 10
 g: give moral or emotional strength to
 
 w: commiserate state noun.feeling:commiseration event noun.communication:commiseration drf adjs.all:commiserative drf noun.feeling:commiseration drf noun.communication:commiseration
-w: sympathize agent noun.person:sympathizer1 drf noun.person:sympathizer1 drf noun.feeling:sympathy
-w: sympathise agent noun.person:sympathiser1 drf noun.person:sympathiser1 drf noun.feeling:sympathy
+w: sympathize1 agent noun.person:sympathizer drf noun.person:sympathizer drf noun.feeling:sympathy
+w: sympathise1 agent noun.person:sympathiser drf noun.person:sympathiser drf noun.feeling:sympathy
 hyper: feel_for
-fr: 2 22
+frame: 2 22
 g: to feel or express sympathy or compassion
 
 w: compose drf noun.attribute:composure
 hyper: calm
-fr: 9 10
+frame: 9 10
 g: calm (someone, especially oneself); make quiet; "She had to compose herself before she could reply to this terrible insult"
 
 w: condole event noun.communication:condolence drf noun.communication:condolence
 hyper: commiserate
-fr: 2 22
+frame: 2 22
 g: express one's sympathetic grief, on the occasion of someone's death; "You must condole the widow"
 
 w: confuse state noun.feeling:confusion drf noun.feeling:confusion
 w: flurry
-w: disconcert2 state noun.feeling:disconcertment state noun.feeling:disconcertion drf noun.feeling:disconcertment drf noun.feeling:disconcertion
+w: disconcert state noun.feeling:disconcertment state noun.feeling:disconcertion drf noun.feeling:disconcertment drf noun.feeling:disconcertion
 w: put_off2
-vg: verb.cognition:confuse3
+vg: verb.cognition:confuse
 hyper: embarrass
-fr: 9 10
+frame: 9 10
 g: cause to feel embarrassment; "The constant attention of the young man confused her"
 
 w: consternate
-hyper: frighten
-fr: 9 10
+hyper: frighten1
+frame: 9 10
 g: fill with anxiety, dread, dismay, or confusion; "After the terrorist attack, people look consternated"
 
 w: contemn
@@ -428,53 +428,53 @@ w: despise state noun.feeling:despisal drf noun.feeling:despising drf noun.feeli
 w: scorn property noun.feeling:scorn property noun.communication:scorn agent noun.person:scorner drf noun.communication:scorn drf noun.feeling:scorn drf noun.person:scorner
 w: disdain event noun.feeling:disdain drf noun.feeling:disdain
 hyper: hate
-fr: 8 9
+frame: 8 9
 g: look down on with disdain; "He despises the people he has to work for"; "The professor scorns the students who don't catch on immediately"
 
 w: content state noun.state:content drf noun.state:content ant discontent
 hyper: satisfy
-fr: 9 10
+frame: 9 10
 g: make content; "I am contented"
 
-w: cool_off1
+w: cool_off
 hyper: feel
-fr: 2
+frame: 2
 g: feel less enamoured of something or somebody
 
 w: cotton
-hyper: like5
-fr: 22
+hyper: like2
+frame: 22
 g: take a liking to; "cotton to something"
 
 w: covet
-hyper: envy
-fr: 8
+hyper: envy1
+frame: 8
 g: wish, long, or crave for (something, especially the property of another person); "She covets her sister's house"
 
-w: cozy_up9
-w: cotton_up9
-w: shine_up9
-w: play_up9
-w: sidle_up9
-w: suck_up9
+w: cozy_up
+w: cotton_up
+w: shine_up
+w: play_up
+w: sidle_up
+w: suck_up
 hyper: ingratiate
-fr: 22
+frame: 22
 g: ingratiate oneself to; often with insincere behavior; "She is playing up to the chairman"
 
 w: crack_up drf noun.state:crack-up
 w: crack
 w: crock_up
-w: break_up4
-w: collapse event noun.state:collapse1 drf noun.state:collapse1
+w: break_up
+w: collapse event noun.state:collapse drf noun.state:collapse
 hyper: verb.body:suffer1
-fr: 2
+frame: 2
 g: suffer a nervous breakdown
 
 w: crush
 w: smash
 w: demolish event noun.act:demolition drf noun.act:demolition
 hyper: humiliate
-fr: 9 10
+frame: 9 10
 g: humiliate or depress completely; "She was crushed by his refusal of her invitation"; "The death of her son smashed her"
 
 w: daunt
@@ -484,102 +484,102 @@ w: pall event noun.feeling:pall drf noun.feeling:pall
 w: frighten_off
 w: scare_away
 w: frighten_away
-w: scare4 event noun.state:scare drf noun.state:scare
-hyper: intimidate1
-fr: 10
+w: scare event noun.state:scare drf noun.state:scare
+hyper: intimidate
+frame: 10
 g: cause to lose courage; "dashed by the refusal"
 
 w: dehumanize event noun.act:dehumanization drf noun.act:dehumanization ant humanize
 w: dehumanise event noun.act:dehumanisation drf noun.act:dehumanisation
 hyper: take_down
-fr: 10
+frame: 10
 g: deprive of human qualities; "Life in poverty has dehumanized them"
 
 w: depress drf adj.all:depressant drf noun.artifact:depressant ant elate
 w: deject state noun.state:dejection drf noun.state:dejection
 w: cast_down
 w: get_down
-w: dismay1 event noun.feeling:dismay2 drf noun.feeling:dismay2
+w: dismay event noun.feeling:dismay drf noun.feeling:dismay
 w: dispirit
 w: demoralize result noun.feeling:demoralization drf noun.feeling:demoralization
 w: demoralise result noun.feeling:demoralisation drf noun.feeling:demoralisation
 hyper: discourage
-fr: 9 10
+frame: 9 10
 g: lower someone's spirits; make downhearted; "These news depressed her"; "The bad state of her child's health demoralizes her"
 
 w: desire1 undergoer noun.state:desire event noun.attribute:desire drf noun.state:desire drf noun.attribute:desire
-hyper: verb.communication:request1
-fr: 8
+hyper: verb.communication:request2
+frame: 8
 g: express a desire for
 
-w: desire undergoer noun.state:desire state noun.feeling:desire event noun.attribute:desire drf noun.feeling:desire drf noun.state:desire drf noun.attribute:desire
-w: want event noun.feeling:want agent noun.person:wanter drf noun.person:wanter drf noun.feeling:want fr 24
-fr: 8 26 28
+w: desire2 undergoer noun.state:desire state noun.feeling:desire event noun.attribute:desire drf noun.feeling:desire drf noun.state:desire drf noun.attribute:desire
+w: want event noun.feeling:want agent noun.person:wanter drf noun.person:wanter drf noun.feeling:want frame 24
+frame: 8 26 28
 g: feel or have a desire for; want strongly; "I want to go home now"; "I want my own room"
 
-w: despair state noun.state:desperation1 state noun.state:despair state noun.feeling:despair drf noun.feeling:despair drf noun.state:despair drf noun.state:desperation1 drf noun.person:desperate ant hope
-fr: 2 22
+w: despair state noun.state:desperation state noun.state:despair state noun.feeling:despair drf noun.feeling:despair drf noun.state:despair drf noun.state:desperation drf noun.person:desperate ant hope1
+frame: 2 22
 g: abandon hope; give up hope; lose heart; "Don't despair--help is on the way!"
 
 w: despond state noun.feeling:despondence drf adjs.all:despondent drf noun.feeling:despondency drf noun.feeling:despondence
 hyper: despair
-fr: 2
+frame: 2
 g: lose confidence or hope; become dejected; "The supporters of the Presidential candidate desponded when they learned the early results of the election"
 
 w: devour
-hyper: enjoy
-fr: 8
+hyper: enjoy1
+frame: 8
 g: enjoy avidly; "She devoured his novels"
 
-w: die3
+w: die
 hyper: feel
-fr: 22
+frame: 22
 g: feel indifferent towards; "She died to worldly things and eventually entered a monastery"
 
 w: die1
-hyper: ache6
-fr: 22 28
+hyper: ache
+frame: 22 28
 g: languish as with love or desire; "She dying for a cigarette"; "I was dying to leave"
 
-w: die
+w: die2
 hyper: break_down
-fr: 22 33
+frame: 22 33
 g: be brought to or as if to the point of death by an intense emotion such as embarrassment, amusement, or shame; "I was dying with embarrassment when my little lie was discovered"; "We almost died laughing during the show"
 
 w: disappoint state noun.feeling:disappointment event noun.act:disappointment drf noun.feeling:disappointment drf noun.act:disappointment
 w: let_down drf noun.feeling:letdown
 hyper: verb.social:thwart
-fr: 9 10
+frame: 9 10
 g: fail to meet the hopes or expectations of; "Her boyfriend let her down when he did not propose marriage"
 
 w: disarm
 hyper: verb.communication:convert
-fr: 9 10
+frame: 9 10
 g: make less hostile; win over; "Her charm disarmed the prosecution lawyer completely"
 
 w: discontent event noun.feeling:discontentment event noun.feeling:discontent drf noun.feeling:discontentment drf noun.feeling:discontent ant content
 hyper: dissatisfy
-fr: 9 10
+frame: 9 10
 g: make dissatisfied
 
 w: discountenance
 hyper: shame
-fr: 9 10
+frame: 9 10
 g: look with disfavor on; "The republic soon discountenanced its few friends"
 
-w: discourage state noun.feeling:discouragement2 drf noun.feeling:discouragement2 ant encourage
-fr: 9 10
+w: discourage state noun.feeling:discouragement drf noun.feeling:discouragement ant encourage
+frame: 9 10
 g: deprive of courage or hope; take away hope from; cause to feel discouraged
 
 w: disenchant state noun.cognition:disenchantment drf noun.cognition:disenchantment ant enchant
 w: disillusion event noun.cognition:disillusionment event noun.cognition:disillusion drf noun.cognition:disillusionment drf noun.cognition:disillusion
 hyper: disappoint
-fr: 9 10
+frame: 9 10
 g: free from enchantment
 
 w: disgruntle state noun.feeling:disgruntlement drf noun.feeling:disgruntlement
 hyper: dissatisfy
-fr: 9 10
+frame: 9 10
 g: put into a bad mood or into bad humour; "The employees were disgruntled by their bad working conditions"
 
 w: disgust event noun.feeling:disgust drf noun.feeling:disgust
@@ -588,108 +588,108 @@ w: nauseate drf noun.feeling:nausea
 w: sicken
 w: churn_up
 hyper: repel
-fr: 9 10
+frame: 9 10
 g: cause aversion in; offend the moral sense of; "The pornographic pictures sickened us"
 
 w: dishearten state noun.feeling:disheartenment event noun.communication:disheartenment drf noun.feeling:disheartenment drf noun.communication:disheartenment ant hearten
 w: put_off
 hyper: discourage
-fr: 9 10
+frame: 9 10
 g: take away the enthusiasm of
 
-w: dislike event noun.feeling:dislike drf noun.feeling:dislike ant like5
+w: dislike event noun.feeling:dislike drf noun.feeling:dislike ant like2
 entail: verb.cognition:disapprove
-fr: 8 9 32
+frame: 8 9 32
 g: have or feel a dislike or distaste for; "I really dislike this salesman"
 
-w: dismay result noun.feeling:dismay drf noun.feeling:dismay
+w: dismay1 result noun.feeling:dismay1 drf noun.feeling:dismay1
 w: alarm result noun.feeling:alarm drf noun.person:alarmist drf noun.feeling:alarm
 w: appal1
-w: appall10
-w: horrify1 uses noun.feeling:horror1 result noun.feeling:horror1 drf noun.feeling:horror1
-hyper: frighten
-fr: 9 10
+w: appall1
+w: horrify uses noun.feeling:horror result noun.feeling:horror drf noun.feeling:horror
+hyper: frighten1
+frame: 9 10
 g: fill with apprehension or alarm; cause to be unpleasantly surprised; "I was horrified at the thought of being late for my interview"; "The news of the executions horrified us"
 
-w: displease drf noun.feeling:displeasure ant please
+w: displease drf noun.feeling:displeasure ant please2
 cause: dislike
-fr: 9 10
+frame: 9 10
 g: give displeasure to
 
 w: dissatisfy state noun.feeling:dissatisfaction drf adjs.all:dissatisfactory drf noun.feeling:dissatisfaction ant satisfy
 entail: disappoint
 hyper: displease
-fr: 9 10
+frame: 9 10
 g: fail to satisfy
 
-w: dissolve4
-vg: dissolve
-hyper: upset1
-fr: 10
+w: dissolve
+vg: dissolve1
+hyper: upset
+frame: 10
 g: cause to lose control emotionally; "The news dissolved her into tears"
 
-w: dissolve
+w: dissolve1
 hyper: break_down
-vg: dissolve4
-fr: 22
+vg: dissolve
+frame: 22
 g: lose control emotionally; "She dissolved into tears when she heard that she had lost all her savings in the pyramid scheme"
 
-w: distract event noun.act:distraction2 drf noun.act:distraction2
-w: deflect6
+w: distract event noun.act:distraction1 drf noun.act:distraction1
+w: deflect
 hyper: confuse
-fr: 9 10
+frame: 9 10
 g: draw someone's attention away from something; "The thief distracted the bystanders"; "He deflected his competitors"
 
-w: distress state noun.feeling:distress2 drf noun.feeling:distress2
+w: distress state noun.feeling:distress drf noun.feeling:distress
 hyper: disturb
-fr: 9 10
+frame: 9 10
 g: cause mental pain to; "The news of her child's illness distressed the mother"
 
-w: disturb result noun.state:disturbance2 drf noun.state:disturbance2
-w: upset event noun.state:upset event noun.act:upset1 drf noun.act:upset1 drf noun.state:upset
-w: trouble1 event noun.feeling:trouble3 event noun.event:trouble drf noun.feeling:trouble3 drf noun.event:trouble
+w: disturb result noun.state:disturbance drf noun.state:disturbance
+w: upset1 event noun.state:upset event noun.act:upset drf noun.act:upset drf noun.state:upset
+w: trouble event noun.feeling:trouble event noun.event:trouble1 drf noun.feeling:trouble drf noun.event:trouble1
 hyper: affect
-fr: 10
+frame: 10
 g: move deeply; "This book upset me"; "A troubling thought"
 
-w: dither1
-hyper: fret
-fr: 2 22
+w: dither
+hyper: fret3
+frame: 2 22
 g: act nervously; be undecided; be uncertain
 
-w: dither state noun.state:dither drf noun.state:dither
+w: dither1 state noun.state:dither drf noun.state:dither
 w: flap state noun.state:flap drf noun.state:flap
-w: pother state noun.state:pother event noun.state:pother drf noun.state:pother
+w: pother1 state noun.state:pother event noun.state:pother drf noun.state:pother
 hyper: fuss
-fr: 2 22
+frame: 2 22
 g: make a fuss; be agitated
 
-w: dote2
-hyper: love
-fr: 22
+w: dote
+hyper: love2
+frame: 22
 g: shower with love; show excessive affection for; "Grandmother dotes on her the twins"
 
-w: draw1
-hyper: arouse
+w: draw
+hyper: arouse1
 vg: verb.possession:reap
-fr: 8
+frame: 8
 g: elicit responses, such as objections, criticism, applause, etc.; "The President's comments drew sharp criticism from the Republicans"; "The comedian drew a lot of laughter"
 
 w: draw_out
 hyper: encourage
-fr: 9 10
+frame: 9 10
 g: make more sociable; "The therapist drew out the shy girl"
 
 w: drift_apart
-w: drift_away3
+w: drift_away
 hyper: estrange
-fr: 2
+frame: 2
 g: lose personal contact over time; "The two women, who had been roommates in college, drifted apart after they got married"
 
 w: drool_over
 w: slobber_over
 hyper: idolize
-fr: 8 9
+frame: 8 9
 g: envy without restraint
 
 w: eat_into
@@ -697,18 +697,18 @@ w: fret2
 w: rankle
 w: grate
 hyper: annoy
-fr: 10
+frame: 10
 g: gnaw into; make resentful or angry; "The injustice rankled her"; "his resentment festered"
 
 w: eat
 w: eat_on
-hyper: worry1
-fr: 10
+hyper: worry2
+frame: 10
 g: worry or cause anxiety in a persistent way; "What's eating you?"
 
 w: efface event noun.act:effacement drf noun.act:effacement
-hyper: humble1
-fr: 9
+hyper: humble
+frame: 9
 g: make inconspicuous; "efface oneself"
 
 w: elate state noun.state:elation state noun.feeling:elation drf noun.state:elation drf noun.feeling:elation ant depress
@@ -716,32 +716,32 @@ w: lift_up
 w: uplift
 w: pick_up
 w: intoxicate state noun.feeling:intoxication drf noun.feeling:intoxication
-cause: rejoice
+cause: rejoice1
 hyper: stimulate
-fr: 9 10
+frame: 9 10
 g: fill with high spirits; fill with optimism; "Music can uplift your spirits"
 
 w: electrify event noun.act:electrification event noun.feeling:electricity drf noun.feeling:electricity drf noun.act:electrification
 hyper: agitate
-fr: 9 10
+frame: 9 10
 g: excite suddenly and intensely; "The news electrified us"
 
 w: embarrass event noun.event:embarrassment drf noun.event:embarrassment
 w: abash state noun.feeling:abashment drf noun.feeling:abashment
-hyper: upset1
-fr: 9 10
+hyper: upset
+frame: 9 10
 g: cause to be embarrassed; cause to feel self-conscious
 
 w: embitter state noun.state:embitterment drf noun.state:embitterment
 w: envenom
-w: acerbate drf noun.attribute:acerbity
-cause: resent
-fr: 10
+w: acerbate drf noun.attribute:acerbity2
+cause: resent1
+frame: 10
 g: cause to be bitter or resentful; "These injustices embittered her even more"
 
 w: emote event noun.feeling:emotion drf adjs.all:emotive drf noun.feeling:emotion
-hyper: verb.creation:act
-fr: 8
+hyper: verb.creation:act2
+frame: 8
 g: give expression or emotion to, in a stage or movie role
 
 w: enchant state noun.state:enchantment by-means-of noun.cognition:enchantment drf noun.state:enchantment drf noun.cognition:enchantment ant disenchant
@@ -750,136 +750,136 @@ w: transport state noun.state:transport drf noun.state:transport
 w: enthrall state noun.feeling:enthrallment drf noun.feeling:enthrallment
 w: ravish state noun.feeling:ravishment drf noun.feeling:ravishment
 w: enthral
-w: delight2
-hyper: please
-fr: 9 10
+w: delight
+hyper: please2
+frame: 9 10
 g: hold spellbound
 
 w: encourage state noun.feeling:encouragement drf noun.feeling:encouragement ant discourage
-cause: hope
+cause: hope1
 hyper: inspire
-fr: 9 10
+frame: 9 10
 g: inspire with confidence; give hope or courage to
 
 w: endear event noun.act:endearment drf noun.act:endearment
-hyper: please
-fr: 20
+hyper: please2
+frame: 20
 g: make attractive or lovable; "This behavior endeared her to me"
 
 w: engrave
 hyper: affect
-fr: 4
+frame: 4
 g: impress or affect deeply; "The event engraved itself into her memory"
 
-w: enjoy event noun.feeling:enjoyment event noun.act:enjoyment agent noun.person:enjoyer drf noun.feeling:enjoyment drf noun.act:enjoyment drf noun.person:enjoyer
-w: bask13  fr 22
-w: relish event noun.feeling:relish2 drf noun.feeling:relish2
+w: enjoy1 event noun.feeling:enjoyment event noun.act:enjoyment agent noun.person:enjoyer drf noun.feeling:enjoyment drf noun.act:enjoyment drf noun.person:enjoyer
+w: bask  frame 22
+w: relish event noun.feeling:relish drf noun.feeling:relish
 w: savor
 w: savour
-entail: like5
-fr: 8 9 33
+entail: like2
+frame: 8 9 33
 g: derive or receive pleasure from; get enjoyment from; take pleasure in; "She relished her fame and basked in her glory"
 
 w: enrage state noun.feeling:enragement drf noun.feeling:enragement
 cause: rage
-hyper: anger
-fr: 9 10
+hyper: anger1
+frame: 9 10
 g: put into a rage; make violently angry
 
 w: enshrine
 w: saint
 hyper: reverence
-fr: 8
+frame: 8
 g: hold sacred
 
 w: enthuse
-hyper: excite2
-fr: 9 10
+hyper: excite
+frame: 9 10
 g: cause to feel enthusiasm
 
-w: envy1 state noun.feeling:envy drf noun.feeling:envy fr 14
+w: envy state noun.feeling:envy drf noun.feeling:envy frame 14
 hyper: admire
-fr: 9
+frame: 9
 g: feel envious towards; admire enviously
 
-w: envy state noun.feeling:envy state noun.act:envy drf noun.feeling:envy drf noun.act:envy fr 9
-w: begrudge1
-hyper: desire
-fr: 14
+w: envy1 state noun.feeling:envy state noun.act:envy drf noun.feeling:envy drf noun.act:envy frame 9
+w: begrudge
+hyper: desire2
+frame: 14
 g: be envious of; set one's heart on
 
 w: estrange result noun.state:estrangement drf noun.state:estrangement
-w: alienate agent noun.person:alienator drf noun.person:alienator
+w: alienate1 agent noun.person:alienator drf noun.person:alienator
 w: alien
 w: disaffect state noun.feeling:disaffection drf noun.feeling:disaffection
-hyper: verb.change:change1
-fr: 9 10
+hyper: verb.change:change5
+frame: 9 10
 g: arouse hostility or indifference in where there had formerly been love, affection, or friendliness; "She alienated her friends when she became fanatically religious"
 
 w: exacerbate event noun.act:exacerbation drf noun.act:exacerbation
 w: exasperate state noun.feeling:exasperation event noun.act:exasperation drf noun.feeling:exasperation drf noun.act:exasperation
 w: aggravate state noun.feeling:aggravation event noun.act:aggravation agent noun.person:aggravator drf noun.act:aggravation drf noun.feeling:aggravation drf noun.person:aggravator
-hyper: anger
-fr: 9 10
+hyper: anger1
+frame: 9 10
 g: exasperate or irritate
 
-w: excite2 state noun.state:excitement1 state noun.feeling:excitement state noun.state:excitation1 drf noun.state:excitement1 drf noun.feeling:excitement drf noun.state:excitation1
-hyper: arouse
-fr: 9 10
+w: excite state noun.state:excitement state noun.feeling:excitement state noun.state:excitation drf noun.state:excitement drf noun.feeling:excitement drf noun.state:excitation
+hyper: arouse1
+frame: 9 10
 g: arouse or elicit a feeling
 
 w: exhilarate state noun.feeling:exhilaration drf noun.feeling:exhilaration
 w: tickle_pink
 w: inebriate
-w: thrill1 event noun.feeling:thrill2 event noun.feeling:thrill event noun.act:thrill drf noun.act:thrill drf noun.feeling:thrill2 drf noun.feeling:thrill
+w: thrill event noun.feeling:thrill1 event noun.feeling:thrill event noun.act:thrill drf noun.act:thrill drf noun.feeling:thrill1 drf noun.feeling:thrill
 w: exalt1 state noun.state:exaltation drf noun.state:exaltation
-w: beatify3 state noun.state:beatification result noun.state:beatification event noun.act:beatification1 drf noun.state:beatification drf noun.act:beatification1
+w: beatify state noun.state:beatification result noun.state:beatification event noun.act:beatification drf noun.state:beatification drf noun.act:beatification
 hyper: elate
-fr: 9 10
+frame: 9 10
 g: fill with sublime emotion; "The children were thrilled at the prospect of going to the movies"; "He was inebriated by his phenomenal success"
 
 w: express_emotion
 w: express_feelings
-fr: 2
+frame: 2
 g: give verbal or other expression to one's feelings
 
 w: exult state noun.feeling:exultation drf adjs.all:exultant drf noun.feeling:exultation
 w: walk_on_air drf noun.state:walking_on_air
 w: be_on_cloud_nine
 w: jump_for_joy
-hyper: rejoice
-fr: 2
+hyper: rejoice1
+frame: 2
 g: feel extreme happiness or elation
 
 w: fail
 w: betray
 hyper: disappoint
-fr: 9 10
+frame: 9 10
 g: disappoint, prove undependable to; abandon, forsake; "His sense of smell failed him this time"; "His strength finally failed him"; "His children failed him in the crisis"
 
 w: fall_apart
 w: go_to_pieces
 hyper: break_down
-fr: 2
+frame: 2
 g: lose one's emotional or mental composure; "She fell apart when her only child died"
 
 w: fall_for
-hyper: verb.change:change
-fr: 8 9
+hyper: verb.change:change7
+frame: 8 9
 g: fall in love with; become infatuated with; "She fell for the man from Brazil"
 
-w: fall_short12
-w: come_short12
+w: fall_short
+w: come_short
 hyper: disappoint
-fr: 1 2 4 22
+frame: 1 2 4 22
 g: fail to meet (expectations or standards)
 
 w: fancy property noun.feeling:fancy agent noun.person:fancier drf noun.feeling:fancy drf noun.person:fancier
 w: go_for
 w: take_to
-entail: like5
-hyper: desire
-fr: 8 9
+entail: like2
+hyper: desire2
+frame: 8 9
 g: have a fancy or particular liking or desire for; "She fancied a necklace that she had seen in the jeweler's window"
 
 w: fascinate state noun.state:fascination by-means-of noun.attribute:fascination drf noun.state:fascination drf noun.attribute:fascination
@@ -887,39 +887,39 @@ w: transfix
 w: grip by-means-of noun.attribute:grip drf noun.attribute:grip
 w: spellbind agent noun.person:spellbinder drf noun.person:spellbinder
 hyper: interest
-fr: 9 10
+frame: 9 10
 g: to render motionless, as with a fixed stare or by arousing terror or awe; "The snake charmer fascinates the cobra"
 
 w: faze
 w: unnerve
 w: enervate
 w: unsettle
-hyper: upset1
-fr: 10 11
+hyper: upset
+frame: 10 11
 g: disturb the composure of
 
-w: fear3 state noun.feeling:fear1 drf noun.feeling:fear1
+w: fear state noun.feeling:fear drf noun.feeling:fear
 hyper: worry
-fr: 22 26
+frame: 22 26
 g: be afraid or feel anxious or apprehensive about a possible or probable situation or event; "I fear she might get aggressive"
 
-w: fear2
-hyper: verb.communication:regret2
-fr: 26
+w: fear1
+hyper: verb.communication:regret1
+frame: 26
 g: be sorry; used to introduce an unpleasant statement; "I fear I won't make it to your wedding party"
 
-w: fear13 state noun.feeling:fear1 drf noun.feeling:fear1
-fr: 8
+w: fear2 state noun.feeling:fear drf noun.feeling:fear
+frame: 8
 g: be uneasy or apprehensive about; "I fear the results of the final exams"
 
-w: fear event noun.feeling:fear drf noun.feeling:fear
+w: fear3 event noun.feeling:fear2 drf noun.feeling:fear2
 w: dread state noun.feeling:dread drf noun.feeling:dread
-fr: 8 9 28
+frame: 8 9 28
 g: be afraid or scared of; be frightened of; "I fear the winters in Moscow"; "We should not fear the Communists!"
 
 w: feast_one's_eyes
-hyper: enjoy
-fr: 22
+hyper: enjoy1
+frame: 22
 g: look at with great enjoyment; "She feasted her eyes on the Tuscan landscape"
 
 w: feel_for
@@ -927,28 +927,28 @@ w: pity state noun.feeling:pity state noun.attribute:pity drf noun.attribute:pit
 w: compassionate property noun.feeling:compassion property noun.attribute:compassion drf noun.feeling:compassion drf noun.attribute:compassion
 w: condole_with
 w: sympathize_with
-hyper: grieve
-fr: 9
+hyper: grieve1
+frame: 9
 g: share the suffering of
 
 w: feel_like
-hyper: desire
-fr: 8 33
+hyper: desire2
+frame: 8 33
 g: have an inclination for something or some activity; "I feel like staying in bed all day"; "I feel like a cold beer now"
 
-w: feel drf noun.feeling:feelings drf noun.Tops:feeling see feel_for fr 5 6 22
+w: feel drf noun.feeling:feelings drf noun.Tops:feeling see feel_for frame 5 6 22
 w: experience result noun.cognition:experience event noun.event:experience drf noun.cognition:experience drf noun.event:experience
-fr: 8
+frame: 8
 g: undergo an emotional sensation or be in a particular state of mind; "She felt resentful"; "He felt regret"
 
-w: ferment1 state noun.state:fermentation drf noun.state:fermentation
+w: ferment state noun.state:fermentation drf noun.state:fermentation
 hyper: seethe
-fr: 1 2
+frame: 1 2
 g: be in an agitated or excited state; "The Middle East is fermenting"; "Her mind ferments"
 
-w: ferment state noun.state:fermentation drf noun.state:fermentation
+w: ferment1 state noun.state:fermentation drf noun.state:fermentation
 hyper: inflame
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: work up into agitation or excitement; "Islam is fermenting Africa"
 
 w: flip_one's_lid
@@ -966,166 +966,166 @@ w: lose_one's_temper
 w: blow_a_fuse
 w: go_ballistic
 hyper: rage
-fr: 2 22
+frame: 2 22
 g: get very angry and fly into a rage; "The professor combusted when the student didn't know the answer to a very elementary question"; "Spam makes me go ballistic"
 
-w: fluster1 state noun.attribute:fluster drf noun.attribute:fluster
+w: fluster state noun.attribute:fluster drf noun.attribute:fluster
 hyper: verb.social:behave1
-fr: 2
+frame: 2
 g: be flustered; behave in a confused manner
 
-w: fluster state noun.attribute:fluster drf noun.attribute:fluster
-cause: fluster1
+w: fluster1 state noun.attribute:fluster drf noun.attribute:fluster
+cause: fluster
 hyper: confuse
-fr: 9 10
+frame: 9 10
 g: cause to be nervous or upset
 
 w: fly_high
 hyper: feel
-fr: 2
+frame: 2
 g: be elated; "He was flying high during the summer months"
 
 w: foam_at_the_mouth
 w: froth_at_the_mouth
 hyper: rage
-fr: 2
+frame: 2
 g: be in a state of uncontrolled anger
 
 w: freak_out
 w: freak
 w: gross_out
 hyper: panic
-fr: 2
+frame: 2
 g: lose one's nerve; "When he saw the accident, he freaked out"
 
 w: fret1
-cause: fret
+cause: fret3
 hyper: annoy
-fr: 9 10
+frame: 9 10
 g: cause annoyance in
 
-w: fret
+w: fret3
 hyper: worry
-fr: 2 22
+frame: 2 22
 g: be agitated or irritated; "don't fret over these small details"
 
-w: frighten1
+w: frighten
 hyper: verb.motion:chase_away
-fr: 9 10
+frame: 9 10
 g: drive out by frightening
 
-w: frighten drf noun.act:frightening see frighten_off see frighten_away
+w: frighten1 drf noun.act:frightening see frighten_off see frighten_away
 w: fright event noun.feeling:fright drf noun.feeling:fright
-w: scare event noun.feeling:scare by-means-of noun.artifact:scarer drf noun.feeling:scare drf noun.artifact:scarer
+w: scare1 event noun.feeling:scare by-means-of noun.artifact:scarer drf noun.feeling:scare drf noun.artifact:scarer
 w: affright drf noun.feeling:affright
-cause: fear
+cause: fear3
 hyper: stimulate
-fr: 9 10
+frame: 9 10
 g: cause fear in; "The stranger who hangs around the building frightens me"; "Ghosts could never affright her"
 
 w: fuel
 hyper: stimulate
-fr: 10
+frame: 10
 g: stimulate; "fuel the debate on creationism"
 
 w: fume
 hyper: feel
-fr: 2 22
+frame: 2 22
 g: be mad, angry, or furious
 
 w: fuss event noun.state:fuss drf noun.state:fuss
 w: niggle
-w: fret3 event noun.state:fret drf noun.state:fret
+w: fret event noun.state:fret drf noun.state:fret
 hyper: worry
-fr: 2 22
+frame: 2 22
 g: worry unnecessarily or excessively; "don't fuss too much over the grandchildren--they are quite big now"
 
 w: gall event noun.feeling:gall drf noun.feeling:gall
 w: irk
-hyper: anger
-fr: 9 10
+hyper: anger1
+frame: 9 10
 g: irritate or vex; "It galls me that we lost the suit"
 
-w: get11
+w: get1
 hyper: touch
-vg: get12
-fr: 9 10
+vg: get
+frame: 9 10
 g: evoke an emotional response; "Brahms's `Requiem' gets me every time"
 
-w: get12
+w: get
 w: get_under_one's_skin
-vg: get11
+vg: get1
 hyper: annoy
-fr: 9 10 12
+frame: 9 10 12
 g: irritate; "Her childish behavior really get to me"; "His lying really gets me"
 
-w: gladden ant sadden
-hyper: rejoice
-fr: 2
+w: gladden1 ant sadden
+hyper: rejoice1
+frame: 2
 g: become glad or happy
 
-w: gladden1 ant sadden1
+w: gladden ant sadden1
 w: joy1 state noun.feeling:joy by-means-of noun.cognition:joy drf noun.cognition:joy drf noun.feeling:joy
-cause: gladden
-fr: 9 10
+cause: gladden1
+frame: 9 10
 g: make glad or happy
 
-w: glow1 state noun.state:glow drf noun.state:glow
+w: glow state noun.state:glow drf noun.state:glow
 hyper: feel
-fr: 1 2
+frame: 1 2
 g: be exuberant or high-spirited; "Make the people's hearts glow"
 
-w: glow state noun.state:glow state noun.feeling:glow drf noun.state:glow drf noun.feeling:glow
-w: beam1
+w: glow1 state noun.state:glow state noun.feeling:glow drf noun.state:glow drf noun.feeling:glow
+w: beam
 w: radiate event noun.state:radiance drf noun.state:radiance
 w: shine
 hyper: feel
-fr: 2
+frame: 2
 g: experience a feeling of well-being or happiness, as from good health or an intense emotion; "She was beaming with joy"; "Her face radiated with happiness"
 
-w: grieve1
+w: grieve
 w: aggrieve
-cause: grieve
+cause: grieve1
 hyper: afflict
-fr: 10
+frame: 10
 g: cause to feel sorrow; "his behavior grieves his mother"
 
-w: grieve agent noun.person:griever drf noun.person:griever
-w: sorrow state noun.state:sorrow state noun.feeling:sorrow1 event noun.feeling:sorrow by-means-of noun.cognition:sorrow agent noun.person:sorrower drf noun.state:sorrow drf noun.cognition:sorrow drf noun.feeling:sorrow1 drf noun.feeling:sorrow drf noun.person:sorrower
+w: grieve1 agent noun.person:griever drf noun.person:griever
+w: sorrow state noun.state:sorrow state noun.feeling:sorrow event noun.feeling:sorrow1 by-means-of noun.cognition:sorrow agent noun.person:sorrower drf noun.state:sorrow drf noun.cognition:sorrow drf noun.feeling:sorrow drf noun.feeling:sorrow1 drf noun.person:sorrower
 hyper: suffer
-fr: 2 22
+frame: 2 22
 g: feel grief
 
 w: grizzle
 w: brood
-w: stew1 event noun.state:stew drf noun.state:stew
+w: stew event noun.state:stew drf noun.state:stew
 hyper: verb.stative:sulk
-fr: 2 22
+frame: 2 22
 g: be in a huff; be silent or sullen
 
-w: grudge
-entail: resent
-fr: 8
+w: grudge1
+entail: resent1
+frame: 8
 g: accept or admit unwillingly
 
 w: hamstring
-hyper: torment1
-fr: 8 11
+hyper: torment
+frame: 8 11
 g: make ineffective or powerless; "The teachers were hamstrung by the overly rigid schedules"
 
-w: handle5 agent noun.person:handler1 agent noun.person:handler drf noun.person:handler1 drf noun.person:handler
+w: handle agent noun.person:handler agent noun.person:handler2 drf noun.person:handler drf noun.person:handler2
 hyper: manipulate
-fr: 8
+frame: 8
 g: show and train; "The prize-winning poodle was handled by Mrs. Priscilla Prescott"
 
 w: hanker drf noun.feeling:hankering
-w: long2 agent noun.person:longer drf noun.person:longer drf noun.feeling:longing
+w: long agent noun.person:longer drf noun.person:longer drf noun.feeling:longing
 w: yearn agent noun.person:yearner drf noun.person:yearner drf noun.feeling:yearning
-hyper: desire
-fr: 22
+hyper: desire2
+frame: 22
 g: desire strongly or persistently
 
-w: harass event noun.act:harassment agent noun.person:harasser1 drf noun.person:harasser1 drf noun.act:harassment
+w: harass event noun.act:harassment agent noun.person:harasser drf noun.person:harasser drf noun.act:harassment
 w: hassle event noun.event:hassle drf noun.event:hassle
 w: harry agent noun.person:harrier drf noun.person:harrier
 w: chivy
@@ -1134,10 +1134,10 @@ w: chevy
 w: chevvy
 w: beset
 w: plague event noun.cognition:plague drf noun.cognition:plague
-w: molest event noun.act:molestation drf noun.act:molestation
-w: provoke1 event noun.act:provocation agent noun.person:provoker drf adj.all:provocative drf noun.act:provocation drf noun.person:provoker
+w: molest event noun.act:molestation1 drf noun.act:molestation1
+w: provoke event noun.act:provocation agent noun.person:provoker drf adj.all:provocative drf noun.act:provocation drf noun.person:provoker
 hyper: annoy
-fr: 9 10
+frame: 9 10
 g: annoy continually or chronically; "He is known to harry his staff when he is overworked"; "This man harasses his female co-workers"
 
 w: harbor
@@ -1146,127 +1146,127 @@ w: hold
 w: entertain
 w: nurse
 hyper: feel
-fr: 8
+frame: 8
 g: maintain (a theory, thoughts, or feelings); "bear a grudge"; "entertain interesting notions"; "harbor a resentment"
 
-w: hate state noun.feeling:hate agent noun.person:hater drf noun.person:hater drf noun.feeling:hate ant love
+w: hate state noun.feeling:hate agent noun.person:hater drf noun.person:hater drf noun.feeling:hate ant love2
 w: detest event noun.feeling:detestation drf noun.feeling:detestation
 hyper: dislike
-fr: 8 9
+frame: 8 9
 g: dislike intensely; feel antipathy or aversion towards; "I hate Mexican food"; "She detests politicians"
 
 w: haunt
-w: obsess event noun.cognition:obsession drf noun.cognition:obsession
+w: obsess1 event noun.cognition:obsession drf noun.cognition:obsession
 w: ghost drf noun.cognition:ghost
 hyper: preoccupy
-fr: 9 10
+frame: 9 10
 g: haunt like a ghost; pursue; "Fear of illness haunts her"
 
 w: hit_home
 w: strike_home
-w: strike_a_chord  fr 4
+w: strike_a_chord  frame 4
 w: strike_a_note
 hyper: affect
-fr: 1
+frame: 1
 g: refer to or be relevant or familiar to; "I hope this message hits home!"
 
 w: hold_over
-hyper: intimidate
-fr: 9
+hyper: intimidate1
+frame: 9
 g: intimidate somebody (with a threat); "She was holding it over him"
 
-w: hope undergoer noun.person:hope state noun.feeling:hope event noun.feeling:hope1 by-means-of noun.cognition:hope agent noun.person:hoper drf noun.attribute:hope drf noun.person:hope drf noun.cognition:hope drf noun.feeling:hope drf noun.feeling:hope1 drf noun.person:hoper ant despair
-hyper: desire
-fr: 2 22 26
+w: hope1 undergoer noun.person:hope state noun.feeling:hope event noun.feeling:hope1 by-means-of noun.cognition:hope agent noun.person:hoper drf noun.attribute:hope drf noun.person:hope drf noun.cognition:hope drf noun.feeling:hope drf noun.feeling:hope1 drf noun.person:hoper ant despair
+hyper: desire2
+frame: 2 22 26
 g: be optimistic; be full of hope; have hopes; "I am still hoping that all will turn out well"
 
-w: hope1 undergoer noun.person:hope state noun.feeling:hope event noun.feeling:hope1 by-means-of noun.cognition:hope agent noun.person:hoper drf noun.attribute:hope drf noun.person:hope drf noun.cognition:hope drf noun.feeling:hope drf noun.feeling:hope1 drf noun.person:hoper
+w: hope undergoer noun.person:hope state noun.feeling:hope event noun.feeling:hope1 by-means-of noun.cognition:hope agent noun.person:hoper drf noun.attribute:hope drf noun.person:hope drf noun.cognition:hope drf noun.feeling:hope drf noun.feeling:hope1 drf noun.person:hoper
 w: trust
-w: desire2 undergoer noun.state:desire event noun.attribute:desire drf noun.attribute:desire drf noun.state:desire
-hyper: wish
-fr: 26
+w: desire undergoer noun.state:desire event noun.attribute:desire drf noun.attribute:desire drf noun.state:desire
+hyper: wish2
+frame: 26
 g: expect and wish; "I trust you will behave better from now on"; "I hope she understands that she cannot expect a raise"
 
 w: humanize event noun.act:humanization drf noun.act:humanization ant dehumanize
 w: humanise event noun.act:humanisation drf noun.act:humanisation
-hyper: verb.change:change1
-fr: 10
+hyper: verb.change:change5
+frame: 10
 g: make more humane; "The mayor tried to humanize life in the big city"
 
-w: humble1
-hyper: verb.change:change1
-fr: 9 10
+w: humble
+hyper: verb.change:change5
+frame: 9 10
 g: cause to be unpretentious; "This experience will humble him"
 
 w: humiliate state noun.state:humiliation state noun.feeling:humiliation event noun.event:humiliation event noun.act:humiliation drf noun.state:humiliation drf noun.feeling:humiliation drf noun.event:humiliation drf noun.act:humiliation
-w: mortify1 state noun.feeling:mortification event noun.feeling:mortification event noun.event:mortification drf noun.feeling:mortification drf noun.event:mortification
-w: chagrin1 state noun.feeling:chagrin drf noun.feeling:chagrin
-w: humble
+w: mortify2 state noun.feeling:mortification event noun.feeling:mortification event noun.event:mortification drf noun.feeling:mortification drf noun.event:mortification
+w: chagrin state noun.feeling:chagrin drf noun.feeling:chagrin
+w: humble1
 w: abase state noun.act:abasement drf noun.act:abasement
 hyper: hurt
-fr: 9 10
+frame: 9 10
 g: cause to feel shame; hurt the pride of; "He humiliated his colleague by criticising him in front of the boss"
 
 w: hurt
 w: wound
 w: injure
 w: bruise
-w: offend by-means-of noun.act:offence2 drf adj.all:offensive5 drf adj.all:offensive2 drf noun.act:offence2 drf noun.act:offense2
+w: offend1 by-means-of noun.act:offence drf adj.all:offensive4 drf adj.all:offensive1 drf noun.act:offence drf noun.act:offense
 w: spite by-means-of noun.feeling:spite by-means-of noun.attribute:spite drf noun.attribute:spite drf noun.feeling:spite
-hyper: arouse
-fr: 9 10
+hyper: arouse1
+frame: 9 10
 g: hurt the feelings of; "She hurt me when she did not include me among her guests"; "This remark really bruised my ego"
 
 w: hype_up
 w: psych_up
 hyper: agitate
-fr: 9 10
+frame: 9 10
 g: get excited or stimulated; "The children were all psyched up after the movie"
 
-w: idolize event noun.act:idolization1 event noun.act:idolization agent noun.person:idolizer1 drf noun.act:idolization1 drf noun.act:idolization drf noun.person:idolizer1 drf noun.person:idol drf noun.cognition:idol drf noun.artifact:idol
-w: idolise event noun.act:idolisation1 event noun.act:idolisation drf noun.act:idolisation1 drf noun.act:idolisation drf noun.person:idol drf noun.cognition:idol drf noun.artifact:idol
-w: worship event noun.feeling:worship1 agent noun.person:worshipper1 agent noun.person:worshiper1 drf noun.feeling:worship1 drf noun.person:worshiper1 drf noun.person:worshipper1
+w: idolize event noun.act:idolization event noun.act:idolization1 agent noun.person:idolizer drf noun.act:idolization drf noun.act:idolization1 drf noun.person:idolizer drf noun.person:idol drf noun.cognition:idol drf noun.artifact:idol
+w: idolise event noun.act:idolisation event noun.act:idolisation1 drf noun.act:idolisation drf noun.act:idolisation1 drf noun.person:idol drf noun.cognition:idol drf noun.artifact:idol
+w: worship1 event noun.feeling:worship agent noun.person:worshipper agent noun.person:worshiper drf noun.feeling:worship drf noun.person:worshiper drf noun.person:worshipper
 w: hero-worship
 w: revere1 event noun.cognition:reverence drf adjs.all:reverent drf adj.all:reverent drf noun.cognition:reverence
 hyper: adore
-fr: 8 9
+frame: 8 9
 g: love unquestioningly and uncritically or to excess; venerate as an idol; "Many teenagers idolized the Beatles"
 
 w: impress drf adj.all:impressive
 hyper: affect
-fr: 9 10
+frame: 9 10
 g: impress positively; "The young chess player impressed her audience"
 
 w: incline
 hyper: feel
-fr: 22
+frame: 22
 g: feel favorably disposed or willing; "She inclines to the view that people should be allowed to expres their religious beliefs"
 
-w: infatuate undergoer noun.cognition:infatuation event noun.feeling:infatuation2 event noun.feeling:infatuation drf noun.feeling:infatuation2 drf noun.feeling:infatuation drf noun.cognition:infatuation
-hyper: arouse
-fr: 9 10
+w: infatuate undergoer noun.cognition:infatuation event noun.feeling:infatuation event noun.feeling:infatuation1 drf noun.feeling:infatuation drf noun.feeling:infatuation1 drf noun.cognition:infatuation
+hyper: arouse1
+frame: 9 10
 g: arouse unreasoning love or passion in and cause to behave in an irrational way; "His new car has infatuated him"; "love has infatuated her"
 
 w: inflame event noun.act:inflammation drf adjs.all:inflammatory drf noun.act:inflammation drf noun.act:inflaming
 w: stir_up
 w: wake
 w: ignite
-w: heat event noun.attribute:heat2 drf noun.attribute:heat2
+w: heat event noun.attribute:heat1 drf noun.attribute:heat1
 w: fire_up
-hyper: arouse
-fr: 8 11
+hyper: arouse1
+frame: 8 11
 g: arouse or excite feelings and passions; "The ostentatious way of living of the rich ignites the hatred of the poor"; "The refugees' fate stirred up compassion around the world"; "Wake old feelings of hatred"
 
 w: infuriate state noun.feeling:infuriation drf noun.state:fury drf noun.feeling:fury drf noun.feeling:infuriation
 w: exasperate1 state noun.feeling:exasperation event noun.act:exasperation drf noun.feeling:exasperation drf noun.act:exasperation
-w: incense1
-hyper: anger
-fr: 9 10
+w: incense
+hyper: anger1
+frame: 9 10
 g: make furious
 
-w: ingratiate drf adjs.all:ingratiatory
+w: ingratiate drf adjs.all:ingratiatory1
 hyper: manipulate
-fr: 9 20
+frame: 9 20
 g: gain favor with somebody by deliberate efforts
 
 w: inspire
@@ -1275,222 +1275,222 @@ w: invigorate event noun.act:invigoration drf noun.act:invigoration
 w: enliven
 w: exalt state noun.state:exaltation drf noun.state:exaltation
 hyper: stimulate
-fr: 9 10
+frame: 9 10
 g: heighten or intensify; "These paintings exalt the imagination"
 
-w: interest property noun.attribute:interest2 event noun.cognition:interest drf noun.attribute:interest2 drf noun.cognition:interest ant bore
-hyper: arouse
-fr: 9 10
+w: interest property noun.attribute:interest event noun.cognition:interest drf noun.attribute:interest drf noun.cognition:interest ant bore
+hyper: arouse1
+frame: 9 10
 g: excite the curiosity of; engage the interest of
 
-w: intimidate state noun.feeling:intimidation event noun.act:intimidation1 by-means-of noun.communication:intimidation drf noun.feeling:intimidation drf noun.communication:intimidation drf noun.act:intimidation1
-hyper: frighten
-fr: 9
+w: intimidate1 state noun.feeling:intimidation1 event noun.act:intimidation by-means-of noun.communication:intimidation drf noun.feeling:intimidation1 drf noun.communication:intimidation drf noun.act:intimidation
+hyper: frighten1
+frame: 9
 g: make timid or fearful; "Her boss intimidates her"
 
-w: intimidate1 event noun.act:intimidation1 by-means-of noun.communication:intimidation drf noun.communication:intimidation drf noun.act:intimidation1
+w: intimidate event noun.act:intimidation by-means-of noun.communication:intimidation drf noun.communication:intimidation drf noun.act:intimidation
 w: restrain agent noun.person:restrainer drf noun.person:restrainer
 hyper: discourage
-entail: verb.communication:warn
-fr: 9 10
+entail: verb.communication:warn1
+frame: 9 10
 g: to compel or deter by or as if by threats
 
 w: invite1 by-means-of noun.attribute:invitation drf noun.attribute:invitation
 w: ask_for
-hyper: arouse
-fr: 8
+hyper: arouse1
+frame: 8
 g: increase the likelihood of; "ask for trouble"; "invite criticism"
 
 w: itch event noun.feeling:itch drf noun.feeling:itch
 w: spoil
-hyper: desire
-fr: 28
+hyper: desire2
+frame: 28
 g: have a strong desire or urge to do something; "She is itching to start the project"; "He is spoiling for a fight"
 
 w: jar
 hyper: affect
-fr: 9 10
+frame: 9 10
 g: affect in a disagreeable way; "This play jarred the audience"
 
 w: jolt
 hyper: disturb
-fr: 9 10
+frame: 9 10
 g: disturb (someone's) composure; "The audience was jolted by the play"
 
 w: kill
 hyper: overwhelm
-fr: 9 10
+frame: 9 10
 g: overwhelm with hilarity, pleasure, or admiration; "The comedian was so funny, he was killing me!"
 
 w: knock_out
 hyper: overwhelm
-fr: 9 10
+frame: 9 10
 g: overwhelm with admiration; "All the guys were knocked out by her charm"
 
 w: lacerate event noun.act:laceration drf noun.act:laceration
 hyper: hurt
-fr: 9 10
+frame: 9 10
 g: deeply hurt the feelings of; distress; "his lacerating remarks"
 
-w: lament event noun.communication:lamentation event noun.act:lamentation event noun.communication:lament2 event noun.communication:lament1 event noun.communication:lament by-means-of noun.communication:lament2 by-means-of noun.communication:lament1 by-means-of noun.communication:lament agent noun.person:lamenter drf noun.communication:lament drf noun.communication:lament1 drf noun.communication:lament2 drf noun.communication:lamentation drf noun.act:lamentation drf noun.person:lamenter
+w: lament event noun.communication:lamentation event noun.act:lamentation event noun.communication:lament event noun.communication:lament1 event noun.communication:lament2 by-means-of noun.communication:lament by-means-of noun.communication:lament1 by-means-of noun.communication:lament2 agent noun.person:lamenter drf noun.communication:lament2 drf noun.communication:lament1 drf noun.communication:lament drf noun.communication:lamentation drf noun.act:lamentation drf noun.person:lamenter
 w: keen event noun.communication:keen drf noun.communication:keen
-entail: grieve
+entail: grieve1
 hyper: express_emotion
-fr: 8
+frame: 8
 g: express grief verbally; "we lamented the death of the child"
 
-w: lighten1 ant weigh_down
-w: lighten_up1
-w: buoy_up1
+w: lighten ant weigh_down
+w: lighten_up
+w: buoy_up
 cause: verb.communication:lighten
-hyper: verb.communication:cheer2
-fr: 9 10
+hyper: verb.communication:cheer3
+frame: 9 10
 g: make more cheerful; "the conversation lightened me up a bit"
 
-w: like6
-hyper: desire
-fr: 8
+w: like
+hyper: desire2
+frame: 8
 g: want to have; "I'd like a beer now!"
 
-w: like5 ant dislike
+w: like2 ant dislike
 entail: verb.cognition:approve
-fr: 8 28 33
+frame: 8 28 33
 g: find enjoyable or agreeable; "I like jogging"; "She likes to read Russian novels"
 
-w: like4 drf adjs.all:likeable drf adj.all:likeable2 drf adjs.all:likable drf adj.all:likable2
-fr: 8 9
+w: like3 drf adjs.all:likeable drf adj.all:likeable drf adjs.all:likable drf adj.all:likable
+frame: 8 9
 g: be fond of; "I like my nephews"
 
 w: lock
 hyper: overwhelm
-fr: 10
+frame: 10
 g: hold fast (in a certain state); "He was locked in a laughing fit"
 
 w: look_down_on ant admire
 hyper: contemn
-fr: 8 9
+frame: 8 9
 g: regard with contempt; "the new neighbor looks down on us because our house is very modest"
 
 w: lose
 hyper: suffer
-fr: 9 10
+frame: 9 10
 g: suffer the loss of a person through death or removal; "She lost her husband in the war"; "The couple that wanted to adopt the child lost her when the biological parents claimed her"
 
-w: love1 undergoer noun.person:love undergoer noun.cognition:love event noun.feeling:love agent noun.person:lover drf adj.all:loveable drf adj.all:lovable drf noun.person:love drf noun.cognition:love drf noun.feeling:love drf noun.person:lover
-hyper: love
-fr: 9
+w: love1 undergoer noun.person:love undergoer noun.cognition:love event noun.feeling:love agent noun.person:lover2 drf adj.all:loveable drf adj.all:lovable drf noun.person:love drf noun.cognition:love drf noun.feeling:love drf noun.person:lover2
+hyper: love2
+frame: 9
 g: be enamored or in love with; "She loves her husband deeply"
 
-w: love event noun.person:love event noun.feeling:love event noun.cognition:love agent noun.person:lover1 agent noun.person:lover drf adj.all:loveable drf adj.all:lovable drf noun.person:love drf noun.cognition:love drf noun.feeling:love drf noun.person:lover1 drf noun.person:lover ant hate
-fr: 8 9
+w: love2 event noun.person:love event noun.feeling:love event noun.cognition:love agent noun.person:lover agent noun.person:lover2 drf adj.all:loveable drf adj.all:lovable drf noun.person:love drf noun.cognition:love drf noun.feeling:love drf noun.person:lover drf noun.person:lover2 ant hate
+frame: 8 9
 g: have a great affection or liking for; "I love French food"; "She loves her boss and works hard for him"
 
-w: love2 undergoer noun.cognition:love event noun.feeling:love agent noun.person:lover1 agent noun.person:lover drf noun.cognition:love drf noun.feeling:love drf noun.person:lover1 drf noun.person:lover
-w: enjoy1 event noun.feeling:enjoyment event noun.act:enjoyment agent noun.person:enjoyer drf noun.feeling:enjoyment drf noun.act:enjoyment drf noun.person:enjoyer
-hyper: like5
-fr: 8 28
+w: love undergoer noun.cognition:love event noun.feeling:love agent noun.person:lover agent noun.person:lover2 drf noun.cognition:love drf noun.feeling:love drf noun.person:lover drf noun.person:lover2
+w: enjoy event noun.feeling:enjoyment event noun.act:enjoyment agent noun.person:enjoyer drf noun.feeling:enjoyment drf noun.act:enjoyment drf noun.person:enjoyer
+hyper: like2
+frame: 8 28
 g: get pleasure from; "I love cooking"
 
 w: lull1 event noun.time:lull event noun.state:lull drf noun.state:lull drf noun.time:lull
 hyper: calm
-fr: 9 10
+frame: 9 10
 g: calm by deception; "Don't let yourself be lulled into a false state of security"
 
 w: lust_after
 w: lech_after
-hyper: desire
-fr: 9
+hyper: desire2
+frame: 9
 g: have a strong sexual desire for; "he is lusting after his secretary"
 
 w: madden1
-hyper: torment1
-fr: 9 10
+hyper: torment
+frame: 9 10
 g: drive up the wall; go on someone's nerves
 
-w: madden
-hyper: anger
-fr: 9 10
+w: madden2
+hyper: anger1
+frame: 9 10
 g: make mad; "His behavior is maddening"
 
-w: madden2
+w: madden
 w: craze state noun.state:craze drf noun.state:craze
-fr: 10
+frame: 10
 g: cause to go crazy; cause to lose one's mind
 
 w: manipulate event noun.act:manipulation drf adjs.all:manipulative drf noun.act:manipulation
 w: keep_in_line
-w: control6 event noun.act:control agent noun.person:controller1 drf noun.person:controller1 drf noun.act:control
+w: control event noun.act:control1 agent noun.person:controller drf noun.person:controller drf noun.act:control1
 hyper: verb.social:interact
-fr: 8 9
+frame: 8 9
 g: control (others or oneself) or influence skillfully, usually to one's advantage; "She manipulates her boss"; "She is a very controlling mother and doesn't let her children grow up"; "The teacher knew how to keep the class in line"; "she keeps in line"
 
 w: miff state noun.state:miff drf noun.state:miff
-hyper: anger
-fr: 9 10
+hyper: anger1
+frame: 9 10
 g: cause to be annoyed; "His behavior really miffed me"
 
 w: miss
-entail: repent
-hyper: desire
-fr: 8 9
+entail: repent1
+hyper: desire2
+frame: 8 9
 g: feel or suffer from the lack of; "He misses his mother"
 
 w: mope agent noun.person:mope drf noun.person:mope
 w: moon_around
 w: moon_about
-hyper: verb.stative:be3
-fr: 2
+hyper: verb.stative:be9
+frame: 2
 g: be apathetic, gloomy, or dazed
 
-w: mortify4 event noun.act:mortification drf noun.act:mortification
-hyper: mortify2
-hyper: verb.social:discipline1
-fr: 2
+w: mortify event noun.act:mortification drf noun.act:mortification
+hyper: mortify1
+hyper: verb.social:discipline
+frame: 2
 g: practice self-denial of one's body and appetites
 
-w: mortify2 event noun.act:mortification drf noun.act:mortification
+w: mortify1 event noun.act:mortification drf noun.act:mortification
 w: subdue
-w: crucify3
+w: crucify1
 entail: verb.consumption:abstain
 hyper: verb.social:control1
-fr: 8 9
+frame: 8 9
 g: hold within limits and control; "subdue one's appetites"; "mortify the flesh"
 
-w: mourn1 agent noun.person:mourner drf noun.person:mourner
-hyper: verb.social:observe2
-fr: 2
+w: mourn agent noun.person:mourner drf noun.person:mourner
+hyper: verb.social:observe1
+frame: 2
 g: observe the customs of mourning after the death of a loved one
 
-w: mourn agent noun.person:mourner drf noun.person:mourner drf noun.state:mourning
-hyper: grieve
-fr: 2 22
+w: mourn1 agent noun.person:mourner drf noun.person:mourner drf noun.state:mourning
+hyper: grieve1
+frame: 2 22
 g: feel sadness; "She is mourning her dead child"
 
-w: move1
+w: move
 hyper: affect
 vg: verb.creation:motivate
-fr: 9 10
+frame: 9 10
 g: arouse sympathy or compassion in; "Her fate moved us all"
 
 w: nag
-hyper: worry1
-fr: 10
+hyper: worry2
+frame: 10
 g: worry persistently; "nagging concerns and doubts"
 
-w: obsess3 event noun.cognition:obsession drf adjs.all:obsessive drf noun.cognition:obsession
+w: obsess event noun.cognition:obsession drf adjs.all:obsessive drf noun.cognition:obsession
 hyper: worry
-fr: 22
+frame: 22
 g: be preoccupied with something; "She is obsessing over her weight"
 
 w: overawe
 w: cow drf noun.person:coward
 hyper: awe
-fr: 9 10
+frame: 9 10
 g: subdue, restrain, or overcome by affecting with a feeling of awe; frighten (as with threats)
 
 w: overjoy
-hyper: gladden1
-fr: 9 10
+hyper: gladden
+frame: 9 10
 g: cause to feel extremely joyful or happy; "the economic growth overjoyed the German industry"
 
 w: overwhelm
@@ -1499,11 +1499,11 @@ w: sweep_over
 w: whelm
 w: overcome
 w: overtake
-hyper: arouse
-fr: 10
+hyper: arouse1
+frame: 10
 g: overcome, as with emotions or perceptual stimuli
 
-w: pacify result noun.state:peace1 result noun.feeling:peace instrument noun.artifact:pacifier event noun.state:peace1 event noun.act:pacification by-means-of noun.artifact:pacifier drf noun.act:pacification drf noun.state:peace1 drf noun.feeling:peace drf noun.artifact:pacifier
+w: pacify result noun.state:peace2 result noun.feeling:peace instrument noun.artifact:pacifier1 event noun.state:peace2 event noun.act:pacification by-means-of noun.artifact:pacifier1 drf noun.act:pacification drf noun.state:peace2 drf noun.feeling:peace drf noun.artifact:pacifier1
 w: lenify
 w: conciliate state noun.state:conciliation event noun.act:conciliation agent noun.person:conciliator drf adj.all:conciliative drf noun.state:conciliation drf noun.act:conciliation drf noun.person:conciliator
 w: assuage
@@ -1513,381 +1513,381 @@ w: placate event noun.act:placation drf adjs.all:placative drf adjs.all:placator
 w: gentle
 w: gruntle
 hyper: calm
-fr: 8 9 10
+frame: 8 9 10
 g: cause to be more favorably inclined; gain the good will of; "She managed to mollify the angry customer"
 
-w: pain result noun.state:pain result noun.feeling:pain by-means-of noun.cognition:pain1 drf noun.cognition:pain1 drf noun.feeling:pain drf noun.state:pain
-w: anguish event noun.state:anguish event noun.feeling:anguish2 drf noun.state:anguish drf noun.feeling:anguish2
+w: pain result noun.state:pain result noun.feeling:pain by-means-of noun.cognition:pain drf noun.cognition:pain drf noun.feeling:pain drf noun.state:pain
+w: anguish1 event noun.state:anguish event noun.feeling:anguish drf noun.state:anguish drf noun.feeling:anguish
 w: hurt1 result noun.feeling:hurt1 drf noun.feeling:hurt1
 cause: suffer
-hyper: upset1
-fr: 10
+hyper: upset
+frame: 10
 g: cause emotional anguish or make miserable; "It pains me to see my children not being taught well in school"
 
 w: panic event noun.feeling:panic drf noun.feeling:panic
-hyper: fear
-fr: 2 22
+hyper: fear3
+frame: 2 22
 g: be overcome by a sudden fear; "The students panicked when told that final exams were less than a week away"
 
-w: panic1 event noun.state:panic1 event noun.feeling:panic drf noun.feeling:panic drf noun.state:panic1
+w: panic1 event noun.state:panic event noun.feeling:panic drf noun.feeling:panic drf noun.state:panic
 cause: panic
 hyper: terrify
-fr: 9 10
+frame: 9 10
 g: cause sudden fear in or fill with sudden panic; "The mere thought of an isolation cell panicked the prisoners"
 
 w: peeve
 hyper: annoy
-fr: 9 10
+frame: 9 10
 g: cause to be annoyed, irritated, or resentful
 
 w: perturb state noun.state:perturbation state noun.attribute:perturbation drf noun.state:perturbation drf noun.attribute:perturbation
 w: unhinge
 w: disquiet state noun.feeling:disquiet property noun.attribute:disquiet drf noun.attribute:disquiet drf noun.feeling:disquiet
-w: trouble event noun.feeling:trouble3 event noun.event:trouble drf noun.feeling:trouble3 drf noun.event:trouble
+w: trouble1 event noun.feeling:trouble event noun.event:trouble1 drf noun.feeling:trouble drf noun.event:trouble1
 w: cark
-w: distract2 event noun.cognition:distraction drf noun.cognition:distraction
+w: distract1 event noun.cognition:distraction1 drf noun.cognition:distraction1
 w: disorder
 hyper: disturb
-fr: 9 10
+frame: 9 10
 g: disturb in mind or make uneasy or cause to be worried or alarmed; "She was rather perturbed by the news that her father was seriously ill"
 
 w: pierce
 hyper: affect
-fr: 9 10
+frame: 9 10
 g: move or affect (a person's emotions or bodily feelings) deeply or sharply; "The cold pierced her bones"; "Her words pierced the students"
 
 w: pique event noun.feeling:pique drf noun.feeling:pique
-w: offend1 result noun.feeling:offence drf adj.all:offensive5 drf adj.all:offensive2 drf noun.feeling:offence
-cause: resent
-hyper: anger
-fr: 9 10
+w: offend2 result noun.feeling:offence drf adj.all:offensive4 drf adj.all:offensive1 drf noun.feeling:offence
+cause: resent1
+hyper: anger1
+frame: 9 10
 g: cause to feel resentment or indignation; "Her tactless remark offended me"
 
-w: please1 drf noun.act:pleasure2
-hyper: wish2
-fr: 1 2
+w: please drf noun.act:pleasure
+hyper: wish
+frame: 1 2
 g: be the will of or have the will (to); "he could do many things if he pleased"
 
-w: please3 drf adjs.all:pleasant
-vg: please
+w: please1 drf adjs.all:pleasant
+vg: please2
 hyper: satisfy
-fr: 9 10
+frame: 9 10
 g: give satisfaction; "The waiters around her aim to please"
 
-w: please agent noun.person:pleaser drf adj.all:pleasant drf noun.feeling:pleasure drf noun.cognition:pleasure drf noun.act:pleasure2 drf noun.person:pleaser drf noun.act:pleasing ant displease
-w: delight state noun.feeling:delight by-means-of noun.cognition:delight drf noun.cognition:delight drf noun.feeling:delight
-cause: like5
-cause: like4
+w: please2 agent noun.person:pleaser drf adj.all:pleasant drf noun.feeling:pleasure drf noun.cognition:pleasure drf noun.act:pleasure drf noun.person:pleaser drf noun.act:pleasing ant displease
+w: delight1 state noun.feeling:delight by-means-of noun.cognition:delight drf noun.cognition:delight drf noun.feeling:delight
+cause: like2
+cause: like3
 hyper: satisfy
-vg: please3
-fr: 9 10
+vg: please1
+frame: 9 10
 g: give pleasure to or be pleasing to; "These colors please the senses"; "a pleasing sensation"
 
-w: pother1 state noun.state:pother event noun.state:pother drf noun.state:pother
+w: pother state noun.state:pother event noun.state:pother drf noun.state:pother
 hyper: agitate
-fr: 9 10
+frame: 9 10
 g: make upset or troubled
 
 w: prefer event noun.feeling:preference drf noun.feeling:preference
-hyper: like5
-fr: 8 9 15 27 33
+hyper: like2
+frame: 8 9 15 27 33
 g: like better; value more highly; "Some people prefer camping to staying in hotels"; "We prefer sleeping outside"
 
-w: preoccupy state noun.cognition:preoccupation by-means-of noun.cognition:preoccupation2 drf noun.cognition:preoccupation2 drf noun.cognition:preoccupation drf noun.cognition:preoccupancy
-hyper: verb.social:control
-fr: 10
+w: preoccupy state noun.cognition:preoccupation1 by-means-of noun.cognition:preoccupation drf noun.cognition:preoccupation drf noun.cognition:preoccupation1 drf noun.cognition:preoccupancy
+hyper: verb.social:control2
+frame: 10
 g: engage or engross the interest or attention of beforehand or occupy urgently or obsessively; "His work preoccupies him"; "The matter preoccupies her completely--she cannot think of anything else"
 
 w: prepossess
 hyper: preoccupy
-fr: 10
+frame: 10
 g: cause to be preoccupied; "The idea of his failure prepossesses him"
 
 w: prepossess1
 hyper: impress
-fr: 8 9
+frame: 8 9
 g: make a positive impression (on someone) beforehand; "A prepossessing appearance"
 
 w: prick
-hyper: arouse
-fr: 8 9 10 11
+hyper: arouse1
+frame: 8 9 10 11
 g: to cause a sharp emotional pain; "The thought of her unhappiness pricked his conscience"
 
-w: pride event noun.feeling:pride1 drf noun.feeling:pride1
+w: pride event noun.feeling:pride drf noun.feeling:pride
 w: plume
-w: congratulate event noun.communication:congratulation1 drf adjs.all:congratulatory drf noun.communication:congratulation1
+w: congratulate event noun.communication:congratulation drf adjs.all:congratulatory drf noun.communication:congratulation
 hyper: feel
-fr: 20
+frame: 20
 g: be proud of; "He prides himself on making it into law school"
 
 w: puff
 hyper: elate
-fr: 10 11
+frame: 10 11
 g: make proud or conceited; "The sudden fame puffed her ego"
 
-w: puzzle3 result noun.cognition:puzzlement event noun.communication:puzzle drf noun.communication:puzzle drf noun.cognition:puzzlement
+w: puzzle result noun.cognition:puzzlement event noun.communication:puzzle drf noun.communication:puzzle drf noun.cognition:puzzlement
 hyper: verb.cognition:chew_over
-fr: 22
+frame: 22
 g: be uncertain about; think about without fully understanding or being able to decide; "We puzzled over her sudden departure"
 
-w: rack
-hyper: try
-fr: 8
+w: rack1
+hyper: try1
+frame: 8
 g: stretch to the limits; "rack one's brains"
 
-w: rage state noun.state:rage state noun.feeling:rage drf noun.state:rage drf noun.feeling:rage
-fr: 2 22
+w: rage state noun.state:rage1 state noun.feeling:rage drf noun.state:rage1 drf noun.feeling:rage
+frame: 2 22
 g: feel intense anger; "Rage against the dying of the light!"
 
 w: raise_the_roof
-hyper: anger1
-fr: 2
+hyper: anger
+frame: 2
 g: get very angry; "He will raise the roof when he hears this"
 
-w: reassure event noun.act:reassurance drf noun.act:reassurance ant worry1
+w: reassure event noun.act:reassurance drf noun.act:reassurance ant worry2
 w: assure
 hyper: calm
-fr: 9 10
+frame: 9 10
 g: cause to feel sure; give reassurance to; "The airline tried to reassure the customers that the planes were safe"
 
 w: recapture
 hyper: feel
-fr: 8
+frame: 8
 g: experience anew; "She could not recapture that feeling of happiness"
 
 w: reduce
 hyper: take_down
-fr: 21
+frame: 21
 g: lower in grade or rank or force somebody into an undignified situation; "She reduced her niece to a servant"
 
-w: regret1 state noun.feeling:regret drf noun.feeling:regret
+w: regret state noun.feeling:regret drf noun.feeling:regret
 hyper: miss
-fr: 8 9
+frame: 8 9
 g: feel sad about the loss or absence of
 
-w: rejoice drf noun.feeling:rejoicing
+w: rejoice1 drf noun.feeling:rejoicing
 w: joy state noun.feeling:joy drf noun.feeling:joy
 hyper: feel
-fr: 2 22
+frame: 2 22
 g: feel happiness or joy
 
 w: rekindle
-hyper: arouse
-fr: 8 11
+hyper: arouse1
+frame: 8 11
 g: arouse again; "rekindle hopes"; "rekindle her love"
 
-w: repel drf adjs.all:repulsive drf adjs.all:repulsive drf adjs.all:repellant drf adjs.all:repellant drf adjs.all:repellent drf noun.substance:repellent drf noun.substance:repellant ant attract
+w: repel drf adjs.all:repulsive1 drf adjs.all:repulsive drf adjs.all:repellant drf adjs.all:repellant1 drf adjs.all:repellent1 drf noun.substance:repellent1 drf noun.substance:repellant1 ant attract
 w: repulse
 hyper: displease
-fr: 9 10
+frame: 9 10
 g: be repellent to; cause aversion in
 
-w: repent1 drf adj.all:repentant
+w: repent drf adj.all:repentant
 w: atone event noun.act:atonement drf noun.act:atonement
-fr: 2
+frame: 2
 g: turn away from sin or do penitence
 
-w: repent event noun.feeling:repentance drf adj.all:repentant drf noun.feeling:repentance
-w: regret state noun.feeling:regret drf noun.feeling:regret fr 26 33
+w: repent1 event noun.feeling:repentance drf adj.all:repentant drf noun.feeling:repentance
+w: regret1 state noun.feeling:regret drf noun.feeling:regret frame 26 33
 w: rue event noun.feeling:rue drf noun.feeling:rue
 hyper: feel
-fr: 8
+frame: 8
 g: feel remorse for; feel sorry for; be contrite about
 
-w: resent state noun.feeling:resentment drf noun.feeling:resentment
+w: resent1 state noun.feeling:resentment drf noun.feeling:resentment
 hyper: dislike
-fr: 8 9
+frame: 8 9
 g: feel bitter or indignant about; "She resents being paid less than her co-workers"
 
 w: retire
-w: withdraw event noun.feeling:withdrawal agent noun.person:withdrawer4 drf noun.person:withdrawer4 drf noun.feeling:withdrawal
+w: withdraw event noun.feeling:withdrawal agent noun.person:withdrawer1 drf noun.person:withdrawer1 drf noun.feeling:withdrawal
 hyper: verb.body:tire
-vg: verb.social:retire2
-fr: 2 22
+vg: verb.social:retire3
+frame: 2 22
 g: lose interest; "he retired from life when his wife died"
 
 w: reverence state noun.feeling:reverence property noun.cognition:reverence event noun.feeling:reverence event noun.cognition:reverence drf noun.cognition:reverence drf noun.feeling:reverence
-w: fear1 state noun.feeling:fear2 drf noun.feeling:fear2
+w: fear4 state noun.feeling:fear1 drf noun.feeling:fear1
 w: revere event noun.feeling:reverence drf adjs.all:reverent drf adj.all:reverent drf noun.feeling:reverence
 w: venerate event noun.feeling:veneration agent noun.person:venerator drf noun.feeling:veneration drf noun.person:venerator
 hyper: verb.cognition:respect
-fr: 8 9
+frame: 8 9
 g: regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of; "Fear God as your father"; "We venerate genius"
 
 w: rise
-fr: 1
+frame: 1
 g: become heartened or elated; "Her spirits rose when she heard the good news"
 
-w: romance event noun.state:romance drf noun.communication:romance2 drf noun.state:romance
+w: romance event noun.state:romance drf noun.communication:romance drf noun.state:romance
 hyper: love1
-fr: 8 9
+frame: 8 9
 g: have a love affair with
 
-w: ruffle1
-hyper: fluster
-fr: 8 9 10 11
+w: ruffle
+hyper: fluster1
+frame: 8 9 10 11
 g: discompose; "This play is going to ruffle some people"; "She has a way of ruffling feathers among her colleagues"
 
-w: ruffle
+w: ruffle1
 hyper: annoy
-fr: 8 11
+frame: 8 11
 g: trouble or vex; "ruffle somebody's composure"
 
-w: sadden ant gladden
+w: sadden ant gladden1
 hyper: feel
-fr: 2 22
+frame: 2 22
 g: come to feel sad
 
-w: sadden1 ant gladden1
+w: sadden1 ant gladden
 cause: sadden
 hyper: affect
-fr: 9 10
+frame: 9 10
 g: make unhappy; "The news of her death saddened me"
 
 w: salivate
 w: drool
 hyper: covet
-fr: 22
+frame: 22
 g: be envious, desirous, eager for, or extremely happy about something; "She was salivating over the raise she anticipated"
 
 w: satisfy by-means-of noun.object:satisfier drf noun.object:satisfier ant dissatisfy
 w: gratify state noun.state:gratification result noun.state:gratification event noun.act:gratification drf noun.state:gratification drf noun.act:gratification
-fr: 9 10
+frame: 9 10
 g: make happy or satisfied
 
 w: scruple property noun.cognition:scruple event noun.feeling:scruple drf noun.cognition:scruple drf noun.feeling:scruple
 hyper: fuss
-fr: 8 22
+frame: 8 22
 g: raise scruples; "He lied and did not even scruple about it"
 
 w: seethe
 w: boil
-hyper: verb.stative:be3
-fr: 2 22
+hyper: verb.stative:be9
+frame: 2 22
 g: be in an agitated emotional state; "The customer was seething with anger"
 
 w: shame result noun.feeling:shame drf noun.feeling:shame
-hyper: arouse
-fr: 9 10
+hyper: arouse1
+frame: 9 10
 g: cause to be ashamed
 
-w: shock event noun.feeling:shock1 event noun.event:shock1 agent noun.communication:shocker drf noun.feeling:shock1 drf noun.event:shock1 drf noun.communication:shocker
-hyper: dismay
-fr: 9 10
+w: shock2 event noun.feeling:shock event noun.event:shock2 agent noun.communication:shocker drf noun.feeling:shock drf noun.event:shock2 drf noun.communication:shocker
+hyper: dismay1
+frame: 9 10
 g: strike with horror or terror; "The news of the bombing shocked her"
 
-w: shock1 event noun.event:shock1 drf noun.event:shock1
+w: shock1 event noun.event:shock2 drf noun.event:shock2
 w: floor
 w: ball_over
 w: blow_out_of_the_water
 w: take_aback
 hyper: verb.cognition:surprise
-fr: 9 10
+frame: 9 10
 g: surprise greatly; knock someone's socks off; "I was floored when I heard that I was promoted"
 
-w: shock2 event noun.feeling:shock1 agent noun.person:shocker drf noun.feeling:shock1 drf noun.person:shocker
-w: offend2 drf adjs.all:offensive drf adj.all:offensive4 drf adj.all:offensive1
+w: shock event noun.feeling:shock agent noun.person:shocker drf noun.feeling:shock drf noun.person:shocker
+w: offend drf adjs.all:offensive drf adj.all:offensive2 drf adj.all:offensive3
 w: scandalize event noun.act:scandalization event noun.event:scandal by-means-of noun.communication:scandal drf noun.act:scandalization drf noun.event:scandal drf noun.communication:scandal
 w: scandalise event noun.act:scandalisation event noun.event:scandal by-means-of noun.communication:scandal drf noun.act:scandalisation drf noun.event:scandal drf noun.communication:scandal
 w: appal
 w: appall
-w: outrage1 event noun.feeling:outrage event noun.event:outrage event noun.act:outrage drf noun.event:outrage drf noun.act:outrage drf noun.feeling:outrage
+w: outrage event noun.feeling:outrage event noun.event:outrage event noun.act:outrage drf noun.event:outrage drf noun.act:outrage drf noun.feeling:outrage
 hyper: disgust
-fr: 9 10
+frame: 9 10
 g: strike with disgust or revulsion; "The scandalous behavior of this married woman shocked her friends"
 
 w: shout_down
-hyper: verb.change:hush1
-fr: 9
+hyper: verb.change:hush
+frame: 9
 g: silence or overwhelm by shouting
 
 w: sizzle
 hyper: seethe
-fr: 1
+frame: 1
 g: seethe with deep anger or resentment; "She was sizzling with anger"
 
 w: smite
 hyper: affect
-fr: 9 10
+frame: 9 10
 g: affect suddenly with deep feeling; "He was smitten with love for this young girl"
 
 w: smolder
 w: smoulder
 hyper: feel
-fr: 2
+frame: 2
 g: have strong suppressed feelings
 
 w: spook drf noun.cognition:spook
-hyper: frighten
-fr: 9 10
+hyper: frighten1
+frame: 9 10
 g: frighten or scare, and often provoke into a violent action; "The noise spooked the horse"
 
 w: spur by-means-of noun.communication:spur drf noun.communication:spur
 w: goad by-means-of noun.communication:goad drf noun.communication:goad
 hyper: encourage
-fr: 9 10
+frame: 9 10
 g: give heart or courage to
 
 w: stagger
 hyper: overwhelm
-fr: 10
+frame: 10
 g: astound or overwhelm, as with shock; "She was staggered with bills after she tried to rebuild her house following the earthquake"
 
 w: startle
-w: galvanize event noun.act:galvanization1 agent noun.person:galvanizer drf noun.act:galvanization1 drf noun.person:galvanizer
-w: galvanise event noun.act:galvanisation1 agent noun.person:galvaniser drf noun.person:galvaniser drf noun.act:galvanisation1
+w: galvanize event noun.act:galvanization agent noun.person:galvanizer1 drf noun.act:galvanization drf noun.person:galvanizer1
+w: galvanise event noun.act:galvanisation agent noun.person:galvaniser1 drf noun.person:galvaniser1 drf noun.act:galvanisation
 hyper: shock1
-fr: 9 10 30
+frame: 9 10 30
 g: to stimulate to action ; "..startled him awake"; "galvanized into action"
 
 w: steam
-hyper: anger1
-fr: 2
+hyper: anger
+frame: 2
 g: get very angry; "her indifference to his amorous advances really steamed the young man"
 
 w: steel
 w: nerve by-means-of noun.attribute:nerve drf noun.attribute:nerve
 hyper: brace
-fr: 9
+frame: 9
 g: get ready for something difficult or unpleasant
 
-w: stew
-w: grudge1 event noun.feeling:grudge drf noun.feeling:grudge
-hyper: resent
-fr: 2 22
+w: stew1
+w: grudge event noun.feeling:grudge drf noun.feeling:grudge
+hyper: resent1
+frame: 2 22
 g: bear a grudge; harbor ill feelings
 
-w: still1 event noun.attribute:still drf noun.attribute:still
+w: still event noun.attribute:still drf noun.attribute:still
 w: allay agent noun.person:allayer drf noun.person:allayer
-w: relieve agent noun.person:reliever2 drf noun.person:reliever2
-w: ease state noun.state:ease2 event noun.act:easement drf noun.state:ease2 drf noun.act:easement
-hyper: comfort1
-fr: 8 11
+w: relieve agent noun.person:reliever1 drf noun.person:reliever1
+w: ease state noun.state:ease1 event noun.act:easement drf noun.state:ease1 drf noun.act:easement
+hyper: comfort
+frame: 8 11
 g: lessen the intensity of or calm; "The news eased my conscience"; "still the fears"
 
 w: stimulate
 w: shake
 w: shake_up
-w: excite state noun.state:excitement1 state noun.state:excitation1 drf noun.state:excitement1 drf noun.state:excitation1
+w: excite3 state noun.state:excitement state noun.state:excitation drf noun.state:excitement drf noun.state:excitation
 w: stir1 event noun.feeling:stir agent noun.person:stirrer drf noun.feeling:stir drf noun.person:stirrer see verb.social:stir_up
-hyper: arouse
-fr: 8 9 10 11
+hyper: arouse1
+frame: 8 9 10 11
 g: stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country"
 
-w: sting event noun.communication:stinger event noun.state:sting2 drf noun.state:sting2 drf noun.communication:stinger drf noun.state:stinging
+w: sting event noun.communication:stinger event noun.state:sting1 drf noun.state:sting1 drf noun.communication:stinger drf noun.state:stinging
 hyper: hurt
-fr: 9 10
+frame: 9 10
 g: cause an emotional pain, as if by stinging; "His remark stung her"
 
 w: strike_a_chord1
 w: touch_a_chord
-hyper: arouse
-fr: 1 2
+hyper: arouse1
+frame: 1 2
 g: evoke a reaction, response, or emotion; "this writer strikes a chord with young women"; "The storyteller touched a chord"
 
 w: strike_dumb
 hyper: affect
-fr: 10
+frame: 10
 g: render speechless, as by surprising or shocking; "we were struck dumb by the candidate's announcement"
 
 w: strong-arm
@@ -1898,32 +1898,32 @@ w: ballyrag
 w: boss_around
 w: hector
 w: push_around
-hyper: intimidate
-fr: 9
+hyper: intimidate1
+frame: 9
 g: be bossy towards; "Her big brother always bullied her when she was young"
 
 w: stultify event noun.communication:stultification drf noun.communication:stultification
-hyper: verb.cognition:prove
+hyper: verb.cognition:prove2
 dt: noun.group:law
-fr: 9
+frame: 9
 g: prove to be of unsound mind or demonstrate someone's incompetence; "nobody is legally allowed to stultify himself"
 
-w: suffer agent noun.person:sufferer1 drf noun.person:sufferer1 drf noun.state:suffering1 drf noun.feeling:suffering2 fr 8
-vg: verb.cognition:digest3
+w: suffer agent noun.person:sufferer1 drf noun.person:sufferer1 drf noun.state:suffering drf noun.feeling:suffering frame 8
+vg: verb.cognition:digest
 hyper: feel
-fr: 2 22
+frame: 2 22
 g: experience (emotional) pain; "Every time her husband gets drunk, she suffers"
 
 w: sweep_away
 w: sweep_off
 hyper: affect
-fr: 9 10
+frame: 9 10
 g: overwhelm emotionally; "Her swept her away"
 
-w: sympathize1 agent noun.person:sympathizer drf noun.person:sympathizer drf noun.relation:sympathy
-w: sympathise1 agent noun.person:sympathiser drf noun.person:sympathiser drf noun.relation:sympathy
+w: sympathize agent noun.person:sympathizer1 drf noun.person:sympathizer1 drf noun.relation:sympathy
+w: sympathise agent noun.person:sympathiser1 drf noun.person:sympathiser1 drf noun.relation:sympathy
 hyper: feel
-fr: 2 22
+frame: 2 22
 g: share the feelings of; understand the sentiments of
 
 w: take_down drf noun.communication:takedown
@@ -1932,232 +1932,232 @@ w: disgrace
 w: demean
 w: put_down drf noun.communication:put-down
 hyper: humiliate
-fr: 9 10
+frame: 9 10
 g: reduce in worth or character, usually verbally; "She tends to put down younger women colleagues"; "His critics took him down after the lecture"
 
 w: take_heart
 w: buck_up
-hyper: cheer2
-fr: 2 22
+hyper: cheer
+frame: 2 22
 g: gain courage
 
-w: take_pride9
-w: pride_oneself9
+w: take_pride
+w: pride_oneself
 hyper: feel
-fr: 22
+frame: 22
 g: feel proud of; "She took great pride in her sons"
 
-w: tease1 agent noun.person:tease1 drf noun.person:tease1
-entail: arouse1
+w: tease agent noun.person:tease1 drf noun.person:tease1
+entail: arouse
 entail: disappoint
 hyper: manipulate
-fr: 9
+frame: 9
 g: to arouse hope, desire, or curiosity without satisfying them; "The advertisement is intended to tease the customers"; "She has a way of teasing men with her flirtatious behavior"
 
-w: tease event noun.act:tease agent noun.person:teaser agent noun.person:tease drf noun.act:tease drf noun.person:tease drf noun.person:teaser
+w: tease1 event noun.act:tease agent noun.person:teaser1 agent noun.person:tease drf noun.act:tease drf noun.person:tease drf noun.person:teaser1
 w: badger agent noun.person:badgerer drf noun.person:badgerer
 w: pester agent noun.person:pesterer drf noun.person:pesterer
 w: bug
 w: beleaguer
-hyper: torment1
-fr: 9
+hyper: torment
+frame: 9
 g: annoy persistently; "The children teased the boy because of his stammer"
 
-w: tempt1 agent noun.person:tempter drf adjs.all:temptable drf noun.person:tempter
-hyper: arouse1
-fr: 9
+w: tempt agent noun.person:tempter drf adjs.all:temptable drf noun.person:tempter
+hyper: arouse
+frame: 9
 g: try to seduce
 
-w: tempt by-means-of noun.cognition:temptation agent noun.person:tempter drf adjs.all:temptable drf noun.cognition:temptation drf noun.person:tempter
+w: tempt1 by-means-of noun.cognition:temptation agent noun.person:tempter drf adjs.all:temptable drf noun.cognition:temptation drf noun.person:tempter
 w: invite by-means-of noun.attribute:invitation drf noun.attribute:invitation
 hyper: stimulate
-fr: 10
+frame: 10
 g: give rise to a desire by being attractive or inviting; "the window displays tempted the shoppers"
 
 w: terrify uses noun.feeling:terror state noun.feeling:terror drf noun.feeling:terror
 w: terrorize state noun.feeling:terror event noun.act:terrorization drf noun.act:terrorization drf noun.feeling:terror
 w: terrorise state noun.feeling:terror event noun.act:terrorisation drf noun.act:terrorisation drf noun.feeling:terror
-hyper: frighten
-fr: 9 10
+hyper: frighten1
+frame: 9 10
 g: fill with terror; frighten greatly
 
-w: thrill2 event noun.feeling:thrill2 event noun.feeling:thrill by-means-of noun.act:thrill drf noun.feeling:thrill2 drf noun.act:thrill drf noun.feeling:thrill
-w: tickle1
-w: vibrate2
+w: thrill1 event noun.feeling:thrill1 event noun.feeling:thrill by-means-of noun.act:thrill drf noun.feeling:thrill1 drf noun.act:thrill drf noun.feeling:thrill
+w: tickle
+w: vibrate
 hyper: stimulate
-fr: 10
+frame: 10
 g: feel sudden intense sensation or emotion; "he was thrilled by the speed and the roar of the engine"
 
 w: throw_cold_water_on
 w: pour_cold_water_on
 hyper: discourage
-fr: 8 9
+frame: 8 9
 g: be discouraging or negative about
 
-w: titillate event noun.act:titillation1 drf noun.act:titillation1
-entail: please
+w: titillate event noun.act:titillation drf noun.act:titillation
+entail: please2
 hyper: stimulate
-fr: 9 10
+frame: 9 10
 g: excite pleasurably or erotically; "A titillating story appeared in the usually conservative magazine"
 
-w: torment1 undergoer noun.feeling:torment3 result noun.feeling:torment3 event noun.act:torment agent noun.person:tormentor agent noun.person:tormenter drf noun.act:torment drf noun.feeling:torment3 drf noun.person:tormenter drf noun.person:tormentor
+w: torment undergoer noun.feeling:torment result noun.feeling:torment event noun.act:torment agent noun.person:tormentor agent noun.person:tormenter drf noun.act:torment drf noun.feeling:torment drf noun.person:tormenter drf noun.person:tormentor
 w: rag
 w: bedevil event noun.act:bedevilment drf noun.act:bedevilment
 w: crucify event noun.act:crucifixion1 drf noun.act:crucifixion1
 w: dun
 w: frustrate state noun.feeling:frustration1 drf noun.feeling:frustration1
 hyper: harass
-fr: 9 10
+frame: 9 10
 g: treat cruelly; "The children tormented the stuttering teacher"
 
-w: torment undergoer noun.feeling:torment2 undergoer noun.feeling:torment1 event noun.feeling:torment2 event noun.feeling:torment1 by-means-of noun.artifact:tormenter agent noun.person:tormentor agent noun.person:tormenter drf noun.feeling:torment1 drf noun.feeling:torment2 drf noun.person:tormenter drf noun.artifact:tormenter drf noun.person:tormentor
-w: torture event noun.feeling:torture2 event noun.feeling:torture1 agent noun.person:torturer drf noun.feeling:torture1 drf noun.feeling:torture2 drf noun.person:torturer
+w: torment1 undergoer noun.feeling:torment1 undergoer noun.feeling:torment2 event noun.feeling:torment1 event noun.feeling:torment2 by-means-of noun.artifact:tormenter agent noun.person:tormentor agent noun.person:tormenter drf noun.feeling:torment2 drf noun.feeling:torment1 drf noun.person:tormenter drf noun.artifact:tormenter drf noun.person:tormentor
+w: torture event noun.feeling:torture event noun.feeling:torture1 agent noun.person:torturer drf noun.feeling:torture1 drf noun.feeling:torture drf noun.person:torturer
 w: excruciate state noun.state:excruciation drf noun.state:excruciation
-w: rack1 instrument noun.artifact:rack2 drf noun.artifact:rack2
+w: rack instrument noun.artifact:rack drf noun.artifact:rack
 hyper: pain
-fr: 9 10
+frame: 9 10
 g: torment emotionally or mentally
 
 w: touch
-w: stir event noun.feeling:stir drf noun.feeling:stir drf noun.act:stirring1 see stir_up
+w: stir event noun.feeling:stir drf noun.feeling:stir drf noun.act:stirring see stir_up
 hyper: affect
-fr: 9 10
+frame: 9 10
 g: affect emotionally; "A stirring movie"; "I was touched by your kind letter of sympathy"
 
 w: tribulate event noun.event:tribulation drf noun.event:tribulation
 hyper: afflict
-fr: 10
+frame: 10
 g: oppress or trouble greatly
 
-w: try1 result noun.event:trial drf noun.event:trial
+w: try result noun.event:trial1 drf noun.event:trial1
 hyper: pain
-fr: 9 10
+frame: 9 10
 g: give pain or trouble to; "I've been sorely tried by these students"
 
-w: try
-w: strain event noun.act:strain2 drf noun.act:strain2
-w: stress event noun.state:stress2 event noun.state:stress1 by-means-of noun.object:stressor drf noun.state:stress2 drf noun.state:stress1 drf noun.object:stressor
+w: try1
+w: strain event noun.act:strain1 drf noun.act:strain1
+w: stress event noun.state:stress1 event noun.state:stress2 by-means-of noun.object:stressor drf noun.state:stress1 drf noun.state:stress2 drf noun.object:stressor
 hyper: afflict
-fr: 8 11
+frame: 8 11
 g: test the limits of; "You are trying my patience!"
 
 w: turn_off drf noun.cognition:turnoff
-w: put_off4
+w: put_off1
 hyper: repel
-fr: 9 10
+frame: 9 10
 g: cause to feel intense dislike or distaste
 
-w: tyrannize drf noun.person:tyrant
+w: tyrannize drf noun.person:tyrant2
 w: tyrannise
 w: domineer
 hyper: strong-arm
-fr: 9
+frame: 9
 g: rule or exercise power over (somebody) in a cruel and autocratic manner; "her husband and mother-in-law tyrannize her"
 
-w: unbalance result noun.state:unbalance1 drf noun.state:unbalance1
-w: derange1 state noun.state:derangement drf noun.state:derangement
-hyper: madden2
-fr: 10
+w: unbalance result noun.state:unbalance drf noun.state:unbalance
+w: derange state noun.state:derangement drf noun.state:derangement
+hyper: madden
+frame: 10
 g: derange mentally, throw out of mental balance; make insane; "The death of his parents unbalanced him"
 
 w: unman
 hyper: faze
-fr: 9 10
+frame: 9 10
 g: cause to lose one's nerve; "an unmanning experience"
 
-w: upset1 event noun.state:upset drf noun.state:upset
+w: upset event noun.state:upset drf noun.state:upset
 w: discompose drf noun.feeling:discomposure drf noun.attribute:discomposure
 w: untune
 w: disconcert1 state noun.feeling:disconcertment state noun.feeling:disconcertion drf noun.feeling:disconcertment drf noun.feeling:disconcertion
 w: discomfit drf noun.feeling:discomfiture
-hyper: arouse
-fr: 9 10
+hyper: arouse1
+frame: 9 10
 g: cause to lose one's composure
 
 w: wallow
-w: rejoice2 drf noun.feeling:rejoicing
+w: rejoice drf noun.feeling:rejoicing
 w: triumph event noun.feeling:triumph drf adjs.all:triumphant drf noun.feeling:triumph
 hyper: exult
-fr: 21
+frame: 21
 g: be ecstatic with joy
 
 w: warm_to
-hyper: verb.cognition:consider1
-fr: 8
+hyper: verb.cognition:consider
+frame: 8
 g: become excited about; "He warmed to the idea of a trip to Antarctica"
 
 w: wean
 hyper: estrange
-fr: 9
+frame: 9
 g: detach the affections of
 
-w: weigh_down ant lighten1
+w: weigh_down ant lighten
 w: weigh_on
 hyper: sadden1
-fr: 10
+frame: 10
 g: be oppressive or disheartening to
 
-w: wish event noun.feeling:wish event noun.communication:wish drf noun.feeling:wish drf noun.communication:wish drf noun.feeling:wishing
-hyper: desire
-fr: 8 28
+w: wish2 event noun.feeling:wish event noun.communication:wish drf noun.feeling:wish drf noun.communication:wish drf noun.feeling:wishing
+hyper: desire2
+frame: 8 28
 g: hope for; have a wish; "I wish I could go home now"
 
-w: wish2 event noun.feeling:wish drf noun.feeling:wish
+w: wish event noun.feeling:wish drf noun.feeling:wish
 w: care
 w: like1
-hyper: desire
-fr: 28
+hyper: desire2
+frame: 28
 g: prefer or wish to do something; "Do you care to try this dish?"; "Would you like to come along to the movies?"
 
-w: wish1 event noun.feeling:wish event noun.communication:wish drf noun.feeling:wish drf noun.communication:wish ant begrudge
-w: wish_well  fr 9
-hyper: desire
-fr: 14
+w: wish1 event noun.feeling:wish event noun.communication:wish drf noun.feeling:wish drf noun.communication:wish ant begrudge1
+w: wish_well  frame 9
+hyper: desire2
+frame: 14
 g: feel or express a desire or hope concerning the future or fortune of
 
-w: work10
+w: work
 hyper: capture
-vg: verb.perception:work10
-fr: 9 10
+vg: verb.perception:work
+frame: 9 10
 g: gratify and charm, usually in order to influence; "the political candidate worked the crowds"
 
 w: worry event noun.feeling:worry by-means-of noun.cognition:worry by-means-of noun.attribute:worriment agent noun.person:worrier drf noun.attribute:worriment drf noun.person:worrier drf noun.feeling:worry drf noun.cognition:worry
-vg: worry1
-fr: 2 22 26
+vg: worry2
+frame: 2 22 26
 g: be worried, concerned, anxious, troubled, or uneasy; "I worry about my job"
 
-w: worry12 event noun.feeling:worry by-means-of noun.cognition:worry drf noun.feeling:worry drf noun.cognition:worry
-w: care12 state noun.feeling:care1 event noun.feeling:care drf noun.feeling:care1 drf noun.feeling:care
-hyper: verb.cognition:mind2
-fr: 22
+w: worry1 event noun.feeling:worry by-means-of noun.cognition:worry drf noun.feeling:worry drf noun.cognition:worry
+w: care2 state noun.feeling:care event noun.feeling:care1 drf noun.feeling:care drf noun.feeling:care1
+hyper: verb.cognition:mind1
+frame: 22
 g: be concerned with; "I worry about my grades"
 
-w: worry1 by-means-of noun.cognition:worry drf noun.cognition:worry drf noun.act:worrying ant reassure
-w: vex2 by-means-of noun.cognition:vexation drf noun.cognition:vexation
+w: worry2 by-means-of noun.cognition:worry drf noun.cognition:worry drf noun.act:worrying ant reassure
+w: vex1 by-means-of noun.cognition:vexation drf noun.cognition:vexation
 cause: worry
 hyper: perturb
 vg: worry
-fr: 9 10
+frame: 9 10
 g: disturb the peace of mind of; afflict with mental agitation or distress; "I cannot sleep--my daughter's health is worrying me"
 
-w: worship1 agent noun.person:worshipper agent noun.person:worshiper drf noun.person:worshiper drf noun.person:worshipper
+w: worship agent noun.person:worshipper1 agent noun.person:worshiper1 drf noun.person:worshiper1 drf noun.person:worshipper1
 hyper: reverence
 dt: noun.cognition:religion
-fr: 8
+frame: 8
 g: show devotion to (a deity); "Many Hindus worship Shiva"
 
 w: wow
 hyper: impress
-fr: 9 10
+frame: 9 10
 g: impress greatly; "The speaker wowed the audience"
 
-w: yearn10
-hyper: care_for8
-fr: 9
+w: yearn2
+hyper: care_for1
+frame: 9
 g: have affection for; feel tenderness for
 
 w: zap
 hyper: affect
-fr: 9 10
+frame: 9 10
 g: strike suddenly and with force; "This show zaps the viewers with some shocking scenes"
 

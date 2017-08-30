@@ -1,5 +1,5 @@
-w: aberration drf verb.stative:aberrate
-w: distortion
+w: aberration drf verb.stative:aberrate1
+w: distortion1
 w: optical_aberration
 hyper: optical_phenomenon
 g: an optical phenomenon resulting from the failure of a lens or mirror to produce a good image
@@ -26,7 +26,7 @@ g: a physical phenomenon associated with the production or transmission of sound
 w: acoustic_resistance
 w: acoustic_impedance
 w: acoustic_reactance
-hyper: resistance
+hyper: resistance1
 g: opposition to the flow of sound through a surface; acoustic resistance is the real component of acoustic impedance and acoustic reactance is the imaginary component
 
 w: actinic_radiation
@@ -57,11 +57,11 @@ w: lift
 hyper: aerodynamic_force
 g: the component of the aerodynamic forces acting on an airfoil that opposes gravity
 
-w: aerosol drf verb.contact:aerosolize1 drf verb.contact:aerosolize drf verb.contact:aerosolise1 drf verb.contact:aerosolise
-hyper: cloud1
+w: aerosol drf verb.contact:aerosolize drf verb.contact:aerosolize1 drf verb.contact:aerosolise drf verb.contact:aerosolise1
+hyper: cloud
 g: a cloud of solid or liquid particles in a gas
 
-w: affinity2
+w: affinity
 hyper: attraction
 dt: noun.cognition:immunology
 g: (immunology) the attraction between an antigen and an antibody
@@ -119,7 +119,7 @@ g: the normal brainwave in the electroencephalogram of a person who is awake but
 w: alternating_current ant direct_current
 w: AC
 w: alternating_electric_current
-hyper: electricity1
+hyper: electricity
 g: an electric current that reverses direction sinusoidally; "In the US most household current is AC at 60 cycles per second"
 
 w: alternation_of_generations
@@ -138,12 +138,12 @@ g: the strength of an electrical current measured in amperes
 
 w: angular_acceleration
 hyper: noun.time:acceleration
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the rate of change of the angular velocity of a rotating body
 
 w: angular_velocity
 hyper: noun.time:speed
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the rate of change of the angular position of a rotating body; usually expressed in radians per second or radians per minute
 
 w: annual_ring
@@ -208,7 +208,7 @@ g: nuclear energy regarded as a source of electricity for the power grid (for ci
 
 w: atomic_spectrum
 hyper: spectrum
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a spectrum of radiation caused by electron transitions within an atom; the series of spectrum lines is characteristic of the element
 
 w: attraction drf verb.contact:attract1 ant repulsion
@@ -217,12 +217,12 @@ hyper: force
 g: the force by which one object attracts another
 
 w: aureole
-w: corona
+w: corona2
 hyper: radiance
 hp: noun.object:nimbus
 g: the outermost region of the sun's atmosphere; visible as a white halo during a solar eclipse
 
-w: aurora drf adj.pert:auroral2
+w: aurora drf adj.pert:auroral
 hyper: atmospheric_phenomenon
 g: an atmospheric phenomenon consisting of bands of light caused by charged solar particles following the earth's magnetic lines of force
 
@@ -241,9 +241,9 @@ hyper: fluorescence
 g: self-induced fluorescence
 
 w: bad_luck
-w: mischance1
-w: mishap1
-hyper: luck
+w: mischance
+w: mishap
+hyper: luck1
 g: an unpredictable outcome that is unfortunate; "if I didn't have bad luck I wouldn't have any luck at all"
 
 w: ballistics drf adj.pert:ballistic
@@ -259,19 +259,19 @@ w: barometric_pressure
 hyper: atmospheric_pressure
 g: atmospheric pressure as indicated by a barometer
 
-w: beam drf adjs.all:beamy drf verb.weather:beam3
+w: beam1 drf adjs.all:beamy1 drf verb.weather:beam
 w: beam_of_light
 w: light_beam
-w: ray drf verb.weather:ray
+w: ray1 drf verb.weather:ray
 w: ray_of_light
 w: shaft
 w: shaft_of_light
-w: irradiation drf verb.change:irradiate1
+w: irradiation drf verb.change:irradiate
 hyper: light
 g: a column of light (as from a beacon)
 
-w: beam1
-w: ray1 drf verb.change:ray1
+w: beam
+w: ray drf verb.change:ray
 w: electron_beam
 hyper: electromagnetic_radiation
 g: a group of nearly parallel lines of electromagnetic radiation
@@ -330,7 +330,7 @@ hyper: pressure
 hp: circulation
 g: the pressure of the circulating blood against the walls of the blood vessels; results from the systole of the left ventricle of the heart; sometimes measured for a quick evaluation of a person's health; "adult blood pressure is considered normal at 120/80 where the first number is the systolic pressure and the second is the diastolic pressure"
 
-w: bluster drf adjs.all:blustery drf adjs.all:blusterous drf verb.weather:bluster
+w: bluster drf adjs.all:blustery1 drf adjs.all:blusterous drf verb.weather:bluster
 hyper: gust
 g: a violent gusty wind
 
@@ -363,7 +363,7 @@ w: breath
 hyper: breeze
 g: a slight movement of the air; "there wasn't a breath of air in the room"
 
-w: breeze drf adjs.all:breezy drf verb.weather:breeze
+w: breeze drf adjs.all:breezy1 drf verb.weather:breeze
 w: zephyr
 w: gentle_wind
 w: air drf adjs.all:airy
@@ -416,7 +416,7 @@ hyper: surface_tension
 g: a phenomenon associated with surface tension and resulting in the elevation or depression of liquids in capillaries
 
 w: carrier_wave
-w: carrier drf verb.motion:carry3
+w: carrier drf verb.motion:carry
 hyper: radio_wave
 g: a radio wave that can be modulated in order to transmit a signal
 
@@ -426,7 +426,7 @@ hyper: geological_phenomenon
 g: a sudden violent change in the earth's surface
 
 w: cathode_ray
-hyper: beam1
+hyper: beam
 g: a beam of electrons emitted by the cathode of an electrical discharge tube
 
 w: centrifugal_force ant centripetal_force
@@ -437,7 +437,7 @@ w: centripetal_force ant centrifugal_force
 hyper: force
 g: the inward force on a body moving in a curved path around another body
 
-w: change drf verb.change:change2 drf verb.change:change1 drf verb.change:change
+w: change drf verb.change:change6 drf verb.change:change5 drf verb.change:change7
 hyper: consequence
 g: the result of alteration or modification; "there were marked changes in the lining of the lungs"; "there had been no change in the mountains"
 
@@ -445,13 +445,13 @@ w: chaos
 hyper: physical_phenomenon
 g: the formless and disordered state of matter before the creation of the cosmos
 
-w: charge drf verb.change:charge3 drf verb.change:charge
+w: charge drf verb.change:charge drf verb.change:charge1
 w: electric_charge
 hyper: electrical_phenomenon
 g: the quantity of unbalanced electricity in a body (either positive or negative) and construed as an excess or deficiency of electrons; "the battery needed a fresh charge"
 
 w: chatter_mark
-hyper: noun.process:erosion
+hyper: noun.process:erosion1
 g: marks on a glaciated rock caused by the movement of a glacier
 
 w: chemical_bond
@@ -478,7 +478,7 @@ w: snow_eater
 hyper: wind
 g: a warm dry wind blowing down the eastern slopes of the Rockies
 
-w: chop drf adjs.all:choppy
+w: chop drf adjs.all:choppy1
 hyper: physical_phenomenon
 g: the irregular motion of waves (usually caused by wind blowing in a direction opposite to the tide); "the boat headed into the chop"
 
@@ -486,22 +486,22 @@ w: chromatic_aberration
 hyper: aberration
 g: an optical aberration in which the image has colored fringes
 
-w: circulation drf verb.motion:circulate4 drf verb.motion:circulate1 drf verb.change:circulate
+w: circulation drf verb.motion:circulate2 drf verb.motion:circulate3 drf verb.change:circulate
 hyper: organic_phenomenon
 g: movement through a circuit; especially the movement of blood through the heart and blood vessels
 
-w: cloud1
+w: cloud
 hyper: physical_phenomenon
 g: any collection of particles (e.g., smoke or dust) or gases that is visible
 
 w: coattails_effect
 hyper: consequence
-dt: noun.cognition:politics
+dt: noun.cognition:politics1
 g: (politics) the consequence of one popular candidate in an election drawing votes for other members of the same political party; "he counted on the coattails effect to win him the election"
 
 w: cohesion
 hyper: force
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the intermolecular force that holds together the molecules in a solid or liquid
 
 w: cold_front
@@ -521,8 +521,8 @@ w: compartment_pressure
 hyper: atmospheric_pressure
 g: the air pressure maintained in an air-tight compartment (as in an aircraft)
 
-w: condensation drf verb.change:condense3
-w: condensate drf verb.change:condense3 drf verb.change:condense1
+w: condensation drf verb.change:condense1
+w: condensate drf verb.change:condense1 drf verb.change:condense5
 hyper: atmospheric_phenomenon
 g: atmospheric moisture that has condensed because of cold
 
@@ -536,9 +536,9 @@ hyper: physical_phenomenon
 g: the transmission of heat or electricity or sound
 
 w: consequence drf adjs.all:consequent
-w: effect drf verb.social:effect15 drf verb.creation:effectuate
+w: effect drf verb.social:effect drf verb.creation:effectuate
 w: outcome
-w: result drf verb.stative:result2 drf verb.stative:result
+w: result drf verb.stative:result drf verb.stative:result1
 w: event1 drf verb.stative:eventuate
 w: issue
 w: upshot
@@ -556,20 +556,20 @@ g: a covalent bond in which both electrons are provided by one of the atoms
 
 w: Coriolis_effect
 hyper: consequence
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) an effect whereby a body moving in a rotating frame of reference experiences the Coriolis force acting perpendicular to the direction of motion and to the axis of rotation; on Earth the Coriolis effect deflects moving bodies to the right in the northern hemisphere and to the left in the southern hemisphere
 
 w: Coriolis_force
 hyper: force
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a force due to the earth's rotation; acts on a body in motion (airplane or projectile) in a rotating reference frame; in a rotating frame of reference Newton's second law of motion can be made to apply if in addition to the real forces acting on a body a Coriolis force and a centrifugal force are introduced
 
-w: corona2
+w: corona1
 hyper: light
 g: one or more circles of light seen around a luminous object
 
 w: corona_discharge
-w: corona1
+w: corona
 w: corposant
 w: St._Elmo's_fire
 w: Saint_Elmo's_fire
@@ -592,11 +592,11 @@ w: CMBR
 w: cosmic_microwave_background
 w: CMB
 hyper: cosmic_radiation
-dt: noun.cognition:cosmology
+dt: noun.cognition:cosmology1
 g: (cosmology) the cooled remnant of the hot big bang that fills the entire universe and can be observed today with an average temperature of about 2.725 kelvin
 
 w: cosmic_dust
-hyper: cloud1
+hyper: cloud
 hs: noun.group:galaxy
 g: clouds of particles or gases occurring throughout interstellar space
 
@@ -627,18 +627,18 @@ w: crosswind
 hyper: wind
 g: wind blowing across the path of a ship or aircraft
 
-w: crystallization drf verb.change:crystallize1 drf verb.change:crystallize
-w: crystallisation drf verb.change:crystallise1
-w: crystallizing drf verb.change:crystallize1 drf verb.change:crystallize
+w: crystallization drf verb.change:crystallize drf verb.change:crystallize1
+w: crystallisation drf verb.change:crystallise
+w: crystallizing drf verb.change:crystallize drf verb.change:crystallize1
 hyper: chemical_phenomenon
 g: the formation of crystals
 
-w: current1
+w: current
 w: electric_current
 hyper: electrical_phenomenon
 g: a flow of electricity through a conductor; "the current was measured in amperes"
 
-w: cyclone drf adj.pert:cyclonic1 drf adj.pert:cyclonic drf adj.pert:cyclonal drf adj.pert:cyclonical
+w: cyclone drf adj.pert:cyclonic drf adj.pert:cyclonic1 drf adj.pert:cyclonal1 drf adj.pert:cyclonical1
 hyper: windstorm
 g: a violent rotating windstorm
 
@@ -651,7 +651,7 @@ w: daylight
 hyper: light
 g: light during the daytime
 
-w: death drf verb.change:die drf verb.perception:die
+w: death drf verb.change:die2 drf verb.perception:die
 hyper: organic_phenomenon
 g: the permanent end of all life functions in an organism or part of an organism; "the animal died a painful death"
 
@@ -663,7 +663,7 @@ w: decalescence drf adjs.all:decalescent
 hyper: physical_phenomenon
 g: phenomenon that occurs when a metal is being heated and there is a sudden slowing in the rate of temperature increase; slowing is caused by a change in the internal crystal structure of the metal
 
-w: decay drf verb.change:decay2 drf verb.change:decay
+w: decay drf verb.change:decay drf verb.change:decay2
 w: decomposition drf adjs.all:decompositional drf verb.change:decompose1
 hyper: organic_phenomenon
 g: the organic phenomenon of rotting
@@ -690,7 +690,7 @@ hyper: change
 g: a loss of polarity or polarization
 
 w: deposit
-w: sedimentation drf verb.motion:sediment1
+w: sedimentation drf verb.motion:sediment
 w: alluviation
 hyper: geological_phenomenon
 g: the phenomenon of sediment or gravel accumulating
@@ -725,13 +725,13 @@ w: diffraction drf verb.motion:diffract
 hyper: optical_phenomenon
 g: when light passes sharp edges or goes through narrow slits the rays are deflected and produce fringes of light and dark bands
 
-w: dimorphism1
+w: dimorphism
 hyper: polymorphism1
 dt: noun.cognition:chemistry
 g: (chemistry) the property of certain substances that enables them to exist in two distinct crystalline forms
 
-w: dimorphism
-hyper: polymorphism
+w: dimorphism1
+hyper: polymorphism2
 dt: noun.cognition:biology
 g: (biology) the existence of two forms of individual within the same animal species (independent of sex differences)
 
@@ -742,7 +742,7 @@ g: the moment of a dipole
 w: direct_current ant alternating_current
 w: DC
 w: direct_electric_current
-hyper: electricity1
+hyper: electricity
 g: an electric current that flows in one direction steadily
 
 w: discharge
@@ -753,7 +753,7 @@ w: electric_discharge
 hyper: electrical_conduction
 g: electrical conduction through a gas in an applied electric field
 
-w: distortion1 drf verb.communication:distort
+w: distortion drf verb.communication:distort1
 hyper: electrical_phenomenon
 hyper: acoustic_phenomenon
 g: a change (usually undesired) in the waveform of an acoustic or analog electrical signal; the difference between two measurements of a signal (as between the input and output signal); "heavy metal guitar players use vacuum tube amplifiers to produce extreme distortion"
@@ -762,7 +762,7 @@ w: doldrums
 hyper: wind
 g: a belt of calms and light winds between the northern and southern trade winds of the Atlantic and Pacific
 
-w: dominance drf adj.all:dominant2
+w: dominance drf adj.all:dominant
 hyper: organic_phenomenon
 dt: noun.cognition:genetics
 g: the organic phenomenon in which one of a pair of alleles present in a genotype is expressed in the phenotype and the other allele of the pair is not
@@ -794,9 +794,9 @@ w: downpour
 w: cloudburst
 w: deluge drf verb.change:deluge drf verb.contact:deluge
 w: waterspout1
-w: torrent1 drf adjs.all:torrential
+w: torrent drf adjs.all:torrential1
 w: pelter drf verb.weather:pelt
-w: soaker drf verb.change:soak1
+w: soaker drf verb.change:soak2
 hyper: rain
 g: a heavy rain
 
@@ -807,10 +807,10 @@ g: a current of air (usually coming into a chimney or room or vehicle)
 
 w: drag
 w: retarding_force
-hyper: resistance
+hyper: resistance1
 g: the phenomenon of resistance to motion through a fluid
 
-w: drift drf verb.motion:drift6 drf verb.motion:drift2
+w: drift drf verb.motion:drift4 drf verb.motion:drift2
 w: impetus
 w: impulsion drf verb.creation:impel
 hyper: force
@@ -822,7 +822,7 @@ hyper: rain
 g: very light rain; stronger than mist but less than a shower
 
 w: dust_cloud
-hyper: cloud1
+hyper: cloud
 g: a cloud of dust suspended in the air
 
 w: dust_devil
@@ -838,7 +838,7 @@ g: a windstorm that lifts up clouds of dust or sand; "it was the kind of duster 
 
 w: dynamic_electricity
 w: current_electricity
-hyper: electricity
+hyper: electricity1
 g: a flow of electric charge
 
 w: east_wind
@@ -890,7 +890,7 @@ g: the difference in electrical charge between two points in a circuit expressed
 w: electric_resistance
 w: electrical_resistance
 w: impedance
-w: resistance1
+w: resistance
 w: resistivity drf adj.pert:resistive
 w: ohmic_resistance
 hyper: electrical_phenomenon
@@ -918,11 +918,11 @@ w: wattage
 hyper: power
 g: the product of voltage and current
 
-w: electricity drf adj.pert:electric drf verb.change:electrify1 drf verb.change:electrify
+w: electricity1 drf adj.pert:electric drf verb.change:electrify drf verb.change:electrify1
 hyper: physical_phenomenon
 g: a physical phenomenon associated with stationary or moving electrons and protons
 
-w: electricity1 drf adj.pert:electric drf verb.change:electrify1 drf verb.change:electrify
+w: electricity drf adj.pert:electric drf verb.change:electrify drf verb.change:electrify1
 w: electrical_energy
 hyper: energy
 g: energy made available by the flow of electric charge through a conductor; "they built a car that runs on electricity"
@@ -981,7 +981,7 @@ g: a definite stable energy that a physical system can have; used especially of 
 w: energy drf verb.change:energize drf verb.body:energize
 w: free_energy
 hyper: physical_phenomenon
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a thermodynamic quantity equivalent to the capacity of a physical system to do work; the units of energy are joules or ergs; "energy can take a wide variety of forms"
 
 w: engine
@@ -1009,26 +1009,26 @@ w: exchange
 hyper: chemical_phenomenon
 g: chemical process in which one atom or ion or group changes places with another
 
-w: exfoliation drf verb.contact:exfoliate3 drf verb.contact:exfoliate1 drf verb.contact:exfoliate
+w: exfoliation drf verb.contact:exfoliate3 drf verb.contact:exfoliate2 drf verb.contact:exfoliate1
 hyper: organic_phenomenon
 g: the peeling off in flakes or scales of bark or dead skin; "exfoliation is increased by sunburn"
 
-w: facilitation drf verb.creation:facilitate3
+w: facilitation drf verb.creation:facilitate
 hyper: organic_phenomenon
 dt: noun.cognition:neurophysiology
 g: (neurophysiology) phenomenon that occurs when two or more neural impulses that alone are not enough to trigger a response in a neuron combine to trigger an action potential
 
-w: facula1
-hyper: noun.attribute:spot1
+w: facula
+hyper: noun.attribute:spot2
 g: a bright spot on a planet
 
-w: facula
-hyper: noun.attribute:spot1
+w: facula1
+hyper: noun.attribute:spot2
 g: a large bright spot on the sun's photosphere occurring most frequently in the vicinity of sunspots
 
 w: fair_weather
 w: sunshine1
-w: temperateness drf adj.all:temperate1
+w: temperateness drf adj.all:temperate
 hyper: weather
 g: moderate weather; suitable for outdoor activities
 
@@ -1084,19 +1084,19 @@ w: floodhead
 hyper: flash_flood
 g: a wall of water rushing ahead of the flood; "we were lucky to be safe when the floodheads hit"
 
-w: flood drf verb.change:flood1 drf verb.change:flood drf verb.contact:flood
+w: flood drf verb.change:flood drf verb.change:flood1 drf verb.contact:flood
 w: inundation drf verb.contact:inundate drf verb.change:inundate
 w: deluge1 drf verb.change:deluge
 w: alluvion
 hyper: geological_phenomenon
 g: the rising of a body of water and its overflowing onto normally dry land; "plains fertilized by annual inundations"
 
-w: flotation drf verb.motion:float2 drf verb.motion:float1 drf verb.contact:float4
-w: floatation drf verb.motion:float2 drf verb.motion:float1 drf verb.contact:float4
+w: flotation drf verb.motion:float2 drf verb.motion:float drf verb.contact:float
+w: floatation drf verb.motion:float2 drf verb.motion:float drf verb.contact:float
 hyper: physical_phenomenon
 g: the phenomenon of floating (remaining on the surface of a liquid without sinking)
 
-w: fluorescence drf adjs.all:fluorescent drf verb.perception:fluoresce
+w: fluorescence drf adjs.all:fluorescent1 drf verb.perception:fluoresce
 hyper: light
 g: light emitted during absorption of radiation of some other (invisible) wavelength
 
@@ -1110,7 +1110,7 @@ w: focal_point
 hyper: noun.location:point
 g: a point of convergence of light (or other radiation) or a point from which it diverges
 
-w: fog drf adjs.all:foggy
+w: fog drf adjs.all:foggy2
 hyper: aerosol
 g: droplets of water vapor suspended in the air near the ground
 
@@ -1140,9 +1140,9 @@ hyper: organic_phenomenon
 dt: noun.cognition:ecology
 g: (ecology) a community of organisms where there are several interrelated food chains
 
-w: force drf verb.contact:force1 drf verb.contact:force5 drf verb.motion:force
+w: force drf verb.contact:force3 drf verb.contact:force4 drf verb.motion:force
 hyper: physical_phenomenon
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the influence that produces a change in a physical quantity; "force equals mass times acceleration"
 
 w: forked_lightning
@@ -1150,8 +1150,8 @@ w: chain_lightning
 hyper: lightning
 g: a form of lightning that moves rapidly in a zigzag path with one end divided (fork-like)
 
-w: freeze drf verb.weather:freeze10 drf verb.body:freeze
-w: frost drf adjs.all:frosty1 drf verb.change:frost
+w: freeze drf verb.weather:freeze drf verb.body:freeze
+w: frost drf adjs.all:frosty2 drf verb.change:frost
 hyper: cold_weather
 g: weather cold enough to cause freezing
 
@@ -1173,8 +1173,8 @@ hyper: light
 g: a pale light sometimes seen at night over marshy ground
 
 w: friction drf adj.pert:frictional
-w: rubbing drf verb.contact:rub1
-hyper: resistance
+w: rubbing drf verb.contact:rub
+hyper: resistance1
 g: the resistance encountered when one body is moved in contact with another
 
 w: fringe
@@ -1182,7 +1182,7 @@ w: interference_fringe
 hyper: optical_phenomenon
 g: one of the light or dark bands produced by the interference and diffraction of light
 
-w: front drf adj.pert:frontal2
+w: front drf adj.pert:frontal
 hyper: atmospheric_phenomenon
 dt: noun.cognition:meteorology
 g: (meteorology) the atmospheric phenomenon created at the boundary between two different air masses
@@ -1197,7 +1197,7 @@ hyper: wind
 g: a strong wind moving 45-90 knots; force 7 to 10 on Beaufort scale
 
 w: galvanism drf adj.pert:galvanic
-hyper: electricity
+hyper: electricity1
 g: electricity produced by chemical action
 
 w: gamma_radiation
@@ -1237,14 +1237,14 @@ w: geothermal_energy
 hyper: heat
 g: energy derived from the heat in the interior of the earth
 
-w: glow2
+w: glow1
 hyper: light
 g: a steady even light without flames
 
 w: good_luck
 w: fluke drf adjs.all:fluky drf adjs.all:flukey
 w: good_fortune
-hyper: luck1
+hyper: luck
 g: a stroke of luck
 
 w: gravitational_field
@@ -1265,7 +1265,7 @@ w: gravitation drf adj.pert:gravitational drf verb.motion:gravitate
 w: gravitational_attraction
 w: gravitational_force
 hyper: attraction
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the force of attraction between all masses in the universe; especially the attraction of the earth's mass for bodies near its surface; "the more remote the body the less the gravity"; "the gravitation between two bodies is proportional to the product of their masses and inversely proportional to the square of the distance between them"; "gravitation cannot be held responsible for people falling in love"--Albert Einstein
 
 w: greenhouse_effect
@@ -1284,7 +1284,7 @@ w: grip
 w: traction
 w: adhesive_friction
 hyper: friction
-dt: noun.artifact:car
+dt: noun.artifact:car3
 g: the friction between a body and the surface on which it moves (as between an automobile tire and the road)
 
 w: ground_effect
@@ -1305,7 +1305,7 @@ g: smoke created by the firing of guns
 
 w: gust drf adjs.all:gusty
 w: blast
-w: blow drf adjs.all:blowy drf verb.weather:blow drf verb.motion:blow3 drf verb.motion:blow
+w: blow drf adjs.all:blowy drf verb.weather:blow drf verb.motion:blow1 drf verb.motion:blow3
 hyper: wind
 g: a strong current of air; "the tree was bent almost double by the gust"
 
@@ -1333,7 +1333,7 @@ w: harvest
 hyper: consequence
 g: the consequence of an effort or activity; "they gathered a harvest of examples"; "a harvest of love"
 
-w: haze drf adjs.all:hazy drf verb.weather:haze
+w: haze drf adjs.all:hazy1 drf verb.weather:haze
 hyper: aerosol
 g: atmospheric moisture or dust or smoke that causes reduced visibility
 
@@ -1383,7 +1383,7 @@ hyper: latent_heat
 g: heat absorbed by a unit mass of a material at its boiling point in order to convert the material into a gas at the same temperature
 
 w: heat_ray
-hyper: beam
+hyper: beam1
 g: a ray that produces a thermal effect
 
 w: heat_wave
@@ -1405,7 +1405,7 @@ hyper: electromagnetic_radiation
 g: an electromagnetic wave generated by oscillations in an electric circuit
 
 w: high_beam
-hyper: beam
+hyper: beam1
 g: the beam of a car's headlights that provides distant illumination
 
 w: high_wind
@@ -1430,7 +1430,7 @@ hp: noun.relation:Beaufort_scale
 g: a severe tropical cyclone usually with heavy rains and winds moving a 73-136 knots (12 on the Beaufort scale)
 
 w: hydroelectricity drf adj.pert:hydroelectric
-hyper: electricity
+hyper: electricity1
 g: electricity produced by water power
 
 w: hydrogen_bond
@@ -1471,7 +1471,7 @@ w: wallop
 hyper: consequence
 g: a forceful consequence; a strong effect; "the book had an important impact on my thinking"; "the book packs a wallop"
 
-w: incandescence drf adjs.all:incandescent drf verb.change:incandesce1 drf verb.change:incandesce
+w: incandescence drf adjs.all:incandescent1 drf verb.change:incandesce drf verb.change:incandesce1
 w: glow drf verb.weather:glow
 hyper: light
 g: the phenomenon of light emission by a body as its temperature is raised
@@ -1480,14 +1480,14 @@ w: incidence drf adj.pert:incident
 hyper: optical_phenomenon
 g: the striking of a light beam on a surface; "he measured the angle of incidence of the reflected light"
 
-w: induction drf verb.creation:induce3 drf verb.creation:induct
+w: induction drf verb.creation:induce drf verb.creation:induct
 w: inductance
 hyper: electrical_phenomenon
 g: an electrical phenomenon whereby an electromotive force (EMF) is generated in a closed circuit by a change in the flow of current
 
 w: inertia
 hyper: mechanical_phenomenon
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the tendency of a body to maintain its state of rest or uniform motion unless acted upon by an external force
 
 w: influence drf adj.all:influential drf verb.communication:influence drf verb.cognition:influence drf verb.social:influence
@@ -1517,7 +1517,7 @@ g: incident solar radiation
 w: interaction
 w: fundamental_interaction
 hyper: physical_phenomenon
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the transfer of energy between elementary particles or between an elementary particle and a field or between fields; mediated by gauge bosons
 
 w: interfacial_tension
@@ -1582,8 +1582,8 @@ hyper: atmospheric_electricity
 g: atmospheric discharges (lasting 10 msec) bursting from the tops of giant storm clouds in blue cones that widen as they flash upward
 
 w: juice
-hyper: current1
-du: noun.communication:slang
+hyper: current
+du: noun.communication:slang1
 g: electric current; "when the wiring was finished they turned on the juice"
 
 w: katabatic_wind
@@ -1614,7 +1614,7 @@ hyper: light
 g: light from a lamp
 
 w: laser_beam
-hyper: beam
+hyper: beam1
 g: a beam of light generated by a laser
 
 w: latent_heat
@@ -1631,7 +1631,7 @@ w: purchase
 hyper: mechanical_phenomenon
 g: the mechanical advantage gained by being in a position to use a lever
 
-w: levitation drf verb.motion:levitate1 drf verb.motion:levitate
+w: levitation drf verb.motion:levitate drf verb.motion:levitate1
 hyper: noun.Tops:phenomenon
 g: the phenomenon of a person or thing rising into the air by apparently supernatural means
 
@@ -1645,7 +1645,7 @@ g: a series of stages through which an organism passes between recurrences of a 
 
 w: life_force
 w: vital_force
-w: vitality drf adjs.all:vital
+w: vitality drf adjs.all:vital1
 w: elan_vital
 hyper: force
 dt: noun.cognition:biology
@@ -1670,7 +1670,7 @@ w: visible_light
 w: visible_radiation
 hyper: actinic_radiation
 hp: electromagnetic_spectrum
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) electromagnetic radiation that can produce a visual sensation; "the light was filtered through a soft glass window"
 
 w: line
@@ -1680,7 +1680,7 @@ g: a single frequency (or very narrow band) of radiation in a spectrum
 
 w: line_of_force
 w: field_line
-hyper: noun.location:line
+hyper: noun.location:line2
 g: an imaginary line in a field of force; direction of the line at any point is the direction of the force at that point
 
 w: line_spectrum
@@ -1696,12 +1696,12 @@ w: equinoctial_storm
 hyper: rainstorm
 g: a violent rainstorm near the time of an equinox
 
-w: load1
+w: load
 hyper: electrical_power
 g: the power output of a generator or power plant
 
 w: lode
-w: load
+w: load1
 hyper: deposit
 g: a deposit of valuable ore occurring within definite boundaries separating it from surrounding rocks
 
@@ -1714,17 +1714,17 @@ hyper: force
 g: the force experienced by a point charge moving along a wire that is in a magnetic field; the force is at right angles to both the current and the magnetic field; "the Lorentz force can be used to suspend a current-carrying object between two magnets"
 
 w: low_beam
-hyper: beam
+hyper: beam1
 g: the beam of a car's headlights that provides illumination for a short distance
 
-w: luck1 drf adjs.all:lucky drf adj.all:lucky
-w: fortune1
+w: luck drf adjs.all:lucky drf adj.all:lucky
+w: fortune
 hyper: noun.Tops:phenomenon
 g: an unknown and unpredictable phenomenon that leads to a favorable outcome; "it was my good luck to be there"; "they say luck is a lady"; "it was as if fortune guided his hand"
 
-w: luck
-w: fortune
-w: chance drf verb.social:chance1
+w: luck1
+w: fortune1
+w: chance drf verb.social:chance
 w: hazard drf verb.communication:hazard
 hyper: noun.Tops:phenomenon
 g: an unknown and unpredictable phenomenon that causes an event to result one way rather than another; "bad luck caused his downfall"; "we ran into each other by pure chance"
@@ -1739,7 +1739,7 @@ g: the energy associated with visible light
 
 w: magnetic_dipole_moment
 hyper: dipole_moment
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a current loop gives rise to a magnetic field characteristic of a magnetic dipole; "An orbiting electron in an atom will have a magnetic dipole moment"
 
 w: magnetic_field
@@ -1758,14 +1758,14 @@ hyper: torsion
 g: the torque exerted on a magnet or dipole when it is placed in a magnetic field
 
 w: magnetic_resonance
-hyper: resonance1
+hyper: resonance
 g: resonance of electrons or atoms or molecules or nuclei to radiation frequencies as a result of space quantization in a magnetic field
 
 w: magnetism
 w: magnetic_attraction
 w: magnetic_force
 hyper: attraction
-attr: adj.all:attractive2
+attr: adj.all:attractive
 g: attraction for iron; associated with electric currents as well as magnets; characterized by fields of force
 
 w: magnetomotive_force
@@ -1778,7 +1778,7 @@ g: the magnetic field of a planet; the volume around the planet in which charged
 
 w: mass_defect
 w: mass_deficiency
-hyper: noun.attribute:mass
+hyper: noun.attribute:mass1
 g: the amount by which the mass of an atomic nucleus is less than the sum of the masses of its constituent particles
 
 w: mass_spectrum
@@ -1841,7 +1841,7 @@ w: mirage
 hyper: optical_illusion
 g: an optical illusion in which atmospheric refraction by a layer of hot air distorts or inverts reflections of distant objects
 
-w: mist drf adjs.all:misty drf adjs.all:misty drf verb.contact:mist drf verb.change:mist
+w: mist drf adjs.all:misty drf adjs.all:misty1 drf verb.contact:mist drf verb.change:mist
 hyper: fog
 g: a thin fog with condensation near the ground
 
@@ -1874,25 +1874,25 @@ hyper: inertia
 hyper: moment
 g: the tendency of a body to resist angular acceleration
 
-w: monsoon1
+w: monsoon
 hyper: wind
 hyper: rain
 g: any wind that changes direction with the seasons
 
-w: monsoon
+w: monsoon1
 hyper: wind
 g: a seasonal wind in southern Asia; blows from the southwest (bringing rain) in summer and from the northeast in winter
 
 w: moonbeam
 w: moon_ray
 w: moon-ray
-hyper: beam
+hyper: beam1
 hp: moonlight
 g: a ray of moonlight
 
 w: moonlight
 w: moonshine
-w: Moon drf adj.all:moony2
+w: Moon drf adj.all:moony
 hyper: light
 g: the light of the Moon; "moonlight is the smuggler's enemy"; "the Moon was bright enough to read by"
 
@@ -1904,7 +1904,7 @@ g: the main vein of ore in a deposit
 w: mushroom
 w: mushroom_cloud
 w: mushroom-shaped_cloud
-hyper: cloud1
+hyper: cloud
 g: a large cloud of rubble and dust shaped like a mushroom and rising into the sky after an explosion (especially of a nuclear bomb)
 
 w: mutual_induction
@@ -1951,7 +1951,7 @@ g: (Biblical) the great deluge that is said in the Book of Genesis to have occur
 
 w: nonlinear_distortion
 w: amplitude_distortion
-hyper: distortion1
+hyper: distortion
 g: distortion that occurs when the output signal does not have a linear relation to the input signal
 
 w: North_Equatorial_Current
@@ -1961,17 +1961,17 @@ g: an equatorial current that flows west across the Pacific just north of the eq
 w: north_wind
 w: northerly
 w: norther drf adjs.all:northerly1
-w: boreas drf adj.pert:boreal1
+w: boreas drf adj.pert:boreal
 hyper: wind
 g: a wind that blows from the north
 
-w: northeaster drf adjs.all:northeasterly2
+w: northeaster drf adjs.all:northeasterly
 w: noreaster
 hyper: storm
 g: a storm blowing from the northeast
 
 w: northwest_wind
-w: northwester drf adjs.all:northwesterly2
+w: northwester drf adjs.all:northwesterly
 hyper: wind
 g: a wind from the northwest
 
@@ -1986,7 +1986,7 @@ hyper: propulsion
 g: the use of a nuclear reactor either to produce electricity to power an engine (as in a nuclear submarine) or to directly heat a propellant (as in nuclear rockets)
 
 w: nuclear_resonance
-hyper: resonance1
+hyper: resonance
 g: the resonance absorption of a gamma ray by a nucleus identical to the nucleus that emitted the gamma ray
 
 w: nuclear_winter
@@ -2063,11 +2063,11 @@ g: materials like aluminum or platinum become magnetized in a magnetic field but
 w: parhelion drf adj.pert:parhelic
 w: mock_sun
 w: sundog
-hyper: noun.attribute:spot1
+hyper: noun.attribute:spot2
 g: a bright spot on the parhelic circle; caused by diffraction by ice crystals; "two or more parhelia are usually seen at once"
 
 w: particle_beam
-hyper: beam1
+hyper: beam
 g: a collimated flow of particles (atoms or electrons or molecules)
 
 w: pea_soup
@@ -2080,9 +2080,9 @@ w: peptide_linkage
 hyper: chemical_bond
 g: the primary linkage of all protein structures; the chemical bond between the carboxyl groups and amino groups that unites a peptide
 
-w: perturbation drf verb.motion:perturb1 drf verb.motion:perturb
+w: perturbation drf verb.motion:perturb drf verb.motion:perturb1
 hyper: influence
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a secondary influence on a system that causes it to deviate slightly
 
 w: Peruvian_current
@@ -2104,7 +2104,7 @@ hyper: electrical_conduction
 g: change in the electrical conductivity of a substance as a result of absorbing electromagnetic radiation
 
 w: photoelectricity
-hyper: electricity
+hyper: electricity1
 g: electricity generated by light or affected by light
 
 w: photoemission
@@ -2118,7 +2118,7 @@ g: a natural phenomenon involving the physical properties of matter and energy
 w: piezoelectricity drf adj.pert:piezoelectric
 w: piezoelectric_effect
 w: piezo_effect
-hyper: electricity
+hyper: electricity1
 g: electricity produced by mechanical pressure on certain crystals (notably quartz or Rochelle salt); alternatively, electrostatic stress produces a change in the linear dimensions of the crystal
 
 w: placebo_effect
@@ -2129,28 +2129,28 @@ w: pleochroism
 hyper: optical_phenomenon
 g: the phenomenon of different colors appearing when certain crystals are viewed from different directions
 
-w: pleomorphism drf adj.pert:pleomorphic
+w: pleomorphism1 drf adj.pert:pleomorphic
 hyper: organic_phenomenon
 dt: noun.cognition:biology
 g: (biology) the appearance of two or more distinctly different forms in the life cycle of some organisms
 
-w: polarization drf verb.change:polarize1 drf verb.change:polarize
-w: polarisation drf verb.change:polarise2
+w: polarization drf verb.change:polarize1 drf verb.change:polarize2
+w: polarisation drf verb.change:polarise
 hyper: optical_phenomenon
 g: the phenomenon in which waves of light or other radiation are restricted in direction of vibration
 
-w: polymorphism2
+w: polymorphism
 hyper: organic_phenomenon
 dt: noun.cognition:genetics
 g: (genetics) the genetic variation within a population that natural selection can operate on
 
-w: polymorphism drf adj.pert:polymorphic drf adj.pert:polymorphous
+w: polymorphism2 drf adj.pert:polymorphic1 drf adj.pert:polymorphous1
 hyper: organic_phenomenon
 dt: noun.cognition:biology
 g: (biology) the existence of two or more forms of individuals within the same animal species (independent of sex differences)
 
-w: polymorphism1 drf adj.pert:polymorphic1 drf adj.pert:polymorphous1
-w: pleomorphism1 drf adj.pert:pleomorphic
+w: polymorphism1 drf adj.pert:polymorphic drf adj.pert:polymorphous
+w: pleomorphism drf adj.pert:pleomorphic
 hyper: chemical_phenomenon
 dt: noun.cognition:chemistry
 g: (chemistry) the existence of different kinds of crystal of the same chemical compound
@@ -2171,7 +2171,7 @@ g: the mechanical energy that a body has by virtue of its position; stored energ
 
 w: power drf verb.consumption:power
 hyper: physical_phenomenon
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the rate of doing work; measured in watts (= joules/second)
 
 w: precipitation drf verb.weather:precipitate
@@ -2179,14 +2179,14 @@ w: downfall
 hyper: weather
 g: the falling to earth of any form of water (rain or snow or hail or sleet or mist)
 
-w: pressure drf verb.contact:press drf verb.change:pressurize2 drf verb.change:pressurize1 drf verb.change:pressurize drf verb.change:pressurise2 drf verb.change:pressurise1 drf verb.change:pressurise
+w: pressure drf verb.contact:press1 drf verb.change:pressurize drf verb.change:pressurize1 drf verb.change:pressurize2 drf verb.change:pressurise drf verb.change:pressurise1 drf verb.change:pressurise2
 w: pressure_level
 w: force_per_unit_area
 hyper: physical_phenomenon
 g: the force applied to a unit area of surface; measured in pascals (SI unit) or in dynes (cgs unit); "the compressed gas exerts an increased pressure"
 
 w: prevailing_westerly
-w: westerly drf adjs.all:westerly1
+w: westerly drf adjs.all:westerly
 hyper: west_wind
 g: the winds from the west that occur in the temperate zones of the Earth
 
@@ -2194,7 +2194,7 @@ w: prevailing_wind
 hyper: wind
 g: the predominant wind direction; "the prevailing wind is from the southwest"
 
-w: product drf verb.creation:produce3
+w: product drf verb.creation:produce
 hyper: consequence
 g: a consequence of someone's efforts or of a particular set of circumstances; "skill is the product of hours of practice"; "his reaction was the product of hunger and fatigue"
 
@@ -2204,7 +2204,7 @@ w: sound_projection
 hyper: acoustic_phenomenon
 g: the acoustic phenomenon that gives sound a penetrating quality; "our ukuleles have been designed to have superior sound and projection"; "a prime ingredient of public speaking is projection of the voice"
 
-w: propagation drf verb.motion:propagate1 drf verb.contact:propagate
+w: propagation drf verb.motion:propagate drf verb.contact:propagate
 hyper: physical_phenomenon
 g: the movement of a wave through a medium
 
@@ -2212,13 +2212,13 @@ w: propulsion
 hyper: force
 g: a propelling force
 
-w: puff drf adjs.all:puffy
+w: puff drf adjs.all:puffy2
 w: puff_of_air
 w: whiff drf verb.motion:whiff drf verb.communication:whiff
 hyper: gust
 g: a short light gust of air
 
-w: pull drf verb.contact:pull4 drf verb.contact:pull2
+w: pull drf verb.contact:pull drf verb.contact:pull2
 hyper: force
 g: the force used in pulling; "the pull of the moon"; "the pull of the current"
 
@@ -2234,8 +2234,8 @@ w: purchase1
 hyper: influence
 g: a means of exerting influence or gaining advantage; "he could get no purchase on the situation"
 
-w: push drf verb.contact:push6 drf verb.motion:push
-w: thrust drf verb.stative:thrust drf verb.stative:thrust1 drf verb.motion:thrust2
+w: push drf verb.contact:push drf verb.motion:push3
+w: thrust drf verb.stative:thrust1 drf verb.stative:thrust drf verb.motion:thrust
 hyper: force
 g: the force used in pushing; "the push of the water on the walls of the tank"; "the thrust of the jet engines"
 
@@ -2244,7 +2244,7 @@ hyper: electrical_phenomenon
 g: generation of an electric charge on certain crystals (such as tourmaline) as a result of a change in temperature
 
 w: radiance
-w: glow1
+w: glow2
 w: glowing
 hyper: light
 g: the amount of electromagnetic radiation leaving or arriving at a point on a surface
@@ -2345,14 +2345,14 @@ hyper: organic_phenomenon
 dt: noun.cognition:medicine
 g: (medicine) an immunological response that refuses to accept substances or organisms that are recognized as foreign; "rejection of the transplanted liver"
 
-w: rejuvenation drf verb.change:rejuvenate4 drf verb.body:rejuvenate
+w: rejuvenation drf verb.change:rejuvenate2 drf verb.body:rejuvenate
 w: greening drf verb.change:green
 hyper: organic_phenomenon
 g: the phenomenon of vitality and freshness being restored; "the annual rejuvenation of the landscape"
 
 w: reluctance
 hyper: electrical_phenomenon
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) opposition to magnetic flux (analogous to electric resistance)
 
 w: repercussion drf verb.change:repercuss
@@ -2366,25 +2366,25 @@ hyper: force
 attr: adj.all:repulsive
 g: the force by which bodies repel one another
 
-w: resistance
+w: resistance1
 hyper: mechanical_phenomenon
 g: any mechanical force that tends to retard or oppose motion
 
-w: resolution1
+w: resolution
 hyper: physical_phenomenon
 dt: noun.cognition:computer_science
 g: (computer science) the number of pixels per square inch on a computer-generated display; the greater the resolution, the better the picture
 
 w: resolving_power
-w: resolution
+w: resolution1
 hyper: physical_phenomenon
 g: the ability of a microscope or telescope to measure the angular separation of images that are close together
 
-w: resonance1
+w: resonance
 hyper: physical_phenomenon
 g: an excited state of a stable particle causing a sharp maximum in the probability of absorption of electromagnetic radiation
 
-w: resonance drf adjs.all:resonant drf verb.perception:resonate
+w: resonance1 drf adjs.all:resonant drf verb.perception:resonate
 hyper: noun.event:oscillation
 g: a vibration of large amplitude produced by a relatively small vibration near the same frequency of vibration as the natural frequency of the resonating system
 
@@ -2412,7 +2412,7 @@ w: Santa_Ana
 hyper: wind
 g: a strong hot dry wind that blows in winter from the deserts of southern California toward the Pacific Coast
 
-w: scattering1
+w: scattering
 w: sprinkle drf verb.weather:sprinkle
 w: sprinkling drf verb.weather:sprinkle
 hyper: shower
@@ -2420,7 +2420,7 @@ g: a light shower that falls in some locations and not others nearby
 
 w: scintillation drf verb.perception:scintillate
 hyper: light
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a flash of light that is produced in a phosphor when it absorbs a photon or ionizing particle
 
 w: scorcher
@@ -2453,7 +2453,7 @@ g: an association between genes in sex chromosomes that makes some characteristi
 
 w: shear
 hyper: noun.event:deformation1
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a deformation of an object in which parallel planes remain parallel but are shifted in a direction parallel to themselves; "the shear changed the quadrilateral into a parallelogram"
 
 w: short_wave
@@ -2471,7 +2471,7 @@ hyper: consequence
 g: any adverse and unwanted secondary effect; "a strategy to contain the fallout from the accounting scandal"
 
 w: signal
-hyper: electricity1
+hyper: electricity
 g: an electric quantity (voltage or current or field strength) whose modulation represents coded information about the source from which it comes
 
 w: simoom
@@ -2482,7 +2482,7 @@ g: a violent hot sand-laden wind on the deserts of Arabia and North Africa
 
 w: single_nucleotide_polymorphism
 w: SNP
-hyper: polymorphism2
+hyper: polymorphism
 dt: noun.cognition:genetics
 g: (genetics) genetic variation in a DNA sequence that occurs when a single nucleotide in a genome is altered; SNPs are usually considered to be point mutations that have been evolutionarily successful enough to recur in a significant proportion of the population of a species
 
@@ -2491,7 +2491,7 @@ hyper: electrical_phenomenon
 g: the tendency of high-frequency alternating current to distribute near the surface of a conductor
 
 w: sky_glow
-hyper: glow2
+hyper: glow1
 g: illumination of the night sky in urban areas
 
 w: sky_wave
@@ -2507,7 +2507,7 @@ w: airstream1
 w: race
 w: backwash
 w: wash
-hyper: noun.process:flow
+hyper: noun.process:flow1
 g: the flow of air that is driven backwards by an aircraft propeller
 
 w: smoke drf adj.all:smoky drf verb.weather:smoke
@@ -2578,7 +2578,7 @@ w: sound_barrier
 hyper: drag
 g: the increase in aerodynamic drag as an airplane approaches the speed of sound
 
-w: sound drf verb.perception:sound1 drf verb.perception:sound2 drf verb.perception:sound3 drf verb.perception:sound
+w: sound drf verb.perception:sound1 drf verb.perception:sound drf verb.perception:sound3 drf verb.perception:sound2
 hyper: mechanical_phenomenon
 g: mechanical vibrations transmitted by an elastic medium; "falling trees make a sound in the forest even when no one is there to hear them"
 
@@ -2602,12 +2602,12 @@ w: southerly
 hyper: wind
 g: a wind from the south
 
-w: southeaster drf adjs.all:southeasterly2
+w: southeaster drf adjs.all:southeasterly
 w: sou'easter
 hyper: wind
 g: a strong wind from the southeast
 
-w: southwester drf adjs.all:southwesterly2
+w: southwester drf adjs.all:southwesterly
 w: sou'wester
 hyper: wind
 g: a strong wind from the southwest
@@ -2638,7 +2638,7 @@ w: red_sprites
 hyper: atmospheric_electricity
 g: atmospheric electricity (lasting 10 msec) appearing as globular flashes of red (pink to blood-red) light rising to heights of 60 miles (sometimes seen together with elves)
 
-w: squall drf adjs.all:squally drf verb.weather:squall
+w: squall drf adjs.all:squally1 drf verb.weather:squall
 hyper: wind
 g: sudden violent winds; often accompanied by precipitation
 
@@ -2651,22 +2651,22 @@ hyper: light
 g: the light of the stars
 
 w: static_electricity
-hyper: electricity
+hyper: electricity1
 g: electricity produced by friction
 
 w: stellar_parallax
 hyper: heliocentric_parallax
 g: the heliocentric parallax of a star
 
-w: storm drf adj.all:stormy drf verb.weather:storm drf verb.weather:storm1
+w: storm drf adj.all:stormy drf verb.weather:storm1 drf verb.weather:storm
 w: violent_storm
 hyper: atmospheric_phenomenon
 hp: noun.relation:Beaufort_scale
 g: a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning
 
-w: strain drf verb.contact:strain2 drf verb.body:strain
+w: strain drf verb.contact:strain drf verb.body:strain
 hyper: noun.event:deformation1
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) deformation of a physical body under the action of applied forces
 
 w: streamer
@@ -2675,12 +2675,12 @@ hp: aurora
 g: light that streams; "streamers of flames"
 
 w: streamline_flow
-hyper: noun.process:flow
+hyper: noun.process:flow1
 g: flow of a gas or liquid in which the velocity at any point is relatively steady
 
 w: stress
 hyper: force
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) force that produces strain on a physical body; "the intensity of stress is expressed in units of force divided by units of area"
 
 w: strong_breeze
@@ -2697,20 +2697,20 @@ w: strong_interaction
 w: strong_force
 w: color_force
 hyper: interaction
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the interaction that binds protons and neutrons together in the nuclei of atoms; mediated by gluons
 
 w: suction drf adj.pert:suctorial drf verb.motion:suction drf verb.body:suction
 hyper: pressure
 g: a force over an area produced by a pressure difference
 
-w: sultriness drf adjs.all:sultry
+w: sultriness drf adjs.all:sultry1
 hyper: hot_weather
 g: oppressively hot and humid weather
 
 w: sunbeam
-w: sunray
-hyper: beam
+w: sunray1
+hyper: beam1
 hp: sunlight
 g: a ray of sunlight
 
@@ -2724,8 +2724,8 @@ w: sun drf verb.perception:sun drf verb.body:sun
 hyper: light
 g: the rays of the sun; "the shingles were weathered by the sun and wind"
 
-w: sunray1
-w: sun-ray1
+w: sunray
+w: sun-ray
 hyper: ultraviolet
 g: a ray of artificial ultraviolet light from a sunray lamp
 
@@ -2739,7 +2739,7 @@ g: atmospheric phenomena accompanying the daily disappearance of the sun
 
 w: sunspot
 w: macula
-hyper: noun.attribute:spot1
+hyper: noun.attribute:spot2
 g: a cooler darker spot appearing periodically on the sun's photosphere; associated with a strong magnetic field
 
 w: superconductivity
@@ -2760,7 +2760,7 @@ g: condensation of moisture on a cold surface; "the cold glasses were streaked w
 
 w: sympathetic_vibration
 hyper: noun.event:oscillation
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) vibration produced by resonance
 
 w: systemic_circulation
@@ -2779,14 +2779,14 @@ w: tailwind
 hyper: wind
 g: wind blowing in the same direction as the path of a ship or aircraft
 
-w: tempest drf adjs.all:tempestuous
+w: tempest drf adjs.all:tempestuous1
 hyper: windstorm
-dt: noun.communication:literature
+dt: noun.communication:literature1
 g: (literary) a violent wind; "a tempest swept over the island"
 
 w: tension drf verb.contact:tense drf verb.change:tense
 hyper: stress
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a stress that produces an elongation of an elastic physical body; "the direction of maximum tension moves asymptotically toward the direction of the shear"
 
 w: thaw drf verb.change:thaw
@@ -2800,11 +2800,11 @@ hyper: wind
 g: rising current of warm air
 
 w: thermionic_current
-hyper: current1
+hyper: current
 g: an electric current produced between two electrodes as a result of electrons emitted by thermionic emission
 
 w: thermoelectricity drf adj.pert:thermoelectric
-hyper: electricity
+hyper: electricity1
 g: electricity produced by heat (as in a thermocouple)
 
 w: theta_rhythm
@@ -2845,7 +2845,7 @@ g: a twisting force
 w: tossup
 w: toss-up
 w: even_chance
-hyper: luck
+hyper: luck1
 g: an unpredictable phenomenon; "it's a toss-up whether he will win or lose"
 
 w: trade_wind
@@ -2867,8 +2867,8 @@ w: transgression drf verb.stative:transgress
 hyper: geological_phenomenon
 g: the spreading of the sea over land as evidenced by the deposition of marine strata over terrestrial strata
 
-w: transparency drf adjs.all:transparent drf adjs.all:transparent ant opacity
-w: transparence drf adjs.all:transparent
+w: transparency drf adjs.all:transparent drf adjs.all:transparent3 ant opacity
+w: transparence drf adjs.all:transparent3
 hyper: physical_phenomenon
 g: permitting the free passage of electromagnetic radiation
 
@@ -2876,13 +2876,13 @@ w: trichroism
 hyper: pleochroism
 g: pleochroism of a crystal so that it exhibits three different colors when viewed from three different directions
 
-w: turbulence drf adjs.all:turbulent
-w: turbulency drf adjs.all:turbulent
+w: turbulence drf adjs.all:turbulent1
+w: turbulency drf adjs.all:turbulent1
 hyper: physical_phenomenon
 g: unstable flow of a liquid or gas
 
 w: turbulent_flow
-hyper: noun.process:flow
+hyper: noun.process:flow1
 g: flow in which the velocity at any point varies erratically
 
 w: twilight
@@ -2931,7 +2931,7 @@ w: vapour_pressure
 hyper: pressure
 g: the pressure exerted by a vapor; often understood to mean saturated vapor pressure (the vapor pressure of a vapor in contact with its liquid form)
 
-w: variation drf verb.stative:vary1 drf verb.stative:vary
+w: variation drf verb.stative:vary drf verb.stative:vary1
 hyper: perturbation
 dt: noun.cognition:astronomy
 g: (astronomy) any perturbation of the mean motion or orbit of a planet or satellite (especially a perturbation of the earth's moon)
@@ -2962,7 +2962,7 @@ w: volcanism
 hyper: geological_phenomenon
 g: the phenomena associated with volcanic activity
 
-w: voltage2
+w: voltage
 w: electromotive_force
 w: emf
 hyper: electrical_phenomenon
@@ -2992,7 +2992,7 @@ g: all the points just reached by a wave as it propagates
 w: weak_interaction
 w: weak_force
 hyper: interaction
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) an interaction between elementary particles involving neutrinos or antineutrinos that is responsible for certain kinds of radioactive decay; mediated by intermediate vector bosons
 
 w: weather drf verb.change:weather
@@ -3004,7 +3004,7 @@ dt: noun.cognition:meteorology
 g: the atmospheric conditions that comprise the state of the atmosphere in terms of temperature and wind and clouds and precipitation; "they were hoping for good weather"; "every day we have weather conditions and yesterday was no exception"; "the conditions were too rainy for playing in the snow"
 
 w: west_wind
-w: wester drf adjs.all:westerly1
+w: wester drf adjs.all:westerly
 hyper: wind
 g: wind that blows from west to east
 
@@ -3034,8 +3034,8 @@ w: windage
 hyper: drag
 g: the retarding force of air friction on a moving object
 
-w: wind drf adjs.all:windy drf adjs.all:windy
-w: air_current1
+w: wind drf adjs.all:windy3 drf adjs.all:windy1
+w: air_current
 w: current_of_air
 hyper: weather
 g: air moving (sometimes with considerable force) from an area of high pressure to an area of low pressure; "trees bent under the fierce winds"; "when there is no wind, row"; "the radioactivity was being swept upwards by the air current and out into the atmosphere"
@@ -3046,7 +3046,7 @@ g: a storm consisting of violent winds
 
 w: work
 hyper: energy
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a manifestation of energy; the transfer of energy from one physical system to another expressed as the product of a force and the distance through which it moves a body in the direction of that force; "work equals force times distance"
 
 w: X-ray_diffraction

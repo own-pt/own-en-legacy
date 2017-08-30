@@ -76,7 +76,7 @@ hyper: number
 g: a number that is added to another number (the augend)
 
 w: addition
-w: increase drf verb.change:increase2 drf verb.change:increase
+w: increase drf verb.change:increase1 drf verb.change:increase
 w: gain
 hyper: indefinite_quantity
 g: a quantity that is added; "there was an addition to property taxes this year"; "they recorded the cattle's gain in weight over a period of weeks"
@@ -124,7 +124,7 @@ hp: Algerian_dinar
 g: 100 centimes equal 1 dinar in Algeria
 
 w: Algerian_dinar
-w: dinar
+w: dinar8
 hyper: Algerian_monetary_unit
 g: the basic unit of money in Algeria
 
@@ -134,12 +134,12 @@ g: monetary unit in Algeria
 
 w: aliquant ant aliquot
 w: aliquant_part
-hyper: divisor
+hyper: divisor1
 g: an integer that is not an exact divisor of some quantity; "5 is an aliquant part of 12"
 
 w: aliquot drf adjs.all:aliquot ant aliquant
 w: aliquot_part
-hyper: divisor
+hyper: divisor1
 g: an integer that is an exact divisor of some quantity; "4 is an aliquot part of 12"
 
 w: allocation_unit
@@ -159,14 +159,14 @@ w: ampere-turn
 hyper: magnetomotive_force_unit
 g: a unit of magnetomotive force equal to the magnetomotive force produced by the passage of 1 ampere through 1 complete turn of a coil; equal to 1.257 gilberts
 
-w: ampere
+w: ampere1
 w: amp
-w: A
+w: A1
 hyper: current_unit
 hp: abampere
 g: the basic unit of electric current adopted under the Systeme International d'Unites; "a typical household circuit carries 15 to 50 amps"
 
-w: ampere2
+w: ampere
 w: international_ampere
 hyper: current_unit
 g: a former unit of electric current (slightly smaller than the SI ampere)
@@ -177,7 +177,7 @@ g: monetary unit in Angola
 
 w: angstrom
 w: angstrom_unit
-w: A1
+w: A
 hyper: metric_linear_unit
 hp: nanometer
 g: a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation
@@ -193,7 +193,7 @@ g: a former copper coin of Pakistan and India
 
 w: apothecaries'_unit
 w: apothecaries'_weight
-hyper: weight_unit
+hyper: weight_unit1
 g: any weight unit used in pharmacy; an ounce is equal to 480 grains and a pound is equal to 12 ounces
 
 w: archine
@@ -231,11 +231,11 @@ w: arpent
 hyper: area_unit
 g: a former French unit of area; equal approximately to an acre
 
-w: arroba1
-hyper: weight_unit
+w: arroba
+hyper: weight_unit1
 g: a unit of weight used in some Spanish speaking countries
 
-w: arroba2
+w: arroba1
 hyper: liquid_unit
 g: a liquid measure (with different values) used in some Spanish speaking countries
 
@@ -326,7 +326,7 @@ hyper: dollar
 g: the basic unit of money in the Bahamas
 
 w: Bahrain_dinar
-w: dinar1
+w: dinar7
 hyper: Bahrainian_monetary_unit
 g: the basic unit of money in Bahrain; equal to 1,000 fils
 
@@ -349,12 +349,12 @@ w: balboa
 hyper: Panamanian_monetary_unit
 g: the basic unit of money in Panama; equal to 100 centesimos
 
-w: ban1
+w: ban
 hyper: Moldovan_monetary_unit
 g: 100 bani equal 1 leu in Moldova
 
-w: ban
-hp: leu
+w: ban1
+hp: leu1
 hyper: Romanian_monetary_unit
 g: 100 bani equal 1 leu in Romania
 
@@ -385,16 +385,16 @@ w: barnful
 hyper: containerful
 g: the quantity that a barn will hold
 
-w: barrel4 drf verb.contact:barrel
+w: barrel drf verb.contact:barrel
 w: barrelful
 hyper: containerful
 g: the quantity that a barrel (of any size) will hold
 
 w: barrel1
-w: bbl1
+w: bbl
 hyper: United_States_liquid_unit
 hyper: British_capacity_unit
-hp: hogshead1
+hp: hogshead
 g: any of various units of capacity; "a barrel of beer is 31 gallons and a barrel of oil is 42 gallons"
 
 w: barrels
@@ -438,7 +438,7 @@ w: deal
 w: flock
 w: good_deal
 w: great_deal
-w: hatful2
+w: hatful
 w: heap drf verb.change:heap drf verb.possession:heap
 w: lot
 w: mass
@@ -451,7 +451,7 @@ w: passel
 w: peck
 w: pile drf verb.motion:pile
 w: plenty drf adjs.all:plenteous
-w: pot1
+w: pot
 w: quite_a_little
 w: raft
 w: sight
@@ -471,7 +471,7 @@ g: an ancient Hebrew liquid measure equal to about 10 gallons
 w: battalion
 w: large_number
 w: multitude drf adjs.all:multitudinous
-w: plurality1
+w: plurality
 w: pack
 hyper: large_indefinite_quantity
 g: a large indefinite number; "a battalion of ants"; "a multitude of TV antennas"; "a plurality of religions"
@@ -491,7 +491,7 @@ hyper: monetary_unit
 g: monetary unit in Belarus
 
 w: Bel
-w: B3
+w: B
 hyper: sound_unit
 g: a logarithmic unit of sound intensity equal to 10 decibels
 
@@ -515,14 +515,14 @@ w: Bhutanese_monetary_unit
 hyper: monetary_unit
 g: monetary unit in Bhutan
 
-w: billion1 drf adjs.all:billion1
-w: one_million_million
-w: 1000000000000
+w: billion1 drf adjs.all:billion
+w: one_million_million1
+w: 10000000000001
 hyper: large_integer
 dr: noun.location:United_Kingdom
 g: the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen
 
-w: billion drf adjs.all:billion
+w: billion2 drf adjs.all:billion1
 w: one_thousand_million
 w: 1000000000
 hyper: large_integer
@@ -561,7 +561,7 @@ w: birr
 hyper: Ethiopian_monetary_unit
 g: the basic unit of money in Ethiopia; equal to 100 cents
 
-w: bit
+w: bit1
 hyper: unit_of_measurement
 hp: byte
 g: a unit of measurement of information (from binary + digit); the amount of information in a system having two equiprobable states; "there are 8 bits in a byte"
@@ -676,7 +676,7 @@ hyper: monetary_unit
 g: monetary unit in Great Britain
 
 w: British_pound
-w: pound1
+w: pound8
 w: British_pound_sterling
 w: pound_sterling
 w: quid
@@ -684,7 +684,7 @@ hyper: British_monetary_unit
 g: the basic unit of money in Great Britain and Northern Ireland; equal to 100 pence
 
 w: British_shilling
-w: shilling1
+w: shilling4
 w: bob
 hyper: British_monetary_unit
 g: a former monetary unit in Great Britain
@@ -704,7 +704,7 @@ w: Brunei_dollar
 hyper: dollar
 g: the basic unit of money in Brunei
 
-w: bucket drf verb.contact:bucket
+w: bucket drf verb.contact:bucket1
 w: bucketful
 hyper: containerful
 g: the quantity contained in a bucket
@@ -734,12 +734,12 @@ w: Burundi_franc
 hyper: franc
 g: the basic unit of money in Burundi
 
-w: bushel1
+w: bushel
 hyper: British_capacity_unit
-hp: quarter4
+hp: quarter2
 g: a British imperial capacity measure (liquid or dry) equal to 4 pecks
 
-w: bushel2
+w: bushel1
 hyper: United_States_dry_unit
 g: a United States dry measure equal to 4 pecks or 2152.42 cubic inches
 
@@ -764,14 +764,14 @@ w: cable's_length
 hyper: linear_unit
 g: a nautical unit of depth
 
-w: calorie1 drf adj.pert:caloric
+w: calorie drf adj.pert:caloric
 w: gram_calorie
 w: small_calorie
 hyper: work_unit
-hp: Calorie2
+hp: Calorie
 g: unit of heat defined as the quantity of heat required to raise the temperature of 1 gram of water by 1 degree centigrade at atmospheric pressure
 
-w: Calorie2 drf adj.pert:caloric2
+w: Calorie drf adj.pert:caloric1
 w: kilogram_calorie
 w: kilocalorie
 w: large_calorie
@@ -814,8 +814,8 @@ dt: noun.cognition:computer_science
 g: (computer science) the amount of information (in bytes) that can be stored on a disk drive; "the capacity of a hard disk drive is usually expressed in megabytes"
 
 w: capacity drf adjs.all:capacious
-w: content drf verb.stative:contain13
-hyper: volume
+w: content drf verb.stative:contain2
+hyper: volume1
 g: the amount that can be contained; "the gas tank has a capacity of 12 gallons"
 
 w: Cape_Verde_escudo
@@ -859,7 +859,7 @@ w: cartonful
 hyper: containerful
 g: the quantity contained in a carton
 
-w: case drf verb.contact:case1
+w: case drf verb.contact:case
 w: caseful
 hyper: containerful
 g: the quantity contained in a case
@@ -869,15 +869,15 @@ w: caskful
 hyper: containerful
 g: the quantity a cask will hold
 
-w: catch drf verb.contact:catch3
+w: catch drf verb.contact:catch2
 w: haul
 hyper: indefinite_quantity
 g: the quantity that was caught; "the catch was only 10 fish"
 
 w: catty
 w: cattie
-hyper: weight_unit
-dr: noun.location:China
+hyper: weight_unit1
+dr: noun.location:China1
 g: any of various units of weight used in southeastern Asia (especially a Chinese measure equal to 500 grams)
 
 w: Cayman_Islands_dollar
@@ -909,7 +909,7 @@ g: 100 centas equal 1 litas in Lithuania
 w: centavo
 hyper: fractional_monetary_unit
 hp: austral
-hp: colon1
+hp: colon
 hp: dobra
 hp: Cape_Verde_escudo
 hp: Portuguese_escudo
@@ -932,7 +932,7 @@ g: a fractional monetary unit of several countries: El Salvador and Sao Tome and
 w: centesimo
 hyper: fractional_monetary_unit
 hp: balboa
-hp: lira1
+hp: lira2
 hp: Uruguayan_peso
 hp: Chilean_peso
 g: a fractional monetary unit of several countries: Panama and Italy and Uruguay and Chile
@@ -976,14 +976,14 @@ g: a metric unit of length equal to one hundredth of a meter
 w: centimo
 hyper: fractional_monetary_unit
 hp: bolivar
-hp: colon
+hp: colon1
 hp: guarani
 hp: peseta
 g: a fractional monetary unit of Venezuela and Costa Rica and Equatorial Guinea and Paraguay and Spain
 
-w: centner2
+w: centner1
 hyper: metric_weight_unit
-hp: hundredweight3
+hp: hundredweight
 g: in some European countries: a unit of weight equivalent to 50 kilograms
 
 w: Central_African_Republic_franc
@@ -1022,7 +1022,7 @@ hyper: monetary_unit
 g: monetary unit in Chile
 
 w: Chilean_peso
-w: peso9
+w: peso7
 hyper: Chilean_monetary_unit
 g: the basic unit of money in Chile; equal to 100 centesimos
 
@@ -1034,7 +1034,7 @@ w: chlorinity
 hyper: definite_quantity
 g: a measure of the quantity of chlorine or other halides in water (especially seawater)
 
-w: chon2
+w: chon
 hyper: South_Korean_monetary_unit
 hp: South_Korean_won
 g: 100 chon equal 1 won in South Korea
@@ -1062,12 +1062,12 @@ w: repeating_decimal
 hyper: decimal_fraction
 g: a decimal with a sequence of digits that repeats itself indefinitely
 
-w: circulation1
+w: circulation
 hyper: count
 dt: noun.cognition:library_science
 g: (library science) the count of books that are loaned by a library over a specified period
 
-w: circulation drf verb.motion:circulate3
+w: circulation1 drf verb.motion:circulate1
 hyper: count
 g: number of copies of a newspaper or magazine that are sold; "by increasing its circulation the newspaper hoped to increase its advertising"
 
@@ -1078,8 +1078,8 @@ g: a constant number that serves as a measure of some property or characteristic
 w: coefficient_of_elasticity
 w: modulus_of_elasticity
 w: elastic_modulus
-hyper: modulus
-dt: noun.cognition:physics
+hyper: modulus2
+dt: noun.cognition:physics1
 g: (physics) the ratio of the applied stress to the change in shape of an elastic body
 
 w: coefficient_of_expansion
@@ -1119,22 +1119,22 @@ hyper: monetary_unit
 g: monetary unit in Colombia
 
 w: Colombian_peso
-w: peso3
+w: peso6
 hyper: Colombian_monetary_unit
 g: the basic unit of money in Colombia; equal to 100 centavos
 
-w: colon
+w: colon1
 w: Costa_Rican_colon
 hyper: Costa_Rican_monetary_unit
 g: the basic unit of money in Costa Rica; equal to 100 centimos
 
-w: colon1
+w: colon
 w: El_Salvadoran_colon
 hyper: El_Salvadoran_monetary_unit
 g: the basic unit of money in El Salvador; equal to 100 centavos
 
 w: column_inch
-w: inch2
+w: inch
 hyper: area_unit
 g: a unit of measurement for advertising space
 
@@ -1145,7 +1145,7 @@ g: an integer that is a common multiple of the denominators of two or more fract
 w: common_divisor
 w: common_factor
 w: common_measure
-hyper: divisor1
+hyper: divisor
 g: an integer that divides two (or more) other integers evenly
 
 w: common_fraction
@@ -1244,7 +1244,7 @@ hyper: monetary_unit
 g: monetary unit in Costa Rica
 
 w: coulomb
-w: C
+w: C2
 w: ampere-second
 hyper: charge_unit
 hp: abcoulomb
@@ -1255,16 +1255,16 @@ w: count
 hyper: number
 g: the total number counted; "a blood count"
 
-w: couple1
+w: couple
 hyper: small_indefinite_quantity
 g: a small indefinite number; "he's coming for a couple of days"
 
-w: couple drf verb.contact:couple2
-w: pair drf verb.contact:pair3 drf verb.contact:pair4
+w: couple1 drf verb.contact:couple2
+w: pair drf verb.contact:pair1 drf verb.contact:pair
 w: twosome
 w: twain
 w: brace
-w: span2
+w: span
 w: yoke
 w: couplet
 w: distich
@@ -1290,7 +1290,7 @@ hyper: containerful
 g: the quantity contained in a crate
 
 w: crith
-hyper: weight_unit
+hyper: weight_unit1
 g: the weight of a liter of hydrogen (at 0 centigrade and 760 millimeters pressure)
 
 w: crore
@@ -1307,7 +1307,7 @@ hyper: monetary_unit
 g: monetary unit in Cuba
 
 w: Cuban_peso
-w: peso4
+w: peso5
 hyper: Cuban_monetary_unit
 g: the basic unit of money in Cuba; equal to 100 centavos
 
@@ -1342,7 +1342,7 @@ hp: milliliter
 g: a metric measure of volume or capacity equal to a cube 1 millimeter on each edge
 
 w: cubic_yard
-w: yard1
+w: yard2
 hyper: volume_unit
 g: a unit of volume (as for sand or gravel)
 
@@ -1350,12 +1350,12 @@ w: cubit
 hyper: linear_unit
 g: an ancient unit of length based on the length of the forearm
 
-w: cup2
+w: cup1
 hyper: United_States_liquid_unit
-hp: pint1
+hp: pint2
 g: a United States liquid unit equal to 8 fluid ounces
 
-w: cup1 drf verb.change:cup1
+w: cup drf verb.change:cup1
 w: cupful
 hyper: containerful
 g: the quantity a cup will hold; "he drank a cup of coffee"; "he borrowed a cup of sugar"
@@ -1370,7 +1370,7 @@ hyper: electromagnetic_unit
 g: a measure of the amount of electric charge flowing past a circuit point at a specific time
 
 w: cutoff
-hyper: limit
+hyper: limit1
 g: a designated limit beyond which something cannot function or must be terminated
 
 w: Cypriot_monetary_unit
@@ -1378,7 +1378,7 @@ hyper: monetary_unit
 g: monetary unit in Cyprus
 
 w: Cypriot_pound
-w: pound2
+w: pound7
 hyper: Cypriot_monetary_unit
 g: the basic unit of money in Cyprus; equal to 100 cents
 
@@ -1390,8 +1390,8 @@ w: Czech_monetary_unit
 hyper: monetary_unit
 g: monetary unit in Czech Republic
 
-w: dab drf verb.contact:dab1
-w: splash drf verb.contact:splash6
+w: dab drf verb.contact:dab
+w: splash drf verb.contact:splash4
 w: splatter drf verb.contact:splatter1
 hyper: small_indefinite_quantity
 g: a small quantity of something moist or liquid; "a dab of paint"; "a splatter of mud"; "just a splash of whiskey"
@@ -1441,7 +1441,7 @@ hyper: metric_capacity_unit
 hp: liter
 g: a metric unit of volume equal to one tenth of a liter
 
-w: decimal1 drf verb.change:decimalize drf verb.change:decimalise
+w: decimal1 drf verb.change:decimalize1 drf verb.change:decimalise1
 hyper: number
 g: a number in the decimal system
 
@@ -1450,7 +1450,7 @@ hyper: digit
 g: a digit from 0 to 9 in decimal notation
 
 w: decimal_fraction
-w: decimal drf verb.change:decimalize1 drf verb.change:decimalise1
+w: decimal drf verb.change:decimalize drf verb.change:decimalise
 hyper: proper_fraction
 g: a proper fraction whose denominator is a power of 10
 
@@ -1470,14 +1470,14 @@ w: definite_quantity
 hyper: noun.Tops:measure
 g: a specific measure of amount
 
-w: degree3
+w: degree
 hyper: temperature_unit
 g: a unit of temperature on a specified scale; "the game was played in spite of the 40-degree temperature"
 
 w: degree_centigrade
 w: degree_Celsius
-w: C2
-hyper: degree3
+w: C1
+hyper: degree
 g: a degree on the centigrade scale of temperature
 
 w: degree_day
@@ -1485,11 +1485,11 @@ hyper: temperature_unit
 g: a unit used in estimating fuel requirements for heating a building
 
 w: degree_Fahrenheit
-w: F2
-hyper: degree3
+w: F
+hyper: degree
 g: a degree on the Fahrenheit scale of temperature
 
-w: degree
+w: degree1
 w: arcdegree
 hyper: angular_unit
 hp: oxtant
@@ -1519,7 +1519,7 @@ hyper: unit_of_measurement
 g: a unit of measurement for the fineness of silk or nylon or rayon; "with an evening dress one wears 10 denier stockings"
 
 w: denominator
-hyper: divisor
+hyper: divisor1
 g: the divisor of a fraction
 
 w: dessertspoon
@@ -1554,12 +1554,12 @@ w: dividend
 hyper: number
 g: a number to be divided by another number
 
-w: divisor
+w: divisor1
 hyper: number
 g: the number by which a dividend is divided
 
-w: divisor1
-w: factor drf verb.cognition:factor drf verb.cognition:factorize
+w: divisor
+w: factor drf verb.cognition:factor1 drf verb.cognition:factorize
 hyper: integer
 g: one of two or more integers that can be exactly divided into another integer; "what are the 4 factors of 6?"
 
@@ -1592,7 +1592,7 @@ hyper: monetary_unit
 g: monetary unit in the Dominican Republic
 
 w: Dominican_peso
-w: peso5
+w: peso4
 hyper: Dominican_monetary_unit
 g: the basic unit of money in the Dominican Republic; equal to 100 centavos
 
@@ -1620,11 +1620,11 @@ dt: noun.act:golf
 g: (golf) a score of three strokes under par on a hole
 
 w: doubleton
-hyper: couple
+hyper: couple1
 dt: noun.act:bridge
 g: (bridge) a pair of playing cards that are the only cards in their suit in the hand dealt to a player
 
-w: drachma
+w: drachma1
 w: Greek_drachma
 hyper: Greek_monetary_unit
 g: formerly the basic unit of money in Greece
@@ -1639,22 +1639,22 @@ hyper: avoirdupois_unit
 hp: ounce1
 g: 1/16 ounce or 1.771 grams
 
-w: dram
+w: dram2
 hyper: Armenian_monetary_unit
 g: the basic unit of money in Armenia
 
-w: dram2
+w: dram
 w: drachm
-w: drachma2
+w: drachma
 hyper: apothecaries'_unit
-hp: ounce2
+hp: ounce
 g: a unit of apothecary weight equal to an eighth of an ounce or to 60 grains
 
 w: dreg
 hyper: small_indefinite_quantity
 g: a small amount of residue
 
-w: drop drf droplet drf verb.contact:drop12
+w: drop drf droplet drf verb.contact:drop
 w: drib
 w: driblet
 hyper: small_indefinite_quantity
@@ -1711,7 +1711,7 @@ hyper: monetary_unit
 g: monetary unit in Egypt
 
 w: Egyptian_pound
-w: pound3
+w: pound6
 hyper: Egyptian_monetary_unit
 g: the basic unit of money in Egypt; equal to 100 piasters
 
@@ -1768,17 +1768,17 @@ w: XI
 hyper: large_integer
 g: the cardinal number that is the sum of ten and one
 
-w: em1
+w: em
 w: em_quad
 w: mutton_quad
 hyper: area_unit
 g: a quad with a square body; "since `em quad' is hard to distinguish from `en quad', printers sometimes called it a `mutton quad'"
 
-w: em2
+w: em1
 w: pica_em
 w: pica
 hyper: linear_unit
-hp: inch
+hp: inch1
 g: a linear unit (1/6 inch) used in printing
 
 w: engineer's_chain
@@ -1788,7 +1788,7 @@ g: a unit of length (100 ft)
 w: en
 w: nut
 hyper: linear_unit
-hp: em2
+hp: em1
 g: half the width of an em
 
 w: enough drf adjs.all:enough
@@ -1808,7 +1808,7 @@ dt: noun.cognition:chemistry
 g: (chemistry) the ratio of concentrations when equilibrium is reached in a reversible reaction (when the rate of the forward reaction equals the rate of the reverse reaction)
 
 w: equivalent-binary-digit_factor
-hyper: divisor1
+hyper: divisor
 g: the average number of binary digits needed to express one radix digit in a numeration system that is not binary; on the average a number that can be expressed in N decimal digits takes 3.3N binary digits
 
 w: erg
@@ -1839,22 +1839,22 @@ g: a United States dollar deposited in a European bank and used as an internatio
 
 w: exabit
 w: Ebit
-w: Eb2
+w: Eb
 hp: zettabit
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 petabits or 10^18 bits
 
-w: exabyte1
-w: EB1
-hp: zettabyte1
+w: exabyte
+w: EB
+hp: zettabyte
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 petabytes or 10^18 bytes
 
-w: exabyte
+w: exabyte1
 w: exbibyte
-w: EB
+w: EB1
 w: EiB
-hp: zettabyte
+hp: zettabyte1
 hyper: computer_memory_unit
 g: a unit of information equal to 1024 pebibytes or 2^60 bytes
 
@@ -1868,13 +1868,13 @@ w: explosive_unit
 hyper: unit_of_measurement
 g: any unit for measuring the force of explosions
 
-w: exposure drf verb.perception:expose1
+w: exposure drf verb.perception:expose2
 hyper: light_unit
 g: the intensity of light falling on a photographic film or plate; "he used the wrong exposure"
 
 w: extremum
 w: peak drf adjs.all:peaky drf verb.motion:peak
-hyper: limit
+hyper: limit1
 g: the most extreme possible amount or value; "voltage peak"
 
 w: eyedrop
@@ -1887,7 +1887,7 @@ hp: Icelandic_krona
 hyper: Icelandic_monetary_unit
 g: 100 aurar equal 1 krona in Iceland
 
-w: factor1 drf verb.cognition:factor drf verb.cognition:factorize
+w: factor1 drf verb.cognition:factor1 drf verb.cognition:factorize
 hyper: number
 g: any of the numbers (or symbols) that form a product when multiplied together
 
@@ -1898,20 +1898,20 @@ hyper: constant
 g: the constant value of the ratio of two proportional quantities x and y; usually written y = kx, where k is the factor of proportionality
 
 w: farad
-w: F
+w: F1
 hyper: capacitance_unit
 hp: abfarad
 g: the capacitance of a capacitor that has an equal and opposite charge of 1 coulomb on each plate and a voltage difference of 1 volt between the plates
 
-w: fathom1 drf verb.change:fathom
-w: fthm1
+w: fathom drf verb.change:fathom
+w: fthm
 hyper: linear_unit
 g: a linear unit of measurement (equal to 6 feet) for water depth
 
-w: fathom2
-w: fthm2
+w: fathom1
+w: fthm1
 hyper: volume_unit
-dt: noun.act:mining
+dt: noun.act:mining1
 g: (mining) a unit of volume (equal to 6 cubic feet) used in measuring bodies of ore
 
 w: femtometer
@@ -1955,7 +1955,7 @@ g: a quantity of liquor equal to one fifth of a United States gallon
 
 w: fifty drf adjs.all:fifty
 w: 50
-w: L6
+w: L
 hyper: large_integer
 g: the cardinal number that is the product of ten and five
 
@@ -1967,7 +1967,7 @@ w: Fiji_dollar
 hyper: dollar
 g: the basic unit of money in Fiji
 
-w: fill drf verb.consumption:fill drf verb.consumption:fill2
+w: fill drf verb.consumption:fill1 drf verb.consumption:fill2
 hyper: enough
 g: a quantity sufficient to satisfy; "he ate his fill of potatoes"; "she had heard her fill of gossip"
 
@@ -1976,7 +1976,7 @@ hp: forint
 hyper: Hungarian_monetary_unit
 g: 100 filler equal 1 forint in Hungary
 
-w: fils
+w: fils1
 hyper: fractional_monetary_unit
 hp: Bahrain_dinar
 hp: Iraqi_dinar
@@ -1984,7 +1984,7 @@ hp: Jordanian_dinar
 hp: Kuwaiti_dirham
 g: a fractional monetary unit in Bahrain and Iraq and Jordan and Kuwait; equal to one thousandth of a dinar
 
-w: finger1
+w: finger
 w: fingerbreadth
 w: finger's_breadth
 w: digit1
@@ -2012,7 +2012,7 @@ g: about seven inches; the breadth of a fist with the thumb stuck out (used espe
 
 w: five
 w: 5
-w: V2
+w: V
 w: cinque
 w: quint
 w: quintet
@@ -2051,10 +2051,10 @@ w: torrent drf adjs.all:torrential
 hyper: batch
 g: an overwhelming number or amount; "a flood of requests"; "a torrent of abuse"
 
-w: fluidounce2
-w: fluid_ounce2
+w: fluidounce
+w: fluid_ounce
 hyper: British_capacity_unit
-hp: gill2
+hp: gill
 g: a British imperial unit of capacity or volume (liquid or dry) equal to 8 fluid drams or 28.416 cubic centimeters (1.734 cubic inches)
 
 w: fluidounce1
@@ -2063,18 +2063,18 @@ hyper: United_States_liquid_unit
 hp: gill1
 g: a United States unit of capacity or volume equal to 1.804 cubic inches
 
-w: fluidram2
-w: fluid_dram2
-w: fluid_drachm2
-w: drachm2
+w: fluidram
+w: fluid_dram
+w: fluid_drachm
+w: drachm1
 hyper: British_capacity_unit
-hp: fluidounce2
+hp: fluidounce
 g: a British imperial capacity measure (liquid or dry) equal to 60 minims or 3.5516 cubic centimeters
 
 w: fluidram1
 w: fluid_dram1
 w: fluid_drachm1
-w: drachm1
+w: drachm2
 hyper: United_States_liquid_unit
 hp: fluidounce1
 g: a unit of capacity or volume in the apothecary system equal to one eighth of a fluid ounce
@@ -2118,13 +2118,13 @@ g: (used only in combinations) the height or length of something in feet; "he is
 w: foot
 w: ft
 hyper: linear_unit
-hp: yard
+hp: yard1
 g: a linear unit of length equal to 12 inches or a third of a yard; "he is six feet tall"
 
 w: footstep
-w: pace1 drf verb.change:pace drf verb.motion:pace1 drf verb.motion:pace
-w: step drf verb.change:step drf verb.motion:step3 drf verb.motion:step1 drf verb.motion:step
-w: stride drf verb.motion:stride3 drf verb.motion:stride
+w: pace drf verb.change:pace drf verb.motion:pace drf verb.motion:pace1
+w: step1 drf verb.change:step drf verb.motion:step1 drf verb.motion:step2 drf verb.motion:step3
+w: stride drf verb.motion:stride1 drf verb.motion:stride
 hyper: indefinite_quantity
 g: the distance covered by a step; "he stepped off ten paces from the old tree and began to dig"
 
@@ -2178,7 +2178,7 @@ hyper: monetary_unit
 g: a monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit
 
 w: frail
-hyper: weight_unit
+hyper: weight_unit1
 g: the weight of a frail (basket) full of raisins or figs; between 50 and 75 pounds
 
 w: franc
@@ -2201,28 +2201,28 @@ g: one of the four quantities that are the basis of systems of measurement
 
 w: furlong
 hyper: linear_unit
-hp: mile1
+hp: mile6
 g: a unit of length equal to 220 yards
 
 w: Gabon_franc
 hyper: franc
 g: the basic unit of money in Gabon
 
-w: gal1
+w: gal
 hyper: acceleration_unit
 g: a unit of gravitational acceleration equal to one centimeter per second per second (named after Galileo)
 
 w: gallon1
-w: gal
+w: gal1
 hyper: United_States_liquid_unit
 hp: barrel1
 g: United States liquid unit equal to 4 quarts or 3.785 liters
 
-w: gallon2
+w: gallon
 w: Imperial_gallon
 w: congius
 hyper: British_capacity_unit
-hp: bushel1
+hp: bushel
 hp: barrel1
 hp: firkin
 g: a British imperial capacity measure (liquid or dry) equal to 4 quarts or 4.545 liters
@@ -2233,7 +2233,7 @@ g: monetary unit in Gambia
 
 w: game
 hyper: score
-dt: noun.act:game
+dt: noun.act:game3
 g: (games) the score at a particular point or the score needed to win; "the game is 6 all"; "he is serving for the game"
 
 w: gamma
@@ -2245,7 +2245,7 @@ w: gas_constant
 w: universal_gas_constant
 w: R1
 hyper: constant
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the universal constant in the gas equation: pressure times volume = R times temperature; equal to 8.3143 joules per kelvin per mole
 
 w: gauss
@@ -2265,7 +2265,7 @@ w: German_monetary_unit
 hyper: monetary_unit
 g: monetary unit in Germany
 
-w: g7
+w: g1
 w: gee
 w: g-force
 hyper: force_unit
@@ -2283,44 +2283,44 @@ g: a unit of information equal to 1024 mebibits or 2^30 (1,073,741,824) bits
 
 w: gigabit
 w: Gbit
-w: Gb4
+w: Gb1
 hp: terabit
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 megabits or 10^9 (1,000,000,000) bits
 
-w: gigabyte1
-w: G3
-w: GB3
-hp: terabyte1
+w: gigabyte
+w: G1
+w: GB
+hp: terabyte
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 megabytes or 10^9 (1,000,000,000) bytes
 
-w: gigabyte
+w: gigabyte1
 w: gibibyte
 w: G2
-w: GB2
+w: GB1
 w: GiB
-hp: terabyte
+hp: terabyte1
 hyper: computer_memory_unit
 g: a unit of information equal to 1024 mebibytes or 2^30 (1,073,741,824) bytes
 
 w: gilbert
-w: Gb1
+w: Gb
 w: Gi
 hyper: magnetomotive_force_unit
 g: a unit of magnetomotive force equal to 0.7958 ampere-turns
 
-w: gill2
+w: gill
 hyper: British_capacity_unit
-hp: pint2
+hp: pint
 g: a British imperial capacity unit (liquid or dry) equal to 5 fluid ounces or 142.066 cubic centimeters
 
 w: gill1
 hyper: United_States_liquid_unit
-hp: cup2
+hp: cup1
 g: a United States liquid unit equal to 4 fluid ounces
 
-w: glass drf verb.change:glass1
+w: glass drf verb.change:glass
 w: glassful
 hyper: containerful
 g: the quantity a glass will hold
@@ -2343,19 +2343,19 @@ hyper: angular_unit
 hp: noun.shape:right_angle
 g: one-hundredth of a right angle
 
-w: grain2
+w: grain1
 hyper: troy_unit
 hyper: apothecaries'_unit
 hp: pennyweight
 hp: scruple
 g: 1/60 dram; equals an avoirdupois grain or 64.799 milligrams
 
-w: grain1
+w: grain2
 hyper: avoirdupois_unit
 hp: dram1
 g: 1/7000 pound; equals a troy grain or 64.799 milligrams
 
-w: grain3
+w: grain
 w: metric_grain
 hyper: metric_weight_unit
 hp: decigram
@@ -2367,7 +2367,7 @@ hyper: metric_weight_unit
 g: the quantity of an element whose weight in grams is numerically equal to the atomic weight of the element
 
 w: gram_molecule
-w: mole drf adj.pert:molal drf adj.pert:molar2 drf adj.pert:molar
+w: mole drf adj.pert:molal drf adj.pert:molar1 drf adj.pert:molar2
 w: mol
 hyper: metric_weight_unit
 g: the molecular weight of a substance expressed in grams; the basic unit of amount of substance adopted under the Systeme International d'Unites
@@ -2383,10 +2383,10 @@ g: a metric unit of weight equal to one thousandth of a kilogram
 w: gravitational_constant
 w: universal_gravitational_constant
 w: constant_of_gravitation
-w: G8
+w: G3
 hyper: constant
 hp: noun.cognition:law_of_gravitation
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) the universal constant relating force to mass and distance in Newton's law of gravitation
 
 w: gray
@@ -2436,9 +2436,9 @@ w: Guatemalan_monetary_unit
 hyper: monetary_unit
 g: monetary unit in Guatemala
 
-w: guilder2
-w: gulden2
-w: florin2
+w: guilder
+w: gulden
+w: florin
 hyper: Surinamese_monetary_unit
 g: the basic unit of money in Suriname; equal to 100 cents
 
@@ -2454,7 +2454,7 @@ hyper: monetary_unit
 g: monetary unit in Guinea-Bissau
 
 w: Guinea-Bissau_peso
-w: peso10
+w: peso3
 hyper: Guinea-Bissau_monetary_unit
 g: the basic unit of money in Guinea-Bissau; equal to 100 centavos
 
@@ -2491,27 +2491,27 @@ w: Haitian_monetary_unit
 hyper: monetary_unit
 g: the monetary unit in Haiti
 
-w: haler1
-w: heller1
-hyper: Slovakian_monetary_unit
-hp: koruna
-g: 100 halers equal 1 koruna Slovakia
-
 w: haler
 w: heller
-hp: koruna
+hyper: Slovakian_monetary_unit
+hp: koruna1
+g: 100 halers equal 1 koruna Slovakia
+
+w: haler1
+w: heller1
+hp: koruna1
 hyper: Czech_monetary_unit
 g: 100 halers equal 1 koruna in Czech Republic
 
 w: half_mile
 w: 880_yards
 hyper: linear_unit
-hp: mile1
+hp: mile6
 g: a unit of length equal to half of 1 mile
 
 w: half_pound
 hyper: avoirdupois_unit
-hp: pound9
+hp: pound1
 g: 8 ounces avoirdupois
 
 w: halfpennyworth
@@ -2528,12 +2528,12 @@ w: handsbreadth
 hyper: linear_unit
 g: any unit of length based on the breadth of the human hand
 
-w: handful
+w: handful1
 w: fistful
 hyper: containerful
 g: the quantity that can be held in the hand
 
-w: handful1
+w: handful
 w: smattering
 hyper: small_indefinite_quantity
 g: a small number or amount; "only a handful of responses were received"
@@ -2543,7 +2543,7 @@ hp: dong
 hyper: Vietnamese_monetary_unit
 g: 10 hao equal 1 dong in Vietnam
 
-w: hatful
+w: hatful1
 hyper: containerful
 g: as many or as much as a hat will hold
 
@@ -2611,7 +2611,7 @@ w: hin
 hyper: volume_unit
 g: ancient Hebrew unit of liquid measure = 1.5 gallons
 
-w: hogshead1
+w: hogshead
 hyper: British_capacity_unit
 g: a British unit of capacity for alcoholic beverages
 
@@ -2655,12 +2655,12 @@ w: Hubble_constant
 w: Hubble's_parameter
 w: Hubble_parameter
 hyper: constant
-dt: noun.cognition:cosmology
+dt: noun.cognition:cosmology1
 g: (cosmology) the ratio of the speed of recession of a galaxy (due to the expansion of the universe) to its distance from the observer; the Hubble constant is not actually a constant, but is regarded as measuring the expansion rate today
 
 w: hundred
 w: 100
-w: C1
+w: C
 w: century
 w: one_C
 hyper: large_integer
@@ -2672,29 +2672,29 @@ w: lakh
 hyper: large_integer
 g: the cardinal number that is the fifth power of ten
 
-w: hundredweight1
+w: hundredweight2
 w: cwt1
 w: long_hundredweight
 hyper: avoirdupois_unit
 hp: long_ton
 g: a British unit of weight equivalent to 112 pounds
 
-w: hundredweight2
-w: cwt2
+w: hundredweight1
+w: cwt
 w: short_hundredweight
-w: centner1
+w: centner2
 w: cental
 w: quintal1
 hyper: avoirdupois_unit
 hp: short_ton
 g: a United States unit of weight equivalent to 100 pounds
 
-w: hundredweight3
+w: hundredweight
 w: metric_hundredweight
 w: doppelzentner
-w: centner3
+w: centner
 hyper: metric_weight_unit
-hp: quintal2
+hp: quintal
 g: a unit of weight equal to 100 kilograms
 
 w: Hungarian_monetary_unit
@@ -2724,7 +2724,7 @@ w: improper_fraction
 hyper: fraction
 g: a fraction whose numerator is larger than the denominator
 
-w: inch drf verb.motion:inch
+w: inch1 drf verb.motion:inch
 w: in
 hyper: linear_unit
 hp: foot
@@ -2741,7 +2741,7 @@ hyper: monetary_unit
 g: monetary unit in India
 
 w: Indian_rupee
-w: rupee1
+w: rupee5
 hyper: Indian_monetary_unit
 g: the basic unit of money in India; equal to 100 paise
 
@@ -2779,7 +2779,7 @@ hyper: constant
 g: the charge on an ion is equal to a constant charge e multiplied by an integer from 1 to 15
 
 w: Iranian_dinar
-w: dinar9
+w: dinar
 hyper: Iranian_monetary_unit
 hp: Iranian_rial
 g: 100 dinars equal 1 rial in Iran
@@ -2789,12 +2789,12 @@ hyper: monetary_unit
 g: monetary unit in Iran
 
 w: Iranian_rial
-w: rial1
+w: rial2
 hyper: Iranian_monetary_unit
 g: the basic unit of money in Iran
 
 w: Iraqi_dinar
-w: dinar2
+w: dinar6
 hyper: Iraqi_monetary_unit
 g: the basic unit of money in Iraq; equal to 1,000 fils
 
@@ -2809,7 +2809,7 @@ g: monetary unit in Eire
 w: Irish_pound
 w: Irish_punt
 w: punt
-w: pound4
+w: pound5
 hyper: Irish_monetary_unit
 g: formerly the basic unit of money in Ireland; equal to 100 pence
 
@@ -2852,7 +2852,7 @@ w: Japanese_monetary_unit
 hyper: monetary_unit
 g: monetary unit in Japan
 
-w: jar drf verb.contact:jar10
+w: jar drf verb.contact:jar
 w: jarful
 hyper: containerful
 g: the quantity contained in a jar; "he drank a jar of beer"
@@ -2863,7 +2863,7 @@ hyper: Chinese_monetary_unit
 g: 10 jiao equal 1 yuan in China
 
 w: Jordanian_dinar
-w: dinar3
+w: dinar5
 hyper: Jordanian_monetary_unit
 g: the basic unit of money in Jordan; equal to 1,000 fils
 
@@ -2887,7 +2887,7 @@ hyper: Belarusian_monetary_unit
 g: 100 kapeikas equal 1 rubel in Belarus
 
 w: karat
-w: carat2
+w: carat1
 w: kt
 hyper: unit_of_measurement
 g: the unit of measurement for the proportion of gold in an alloy; 18-karat gold is 75% gold; 24-karat gold is pure gold
@@ -2902,7 +2902,7 @@ hyper: containerful
 g: the quantity contained in a keg
 
 w: kelvin
-w: K5
+w: K1
 hyper: temperature_unit
 g: the basic unit of thermodynamic temperature adopted under the Systeme International d'Unites
 
@@ -2911,7 +2911,7 @@ hyper: monetary_unit
 g: monetary unit in Kenya
 
 w: Kenyan_shilling
-w: shilling2
+w: shilling3
 hyper: Kenyan_monetary_unit
 g: the basic unit of money in Kenya; equal to 100 cents
 
@@ -2922,7 +2922,7 @@ g: the quantity a kettle will hold
 
 w: key
 hyper: kilogram
-du: noun.communication:slang
+du: noun.communication:slang1
 g: a kilogram of a narcotic drug; "they were carrying two keys of heroin"
 
 w: khoum
@@ -2942,26 +2942,26 @@ g: an obsolete British unit of capacity equal to 18 Imperial gallons
 
 w: kilobit
 w: kbit
-w: kb4
+w: kb
 hp: megabit
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 bits
 
-w: kilobyte
+w: kilobyte1
 w: kibibyte
-w: K
-w: KB
+w: K3
+w: KB1
 w: kB1
 w: KiB
-hp: megabyte
+hp: megabyte1
 hyper: computer_memory_unit
 g: a unit of information equal to 1024 bytes
 
-w: kilobyte1
-w: K1
-w: KB2
-w: kB3
-hp: megabyte1
+w: kilobyte
+w: K2
+w: KB
+w: kB
+hp: megabyte
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 bytes
 
@@ -2997,7 +2997,7 @@ hyper: avoirdupois_unit
 hp: megaton
 g: one thousand tons
 
-w: kiloton2
+w: kiloton1
 hyper: explosive_unit
 g: a measure of explosive power (of an atomic weapon) equal to that of 1000 tons of TNT
 
@@ -3043,7 +3043,7 @@ g: 100 kobos equal 1 naira in Nigeria
 w: kopek
 w: kopeck
 w: copeck
-hp: ruble
+hp: ruble1
 hyper: Russian_monetary_unit
 g: 100 kopecks equal 1 ruble in Russia
 
@@ -3052,11 +3052,11 @@ hyper: Ukranian_monetary_unit
 hp: hryvnia
 g: 100 kopiykas equal 1 hryvnia in Ukraine
 
-w: koruna1
+w: koruna
 hyper: Slovakian_monetary_unit
 g: the basic unit of money in Slovakia
 
-w: koruna
+w: koruna1
 hyper: Czech_monetary_unit
 g: the basic unit of money in Czech Republic
 
@@ -3072,7 +3072,7 @@ g: the basic unit of money in Estonia
 w: kurus
 w: piaster1
 w: piastre1
-hp: lira2
+hp: lira1
 hyper: Turkish_monetary_unit
 g: 100 kurus equal 1 lira in Turkey
 
@@ -3082,7 +3082,7 @@ hyper: Kuwaiti_monetary_unit
 g: the basic unit of money in Kuwait; equal 1,000 fils
 
 w: Kuwaiti_dirham
-w: dirham1
+w: dirham5
 hyper: Kuwaiti_monetary_unit
 hp: Kuwaiti_dinar
 g: worth one tenth of a Kuwaiti dinar; equal 100 fils
@@ -3104,7 +3104,7 @@ hyper: monetary_unit
 g: monetary unit in Kyrgyzstan
 
 w: lambert
-w: L7
+w: L1
 hyper: illumination_unit
 g: a cgs unit of illumination equal to the brightness of a perfectly diffusing surface that emits or reflects one lumen per square centimeter
 
@@ -3133,8 +3133,8 @@ w: lari
 hyper: Georgian_monetary_unit
 g: the basic unit of money in Georgia
 
-w: last2
-hyper: weight_unit
+w: last
+hyper: weight_unit1
 g: a unit of weight equal to 4,000 pounds
 
 w: last1
@@ -3168,7 +3168,7 @@ hyper: monetary_unit
 g: monetary unit in Lebanon
 
 w: Lebanese_pound
-w: pound5
+w: pound4
 hyper: Lebanese_monetary_unit
 g: the basic unit of money in Lebanon; equal to 100 piasters
 
@@ -3185,7 +3185,7 @@ hyper: Sierra_Leone_monetary_unit
 g: the basic unit of money in Sierra Leone; equal to 100 cents
 
 w: lepton
-hp: drachma
+hp: drachma1
 hyper: Greek_monetary_unit
 g: 100 lepta equal 1 drachma in Greece
 
@@ -3193,11 +3193,11 @@ w: Lesotho_monetary_unit
 hyper: monetary_unit
 g: monetary unit in Lesotho
 
-w: leu1
+w: leu
 hyper: Moldovan_monetary_unit
 g: the basic unit of money in Moldova
 
-w: leu
+w: leu1
 hyper: Romanian_monetary_unit
 g: the basic unit of money in Romania
 
@@ -3214,12 +3214,12 @@ hyper: dollar
 g: the basic unit of money in Liberia
 
 w: Libyan_dinar
-w: dinar5
+w: dinar3
 hyper: Libyan_monetary_unit
 g: the basic unit of money in Libya
 
 w: Libyan_dirham
-w: dirham2
+w: dirham4
 hyper: Libyan_monetary_unit
 hp: Libyan_dinar
 g: 100 dirhams equal 1 dinar in Libya
@@ -3254,7 +3254,7 @@ g: the distance that light travels in a vacuum in 1 year; 5.88 trillion miles or
 
 w: ligne
 hyper: linear_unit
-hp: inch
+hp: inch1
 g: a linear unit (1/40 inch) used to measure diameter of buttons
 
 w: likuta
@@ -3266,13 +3266,13 @@ w: lilangeni
 hyper: Swaziland_monetary_unit
 g: the basic unit of money in Swaziland; equal to 100 cents
 
-w: limit1
+w: limit
 w: limit_point
 w: point_of_accumulation
 hyper: indefinite_quantity
 g: the mathematical value toward which a function goes as the independent variable approaches infinity
 
-w: limit
+w: limit1
 w: limitation
 hyper: indefinite_quantity
 g: the greatest amount of something that is possible or allowed; "there are limits on the amount you can bet"; "it is growing rapidly with no limitation in sight"
@@ -3287,7 +3287,7 @@ w: linear_measure
 hyper: unit_of_measurement
 g: a unit of measurement of length
 
-w: link1
+w: link
 hyper: linear_unit
 hp: chain
 g: a unit of length equal to 1/100 of a chain
@@ -3297,17 +3297,17 @@ w: liquid_measure
 hyper: volume_unit
 g: a unit of capacity for liquids (for measuring the volumes of liquids or their containers)
 
-w: lira1
+w: lira2
 w: Italian_lira
 hyper: Italian_monetary_unit
 g: formerly the basic unit of money in Italy; equal to 100 centesimi
 
-w: lira3
+w: lira
 w: Maltese_lira
 hyper: Maltese_monetary_unit
 g: the basic unit of money on Malta; equal to 100 cents
 
-w: lira2
+w: lira1
 w: Turkish_lira
 hyper: Turkish_monetary_unit
 g: the basic unit of money in Turkey
@@ -3399,7 +3399,7 @@ hyper: franc
 g: formerly the basic unit of money in Luxembourg
 
 w: lux
-w: lx1
+w: lx
 hyper: illumination_unit
 hp: phot
 g: a unit of illumination equal to 1 lumen per square meter; 0.0929 foot candle
@@ -3438,10 +3438,10 @@ w: magneton
 hyper: magnetomotive_force_unit
 g: a unit of magnetic moment of a molecular or atomic or subatomic particle
 
-w: majority drf adj.all:major1
+w: majority drf adj.all:major6
 w: absolute_majority
 hyper: relative_quantity
-dt: noun.act:election1
+dt: noun.act:election
 g: (elections) more than half of the votes
 
 w: Malawi_kwacha
@@ -3465,11 +3465,11 @@ w: Maltese_monetary_unit
 hyper: monetary_unit
 g: monetary unit on Malta
 
-w: manat1
+w: manat
 hyper: Turkmen_monetary_unit
 g: the basic unit of money in Turkmenistan
 
-w: manat
+w: manat1
 hyper: Azerbaijani_monetary_unit
 g: the basic unit of money in Azerbaijan
 
@@ -3511,11 +3511,11 @@ g: (tennis) the final point needed to win a match (especially in tennis)
 w: mate
 w: fellow
 hyper: singleton
-hp: couple
+hp: couple1
 g: one of a pair; "he lost the mate to his shoe"; "one eye was blue but its fellow was brown"
 
 w: maund
-hyper: weight_unit
+hyper: weight_unit1
 g: a unit of weight used in Asia; has different values in different countries; "the official maund in India is 82.6 pounds avoirdupois"
 
 w: Mauritanian_monetary_unit
@@ -3531,7 +3531,7 @@ w: rupee3
 hyper: Mauritian_monetary_unit
 g: the basic unit of money in Mauritius; equal to 100 cents
 
-w: maximum drf verb.change:maximize1 drf verb.change:maximize drf verb.change:maximise1 drf verb.change:maximise ant minimum
+w: maximum drf verb.change:maximize drf verb.change:maximize1 drf verb.change:maximise drf verb.change:maximise1 ant minimum
 w: upper_limit
 hyper: extremum
 hyper: large_indefinite_quantity
@@ -3556,24 +3556,24 @@ g: a unit of information equal to 1024 kibibits or 2^20 (1,048,576) bits
 
 w: megabit
 w: Mbit
-w: Mb2
+w: Mb
 hp: gigabit
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 kilobits or 10^6 (1,000,000) bits
 
-w: megabyte
+w: megabyte1
 w: mebibyte
 w: M2
-w: MB
+w: MB1
 w: MiB
-hp: gigabyte
+hp: gigabyte1
 hyper: computer_memory_unit
 g: a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes
 
-w: megabyte1
-w: M3
-w: MB1
-hp: gigabyte1
+w: megabyte
+w: M1
+w: MB
+hp: gigabyte
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 kilobytes or 10^6 (1,000,000) bytes
 
@@ -3589,7 +3589,7 @@ w: megaton
 hyper: avoirdupois_unit
 g: one million tons
 
-w: megaton2
+w: megaton1
 hyper: explosive_unit
 g: a measure of explosive power (of an atomic weapon) equal to that of one million tons of TNT
 
@@ -3603,7 +3603,7 @@ g: a unit of resistance equal to one million ohms
 
 w: mesh
 hyper: linear_unit
-hp: inch
+hp: inch1
 g: the number of openings per linear inch of a screen; measures size of particles; "a 100 mesh screen"; "100 mesh powdered cellulose"
 
 w: meter drf adj.pert:metric drf adj.pert:metrical
@@ -3634,17 +3634,17 @@ g: a decimal system of weights and measures based on the meter and the kilogram 
 w: metric_ton
 w: MT
 w: tonne
-w: t1
+w: t
 hyper: metric_weight_unit
 g: a unit of weight equivalent to 1000 kilograms
 
 w: metric_unit
-w: metric1
+w: metric
 hyper: unit_of_measurement
 g: a decimal unit of measurement of the metric system (based on meters and kilograms and seconds); "convert all the measurements to metric units"; "it is easier to work in metric"
 
 w: metric_weight_unit
-w: weight_unit2
+w: weight_unit
 hyper: mass_unit
 hyper: metric_unit
 hp: metric_system
@@ -3655,7 +3655,7 @@ hyper: monetary_unit
 g: monetary unit in Mexico
 
 w: Mexican_peso
-w: peso6
+w: peso2
 hyper: Mexican_monetary_unit
 g: the basic unit of money in Mexico; equal to 100 centavos
 
@@ -3698,36 +3698,36 @@ hyper: potential_unit
 hp: volt
 g: a unit of potential equal to one millionth of a volt
 
-w: mil4
+w: mil
 hp: Cypriot_pound
 hyper: Cypriot_monetary_unit
 g: a Cypriot monetary unit equal to one thousandth of a pound
 
-w: mil1
+w: mil2
 hyper: linear_unit
-hp: inch
+hp: inch1
 g: a unit of length equal to one thousandth of an inch; used to specify thickness (e.g., of sheets or wire)
 
-w: mil3
+w: mil4
 hyper: angular_unit
 g: an angular unit used in artillery; equal to 1/6400 of a complete revolution
 
-w: mile7
+w: mile
 hyper: large_indefinite_quantity
 g: a large distance; "he missed by a mile"
 
-w: mile2 drf miler drf noun.person:miler
-w: mil5
+w: mile5 drf miler drf noun.person:miler
+w: mil1
 w: Swedish_mile
 hyper: linear_unit
 g: a Swedish unit of length equivalent to 10 km
 
-w: miler drf mile6 drf mile5 drf mile4 drf mile3 drf mile2 drf mile1 drf noun.event:mile
+w: miler drf mile2 drf mile1 drf mile3 drf mile4 drf mile5 drf mile6 drf noun.event:mile
 hyper: linear_unit
 du: noun.communication:combining_form
 g: (used only in combinations) the length of something in miles; "the race was a 30-miler"
 
-w: mile3 drf miler drf noun.person:miler
+w: mile4 drf miler drf noun.person:miler
 w: Roman_mile
 hyper: linear_unit
 g: an ancient Roman unit of length equivalent to 1620 yards
@@ -3736,12 +3736,12 @@ w: miles_per_gallon
 hyper: unit_of_measurement
 g: the distance traveled in a vehicle powered by one gallon of gasoline or diesel fuel
 
-w: mile1 drf miler drf noun.person:miler
+w: mile6 drf miler drf noun.person:miler
 w: statute_mile
 w: stat_mi
 w: land_mile
 w: international_mile
-w: mi
+w: mi2
 hyper: linear_unit
 hp: league
 g: a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters
@@ -3757,11 +3757,11 @@ g: a sum or aggregate of one thousand (especially one thousand years)
 w: milliampere
 w: mA
 hyper: current_unit
-hp: ampere
+hp: ampere1
 g: one thousandth of an ampere
 
 w: milliard
-hyper: billion
+hyper: billion2
 dr: noun.location:United_Kingdom
 g: a billion; "in England they call one thousand million a milliard"
 
@@ -3787,7 +3787,7 @@ g: a unit of capacitance equal to one thousandth of a farad
 w: milligram
 w: mg
 hyper: metric_weight_unit
-hp: grain3
+hp: grain
 g: one thousandth (1/1,000) gram
 
 w: millihenry
@@ -3797,7 +3797,7 @@ g: a unit of inductance equal to one thousandth of a henry
 
 w: milliliter
 w: millilitre
-w: mil2
+w: mil3
 w: ml
 w: cubic_centimeter
 w: cubic_centimetre
@@ -3822,16 +3822,16 @@ w: milline
 hyper: printing_unit
 g: an advertising measure; one agate line appearing in one million copies of a publication
 
-w: million
+w: million1
 w: 1000000
 w: one_thousand_thousand
 w: meg
 hyper: large_integer
 g: the number that is represented as a one followed by 6 zeros
 
-w: million1
-w: billion2
-w: trillion2
+w: million
+w: billion
+w: trillion
 w: zillion
 w: jillion
 w: gazillion
@@ -3854,9 +3854,9 @@ hyper: power_unit
 hp: watt
 g: a unit of power equal to one thousandth of a watt
 
-w: minim2
+w: minim
 hyper: British_capacity_unit
-hp: fluidram2
+hp: fluidram
 g: a British imperial capacity measure (liquid or dry) equal to 1/60th fluid dram or 0.059194 cubic centimeters
 
 w: minim1
@@ -3864,7 +3864,7 @@ hyper: United_States_liquid_unit
 hp: fluidram1
 g: a United States liquid unit equal to 1/60 fluidram
 
-w: minimum drf verb.communication:minimize1 drf verb.communication:minimize drf verb.change:minimize drf verb.communication:minimise1 drf verb.change:minimise ant maximum
+w: minimum drf verb.communication:minimize1 drf verb.communication:minimize drf verb.change:minimize drf verb.communication:minimise drf verb.change:minimise ant maximum
 w: lower_limit
 hyper: extremum
 hyper: small_indefinite_quantity
@@ -3878,7 +3878,7 @@ w: minute
 w: arcminute
 w: minute_of_arc
 hyper: angular_unit
-hp: degree
+hp: degree1
 g: a unit of angular distance equal to a 60th of a degree
 
 w: MIPS
@@ -3891,7 +3891,7 @@ w: modicum
 hyper: small_indefinite_quantity
 g: a small or moderate or token amount; "England still expects a modicum of eccentricity in its artists"- Ian Jack
 
-w: modulus2
+w: modulus
 hyper: integer
 g: an integer that can be divided without remainder into the difference between two other integers; "2 is a modulus of 5 and 9"
 
@@ -3899,9 +3899,9 @@ w: modulus1
 hyper: absolute_value
 g: the absolute value of a complex number
 
-w: modulus
+w: modulus2
 hyper: coefficient
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: (physics) a coefficient that expresses how much of a specified property is possessed by a specified substance
 
 w: modulus_of_rigidity
@@ -3940,7 +3940,7 @@ hyper: area_unit
 g: a South African unit of measure equal to about 2 acres
 
 w: Moroccan_dirham
-w: dirham4
+w: dirham2
 hyper: Moroccan_monetary_unit
 g: the basic unit of money in Morocco; equal to 100 centimes
 
@@ -3987,14 +3987,14 @@ hyper: monetary_unit
 dr: noun.location:Myanmar
 g: monetary unit in the Union of Burma
 
-w: myriad1 drf adjs.all:myriad
+w: myriad drf adjs.all:myriad
 hyper: large_indefinite_quantity
 g: a large indefinite number; "he faced a myriad of details"
 
 w: myriagram
 w: myg
 hyper: metric_weight_unit
-hp: centner2
+hp: centner1
 g: one ten thousandth of a centner
 
 w: myriameter
@@ -4045,19 +4045,19 @@ hyper: linear_unit
 g: a linear unit of distance used in navigation
 
 w: nautical_mile1
-w: mile4 drf miler
-w: mi4
-w: naut_mi
+w: mile3 drf miler
+w: mi1
+w: naut_mi1
 w: knot
 w: international_nautical_mile
 w: air_mile
 hyper: nautical_linear_unit
 g: a unit of length used in navigation; exactly 1,852 meters; historically based on the distance spanned by one minute of arc in latitude
 
-w: nautical_mile2
-w: naut_mi1
-w: mile6 drf miler
-w: mi5
+w: nautical_mile
+w: naut_mi
+w: mile2 drf miler
+w: mi
 w: geographical_mile
 w: Admiralty_mile
 hyper: nautical_linear_unit
@@ -4068,7 +4068,7 @@ hyper: monetary_unit
 g: monetary unit in Nepal
 
 w: Nepalese_rupee
-w: rupee4
+w: rupee2
 hyper: Nepalese_monetary_unit
 g: the basic unit of money in Nepal; equal to 100 paisa
 
@@ -4077,7 +4077,7 @@ hyper: dollar
 g: the basic unit of money in New Zealand
 
 w: newton
-w: N1
+w: N
 hyper: force_unit
 hp: sthene
 g: a unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal to 100,000 dynes
@@ -4139,7 +4139,7 @@ hyper: luminance_unit
 g: a luminance unit equal to 1 candle per square meter measured perpendicular to the rays from the source
 
 w: normality
-w: N
+w: N1
 hyper: relative_quantity
 dt: noun.substance:solution
 g: (of a solution) concentration expressed in gram equivalents of solute per liter
@@ -4154,7 +4154,7 @@ hyper: North_Korean_monetary_unit
 g: the basic unit of money in North Korea
 
 w: Norwegian_krone
-w: krone2
+w: krone
 hyper: Norwegian_monetary_unit
 g: the basic unit of money in Norway
 
@@ -4172,18 +4172,18 @@ w: nix
 w: nada
 w: null
 w: aught
-w: cipher
-w: cypher
+w: cipher1
+w: cypher1
 w: goose_egg
 w: naught
-w: zero2 drf verb.change:zero1
+w: zero1 drf verb.change:zero
 w: zilch
 w: zip
 w: zippo
 hyper: relative_quantity
 g: a quantity of no importance; "it looked like nothing I had ever seen before"; "reduced to nil all the work we had done"; "we racked up a pathetic goose egg"; "it was all for naught"; "I didn't hear zilch about it"
 
-w: number drf adj.pert:numerical drf verb.change:number drf verb.communication:number drf verb.communication:number1 drf verb.communication:number3 drf verb.stative:number
+w: number drf adj.pert:numerical drf verb.change:number drf verb.communication:number1 drf verb.communication:number2 drf verb.communication:number drf verb.stative:number1
 hyper: definite_quantity
 g: a concept of quantity involving zero and units; "every number has a unique position in the sequence"
 
@@ -4192,13 +4192,13 @@ hyper: dividend
 g: the dividend of a fraction
 
 w: nybble
-w: nibble drf verb.consumption:nibble1 drf verb.contact:nibble
+w: nibble drf verb.consumption:nibble drf verb.contact:nibble
 hp: byte
 hyper: computer_memory_unit
 g: a small byte
 
 w: obolus
-hyper: weight_unit
+hyper: weight_unit1
 hp: gram
 g: a Greek unit of weight equal to one tenth of a gram
 
@@ -4231,11 +4231,11 @@ hyper: resistance_unit
 hp: megohm
 g: a unit of electrical resistance equal to the resistance between two points on a conductor when a potential difference of one volt between them produces a current of one ampere
 
-w: oka1
-hyper: weight_unit
+w: oka
+hyper: weight_unit1
 g: a Turkish unit of weight equal to about 2.75 pounds
 
-w: oka2
+w: oka1
 hyper: liquid_unit
 g: a Turkish liquid unit equal to 1.3 pints
 
@@ -4263,7 +4263,7 @@ g: one part in five equal parts
 w: one-fourth
 w: fourth
 w: one-quarter
-w: quarter1 drf verb.contact:quarter1 drf verb.social:quarter
+w: quarter drf verb.contact:quarter drf verb.social:quarter
 w: fourth_part
 w: twenty-five_percent
 w: quartern
@@ -4349,7 +4349,7 @@ g: a tenth part; one part in ten equal parts
 
 w: one-third
 w: third
-w: tierce
+w: tierce1
 hyper: common_fraction
 g: one of three equal parts of a divisible whole; "it contains approximately a third of the minimum daily requirement"
 
@@ -4405,10 +4405,10 @@ g: the basic unit of money in Mauritania
 w: ounce1
 w: oz.
 hyper: avoirdupois_unit
-hp: pound9
+hp: pound1
 g: a unit of weight equal to one sixteenth of a pound or 16 drams or 28.349 grams
 
-w: ounce2
+w: ounce
 w: troy_ounce
 w: apothecaries'_ounce
 hyper: apothecaries'_unit
@@ -4421,7 +4421,7 @@ hyper: indefinite_quantity
 g: the amount of something (as whiskey or oil) lost in storage or transportation
 
 w: output
-w: yield drf verb.possession:yield drf verb.creation:yield
+w: yield drf verb.possession:yield2 drf verb.creation:yield1
 w: production
 hyper: indefinite_quantity
 g: the quantity of something (as a commodity) that is created (usually within a given period of time); "production was up in the second quarter"
@@ -4461,7 +4461,7 @@ hyper: monetary_unit
 g: monetary unit in Pakistan
 
 w: Pakistani_rupee
-w: rupee2
+w: rupee4
 hyper: Pakistani_monetary_unit
 g: the basic unit of money in Pakistan; equal to 100 paisa
 
@@ -4494,7 +4494,7 @@ g: monetary unit in Paraguay
 w: parity_bit
 w: parity
 w: check_bit
-hyper: bit
+hyper: bit1
 dt: noun.cognition:computer_science
 g: (computer science) a bit that is used in an error detection procedure in which a 0 or 1 is added to each group of bits so that it will have either an odd number of 1's or an even number of 1's; e.g., if the parity is odd then any group of bits that arrives with an even number of 1's must contain an error
 
@@ -4527,14 +4527,14 @@ hp: exbibit
 hyper: computer_memory_unit
 g: a unit of information equal to 1024 tebibits or 2^50 bits
 
-w: peck2
+w: peck1
 hyper: British_capacity_unit
-hp: bushel1
+hp: bushel
 g: a British imperial capacity measure (liquid or dry) equal to 2 gallons
 
-w: peck1
+w: peck2
 hyper: United_States_dry_unit
-hp: bushel2
+hp: bushel1
 g: a United States dry measure equal to 8 quarts or 537.605 cubic inches
 
 w: pengo
@@ -4554,7 +4554,7 @@ g: a fractional monetary unit of Ireland and the United Kingdom; equal to one hu
 
 w: pennyweight
 hyper: troy_unit
-hp: ounce2
+hp: ounce
 g: a unit of apothecary weight equal to 24 grains
 
 w: pennyworth
@@ -4562,17 +4562,17 @@ w: penn'orth
 hyper: worth
 g: the amount that can be bought for a penny
 
-w: perch1
-w: rod1
-w: pole1
+w: perch
+w: rod
+w: pole
 hyper: linear_unit
 hp: furlong
 dr: noun.location:United_Kingdom
 g: a linear measure of 16.5 feet
 
-w: perch2
-w: rod2
-w: pole2
+w: perch1
+w: rod1
+w: pole1
 hyper: area_unit
 g: a square rod of land
 
@@ -4592,22 +4592,22 @@ g: 100 pesewas equal 1 cedi in Ghana
 
 w: petabit
 w: Pbit
-w: Pb2
+w: Pb
 hp: exabit
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 terabits or 10^15 bits
 
-w: petabyte1
-w: PB1
-hp: exabyte1
+w: petabyte
+w: PB
+hp: exabyte
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 terabytes or 10^15 bytes
 
-w: petabyte
+w: petabyte1
 w: pebibyte
-w: PB
+w: PB1
 w: PiB
-hp: exabyte
+hp: exabyte1
 hyper: computer_memory_unit
 g: a unit of information equal to 1024 tebibytes or 2^50 bytes
 
@@ -4621,7 +4621,7 @@ hyper: monetary_unit
 g: monetary unit in the Philippines
 
 w: Philippine_peso
-w: peso7
+w: peso1
 hyper: Philippine_monetary_unit
 g: the basic unit of money in the Philippines; equal to 100 centavos
 
@@ -4647,7 +4647,7 @@ hp: Syrian_pound
 g: a fractional monetary unit in Egypt and Lebanon and Sudan and Syria
 
 w: picking
-w: pick drf verb.contact:pick1
+w: pick drf verb.contact:pick2
 hyper: output
 g: the quantity of a crop that is harvested; "he sent the first picking of berries to the market"; "it was the biggest peach pick in years"
 
@@ -4669,23 +4669,23 @@ hp: volt
 g: a unit of potential equal to one trillionth of a volt
 
 w: picul
-hyper: weight_unit
+hyper: weight_unit1
 g: a unit of weight used in some parts of Asia; approximately equal to 133 pounds (the load a grown man can carry)
 
-w: pint2
+w: pint
 hyper: British_capacity_unit
-hp: quart2
+hp: quart
 g: a British imperial capacity measure (liquid or dry) equal to 4 gills or 568.26 cubic centimeters
 
-w: pint1
+w: pint2
 hyper: United_States_liquid_unit
-hp: quart1
+hp: quart2
 g: a United States liquid unit equal to 16 fluid ounces; two pints equal one quart
 
-w: pint3
+w: pint1
 w: dry_pint
 hyper: United_States_dry_unit
-hp: quart3
+hp: quart1
 g: a United States dry unit equal to 0.5 quart or 33.6 cubic inches
 
 w: pipeful
@@ -4698,7 +4698,7 @@ hyper: containerful
 g: the quantity contained in a pitcher
 
 w: Planck's_constant
-w: h1
+w: h
 hyper: factor_of_proportionality
 g: the constant of proportionality relating the energy of a photon to its frequency; approximately 6.626 x 10^-34 joule-second
 
@@ -4707,10 +4707,10 @@ w: plateful
 hyper: containerful
 g: the quantity contained in a plate
 
-w: plurality
+w: plurality1
 w: relative_majority
 hyper: relative_quantity
-dt: noun.act:election1
+dt: noun.act:election
 g: (in an election with more than 2 options) the number of votes for the candidate or party receiving the greatest number (but less that half of the votes)
 
 w: pocketful
@@ -4719,7 +4719,7 @@ g: the quantity a pocket will hold
 
 w: point
 hyper: linear_unit
-hp: em2
+hp: em1
 g: a linear unit used to measure the size of type; approximately 1/72 inch
 
 w: point1
@@ -4744,7 +4744,7 @@ hyper: count
 g: the number of pollen grains (usually ragweed) in a standard volume of air over a twenty-four hour period and a specified time and place
 
 w: pood
-hyper: weight_unit
+hyper: weight_unit1
 g: a Russian unit of weight equal to approximately 36 pounds
 
 w: population
@@ -4752,7 +4752,7 @@ hyper: integer
 g: the number of inhabitants (either the total number or the number of a particular race or class) in a given place (country or city etc.); "people come and go, but the population of this town has remained approximately constant for the past decade"; "the African-American population of Salt Lake City has been increasing"
 
 w: Portuguese_escudo
-w: escudo2
+w: escudo
 hyper: Portuguese_monetary_unit
 hp: conto
 g: formerly the basic monetary unit of Portugal; equal to 100 centavo
@@ -4765,12 +4765,12 @@ w: potential_unit
 hyper: electromagnetic_unit
 g: a measure of the potential energy of a unit charge at a given point in a circuit relative to a reference point (ground)
 
-w: pot
+w: pot1
 w: potful
 hyper: containerful
 g: the quantity contained in a pot
 
-w: pound10
+w: pound
 hyper: force_unit
 g: a unit of apothecary weight equal to 12 ounces troy
 
@@ -4784,14 +4784,14 @@ hyper: force_unit
 du: noun.communication:combining_form
 g: (used only in combination) something weighing a given number of pounds; "the fisherman caught a 10-pounder"; "their linemen are all 300-pounders"
 
-w: pound9
+w: pound1
 w: lb
 hyper: avoirdupois_unit
 hp: stone
-hp: quarter2
+hp: quarter1
 g: 16 ounces avoirdupois; "he got a hernia when he tried to lift 100 pounds"
 
-w: pound
+w: pound9
 w: lbf.
 hyper: force_unit
 g: a nontechnical unit of force equal to the mass of 1 pound with an acceleration of free fall equal to 32 feet/sec/sec
@@ -4814,7 +4814,7 @@ hyper: unit_of_measurement
 g: a unit measuring force per unit area
 
 w: prime_factor
-hyper: divisor1
+hyper: divisor
 g: the prime factors of a quantity are all of the prime quantities that will exactly divide the given quantity
 
 w: prime_number
@@ -4861,7 +4861,7 @@ hyper: Myanmar_monetary_unit
 g: 100 pyas equal 1 kyat in Myanmar
 
 w: Qatari_dirham
-w: dirham6
+w: dirham
 hyper: Qatari_monetary_unit
 hp: Qatari_riyal
 g: 100 dirhams equal 1 riyal in Qatar
@@ -4871,7 +4871,7 @@ hyper: monetary_unit
 g: monetary unit in Qatar
 
 w: Qatari_riyal
-w: riyal2
+w: riyal1
 hyper: Qatari_monetary_unit
 g: the basic unit of money in Qatar
 
@@ -4885,54 +4885,54 @@ hp: lek
 hyper: Albanian_monetary_unit
 g: 100 qindarka equal 1 lek in Albania
 
-w: quadrillion1
+w: quadrillion
 hyper: large_integer
 dr: noun.location:United_Kingdom
 dr: noun.location:Germany
 g: the number that is represented as a one followed by 24 zeros; "in England they call a septillion a quadrillion"
 
-w: quadrillion
+w: quadrillion1
 hyper: large_integer
 dr: noun.location:United_States
 dr: noun.location:France
 g: the number that is represented as a one followed by 15 zeros
 
-w: quart2
+w: quart
 hyper: British_capacity_unit
-hp: gallon2
+hp: gallon
 g: a British imperial capacity measure (liquid or dry) equal to 2 pints or 1.136 liters
 
-w: quart1
+w: quart2
 hyper: United_States_liquid_unit
 hp: gallon1
 g: a United States liquid unit equal to 32 fluid ounces; four quarts equal one gallon
 
-w: quart3
+w: quart1
 w: dry_quart
 hyper: United_States_dry_unit
-hp: peck1
+hp: peck2
 g: a United States dry unit equal to 2 pints or 67.2 cubic inches
 
-w: quarter2
+w: quarter1
 hyper: avoirdupois_unit
-hp: hundredweight2
+hp: hundredweight1
 g: a quarter of a hundredweight (25 pounds)
 
-w: quarter4
+w: quarter2
 hyper: British_capacity_unit
-hp: hundredweight1
+hp: hundredweight2
 dr: noun.location:United_Kingdom
 g: a quarter of a hundredweight (28 pounds)
 
 w: quarter_mile
 w: 440_yards
 hyper: linear_unit
-hp: mile1
+hp: mile6
 g: a unit of length equal to a quarter of 1 mile
 
 w: quarter_pound
 hyper: avoirdupois_unit
-hp: pound
+hp: pound9
 g: 4 ounces avoirdupois
 
 w: quarter_section
@@ -4943,7 +4943,7 @@ w: quetzal
 hyper: Guatemalan_monetary_unit
 g: the basic unit of money in Guatemala; equal to 100 centavos
 
-w: quintal2
+w: quintal
 hyper: metric_weight_unit
 hp: metric_ton
 g: a unit of weight equal to 100 kilograms
@@ -4956,7 +4956,7 @@ g: the number that is represented as a one followed by 18 zeros
 
 w: quire
 hyper: definite_quantity
-hp: ream
+hp: ream1
 g: a quantity of paper; 24 or 25 sheets
 
 w: quota
@@ -5012,11 +5012,11 @@ w: real
 hyper: complex_number
 g: any rational or irrational number
 
-w: ream1
+w: ream
 hyper: large_indefinite_quantity
 g: a large quantity of written matter; "he wrote reams and reams"
 
-w: ream
+w: ream1
 hyper: definite_quantity
 g: a quantity of paper; 480 or 500 sheets; one ream equals 20 quires
 
@@ -5037,11 +5037,11 @@ w: REM
 hyper: radioactivity_unit
 g: (Roentgen Equivalent Man) the dosage of ionizing radiation that will cause the same amount of injury to human tissue as 1 roentgen of X-rays
 
-w: remainder1
+w: remainder
 hyper: number
 g: the part of the dividend that is left over when the dividend is not evenly divisible by the divisor
 
-w: remainder
+w: remainder1
 w: difference
 hyper: number
 g: the number that remains after subtraction; the number that when added to the subtrahend gives the minuend
@@ -5069,7 +5069,7 @@ g: the basic unit of money in Malaysia; equal to 100 sen
 
 w: riyal-omani
 w: Omani_rial
-w: rial2
+w: rial1
 hyper: Omani_monetary_unit
 g: the basic unit of money in Oman
 
@@ -5093,7 +5093,7 @@ g: the quantity a room will hold
 w: room drf adjs.all:roomy
 w: way
 w: elbow_room
-hyper: noun.attribute:position
+hyper: noun.attribute:position1
 g: space for movement; "room to pass"; "make way for"; "hardly enough elbow room to turn around"
 
 w: root
@@ -5101,18 +5101,18 @@ hyper: number
 g: a number that, when multiplied by itself some number of times, equals a given number
 
 w: rotl
-hyper: weight_unit
+hyper: weight_unit1
 g: a unit of weight used in some Moslem countries near the Mediterranean; varies between one and five pounds
 
 w: rubel
 hyper: Belarusian_monetary_unit
 g: the basic unit of money in Belarus
 
-w: ruble1
+w: ruble
 hyper: Tajikistani_monetary_unit
 g: the basic unit of money in Tajikistan
 
-w: ruble
+w: ruble1
 w: rouble
 hyper: Russian_monetary_unit
 g: the basic unit of money in Russia
@@ -5170,7 +5170,7 @@ hyper: monetary_unit
 g: monetary unit in Saudi Arabia
 
 w: Saudi_Arabian_riyal
-w: riyal3
+w: riyal
 hyper: Saudi_Arabian_monetary_unit
 g: the basic unit of money in Saudi Arabia
 
@@ -5179,7 +5179,7 @@ hyper: multiplier
 g: a number used as a multiplier in scaling
 
 w: scattering
-w: sprinkling drf verb.contact:sprinkle1
+w: sprinkling drf verb.contact:sprinkle
 hyper: small_indefinite_quantity
 g: a small number (of something) dispersed haphazardly; "the first scatterings of green"; "a sprinkling of grey at his temples"
 
@@ -5188,22 +5188,22 @@ w: Austrian_schilling
 hyper: Austrian_monetary_unit
 g: formerly the basic unit of money in Austria
 
-w: scoop drf verb.contact:scoop1
+w: scoop drf verb.contact:scoop
 w: scoopful
 hyper: containerful
 g: the quantity a scoop will hold
 
-w: score drf verb.competition:score
+w: score drf verb.competition:score1
 hyper: number
 g: a number that expresses the accomplishment of a team or an individual in a game or contest; "the score was 7 to 0"
 
 w: scruple
 hyper: apothecaries'_unit
-hp: dram2
+hp: dram
 g: a unit of apothecary weight equal to 20 grains
 
 w: sea_mile
-w: mile5 drf miler
+w: mile1 drf miler
 hyper: nautical_linear_unit
 g: a former British unit of length once used in navigation; equivalent to 6,000 feet (1828.8 meters)
 
@@ -5299,7 +5299,7 @@ g: the cardinal number that is the product of ten and seven
 
 w: sextant
 hyper: angular_unit
-hp: noun.attribute:circumference1
+hp: noun.attribute:circumference
 g: a unit of angular distance equal to 60 degrees
 
 w: sextillion
@@ -5313,7 +5313,7 @@ hyper: monetary_unit
 g: monetary unit in Seychelles
 
 w: Seychelles_rupee
-w: rupee5
+w: rupee1
 hyper: Seychelles_monetary_unit
 g: the basic unit of money in Seychelles; equal to 100 cents
 
@@ -5335,7 +5335,7 @@ hyper: small_indefinite_quantity
 g: a small amount of money; "he managed it on a shoestring"
 
 w: short_ton
-w: ton2
+w: ton
 w: net_ton
 hyper: avoirdupois_unit
 hp: kiloton
@@ -5427,7 +5427,7 @@ g: the quantity a skep can hold
 
 w: skinful
 hyper: indefinite_quantity
-du: noun.communication:slang
+du: noun.communication:slang1
 g: a quantity of alcoholic drink sufficient to make you drunk; "someone had to drive me home last night because I had a skinful"
 
 w: Slovakian_monetary_unit
@@ -5456,11 +5456,11 @@ hyper: definite_quantity
 dt: noun.substance:solution
 g: the quantity of a particular substance that can dissolve in a particular solvent (yielding a saturated solution)
 
-w: som1
+w: som
 hyper: Uzbekistani_monetary_unit
 g: the basic unit of money in Uzbekistan
 
-w: som
+w: som1
 hyper: Kyrgyzstani_monetary_unit
 g: the basic unit of money in Kyrgyzstan
 
@@ -5469,7 +5469,7 @@ hyper: monetary_unit
 g: monetary unit in Somalia
 
 w: Somalian_shilling
-w: shilling3
+w: shilling2
 hyper: Somalian_monetary_unit
 g: the basic unit of money in Somalia; equal to 100 cents
 
@@ -5491,7 +5491,7 @@ hyper: monetary_unit
 g: monetary unit in South Korea
 
 w: South_Korean_won
-w: won2
+w: won
 hyper: South_Korean_monetary_unit
 g: the basic unit of money in South Korea
 
@@ -5529,12 +5529,12 @@ hyper: containerful
 g: as much as a spoon will hold; "he added two spoons of sugar"
 
 w: spot
-w: bit1 drf adjs.all:bitty
+w: bit drf adjs.all:bitty
 hyper: small_indefinite_quantity
 g: a small piece or quantity of something; "a spot of tea"; "a bit of paper"; "a bit of lint"; "I gave him a bit of my mind"
 
 w: spray
-w: spraying drf verb.contact:spray
+w: spraying drf verb.contact:spray2
 hyper: small_indefinite_quantity
 g: a quantity of small objects flying through the air; "a spray of bullets"
 
@@ -5573,7 +5573,7 @@ hyper: number
 g: the product of two equal terms; "nine is the second power of three"; "gravity is inversely proportional to the square of the distance"
 
 w: Sri_Lanka_rupee
-w: rupee6
+w: rupee
 hyper: Sri_Lankan_monetary_unit
 g: the basic unit of money in Sri Lanka; equal to 100 cents
 
@@ -5596,7 +5596,7 @@ w: standard_temperature
 hyper: degree_centigrade
 g: exactly zero degrees centigrade
 
-w: step1 drf verb.change:step
+w: step drf verb.change:step
 w: stone's_throw
 hyper: small_indefinite_quantity
 g: a short distance; "it's only a step to the drugstore"
@@ -5613,7 +5613,7 @@ g: a unit of force equal to 1000 newtons
 
 w: stone
 hyper: avoirdupois_unit
-hp: quarter2
+hp: quarter1
 dr: noun.location:United_Kingdom
 g: an avoirdupois unit used to measure the weight of a human body; equal to 14 pounds; "a heavy chap who must have weighed more than twenty stone"
 
@@ -5630,7 +5630,7 @@ g: standard temperature and pressure
 
 w: straight_angle
 hyper: angular_unit
-hp: noun.attribute:circumference1
+hp: noun.attribute:circumference
 g: an angle of 180 degrees
 
 w: stroke
@@ -5651,7 +5651,7 @@ hyper: monetary_unit
 g: monetary unit in the Sudan
 
 w: Sudanese_pound
-w: pound7
+w: pound3
 hyper: Sudanese_monetary_unit
 g: the basic unit of money in the Sudan; equal to 100 piasters
 
@@ -5676,7 +5676,7 @@ hyper: monetary_unit
 g: monetary unit in Swaziland
 
 w: Swedish_krona
-w: krona2
+w: krona
 hyper: Swedish_monetary_unit
 g: the basic unit of money in Sweden
 
@@ -5693,12 +5693,12 @@ hyper: monetary_unit
 g: monetary unit in Syria
 
 w: Syrian_pound
-w: pound8
+w: pound2
 hyper: Syrian_monetary_unit
 g: the basic unit of money in Syria; equal to 100 piasters
 
 w: system_of_measurement
-w: metric
+w: metric1
 hyper: noun.Tops:measure
 g: a system of related measures that facilitates the quantification of some particular characteristic
 
@@ -5707,7 +5707,7 @@ hyper: system_of_measurement
 g: system of measurement for length and weight and duration
 
 w: system_of_weights
-w: weight1
+w: weight
 hyper: system_of_measurement
 g: a system of units used to express the weight of something
 
@@ -5721,8 +5721,8 @@ w: International_System
 hyper: metric_system
 g: a complete metric system of units of measurement for scientists; fundamental quantities are length (meter) and mass (kilogram) and time (second) and electric current (ampere) and temperature (kelvin) and amount of matter (mole) and luminous intensity (candela); "Today the United States is the only country in the world not totally committed to the Systeme International d'Unites"
 
-w: tablespoon1
-w: tablespoonful1
+w: tablespoon
+w: tablespoonful
 hyper: containerful
 g: as much as a tablespoon will hold
 
@@ -5732,7 +5732,7 @@ hyper: small_indefinite_quantity
 g: a slight amount or degree of difference; "a tad too expensive"; "not a tad of difference"; "the new model is a shade better than the old one"
 
 w: tael
-hyper: weight_unit
+hyper: weight_unit1
 g: a unit of weight used in east Asia approximately equal to 1.3 ounces
 
 w: Taiwan_dollar
@@ -5774,7 +5774,7 @@ hyper: monetary_unit
 g: monetary unit in Tanzania
 
 w: Tanzanian_shilling
-w: shilling4
+w: shilling1
 hyper: Tanzanian_monetary_unit
 g: the basic unit of money in Tanzania; equal to 100 cents
 
@@ -5783,8 +5783,8 @@ w: teacupful
 hyper: containerful
 g: as much as a teacup will hold
 
-w: teaspoon1
-w: teaspoonful1
+w: teaspoon
+w: teaspoonful
 hyper: containerful
 g: as much as a teaspoon will hold
 
@@ -5816,36 +5816,36 @@ g: the cardinal number that is the sum of nine and one; the base of the decimal 
 
 w: ten_thousand
 w: 10000
-w: myriad
+w: myriad1
 hyper: large_integer
 g: the cardinal number that is the product of ten and one thousand
 
-w: tenge1
+w: tenge
 hyper: Turkmen_monetary_unit
 g: 100 tenge equal 1 manat in Turkmenistan
 
-w: tenge
+w: tenge1
 hyper: Kazakhstani_monetary_unit
 g: the basic unit of money in Kazakhstan
 
 w: terabit
 w: Tbit
-w: Tb2
+w: Tb
 hp: petabit
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 gigabits or 10^12 (1,000,000,000,000) bits
 
-w: terabyte1
-w: TB1
-hp: petabyte1
+w: terabyte
+w: TB
+hp: petabyte
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 gigabytes or 10^12 (1,000,000,000,000) bytes
 
-w: terabyte
+w: terabyte1
 w: tebibyte
-w: TB
+w: TB1
 w: TiB
-hp: petabyte
+hp: petabyte1
 hyper: computer_memory_unit
 g: a unit of information equal to 1024 gibibytes or 2^40 (1,099,511,627,776) bytes
 
@@ -5899,13 +5899,13 @@ g: the cardinal number that is the product of ten and three
 w: thousand
 w: one_thousand
 w: 1000
-w: M1
-w: K6
+w: M
+w: K
 w: chiliad
-w: G1
+w: G
 w: grand
 w: thou
-w: yard2
+w: yard
 hyper: large_integer
 g: the cardinal number that is the product of 10 and 100
 
@@ -5919,7 +5919,7 @@ w: 3
 w: III
 w: trio
 w: threesome
-w: tierce1
+w: tierce
 w: leash
 w: troika
 w: triad
@@ -5940,16 +5940,16 @@ hyper: scale_factor
 dt: noun.cognition:simulation
 g: the ratio of the simulation time to the time of the real process
 
-w: tiyin1
+w: tiyin
 hyper: Uzbekistani_monetary_unit
 g: 100 tiyin equal 1 som in Uzbekistan
 
-w: tiyin
+w: tiyin1
 hyper: Kazakhstani_monetary_unit
 g: 100 tiyin equal 1 tenge in Kazakhstan
 
 w: tod
-hyper: weight_unit
+hyper: weight_unit1
 dr: noun.location:United_Kingdom
 g: a unit of weight for wool equal to about 28 pounds
 
@@ -6033,9 +6033,9 @@ w: transmission
 hyper: coefficient
 g: the fraction of radiant energy that passes through a substance
 
-w: trillion
-w: one_million_million1
-w: 10000000000001
+w: trillion2
+w: one_million_million
+w: 1000000000000
 hyper: large_integer
 dr: noun.location:United_States
 dr: noun.location:France
@@ -6059,7 +6059,7 @@ hyper: troy_unit
 g: an apothecary weight equal to 12 ounces or 373.242 grams
 
 w: troy_unit
-hyper: weight_unit
+hyper: weight_unit1
 hp: troy
 g: any of the unit of the troy system of weights
 
@@ -6079,7 +6079,7 @@ hyper: Mongolian_monetary_unit
 g: the basic unit of money in Mongolia
 
 w: Tunisian_dinar
-w: dinar7
+w: dinar2
 hyper: Tunisian_monetary_unit
 g: the basic unit of money in Tunisia
 
@@ -6193,7 +6193,7 @@ hyper: monetary_unit
 g: monetary unit in Uganda
 
 w: Ugandan_shilling
-w: shilling5
+w: shilling
 hyper: Ugandan_monetary_unit
 g: the basic unit of money in Uganda; equal to 100 cents
 
@@ -6220,7 +6220,7 @@ hyper: unit_of_measurement
 g: a unit of measurement for viscosity
 
 w: United_Arab_Emirate_dirham
-w: dirham5
+w: dirham1
 hyper: United_Arab_Emirate_monetary_unit
 g: the basic unit of money in the United Arab Emirates; equal to 1,000 fils
 
@@ -6249,7 +6249,7 @@ hyper: monetary_unit
 g: monetary unit in Uruguay
 
 w: Uruguayan_peso
-w: peso8
+w: peso
 hyper: Uruguayan_monetary_unit
 g: the basic unit of money in Uruguay; equal to 100 centesimos
 
@@ -6290,16 +6290,16 @@ hp: kilovolt-ampere
 g: a unit of electrical power in an AC circuit equal to the power dissipated when 1 volt produces a current of 1 ampere
 
 w: volt drf adj.pert:voltaic
-w: V
+w: V1
 hyper: potential_unit
 hp: kilovolt
 g: a unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere when the power dissipated between the two points is 1 watt; equivalent to the potential difference across a resistance of 1 ohm when 1 ampere of current flows through it
 
-w: volume1
+w: volume
 hyper: noun.Tops:measure
 g: a relative amount; "mix one volume of the solution with ten volumes of water"
 
-w: volume drf adjs.all:voluminous
+w: volume1 drf adjs.all:voluminous1
 hyper: noun.Tops:measure
 g: the amount of 3-dimensional space occupied by an object; "the gas expanded to twice its original volume"
 
@@ -6312,7 +6312,7 @@ w: cubic_content_unit
 w: displacement_unit
 w: cubature_unit
 hyper: unit_of_measurement
-hp: volume
+hp: volume1
 g: a unit of measurement of volume or capacity
 
 w: watt-hour
@@ -6336,8 +6336,8 @@ w: Wb
 hyper: flux_unit
 g: a unit of magnetic flux equal to 100,000,000 maxwells
 
-w: weight_unit
-w: weight
+w: weight_unit1
+w: weight1
 hyper: unit_of_measurement
 g: a unit used to measure weight; "he placed two weights in the scale pan"
 
@@ -6348,7 +6348,7 @@ dt: noun.cognition:statistics
 g: (statistics) a coefficient assigned to elements of a frequency distribution in order to represent their relative importance
 
 w: welterweight
-hyper: weight_unit
+hyper: weight_unit1
 g: a weight of 28 pounds; sometimes imposed as a handicap in a horse race (such as a steeplechase)
 
 w: Western_Samoan_monetary_unit
@@ -6356,7 +6356,7 @@ hyper: monetary_unit
 g: monetary unit in Western Samoa
 
 w: word
-hp: kilobyte
+hp: kilobyte1
 hyper: computer_memory_unit
 g: a word is a string of bits stored in computer memory; "large computers use words up to 64 bits long"
 
@@ -6366,7 +6366,7 @@ w: energy_unit
 hyper: unit_of_measurement
 g: a unit of measurement for work
 
-w: worth drf adjs.all:worth
+w: worth drf adjs.all:worth1
 hyper: indefinite_quantity
 g: an indefinite quantity of something having a specified value; "10 dollars worth of gasoline"
 
@@ -6375,17 +6375,17 @@ hyper: linear_unit
 du: noun.communication:combining_form
 g: (used only in combinations) the height or length of something in yards; "the golfer hit a 300-yarder to the green"
 
-w: yard
-w: pace drf verb.change:pace
+w: yard1
+w: pace1 drf verb.change:pace
 hyper: linear_unit
-hp: fathom1
+hp: fathom
 hp: chain
-hp: perch1
+hp: perch
 hp: lea
 g: a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride
 
 w: Yemeni_fils
-w: fils1
+w: fils
 hyper: Yemeni_monetary_unit
 g: 100 Yemeni fils are worth one Yemeni rial
 
@@ -6409,18 +6409,18 @@ g: a unit of information equal to 1024 zebibits or 2^80 bits
 
 w: yottabit
 w: Ybit
-w: Yb2
+w: Yb
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 zettabits or 10^24 bits
 
-w: yottabyte1
-w: YB1
+w: yottabyte
+w: YB
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 zettabytes or 10^24 bytes
 
-w: yottabyte
+w: yottabyte1
 w: yobibyte
-w: YB
+w: YB1
 w: YiB
 hyper: computer_memory_unit
 g: a unit of information equal to 1024 zebibytes or 2^80 bytes
@@ -6435,7 +6435,7 @@ hyper: Chinese_monetary_unit
 g: the basic unit of money in China
 
 w: Yugoslavian_dinar
-w: dinar8
+w: dinar1
 hyper: Yugoslavian_monetary_unit
 g: the basic unit of money in Yugoslavia
 
@@ -6452,7 +6452,7 @@ hyper: monetary_unit
 g: monetary unit in Zaire
 
 w: Zambian_kwacha
-w: kwacha2
+w: kwacha
 hyper: Zambian_monetary_unit
 g: the basic unit of money in Zambia
 
@@ -6466,32 +6466,32 @@ hp: yobibit
 hyper: computer_memory_unit
 g: a unit of information equal to 1024 exbibits or 2^70 bits
 
-w: zero1 drf verb.change:zero1
+w: zero drf verb.change:zero
 w: 0
 w: nought
-w: cipher1 drf verb.cognition:cipher
-w: cypher1 drf verb.cognition:cypher
+w: cipher drf verb.cognition:cipher
+w: cypher drf verb.cognition:cypher
 hyper: digit
 g: a mathematical element that when added to another number yields the same number
 
 w: zettabit
 w: Zbit
-w: Zb2
+w: Zb
 hp: yottabit
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 exabits or 10^21 bits
 
-w: zettabyte1
-w: ZB1
-hp: yottabyte1
+w: zettabyte
+w: ZB
+hp: yottabyte
 hyper: computer_memory_unit
 g: a unit of information equal to 1000 exabytes or 10^21 bytes
 
-w: zettabyte
+w: zettabyte1
 w: zebibyte
-w: ZB
+w: ZB1
 w: ZiB
-hp: yottabyte
+hp: yottabyte1
 hyper: computer_memory_unit
 g: a unit of information equal to 1024 exbibytes or 2^70 bytes
 

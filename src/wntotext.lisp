@@ -150,13 +150,14 @@
 	  (aref g 1)
 	  (parse-integer (aref g 2)))))
 
-(defparameter *pos* '(("n" "noun" 1) 
-                      ("v" "verb" 2) 
-                      ("a" "adj" 3) 
-                      ("s" "adjs" 5)
-                      ("r" "adv" 4)))
+(defparameter *pos* '(("n" "noun" 1 "Nouns") 
+                      ("v" "verb" 2 "Verbs") 
+                      ("a" "adj" 3 "Adjectives") 
+                      ("s" "adjs" 5 "Satellite adjectives")
+                      ("r" "adv" 4 "Adverbs")))
 
-(defparameter *lex-filenum* '((0 "adj.all" "all adjective clusters")
+(defparameter *lex-filenum* '((0 "adj.all" "all adjective clusters (minus satellites)")
+                              (100 "adjs.all" "all adjective clusters (satellites)")
                               (1 "adj.pert" "relational adjectives (pertainyms)")
                               (2 "adv.all" "all adverbs")
                               (3 "noun.Tops" "unique beginner for nouns")
@@ -396,7 +397,7 @@ returns (w sense <pointers>) where <pointers> is the pointer
 specification for this word (see MK-POINTER in the flet.)"
   (flet ((mk-frame (frames)
            (if frames
-               (format nil "fr ~{~a~^ ~}" (mapcar #'first frames))
+               (format nil "frame ~{~a~^ ~}" (mapcar #'first frames))
                ""))
          (mk-pointer (p)
            (format nil "~a ~a" (second p) (third p))))
@@ -425,7 +426,11 @@ specification for this word (see MK-POINTER in the flet.)"
                (list (mk-sense word) pointer (link-to-wordsense s dest (fifth wl)))))))
     (let ((sense-frames (resolve-frames-senses (remove-if #'global-frame? (synset-frames s))))
           (sense-links (mapcar #'process-sense-links (synset-sense-links s))))
-      (format nil "~{~a~^~%~}~%" (mapcar (lambda (w) (mk-sense-pointer w (find-sense-pointers w sense-links) (find-sense-frames w sense-frames))) (synset-words s))))))
+      (format nil "~{~a~^~%~}~%"
+              (mapcar (lambda (w) (mk-sense-pointer w
+                                                    (find-sense-pointers w sense-links) 
+                                                    (find-sense-frames w sense-frames)))
+                      (synset-words s))))))
 
 (defun mk-sem-pointer (p origin)
   "Create a semantic pointer between synsets."
@@ -441,10 +446,14 @@ specification for this word (see MK-POINTER in the flet.)"
 
 (defun add-synset (s)
   (flet ((fix-adjective (s)
+           "We need to change the type from S to A because the data
+            files don't reference satellite adjectives via S (which is
+            an inconsistency).  Also, we add 100 to the lex file
+            number so we can save the satellites in their own
+            namespace."
            (when (equal "s" (synset-type s))
              (setf (synset-type s) "a")
-             ;; (setf (synset-lnum s) (+ 100 (synset-lnum s)))
-             )))
+             (setf (synset-lnum s) (+ 100 (synset-lnum s))))))
     (fix-adjective s)
     (let* ((key (format nil "~a-~a" (synset-id s) (synset-type s))))
       (setf (gethash key *synsets*) s))))
@@ -484,7 +493,7 @@ uniqueness per lex file and not globally."
 applies to all the senses in the synset."
   (let ((frames (remove-if-not #'global-frame? (synset-frames s))))
     (if frames 
-        (format nil "fr: ~{~a~^ ~}~%" (mapcar #'first frames))
+        (format nil "frame: ~{~a~^ ~}~%" (mapcar #'first frames))
         "")))
 
 (defun mk-synset (stream sid)
@@ -514,9 +523,23 @@ applies to all the senses in the synset."
            (format nil "~{~a~}" (mapcar #'string-downcase (mapcar #'first (synset-words (gethash id *synsets*)))))))
    (sort synset-ids #'string< :key #'synset-key)))
 
+(defun generate-documentation ()
+  (with-open-file (s "namespaces.txt" :if-exists :supersede :direction :output)
+    (dolist (entry *lex-filenum*)
+      (format s "~{~6D ~18@A ~8@A~}~%" entry)))
+
+  (with-open-file (s "links.txt" :if-exists :supersede :direction :output)
+    (dolist (entry *pointers*)
+      (format s "~a:~%" (fourth (assoc (car entry) *pos* :test #'equal)))
+      (dolist (link (cdr entry))
+        (format s "~{~3A ~6A ~A~}~%" link))
+      (format s "~%"))))
+
 (defun load-en (dict-dir)
   (setf *senses* (make-hash-table :test #'equal))
   (setf *synsets* (make-hash-table :test #'equal))
+
+  (generate-documentation)
 
   (dolist (f '("data.noun" "data.verb" "data.adj" "data.adv"))
     (mapcar #'add-synset (parse-file (merge-pathnames dict-dir f) #'parse-data-line)))

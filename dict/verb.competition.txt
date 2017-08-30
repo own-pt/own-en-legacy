@@ -1,182 +1,182 @@
 w: abnegate agent noun.person:abnegator drf noun.person:abnegator
 hyper: surrender
-fr: 8 15
+frame: 8 15
 g: surrender (power or a position); "The King abnegated his power to the ministers"
 
 w: ace
-hyper: score
-fr: 9
+hyper: score1
+frame: 9
 g: score an ace against; "He aced his opponents"
 
-w: ace2
-hyper: play
+w: ace1
+hyper: play8
 dt: noun.act:golf
-fr: 8
+frame: 8
 g: play (a hole) in one stroke
 
-w: ace1 event noun.act:ace drf noun.act:ace
+w: ace2 event noun.act:ace drf noun.act:ace
 hyper: serve1
 dt: noun.act:tennis
-fr: 9
+frame: 9
 g: serve an ace against (someone)
 
-w: act agent noun.person:actor1 drf noun.person:actor1
+w: act agent noun.person:actor drf noun.person:actor
 hyper: serve
-fr: 22
+frame: 22
 g: discharge one's duties; "She acts as the chair"; "In what capacity are you acting?"
 
-w: address undergoer noun.person:addressee event noun.communication:address3 drf noun.person:addressee drf noun.communication:address3
+w: address undergoer noun.person:addressee event noun.communication:address1 drf noun.person:addressee drf noun.communication:address1
 hyper: target
-fr: 21
+frame: 21
 g: direct a question at someone
 
 w: aim event noun.act:aim drf noun.act:aim
-w: take9
+w: take
 w: train
 w: take_aim
 w: direct
 hyper: verb.motion:position
-fr: 2 21 22
+frame: 2 21 22
 g: point or cause to go (blows, weapons, or objects such as photographic equipment) towards; "Please don't aim at your little brother!"; "He trained his gun on the burglar"; "Don't train your camera on the women"; "Take a swipe at one's opponent"
 
-w: ambush event noun.act:ambush agent noun.person:ambusher drf noun.act:ambush drf noun.person:ambusher
+w: ambush1 event noun.act:ambush agent noun.person:ambusher drf noun.act:ambush drf noun.person:ambusher
 w: scupper
 w: bushwhack drf noun.person:bushwhacker1
 w: waylay
 w: lurk agent noun.person:lurker drf noun.person:lurker
 w: ambuscade event noun.act:ambuscade drf noun.act:ambuscade
 w: lie_in_wait
-hyper: verb.stative:wait
-fr: 9
+hyper: verb.stative:wait1
+frame: 9
 g: wait in hiding to attack
 
-w: angle agent noun.person:angler drf noun.animal:angler drf noun.person:angler
+w: angle agent noun.person:angler1 drf noun.animal:angler drf noun.person:angler1
 hyper: fish
-fr: 2
+frame: 2
 g: fish with a hook
 
 w: ante undergoer noun.possession:ante drf noun.possession:ante
 hyper: bet_on
 dt: noun.act:card_game
-fr: 8
+frame: 8
 g: place one's stake
 
-w: arm instrument noun.artifact:arm1 event noun.act:armament drf noun.group:armor drf noun.act:armament drf noun.artifact:arm1 ant disarm
+w: arm instrument noun.artifact:arm event noun.act:armament drf noun.group:armor drf noun.act:armament drf noun.artifact:arm ant disarm1
 w: build_up
-w: fortify by-means-of noun.cognition:fortification by-means-of noun.artifact:fort1 drf noun.cognition:fortification drf noun.artifact:fort1
+w: fortify by-means-of noun.cognition:fortification by-means-of noun.artifact:fort drf noun.cognition:fortification drf noun.artifact:fort
 w: gird
-fr: 2
+frame: 2
 g: prepare oneself for a military confrontation; "The U.S. is girding for a conflict in the Middle East"; "troops are building up on the Iraqi border"
 
 w: assail drf noun.person:assailant
-w: assault event noun.act:assault2 event noun.act:assault1 agent noun.person:assaulter drf adjs.all:assaultive drf noun.act:assault2 drf noun.act:assault1 drf noun.person:assaulter
+w: assault event noun.act:assault1 event noun.act:assault2 agent noun.person:assaulter drf adjs.all:assaultive drf noun.act:assault1 drf noun.act:assault2 drf noun.person:assaulter
 w: set_on
-w: attack2 event noun.act:attack2 agent noun.person:attacker drf noun.act:attack2 drf noun.person:attacker
-fr: 8 9 10
+w: attack event noun.act:attack3 agent noun.person:attacker drf noun.act:attack3 drf noun.person:attacker
+frame: 8 9 10
 g: attack someone physically or emotionally; "The mugger assaulted the woman"; "Nightmares assailed him regularly"
 
 w: atom-bomb
 w: nuke1 by-means-of noun.artifact:nuke drf noun.artifact:nuke
 hyper: bombard
-fr: 8
+frame: 8
 g: bomb with atomic weapons
 
-w: attack1 event noun.act:attack agent noun.person:attacker drf noun.act:attack drf noun.person:attacker fr 8 9
-w: aggress event noun.act:aggression2 event noun.act:aggression agent noun.person:aggressor drf adjs.all:aggressive drf noun.act:aggression2 drf noun.act:aggression drf noun.person:aggressor
-hyper: verb.social:act
-vg: attack
-fr: 1 2
+w: attack2 event noun.act:attack1 agent noun.person:attacker drf noun.act:attack1 drf noun.person:attacker frame 8 9
+w: aggress event noun.act:aggression event noun.act:aggression2 agent noun.person:aggressor drf adjs.all:aggressive1 drf noun.act:aggression drf noun.act:aggression2 drf noun.person:aggressor
+hyper: verb.social:act2
+vg: attack1
+frame: 1 2
 g: take the initiative and go on the offensive; "The Serbs attacked the village at night"; "The visiting team started to attack"
 
-w: attack event noun.act:attack agent noun.person:attacker drf noun.act:attack drf noun.person:attacker ant defend
+w: attack1 event noun.act:attack1 agent noun.person:attacker drf noun.act:attack1 drf noun.person:attacker ant defend2
 w: assail1 drf adjs.all:assailable drf noun.person:assailant
-vg: attack1
-hyper: contend1
-fr: 8 9
+vg: attack2
+hyper: contend
+frame: 8 9
 g: launch an attack or assault on; begin hostilities or start warfare with; "Hitler attacked Poland on September 1, 1939 and started World War II"; "Serbian forces assailed Bosnian towns all week"
 
 w: backstop drf noun.artifact:backstop
-hyper: play
+hyper: play8
 dt: noun.act:baseball
-fr: 2
+frame: 2
 g: act as a backstop
 
 w: bait
 hyper: assail
-fr: 9
+frame: 9
 g: attack with dogs or set dogs upon
 
-w: bandy1
-hyper: play
+w: bandy
+hyper: play8
 dt: noun.act:sport
-fr: 2
+frame: 2
 g: toss or strike a ball back and forth
 
-w: bandy
-hyper: contend1
-fr: 2
+w: bandy1
+hyper: contend
+frame: 2
 g: exchange blows
 
-w: barnstorm1 agent noun.person:barnstormer drf noun.person:barnstormer
-vg: barnstorm
-hyper: verb.creation:perform1
-fr: 2 22
+w: barnstorm agent noun.person:barnstormer1 drf noun.person:barnstormer1
+vg: barnstorm1
+hyper: verb.creation:perform
+frame: 2 22
 g: appear at county fairs and carnivals as a stunt flier and parachute jumper
 
-w: barnstorm
-hyper: verb.creation:perform1
-vg: barnstorm1
-fr: 2 22
+w: barnstorm1
+hyper: verb.creation:perform
+vg: barnstorm
+frame: 2 22
 g: tour the country making political speeches, giving lectures, or presenting plays; "The presidential candidates are busy barnstorming this month"
 
-w: barricade1 by-means-of noun.artifact:barricade drf noun.artifact:barricade drf noun.artifact:barricade1
+w: barricade by-means-of noun.artifact:barricade drf noun.artifact:barricade drf noun.artifact:barricade1
 hyper: verb.contact:obstruct
-fr: 8
+frame: 8
 g: prevent access to by barricading; "The street where the President lives is always barricaded"
 
-w: barricade by-means-of noun.artifact:barricade drf noun.artifact:barricade drf noun.artifact:barricade1
+w: barricade1 by-means-of noun.artifact:barricade drf noun.artifact:barricade drf noun.artifact:barricade1
 w: barricado
 hyper: verb.contact:obstruct
-fr: 8
+frame: 8
 g: block off with barricades
 
-w: battle event noun.act:battle2 event noun.act:battle agent noun.person:battler drf noun.act:battle2 drf noun.act:battle drf noun.person:battler
-w: combat event noun.act:combat1 event noun.act:combat drf adjs.all:combative drf adjs.all:combatant drf noun.act:combat1 drf noun.act:combat drf noun.person:combatant
-hyper: contend1
-fr: 2 8 9
+w: battle event noun.act:battle event noun.act:battle1 agent noun.person:battler drf noun.act:battle drf noun.act:battle1 drf noun.person:battler
+w: combat event noun.act:combat event noun.act:combat1 drf adjs.all:combative2 drf adjs.all:combatant drf noun.act:combat drf noun.act:combat1 drf noun.person:combatant
+hyper: contend
+frame: 2 8 9
 g: battle or contend against in or as if in a battle; "The Kurds are combating Iraqi troops in Northern Iraq"; "We must combat the prejudices against other races"; "they battled over the budget"
 
-w: bear_down
-hyper: contend1
+w: bear_down1
+hyper: contend
 dt: noun.act:baseball
-fr: 2
+frame: 2
 g: exert full strength; "The pitcher bore down"
 
-w: beat drf adjs.all:beatable drf noun.act:beating1
+w: beat1 drf adjs.all:beatable drf noun.act:beating
 w: beat_out
-w: crush
-w: shell3
+w: crush1
+w: shell1
 w: trounce drf noun.event:trouncing
 w: vanquish agent noun.person:vanquisher drf adjs.all:vanquishable drf noun.person:vanquisher
-entail: win
+entail: win1
 hyper: get_the_better_of
 vg: outwit
-fr: 8 9 10
+frame: 8 9 10
 g: come out better in a competition, race, or conflict; "Agassi beat Becker in the tennis championship"; "We beat the competition"; "Harvard defeated Yale in the last football game"
 
 w: beset
 w: set_upon
 hyper: assail
-fr: 9 10
+frame: 9 10
 g: assail or attack on all sides: "The zebra was beset by leopards"
 
-w: besiege agent noun.person:besieger drf noun.person:besieger
+w: besiege agent noun.person:besieger1 drf noun.person:besieger1
 w: beleaguer
-w: surround
+w: surround1
 w: hem_in
-w: circumvent1
-hyper: attack
-fr: 8
+w: circumvent
+hyper: attack1
+frame: 8
 g: surround so as to force to give up; "The Turks besieged Vienna"
 
 w: bet_on
@@ -184,1323 +184,1323 @@ w: back
 w: gage
 w: stake undergoer noun.possession:stake drf noun.possession:stake
 w: game drf noun.act:gaming
-w: punt agent noun.person:punter1 drf noun.person:punter1
+w: punt agent noun.person:punter2 drf noun.person:punter2
 hyper: bet
-fr: 8 13
+frame: 8 13
 g: place a bet on; "Which horse are you backing?"; "I'm betting on the new horse"
 
-w: better state noun.attribute:better1 by-means-of noun.attribute:better1 drf noun.attribute:better1
+w: better state noun.attribute:better by-means-of noun.attribute:better drf noun.attribute:better
 w: break
 hyper: surpass
-fr: 8
+frame: 8
 g: surpass in excellence; "She bettered her own record"; "break a record"
 
 w: bet undergoer noun.possession:bet event noun.act:bet agent noun.person:bettor agent noun.person:better drf noun.person:bettor drf noun.possession:bet drf noun.act:bet drf noun.person:better
 w: wager undergoer noun.possession:wager event noun.act:wager agent noun.person:wagerer drf noun.possession:wager drf noun.act:wager drf noun.person:wagerer
-w: play8 event noun.act:play2 drf noun.act:play2
+w: play1 event noun.act:play7 drf noun.act:play7
 hyper: gamble
-vg: play7
-fr: 2 8
+vg: play
+frame: 2 8
 g: stake on the outcome of an issue; "I bet $100 on that new horse"; "She played all her money on the dark horse"
 
 w: bias by-means-of noun.cognition:bias drf noun.cognition:bias
 hyper: verb.cognition:prejudice
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: influence in an unfair way; "you are biasing my choice by telling me yours"
 
 w: bird undergoer noun.animal:bird agent noun.person:birder drf noun.person:birder drf noun.animal:bird
-w: birdwatch agent noun.person:bird_watcher1 agent noun.person:bird_watcher drf noun.person:bird_watcher drf noun.person:bird_watcher1
+w: birdwatch agent noun.person:bird_watcher agent noun.person:bird_watcher1 drf noun.person:bird_watcher1 drf noun.person:bird_watcher
 hyper: verb.perception:observe
-fr: 2 22
+frame: 2 22
 g: watch and study birds in their natural habitat
 
 w: blast event noun.event:blast agent noun.person:blaster drf noun.event:blast drf noun.person:blaster
-w: shell by-means-of noun.artifact:shell drf noun.artifact:shell drf noun.act:shelling
+w: shell by-means-of noun.artifact:shell2 drf noun.artifact:shell2 drf noun.act:shelling
 hyper: bombard
-fr: 8
+frame: 8
 g: use explosives on; "The enemy has been shelling us all day"
 
 w: blast1
-w: shoot event noun.act:shoot agent noun.person:shooter drf noun.person:shooter drf noun.act:shoot drf noun.act:shooting
-hyper: fire
-vg: shoot1
-fr: 2 8 22
+w: shoot1 event noun.act:shoot agent noun.person:shooter drf noun.person:shooter drf noun.act:shoot drf noun.act:shooting1
+hyper: fire2
+vg: shoot
+frame: 2 8 22
 g: fire a shot; "the gunman blasted away"
 
 w: blaze_away
 w: blaze
 hyper: blast1
-fr: 2
+frame: 2
 g: shoot rapidly and repeatedly; "He blazed away at the men"
 
 w: blindside
 hyper: assail
-fr: 9
+frame: 9
 g: attack or hit on or from the side where the attacked person's view is obstructed
 
-w: blitz event noun.act:blitz drf noun.act:blitz
-hyper: attack
-fr: 8
+w: blitz event noun.act:blitz1 drf noun.act:blitz1
+hyper: attack1
+frame: 8
 g: attack suddenly and without warning; "Hitler blitzed Poland"
 
 w: blitzkrieg
 hyper: war
-fr: 2
+frame: 2
 g: fight a quick and surprising war
 
-w: blockade1 by-means-of noun.artifact:blockade drf noun.artifact:blockade
+w: blockade by-means-of noun.artifact:blockade drf noun.artifact:blockade
 w: block_off
 hyper: verb.contact:obstruct
-fr: 8
+frame: 8
 g: obstruct access to
 
-w: blockade event noun.act:blockade drf noun.act:blockade
+w: blockade1 event noun.act:blockade drf noun.act:blockade
 w: seal_off
 hyper: besiege
-fr: 8
+frame: 8
 g: impose a blockade on
 
 w: bluff event noun.act:bluff agent noun.person:bluffer drf noun.act:bluff drf noun.person:bluffer
 w: bluff_out
 hyper: move
 dt: noun.act:card_game
-fr: 2 9
+frame: 2 9
 g: deceive an opponent by a bold bet on an inferior hand with the result that the opponent withdraws a winning hand
 
 w: boat-race
 entail: verb.motion:boat
 hyper: race
-fr: 2
+frame: 2
 g: participate in a boat race
 
 w: bomb_out
 hyper: bombard
-fr: 9
+frame: 9
 g: make somebody homeless by destroying their houses with bombs
 
-w: bombard event noun.act:bombardment1 drf noun.act:bombardment1
-w: bomb vehicle noun.artifact:bomber undergoer noun.artifact:bomb agent noun.person:bomber drf noun.person:bomber drf noun.artifact:bomber drf noun.artifact:bomb drf noun.act:bombing
-hyper: attack
-fr: 8 9
+w: bombard event noun.act:bombardment2 drf noun.act:bombardment2
+w: bomb vehicle noun.artifact:bomber undergoer noun.artifact:bomb1 agent noun.person:bomber drf noun.person:bomber drf noun.artifact:bomber drf noun.artifact:bomb1 drf noun.act:bombing1
+hyper: attack1
+frame: 8 9
 g: throw bombs at or attack with bombs; "The Americans bombed Dresden"
 
-w: bowl agent noun.person:bowler drf noun.artifact:bowl4 drf noun.person:bowler
-hyper: play
-fr: 2
+w: bowl agent noun.person:bowler1 drf noun.artifact:bowl2 drf noun.person:bowler1
+hyper: play8
+frame: 2
 g: engage in the sport of bowling; "My parents like to bowl on Friday nights"
 
 w: brail
 hyper: fish
-fr: 8
+frame: 8
 g: haul fish aboard with brails
 
-w: break_down drf noun.act:breakdown2
-w: crush1
-hyper: verb.change:change1
-fr: 8 11
+w: break_down drf noun.act:breakdown
+w: crush
+hyper: verb.change:change5
+frame: 8 11
 g: make ineffective; "Martin Luther King tried to break down racial discrimination"
 
 w: brigade result noun.group:brigade drf noun.group:brigade
 hyper: group
-fr: 2 9
+frame: 2 9
 g: form or unite into a brigade
 
 w: bulldog drf noun.animal:bulldog
 hyper: assail
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: attack viciously and ferociously
 
 w: bulldog1
-hyper: overcome1
-fr: 8
+hyper: overcome
+frame: 8
 g: throw a steer by seizing the horns and twisting the neck, as in a rodeo
 
-w: bulwark by-means-of noun.artifact:bulwark1 by-means-of noun.artifact:bulwark drf noun.artifact:bulwark1 drf noun.artifact:bulwark
-hyper: defend
-fr: 8
+w: bulwark by-means-of noun.artifact:bulwark by-means-of noun.artifact:bulwark2 drf noun.artifact:bulwark drf noun.artifact:bulwark2
+hyper: defend2
+frame: 8
 g: defend with a bulwark
 
 w: caddie agent noun.person:caddie drf noun.person:caddie
 w: caddy drf noun.artifact:caddy
 hyper: serve
 dt: noun.act:golf
-fr: 2
+frame: 2
 g: act as a caddie and carry clubs for a player
 
 w: call_up event noun.communication:call_up drf noun.communication:call_up
-w: mobilize1 event noun.act:mobilization1 drf noun.act:mobilization1 ant demobilize3
-w: mobilise1 event noun.act:mobilisation1 event noun.act:mobilisation drf noun.act:mobilisation1 drf noun.act:mobilisation
+w: mobilize event noun.act:mobilization1 drf noun.act:mobilization1 ant demobilize
+w: mobilise event noun.act:mobilisation1 event noun.act:mobilisation drf noun.act:mobilisation1 drf noun.act:mobilisation
 w: rally drf noun.act:rallying1
-hyper: verb.communication:call5
-fr: 8 9
+hyper: verb.communication:call11
+frame: 8 9
 g: call to arms; of military personnel
 
-w: campaign1 event noun.event:campaign agent noun.person:campaigner drf noun.event:campaign drf noun.person:campaigner
-w: run6 event noun.event:run3 drf noun.event:run3
+w: campaign event noun.event:campaign agent noun.person:campaigner drf noun.event:campaign drf noun.person:campaigner
+w: run1 event noun.event:run drf noun.event:run
 hyper: race
-fr: 2 22
+frame: 2 22
 g: run, stand, or compete for an office or a position; "Who's running for treasurer this year?"
 
-w: campaign event noun.act:campaign drf noun.act:campaign
+w: campaign1 event noun.act:campaign drf noun.act:campaign
 w: take_the_field1
 entail: war
-fr: 2 22
+frame: 2 22
 g: go on a campaign; go off to war
 
-w: cannon1 event noun.act:cannon drf noun.act:cannon
-hyper: verb.contact:hit3
+w: cannon event noun.act:cannon drf noun.act:cannon
+hyper: verb.contact:hit
 dt: noun.act:billiards
-fr: 2
+frame: 2
 g: make a cannon
 
-w: cannon instrument noun.artifact:cannon1 instrument noun.artifact:cannon agent noun.person:cannoneer drf noun.artifact:cannon1 drf noun.artifact:cannon drf noun.person:cannoneer
-hyper: discharge
-fr: 2
+w: cannon1 instrument noun.artifact:cannon2 instrument noun.artifact:cannon3 agent noun.person:cannoneer drf noun.artifact:cannon2 drf noun.artifact:cannon3 drf noun.person:cannoneer
+hyper: discharge2
+frame: 2
 g: fire a cannon
 
 w: cannonade event noun.act:cannonade drf noun.act:cannonade
-hyper: attack
-fr: 2 8 9
+hyper: attack1
+frame: 2 8 9
 g: attack with cannons or artillery
 
 w: capitulate event noun.act:capitulation drf noun.act:capitulation
 hyper: surrender
-fr: 2
+frame: 2
 g: surrender under agreed conditions
 
 w: carpet_bomb drf noun.act:carpet_bombing
 hyper: bombard
-fr: 8 9
+frame: 8 9
 g: bomb a large area systematically and extensively; "The U.S. decided to carpet bomb Vietnam"
 
-w: carry4 event noun.act:carry drf noun.act:carry
-hyper: verb.stative:have
-vg: carry3
-fr: 1
+w: carry event noun.act:carry drf noun.act:carry
+hyper: verb.stative:have1
+vg: carry1
+frame: 1
 g: have a certain range; "This rifle carries for 3,000 feet"
 
-w: carry3 event noun.act:carry drf noun.act:carry
-vg: carry4
-hyper: verb.motion:travel
+w: carry1 event noun.act:carry drf noun.act:carry
+vg: carry
+hyper: verb.motion:travel5
 dt: noun.act:golf
-fr: 1
+frame: 1
 g: cover a certain distance or advance beyond; "The drive carried to the green"
 
 w: carry2
 hyper: verb.possession:obtain
-vg: carry12
-fr: 8
+vg: carry4
+frame: 8
 g: secure the passage or adoption (of bills and motions); "The motion carried easily"
 
-w: carry1
-hyper: win
-vg: carry12
-vg: verb.social:carry2
-fr: 8
+w: carry3
+hyper: win1
+vg: carry4
+vg: verb.social:carry
+frame: 8
 g: win in an election; "The senator carried his home state"
 
-w: carry12
-vg: carry1
+w: carry4
+vg: carry3
 vg: carry2
-hyper: win
-fr: 8
+hyper: win1
+frame: 8
 g: be successful in; "She lost the game but carried the match"
 
 w: castle event noun.act:castle drf noun.artifact:castle1 drf noun.act:castle drf noun.act:castling
 hyper: move
 dt: noun.act:chess
-fr: 8
+frame: 8
 g: move the king two squares toward a rook and in the same move the rook to the square next past the king
 
-w: catch agent noun.person:catcher drf noun.person:catcher
-hyper: play
+w: catch1 agent noun.person:catcher drf noun.person:catcher
+hyper: play8
 dt: noun.act:baseball
-vg: verb.contact:catch
-fr: 2
+vg: verb.contact:catch3
+frame: 2
 g: be the catcher; "Who is catching?"
 
-w: champion agent noun.person:champion2 agent noun.person:champion drf noun.person:champion2 drf noun.person:champion
-w: defend4 agent noun.person:defender drf adjs.all:defensible drf noun.person:defender
-hyper: verb.social:back
-fr: 8 9
+w: champion agent noun.person:champion agent noun.person:champion2 drf noun.person:champion drf noun.person:champion2
+w: defend agent noun.person:defender1 drf adjs.all:defensible drf noun.person:defender1
+hyper: verb.social:back1
+frame: 8 9
 g: protect or fight for as a champion
 
-w: charge event noun.act:charge1 agent noun.animal:charger drf noun.animal:charger drf noun.act:charge1 fr 2
-w: bear_down3
+w: charge1 event noun.act:charge agent noun.animal:charger drf noun.animal:charger drf noun.act:charge frame 2
+w: bear_down
 hyper: rush
-fr: 8 9
+frame: 8 9
 g: to make a rush at or sudden attack upon, as in battle; "he saw Jess charging at him with a pitchfork"
 
-w: charge1
+w: charge
 w: level1
-w: point
-vg: point2
+w: point1
+vg: point
 hyper: aim
-fr: 2 22
+frame: 2 22
 g: direct into a position for use; "point a gun"; "He charged his weapon at me"
 
 w: charm by-means-of noun.communication:charm by-means-of noun.artifact:charm drf noun.communication:charm drf noun.artifact:charm
-hyper: protect
-fr: 9 10
+hyper: protect1
+frame: 9 10
 g: protect through supernatural powers or charms
 
-w: cheat event noun.act:cheat1 agent noun.person:cheater drf noun.act:cheat1 drf noun.person:cheater
+w: cheat event noun.act:cheat agent noun.person:cheater drf noun.act:cheat drf noun.person:cheater
 w: chouse
 w: shaft
 w: screw
 w: chicane event noun.act:chicane drf noun.act:chicanery drf noun.act:chicane
 w: jockey1
-hyper: beat
-fr: 9 11
+hyper: beat1
+frame: 9 11
 g: defeat someone through trickery or deceit
 
-w: check2
+w: check
 hyper: move
 dt: noun.act:card_game
-fr: 2
+frame: 2
 g: decline to initiate betting
 
-w: check
+w: check2
 entail: move
-hyper: attack1
+hyper: attack2
 dt: noun.act:chess
-fr: 8 9
+frame: 8 9
 g: place into check; "He checked my kings"
 
 w: checkmate event noun.act:checkmate drf noun.act:checkmate
 w: mate event noun.act:mate drf noun.act:mate
-hyper: beat
+hyper: beat1
 dt: noun.act:chess
-fr: 8 9
+frame: 8 9
 g: place an opponent's king under an attack from which it cannot escape and thus ending the game; "Kasparov checkmated his opponent after only a few moves"
 
-w: check6
+w: check1
 w: turn_back
 w: arrest
-w: stop by-means-of noun.artifact:stop drf noun.artifact:stop
+w: stop by-means-of noun.artifact:stop2 drf noun.artifact:stop2
 w: contain event noun.act:containment by-means-of noun.cognition:containment drf noun.cognition:containment drf noun.act:containment
 w: hold_back
-hyper: defend
-fr: 8 9 10 11
+hyper: defend2
+frame: 8 9 10 11
 g: hold back, as of a danger or an enemy; check the expansion or influence of; "Arrest the downward trend"; "Check the growth of communism in South East Asia"; "Contain the rebel movement"; "Turn back the tide of communism"
 
 w: chicken-fight
 w: chickenfight
-hyper: contend1
-fr: 2
+hyper: contend
+frame: 2
 g: fight while sitting on somebody's shoulders
 
 w: chop
 hyper: strike
-fr: 8
+frame: 8
 g: hit sharply
 
 w: circumvallate
 hyper: wall
-fr: 8 11
+frame: 8 11
 g: surround with or as if with a rampart or other fortification
 
-w: compete event noun.act:competition agent noun.person:competitor drf adj.all:competitive drf adj.all:competitory drf noun.act:competition drf noun.person:competitor fr 2
+w: compete event noun.act:competition agent noun.person:competitor drf adj.all:competitive drf adj.all:competitory drf noun.act:competition drf noun.person:competitor frame 2
 w: vie
-w: contend event noun.act:contention agent noun.person:contender drf noun.act:contention drf noun.person:contender
-fr: 22
+w: contend1 event noun.act:contention agent noun.person:contender drf noun.act:contention drf noun.person:contender
+frame: 22
 g: compete for something; engage in a contest; measure oneself against others
 
-w: complete event noun.act:completion2 drf noun.act:completion2
+w: complete event noun.act:completion drf noun.act:completion
 w: nail
-hyper: play
+hyper: play8
 dt: noun.act:football
-fr: 8
+frame: 8
 g: complete a pass
 
-w: concede state noun.communication:concession2 drf noun.communication:concession2 drf noun.communication:conceding
+w: concede state noun.communication:concession1 drf noun.communication:concession1 drf noun.communication:conceding
 hyper: surrender
-fr: 2
+frame: 2
 g: acknowledge defeat; "The candidate conceded after enough votes had come in to show that he would lose"
 
-w: confront event noun.communication:confrontation1 event noun.act:confrontation drf noun.communication:confrontation1 drf noun.act:confrontation
-w: face event noun.attribute:face2 drf noun.attribute:face2 see face_off
+w: confront event noun.communication:confrontation event noun.act:confrontation drf noun.communication:confrontation drf noun.act:confrontation
+w: face event noun.attribute:face1 drf noun.attribute:face1 see face_off
 hyper: meet
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: oppose, as in hostility or a competition; "You must confront your opponent"; "Jackson faced Smith in the boxing ring"; "The two enemies finally confronted each other"
 
 w: conquer agent noun.person:conqueror drf noun.person:conqueror drf noun.act:conquering
 hyper: get_the_better_of
-fr: 8 9
+frame: 8 9
 g: overcome by conquest; "conquer your fears"; "conquer a country"
 
 w: conscript event noun.act:conscription agent noun.person:conscript drf noun.act:conscription drf noun.person:conscript
-hyper: enlist
-fr: 9
+hyper: enlist1
+frame: 9
 g: enroll into service compulsorily; "The men were conscripted"
 
-w: contend1
-w: fight vehicle noun.artifact:fighter event noun.act:fight3 event noun.act:fight2 event noun.act:fight1 agent noun.person:fighter drf noun.act:fight3 drf noun.act:fight1 drf noun.act:fight2 drf noun.person:fighter drf noun.artifact:fighter drf noun.act:fighting see fight_off
-w: struggle event noun.act:struggle2 drf noun.act:struggle2
+w: contend
+w: fight1 vehicle noun.artifact:fighter event noun.act:fight2 event noun.act:fight event noun.act:fight1 agent noun.person:fighter drf noun.act:fight2 drf noun.act:fight1 drf noun.act:fight drf noun.person:fighter drf noun.artifact:fighter drf noun.act:fighting see fight_off
+w: struggle event noun.act:struggle drf noun.act:struggle
 entail: compete
-fr: 2 9 22
+frame: 2 9 22
 g: be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting"; "Militant groups are contending for control of the country"
 
-w: convert2 event noun.act:conversion2 drf noun.act:conversion2
-vg: convert
-hyper: score
-fr: 2
+w: convert event noun.act:conversion2 drf noun.act:conversion2
+vg: convert2
+hyper: score1
+frame: 2
 g: score an extra point or points after touchdown by kicking the ball through the uprights or advancing the ball into the end zone; "Smith converted and his team won"
 
 w: convert1
-vg: convert
-hyper: score
-fr: 8
+vg: convert2
+hyper: score1
+frame: 8
 g: complete successfully; "score a penalty shot or free throw"
 
-w: convert
-hyper: score
+w: convert2
+hyper: score1
 dt: noun.act:bowling
 vg: convert1
-vg: convert2
-fr: 8
+vg: convert
+frame: 8
 g: score (a spare)
 
 w: count_out
-hyper: verb.communication:declare
+hyper: verb.communication:declare1
 dt: noun.act:boxing
-fr: 9
+frame: 9
 g: declare the loser
 
 w: counterattack event noun.act:counterattack drf noun.act:counterattack
 w: counterstrike
-hyper: attack
-fr: 2
+hyper: attack1
+frame: 2
 g: make a counterattack
 
 w: countermine event noun.act:countermine drf noun.act:countermine
 hyper: mine
-fr: 8
+frame: 8
 g: destroy enemy mines with one's own mines; "We countermined the banks of the river"
 
 w: course drf noun.act:coursing
-hyper: hunt
-dt: noun.act:game
-fr: 2 8
+hyper: hunt1
+dt: noun.act:game3
+frame: 2 8
 g: hunt with hounds; "He often courses hares"
 
-w: cover7
-hyper: play3
+w: cover
+hyper: play2
 dt: noun.act:card_game
-fr: 2
+frame: 2
 g: play a higher card than the one previously played; "Smith covered again"
 
-w: cover13
-vg: cover
-hyper: protect
-fr: 8
+w: cover1
+vg: cover2
+hyper: protect1
+frame: 8
 g: be responsible for guarding an opponent in a game
 
-w: cover
-hyper: protect
-vg: cover13
-fr: 8
+w: cover2
+hyper: protect1
+vg: cover1
+frame: 8
 g: protect or defend (a position in a game); "he covered left field"
 
-w: cover1 drf noun.act:cover1
-hyper: protect
-vg: verb.stative:cover1
-fr: 8
+w: cover3 drf noun.act:cover2
+hyper: protect1
+vg: verb.stative:cover
+frame: 8
 g: hold within range of an aimed firearm
 
-w: crab undergoer noun.animal:crab drf noun.animal:crab drf noun.food:crab
+w: crab undergoer noun.animal:crab1 drf noun.animal:crab1 drf noun.food:crab
 hyper: fish
-fr: 2 22
+frame: 2 22
 g: fish for crab
 
 w: cradle
-hyper: play
+hyper: play8
 dt: noun.act:lacrosse
-fr: 2
+frame: 2
 g: run with the stick
 
-w: crew agent noun.group:crew2 agent noun.group:crew1 drf noun.group:crew2 drf noun.group:crew1
+w: crew agent noun.group:crew1 agent noun.group:crew2 drf noun.group:crew1 drf noun.group:crew2
 hyper: man
-fr: 8
+frame: 8
 g: serve as a crew member on
 
 w: cricket event noun.act:cricket agent noun.person:cricketer drf noun.act:cricket drf noun.person:cricketer
-hyper: play
-fr: 2
+hyper: play8
+frame: 2
 g: play cricket
 
 w: criticize drf noun.person:critic2 drf noun.person:critic1 drf noun.person:critic
 w: criticise
 hyper: act
-fr: 2
+frame: 2
 g: act as a critic; "Those who criticize others often are not perfect, either"
 
 w: croquet event noun.act:croquet drf noun.act:croquet
-hyper: play
-fr: 2
+hyper: play8
+frame: 2
 g: play a game in which players hit a wooden ball through a series of hoops
 
 w: crossruff
 hyper: trump1
 dt: noun.act:card_game
-fr: 2
+frame: 2
 g: trump alternately in two hands
 
 w: crump
 hyper: blast
-fr: 8
+frame: 8
 g: bombard with heavy shells
 
-w: crusade agent noun.person:Crusader1 drf noun.act:Crusade1 drf noun.person:Crusader1
-hyper: campaign
-fr: 2 22
+w: crusade agent noun.person:Crusader drf noun.act:Crusade drf noun.person:Crusader
+hyper: campaign1
+frame: 2 22
 g: go on a crusade; fight a holy war
 
-w: curl drf noun.act:curling1
-hyper: play
+w: curl drf noun.act:curling
+hyper: play8
 dt: noun.act:sport
-fr: 2
+frame: 2
 g: play the Scottish game of curling
 
 w: cut_down
 w: cut_out
-hyper: check6
+hyper: check1
 dt: noun.act:baseball
-fr: 9
+frame: 9
 g: intercept (a player)
 
 w: cut_to_ribbons
 hyper: demolish
-fr: 9
+frame: 9
 g: defeat totally; "We must cut the other team to ribbons!"
 
-w: defend agent noun.group:defence1 drf adjs.all:defensible drf adj.all:defensive drf noun.group:defence1 ant attack
-entail: contend1
-hyper: verb.social:prevent
-fr: 8 9
+w: defend2 agent noun.group:defence drf adjs.all:defensible drf adj.all:defensive drf noun.group:defence ant attack1
+entail: contend
+hyper: verb.social:prevent1
+frame: 8 9
 g: be on the defensive; act against an attack
 
-w: defend2 agent noun.person:defender agent noun.group:defence3 drf adjs.all:defensible drf adj.all:defensive drf noun.person:defender drf noun.group:defence3
-w: guard3
-w: hold5
-hyper: protect
-vg: verb.social:hold14
-fr: 8
+w: defend1 agent noun.person:defender1 agent noun.group:defence2 drf adjs.all:defensible drf adj.all:defensive drf noun.person:defender1 drf noun.group:defence2
+w: guard
+w: hold1
+hyper: protect1
+vg: verb.social:hold3
+frame: 8
 g: protect against a challenge or attack; "Hold that position behind the trees!"; "Hold the bridge against the enemy's attacks"
 
 w: defuse drf noun.act:defusing ant fuse
-hyper: verb.change:remove
-fr: 8
+hyper: verb.change:remove2
+frame: 8
 g: remove the triggering device from
 
 w: demilitarize ant militarize
 w: demilitarise ant militarise
-hyper: disarm1
-fr: 8 11
+hyper: disarm
+frame: 8 11
 g: do away with the military organization and potential of
 
-w: demobilize event noun.act:demobilization drf noun.act:demobilization ant mobilize
-w: demobilise event noun.act:demobilisation drf noun.act:demobilisation ant mobilise
+w: demobilize1 event noun.act:demobilization drf noun.act:demobilization ant mobilize1
+w: demobilise1 event noun.act:demobilisation drf noun.act:demobilisation ant mobilise1
 w: demob
-hyper: discharge
-fr: 2
+hyper: discharge2
+frame: 2
 g: retire from military service
 
-w: demobilize3 event noun.act:demobilization drf noun.act:demobilization ant mobilize1
+w: demobilize event noun.act:demobilization drf noun.act:demobilization ant mobilize
 w: inactivate event noun.act:inactivation drf noun.act:inactivation
-w: demobilise3 event noun.act:demobilisation drf noun.act:demobilisation
-hyper: discharge
-fr: 9
+w: demobilise event noun.act:demobilisation drf noun.act:demobilisation
+hyper: discharge2
+frame: 9
 g: release from military service or remove from the active list of military service
 
 w: demolish event noun.act:demolition drf noun.act:demolition
 w: destroy
 hyper: get_the_better_of
-fr: 9
+frame: 9
 g: defeat soundly; "The home team demolished the visitors"
 
 w: deploy event noun.act:deployment drf noun.act:deployment
 hyper: verb.motion:position
-fr: 8
+frame: 8
 g: place troops or weapons in battle formation
 
-w: develop3 state noun.state:development drf noun.state:development
-hyper: play
+w: develop state noun.state:development drf noun.state:development
+hyper: play8
 dt: noun.act:chess
-vg: develop2
-fr: 2
+vg: develop1
+frame: 2
 g: move one's pieces into strategically more advantageous positions; "Spassky developed quickly"
 
-w: develop2 state noun.state:development drf noun.state:development
-vg: develop3
-hyper: play
+w: develop1 state noun.state:development drf noun.state:development
+vg: develop
+hyper: play8
 dt: noun.act:chess
-fr: 8
+frame: 8
 g: move into a strategically more advantageous position; "develop the rook"
 
 w: dice undergoer noun.artifact:dice drf noun.artifact:dice
 hyper: gamble
-fr: 2
+frame: 2
 g: play dice
 
 w: die
-hyper: play
+hyper: play8
 dt: noun.act:baseball
-fr: 2
+frame: 2
 g: to be on base at the end of an inning, of a player
 
-w: disarm event noun.act:disarmament drf noun.act:disarmament drf noun.act:disarming ant arm
-w: demilitarize2
-w: demilitarise2
-fr: 8 9
+w: disarm1 event noun.act:disarmament drf noun.act:disarmament drf noun.act:disarming ant arm
+w: demilitarize1
+w: demilitarise1
+frame: 8 9
 g: remove offensive capability from
 
-w: disarm1 event noun.act:disarmament agent noun.person:disarmer drf noun.act:disarmament drf noun.person:disarmer drf noun.act:disarming
+w: disarm event noun.act:disarmament agent noun.person:disarmer drf noun.act:disarmament drf noun.person:disarmer drf noun.act:disarming
 w: unarm
-hyper: verb.possession:deprive1
-fr: 9
+hyper: verb.possession:deprive
+frame: 9
 g: take away the weapons from; render harmless
 
-w: discharge event noun.act:discharge2 drf noun.act:discharge2 ant enlist1
+w: discharge2 event noun.act:discharge2 drf noun.act:discharge2 ant enlist
 w: muster_out
 hyper: verb.contact:let_go_of
-fr: 9
+frame: 9
 g: release from military service
 
 w: dive-bomb vehicle noun.artifact:dive_bomber drf noun.artifact:dive_bomber drf noun.act:dive-bombing
 hyper: bombard
-fr: 8
+frame: 8
 g: bomb from a diving airplane
 
-w: dogfight event noun.act:dogfight1 event noun.act:dogfight drf noun.act:dogfight drf noun.act:dogfight1
+w: dogfight event noun.act:dogfight1 event noun.act:dogfight2 drf noun.act:dogfight2 drf noun.act:dogfight1
 hyper: battle
-fr: 2
+frame: 2
 g: engage in an aerial battle with another fighter plane
 
 w: double-team
-hyper: cover
+hyper: cover2
 dt: noun.act:sport
-fr: 9
+frame: 9
 g: cover with two defensive players
 
 w: down
 hyper: get_the_better_of
 dt: noun.act:sport
-fr: 8 9
+frame: 8 9
 g: bring down or defeat (an opponent)
 
 w: draw_a_bead_on
 hyper: aim
-fr: 8
+frame: 8
 g: aim with a gun; "The hunter drew a bead on the rabbit"
 
-w: draw1 undergoer noun.artifact:draw1 undergoer noun.artifact:draw drf noun.artifact:draw drf noun.artifact:draw1 drf noun.act:drawing3
-w: cast event noun.act:cast1 drf noun.act:cast1
+w: draw1 undergoer noun.artifact:draw undergoer noun.artifact:draw1 drf noun.artifact:draw1 drf noun.artifact:draw drf noun.act:drawing1
+w: cast event noun.act:cast drf noun.act:cast
 hyper: move
-fr: 2
+frame: 2
 g: choose at random; "draw a card"; "cast lots"
 
-w: drive1
-vg: drive
-hyper: hunt
-fr: 8
+w: drive
+vg: drive1
+hyper: hunt1
+frame: 8
 g: hunting: search for game; "drive the forest"
 
-w: drive
-hyper: hunt
-vg: drive1
-fr: 8
+w: drive1
+hyper: hunt1
+vg: drive
+frame: 8
 g: hunting: chase from cover into more open ground; "drive the game"
 
 w: drive_in
-cause: score
+cause: score1
 dt: noun.act:baseball
-fr: 8 9
+frame: 8 9
 g: cause a run or runner to be scored; "His line double drove in Jim Lemon with the winning run"
 
 w: drop
-hyper: lose
+hyper: lose1
 dt: noun.act:sport
-fr: 8
+frame: 8
 g: lose (a game); "The Giants dropped 11 of their first 13"
 
 w: drop_one's_serve
-hyper: lose
+hyper: lose1
 dt: noun.act:tennis
-fr: 2
+frame: 2
 g: lose a game in which one is serving
 
 w: drop_out ant enter
-w: give_up  fr 8
+w: give_up1  frame 8
 w: fall_by_the_wayside
 w: drop_by_the_wayside
 w: throw_in
 w: throw_in_the_towel
-w: quit5 agent noun.person:quitter drf noun.person:quitter fr 8
+w: quit agent noun.person:quitter drf noun.person:quitter frame 8
 w: chuck_up_the_sponge
-fr: 2 22
+frame: 2 22
 g: give up in the face of defeat of lacking hope; admit defeat; "In the second round, the challenger gave up"
 
 w: duel event noun.act:duel agent noun.person:dueller agent noun.person:dueler drf noun.person:duelist drf noun.act:duel drf noun.person:dueller drf noun.person:dueler
-hyper: contend1
-fr: 2 9
+hyper: contend
+frame: 2 9
 g: fight a duel, as over one's honor or a woman; "In the 19th century, men often dueled over small matters"
 
 w: eagle event noun.quantity:eagle drf noun.quantity:eagle
-hyper: score
+hyper: score1
 dt: noun.act:golf
-fr: 8
+frame: 8
 g: shoot in two strokes under par
 
 w: ebb
 hyper: besiege
-fr: 8
+frame: 8
 g: hem in fish with stakes and nets so as to prevent them from going back into the sea with the ebb
 
 w: eliminate
-hyper: beat
-fr: 9
+hyper: beat1
+frame: 9
 g: remove from a contest or race; "The cyclist has eliminated all the competitors in the race"
 
 w: embed
 hyper: group
-fr: 22
+frame: 22
 g: attach to, as a journalist to a military unit when reporting on a war; "The young reporter was embedded with the Third Division"
 
 w: emulate event noun.feeling:emulation event noun.act:emulation drf noun.feeling:emulation drf noun.act:emulation
 hyper: compete
-fr: 9 11
+frame: 9 11
 g: compete with successfully; approach or reach equality with; "This artist's drawings cannot emulate his water colors"
 
-w: enlist event noun.time:enlistment drf noun.time:enlistment
+w: enlist1 event noun.time:enlistment drf noun.time:enlistment
 hyper: sign_up
-fr: 2
+frame: 2
 g: join the military
 
-w: enlist1 undergoer noun.person:enlistee event noun.time:enlistment drf noun.time:enlistment drf noun.person:enlistee drf noun.act:enlisting ant discharge
-w: draft undergoer noun.person:draftee event noun.act:draft3 drf noun.act:draft3 drf noun.person:draftee
+w: enlist undergoer noun.person:enlistee event noun.time:enlistment drf noun.time:enlistment drf noun.person:enlistee drf noun.act:enlisting ant discharge2
+w: draft undergoer noun.person:draftee event noun.act:draft drf noun.act:draft drf noun.person:draftee
 w: muster_in
 hyper: verb.social:enroll
-fr: 9
+frame: 9
 g: engage somebody to enter the army
 
-w: enter drf noun.person:entrant ant drop_out
-w: participate state noun.state:participation event noun.act:participation drf adjs.all:participatory drf noun.state:participation drf noun.act:participation drf noun.person:participant
-fr: 2 8 22
+w: enter drf noun.person:entrant2 ant drop_out
+w: participate state noun.state:participation event noun.act:participation drf adjs.all:participatory drf noun.state:participation drf noun.act:participation drf noun.person:participant1
+frame: 2 8 22
 g: become a participant; be involved in; "enter a race"; "enter an agreement"; "enter a drug treatment program"; "enter negotiations"
 
 w: equalize event noun.act:equalization by-means-of noun.act:equalizer drf noun.act:equalization drf noun.act:equalizer
 w: equalise event noun.act:equalisation drf noun.act:equalisation
-w: get_even
-hyper: score
-fr: 2
+w: get_even1
+hyper: score1
+frame: 2
 g: compensate; make the score equal
 
 w: exit
-hyper: play
+hyper: play8
 dt: noun.act:card_game
-fr: 2
+frame: 2
 g: lose the lead
 
 w: extend_oneself
 hyper: strive
-fr: 2
+frame: 2
 g: strain to the utmost
 
 w: face_off drf noun.act:face-off
 w: bully_off
-hyper: play
-fr: 2
+hyper: play8
+frame: 2
 g: start a game by a face-off
 
 w: falcon by-means-of noun.animal:falcon agent noun.person:falconer drf noun.animal:falcon drf noun.person:falconer drf noun.cognition:falconry
-hyper: hunt
-fr: 2
+hyper: hunt1
+frame: 2
 g: hunt with falcons; "The tribes like to falcon in the desert"
 
 w: fall_back ant gain
-w: lose1
+w: lose
 w: drop_off
 w: fall_behind
-w: recede event noun.act:recession1 drf noun.act:recession1 drf noun.act:receding
-hyper: verb.change:regress
-fr: 2
+w: recede event noun.act:recession drf noun.act:recession drf noun.act:receding
+hyper: verb.change:regress2
+frame: 2
 g: retreat
 
-w: feather2 event noun.act:feather drf noun.act:feather
-w: square1
-hyper: verb.motion:paddle
-fr: 2
+w: feather event noun.act:feather drf noun.act:feather
+w: square
+hyper: verb.motion:paddle1
+frame: 2
 g: turn the paddle; in canoeing
 
-w: feather event noun.act:feather drf noun.act:feather drf noun.act:feathering
-w: square
+w: feather1 event noun.act:feather drf noun.act:feather drf noun.act:feathering
+w: square1
 hyper: verb.motion:row
-fr: 2
+frame: 2
 g: turn the oar, while rowing
 
-w: fence1 agent noun.person:fencer drf noun.person:fencer drf noun.act:fencing
-hyper: contend1
-fr: 2
+w: fence agent noun.person:fencer drf noun.person:fencer drf noun.act:fencing
+hyper: contend
+frame: 2
 g: fight with fencing swords
 
-w: ferret drf noun.animal:ferret2
-hyper: hunt
-fr: 2 8
+w: ferret drf noun.animal:ferret
+hyper: hunt1
+frame: 2 8
 g: hunt with ferrets
 
 w: feud event noun.act:feud drf noun.act:feud
-hyper: contend1
-fr: 2 22
+hyper: contend
+frame: 2 22
 g: carry out a feud; "The two professors have been feuding for years"
 
-w: field1 agent noun.person:fielder1 drf noun.person:fielder1 drf noun.location:field2 drf noun.act:fielding
-hyper: verb.contact:handle
-fr: 8
+w: field agent noun.person:fielder1 drf noun.person:fielder1 drf noun.location:field1 drf noun.act:fielding
+hyper: verb.contact:handle1
+frame: 8
 g: catch or pick up (balls) in baseball or cricket
 
-w: field agent noun.person:fielder1 agent noun.person:fielder drf noun.location:field2 drf noun.person:fielder1 drf noun.person:fielder drf noun.act:fielding
-hyper: play
+w: field1 agent noun.person:fielder1 agent noun.person:fielder drf noun.location:field1 drf noun.person:fielder1 drf noun.person:fielder drf noun.act:fielding
+hyper: play8
 dt: noun.act:sport
-fr: 2
+frame: 2
 g: play as a fielder
 
-w: fight_back1
-hyper: contend1
-fr: 2
+w: fight_back
+hyper: contend
+frame: 2
 g: defend oneself
 
-w: fight1 vehicle noun.artifact:fighter event noun.communication:fight agent noun.person:fighter drf noun.communication:fight drf noun.person:fighter drf noun.artifact:fighter
-w: oppose1 event noun.act:opposition agent noun.person:opposer drf adjs.all:opponent drf noun.act:opposition drf noun.person:opposer
-w: fight_back
+w: fight vehicle noun.artifact:fighter event noun.communication:fight agent noun.person:fighter drf noun.communication:fight drf noun.person:fighter drf noun.artifact:fighter
+w: oppose event noun.act:opposition agent noun.person:opposer drf adjs.all:opponent drf noun.act:opposition drf noun.person:opposer
+w: fight_back1
 w: fight_down
-w: defend5 drf adjs.all:defensive
-hyper: contend1
-fr: 2 8 9
+w: defend3 drf adjs.all:defensive
+hyper: contend
+frame: 2 8 9
 g: fight against or resist strongly; "The senator said he would oppose the bill"; "Don't fight it!"
 
 w: firebomb instrument noun.artifact:firebomb drf noun.artifact:firebomb
 hyper: bombard
-fr: 8 9
+frame: 8 9
 g: attack with incendiary bombs; "The rioters fire-bombed the stores"
 
-w: fire event noun.act:fire drf noun.act:fire drf noun.act:firing2
-w: discharge1 event noun.act:discharge drf noun.act:discharge
-cause: fire2
-fr: 8
+w: fire2 event noun.act:fire drf noun.act:fire drf noun.act:firing3
+w: discharge1 event noun.act:discharge3 drf noun.act:discharge3
+cause: fire1
+frame: 8
 g: cause to go off; "fire a gun"; "fire a bullet"
 
-w: fire2 event noun.act:fire drf noun.act:fire
-w: discharge2 event noun.act:discharge drf noun.act:discharge
+w: fire1 event noun.act:fire drf noun.act:fire
+w: discharge event noun.act:discharge3 drf noun.act:discharge3
 w: go_off
-fr: 1
+frame: 1
 g: go off or discharge; "The gun fired"
 
-w: fish undergoer noun.animal:fish agent noun.person:fisher drf noun.food:fish drf noun.animal:fish drf noun.person:fisher drf noun.act:fishing1 drf noun.act:fishing drf noun.artifact:fishery
-hyper: verb.contact:catch
-fr: 2 8 22
+w: fish undergoer noun.animal:fish agent noun.person:fisher drf noun.food:fish drf noun.animal:fish drf noun.person:fisher drf noun.act:fishing drf noun.act:fishing1 drf noun.artifact:fishery
+hyper: verb.contact:catch3
+frame: 2 8 22
 g: catch or try to catch fish or shellfish; "I like to go fishing on weekends"
 
 w: fistfight event noun.act:fistfight drf noun.act:fistfight
-hyper: contend1
-fr: 2
+hyper: contend
+frame: 2
 g: fight with the fists; "The man wanted to fist-fight"
 
 w: fly-fish
 w: flyfish
 hyper: angle
-fr: 2 22
+frame: 2 22
 g: fish with flies as lures
 
 w: forearm
 hyper: arm
-fr: 2 9
+frame: 2 9
 g: arm in advance of a confrontation
 
 w: fork
-hyper: attack1
+hyper: attack2
 dt: noun.act:chess
-fr: 8
+frame: 8
 g: place under attack with one's own pieces, of two enemy pieces
 
-w: fort location noun.artifact:fort1 location noun.artifact:fort drf noun.artifact:fort1 drf noun.artifact:fort
+w: fort location noun.artifact:fort location noun.artifact:fort1 drf noun.artifact:fort drf noun.artifact:fort1
 hyper: station
-fr: 9
+frame: 9
 g: station (troops) in a fort
 
-w: foul1 event noun.act:foul1 drf noun.act:foul1
-hyper: verb.contact:hit3
+w: foul event noun.act:foul drf noun.act:foul
+hyper: verb.contact:hit
 dt: noun.act:baseball
-fr: 2
+frame: 2
 g: hit a foul ball
 
-w: foul event noun.act:foul1 drf noun.act:foul1
-hyper: play
-fr: 2
+w: foul1 event noun.act:foul drf noun.act:foul
+hyper: play8
+frame: 2
 g: commit a foul; break the rules
 
-w: fowl1 undergoer noun.animal:fowl agent noun.person:fowler drf noun.person:fowler drf noun.animal:fowl
-hyper: hunt
-fr: 2
+w: fowl undergoer noun.animal:fowl agent noun.person:fowler drf noun.person:fowler drf noun.animal:fowl
+hyper: hunt1
+frame: 2
 g: hunt fowl
 
-w: fowl undergoer noun.animal:fowl drf noun.animal:fowl
-hyper: hunt
-fr: 2 22
+w: fowl1 undergoer noun.animal:fowl drf noun.animal:fowl
+hyper: hunt1
+frame: 2 22
 g: hunt fowl in the forest
 
 w: foxhunt event noun.act:foxhunt drf noun.act:foxhunt drf noun.act:fox_hunting
-hyper: hunt
-fr: 2
+hyper: hunt1
+frame: 2
 g: hunt foxes, on horseback and with dogs
 
-w: front undergoer noun.location:front undergoer noun.artifact:front drf noun.location:front drf noun.artifact:front
+w: front undergoer noun.location:front3 undergoer noun.artifact:front drf noun.location:front3 drf noun.artifact:front
 w: breast
 hyper: confront
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: confront bodily; "breast the storm"
 
 w: fullback drf noun.person:fullback
-hyper: play
+hyper: play8
 dt: noun.act:football
-fr: 2
+frame: 2
 g: play the fullback
 
 w: fumble event noun.act:fumble drf noun.act:fumble
-hyper: play
+hyper: play8
 dt: noun.act:baseball
-fr: 8
+frame: 8
 g: drop or juggle or fail to play cleanly a grounder; "fumble a grounder"
 
-w: fuse uses noun.artifact:fuse1 uses noun.artifact:fuse drf noun.artifact:fuse drf noun.artifact:fuse1 ant defuse
+w: fuse uses noun.artifact:fuse uses noun.artifact:fuse1 drf noun.artifact:fuse1 drf noun.artifact:fuse ant defuse
 hyper: verb.possession:equip
-fr: 8
+frame: 8
 g: equip with a fuse; provide with a fuse
 
 w: fusillade event noun.act:fusillade drf noun.act:fusillade
-hyper: fire
-fr: 8 9
+hyper: fire2
+frame: 8 9
 g: attack with fusillade
 
-w: gain agent noun.person:gainer drf noun.person:gainer ant fall_back
+w: gain agent noun.person:gainer1 drf noun.person:gainer1 ant fall_back
 w: advance
-w: win1 event noun.event:win drf noun.event:win
+w: win event noun.event:win drf noun.event:win
 w: pull_ahead
 w: make_headway
 w: get_ahead
 w: gain_ground
-fr: 1 2
+frame: 1 2
 g: obtain advantages, such as points, etc.; "The home team was gaining ground"; "After defeating the Knicks, the Blazers pulled ahead of the Lakers in the battle for the number-one playoff berth in the Western Conference"
 
-w: gamble agent noun.person:gambler drf noun.possession:gamble drf noun.person:gambler drf noun.act:gambling
-hyper: play
-fr: 2
+w: gamble agent noun.person:gambler1 drf noun.possession:gamble drf noun.person:gambler1 drf noun.act:gambling
+hyper: play8
+frame: 2
 g: play games for money
 
-w: gang result noun.group:gang drf noun.group:gang drf noun.group:gang2
+w: gang result noun.group:gang2 drf noun.group:gang2 drf noun.group:gang
 w: gang_up
 hyper: group
-fr: 9 22
+frame: 9 22
 g: act as an organized group
 
 w: garrison undergoer noun.group:garrison location noun.artifact:garrison drf noun.group:garrison drf noun.artifact:garrison
 hyper: station
-fr: 8 9
+frame: 8 9
 g: station (troops) in a fort or garrison
 
 w: gas drf noun.act:gassing
-hyper: attack
-fr: 8 9
+hyper: attack1
+frame: 8 9
 g: attack with gas; subject to gas fumes; "The despot gassed the rebellious tribes"
 
-w: get_even1
+w: get_even
 w: get_back
 hyper: revenge
-fr: 2 22
+frame: 2 22
 g: take revenge or even out a score; "I cannot accept the defeat--I want to get even"
 
-w: get_the_best2  fr 22
-w: have_the_best2  fr 22
+w: get_the_best  frame 22
+w: have_the_best  frame 22
 w: overcome2
-hyper: beat
-fr: 10
+hyper: beat1
+frame: 10
 g: overcome, usually through no fault or weakness of the person that is overcome; "Heart disease can get the best of us"
 
 w: get_the_better_of
-w: overcome3 agent noun.person:overcomer drf noun.person:overcomer
+w: overcome1 agent noun.person:overcomer drf noun.person:overcomer
 w: defeat
-fr: 8
+frame: 8
 g: win a victory over; "You must overcome all difficulties"; "defeat your enemies"; "He overcame his shyness"; "He overcame his infirmity"; "Her anger got the better of her and she blew up"
 
 w: get_the_jump
-hyper: beat
-fr: 22
+hyper: beat1
+frame: 22
 g: be there first; "They had gotten the jump on their competitors"
 
 w: glide-bomb
 hyper: bombard
-fr: 9
+frame: 9
 g: bomb by gliding
 
 w: go_down
-hyper: lose
-fr: 1 2
+hyper: lose1
+frame: 1 2
 g: be defeated; "If America goes down, the free world will go down, too"
 
 w: go_to_war
 w: take_arms
 w: take_up_arms
 hyper: war
-fr: 2 22
+frame: 2 22
 g: commence hostilities
 
 w: golf event noun.act:golf agent noun.person:golfer drf noun.person:golfer drf noun.act:golfing drf noun.act:golf
-hyper: play
-fr: 2
+hyper: play8
+frame: 2
 g: play golf
 
 w: grass
-hyper: shoot1
-fr: 8
+hyper: shoot
+frame: 8
 g: shoot down, of birds
 
 w: group result noun.Tops:group drf noun.Tops:group drf noun.act:grouping
 w: aggroup
-hyper: verb.social:meet
-fr: 8
+hyper: verb.social:meet3
+frame: 8
 g: form a group or group together
 
 w: grouse undergoer noun.animal:grouse drf noun.animal:grouse drf noun.food:grouse
-hyper: fowl
-fr: 2 22
+hyper: fowl1
+frame: 2 22
 g: hunt grouse
 
-w: guard agent noun.group:guard drf noun.group:guard
+w: guard1 agent noun.group:guard drf noun.group:guard
 w: ward agent noun.person:warder agent noun.person:ward drf noun.person:ward drf noun.person:warder
-hyper: protect
-fr: 8 9 10 11
+hyper: protect1
+frame: 8 9 10 11
 g: watch over or shield from danger or harm; protect; "guard my possessions while I'm away"
 
-w: gun instrument noun.artifact:gun1 instrument noun.artifact:gun event noun.act:gun agent noun.person:gunner agent noun.person:gun1 agent noun.person:gun drf noun.act:gun drf noun.person:gun drf noun.person:gun1 drf noun.artifact:gun1 drf noun.artifact:gun drf noun.person:gunner see gun_down
+w: gun instrument noun.artifact:gun2 instrument noun.artifact:gun event noun.act:gun agent noun.person:gunner agent noun.person:gun agent noun.person:gun1 drf noun.act:gun drf noun.person:gun1 drf noun.person:gun drf noun.artifact:gun2 drf noun.artifact:gun drf noun.person:gunner see gun_down
 hyper: blast1
-fr: 2
+frame: 2
 g: shoot with a gun
 
 w: gun_down
-hyper: shoot1
-fr: 9
+hyper: shoot
+frame: 9
 g: strike down or shoot down
 
-w: hack1
-hyper: foul
+w: hack
+hyper: foul1
 dt: noun.act:basketball
-fr: 9
+frame: 9
 g: kick on the arms
 
-w: hack
-hyper: foul
+w: hack1
+hyper: foul1
 dt: noun.act:rugby
-fr: 9
+frame: 9
 g: kick on the shins
 
-w: handicap1 agent noun.person:handicapper drf noun.attribute:handicap2 drf noun.person:handicapper
+w: handicap agent noun.person:handicapper drf noun.attribute:handicap drf noun.person:handicapper
 hyper: bias
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: attempt to forecast the winner (especially in a horse race) and assign odds for or against a contestant
 
-w: handicap by-means-of noun.cognition:handicap drf noun.cognition:handicap
+w: handicap1 by-means-of noun.cognition:handicap drf noun.cognition:handicap
 w: hinder
-w: hamper instrument noun.artifact:hamper1 by-means-of noun.artifact:hamper1 drf noun.artifact:hamper1
+w: hamper instrument noun.artifact:hamper by-means-of noun.artifact:hamper drf noun.artifact:hamper
 hyper: verb.social:disadvantage
-fr: 8 9
+frame: 8 9
 g: put at a disadvantage; "The brace I have to wear is hindering my movements"
 
-w: harass agent noun.person:harasser drf noun.person:harasser
-hyper: attack1
-fr: 8 9
+w: harass agent noun.person:harasser1 drf noun.person:harasser1
+hyper: attack2
+frame: 8 9
 g: exhaust by attacking repeatedly; "harass the enemy"
 
 w: harpoon instrument noun.artifact:harpoon agent noun.person:harpooner drf noun.person:harpooner drf noun.artifact:harpoon
-hyper: verb.contact:catch
-fr: 8
+hyper: verb.contact:catch3
+frame: 8
 g: spear with a harpoon; "harpoon whales"
 
 w: hawk by-means-of noun.animal:hawk agent noun.person:hawker1 drf noun.animal:hawk drf noun.person:hawker1
-hyper: hunt
-fr: 2
+hyper: hunt1
+frame: 2
 g: hunt with hawks; "the tribes like to hawk in the desert"
 
-w: hit3 drf noun.act:hitting
+w: hit drf noun.act:hitting
 entail: aim
 hyper: verb.social:succeed
-fr: 8 11
+frame: 8 11
 g: hit the intended target or goal
 
 w: hold
 hyper: aim
-fr: 20
+frame: 20
 g: aim, point, or direct; "Hold the fire extinguisher directly on the flames"
 
 w: hold_off
 hyper: resist
-fr: 8 9
+frame: 8 9
 g: resist and fight to a standoff; "Dallas had enough of a lead to hold the Broncos off"
 
 w: hole_up
-hyper: score
+hyper: score1
 dt: noun.act:golf
-fr: 2
+frame: 2
 g: score a hole in one
 
 w: homer event noun.act:homer drf noun.act:homer
-hyper: score
-fr: 2
+hyper: score1
+frame: 2
 g: hit a home run
 
 w: hook
-hyper: play9
+hyper: play4
 dt: noun.act:rugby
-fr: 8
+frame: 8
 g: secure with the foot; "hook the ball"
 
 w: horse-race
 hyper: race
-fr: 2
+frame: 2
 g: compete in a horse race
 
-w: hunt2 event noun.act:hunt1 event noun.act:hunt agent noun.person:hunter drf noun.act:hunt1 drf noun.act:hunt drf noun.person:hunter drf noun.act:hunting1
-vg: hunt
+w: hunt event noun.act:hunt2 event noun.act:hunt1 agent noun.person:hunter1 drf noun.act:hunt2 drf noun.act:hunt1 drf noun.person:hunter1 drf noun.act:hunting2
+vg: hunt1
 hyper: verb.perception:search
-fr: 8
+frame: 8
 g: search (an area) for prey; "The King used to hunt these forests"
 
-w: hunt event noun.act:hunt1 event noun.act:hunt agent noun.person:hunter drf noun.act:hunt1 drf noun.act:hunt drf noun.person:hunter drf noun.act:hunting1 drf noun.act:hunting
-w: run2
+w: hunt1 event noun.act:hunt2 event noun.act:hunt1 agent noun.person:hunter1 drf noun.act:hunt2 drf noun.act:hunt1 drf noun.person:hunter1 drf noun.act:hunting2 drf noun.act:hunting1
+w: run
 w: hunt_down
 w: track_down
-vg: verb.motion:run10
+vg: verb.motion:run1
 hyper: verb.contact:capture
-vg: hunt2
-fr: 2 8 9
+vg: hunt
+frame: 2 8 9
 g: pursue for food or sport (as of wild animals); "Goering often hunted wild boars in Poland"; "The dogs are running deer"; "The Duke hunted in these woods"
 
 w: hydrogen-bomb
 hyper: bombard
-fr: 8
+frame: 8
 g: attack with a hydrogen bomb
 
 w: immobilize
 w: immobilise
-hyper: beat
-fr: 9 10 11
+hyper: beat1
+frame: 9 10 11
 g: make defenseless
 
 w: immunize
 w: immunise
-hyper: protect
-fr: 9 10
+hyper: protect1
+frame: 9 10
 g: law: grant immunity from prosecution
 
 w: invade event noun.act:invasion agent noun.person:invader drf adjs.all:invasive drf noun.act:invasion drf noun.person:invader
-w: occupy event noun.act:occupation2 agent noun.person:occupier1 drf noun.person:occupier1 drf noun.act:occupation2
-hyper: attack
-fr: 8 11
+w: occupy event noun.act:occupation agent noun.person:occupier1 drf noun.person:occupier1 drf noun.act:occupation
+hyper: attack1
+frame: 8 11
 g: march aggressively into another's territory by military force for the purposes of conquest and occupation; "Hitler invaded Poland on September 1, 1939"
 
 w: jacklight
 w: jack
-hyper: hunt
-fr: 2 8
+hyper: hunt1
+frame: 2 8
 g: hunt with a jacklight
 
-w: jockey13
+w: jockey
 hyper: manoeuver
-fr: 22
+frame: 22
 g: compete (for an advantage or a position)
 
-w: jockey3 agent noun.person:jockey drf noun.person:jockey
+w: jockey2 agent noun.person:jockey1 drf noun.person:jockey1
 hyper: horse-race
-fr: 2
+frame: 2
 g: ride a racehorse as a professional jockey
 
 w: join_battle
-hyper: contend1
-fr: 2
+hyper: contend
+frame: 2
 g: engage in a conflict; "The battle over health care reform was joined"
 
 w: joust event noun.event:joust drf noun.event:joust
-hyper: contend1
-fr: 2 22
+hyper: contend
+frame: 2 22
 g: joust against somebody in a tournament by fighting on horseback
 
 w: jump
 hyper: assail
-fr: 9
+frame: 9
 g: make a sudden physical attack on; "The muggers jumped the woman in the fur coat"
 
-w: jump3
+w: jump1
 hyper: enter
-fr: 22
+frame: 22
 g: enter eagerly into; "He jumped into the game"
 
 w: keep_step
 w: keep_pace
 hyper: keep_up
-fr: 2 22
+frame: 2 22
 g: maintain the same pace; "The child cannot keep step with his big brother"
 
 w: keep_up
 entail: compete
-fr: 2
+frame: 2
 g: maintain a required pace or level; "He could not keep up and dropped out of the race"
 
-w: kick5
-hyper: score
+w: kick
+hyper: score1
 dt: noun.act:football
-fr: 8
+frame: 8
 g: make a goal; "He kicked the extra point after touchdown"
 
 w: kill_oneself
 w: overexert_oneself
 hyper: strive
-fr: 2
+frame: 2
 g: strain oneself more than is healthy
 
 w: kneecap
-hyper: shoot1
-fr: 9
+hyper: shoot
+frame: 9
 g: shoot in the kneecap, often done by terrorist groups as a warning; "They kneecapped the industrialist"
 
 w: letter_bomb undergoer noun.artifact:letter_bomb drf noun.artifact:letter_bomb
 hyper: bombard
-fr: 9
+frame: 9
 g: send an explosive to; "The Unabomber letter bombed a number of individuals and institutions"
 
-w: level2
+w: level
 hyper: aim
-fr: 21
+frame: 21
 g: aim at; "level criticism or charges at somebody"
 
 w: line_up
-hyper: play
+hyper: play8
 dt: noun.act:football
-fr: 2
+frame: 2
 g: take one's position before a kick-off
 
-w: look_out10
-hyper: protect
-fr: 9
+w: look_out
+hyper: protect1
+frame: 9
 g: to protect someone's interests; "A man's gotta look out for his family"
 
 w: loose_off
 w: let_fly
 w: let_drive
-hyper: fire
-fr: 8
+hyper: fire2
+frame: 8
 g: fire as from a gun; "The soldiers let drive their bullets"
 
-w: lose agent noun.person:loser2 agent noun.person:loser1 agent noun.person:loser drf noun.person:loser2 drf noun.person:loser1 drf noun.person:loser ant win
+w: lose1 agent noun.person:loser agent noun.person:loser1 agent noun.person:loser2 drf noun.person:loser drf noun.person:loser1 drf noun.person:loser2 ant win1
 entail: compete
-fr: 2 8 27
+frame: 2 8 27
 g: fail to win; "We lost the battle but we won the war"
 
 w: lurch event noun.event:lurch drf noun.event:lurch
 w: skunk event noun.event:skunk drf noun.event:skunk
 hyper: get_the_better_of
 dt: noun.act:card_game
-fr: 9
+frame: 9
 g: defeat by a lurch
 
 w: machine_gun instrument noun.artifact:machine_gun drf noun.artifact:machine_gun
-entail: shoot1
+entail: shoot
 hyper: gun
-fr: 9
+frame: 9
 g: shoot with a machine gun
 
 w: make_peace drf noun.person:make-peace ant war
 hyper: verb.communication:reconcile
-fr: 2
+frame: 2
 g: end hostilities; "The brothers who had been fighting over their inheritance finally made peace"
 
-w: man drf noun.person:man5
-hyper: staff
+w: man drf noun.person:man
+hyper: staff1
 vg: verb.social:man
-fr: 8
+frame: 8
 g: provide with workers; "We cannot man all the desks"; "Students were manning the booths"
 
 w: manoeuver
-w: maneuver event noun.act:maneuver2 drf noun.act:maneuver2
-w: manoeuvre event noun.act:manoeuvre2 drf noun.act:manoeuvre2
-w: operate event noun.act:operation2 drf noun.act:operation2
+w: maneuver event noun.act:maneuver drf noun.act:maneuver
+w: manoeuvre event noun.act:manoeuvre drf noun.act:manoeuvre
+w: operate event noun.act:operation1 drf noun.act:operation1
 hyper: move
-fr: 21 22
+frame: 21 22
 g: perform a movement in military or naval tactics in order to secure an advantage in attack or defense
 
 w: meet event noun.event:meet drf noun.event:meet
 w: encounter uses noun.act:encounter event noun.act:encounter drf noun.act:encounter
-w: play2 drf noun.time:play drf noun.act:playing
-w: take_on1
-vg: play
+w: play7 drf noun.time:play drf noun.act:playing2
+w: take_on
+vg: play8
 entail: compete
-vg: play12
-vg: play13
-vg: play9
-fr: 9
+vg: play6
+vg: play5
+vg: play4
+frame: 9
 g: contend against an opponent in a sport, game, or battle; "Princeton plays Yale this weekend"; "Charlie likes to play Mary"
 
 w: militarize event noun.act:militarization drf noun.act:militarization drf noun.group:military ant demilitarize
 w: militarise event noun.act:militarisation drf noun.act:militarisation drf noun.group:military ant demilitarise
-hyper: verb.change:change1
-fr: 8 11
+hyper: verb.change:change5
+frame: 8 11
 g: lend a military character to (a country), as by building up a military force; "militarize Germany again after the war"
 
-w: mine undergoer noun.artifact:mine drf noun.artifact:mine drf noun.act:mining2
+w: mine undergoer noun.artifact:mine1 drf noun.artifact:mine1 drf noun.act:mining
 hyper: verb.change:reinforce
-fr: 8
+frame: 8
 g: lay mines; "The Vietnamese mined Cambodia"
 
 w: misfire event noun.event:misfire drf noun.event:misfire
-hyper: verb.change:fail
-fr: 1
+hyper: verb.change:fail1
+frame: 1
 g: fail to fire or detonate; "The guns misfired"
 
 w: misplay event noun.act:misplay drf noun.act:misplay
-hyper: play
-fr: 2
+hyper: play8
+frame: 2
 g: play wrong or in an unskillful manner
 
-w: mobilize event noun.act:mobilization1 drf noun.act:mobilization1 ant demobilize
-w: mobilise event noun.act:mobilisation1 drf noun.act:mobilisation1 ant demobilise
+w: mobilize1 event noun.act:mobilization1 drf noun.act:mobilization1 ant demobilize1
+w: mobilise1 event noun.act:mobilisation1 drf noun.act:mobilisation1 ant demobilise1
 hyper: militarize
-fr: 2
+frame: 2
 g: get ready for war
 
 w: mothproof
-hyper: protect
-fr: 8
+hyper: protect1
+frame: 8
 g: protect from moths; "mothproof woollen clothes during the summer"
 
-w: move event noun.act:move2 drf noun.act:move2
+w: move event noun.act:move3 drf noun.act:move3
 w: go event noun.time:go drf noun.time:go
 vg: verb.communication:move
-entail: play
-fr: 2
+entail: play8
+frame: 2
 g: have a turn; make one's move in a game; "Can I go now?"
 
 w: net_fish
 hyper: fish
-fr: 2 8
+frame: 2 8
 g: fish with nets
 
 w: neutralize event noun.act:neutralization1 drf noun.act:neutralization1
 w: neutralise event noun.act:neutralisation1 drf noun.act:neutralisation1
 hyper: demilitarize
-fr: 8
+frame: 8
 g: make incapable of military action
 
 w: nose event noun.quantity:nose drf noun.quantity:nose
 hyper: get_the_better_of
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: defeat by a narrow margin
 
 w: nuke by-means-of noun.artifact:nuke drf noun.artifact:nuke
@@ -1508,483 +1508,483 @@ w: atomize event noun.act:atomization1 drf noun.act:atomization1
 w: atomise event noun.act:atomisation1 drf noun.act:atomisation1
 w: zap
 hyper: bombard
-fr: 8 9
+frame: 8 9
 g: strike at with firepower or bombs; "zap the enemy"
 
 w: officiate event noun.act:officiation1 event noun.act:officiation drf noun.act:officiation1 drf noun.act:officiation drf noun.state:office drf noun.act:office2 drf noun.act:office1 drf noun.act:office drf noun.act:officiating
 w: function event noun.act:function drf noun.act:function drf noun.person:functionary
 hyper: serve
-fr: 2 22
+frame: 2 22
 g: perform duties attached to a particular office or place or function; "His wife officiated as his private secretary"
 
 w: open drf noun.act:opening3
 hyper: move
 dt: noun.act:chess
-fr: 2
+frame: 2
 g: make the opening move; "Kasparov opened with a standard opening"
 
 w: open_fire
-w: fire1 event noun.act:fire drf noun.act:fire drf noun.act:firing3
+w: fire event noun.act:fire drf noun.act:fire drf noun.act:firing
 hyper: blast1
-fr: 2 22
+frame: 2 22
 g: start firing a weapon
 
 w: out-herod
 hyper: surpass
-fr: 9
+frame: 9
 g: surpass someone in cruelty or evil
 
-w: outbrave1
+w: outbrave
 hyper: resist
-fr: 9
+frame: 9
 g: resist bravely; "He outbraved the enemy"
 
-w: outbrave
+w: outbrave1
 hyper: surpass
-fr: 9
+frame: 9
 g: be braver than
 
-w: outdo1
+w: outdo
 w: outflank
 w: trump
 w: best
 w: scoop
-hyper: beat
-fr: 9
+hyper: beat1
+frame: 9
 g: get the better of; "the goal was to best the competition"
 
 w: outdraw
 hyper: surpass
-fr: 8
+frame: 8
 g: draw a gun faster, or best someone in a gunfight
 
 w: outfight
-hyper: beat
-fr: 8 9 10 11
+hyper: beat1
+frame: 8 9 10 11
 g: to fight better than; get the better of; "the Rangers outfought the Maple Leafs"; "The French forces outfought the Germans"
 
 w: outfox
 hyper: surpass
-fr: 9
+frame: 9
 g: outdo someone in trickery
 
 w: outgeneral
 hyper: outmaneuver
-fr: 9
+frame: 9
 g: surpass in generalship
 
 w: outgrow
 hyper: surpass
-fr: 9 11
+frame: 9 11
 g: grow faster than
 
 w: outmaneuver
 w: outmanoeuvre
-w: outsmart1
-hyper: outdo1
-fr: 9
+w: outsmart
+hyper: outdo
+frame: 9
 g: defeat by more skillful maneuvering; "The English troops outmaneuvered the Germans"; "My new supervisor knows how to outmaneuver the boss in most situations"
 
 w: outmarch
 hyper: surpass
-fr: 9
+frame: 9
 g: march longer distances and for a longer time than; "This guy can outmarch anyone!"
 
 w: outpace
 hyper: surpass
-fr: 8 9 11
+frame: 8 9 11
 g: surpass in speed; "Malthus believed that population increase would outpace increases in the means of subsistence"
 
 w: outplay
-hyper: beat
-fr: 9 11
+hyper: beat1
+frame: 9 11
 g: excel or defeat in a game; "The Knicks outplayed the Lakers"
 
 w: outpoint
 w: outscore
-hyper: beat
-fr: 9
+hyper: beat1
+frame: 9
 g: score more points than one's opponents
 
 w: outrange
 hyper: surpass
-fr: 11
+frame: 11
 g: have a greater range than (another gun)
 
 w: outrival
 w: outvie
 hyper: rival
-fr: 9 11
+frame: 9 11
 g: be more of a rival than
 
 w: outroar
 hyper: surpass
-fr: 9 11
+frame: 9 11
 g: roar louder than
 
 w: outsail
 hyper: surpass
-fr: 8 9 11
+frame: 8 9 11
 g: sail faster or better than; "They outsailed the Roman fleet"
-
-w: outsell1
-hyper: surpass
-fr: 11
-g: be sold more often than other, similar products; "The new Toyota outsells the Honda by a wide margin"
 
 w: outsell
 hyper: surpass
-fr: 9
+frame: 11
+g: be sold more often than other, similar products; "The new Toyota outsells the Honda by a wide margin"
+
+w: outsell1
+hyper: surpass
+frame: 9
 g: sell more than others; "This salesman outsells his colleagues"
 
 w: outshine
 hyper: surpass
-fr: 9 11
+frame: 9 11
 g: attract more attention and praise than others; "This film outshone all the others in quality"
 
 w: outshout
 w: outcry event noun.communication:outcry drf noun.communication:outcry
 hyper: surpass
-fr: 9
+frame: 9
 g: shout louder than
 
 w: outweigh
 hyper: surpass
-fr: 8
+frame: 8
 g: be heavier than
 
 w: outwit
 w: overreach
-w: outsmart
+w: outsmart1
 w: outfox1
-w: beat14 drf adjs.all:beatable
-w: circumvent
-vg: beat
+w: beat drf adjs.all:beatable
+w: circumvent1
+vg: beat1
 hyper: surpass
-fr: 8 9
+frame: 8 9
 g: beat through cleverness and wit; "I beat the traffic"; "She outfoxed her competitors"
 
-w: overcome1
+w: overcome
 w: get_over
 w: subdue
 w: surmount
 w: master
-hyper: beat
-fr: 8
+hyper: beat1
+frame: 8
 g: get on top of; deal with successfully; "He overcame his shyness"
 
 w: overpower
 w: overmaster
 w: overwhelm
-hyper: beat
-fr: 9 10
+hyper: beat1
+frame: 9 10
 g: overcome by superior force
 
 w: overprotect event noun.act:overprotection drf noun.act:overprotection
-hyper: protect
-fr: 8 9
+hyper: protect1
+frame: 8 9
 g: protect excessively; "Don't overprotect your son--he is an adult now!"
 
-w: overrun4
+w: overrun
 hyper: get_the_better_of
-fr: 8
+frame: 8
 g: seize the position of and defeat; "the Crusaders overran much of the Holy Land"
 
 w: overshoot ant undershoot
 entail: aim
 hyper: verb.contact:miss
 hyper: blast1
-fr: 8
+frame: 8
 g: shoot beyond or over (a target)
 
 w: overtake drf noun.act:overtaking
-w: catch10
+w: catch
 w: catch_up_with
 entail: compete
 vg: verb.motion:catch
-fr: 9 11
+frame: 9 11
 g: catch up with and possibly overtake; "The Rolls Royce caught us near the exit ramp"
 
 w: overtrump
 hyper: trump1
 dt: noun.act:card_game
-fr: 2
+frame: 2
 g: play a trump higher than (one previously played) to the trick
 
 w: par event noun.quantity:par drf noun.quantity:par
-hyper: score
+hyper: score1
 dt: noun.act:golf
-fr: 8
+frame: 8
 g: make a score (on a hole) equal to par
 
 w: parlay
 w: double_up
 hyper: bet_on
-fr: 8 13
+frame: 8 13
 g: stake winnings from one bet on a subsequent wager
 
-w: parry event noun.act:parry drf noun.act:parry
+w: parry event noun.act:parry1 drf noun.act:parry1
 w: block event noun.act:block agent noun.person:blocker drf noun.person:blocker drf noun.act:block drf noun.act:blockage drf noun.act:blocking
 w: deflect
-hyper: fence1
-fr: 8
+hyper: fence
+frame: 8
 g: impede the movement of (an opponent or a ball); "block an attack"
 
 w: pattern-bomb
 hyper: bombard
-fr: 8
+frame: 8
 g: bomb in certain patterns
 
 w: pay_back drf noun.act:payback
 w: pay_off
 w: get
 w: fix
-hyper: get_even1
-vg: verb.possession:pay13
-fr: 9 20
+hyper: get_even
+vg: verb.possession:pay
+frame: 9 20
 g: take vengeance on or get even; "We'll get them!"; "That'll fix him good!"; "This time I got him"
 
 w: pepper
 w: pelt agent noun.person:pelter drf noun.person:pelter
-entail: verb.contact:throw
-hyper: attack
-fr: 17
+entail: verb.contact:throw3
+hyper: attack1
+frame: 17
 g: attack and bombard with or as if with missiles; "pelt the speaker with questions"
 
 w: pin
-hyper: attack1
+hyper: attack2
 dt: noun.act:chess
-fr: 8
+frame: 8
 g: immobilize a piece
 
-w: pitch4 event noun.act:pitch1 drf noun.act:pitch1
-hyper: play3
+w: pitch event noun.act:pitch1 drf noun.act:pitch1
+hyper: play2
 dt: noun.act:card_game
-fr: 8
+frame: 8
 g: lead (a card) and establish the trump suit
 
 w: pit
-w: oppose drf adjs.all:opponent drf noun.person:opponent2
+w: oppose1 drf adjs.all:opponent drf noun.person:opponent
 w: match event noun.event:match drf noun.event:match
 w: play_off drf noun.event:playoff
 hyper: confront
-fr: 9 10
+frame: 9 10
 g: set into opposition or rivalry; "let them match their best athletes against ours"; "pit a chess player against the Russian champion"; "He plays his two children off against each other"
 
-w: place2 drf noun.communication:place2
+w: place2 drf noun.communication:place
 hyper: race
-fr: 1
+frame: 1
 g: finish second or better in a horse or dog race; "he bet $2 on number six to place"
 
 w: place-kick drf noun.act:place-kicking
-hyper: kick5
+hyper: kick
 dt: noun.act:football
-fr: 8
+frame: 8
 g: score (a goal) by making a place kick
 
-w: play7 event noun.act:play2 drf noun.act:play2
+w: play event noun.act:play7 drf noun.act:play7
 vg: bet
 hyper: bet
-vg: play1
-fr: 8
+vg: play3
+frame: 8
 g: make bets; "Play the races"; "play the casinos in Trouville"
 
-w: play3 event noun.act:play2 drf noun.act:play2
-vg: play12
-vg: play13
+w: play2 event noun.act:play7 drf noun.act:play7
+vg: play6
+vg: play5
 hyper: deploy
-fr: 8
+frame: 8
 g: put (a card or piece) into play during a game, or act strategically as if in a card game; "He is playing his cards close to his chest"; "The Democrats still have some cards to play before they will concede the electoral victory"
 
-w: play1 event noun.act:play2 drf noun.act:play2
-vg: play7
+w: play3 event noun.act:play7 drf noun.act:play7
+vg: play
 hyper: gamble
-fr: 8
+frame: 8
 g: bet or wager (money); "He played $20 on the new horse"; "She plays the races"
 
-w: play9 event noun.act:play4 drf noun.act:play4
+w: play4 event noun.act:play3 drf noun.act:play3
 vg: meet
-hyper: verb.contact:hit3
-fr: 8
+hyper: verb.contact:hit
+frame: 8
 g: shoot or hit in a particular manner; "She played a good backhand last night"
 
-w: play13 drf noun.act:play5
+w: play5 drf noun.act:play2
 vg: meet
 hyper: verb.consumption:use1
-vg: play3
-fr: 8
+vg: play2
+frame: 8
 g: use or move; "I had to play my queen"
 
-w: play12 drf noun.act:play5
+w: play6 drf noun.act:play2
 vg: meet
 hyper: verb.consumption:use1
-vg: play3
-fr: 9
+vg: play2
+frame: 9
 g: employ in a game or in a specific position; "They played him on first base"
 
-w: play agent noun.person:player3 agent noun.person:player1 drf noun.time:play drf noun.act:play5 drf noun.person:player3 drf noun.person:player1 drf noun.act:playing see play_out
+w: play8 agent noun.person:player1 agent noun.person:player2 drf noun.time:play drf noun.act:play2 drf noun.person:player1 drf noun.person:player2 drf noun.act:playing2 see play_out
 hyper: compete
 vg: meet
-fr: 2 8
+frame: 2 8
 g: participate in games or sport; "We played hockey all afternoon"; "play cards"; "Pele played for the Brazilian teams in many important matches"
 
 w: play_out
-hyper: play
-dt: noun.act:game
+hyper: play8
+dt: noun.act:game3
 vg: verb.creation:play_out
-fr: 8
+frame: 8
 g: play to a finish; "We have got to play this game out, even thought it is clear that we have last"
 
 w: poach agent noun.person:poacher drf noun.person:poacher
-hyper: hunt
-fr: 2
+hyper: hunt1
+frame: 2
 g: hunt illegally; "people are poaching elephants for their ivory"
 
-w: point2 undergoer noun.artifact:point2 by-means-of noun.communication:pointer by-means-of noun.artifact:pointer1 by-means-of noun.artifact:pointer drf noun.artifact:point2 drf noun.communication:pointer drf noun.artifact:pointer1 drf noun.artifact:pointer
-hyper: verb.stative:be3
-vg: charge1
-fr: 4 6
+w: point undergoer noun.artifact:point by-means-of noun.communication:pointer by-means-of noun.artifact:pointer1 by-means-of noun.artifact:pointer drf noun.artifact:point drf noun.communication:pointer drf noun.artifact:pointer1 drf noun.artifact:pointer
+hyper: verb.stative:be9
+vg: charge
+frame: 4 6
 g: be positionable in a specified manner; "The gun points with ease"
 
-w: pool result noun.group:pool1 drf noun.group:pool1
+w: pool result noun.group:pool drf noun.group:pool
 hyper: group
-fr: 2
+frame: 2
 g: join or form a pool of people
 
 w: pop event noun.event:pop drf noun.event:pop drf noun.event:popping
-hyper: fire
-fr: 2
+hyper: fire2
+frame: 2
 g: fire a weapon with a loud explosive noise; "The soldiers were popping"
 
 w: prevail
-w: triumph event noun.event:triumph drf adjs.all:triumphant drf noun.event:triumph
-hyper: win
-fr: 2
+w: triumph event noun.event:triumph drf adjs.all:triumphant1 drf noun.event:triumph
+hyper: win1
+frame: 2
 g: prove superior; "The champion prevailed, though it was a hard fight"
 
-w: promote1
-vg: promote
-hyper: verb.change:change
+w: promote
+vg: promote1
+hyper: verb.change:change7
 dt: noun.act:board_game
-fr: 1
+frame: 1
 g: be changed for a superior chess or checker piece
 
-w: promote
-hyper: play13
+w: promote1
+hyper: play5
 dt: noun.act:chess
-vg: promote1
-fr: 8
+vg: promote
+frame: 8
 g: change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent
 
-w: protect1 event noun.act:protection3 drf adj.all:protective drf noun.act:protection3
-hyper: verb.social:assist
-dt: noun.act:trade5
-fr: 8 9
+w: protect event noun.act:protection1 drf adj.all:protective drf noun.act:protection1
+hyper: verb.social:assist2
+dt: noun.act:trade3
+frame: 8 9
 g: use tariffs to favor domestic industry
 
-w: protect event noun.act:protection by-means-of noun.artifact:protection agent noun.person:protector drf adj.all:protective drf noun.artifact:protection drf noun.act:protection drf noun.person:protector
-hyper: defend
-fr: 8 9 10 11
+w: protect1 event noun.act:protection2 by-means-of noun.artifact:protection agent noun.person:protector drf adj.all:protective drf noun.artifact:protection drf noun.act:protection2 drf noun.person:protector
+hyper: defend2
+frame: 8 9 10 11
 g: shield from danger, injury, destruction, or damage; "Weatherbeater protects your roof from the rain"
 
-w: pull13
+w: pull
 w: root_for
 hyper: side
-fr: 22
+frame: 22
 g: take sides with; align oneself with; show strong sympathy for; "We all rooted for the home team"; "I'm pulling for the underdog"; "Are you siding with the defender of the title?"
 
 w: pump
 hyper: blast1
-fr: 8 21
+frame: 8 21
 g: deliver forth; "pump bullets into the dummy"
 
 w: put_in
-w: submit2 agent noun.person:submitter drf noun.person:submitter
-hyper: verb.communication:apply
-fr: 2
+w: submit1 agent noun.person:submitter1 drf noun.person:submitter1
+hyper: verb.communication:apply1
+frame: 2
 g: make an application as for a job or funding; "We put in a grant to the NSF"
 
 w: put_out drf noun.act:putout
-hyper: play
+hyper: play8
 dt: noun.act:baseball
-fr: 2
+frame: 2
 g: retire; "he was put out at third base on a long throw from left field"
 
 w: quarterback undergoer noun.act:quarterback agent noun.person:quarterback drf noun.act:quarterback drf noun.person:quarterback
-hyper: play
+hyper: play8
 dt: noun.act:football
-fr: 2
+frame: 2
 g: play the quarterback
 
 w: rabbit undergoer noun.animal:rabbit drf noun.food:rabbit drf noun.substance:rabbit drf noun.animal:rabbit
-hyper: hunt
-fr: 2 22
+hyper: hunt1
+frame: 2 22
 g: hunt rabbits
 
-w: race vehicle noun.artifact:racer event noun.event:race1 event noun.event:race agent noun.animal:racer drf noun.event:race drf noun.event:race1 drf noun.artifact:racer drf noun.animal:racer drf noun.act:racing
-w: run1 event noun.event:run2 agent noun.person:runner drf noun.event:run2 drf noun.person:runner drf noun.act:running see run_off
+w: race vehicle noun.artifact:racer event noun.event:race event noun.event:race1 agent noun.animal:racer drf noun.event:race1 drf noun.event:race drf noun.artifact:racer drf noun.animal:racer drf noun.act:racing
+w: run2 event noun.event:run1 agent noun.person:runner1 drf noun.event:run1 drf noun.person:runner1 drf noun.act:running2 see run_off
 hyper: compete
-fr: 2 22
+frame: 2 22
 g: compete in a race; "he is running the Marathon this year"; "let's race and see who gets there first"
 
 w: rail
 hyper: fish
-fr: 2
+frame: 2
 g: fish with a handline over the rails of a boat; "They are railing for fresh fish"
 
-w: raise9 event noun.act:raise1 agent noun.person:raiser1 drf noun.act:raise1 drf noun.person:raiser1
-hyper: verb.possession:bid1
+w: raise event noun.act:raise agent noun.person:raiser drf noun.act:raise drf noun.person:raiser
+hyper: verb.possession:bid
 dt: noun.act:bridge
-fr: 8
+frame: 8
 g: bid (one's partner's suit) at a higher level
 
-w: raise8
+w: raise1
 hyper: bet
 dt: noun.act:card_game
-fr: 9
+frame: 9
 g: bet more than the previous player
 
-w: range_in12
-w: home_in12
-w: zero_in12
+w: range_in
+w: home_in
+w: zero_in
 hyper: target
-fr: 22
+frame: 22
 g: direct onto a point or target, especially by automatic navigational aids
 
 w: rearm event noun.act:rearmament drf noun.act:rearmament
 w: re-arm
 hyper: arm
-fr: 1 2
+frame: 1 2
 g: arm anew; "After the war, the defeated country was not allowed to rearm"
 
 w: reassail
 hyper: assail
-fr: 8 9 10
+frame: 8 9 10
 g: assail again; "Her old fears reassailed her"
 
 w: recalcitrate property noun.attribute:recalcitrance drf noun.attribute:recalcitrance
-hyper: fight1
-fr: 22
+hyper: fight
+frame: 22
 g: show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient; "The Democratic senators recalcitrated against every proposal from the Republican side"
 
-w: recruit event noun.act:recruitment agent noun.person:recruiter agent noun.person:recruit1 agent noun.person:recruit drf noun.person:recruit drf noun.person:recruit1 drf noun.act:recruitment drf noun.person:recruiter
-w: levy event noun.act:levy1 drf noun.act:levy1
-w: raise
-hyper: enlist1
-fr: 9
+w: recruit event noun.act:recruitment agent noun.person:recruiter1 agent noun.person:recruit agent noun.person:recruit1 drf noun.person:recruit1 drf noun.person:recruit drf noun.act:recruitment drf noun.person:recruiter1
+w: levy event noun.act:levy drf noun.act:levy
+w: raise2
+hyper: enlist
+frame: 9
 g: cause to assemble or enlist in the military; "raise an army"; "recruit new soldiers"
 
-w: referee agent noun.person:referee drf noun.person:referee drf noun.act:refereeing
+w: referee agent noun.person:referee2 drf noun.person:referee2 drf noun.act:refereeing
 w: umpire agent noun.person:umpire drf noun.communication:umpirage drf noun.act:umpirage drf noun.person:umpire
-hyper: verb.cognition:judge2
+hyper: verb.cognition:judge1
 dt: noun.act:sport
-fr: 2 8
+frame: 2 8
 g: be a referee or umpire in a sports competition
 
 w: remilitarize event noun.act:remilitarization drf noun.act:remilitarization
 w: remilitarise event noun.act:remilitarisation drf noun.act:remilitarisation
 hyper: militarize
-fr: 8
+frame: 8
 g: militarize anew; "Should Japan be remilitarized?"
 
 w: repel drf adj.all:repulsive
@@ -1992,726 +1992,726 @@ w: repulse event noun.act:repulsion event noun.communication:repulse drf noun.co
 w: fight_off
 w: rebuff event noun.communication:rebuff drf noun.communication:rebuff
 w: drive_back
-hyper: fight1
-fr: 8 9
+hyper: fight
+frame: 8 9
 g: force or drive back; "repel the attacker"; "fight off the onslaught"; "rebuff the attack"
 
-w: replay1 undergoer noun.event:replay drf noun.event:replay
+w: replay undergoer noun.event:replay drf noun.event:replay
 hyper: meet
-fr: 9
+frame: 9
 g: repeat a game against the same opponent; "Princeton replayed Harvard"
 
-w: replay undergoer noun.event:replay drf noun.event:replay
-hyper: play
-fr: 8
+w: replay1 undergoer noun.event:replay drf noun.event:replay
+hyper: play8
+frame: 8
 g: play again; "We replayed the game"; "replay a point"
 
 w: rerun
-hyper: campaign1
-fr: 2 22
+hyper: campaign
+frame: 2 22
 g: run again for office; "Bush wants to rerun in 1996"
 
-w: resist event noun.act:resistance1 drf adjs.all:resistive drf adjs.all:resistant drf noun.act:resistance1 ant surrender
+w: resist event noun.act:resistance1 drf adjs.all:resistive drf adjs.all:resistant3 drf noun.act:resistance1 ant surrender
 w: hold_out drf noun.person:holdout drf noun.communication:holdout
 w: withstand agent noun.person:withstander1 drf noun.person:withstander1
 w: stand_firm
-hyper: fight1
-fr: 8 9
+hyper: fight
+frame: 8 9
 g: stand up or offer resistance to somebody or something
 
-w: resist1 drf adjs.all:resistant
-w: stand by-means-of noun.act:stand drf noun.act:stand
-w: fend instrument noun.artifact:fender3 instrument noun.artifact:fender2 instrument noun.artifact:fender1 instrument noun.artifact:fender drf noun.artifact:fender3 drf noun.artifact:fender2 drf noun.artifact:fender1 drf noun.artifact:fender
-hyper: fight1
-vg: verb.stative:stand
-fr: 8 11
+w: resist1 drf adjs.all:resistant4
+w: stand by-means-of noun.act:stand1 drf noun.act:stand1
+w: fend instrument noun.artifact:fender instrument noun.artifact:fender1 instrument noun.artifact:fender2 instrument noun.artifact:fender3 drf noun.artifact:fender drf noun.artifact:fender1 drf noun.artifact:fender2 drf noun.artifact:fender3
+hyper: fight
+vg: verb.stative:stand4
+frame: 8 11
 g: withstand the force of something; "The trees resisted her"; "stand the test of time"; "The mountain climbers had to fend against the ice and snow"
 
-w: retaliate event noun.act:retaliation drf adjs.all:retaliatory drf noun.act:retaliation
-w: strike_back4
+w: retaliate1 event noun.act:retaliation drf adjs.all:retaliatory drf noun.act:retaliation
+w: strike_back
 hyper: strike
-fr: 2 22
+frame: 2 22
 g: make a counterattack and return like for like, especially evil for evil; "The Empire strikes back"; "The Giants struck back and won the opener"; "The Israeli army retaliated for the Hamas bombing"
 
 w: retire
 w: strike_out drf noun.act:strikeout
 cause: verb.motion:move_over
 dt: noun.act:baseball
-fr: 9
+frame: 9
 g: cause to get out; "The pitcher retired three batters"; "the runner was put out at third base"
 
 w: revenge event noun.act:revenge drf noun.act:revenge
 w: avenge agent noun.person:avenger drf noun.person:avenger
-w: retaliate1 event noun.act:retaliation agent noun.person:retaliator drf adjs.all:retaliatory drf noun.act:retaliation drf noun.person:retaliator
+w: retaliate event noun.act:retaliation agent noun.person:retaliator drf adjs.all:retaliatory drf noun.act:retaliation drf noun.person:retaliator
 hyper: verb.social:punish
-fr: 8
+frame: 8
 g: take revenge for a perceived wrong; "He wants to avenge the murder of his brother"
 
-w: revoke4 event noun.act:revoke drf noun.act:revoke
-hyper: play
+w: revoke event noun.act:revoke drf noun.act:revoke
+hyper: play8
 dt: noun.act:card_game
-fr: 2
+frame: 2
 g: fail to follow suit when able and required to do so
 
 w: rise
-hyper: verb.social:undertake1
-fr: 22
+hyper: verb.social:undertake
+frame: 22
 g: exert oneself to meet a challenge; "rise to a challenge"; "rise to the occasion"
 
 w: rival agent noun.person:rival drf noun.person:rival drf noun.act:rivalry
 hyper: compete
-fr: 9 11
+frame: 9 11
 g: be the rival of, be in competition with; "we are rivaling for first place in the race"
 
 w: romp event noun.event:romp drf noun.event:romp
-hyper: win
-fr: 2
+hyper: win1
+frame: 2
 g: win easily; "romp a race"
 
 w: rotate event noun.attribute:rotation drf noun.attribute:rotation
 vg: verb.social:rotate
 hyper: serve
-fr: 2 22
+frame: 2 22
 g: perform a job or duty on a rotating basis; "Interns have to rotate for a few months"
 
 w: rout
 w: rout_out
 w: expel
 hyper: get_the_better_of
-fr: 9
+frame: 9
 g: cause to flee; "rout out the fighters from their caves"
 
 w: rule_out
 w: rule_in
 hyper: verb.cognition:rule
-fr: 8
+frame: 8
 g: include or exclude by determining judicially or in agreement with rules
 
 w: run_off drf noun.act:runoff
 hyper: compete
-dt: noun.act:game
-fr: 8
+dt: noun.act:game3
+frame: 8
 g: decide (a contest or competition) by a runoff
 
 w: rush
 hyper: assail
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: attack suddenly
 
 w: safeguard by-means-of noun.act:safeguard drf noun.act:safeguard
-hyper: protect
-fr: 8 9
+hyper: protect1
+frame: 8 9
 g: make safe
 
 w: savage agent noun.person:savage1 drf noun.person:savage1 drf noun.act:savagery
 hyper: assail
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: attack brutally and fiercely
 
-w: scallop undergoer noun.food:scallop undergoer noun.animal:scallop drf noun.animal:scallop drf noun.food:scallop2 drf noun.food:scallop
-w: scollop undergoer noun.food:scollop undergoer noun.animal:scollop drf noun.food:scollop2 drf noun.animal:scollop drf noun.food:scollop
+w: scallop undergoer noun.food:scallop undergoer noun.animal:scallop drf noun.animal:scallop drf noun.food:scallop1 drf noun.food:scallop
+w: scollop undergoer noun.food:scollop undergoer noun.animal:scollop drf noun.food:scollop1 drf noun.animal:scollop drf noun.food:scollop
 hyper: fish
-fr: 2
+frame: 2
 g: fish for scallops
 
-w: score1 uses noun.cognition:score drf noun.cognition:score
+w: score uses noun.cognition:score1 drf noun.cognition:score1
 hyper: verb.social:achieve
-fr: 7 8
+frame: 7 8
 g: get a certain number or letter indicating quality or performance; "She scored high on the SAT"; "He scored a 200"
 
-w: score undergoer noun.quantity:score event noun.act:score agent noun.person:scorer drf noun.act:score drf noun.quantity:score drf noun.person:scorer
-w: hit2 event noun.act:hit3 drf noun.act:hit3
+w: score1 undergoer noun.quantity:score event noun.act:score agent noun.person:scorer drf noun.act:score drf noun.quantity:score drf noun.person:scorer
+w: hit3 event noun.act:hit4 drf noun.act:hit4
 w: tally event noun.act:tally1 drf noun.act:tally1
-w: rack_up1
+w: rack_up
 entail: compete
 hyper: gain
-fr: 2 8
+frame: 2 8
 g: gain points in a game; "The home team scored many times"; "He hit a home run"; "He hit .300 in the past season"
 
 w: seal undergoer noun.animal:seal drf noun.animal:seal drf noun.substance:seal
-hyper: hunt
-fr: 2 22
+hyper: hunt1
+frame: 2 22
 g: hunt seals
 
 w: see
 hyper: bet
 dt: noun.act:card_game
-fr: 9
+frame: 9
 g: match or meet; "I saw the bet of one of my fellow players"
 
 w: seine instrument noun.artifact:seine drf noun.artifact:seine
 hyper: fish
-fr: 2 8
+frame: 2 8
 g: fish with a seine; catch fish with a seine
 
 w: serve
-hyper: verb.social:work
-vg: verb.social:serve13
-fr: 2 22
+hyper: verb.social:work6
+vg: verb.social:serve3
+frame: 2 22
 g: do duty or hold offices; serve in a specific function; "He served as head of the department for three years"; "She served in Congress for two terms"
 
 w: serve1 event noun.act:serve agent noun.person:server1 drf noun.act:serve drf noun.person:server1
 hyper: move
 dt: noun.act:court_game
-fr: 2
+frame: 2
 g: put the ball into play; "It was Agassi's turn to serve"
 
-w: settle10
-w: get_back13
-hyper: contend1
-fr: 9
+w: settle
+w: get_back2
+hyper: contend
+frame: 9
 g: get one's revenge for a wrong or an injury; "I finally settled with my old enemy"
 
 w: shame
 hyper: surpass
-fr: 9
+frame: 9
 g: surpass or beat by a wide margin
 
 w: shark undergoer noun.animal:shark drf noun.animal:shark
 hyper: fish
-fr: 2 22
+frame: 2 22
 g: hunt shark
 
-w: sharpshoot agent noun.person:sharpshooter1 agent noun.person:sharpshooter drf noun.person:sharpshooter1 drf noun.person:sharpshooter
-w: snipe event noun.act:snipe agent noun.person:sniper drf noun.act:snipe drf noun.person:sniper
+w: sharpshoot agent noun.person:sharpshooter agent noun.person:sharpshooter1 drf noun.person:sharpshooter drf noun.person:sharpshooter1
+w: snipe1 event noun.act:snipe agent noun.person:sniper drf noun.act:snipe drf noun.person:sniper
 hyper: blast1
-fr: 2
+frame: 2
 g: aim and shoot with great precision
 
-w: shield by-means-of noun.artifact:shield2 by-means-of noun.artifact:shield1 agent noun.person:shielder drf noun.artifact:shield1 drf noun.artifact:shield2 drf noun.person:shielder drf noun.act:shielding
-w: screen by-means-of noun.artifact:screen7 by-means-of noun.artifact:screen4 by-means-of noun.artifact:screen3 drf noun.artifact:screen4 drf noun.artifact:screen7 drf noun.artifact:screen3 drf noun.act:screening
-hyper: protect
-fr: 8 9 10 11
+w: shield by-means-of noun.artifact:shield by-means-of noun.artifact:shield1 agent noun.person:shielder drf noun.artifact:shield1 drf noun.artifact:shield drf noun.person:shielder drf noun.act:shielding
+w: screen by-means-of noun.artifact:screen1 by-means-of noun.artifact:screen7 by-means-of noun.artifact:screen4 drf noun.artifact:screen7 drf noun.artifact:screen1 drf noun.artifact:screen4 drf noun.act:screening
+hyper: protect1
+frame: 8 9 10 11
 g: protect, hide, or conceal from danger or harm
 
-w: shoot6
-hyper: score
+w: shoot2
+hyper: score1
 dt: noun.act:sport
-fr: 8
+frame: 8
 g: score; "shoot a basket"; "shoot a goal"
 
 w: shoot_craps
 hyper: gamble
-fr: 2
+frame: 2
 g: play a game of craps
 
-w: shoot1 event noun.act:shoot agent noun.person:shooter drf noun.act:shoot drf noun.person:shooter
+w: shoot event noun.act:shoot agent noun.person:shooter drf noun.act:shoot drf noun.person:shooter
 w: hit1 drf noun.act:hitting
-w: pip1
+w: pip
 vg: blast1
 vg: verb.social:shoot
 hyper: verb.body:injure
 vg: strike
-fr: 8 9
+frame: 8 9
 g: hit with a missile from a weapon
 
 w: show
 hyper: race
-fr: 1
+frame: 1
 g: finish third or better in a horse or dog race; "he bet $2 on number six to show"
 
 w: shrimp vehicle noun.artifact:shrimper undergoer noun.food:shrimp undergoer noun.animal:shrimp drf noun.food:shrimp drf noun.animal:shrimp drf noun.artifact:shrimper
 hyper: fish
-fr: 2
+frame: 2
 g: fish for shrimp
 
 w: shuttlecock undergoer noun.artifact:shuttlecock drf noun.artifact:shuttlecock
-hyper: bandy1
-fr: 8
+hyper: bandy
+frame: 8
 g: send or toss to and fro, like a shuttlecock
 
 w: sic
 w: set
 hyper: assail
-fr: 19
+frame: 19
 g: urge to attack someone; "The owner sicked his dogs on the intruders"; "the shaman sics sorcerers on the evil spirits"
 
 w: side
 hyper: verb.cognition:align
-fr: 22
+frame: 22
 g: take sides for or against; "Who are you widing with?"; "I"m siding against the current candidate"
 
 w: sign_up
-hyper: verb.social:join
-fr: 2 22
+hyper: verb.social:join1
+frame: 2 22
 g: join a club, an activity, etc. with the intention to join or participate, "Sign up for yoga classes"
 
 w: sit
 hyper: serve
-fr: 2
+frame: 2
 g: serve in a specific professional capacity; "the priest sat for confession"; "she sat on the jury"
 
 w: skip-bomb
 hyper: bombard
-fr: 8
+frame: 8
 g: attack with delayed release bombs
 
 w: skirmish event noun.act:skirmish agent noun.person:skirmisher drf noun.person:skirmisher drf noun.act:skirmish
-hyper: contend1
-fr: 2
+hyper: contend
+frame: 2
 g: engage in a skirmish
 
 w: skittle drf noun.artifact:skittle
 hyper: bowl
-fr: 2
+frame: 2
 g: play skittles
 
-w: slice event noun.act:slice drf noun.act:slice drf noun.act:slicing1
+w: slice event noun.act:slice drf noun.act:slice drf noun.act:slicing
 hyper: strike
-fr: 2 8
+frame: 2 8
 g: hit a ball so that it causes a backspin
 
 w: smash
 hyper: demolish
-fr: 8 9
+frame: 8 9
 g: overthrow or destroy (something considered evil or harmful); "The police smashed the drug ring after they were tipped off"
 
-w: snipe1 undergoer noun.animal:snipe drf noun.animal:snipe
-hyper: hunt
-fr: 2
+w: snipe undergoer noun.animal:snipe drf noun.animal:snipe
+hyper: hunt1
+frame: 2
 g: hunt or shoot snipe
 
 w: snooker event noun.act:snooker drf noun.act:snooker
-hyper: play
+hyper: play8
 dt: noun.act:snooker
-fr: 2
+frame: 2
 g: leave one's opponent unable to take a direct shot
 
 w: soldier agent noun.person:soldier drf noun.person:soldier drf noun.group:soldiery drf noun.cognition:soldiering
 hyper: verb.stative:spend
-fr: 2 22
+frame: 2 22
 g: serve as a soldier in the military
 
 w: spread-eagle
 w: spreadeagle
 w: rout1 event noun.event:rout drf noun.event:rout
-hyper: beat
-fr: 9
+hyper: beat1
+frame: 9
 g: defeat disastrously
 
-w: staff1 agent noun.group:staff1 drf noun.group:staff drf noun.group:staff1
+w: staff agent noun.group:staff drf noun.group:staff1 drf noun.group:staff
 hyper: serve
-fr: 8
+frame: 8
 g: serve on the staff of; "The two men staff the reception desk"
 
-w: staff uses noun.group:staff1 uses noun.group:staff drf noun.group:staff drf noun.group:staff1
+w: staff1 uses noun.group:staff uses noun.group:staff1 drf noun.group:staff1 drf noun.group:staff
 hyper: verb.consumption:provide
-fr: 8
+frame: 8
 g: provide with staff; "This position is not always staffed"
 
 w: stalemate event noun.event:stalemate drf noun.event:stalemate
 hyper: move
 dt: noun.act:chess
-fr: 9
+frame: 9
 g: subject to a stalemate
 
-w: stand_out1
+w: stand_out
 hyper: resist
-fr: 2
+frame: 2
 g: be stubborn in resolution or resistance
 
 w: stand_up
 hyper: resist
-fr: 4 22
+frame: 4 22
 g: refuse to back down; remain solid under criticism or attack
 
-w: start event noun.act:start2 event noun.act:start drf noun.act:start drf noun.act:start2 drf noun.act:starting
-hyper: play
+w: start event noun.act:start1 event noun.act:start2 drf noun.act:start2 drf noun.act:start1 drf noun.act:starting
+hyper: play8
 dt: noun.act:sport
-fr: 2
+frame: 2
 g: play in the starting lineup
 
-w: station location noun.location:station1 location noun.location:station drf noun.location:station drf noun.location:station1
+w: station location noun.location:station location noun.location:station1 drf noun.location:station1 drf noun.location:station
 w: post
 w: send
-w: place event noun.act:place drf noun.act:place
+w: place1 event noun.act:place1 drf noun.act:place1
 hyper: verb.motion:move1
-fr: 20
+frame: 20
 g: assign to a station
 
 w: steal event noun.act:steal drf noun.act:steal
 hyper: gain
 dt: noun.act:baseball
-fr: 8
+frame: 8
 g: steal a base
 
 w: steamroller by-means-of noun.person:steamroller drf noun.person:steamroller
 w: steamroll by-means-of noun.person:steamroller drf noun.person:steamroller
-vg: verb.social:steamroller1
+vg: verb.social:steamroller
 hyper: overpower
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: overwhelm by using great force; "steamroller the opposition"
 
 w: still-fish
 hyper: fish
-fr: 2 8
+frame: 2 8
 g: fish with the line and bait resting still or stationary in the water
 
 w: still-hunt
-w: ambush1 event noun.act:ambush agent noun.person:ambusher drf noun.act:ambush drf noun.person:ambusher
-hyper: hunt
-fr: 2 8
+w: ambush event noun.act:ambush agent noun.person:ambusher drf noun.act:ambush drf noun.person:ambusher
+hyper: hunt1
+frame: 2 8
 g: hunt (quarry) by stalking and ambushing
 
-w: stockade uses noun.artifact:stockade1 drf noun.artifact:stockade1
+w: stockade uses noun.artifact:stockade drf noun.artifact:stockade
 hyper: wall
-fr: 8
+frame: 8
 g: surround with a stockade in order to fortify
 
 w: storm event noun.act:storm drf noun.act:storm
 w: surprise event noun.event:surprise agent noun.person:surpriser drf noun.event:surprise drf noun.person:surpriser
-hyper: attack
-fr: 8 9
+hyper: attack1
+frame: 8 9
 g: attack by storm; attack suddenly
 
 w: strafe event noun.act:strafe agent noun.person:strafer drf noun.person:strafer drf noun.act:strafe
-hyper: attack
-fr: 9 10 11
+hyper: attack1
+frame: 9 10 11
 g: attack with machine guns or cannon fire from a low-flying plane; "civilians were strafed in an effort to force the country's surrender"
 
-w: strike event noun.act:strike5 event noun.act:strike2 drf noun.act:strike5 drf noun.act:strike2
-w: hit
-vg: shoot1
-hyper: attack
-vg: verb.contact:hit5
-fr: 2 8 9 10 11
+w: strike event noun.act:strike3 event noun.act:strike1 drf noun.act:strike3 drf noun.act:strike1
+w: hit2
+vg: shoot
+hyper: attack1
+vg: verb.contact:hit4
+frame: 2 8 9 10 11
 g: make a strategic, offensive, assault against an enemy, opponent, or a target; "The Germans struck Poland on Sept. 1, 1939"; "We must strike the enemy's oil fields"; "in the fifth inning, the Giants struck, sending three runners home to win the game 5 to 2"
 
 w: strive
 w: reach
-w: strain event noun.act:strain2 event noun.act:strain drf noun.act:strain2 drf noun.act:strain
+w: strain event noun.act:strain1 event noun.act:strain drf noun.act:strain1 drf noun.act:strain
 hyper: verb.social:tug
-fr: 2 22
+frame: 2 22
 g: to exert much effort or energy; "straining our ears to hear"
 
-w: stroke1 agent noun.person:stroke drf noun.person:stroke
+w: stroke agent noun.person:stroke drf noun.person:stroke
 hyper: verb.motion:row
-fr: 2
+frame: 2
 g: row at a particular rate
 
-w: stroke event noun.act:stroke drf noun.act:stroke
+w: stroke1 event noun.act:stroke1 drf noun.act:stroke1
 hyper: strike
-fr: 8
+frame: 8
 g: strike a ball with a smooth blow
 
 w: stump
-hyper: campaign1
-fr: 8
+hyper: campaign
+frame: 8
 g: travel through a district and make political speeches; "the candidate stumped the Northeast"
 
 w: subject
 hyper: submit
-fr: 9
+frame: 9
 g: make accountable for; "He did not want to subject himself to the judgments of his superiors"
 
 w: submarine
-hyper: attack
-fr: 2 8 9 11
+hyper: attack1
+frame: 2 8 9 11
 g: attack by submarine; "The Germans submarined the Allies"
 
-w: submit state noun.state:submission event noun.act:submission1 agent noun.person:submitter1 drf adjs.all:submissive drf adj.all:submissive drf noun.state:submission drf noun.act:submission1 drf noun.person:submitter1
+w: submit state noun.state:submission event noun.act:submission agent noun.person:submitter drf adjs.all:submissive drf adj.all:submissive drf noun.state:submission drf noun.act:submission drf noun.person:submitter
 entail: surrender
-fr: 2 22
+frame: 2 22
 g: yield to the control of another
 
 w: surpass
 w: outstrip
 w: outmatch
 w: outgo
-w: exceed drf adjs.all:excessive
-w: outdo
+w: exceed drf adjs.all:excessive1
+w: outdo1
 w: surmount1
 w: outperform
-hyper: beat
-fr: 8 9 10 11
+hyper: beat1
+frame: 8 9 10 11
 g: be or do something to a greater degree; "her performance surpasses that of any other student I know"; "She outdoes all other athletes"; "This exceeds all my expectations"; "This car outperforms all others in its class"
 
-w: surrender event noun.communication:surrender event noun.act:surrender agent noun.person:surrenderer drf noun.act:surrender drf noun.communication:surrender drf noun.person:surrenderer ant resist
-w: give_up1
+w: surrender event noun.communication:surrender event noun.act:surrender1 agent noun.person:surrenderer drf noun.act:surrender1 drf noun.communication:surrender drf noun.person:surrenderer ant resist
+w: give_up
 hyper: yield
-fr: 2 8 15
+frame: 2 8 15
 g: give up or agree to forgo to the power or possession of another; "The last Taleban fighters finally surrendered"
 
 w: swallow
 hyper: demolish
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: engulf and destroy; "The Nazis swallowed the Baltic countries"
 
 w: sweep
-hyper: win
-fr: 8 11
+hyper: win1
+frame: 8 11
 g: win an overwhelming victory in or on; "Her new show dog swept all championships"
 
-w: swing event noun.act:swing6 drf noun.act:swing6
+w: swing event noun.act:swing drf noun.act:swing
 hyper: aim
-fr: 22
+frame: 22
 g: hit or aim at with a sweeping arm movement; "The soccer player began to swing at the referee"
 
-w: tackle1 event noun.act:tackle agent noun.person:tackler agent noun.person:tackle drf noun.person:tackle drf noun.act:tackle drf noun.person:tackler
-hyper: attack1
+w: tackle event noun.act:tackle1 agent noun.person:tackler agent noun.person:tackle drf noun.person:tackle drf noun.act:tackle1 drf noun.person:tackler
+hyper: attack2
 dt: noun.act:football
-fr: 9
+frame: 9
 g: seize and throw down an opponent player, who usually carries the ball
 
-w: take8
-hyper: win
-fr: 8
+w: take1
+hyper: win1
+frame: 8
 g: obtain by winning; "Winner takes all"; "He took first prize"
 
 w: take_the_bull_by_the_horns
 hyper: confront
-fr: 2
+frame: 2
 g: face a difficulty and grapple with it without avoiding it
 
 w: take_the_cake
-hyper: win
-fr: 1 2
+hyper: win1
+frame: 1 2
 g: rank first; used often in a negative context; "He takes the cake for chutzpah!"
 
 w: take_the_count
 w: remain_down
 dt: noun.act:boxing
-hyper: lose
-fr: 2
+hyper: lose1
+frame: 2
 g: be counted out; remain down while the referee counts to ten
 
 w: take_the_field
 hyper: verb.motion:enter
-fr: 2
+frame: 2
 g: go on the playing field, of a football team
 
 w: target undergoer noun.cognition:target agent noun.person:target drf noun.cognition:target drf noun.person:target
-w: aim10 event noun.act:aim drf noun.act:aim fr 22
-w: place3 drf noun.location:place
+w: aim1 event noun.act:aim drf noun.act:aim frame 22
+w: place drf noun.location:place
 w: direct1
-w: point10  fr 22
+w: point2  frame 22
 hyper: aim
-fr: 8 9
+frame: 8 9
 g: intend (something) to move towards a certain goal; "He aimed his fists towards his opponent's face"; "criticism directed at her superior"; "direct your anger towards others, not towards yourself"
 
 w: team result noun.group:team drf noun.group:team
 w: team_up
 hyper: group
-fr: 22
+frame: 22
 g: form a team; "We teamed up for this new project"
 
 w: teargas
 hyper: gas
-fr: 8 9
+frame: 8 9
 g: attack with teargas; subject to teargas fumes; "The students were teargassed during the riot"
 
 w: tee_off drf noun.act:teeoff
-hyper: play
+hyper: play8
 dt: noun.act:golf
-fr: 2
+frame: 2
 g: strike a ball from the teeing ground at the start of a hole
 
-w: test event noun.communication:test event noun.act:test3 event noun.act:test2 drf noun.act:test3 drf noun.act:test2 drf noun.communication:test
-hyper: score1
-vg: verb.cognition:test6
-fr: 7
+w: test event noun.communication:test event noun.act:test1 event noun.act:test drf noun.act:test1 drf noun.act:test drf noun.communication:test
+hyper: score
+vg: verb.cognition:test
+frame: 7
 g: achieve a certain score or rating on a test; "She tested high on the LSAT and was admitted to all the good law schools"
 
-w: tie event noun.event:tie agent noun.person:tier1 drf noun.event:tie drf noun.person:tier1
+w: tie event noun.event:tie agent noun.person:tier drf noun.event:tie drf noun.person:tier
 w: draw event noun.event:draw drf noun.event:draw
 hyper: verb.change:equal
-entail: play
-fr: 2
+entail: play8
+frame: 2
 g: finish a game with an equal number of points, goals, etc.; "The teams drew a tie"
 
-w: tilt event noun.event:tilt1 agent noun.person:tilter drf noun.event:tilt1 drf noun.person:tilter
+w: tilt event noun.event:tilt agent noun.person:tilter drf noun.event:tilt drf noun.person:tilter
 hyper: joust
-fr: 2 22
+frame: 2 22
 g: charge with a tilt
 
-w: torpedo instrument noun.artifact:torpedo drf noun.artifact:torpedo
-hyper: attack
-fr: 8 9
+w: torpedo instrument noun.artifact:torpedo3 drf noun.artifact:torpedo3
+hyper: attack1
+frame: 8 9
 g: attack or hit with torpedoes
 
 w: tourney event noun.event:tourney drf noun.event:tourney
-hyper: contend1
-fr: 2
+hyper: contend
+frame: 2
 g: engage in a tourney
 
-w: trawl instrument noun.artifact:trawl1 instrument noun.artifact:trawl drf noun.artifact:trawl1 drf noun.artifact:trawl
+w: trawl instrument noun.artifact:trawl instrument noun.artifact:trawl1 drf noun.artifact:trawl drf noun.artifact:trawl1
 hyper: fish
-fr: 2 22
+frame: 2 22
 g: fish with trawlers
 
 w: tree drf noun.plant:tree
 hyper: verb.motion:chase
-fr: 8 11
+frame: 8 11
 g: chase an animal up a tree; "the hunters treed the bear with dogs and killed it"; "her dog likes to tree squirrels"
 
-w: trigger undergoer noun.artifact:trigger event noun.artifact:trigger drf noun.artifact:trigger
-entail: fire
-fr: 8
+w: trigger undergoer noun.artifact:trigger1 event noun.artifact:trigger1 drf noun.artifact:trigger1
+entail: fire2
+frame: 8
 g: release or pull the trigger on; "Trigger a gun"
 
 w: troll instrument noun.artifact:troll event noun.act:troll agent noun.person:troller drf noun.artifact:troll drf noun.act:troll drf noun.person:troller
 hyper: angle
-fr: 2 8
+frame: 2 8
 g: angle with a hook and line drawn through the water
 
 w: trump1 undergoer noun.artifact:trump drf noun.artifact:trump drf noun.act:trumping
 w: ruff event noun.act:ruff drf noun.act:ruff
 hyper: move
 dt: noun.act:card_game
-fr: 2
+frame: 2
 g: play a trump
 
 w: try_for
 w: go_for
 hyper: compete
-fr: 8
+frame: 8
 g: make an attempt at achieving something; "She tried for the Olympics"
 
 w: tug
-hyper: contend1
-fr: 2
+hyper: contend
+frame: 2
 g: struggle in opposition; "She tugged and wrestled with her conflicts"
 
-w: turn13
+w: turn
 hyper: aim
-fr: 8
+frame: 8
 g: direct at someone; "She turned a smile on me"; "They turned their flashlights on the car"
 
 w: turtle agent noun.person:turtler drf noun.person:turtler
-hyper: hunt
-fr: 2
+hyper: hunt1
+frame: 2
 g: hunt for turtles, especially as an occupation
 
 w: unblock
-hyper: play
+hyper: play8
 dt: noun.act:card_game
-fr: 8
+frame: 8
 g: play the cards of (a suit) so that the last trick on which a hand can follow suit will be taken by a higher card in the hand of a partner who has the remaining cards of a combined holding
 
 w: underplay
-hyper: play1
+hyper: play3
 dt: noun.act:card_game
-fr: 8
+frame: 8
 g: play a card lower than (a held high card)
 
 w: undershoot ant overshoot
 entail: blast1
 hyper: verb.contact:miss
-fr: 8
+frame: 8
 g: shoot short of or below (a target)
 
-w: upset event noun.act:upset agent noun.person:upsetter drf noun.act:upset drf noun.person:upsetter
+w: upset event noun.act:upset2 agent noun.person:upsetter drf noun.act:upset2 drf noun.person:upsetter
 hyper: get_the_better_of
-fr: 9
+frame: 9
 g: defeat suddenly and unexpectedly; "The foreign team upset the local team"
 
 w: upstage agent noun.person:upstager drf noun.person:upstager
 hyper: outshine
-fr: 8 9 10 11
+frame: 8 9 10 11
 g: steal the show, draw attention to oneself away from someone else; "When the dog entered the stage, he upstaged the actress"
 
 w: volley event noun.act:volley1 drf noun.act:volley1
-hyper: play
+hyper: play8
 dt: noun.act:court_game
-fr: 2
+frame: 2
 g: make a volley
 
-w: walk1 event noun.act:walk1 drf noun.act:walk1
-hyper: play
+w: walk event noun.act:walk4 drf noun.act:walk4
+hyper: play8
 dt: noun.act:baseball
-vg: walk
-fr: 9
+vg: walk1
+frame: 9
 g: give a base on balls to
 
-w: walk event noun.act:walk1 drf noun.act:walk1
-vg: walk1
-hyper: score
+w: walk1 event noun.act:walk4 drf noun.act:walk4
+vg: walk
+hyper: score1
 dt: noun.act:baseball
-fr: 2 9
+frame: 2 9
 g: obtain a base on balls
 
 w: walk_over event noun.act:walkover drf noun.act:walkover
-hyper: beat
-fr: 8 9
+hyper: beat1
+frame: 8 9
 g: beat easily; "The local team walked over their old rivals for the championship"
 
-w: wallop agent noun.person:walloper drf noun.person:walloper drf noun.event:walloping
+w: wallop agent noun.person:walloper1 drf noun.person:walloper1 drf noun.event:walloping
 hyper: get_the_better_of
-fr: 8 9
+frame: 8 9
 g: defeat soundly and utterly; "We'll wallop them!"
 
-w: wall uses noun.artifact:wall2 uses noun.artifact:wall1 uses noun.artifact:wall drf noun.artifact:wall2 drf noun.artifact:wall1 drf noun.artifact:wall see verb.contact:wall_in see verb.contact:wall_up
+w: wall uses noun.artifact:wall1 uses noun.artifact:wall3 uses noun.artifact:wall2 drf noun.artifact:wall1 drf noun.artifact:wall3 drf noun.artifact:wall2 see verb.contact:wall_in see verb.contact:wall_up
 w: palisade uses noun.artifact:palisade drf noun.artifact:palisade
-w: fence uses noun.artifact:fence by-means-of noun.artifact:fence drf noun.artifact:fence
+w: fence1 uses noun.artifact:fence by-means-of noun.artifact:fence drf noun.artifact:fence
 w: fence_in
-w: surround1 location noun.location:surround drf noun.location:surround
-hyper: protect
-fr: 8
+w: surround location noun.location:surround drf noun.location:surround
+hyper: protect1
+frame: 8
 g: surround with a wall in order to fortify
 
-w: war event noun.state:war event noun.act:war agent noun.person:warrior drf noun.state:war drf noun.act:war drf noun.person:warrior ant make_peace
-hyper: contend1
-fr: 2 22
+w: war event noun.state:war event noun.act:war1 agent noun.person:warrior drf noun.state:war drf noun.act:war1 drf noun.person:warrior ant make_peace
+hyper: contend
+frame: 2 22
 g: make or wage war
 
 w: ward_off
-hyper: defend
-fr: 8 9
+hyper: defend2
+frame: 8 9
 g: avert, turn away, or repel; "Ward off danger"
 
 w: weight-lift
 w: weightlift agent noun.person:weightlifter drf noun.person:weightlifter drf noun.act:weightlifting
-w: press event noun.act:press2 drf noun.act:press2
-hyper: verb.body:exercise
-fr: 2
+w: press event noun.act:press drf noun.act:press
+hyper: verb.body:exercise1
+frame: 2
 g: lift weights; "This guy can press 300 pounds"
 
 w: whale vehicle noun.artifact:whaler undergoer noun.animal:whale agent noun.person:whaler drf noun.animal:whale drf noun.person:whaler drf noun.artifact:whaler
-hyper: hunt
-fr: 2
+hyper: hunt1
+frame: 2
 g: hunt for whales
 
 w: whelk undergoer noun.food:whelk undergoer noun.animal:whelk drf noun.food:whelk drf noun.animal:whelk
 hyper: verb.contact:snail
-fr: 2 22
+frame: 2 22
 g: gather whelk
 
 w: whistlestop
-hyper: campaign1
-fr: 2 22
+hyper: campaign
+frame: 2 22
 g: tour the country in order to solicit votes for an election
 
 w: whomp
-hyper: beat
-fr: 8 9
+hyper: beat1
+frame: 8 9
 g: beat overwhelmingly
 
-w: win event noun.event:win agent noun.person:winner1 agent noun.person:winner drf noun.event:win drf noun.person:winner1 drf noun.person:winner drf noun.possession:winnings ant lose
+w: win1 event noun.event:win agent noun.person:winner1 agent noun.person:winner drf noun.event:win drf noun.person:winner1 drf noun.person:winner drf noun.possession:winnings ant lose1
 entail: compete
-fr: 2 8 22
+frame: 2 8 22
 g: be the winner in a contest or competition; be victorious; "He won the Gold Medal in skating"; "Our home team won"; "Win the game"
 
 w: win_back
 w: get_back1
-hyper: verb.possession:get
-fr: 8 9
+hyper: verb.possession:get2
+frame: 8 9
 g: recover something or somebody that appeared to be lost; "We got back the money after we threatened to sue the company"; "He got back his son from the kidnappers"
 
 w: worst
-w: pip
+w: pip1
 w: mop_up
 w: whip drf noun.event:whipping
-w: rack_up
-hyper: beat
-fr: 8 9
+w: rack_up1
+hyper: beat1
+frame: 8 9
 g: defeat thoroughly; "He mopped up the floor with his opponents"
 
-w: wrestle1 agent noun.person:wrestler drf noun.person:wrestler
+w: wrestle agent noun.person:wrestler drf noun.person:wrestler
 hyper: battle
-fr: 22
+frame: 22
 g: combat to overcome an opposing tendency or force; "He wrestled all his life with his feeling of inferiority"
 
 w: yield agent noun.person:yielder drf noun.person:yielder
-fr: 2 27
+frame: 2 27
 g: cease opposition; stop fighting
 

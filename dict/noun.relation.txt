@@ -2,13 +2,13 @@ w: absentee_rate
 hyper: percentage
 g: the percentage of workers who do not report to work
 
-w: abundance1
-hyper: ratio1
-dt: noun.cognition:physics
+w: abundance
+hyper: ratio
+dt: noun.cognition:physics1
 g: (physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present
 
-w: abundance
-hyper: ratio1
+w: abundance1
+hyper: ratio
 dt: noun.cognition:chemistry
 g: (chemistry) the ratio of the total mass of an element in the earth's crust to the total mass of the earth's crust; expressed as a percentage or in parts per million
 
@@ -22,7 +22,7 @@ hyper: voice
 g: the voice used to indicate that the grammatical subject of the verb is performing the action or causing the happening denoted by the verb; "`The boy threw the ball' uses the active voice"
 
 w: additive_inverse
-hyper: inverse2
+hyper: inverse
 dt: noun.cognition:mathematics
 g: (mathematics) one of a pair of numbers whose sum is zero; the additive inverse of -5 is +5
 
@@ -31,7 +31,7 @@ hyper: intelligence_quotient
 g: the average IQ of the adults in a given population
 
 w: adversative_conjunction
-hyper: conjunction2
+hyper: conjunction
 g: the conjunctive relation of units that expresses the opposition of their meanings
 
 w: affine_transformation
@@ -39,34 +39,34 @@ hyper: transformation
 dt: noun.cognition:mathematics
 g: (mathematics) a transformation that is a combination of single transformations such as translation or rotation or reflection on an axis
 
-w: affinity1 drf adjs.all:affine ant consanguinity
+w: affinity drf adjs.all:affine ant consanguinity
 hyper: kinship
 dt: noun.cognition:anthropology
 g: (anthropology) kinship by marriage or adoption; not a blood relationship
 
-w: affinity3
-w: kinship2
+w: affinity2
+w: kinship1
 hyper: noun.Tops:relation
 g: a close connection marked by community of interests or similarity in nature or character; "found a natural affinity with the immigrants"; "felt a deep kinship with the other students"; "anthropology's kinship with the humanities"
 
-w: affinity2
+w: affinity1
 w: phylogenetic_relation
 hyper: kinship
 dt: noun.cognition:biology
 g: (biology) state of relationship between organisms or groups of organisms resulting in resemblance in structure or structural parts; "in anatomical structure prehistoric man shows close affinity with modern humans"
 
-w: agreement3 drf verb.stative:agree3
+w: agreement drf verb.stative:agree
 w: concord drf verb.contact:concord
 hyper: grammatical_relation
 g: the determination of grammatical inflection on the basis of word relations
 
 w: albedo
 w: reflective_power
-hyper: ratio1
+hyper: ratio
 g: the ratio of reflected to incident light
 
 w: alliance
-w: bond drf verb.social:bond13 drf verb.contact:bond1
+w: bond drf verb.social:bond drf verb.contact:bond
 hyper: connection
 g: a connection based on kinship or marriage or common interest; "the shifting alliances within a large family"; "their friendship constitutes a powerful bond between them"
 
@@ -75,11 +75,11 @@ hyper: grammatical_relation
 g: the relation between an anaphor and its antecedent
 
 w: angular_position
-hyper: noun.attribute:position
+hyper: noun.attribute:position1
 g: relation by which any position with respect to any other position is established
 
-w: antagonism drf adjs.all:antagonistic drf adjs.all:antagonistic drf noun.person:antagonist drf verb.social:antagonise
-hyper: opposition2
+w: antagonism drf adjs.all:antagonistic drf adjs.all:antagonistic1 drf noun.person:antagonist drf verb.social:antagonise
+hyper: opposition
 g: the relation between opposing principles or forces or factors; "the inherent antagonism of capitalism and socialism"
 
 w: antecedent drf adj.all:antecedent
@@ -90,15 +90,15 @@ g: anything that precedes something similar in time; "phrenology was an antecede
 w: antipodal drf adj.pert:antipodal
 w: antipodal_opposition
 w: diametrical_opposition
-hyper: opposition
+hyper: opposition1
 g: the relation of opposition along a diameter
 
 w: antipode drf adj.pert:antipodean
-hyper: opposition2
+hyper: opposition
 g: direct opposite; "quiet: an antipode to focused busyness"
 
 w: antithesis drf adjs.all:antithetic drf adjs.all:antithetical
-hyper: opposition2
+hyper: opposition
 g: exact opposite; "his theory is the antithesis of mine"
 
 w: antonymy
@@ -106,8 +106,8 @@ hyper: semantic_relation
 g: the semantic relation that holds between two words that can (in a given context) express opposite meanings
 
 w: applicability drf adjs.all:applicable ant inapplicability
-w: pertinence drf adjs.all:pertinent drf adjs.all:pertinent drf verb.stative:pertain1
-w: pertinency drf adjs.all:pertinent drf adjs.all:pertinent drf verb.stative:pertain1
+w: pertinence drf adjs.all:pertinent drf adjs.all:pertinent1 drf verb.stative:pertain
+w: pertinency drf adjs.all:pertinent drf adjs.all:pertinent1 drf verb.stative:pertain
 hyper: relevance
 g: relevance by virtue of being applicable to the matter at hand
 
@@ -160,10 +160,10 @@ hyper: grammatical_relation
 g: the beginning or duration or completion or repetition of the action of a verb
 
 w: aspect_ratio
-hyper: ratio1
+hyper: ratio
 g: the ratio of the width to the height of a tv picture
 
-w: association drf verb.social:associate
+w: association drf verb.social:associate1
 hyper: noun.Tops:relation
 g: a relation resulting from interaction or dependence; "flints were found in association with the prehistoric remains of the bear"; "the host is not always injured by association with a parasite"
 
@@ -180,7 +180,7 @@ hyper: orientation
 g: position of aircraft or spacecraft relative to a frame of reference (the horizon or direction of motion)
 
 w: average
-hyper: ratio1
+hyper: ratio
 dt: noun.act:sport
 g: (sports) the ratio of successful performances to opportunities
 
@@ -193,29 +193,29 @@ w: baseline
 hyper: noun.communication:standard
 g: an imaginary line or standard by which things are measured or compared; "the established a baseline for the budget"
 
-w: basis1
+w: basis
 w: base
 hyper: part
 g: the most important or necessary part of something; "the basis of this drink is orange juice"
 
-w: batting_average1
+w: batting_average
 hyper: proportion
 dt: noun.act:baseball
 g: (an extension of the baseball term) the proportion of times some effort succeeds; "the salesman's batting average was 7 out of 12"
 
-w: batting_average
+w: batting_average1
 w: hitting_average
 hyper: average
 dt: noun.act:baseball
 g: (baseball) a measure of a batter's performance; the number of base hits divided by the number of official times at bat; "Ted Williams once had a batting average above .400"
 
-w: bearing1
+w: bearing
 hyper: relatedness
 g: relevant relation or interconnection; "those issues have no bearing on our situation"
 
 w: Beaufort_scale
 w: wind_scale
-hyper: scale3
+hyper: scale
 g: an international scale of wind force from 0 (calm air) to 12 (hurricane)
 
 w: bilateral_descent
@@ -261,7 +261,7 @@ hyper: proportion
 g: the number of cases of a disease divided by the number of infections with the agent that causes the disease
 
 w: case_agreement
-hyper: agreement3
+hyper: agreement
 g: agreement in grammatical case between words in the same construction
 
 w: causality drf adjs.all:causal
@@ -277,10 +277,10 @@ g: a temperature scale that defines the freezing point of water as 0 degrees and
 w: cephalic_index
 w: breadth_index
 w: cranial_index
-hyper: ratio1
+hyper: ratio
 g: ratio (in percent) of the maximum breadth to the maximum length of a skull
 
-w: change drf verb.change:change2 drf verb.change:change1
+w: change drf verb.change:change6 drf verb.change:change5
 hyper: noun.Tops:relation
 g: a relational difference between states; especially between states before and after some event; "he attributed the change to their marriage"
 
@@ -303,12 +303,12 @@ hyper: relevance
 g: persuasive relevance
 
 w: commensalism
-hyper: mutuality
+hyper: mutuality1
 g: the relation between two different kinds of organisms when one receives benefits from the other without damaging it
 
 w: commensurateness drf adj.all:commensurate
-w: correspondence1 drf adjs.all:correspondent
-w: proportionateness drf adjs.all:proportionate drf adjs.all:proportionate drf adj.all:proportionate
+w: correspondence drf adjs.all:correspondent
+w: proportionateness drf adjs.all:proportionate1 drf adjs.all:proportionate drf adj.all:proportionate
 hyper: proportionality
 g: the relation of corresponding in degree or size or amount
 
@@ -316,11 +316,11 @@ w: common_ground
 hyper: footing
 g: a basis agreed to by all parties for reaching a mutual understanding
 
-w: communication drf verb.contact:communicate drf verb.communication:communicate1
+w: communication drf verb.contact:communicate drf verb.communication:communicate3
 hyper: connection
 g: a connection allowing access between persons or places; "how many lines of communication can there be among four people?"; "a secret passageway provided communication between the two rooms"
 
-w: comparison drf verb.cognition:compare
+w: comparison drf verb.cognition:compare1
 hyper: noun.Tops:relation
 g: relation based on similarities and differences
 
@@ -329,15 +329,15 @@ w: point
 hyper: direction
 g: any of 32 horizontal directions indicated on the card of a compass; "he checked the point on his compass"
 
-w: competition1
+w: competition
 hyper: business_relation
 g: a business relation in which two parties compete to gain customers; "business competition can be fiendish at times"
 
-w: complementarity1 drf adjs.all:complementary
+w: complementarity drf adjs.all:complementary1
 hyper: ungradable_opposition
 g: a relation between two opposite states or principles that together exhaust the possibilities
 
-w: complementarity2
+w: complementarity1
 hyper: reciprocality
 g: the interrelation of reciprocity whereby one thing supplements or depends on the other; "the complementarity of the sexes"
 
@@ -359,28 +359,28 @@ dt: noun.group:law
 g: the responsibility of a confidential adviser to act in the best interest of the advisee
 
 w: conflict
-hyper: opposition2
+hyper: opposition
 g: opposition in a work of drama or fiction between characters or forces (especially an opposition that motivates the development of the plot); "this form of conflict is essential to Mann's writing"
 
 w: conjugation drf verb.communication:conjugate
 hyper: inflection
 g: the inflection of verbs
 
-w: conjunction2
+w: conjunction
 hyper: grammatical_relation
 g: the grammatical relation between linguistic units (words or phrases or clauses) that are connected by a conjunction
 
 w: connection
 w: connexion
-w: connectedness drf adjs.all:connected2 drf adjs.all:connected ant unconnectedness
+w: connectedness drf adjs.all:connected3 drf adjs.all:connected ant unconnectedness
 hyper: noun.Tops:relation
 attr: adj.all:connected
 attr: adj.all:unconnected
 g: a relation between things or events (as in the case of one causing the other or sharing features with it); "there was a connection between eating that pickle and having that nightmare"
 
-w: consanguinity drf adjs.all:consanguine ant affinity1
+w: consanguinity drf adjs.all:consanguine ant affinity
 w: blood_kinship
-w: cognation
+w: cognation1
 hyper: kinship
 dt: noun.cognition:anthropology
 g: (anthropology) related by blood
@@ -395,11 +395,11 @@ hyper: proportion
 g: the proportion of a substance that is contained in a mixture or alloy etc.
 
 w: contradiction
-hyper: opposition2
+hyper: opposition
 g: opposition between two conflicting forces or ideas
 
-w: contradictoriness drf adjs.all:contradictory drf adjs.all:contradictory drf adjs.all:contradictory
-hyper: opposition2
+w: contradictoriness drf adjs.all:contradictory2 drf adjs.all:contradictory3 drf adjs.all:contradictory
+hyper: opposition
 g: the relation that exists when opposites cannot coexist
 
 w: contradictory
@@ -407,11 +407,11 @@ hyper: logical_relation
 g: two propositions are contradictories if both cannot be true (or both cannot be false) at the same time
 
 w: contrariety
-hyper: opposition2
+hyper: opposition
 g: the relation between contraries
 
-w: contrary
-hyper: opposition2
+w: contrary1
+hyper: opposition
 g: exact opposition; "public opinion to the contrary he is not guilty"
 
 w: contrary2
@@ -420,7 +420,7 @@ g: a logical relation such that two propositions are contraries if both cannot b
 
 w: contrast drf verb.stative:contrast drf verb.cognition:contrast
 w: direct_contrast
-hyper: opposition2
+hyper: opposition
 g: the opposition or dissimilarity of things that are compared; "in contrast to", "by contrast"
 
 w: control
@@ -428,7 +428,7 @@ hyper: noun.Tops:relation
 g: a relation of constraint of one entity (thing or person or group) by another; "measures for the control of disease"; "they instituted controls over drinking on campus"
 
 w: coordinating_conjunction
-hyper: conjunction2
+hyper: conjunction
 g: the coordination by conjunction of linguistic units of the same status
 
 w: coordination
@@ -436,7 +436,7 @@ hyper: grammatical_relation
 g: the grammatical relation of two constituents having the same grammatical form
 
 w: copulative_conjunction
-hyper: conjunction2
+hyper: conjunction
 g: the conjunctive relation of units that expresses the addition of their meanings
 
 w: coreference drf adj.pert:coreferential drf adjs.all:coreferent
@@ -444,7 +444,7 @@ hyper: grammatical_relation
 g: the grammatical relation between two words that have a common referent
 
 w: correlation drf adj.pert:correlational drf verb.stative:correlate drf verb.cognition:correlate
-w: correlativity drf adjs.all:correlative drf adjs.all:correlative
+w: correlativity drf adjs.all:correlative drf adjs.all:correlative1
 hyper: reciprocality
 g: a reciprocal relation between two or more things
 
@@ -463,7 +463,7 @@ w: cotan
 hyper: trigonometric_function
 g: ratio of the adjacent to the opposite side of a right-angled triangle
 
-w: declension drf verb.communication:decline1
+w: declension drf verb.communication:decline
 hyper: inflection
 g: the inflection of nouns and pronouns and adjectives in Indo-European languages
 
@@ -480,7 +480,7 @@ g: the kinship relation between an individual and the individual's progenitors
 
 w: detail drf verb.communication:detail
 w: particular
-w: item drf verb.communication:itemize
+w: item drf verb.communication:itemize1
 hyper: part
 g: a small part that can be considered separately from the whole; "it was perfect in all details"
 
@@ -488,12 +488,12 @@ w: dialectic drf adj.pert:dialectical drf noun.person:dialectician
 hyper: contradiction
 g: a contradiction of ideas that serves as the determining factor in their interaction; "this situation created the inner dialectic of American history"
 
-w: difference drf adj.pert:differential drf verb.change:differentiate1 drf verb.change:differentiate
+w: difference drf adj.pert:differential1 drf verb.change:differentiate drf verb.change:differentiate2
 hyper: change
 g: a significant change; "the difference in her is amazing"; "his support made a real difference"
 
 w: direction
-hyper: noun.attribute:position
+hyper: noun.attribute:position1
 attr: adj.all:incoming
 attr: adj.all:outgoing
 g: the spatial relation between something and the course along which it points or moves; "he checked the direction and velocity of the wind"
@@ -504,7 +504,7 @@ dt: noun.group:law
 g: the responsibility of corporate directors to act in the best interests of stockholders
 
 w: disjunctive_conjunction
-hyper: conjunction2
+hyper: conjunction
 g: the conjunctive relation of units that expresses the disjunction of their meanings
 
 w: doctor-patient_relation
@@ -516,7 +516,7 @@ w: durative_aspect
 hyper: aspect
 g: the aspect of a verb that expresses its duration
 
-w: east2
+w: east
 hyper: direction
 g: the direction corresponding to the eastward cardinal compass point
 
@@ -540,7 +540,7 @@ w: ESE
 hyper: compass_point
 g: the compass point midway between east and southeast
 
-w: east
+w: east1
 w: due_east
 w: eastward
 w: E
@@ -548,7 +548,7 @@ hyper: cardinal_compass_point
 g: the cardinal compass point that is at 90 degrees
 
 w: efficiency
-hyper: ratio1
+hyper: ratio
 g: the ratio of the output to the input of any system
 
 w: eighteenth
@@ -577,12 +577,12 @@ g: position 11 in a countable series of things
 w: employee_turnover
 w: turnover_rate
 w: turnover
-hyper: ratio1
+hyper: ratio
 g: the ratio of the number of workers that had to be replaced in a given time period to the average number of workers
 
 w: enantiomorphism
 w: mirror-image_relation
-hyper: opposition
+hyper: opposition1
 g: the relation of opposition between crystals or molecules that are reflections of one another
 
 w: evenness
@@ -608,7 +608,7 @@ hyper: noun.communication:equation
 g: an equation involving exponential functions of a variable
 
 w: exponential_expression
-hyper: noun.communication:formula
+hyper: noun.communication:formula3
 g: a mathematical expression consisting of a constant (especially e) raised to some power
 
 w: exponential_series
@@ -620,12 +620,12 @@ w: exponential_function
 hyper: function
 g: a function in which an independent variable appears as an exponent
 
-w: extraneousness drf adjs.all:extraneous2 drf adjs.all:extraneous1 drf adjs.all:extraneous drf adjs.all:extraneous
+w: extraneousness drf adjs.all:extraneous2 drf adjs.all:extraneous3 drf adjs.all:extraneous1 drf adjs.all:extraneous
 hyper: unrelatedness
 g: unrelatedness by virtue of falling outside the matter at hand
 
 w: facial_index
-hyper: ratio1
+hyper: ratio
 g: the ratio (in percent) of the maximum width to the maximum height of the face
 
 w: Fahrenheit_scale
@@ -673,7 +673,7 @@ hyper: noun.state:rank
 g: the first or highest in an ordering or series; "He wanted to be the first"
 
 w: flip_side
-hyper: opposition2
+hyper: opposition
 du: noun.communication:trope
 g: a different aspect of something (especially the opposite aspect); "the flip side of your positive qualities sometimes get out of control"; "on the flip side of partnerships he talked about their competition"
 
@@ -681,11 +681,11 @@ w: focal_ratio
 w: f_number
 w: stop_number
 w: speed
-hyper: ratio1
+hyper: ratio
 g: the ratio of the focal length to the diameter of a (camera) lens system
 
 w: footing
-w: basis
+w: basis1
 w: ground
 hyper: foundation
 g: a relation that provides the foundation for something; "they were on a friendly footing"; "he worked on an interim basis"
@@ -712,7 +712,7 @@ g: following the third position; number four in a countable series
 
 w: frequency
 w: relative_frequency
-hyper: ratio1
+hyper: ratio
 g: the ratio of the number of observations in a statistical category to the total number of observations
 
 w: frontage drf verb.stative:front
@@ -734,7 +734,7 @@ g: (mathematics) a mathematical relation such that each element of a given set (
 
 w: future_perfect
 w: future_perfect_tense
-hyper: perfective1
+hyper: perfective
 g: a perfective tense used to describe action that will be completed in the future; "`I will have finished' is an example of the future perfect"
 
 w: future_progressive
@@ -748,7 +748,7 @@ hyper: noun.communication:standard
 g: accepted or approved instance or example of a quantity or quality against which others are judged or measured or compared
 
 w: gender_agreement
-hyper: agreement3
+hyper: agreement
 g: agreement in grammatical gender between words in the same construction
 
 w: germaneness drf adjs.all:germane
@@ -761,7 +761,7 @@ hyper: proportion
 g: the proportional relation between two divisions of line or two dimension of a plane figure such that short : long :: long : (short + long)
 
 w: gradable_opposition
-hyper: opposition2
+hyper: opposition
 g: an opposition that is capable of being graded
 
 w: gradient
@@ -783,7 +783,7 @@ g: a gradient in the gravitational forces acting on different parts of a nonsphe
 w: hematocrit
 w: haematocrit
 w: packed_cell_volume
-hyper: ratio1
+hyper: ratio
 g: the ratio of the volume occupied by packed red blood cells to the volume of the whole blood as measured by a hematocrit
 
 w: highlight drf verb.change:highlight
@@ -822,11 +822,11 @@ hyper: semantic_relation
 g: the semantic relation of being superordinate or belonging to a higher rank or class
 
 w: hyponymy
-w: subordination2
+w: subordination
 hyper: semantic_relation
 g: the semantic relation of being subordinate or belonging to a lower rank or class
 
-w: identity1
+w: identity
 w: identity_element
 w: identity_operator
 hyper: operator
@@ -836,7 +836,7 @@ w: imaginative_comparison
 hyper: comparison
 g: the kind of mental comparison that is expressed in similes or metaphors or allegories
 
-w: immateriality drf adjs.all:immaterial drf adjs.all:immaterial drf adj.all:immaterial2 ant materiality
+w: immateriality drf adjs.all:immaterial1 drf adjs.all:immaterial drf adj.all:immaterial ant materiality
 hyper: irrelevance
 g: complete irrelevance requiring no further consideration
 
@@ -852,11 +852,11 @@ w: imperfective_aspect
 hyper: durative
 g: aspect without regard to the beginning or completion of the action of the verb
 
-w: implication drf verb.stative:imply2 drf verb.stative:implicate1
+w: implication1 drf verb.stative:imply drf verb.stative:implicate
 hyper: involvement
 g: a relation implicated by virtue of involvement or close connection (especially an incriminating involvement); "he was suspected of implication in several robberies"
 
-w: implication1 drf adj.pert:implicational drf verb.communication:imply1 drf verb.stative:implicate
+w: implication drf adj.pert:implicational drf verb.communication:imply drf verb.stative:implicate1
 w: logical_implication
 w: conditional_relation
 hyper: logical_relation
@@ -881,7 +881,7 @@ w: comprehension drf verb.stative:comprehend
 hyper: involvement
 g: the relation of comprising something; "he admired the inclusion of so many ideas in such a short work"
 
-w: incompatibility2 drf adjs.all:incompatible
+w: incompatibility drf adjs.all:incompatible2
 w: mutual_exclusiveness
 w: inconsistency
 w: repugnance drf verb.communication:repugn
@@ -889,7 +889,7 @@ hyper: contradictoriness
 g: the relation between propositions that cannot both be true at the same time
 
 w: index drf verb.cognition:index
-hyper: scale3
+hyper: scale
 g: a numerical scale used to compare variables with one another or with some reference number
 
 w: indicative_mood
@@ -901,15 +901,15 @@ w: fact_mood
 hyper: mood
 g: a mood (grammatically unmarked) that represents the act or state as an objective fact
 
-w: inflection drf adj.all:inflectional drf verb.communication:inflect1
-w: inflexion drf verb.communication:inflect1
+w: inflection drf adj.all:inflectional drf verb.communication:inflect
+w: inflexion drf verb.communication:inflect
 hyper: grammatical_relation
 g: a change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function
 
 w: intelligence_quotient
 w: IQ
 w: I.Q.
-hyper: ratio1
+hyper: ratio
 g: a measure of a person's intelligence as indicated by an intelligence test; the ratio of a person's mental age to their chronological age (multiplied by 100)
 
 w: interrelation drf interrelationship drf verb.stative:interrelate drf verb.cognition:interrelate
@@ -923,7 +923,7 @@ w: interrogative
 hyper: mood
 g: some linguists consider interrogative sentences to constitute a mood
 
-w: intransitivity drf adj.all:intransitive ant transitivity
+w: intransitivity drf adj.all:intransitive ant transitivity1
 w: intransitiveness drf adj.all:intransitive
 hyper: grammatical_relation
 g: the grammatical relation created by an intransitive verb
@@ -932,12 +932,12 @@ w: inverse_function
 hyper: function
 g: a function obtained by expressing the dependent variable of one function as the independent variable of another; f and g are inverse functions if f(x)=y and g(y)=x
 
-w: inverse2
-w: opposite4
-hyper: opposition2
+w: inverse
+w: opposite
+hyper: opposition
 g: something inverted in sequence or character or effect; "when the direct approach failed he tried the inverse"
 
-w: involvement drf verb.stative:involve1 drf verb.stative:involve
+w: involvement drf verb.stative:involve1 drf verb.stative:involve2
 hyper: connection
 g: a connection of inclusion or containment; "he escaped involvement in the accident"; "there was additional involvement of the liver and spleen"
 
@@ -962,7 +962,7 @@ g: a temperature scale that defines absolute zero as 0 degrees; water freezes at
 
 w: kinship drf noun.person:kin drf noun.group:kin
 w: family_relationship
-w: relationship1 drf noun.person:relation drf noun.Tops:relation
+w: relationship drf noun.person:relation drf noun.Tops:relation
 hyper: noun.Tops:relation
 dt: noun.cognition:anthropology
 g: (anthropology) relatedness or connection by blood or marriage or adoption
@@ -990,7 +990,7 @@ hyper: direction
 g: the direction in which the wind is blowing
 
 w: leftover
-w: remnant drf verb.stative:remain5
+w: remnant drf verb.stative:remain2
 hyper: remainder
 g: a small part or portion that remains after the main part no longer exists
 
@@ -1011,22 +1011,22 @@ w: linkage drf verb.cognition:link
 hyper: connection
 g: an associative relation
 
-w: link drf verb.contact:link2 drf verb.contact:link
+w: link drf verb.contact:link drf verb.contact:link1
 w: nexus
 hyper: linkage
 g: the means of connection between things linked in series
 
 w: load_factor
-hyper: ratio1
+hyper: ratio
 dt: noun.cognition:aeronautics
 g: (aeronautics) the ratio of an external load to the weight of the aircraft (measured in g)
 
 w: loading
-hyper: ratio1
+hyper: ratio
 g: the ratio of the gross weight of an airplane to some factor determining its lift
 
 w: logarithmic_scale
-hyper: scale3
+hyper: scale
 g: scale on which actual distances from the origin are proportional to the logarithms of the corresponding scale numbers
 
 w: logical_relation
@@ -1035,15 +1035,15 @@ dt: noun.cognition:logic
 g: a relation between propositions
 
 w: loss_ratio
-hyper: ratio1
+hyper: ratio
 g: the ratio of the annual claims paid by an insurance company to the premiums received
 
 w: Mach_number
-hyper: ratio1
+hyper: ratio
 g: the ratio of the speed of a moving body to the speed of sound
 
 w: magnification drf verb.change:magnify1 drf verb.change:magnify
-hyper: ratio1
+hyper: ratio
 g: the ratio of the size of an image to the size of the object
 
 w: magnitude_relation
@@ -1060,7 +1060,7 @@ w: marital_bed
 hyper: kinship
 g: the relationship between wife and husband
 
-w: materiality drf adj.all:material2 ant immateriality
+w: materiality drf adj.all:material ant immateriality
 hyper: relevance
 g: relevance requiring careful consideration
 
@@ -1075,12 +1075,12 @@ g: a relation between mathematical expressions (such as equality or inequality)
 
 w: matrilineage
 w: enation
-w: cognation1
+w: cognation
 hyper: unilateral_descent
 g: line of descent traced through the maternal side of the family
 
 w: mechanical_advantage
-hyper: ratio1
+hyper: ratio
 g: the ratio of the force exerted by a machine to the force applied to it
 
 w: medical_relation
@@ -1092,7 +1092,7 @@ hyper: part
 g: anything that belongs to a set or class; "snakes are members of the class Reptilia"; "members of the opposite sex"
 
 w: Mercalli_scale
-hyper: scale3
+hyper: scale
 dt: noun.cognition:geology
 g: a scale formerly used to describe the magnitude of an earthquake; an earthquake detected only by seismographs is a I and an earthquake that destroys all buildings is a XII
 
@@ -1105,14 +1105,14 @@ w: metric_function
 w: metric
 hyper: function
 dt: noun.cognition:mathematics
-dt: noun.cognition:physics
+dt: noun.cognition:physics1
 g: a function of a topological space that gives, for any two points in the space, a value equal to the distance between them
 
 w: mileage
 w: fuel_consumption_rate
 w: gasoline_mileage
 w: gas_mileage
-hyper: ratio1
+hyper: ratio
 g: the ratio of the number of miles traveled to the number of gallons of gasoline burned
 
 w: millionth
@@ -1124,24 +1124,24 @@ w: mode
 hyper: logical_relation
 g: a classification of propositions on the basis of whether they claim necessity or possibility or impossibility
 
-w: modification drf verb.change:modify1
-w: qualifying drf verb.change:qualify1
+w: modification drf verb.change:modify
+w: qualifying drf verb.change:qualify2
 w: limiting
 hyper: grammatical_relation
 g: the grammatical relation that exists when a word qualifies the meaning of the phrase
 
 w: Mohs_scale
-hyper: scale3
+hyper: scale
 g: a scale of hardness of solids; talc is 0 and diamond is 10; ordering is determined by which substance can scratch another substance
 
 w: moment_magnitude_scale
-hyper: scale3
+hyper: scale
 dt: noun.cognition:geology
 g: a logarithmic scale of 1 to 10 (a successor to the Richter scale) that enables seismologists to compare the energy released by different earthquakes on the basis of the area of the geological fault that ruptured in the quake
 
 w: mood
-w: mode2 drf adj.pert:modal
-w: modality1 drf adj.pert:modal
+w: mode1 drf adj.pert:modal1
+w: modality1 drf adj.pert:modal1
 hyper: grammatical_relation
 g: verb inflections that express how the action or state is conceived by the speaker
 
@@ -1149,20 +1149,20 @@ w: morbidity
 hyper: incidence
 g: the relative incidence of a particular disease
 
-w: motherhood drf noun.person:mother
+w: motherhood drf noun.person:mother2
 w: maternity
 hyper: kinship
 g: the kinship relation between an offspring and the mother
 
 w: multiplicative_inverse
-w: reciprocal
-hyper: inverse2
+w: reciprocal1
+hyper: inverse
 dt: noun.cognition:mathematics
 g: (mathematics) one of a pair of numbers whose product is 1: the reciprocal of 2/3 is 3/2; the multiplicative inverse of 7 is 1/7
 
 w: mutual_opposition
 w: polarity1 drf adjs.all:polar
-hyper: opposition2
+hyper: opposition
 g: a relation between two opposite attributes or tendencies; "he viewed it as a balanced polarity between good and evil"
 
 w: mutual_understanding
@@ -1170,13 +1170,13 @@ w: mutual_affection
 hyper: sympathy
 g: sympathy of each person for the other
 
-w: mutuality drf adjs.all:mutual drf adj.all:mutual
+w: mutuality1 drf adjs.all:mutual drf adj.all:mutual
 w: interdependence drf adjs.all:interdependent drf verb.stative:interdepend
 w: interdependency drf adjs.all:interdependent drf verb.stative:interdepend
 hyper: reciprocality
 g: a reciprocal relation between interdependent entities (objects or individuals or groups)
 
-w: mutuality1 drf adjs.all:mutual drf adj.all:mutual
+w: mutuality drf adjs.all:mutual drf adj.all:mutual
 w: mutualness drf adjs.all:mutual
 hyper: reciprocality
 g: a reciprocality of sentiments; "the mutuality of their affection was obvious"
@@ -1202,7 +1202,7 @@ w: norm
 hyper: noun.communication:standard
 g: a standard or model or pattern regarded as typical; "the current middle-class norm of two children per family"
 
-w: north2
+w: north
 hyper: direction
 g: the direction corresponding to the northward cardinal compass point
 
@@ -1228,14 +1228,14 @@ w: NNW
 hyper: compass_point
 g: the compass point that is midway between north and northwest
 
-w: north
+w: north2
 w: due_north
 w: northward
 w: N
 hyper: cardinal_compass_point
 g: the cardinal compass point that is at 0 or 360 degrees
 
-w: northeast2
+w: northeast
 hyper: direction
 g: the direction corresponding to the northeastward compass point
 
@@ -1249,7 +1249,7 @@ w: NEbN
 hyper: compass_point
 g: the compass point that is one point north of northeast
 
-w: northeast
+w: northeast1
 w: nor'-east
 w: northeastward
 w: NE
@@ -1262,7 +1262,7 @@ w: compass_north
 hyper: direction
 g: the direction in which a compass needle points
 
-w: northwest2
+w: northwest
 hyper: direction
 g: the direction corresponding to the northwestward compass point
 
@@ -1276,7 +1276,7 @@ w: NWbW
 hyper: compass_point
 g: the compass point that is one point west of northwest
 
-w: northwest
+w: northwest1
 w: nor'-west
 w: northwestward
 w: NW
@@ -1284,14 +1284,14 @@ hyper: compass_point
 g: the compass point midway between north and west; at 315 degrees
 
 w: number_agreement
-hyper: agreement3
+hyper: agreement
 g: agreement in number between words in the same grammatical construction (e.g., between adjectives and the nouns they modify)
 
 w: nurse-patient_relation
 hyper: medical_relation
 g: the responsibility of a nurse to act in the best interests of the patient
 
-w: obligation drf verb.communication:oblige1
+w: obligation drf verb.communication:oblige
 w: indebtedness drf adjs.all:indebted1
 hyper: personal_relation
 g: a personal relation in which one is indebted for a service or favor
@@ -1306,7 +1306,7 @@ g: the parity of odd numbers (not divisible by two)
 
 w: odds
 w: betting_odds
-hyper: ratio1
+hyper: ratio
 g: the ratio by which one better's wager is greater than that of another; "he offered odds of two to one"
 
 w: operator
@@ -1314,51 +1314,51 @@ hyper: function
 dt: noun.cognition:mathematics
 g: (mathematics) a symbol or function representing a mathematical operation
 
-w: opposition
+w: opposition1
 hyper: direction
 g: a direction opposite to another
 
-w: opposition2
-w: oppositeness drf adjs.all:opposite2 drf adjs.all:opposite
+w: opposition
+w: oppositeness drf adjs.all:opposite3 drf adjs.all:opposite4
 hyper: noun.Tops:relation
 g: the relation between opposed entities
 
 w: optative_mood
 w: optative
 hyper: mood
-dr: noun.location:Greece
+dr: noun.location:Greece1
 dt: noun.communication:Sanskrit
 g: a mood (as in Greek or Sanskrit) that expresses a wish or hope; expressed in English by modal verbs
 
 w: order_of_magnitude
 w: magnitude
-hyper: ratio1
+hyper: ratio
 g: a number assigned to the ratio of two quantities; two quantities are of the same order of magnitude if one is less than 10 times as large as the other; the number of magnitudes that the quantities differ is specified to within a power of 10
 
 w: orientation
 hyper: direction
 attr: adj.all:horizontal
-attr: adj.all:vertical
+attr: adj.all:vertical1
 attr: adj.all:inclined1
 g: position or alignment relative to points of the compass or other specific directions
 
 w: orthogonality
-w: perpendicularity drf adj.all:perpendicular4 drf adj.all:perpendicular
+w: perpendicularity drf adj.all:perpendicular1 drf adj.all:perpendicular
 w: orthogonal_opposition
-hyper: opposition
+hyper: opposition1
 g: the relation of opposition between things at right angles
 
 w: output-to-input_ratio
-hyper: ratio1
+hyper: ratio
 hp: noun.attribute:frequency_response
 g: the output power of a transducer divided by the input power
 
-w: paradigm drf adj.pert:paradigmatic1
+w: paradigm drf adj.pert:paradigmatic
 hyper: inflection
 g: systematic arrangement of all the inflected forms of a word
 
 w: parasitism
-hyper: mutuality
+hyper: mutuality1
 g: the relation between two different kinds of organisms in which one receives benefits from the other by causing damage to it (usually not fatal damage)
 
 w: parentage drf verb.social:parent
@@ -1377,10 +1377,10 @@ dt: noun.group:law
 g: the responsibility of partners to act in one another's best interests
 
 w: partnership
-hyper: relationship
+hyper: relationship1
 g: a cooperative relationship between people or groups who agree to share responsibility for achieving some specific goal; "effective language learning is a partnership between school, teacher and student"; "the action teams worked in partnership with the government"
 
-w: part drf adjs.all:partial
+w: part drf adjs.all:partial1
 w: portion
 w: component_part
 w: component
@@ -1390,7 +1390,7 @@ hp: meronymy
 g: something determined in relation to something that includes it; "he wanted to feel a part of something bigger than himself"; "I read a portion of the manuscript"; "the smaller component is hard to reach"; "the animal constituent of plankton"
 
 w: passive_voice ant active_voice
-w: passive drf adj.all:passive2
+w: passive drf adj.all:passive
 hyper: voice
 g: the voice used to indicate that the grammatical subject of the verb is the recipient (not the source) of the action denoted by the verb; "`The ball was thrown by the boy' uses the passive voice"; "`The ball was thrown' is an abbreviated passive"
 
@@ -1398,7 +1398,7 @@ w: past_perfect
 w: past_perfect_tense
 w: pluperfect
 w: pluperfect_tense
-hyper: perfective1
+hyper: perfective
 g: a perfective tense used to express action completed in the past; "`I had finished' is an example of the past perfect"
 
 w: past_progressive
@@ -1418,12 +1418,12 @@ w: pct
 hyper: proportion
 g: a proportion in relation to a whole (which is usually the amount per hundred)
 
-w: perfective
+w: perfective1
 w: perfective_aspect
 hyper: aspect
 g: the aspect of a verb that expresses a completed action
 
-w: perfective1
+w: perfective
 w: perfective_tense
 w: perfect
 w: perfect_tense
@@ -1431,12 +1431,12 @@ hyper: noun.communication:tense
 g: a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)
 
 w: person_agreement
-hyper: agreement3
+hyper: agreement
 g: agreement in person between pronouns and verbs
 
 w: personal_relation
 w: personal_relationship
-hyper: relationship
+hyper: relationship1
 g: a relation between persons
 
 w: pluralization drf verb.communication:pluralize
@@ -1444,7 +1444,7 @@ w: pluralisation drf verb.communication:pluralise
 hyper: inflection
 g: the act of pluralizing or attributing plurality to
 
-w: point4
+w: point1
 hyper: relevance
 g: a style in speech or writing that arrests attention and has a penetrating or convincing quality or effect
 
@@ -1452,12 +1452,12 @@ w: polar_opposition
 hyper: gradable_opposition
 g: an opposition that can be graded between two extremes or poles
 
-w: polarity drf adjs.all:polar
+w: polarity drf adjs.all:polar3
 w: sign
-hyper: opposition2
+hyper: opposition
 g: having an indicated pole (as the distinction between positive and negative electric charges); "he got the polarity of the battery reversed"; "charges of opposite sign"
 
-w: politics drf noun.person:politician1 drf noun.person:politician
+w: politics drf noun.person:politician1 drf noun.person:politician2
 w: political_relation
 hyper: noun.Tops:social_relation
 g: social relations involving intrigue to gain authority or power; "office politics is often counterproductive"
@@ -1473,7 +1473,7 @@ g: the ratio of the weight of an airplane to its engine power
 
 w: present_perfect
 w: present_perfect_tense
-hyper: perfective1
+hyper: perfective
 g: a perfective tense used to express action completed in the present; "`I have finished' is an example of the present perfect"
 
 w: present_progressive
@@ -1487,23 +1487,23 @@ hyper: noun.communication:past
 g: a term formerly used to refer to the simple past tense
 
 w: prevalence
-hyper: ratio1
+hyper: ratio
 dt: noun.cognition:epidemiology
 g: (epidemiology) the ratio (for a given time period) of the number of occurrences of a disease or event to the number of units at risk in the population
 
 w: price-to-earnings_ratio
 w: P/E_ratio
-hyper: ratio1
+hyper: ratio
 dt: noun.artifact:stock_exchange
 g: (stock market) the price of a stock divided by its earnings
 
 w: price_war
 w: price_competition
-hyper: competition1
+hyper: competition
 g: intense competition in which competitors cut retail prices to gain business
 
 w: productivity
-hyper: ratio1
+hyper: ratio
 dt: noun.cognition:economics
 g: (economics) the ratio of the quantity and quality of units produced to the labor per unit of time
 
@@ -1523,16 +1523,16 @@ w: continuous_tense
 hyper: noun.communication:tense
 g: a tense of verbs used in describing action that is on-going
 
-w: proportion drf verb.change:proportion
+w: proportion drf verb.change:proportion1
 hyper: quotient
 g: the quotient obtained when the magnitude of a part is divided by the magnitude of the whole
 
-w: proportionality drf adjs.all:proportional1
-hyper: ratio1
+w: proportionality drf adjs.all:proportional
+hyper: ratio
 g: a ratio of two quantities that is constant
 
 w: proportion1
-w: ratio
+w: ratio1
 hyper: magnitude_relation
 g: the relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree; "an inordinate proportion of the book is given over to quotations"; "a dry martini has a large proportion of gin"
 
@@ -1545,7 +1545,7 @@ hyper: orientation
 g: one of the four major division of the compass; "the wind is coming from that quarter"
 
 w: quotient
-hyper: ratio1
+hyper: ratio
 g: the ratio of two quantities to be divided
 
 w: Rankine_scale
@@ -1554,14 +1554,14 @@ g: a scale of absolute temperature in Fahrenheit degrees; the freezing point of 
 
 w: rapport
 w: resonance drf verb.cognition:resonate
-hyper: affinity3
+hyper: affinity2
 g: a relationship of mutual understanding or trust and agreement between people
 
 w: rate
 hyper: proportion
 g: a quantity or amount or measure considered as a proportion of another quantity or amount or measure; "the literacy rate"; "the retention rate"; "the dropout rate"
 
-w: ratio1
+w: ratio
 hyper: magnitude_relation
 g: the relative magnitudes of two quantities (usually expressed as a quotient)
 
@@ -1574,7 +1574,7 @@ hyper: fiduciary_relation
 dt: noun.group:law
 g: the responsibility of receiver or trustee in bankruptcy to act in the best interests of the creditor
 
-w: reciprocal1
+w: reciprocal
 hyper: reciprocality
 g: something (a term or expression or concept) that has a reciprocal relation to something else; "risk is the reciprocal of safety"
 
@@ -1593,8 +1593,8 @@ w: reflexiveness
 hyper: coreference
 g: the coreferential relation between a reflexive pronoun and its antecedent
 
-w: reflexivity1 drf adjs.all:reflexive
-w: reflexiveness1 drf adjs.all:reflexive
+w: reflexivity1 drf adjs.all:reflexive1
+w: reflexiveness1 drf adjs.all:reflexive1
 hyper: logical_relation
 hyper: mathematical_relation
 dt: noun.cognition:logic
@@ -1603,25 +1603,25 @@ g: (logic and mathematics) a relation such that it holds between an element and 
 
 w: refractive_index
 w: index_of_refraction
-hyper: ratio1
+hyper: ratio
 g: the ratio of the velocity of light in a vacuum to that in a medium
 
-w: relatedness drf adj.all:related2 drf adj.all:related1 ant unrelatedness
+w: relatedness drf adj.all:related drf adj.all:related1 ant unrelatedness
 hyper: connection
 g: a particular manner of connectedness; "the relatedness of all living things"
 
 w: relations
-w: dealings drf verb.social:deal4
+w: dealings drf verb.social:deal3
 hyper: noun.Tops:social_relation
 g: mutual dealings or connections or communications among persons or groups
 
-w: relationship drf noun.person:relation drf noun.Tops:relation
+w: relationship1 drf noun.person:relation drf noun.Tops:relation
 w: human_relationship
 hyper: noun.Tops:relation
 g: a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness); "the relationship between mothers and their children"
 
 w: relative_humidity
-hyper: ratio1
+hyper: ratio
 g: the ratio of the amount of water in the air at a give temperature to the maximum amount it could hold at that temperature; expressed as a percentage
 
 w: relevance drf adj.all:relevant ant irrelevance
@@ -1629,31 +1629,31 @@ w: relevancy drf adj.all:relevant
 hyper: connection
 g: the relation of something to the matter at hand
 
-w: remainder drf verb.possession:remainder drf verb.stative:remain5
+w: remainder drf verb.possession:remainder drf verb.stative:remain2
 w: balance
 w: residual drf adj.pert:residual
-w: residue drf adj.pert:residuary drf adj.pert:residual
+w: residue drf adj.pert:residuary1 drf adj.pert:residual
 w: residuum
 w: rest
 hyper: part
 g: something left after other parts have been taken away; "there was no remainder"; "he threw away the rest"; "he took what he wanted and I got the balance"
 
 w: respiratory_quotient
-hyper: ratio1
+hyper: ratio
 g: the ratio of the volume of carbon dioxide expired to the volume of oxygen consumed by an organism or cell in a given period of time
 
 w: restrictiveness
 hyper: modification
 g: a grammatical qualification that makes the meaning more specific (`red hat' has a more specific meaning than `hat')
 
-w: reverse drf adjs.all:reverse2 drf verb.communication:reverse drf verb.change:reverse
-w: contrary1
-w: opposite3
-hyper: opposition2
+w: reverse drf adjs.all:reverse1 drf verb.communication:reverse drf verb.change:reverse2
+w: contrary
+w: opposite1
+hyper: opposition
 g: a relation of direct opposition; "we thought Sue was older than Bill but just the reverse was true"
 
 w: Richter_scale
-hyper: scale3
+hyper: scale
 dt: noun.cognition:geology
 g: a logarithmic scale of 1 to 10 formerly used to express the magnitude of an earthquake on the basis of the size of seismograph oscillations
 
@@ -1664,18 +1664,18 @@ g: (mathematics) a transformation in which the coordinate axes are rotated by a 
 
 w: safety_factor
 w: factor_of_safety
-hyper: ratio1
+hyper: ratio
 g: the ratio of the breaking stress of a structure to the estimated maximum stress in ordinary use
 
 w: scale1 drf verb.change:scale1 drf verb.creation:scale
 hyper: proportion
 g: the ratio between the size of something and a representation of it; "the scale of the map"; "the scale of the model"
 
-w: scale
+w: scale2
 hyper: magnitude_relation
 g: relative magnitude; "they entertained on a grand scale"
 
-w: scale3 drf verb.change:scale1 drf verb.creation:scale
+w: scale drf verb.change:scale1 drf verb.creation:scale
 w: scale_of_measurement
 w: graduated_table
 w: ordered_series
@@ -1716,12 +1716,12 @@ w: seventieth drf adjs.all:seventieth
 hyper: noun.state:rank
 g: position 70 in a countable series of things
 
-w: sharing1 drf verb.possession:share2
-hyper: mutuality
+w: sharing drf verb.possession:share
+hyper: mutuality1
 g: using or enjoying something jointly with others
 
-w: sharing drf verb.stative:share
-hyper: mutuality
+w: sharing1 drf verb.stative:share
+hyper: mutuality1
 g: having in common; "the sharing of electrons creates molecules"
 
 w: signal-to-noise_ratio
@@ -1729,7 +1729,7 @@ w: signal-to-noise
 w: signal/noise_ratio
 w: signal/noise
 w: S/N
-hyper: ratio1
+hyper: ratio
 g: the ratio of signal intensity to noise intensity
 
 w: silver_cord
@@ -1762,7 +1762,7 @@ w: sliding_scale
 hyper: wage_scale
 g: a wage scale that fluctuates in response to the cost-of-living index
 
-w: south2
+w: south
 hyper: direction
 g: the direction corresponding to the southward cardinal compass point
 
@@ -1788,14 +1788,14 @@ w: SSW
 hyper: compass_point
 g: the compass point midway between south and southwest
 
-w: south
+w: south1
 w: due_south
 w: southward
 w: S
 hyper: cardinal_compass_point
 g: the cardinal compass point that is at 180 degrees
 
-w: southeast2
+w: southeast
 hyper: direction
 g: the direction corresponding to the southeastward compass point
 
@@ -1809,14 +1809,14 @@ w: SEbS
 hyper: compass_point
 g: the compass point that is one point south of southeast
 
-w: southeast
+w: southeast1
 w: sou'-east
 w: southeastward
 w: SE
 hyper: compass_point
 g: the compass point midway between south and east; at 135 degrees
 
-w: southwest2
+w: southwest
 hyper: direction
 g: the direction corresponding to the southwestward compass point
 
@@ -1830,7 +1830,7 @@ w: SWbW
 hyper: compass_point
 g: the compass point that is one point west of southwest
 
-w: southwest
+w: southwest1
 w: sou'-west
 w: southwestward
 w: SW
@@ -1842,11 +1842,11 @@ hyper: loading
 g: the ratio of the weight of an airplane to its wingspan
 
 w: steprelationship
-hyper: affinity1
+hyper: affinity
 g: a family relationship by virtue of remarriage
 
 w: stoichiometry drf adj.pert:stoichiometric
-hyper: ratio1
+hyper: ratio
 dt: noun.cognition:chemistry
 g: (chemistry) the relation between the quantities of substances that take part in a reaction or form a compound (typically a ratio of whole integers)
 
@@ -1856,7 +1856,7 @@ hyper: mood
 g: a mood that represents an act or state (not as a fact but) as contingent or possible
 
 w: subordinating_conjunction
-hyper: conjunction2
+hyper: conjunction
 g: the subordination that occurs when a conjunction makes one linguistic unit a constituent of another
 
 w: subordination1
@@ -1869,17 +1869,17 @@ g: a part of a part
 
 w: symbiosis drf adjs.all:symbiotic
 w: mutualism
-hyper: mutuality
+hyper: mutuality1
 g: the relation between two different species of organisms that are interdependent; each gains benefits from the other
 
-w: sympathy drf verb.emotion:sympathize1 drf verb.emotion:sympathise1 drf adjs.all:sympathetic
-hyper: affinity3
+w: sympathy drf verb.emotion:sympathize drf verb.emotion:sympathise drf adjs.all:sympathetic
+hyper: affinity2
 g: a relation of affinity or harmony between people; whatever affects one correspondingly affects the other; "the two of them were in close sympathy"
 
 w: synchronism ant asynchronism
-w: synchrony drf adj.all:synchronic4 drf adj.all:synchronous drf verb.stative:synchronize drf verb.communication:synchronize drf verb.cognition:synchronize drf verb.change:synchronize drf verb.stative:synchronise drf verb.cognition:synchronise drf verb.change:synchronise
-w: synchronicity drf adjs.all:synchronic2 drf adj.all:synchronic4
-w: synchroneity drf adj.all:synchronous
+w: synchrony drf adj.all:synchronic drf adj.all:synchronous1 drf verb.stative:synchronize drf verb.communication:synchronize drf verb.cognition:synchronize drf verb.change:synchronize2 drf verb.stative:synchronise drf verb.cognition:synchronise drf verb.change:synchronise2
+w: synchronicity drf adjs.all:synchronic drf adj.all:synchronic
+w: synchroneity drf adj.all:synchronous1
 w: synchronization drf verb.stative:synchronize ant desynchronization
 w: synchronisation drf verb.stative:synchronise
 w: synchronizing drf verb.stative:synchronize ant desynchronizing
@@ -1906,7 +1906,7 @@ hyper: gradient
 g: change in temperature as a function of distance (especially altitude)
 
 w: temperature_scale
-hyper: scale3
+hyper: scale
 hyper: noun.quantity:system_of_measurement
 g: a system of measuring temperature
 
@@ -1914,7 +1914,7 @@ w: temporal_relation
 hyper: noun.Tops:relation
 attr: adj.all:preceding
 attr: adj.all:succeeding
-attr: adj.all:retrograde
+attr: adj.all:retrograde1
 attr: adj.all:anterograde
 g: a relation involving time
 
@@ -1923,7 +1923,7 @@ hyper: noun.state:rank
 g: position ten in a countable series of things
 
 w: tertium_quid
-hyper: opposition2
+hyper: opposition
 g: some third thing similar to two opposites but distinct from both
 
 w: third
@@ -1947,11 +1947,11 @@ hyper: function
 g: a function that takes the value 1 if a specified function of the arguments exceeds a given threshold and 0 otherwise
 
 w: time_constant
-hyper: ratio1
+hyper: ratio
 g: the ratio of the inductance of a circuit in henries to its resistance in ohms
 
 w: time_sharing
-hyper: sharing1
+hyper: sharing
 dt: noun.cognition:computer_science
 g: (computer science) the use of a central computer by many users simultaneously
 
@@ -1967,19 +1967,19 @@ w: weather_side
 hyper: windward
 g: the side toward the wind
 
-w: transformation drf verb.change:transform2
+w: transformation drf verb.change:transform
 hyper: function
 dt: noun.cognition:mathematics
 g: (mathematics) a function that changes the position or direction of the axes of a coordinate system
 
-w: transitivity1
+w: transitivity
 hyper: logical_relation
 hyper: mathematical_relation
 dt: noun.cognition:logic
 dt: noun.cognition:mathematics
 g: (logic and mathematics) a relation between three elements such that if it holds between the first and second and it also holds between the second and third it must necessarily hold between the first and third
 
-w: transitivity drf adj.all:transitive ant intransitivity
+w: transitivity1 drf adj.all:transitive ant intransitivity
 w: transitiveness drf adj.all:transitive
 hyper: grammatical_relation
 g: the grammatical relation created by a transitive verb
@@ -1994,7 +1994,7 @@ w: circular_function
 hyper: function
 g: function of an angle expressed as a ratio of the length of the sides of right-angled triangle containing the angle
 
-w: trim drf verb.stative:trim5 drf verb.stative:trim6
+w: trim drf verb.stative:trim1 drf verb.stative:trim
 hyper: attitude
 g: attitude of an aircraft in flight when allowed to take its own orientation
 
@@ -2028,7 +2028,7 @@ hyper: percentage
 g: the percentage of the work force that is unemployed at any given date
 
 w: ungradable_opposition
-hyper: opposition2
+hyper: opposition
 g: an opposition that has no intermediate grade; either one or the other
 
 w: unilateral_descent
@@ -2039,7 +2039,7 @@ w: unit drf verb.social:unitize drf verb.change:unitize
 hyper: part
 g: an individual or group or structure or other entity regarded as a structural or functional constituent of a whole; "the reduced the number of units and installations"; "the word is a basic linguistic unit"
 
-w: unrelatedness drf adj.all:unrelated2 drf adj.all:unrelated1 ant relatedness
+w: unrelatedness drf adj.all:unrelated drf adj.all:unrelated1 ant relatedness
 hyper: unconnectedness
 g: the lack of any particular manner of connectedness
 
@@ -2047,7 +2047,7 @@ w: vacancy_rate
 hyper: percentage
 g: the percentage of all rental units (as in hotels) that are unoccupied or not rented at a given time
 
-w: vertical drf adj.all:vertical
+w: vertical drf adj.all:vertical1
 hyper: orientation
 g: something that is oriented vertically
 
@@ -2058,10 +2058,10 @@ g: (linguistics) the grammatical relation (active or passive) of the grammatical
 
 w: wage_scale
 w: wage_schedule
-hyper: scale3
+hyper: scale
 g: a schedule of wages paid for different jobs
 
-w: west2
+w: west
 hyper: direction
 g: the direction corresponding to the westward cardinal compass point
 
@@ -2085,7 +2085,7 @@ w: WSW
 hyper: compass_point
 g: the compass point midway between west and southwest
 
-w: west
+w: west1
 w: due_west
 w: westward
 w: W
