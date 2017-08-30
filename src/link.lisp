@@ -1,23 +1,23 @@
 (in-package #:cl-wn-org)
 
 
-(defparameter dicts '(adj.all.txt
-		      noun.animal.txt		noun.event.txt
-		      noun.motive.txt		noun.process.txt	noun.time.txt
-		      verb.consumption.txt	verb.possession.txt     adj.pert.txt
-		      noun.artifact.txt	        noun.feeling.txt	noun.object.txt
-		      noun.quantity.txt	        verb.body.txt		verb.contact.txt
-		      verb.social.txt           adj.ppl.txt		noun.attribute.txt
-		      noun.food.txt		noun.person.txt		noun.relation.txt
-		      verb.change.txt		verb.creation.txt	verb.stative.txt
-		      adv.all.txt		noun.body.txt
-		      noun.phenomenon.txt	noun.shape.txt		verb.cognition.txt
-		      verb.emotion.txt   	verb.weather.txt        noun.Tops.txt
-		      noun.cognition.txt	noun.group.txt		noun.plant.txt
-		      noun.state.txt		verb.communication.txt	verb.motion.txt
-		      noun.act.txt		noun.communication.txt	noun.location.txt
-		      noun.possession.txt	noun.substance.txt	verb.competition.txt
-		      verb.perception.txt))
+(defparameter dicts '("adj.all.txt"
+		      "noun.animal.txt"		"noun.event.txt"
+		      "noun.motive.txt"		"noun.process.txt"	"noun.time.txt"
+		      "verb.consumption.txt"	"verb.possession.txt"   "adj.pert.txt"
+		      "noun.artifact.txt"	"noun.feeling.txt"	"noun.object.txt"
+		      "noun.quantity.txt"	"verb.body.txt"		"verb.contact.txt"
+		      "verb.social.txt"         "adj.ppl.txt"		"noun.attribute.txt"
+		      "noun.food.txt"		"noun.person.txt"      	"noun.relation.txt"
+		      "verb.change.txt"		"verb.creation.txt"	"verb.stative.txt"
+		      "adv.all.txt"		"noun.body.txt"
+		      "noun.phenomenon.txt"	"noun.shape.txt"       	"verb.cognition.txt"
+		      "verb.emotion.txt"   	"verb.weather.txt"      "noun.Tops.txt"
+		      "noun.cognition.txt"	"noun.group.txt"	"noun.plant.txt"
+		      "noun.state.txt"		"verb.communication.txt"      "verb.motion.txt"
+		      "noun.act.txt"		"noun.communication.txt"      "noun.location.txt"
+		      "noun.possession.txt"	"noun.substance.txt"	"verb.competition.txt"
+		      "verb.perception.txt"))
 
 
 
