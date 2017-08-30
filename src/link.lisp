@@ -10,7 +10,7 @@
 		      verb.social.txt           adj.ppl.txt		noun.attribute.txt
 		      noun.food.txt		noun.person.txt		noun.relation.txt
 		      verb.change.txt		verb.creation.txt	verb.stative.txt
-		      adv.all.txt		noun.body.txt		noun.geotime.txt
+		      adv.all.txt		noun.body.txt
 		      noun.phenomenon.txt	noun.shape.txt		verb.cognition.txt
 		      verb.emotion.txt   	verb.weather.txt        noun.Tops.txt
 		      noun.cognition.txt	noun.group.txt		noun.plant.txt
