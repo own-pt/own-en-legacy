@@ -50,13 +50,18 @@
 	  )))
 
 (defun add-w (syn infos)
-  (let* ((word (nth 1 infos))
+  (let* ((word-dirty (nth 1 infos))
+	 (word (clean-word word-dirty))
 	 (sense (make-instance 'sense :word  word)))
     (setf (synset-senses syn)
 	  (append (synset-senses syn)
 		  (list sense)))
     (add-w-rest sense (cddr infos))))
 
+(defun clean-word (word)
+  (if (cl-ppcre:scan "[_a-z]*[a-z][1-9]$" word)
+      (aref (nth 1 (multiple-value-list (cl-ppcre:scan-to-strings  "(.*)[1-9]$" word))) 0)
+      word))
     
 
 (defun add-w-rest (sense infos)
@@ -68,20 +73,7 @@
 		     (append (sense-links-targets sense)
 			     (list link target)))
 	       (add-w-rest sense (cddr infos))))))
-  
-
-
-
-  ;; (let ((slot (cl-ppcre:scan-to-strings  "<(.*?)>>" line))
-  ;; 	(link (format-link (cl-ppcre:scan-to-strings  "\\[(.*)\\]" line))))
-  ;; 	     (setf (synset-pointers syn)
-  ;; 		   (append (synset-pointers syn)
-  ;; 			   (list slot link)))
-  ;; 	     (setf (synset-slot-pointers syn)
-  ;; 		   (append (synset-slot-pointers syn)
-  ;; 			   (list slot)))))
-
-
+ 
 (defun add-g (syn line)
   (setf (synset-gloss syn)
 	(aref (nth 1 (multiple-value-list (cl-ppcre:scan-to-strings  ": (.*)" line))) 0)))
@@ -89,8 +81,7 @@
 (defun add-rest (syn infos)
   (let ((link (car infos))
 	(target  (cadr infos)))
-    ;;(print infos)
-    (setf (synset-pointers syn)
+     (setf (synset-pointers syn)
 	  (append (synset-pointers syn)
 		  (list link target)))
     (setf (synset-slot-pointers syn)
