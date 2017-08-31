@@ -43,7 +43,7 @@
 	  ((cl-ppcre:scan "VERB" file) (add-type stream synset "VerbSynset")))))
 
 (defun add-wordsenses (stream synset file-name sense)
-  (let* ((word (sense-word sense))
+  (let* ((word (sense-id sense))
 	 (uri-sense (make-uri "wordsense" file-name word)))
     (format stream "~a <https://w3id.org/own-pt/wn30/schema/containsWordSense> ~a .~%" synset uri-sense)
     (add-type stream uri-sense "WordSense")

@@ -29,6 +29,9 @@
   ((word             :initarg :word 
 		     :initform nil
 		     :accessor sense-word)
+   (id               :initarg :id 
+		     :initform nil
+		     :accessor sense-id)
    (links-targets    :initarg :links-targets 
 		     :initform nil
 		     :accessor sense-links-targets)))

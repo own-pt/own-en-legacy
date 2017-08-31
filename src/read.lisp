@@ -52,7 +52,7 @@
 (defun add-w (syn infos)
   (let* ((word-dirty (nth 1 infos))
 	 (word (clean-word word-dirty))
-	 (sense (make-instance 'sense :word  word)))
+	 (sense (make-instance 'sense :word  word :id word-dirty)))
     (setf (synset-senses syn)
 	  (append (synset-senses syn)
 		  (list sense)))
