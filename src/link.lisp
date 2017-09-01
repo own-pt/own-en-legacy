@@ -1,7 +1,7 @@
 (in-package #:cl-wn-org)
 
 
-(defparameter dicts '("adj.all.txt"
+(defparameter dicts '("adj.all.txt"             "adjs.all.txt"          "noun.body.txt"
 		      "noun.animal.txt"		"noun.event.txt"
 		      "noun.motive.txt"		"noun.process.txt"	"noun.time.txt"
 		      "verb.consumption.txt"	"verb.possession.txt"   "adj.pert.txt"
@@ -10,7 +10,7 @@
 		      "verb.social.txt"         "adj.ppl.txt"		"noun.attribute.txt"
 		      "noun.food.txt"		"noun.person.txt"      	"noun.relation.txt"
 		      "verb.change.txt"		"verb.creation.txt"	"verb.stative.txt"
-		      "adv.all.txt"		"noun.body.txt"
+		     ; "adv.all.txt"		
 		      "noun.phenomenon.txt"	"noun.shape.txt"       	"verb.cognition.txt"
 		      "verb.emotion.txt"   	"verb.weather.txt"      "noun.Tops.txt"
 		      "noun.cognition.txt"	"noun.group.txt"	"noun.plant.txt"

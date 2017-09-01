@@ -8879,7 +8879,7 @@ w: powerlessly da adj.all:powerless
 g: in a powerless manner
 
 w: practicably da adjs.all:practicable1
-w: feasibly da adjs.all:feasible + adjs.all:feasible
+w: feasibly da adjs.all:feasible
 g: in a practicable manner; so as to be feasible
 
 w: practically
