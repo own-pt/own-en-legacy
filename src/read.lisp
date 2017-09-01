@@ -51,17 +51,17 @@
 
 (defun add-w (syn infos)
   (let* ((word-dirty (nth 1 infos))
-	 (word (clean-word word-dirty))
+	 (word (clean-word-1 word-dirty))
 	 (sense (make-instance 'sense :word  word :id word-dirty)))
     (setf (synset-senses syn)
 	  (append (synset-senses syn)
 		  (list sense)))
     (add-w-rest sense (cddr infos))))
 
-(defun clean-word (word)
-  (if (cl-ppcre:scan "[_a-z]*[a-z][1-9]$" word)
-      (aref (nth 1 (multiple-value-list (cl-ppcre:scan-to-strings  "(.*)[1-9]$" word))) 0)
-      word))
+(defun clean-word-1 (word)
+   (if (cl-ppcre:scan "[_a-z]*[a-z][1-9]$" word)
+       (aref (nth 1 (multiple-value-list (cl-ppcre:scan-to-strings  "(.*)[1-9]$" word))) 0)
+       word))
     
 
 (defun add-w-rest (sense infos)
