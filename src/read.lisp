@@ -46,8 +46,7 @@
   (let ((infos (cl-ppcre:split "\\s+" line)))
     (cond ((equal "w:" (car infos))        (add-w syn infos))
 	  ((equal "g:" (car infos))        (add-g syn line))
-	  (T                               (add-rest syn infos))
-	  )))
+	  (T                               (add-rest syn infos)))))
 
 (defun add-w (syn infos)
   (let* ((word-dirty (nth 1 infos))

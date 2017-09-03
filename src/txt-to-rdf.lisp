@@ -3,23 +3,27 @@
 (defun txt->rdf (wn new-file)
   (with-open-file (stream new-file :direction :output :if-exists :supersede ;:append
 			  :if-does-not-exist :create)
-    (maphash #'(lambda (file-name synsets) (synsets->rdf stream file-name synsets)) wn)))
+    (let ((hash-words (make-hash-table :test #'equal)))
+      (maphash #'(lambda (file-name synsets) (synsets->rdf stream file-name synsets hash-words)) wn)
+      (maphash #'(lambda (word uri-word) (instance-word stream word uri-word)) hash-words))))
 
 
-(defun synsets->rdf (stream file-name synsets)
+(defun synsets->rdf (stream file-name synsets hash-words)
   (maphash #'(lambda (synset-id synset-obj)
-	       (if (not (listp synset-obj)) (synset->rdf stream file-name synset-id synset-obj)))
+	       (if (not (listp synset-obj))
+		   (synset->rdf stream file-name synset-id synset-obj hash-words)))
 	   synsets))
 
 
-(defun synset->rdf (stream file-name synset-id synset-obj)
+(defun synset->rdf (stream file-name synset-id synset-obj hash-words)
   (let ((synset-uri (make-uri "synset" file-name synset-id))
 	(senses (synset-senses synset-obj)))
     (add-synset-type stream synset-uri file-name)
     (add-synset-props stream (symbol-name file-name) synset-uri synset-obj)
     (add-gloss stream synset-uri (synset-gloss synset-obj))
     (loop for sense in senses do
-	  (add-wordsenses stream synset-uri file-name sense))))
+	  (add-wordsenses stream synset-uri file-name sense hash-words))))
+
 
 (defun add-gloss (stream synset-uri gloss)
   (format stream "~a <https://w3id.org/own-pt/wn30/schema/gloss> ~s .~%" synset-uri gloss))
@@ -42,24 +46,32 @@
 	  ((cl-ppcre:scan "ADV" file)  (add-type stream synset "AdverbSynset"))
 	  ((cl-ppcre:scan "VERB" file) (add-type stream synset "VerbSynset")))))
 
-(defun add-wordsenses (stream synset file-name sense)
+
+(defun add-wordsenses (stream synset file-name sense hash-words)
   (let* ((word (sense-id sense))
 	 (uri-sense (make-uri "wordsense" file-name word)))
     (format stream "~a <https://w3id.org/own-pt/wn30/schema/containsWordSense> ~a .~%" synset uri-sense)
     (add-wordsense-props stream (symbol-name file-name) uri-sense sense)
-    (add-word stream  uri-sense sense)
+    (add-word stream  uri-sense sense hash-words)
     (add-type stream uri-sense "WordSense")))
 
-(defun add-word (stream  uri-sense sense-obj)
+
+(defun add-word (stream  uri-sense sense-obj hash-words)
   (let* ((word (sense-word sense-obj))
 	 (uri-word (format nil "<https://w3id.org/own-pt/wn30-en/instances/word-~a>" word)))
-    (add-type stream uri-word "Word")
-    (format stream "~a  <https://w3id.org/own-pt/wn30/schema/word> ~a .~%" uri-sense uri-word)
-    (add-lexicalform stream uri-word word)))
+    (setf (gethash word hash-words) uri-word)
+    (format stream "~a  <https://w3id.org/own-pt/wn30/schema/word> ~a .~%" uri-sense uri-word)))
+
+
+(defun instance-word (stream word uri-word)
+  (add-type stream uri-word "Word")
+  (add-lexicalform stream uri-word word))
+
 
 (defun add-lexicalform (stream uri-word word)
   (let ((lexicalform  (clean-word word)))
     (format stream "~a <https://w3id.org/own-pt/wn30/schema/lexicalForm> \"~a\" .~%" uri-word lexicalform)))
+
 
 (defun clean-word (word)
   (substitute #\space #\_ word))
@@ -95,6 +107,7 @@
 		  "<https://w3id.org/own-pt/wn30/schema/frame>"
 		  (cdr (assoc  frame *frames* :test #'(lambda (x y) (cl-ppcre:scan y x))))))))
 
+
 (defun add-type (stream synset type)
   (format stream "~a <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/own-pt/wn30/schema/~a> .~%" synset type))
 
@@ -103,7 +116,6 @@
 				      ("hyper" . "<https://w3id.org/own-pt/wn30/schema/hypernymOf>")
 				      ("ihyper" . "<https://w3id.org/own-pt/wn30/schema/instanceOf>")
 				      ("hypo" . "<https://w3id.org/own-pt/wn30/schema/hyponymOf>")
-					; ("ihypo" "Instance Hyponym") i dont find this in any synset
 				      ("hm" . "<https://w3id.org/own-pt/wn30/schema/memberHolonymOf>")
 				      ("hs" . "<https://w3id.org/own-pt/wn30/schema/substanceHolonymOf>")
 				      ("hp" . "<https://w3id.org/own-pt/wn30/schema/partHolonymOf>")
@@ -113,12 +125,8 @@
 				      ("attr" . "<https://w3id.org/own-pt/wn30/schema/attribute>")
 				      ("drf" . "<https://w3id.org/own-pt/wn30/schema/derivationallyRelated>")
 				      ("dt" . "<https://w3id.org/own-pt/wn30/schema/classifiedByTopic>")
-					; ("mt" "Member of this domain - TOPIC") i dont find this in any synset
 				      ("^dr$|^dr:$" . "<https://w3id.org/own-pt/wn30/schema/classifiedByRegion>")
-					;("mr" "Member of this domain - REGION") i dont find this in any synset
-				      ("du" . "<https://w3id.org/own-pt/wn30/schema/classifiedByUsage>")
-					;("mu" "Member of this domain - USAGE") i dont find this in any synset
-				      ))
+				      ("du" . "<https://w3id.org/own-pt/wn30/schema/classifiedByUsage>")))
 			   ("VERB" . (("ant" . "<https://w3id.org/own-pt/wn30/schema/antonymOf>")
 				      ("hyper" . "<https://w3id.org/own-pt/wn30/schema/hypernymOf>")
 				      ("hypo" . "<https://w3id.org/own-pt/wn30/schema/hyponymOf>")
