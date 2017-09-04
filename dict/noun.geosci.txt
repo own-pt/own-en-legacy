@@ -30,11 +30,14 @@ hp: noun.time:Cambrian_Series_3
 ihyper: age
 g: The Guzhangian is an uppermost stage of the 3rd series of the Cambrian.
 
+w: Furongian
+hp: noun.time:Cambrian
+ihyper: epoch1
+g: The Furongian is the fourth and final series of the Cambrian.
 
-{ Furongian, 15128549-n,#p (The Furongian is the fourth and final series of the Cambrian.) }
+
 { Paibian, Furongian,#p (The Paibian is the lowest stage of Furongian series of the Cambrian.) }
 { Jiangshanian, Furongian,#p (The Jiangshanian is the middle stage of the Furongian series.) }
-
 
 ;; minerals and rocks
 
