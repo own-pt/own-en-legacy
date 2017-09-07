@@ -278,9 +278,10 @@
 ;; Derivationally Related	Derivationally Related
 ;; Domain of synset	Member of Doman
 
+
 (defun read-morphosemantic-links (f)
   "Read morphosemantic links (exported as a CSV file) and add the
-appropriate pointers in the data structures."
+   appropriate pointers in the data structures."
   (flet ((find-word (lemma lexid s)
            (position-if  (lambda (x) (and (string-equal lemma (first x)) (= lexid (second x)))) (synset-words s))))
     (fare-csv:with-rfc4180-csv-syntax ()
@@ -300,10 +301,11 @@ appropriate pointers in the data structures."
 
 (defun mk-sense1 (w)
   "Convert the tuple containing wordsense information to a wordsense
-specification.  The second element of the tuple is the lex_id.  If
-lex_id is 0 (the first sense in the lex. file), we simply return the
-word as the wordsense; otherwise we add the lex_id suffix to the word
-and use it as the wordsense.  See SENSEIDEX(5WN)/sense key encoding."
+   specification.  The second element of the tuple is the lex_id.  If
+   lex_id is 0 (the first sense in the lex. file), we simply return
+   the word as the wordsense; otherwise we add the lex_id suffix to
+   the word and use it as the wordsense.  See SENSEIDEX(5WN)/sense key
+   encoding."
   (if *org-mode*
       (if (= 0 (second w))
           (format nil "<<~a>>" (first w))
@@ -314,17 +316,18 @@ and use it as the wordsense.  See SENSEIDEX(5WN)/sense key encoding."
 
 (defun mk-sense (w)
   "Convert the tuple containing wordsense information to a wordsense
-specification.  The second element of the tuple is the lex_id.  If
-lex_id is 0 (the first sense in the lex. file), we simply return the
-word as the wordsense; otherwise we add the lex_id suffix to the word
-and use it as the wordsense.  See SENSEIDEX(5WN)/sense key encoding."
+   specification.  The second element of the tuple is the lex_id.  If
+   lex_id is 0 (the first sense in the lex. file), we simply return
+   the word as the wordsense; otherwise we add the lex_id suffix to
+   the word and use it as the wordsense.  See SENSEIDEX(5WN)/sense key
+   encoding."
   (if (= 0 (second w))
       (format nil "~a" (first w))
       (format nil "~a~a" (first w) (second w))))
 
 (defun lexfile-name (lnum)
   "Returns the name of the lexicographer file associated to number
-LNUM."
+   LNUM."
   (first (cdr (assoc lnum *lex-filenum* :test #'equal))))
 
 (defun synset-tag (sc)
@@ -346,8 +349,8 @@ LNUM."
 
 (defun link-to-synset (s1 s2)
   "Returns a link to synset S2.  If S1 and S2 are in the same
-lexicographer file, we only need the representative word; otherwise we
-need to specify the lex. file of S2."
+   lexicographer file, we only need the representative word; otherwise
+   we need to specify the lex. file of S2."
   (let ((lnum1 (synset-lnum s1))
         (lnum2 (synset-lnum s2))
         (rw (representative-word s2)))
@@ -361,8 +364,8 @@ need to specify the lex. file of S2."
 
 (defun link-to-wordsense (s1 s2 n2)
   "Link from wordsense N1 of synset S1 to wordsense N2 of synset S2.
-If S1 and S2 are in the same lexicographer file, we only need the
-word; otherwise we need to specify the lex. file of S2."
+   If S1 and S2 are in the same lexicographer file, we only need the
+   word; otherwise we need to specify the lex. file of S2."
   (let ((lnum1 (synset-lnum s1))
         (lnum2 (synset-lnum s2))
         (w2 (nth (1- n2) (synset-words s2))))
@@ -375,11 +378,13 @@ word; otherwise we need to specify the lex. file of S2."
             (format nil "~a:~a" (lexfile-name (synset-lnum s2)) (mk-sense w2))))))
 
 (defun redundant? (p)
-  "A pointer is REDUNDANT if its existence can be inferred from other pointers (like hypernym vs hyponym)"
+  "A pointer is REDUNDANT if its existence can be inferred from other
+   pointers (like hypernym vs hyponym)"
   (member p *redundant-pointers* :test #'equal))
 
 (defun semantic-relation? (p)
-  "Indicates if pointer P is a semantic relation between synsets (as opposed to a relation between words)"
+  "Indicates if pointer P is a semantic relation between synsets 
+   (as opposed to a relation between words)"
   (= 0 (fourth p)) (= 0 (fifth p)))
 
 (defun synset-sense-links (s)
@@ -391,17 +396,18 @@ word; otherwise we need to specify the lex. file of S2."
 
 (defun mk-sense-pointer (w pointers frames)
   "Given a wordsense W and a list of sense pointers POINTERS (which
-can be NIL), returns the combined form as follows: (a) if POINTERS is
-NIL, then returns just (w sense); (b) if POINTERS is not NIL, then
-returns (w sense <pointers>) where <pointers> is the pointer
-specification for this word (see MK-POINTER in the flet.)"
+   can be NIL), returns the combined form as follows: (a) if POINTERS
+   is NIL, then returns just (w sense); (b) if POINTERS is not NIL,
+   then returns (w sense <pointers>) where <pointers> is the pointer
+   specification for this word (see MK-POINTER in the flet.)"
   (flet ((mk-frame (frames)
            (if frames
                (format nil "frame ~{~a~^ ~}" (mapcar #'first frames))
                ""))
          (mk-pointer (p)
            (format nil "~a ~a" (second p) (third p))))
-    (format nil "w: ~a" (string-trim '(#\space) (format nil "~a ~{~a~^ ~} ~a" (mk-sense1 w) (mapcar #'mk-pointer pointers) (mk-frame frames))))))
+    (format nil "w: ~a" (string-trim '(#\space) (format nil "~a ~{~a~^ ~} ~a" (mk-sense1 w)
+							(mapcar #'mk-pointer pointers) (mk-frame frames))))))
 
 (defun mk-senses (s)
   (flet ((resolve-frames-senses (fr)
@@ -441,8 +447,8 @@ specification for this word (see MK-POINTER in the flet.)"
 (defun mk-sem-pointers (s)
   (let ((sem-pointers (remove nil (mapcar (lambda (x) (mk-sem-pointer x s)) (synset-pointers s)))))
     (if sem-pointers
-     (format nil "~{~a~^~%~}~%" sem-pointers)
-     "")))
+	(format nil "~{~a~^~%~}~%" sem-pointers)
+	"")))
 
 (defun add-synset (s)
   (flet ((fix-adjective (s)
@@ -460,8 +466,8 @@ specification for this word (see MK-POINTER in the flet.)"
 
 (defun update-words-lex-ids (words wids)
   "Update the LEX_IDs of all words in WORDS, according to the hash
-table WIDS.  The hash table contains the current count for each
-lemma."
+   table WIDS.  The hash table contains the current count for each
+   lemma."
   (let ((new-words))
     (dolist (w words)
       (let ((max-id (gethash (first w) wids)))
@@ -474,14 +480,15 @@ lemma."
 
 (defun fix-lex-ids (lnum)
   "We can't guarantee that the combination of LEMMA+LEX_ID [wndb(5WN)]
-gives us an unique sense ID for all lex. files.  This rule is violated
-in the satellite adjectives, unfortunately.  The easiest solution is
-to remove all lex_ids and replace them with our own.  Since pointers
-use a different indexing scheme (synset offset + word number), this is
-not a problem.  We need to make sure that we have the correct mapping
-to sense keys. This is done by the ADD-SENSEIDX function.  Note that
-this is done per lexfile (LNUM), since we only need to guarantee
-uniqueness per lex file and not globally."
+   gives us an unique sense ID for all lex. files.  This rule is
+   violated in the satellite adjectives, unfortunately.  The easiest
+   solution is to remove all lex_ids and replace them with our own.
+   Since pointers use a different indexing scheme (synset offset +
+   word number), this is not a problem.  We need to make sure that we
+   have the correct mapping to sense keys. This is done by the
+   ADD-SENSEIDX function.  Note that this is done per lexfile (LNUM),
+   since we only need to guarantee uniqueness per lex file and not
+   globally."
   (let ((wids (make-hash-table :test #'equal)))
     (dolist (s (hash-table-values *synsets*))
       (when (eq lnum (synset-lnum s))
@@ -518,10 +525,13 @@ applies to all the senses in the synset."
                 (getf s :ss-type)
                 (position lemma words :key #'first :test #'string-equal)))))
 
+
 (defun order-synsets (synset-ids)
   (flet ((synset-key (id)
-           (format nil "~{~a~}" (mapcar #'string-downcase (mapcar #'first (synset-words (gethash id *synsets*)))))))
+           (format nil "~{~a~}" (mapcar #'string-downcase
+					(mapcar #'first (synset-words (gethash id *synsets*)))))))
    (sort synset-ids #'string< :key #'synset-key)))
+
 
 (defun generate-documentation ()
   (with-open-file (s "namespaces.txt" :if-exists :supersede :direction :output)
@@ -534,6 +544,7 @@ applies to all the senses in the synset."
       (dolist (link (cdr entry))
         (format s "~{~3A ~6A ~A~}~%" link))
       (format s "~%"))))
+
 
 (defun load-en (dict-dir)
   (setf *senses* (make-hash-table :test #'equal))
@@ -551,28 +562,33 @@ applies to all the senses in the synset."
   (with-open-file (s "pwn-3.0.mapping" :direction :output :if-exists :supersede)
     (dolist (sense (hash-table-values *senses*))
       (if (= 0 (third sense))
-          (format s "~a:~a,~a,~a,~a~%" (first sense) (second sense) (fourth sense) (fifth sense) (sixth sense))
-          (format s "~a:~a~a,~a,~a,~a~%" (first sense) (second sense) (third sense) (fourth sense) (fifth sense) (sixth sense)))))
+          (format s "~a:~a,~a,~a,~a~%" (first sense) (second sense) (fourth sense)
+		  (fifth sense) (sixth sense))
+          (format s "~a:~a~a,~a,~a,~a~%" (first sense) (second sense) (third sense)
+		  (fourth sense) (fifth sense) (sixth sense)))))
 
   (read-morphosemantic-links "morphosemantic-links.csv")
 
   (let ((namespaces (make-hash-table :test #'equal)))
     (maphash (lambda (k v)
-               (push k (gethash (lexfile-name (synset-lnum v)) namespaces))) *synsets*)
+               (push k (gethash (lexfile-name (synset-lnum v)) namespaces)))
+	     *synsets*)
 
     (mapc (lambda (k)
             (setf (gethash k namespaces) (order-synsets (gethash k namespaces))))
           (hash-table-keys namespaces))
 
     (maphash (lambda (k v)
-               (with-open-file (out (format nil "~a.~a" k (if *org-mode* "org" "txt")) :direction :output :if-exists :supersede)
+               (with-open-file (out (format nil "~a.~a" k (if *org-mode* "org" "txt"))
+				    :direction :output :if-exists :supersede)
                  (dolist (s v)
-                   (mk-synset out s)))) namespaces))
-
+                   (mk-synset out s))))
+	     namespaces))
   t)
 
 (defun test ()
   (load-en #p"/home/fcbr/repos/wordnet/WordNet-3.0/dict/"))
+
 
 ;; (test)
 
