@@ -1,92 +1,25 @@
-; http://wordnet.princeton.edu/wordnet/man/wninput.5WN.html
-; https://pt.wikipedia.org/wiki/Biotita
-; http://wnpt.brlcloud.com/wn/synset?id=14668743-n
-; http://wnpt.brlcloud.com/galp.html
-; http://www.stratigraphy.org/index.php/ics-stratigraphicguide
-; http://resource.geosciml.org/classifier/ics/ischart/2014
-; http://www.newmont.com/operations-and-projects/mining-education/glossary/default.aspx
-
-;; geochronological eras
-
 w: age
 w: stage
 hyper: geological_time
-hp: noun.time:epoch1
+hp: noun.time:epoch2
 g: A geologic age is a subdivision of geologic time that divides an epoch into smaller parts. 
 
 w: Cambrian_Series_3
-w: Cambrian_Stage_3
 hp: noun.time:Cambrian
-ihyper: epoch1
+ihyper: noun.time:epoch2
 g: The still unnamed third stage of the Cambrian.
 
 w: Drumian  
-hp: noun.time:Cambrian_Series_3
+hp: Cambrian_Series_3
 ihyper: age
 g: The Drumian is a stage of 3rd series of the Cambrian.
 
-w: Guzhangian  
-hp: noun.time:Cambrian_Series_3
-ihyper: age
-g: The Guzhangian is an uppermost stage of the 3rd series of the Cambrian.
-
 w: Furongian
 hp: noun.time:Cambrian
-ihyper: epoch1
+ihyper: noun.time:epoch2
 g: The Furongian is the fourth and final series of the Cambrian.
 
-
-{ Paibian, Furongian,#p (The Paibian is the lowest stage of Furongian series of the Cambrian.) }
-{ Jiangshanian, Furongian,#p (The Jiangshanian is the middle stage of the Furongian series.) }
-
-;; minerals and rocks
-
-{ diamond_drill_hole, DDH, 09304750-n,@ (a drill hole made using a drillhead that uses diamonds as the cutting agent.) }
-
-{ waste_rock, 14696793-n,@ (Rock within, around or above the ore body with insufficient concentrations of metal for economic recovery.) }
-
-{ ultramafic, ultrabasic, 09416076-n,@ (Ultramafic are igneous and meta-igneous rocks with a very low silica content.)}
-
-; looks the same
-14696793-n = 09416076-n
-
-{ tailing, mine_dump, culm_dump, slime, refuse, 14856263-n,@ (Residual sand or rock that remains after ore is crushed and gold has been extracted.) }
-
-{ carbonate, 14662574-n,@ (Carbonate minerals are those minerals containing the carbonate ion.)} 
-14931879-n { add magmatic_rock }
-
-{ granodiorite, 14931879-n,@ (Granodiorite is a phaneritic-textured intrusive igneous rock similar to granite, but containing more plagioclase feldspar than orthoclase feldspar.) }
-
-; geological formation or intrusion?
-; https://en.wikipedia.org/wiki/Sheet_intrusion : intrusion can be dike or sill
-
-{ dike, dyke, 09314964-n,@ (in geological usage, is a sheet of rock that formed in a fracture in a pre-existing rock body.)}
-09435232-n { add 09314964-n,@ remove 09416076-n,@ }
-
-{ facies, 09287968-n,@ (In geology, a facies is a body of rock with specified characteristics.) }
-{ fan, 09287968-n,@ (A fan-shaped deposits of sediment caused by the flow of streams or glacial melt.) }
-{ stromatolite, stromatoliths, stromatolites, 09287968-n,@ (Layered bio-chemical accretionary structures formed in shallow water by the trapping, binding and cementation of sedimentary grains by microbial materials of microorganisms, especially cyanobacteria.) }
-{ stock, 09314964-n,@ (In geology, a stock is a discordant igneous intrusion having a surface exposure of less than 40 sq mi (100 km2), differing from batholiths only in being smaller.) }
-
-; Campbell-Red Lake are both deposit and mine ?
-
-{ Red_Lake, 03768346-n,@i (The Red Lake mine is one of the largest gold mines in Canada and in the world.) }
-{ Campbell, 03768346-n,@i Red_Lake,^ (The Campbell mine is a gold mines in Canada.) }
-
-{ high_grade_zone, HGZ, 08509442-n,@ (A zone of a mine with high concentration of minerals.) }
-
-;; process
-
-{ [microthermometry, thermometry:01116360-n,+] 01116360-n,@ () }
-
-{ mineralization, 13486838-n,@ (In geology, mineralization is the deposition of economically important metals in the formation of ore bodies or "lodes" by various process.) }
-
-{ diamond_drilling, 00942799-n,@ (Diamond drilling is used in the mining industry to probe the contents of known ore deposits and potential sites.) }
-
-;; units
-
-{ g/t, gpt, 13819207-n,@ (a measure of gram per ton.)}
-{ opt, 13819207-n,@ (a measure of ore per ton.)}
-{ megaannum, Ma, 0996969-n,@ (One million years.)}
-{ giga_annum, Ga, 0996969-n,@ (a unit of time equal to one billion years.)}
-13739170-n { add ‰ }
+w: Guzhangian  
+hp: Cambrian_Series_3
+ihyper: age
+g: The Guzhangian is an uppermost stage of the 3rd series of the Cambrian.

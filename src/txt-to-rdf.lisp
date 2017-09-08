@@ -31,7 +31,8 @@
 
 
 (defun add-gloss (stream synset-uri gloss)
-  (format stream "~a <https://w3id.org/own-pt/wn30/schema/gloss> ~s .~%" synset-uri gloss))
+  (if gloss
+      (format stream "~a <https://w3id.org/own-pt/wn30/schema/gloss> ~s .~%" synset-uri gloss)))
 
 
 (defun make-uri (type file-name synset-id)
