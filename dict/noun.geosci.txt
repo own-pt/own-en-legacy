@@ -6,39 +6,6 @@
 ; http://resource.geosciml.org/classifier/ics/ischart/2014
 ; http://www.newmont.com/operations-and-projects/mining-education/glossary/default.aspx
 
-;; geochronological eras
-
-w: age
-w: stage
-hyper: geological_time
-hp: noun.time:epoch1
-g: A geologic age is a subdivision of geologic time that divides an epoch into smaller parts. 
-
-w: Cambrian_Series_3
-w: Cambrian_Stage_3
-hp: noun.time:Cambrian
-ihyper: epoch1
-g: The still unnamed third stage of the Cambrian.
-
-w: Drumian  
-hp: noun.time:Cambrian_Series_3
-ihyper: age
-g: The Drumian is a stage of 3rd series of the Cambrian.
-
-w: Guzhangian  
-hp: noun.time:Cambrian_Series_3
-ihyper: age
-g: The Guzhangian is an uppermost stage of the 3rd series of the Cambrian.
-
-w: Furongian
-hp: noun.time:Cambrian
-ihyper: epoch1
-g: The Furongian is the fourth and final series of the Cambrian.
-
-
-{ Paibian, Furongian,#p (The Paibian is the lowest stage of Furongian series of the Cambrian.) }
-{ Jiangshanian, Furongian,#p (The Jiangshanian is the middle stage of the Furongian series.) }
-
 ;; minerals and rocks
 
 { diamond_drill_hole, DDH, 09304750-n,@ (a drill hole made using a drillhead that uses diamonds as the cutting agent.) }

@@ -1,0 +1,1112 @@
+w: Aalenian
+w: Aalenian_age
+hp: Middle_Jurassic
+ihyper: age
+g: from 171.6 +/-3 million to 175.6 +/-2 million years ago
+
+w: Aeronian
+w: Aeronian_age
+hp: Llandovery
+ihyper: age
+g: from 439 +/-1.8 million to 436 +/-1.9 million years ago
+
+w: age
+w: stage
+hyper: geological_time
+hp: noun.time:epoch2
+g: A geologic age is a subdivision of geologic time that divides an epoch into smaller parts. 
+
+w: Albian
+w: Albian_age
+hp: Lower_Cretaceous
+ihyper: age
+g: from 112 +/-1 million to 99.6 +/-0.9 million years ago
+
+w: Anisian
+w: Anisian_age
+hp: Middle_Triassic
+ihyper: age
+g: from 245.9 million to 237 +/-2 million years ago
+
+w: Aptian
+w: Aptian_age
+hp: Lower_Cretaceous
+ihyper: age
+g: from 125 +/-1 million to 112 +/-1 million years ago
+
+w: Aquitanian
+w: Aquitanian_age
+hp: Miocene
+hp: noun.time:Miocene
+ihyper: age
+g: from 20.43 million to 23.03 million years ago
+
+w: Archean
+w: Archean_eon
+hp: noun.time:Precambrian
+ihyper: noun.time:eon
+g: from 2500.0 million to 4000.0 million years ago
+
+w: Artinskian
+w: Artinskian_age
+hp: Cisuralian
+ihyper: age
+g: from 284.4 +/-0.7 million to 275.6 +/-0.7 million years ago
+
+w: Asselian
+w: Asselian_age
+hp: Cisuralian
+ihyper: age
+g: from 299 +/-0.8 million to 294.6 +/-0.8 million years ago
+
+w: Bajocian
+w: Bajocian_age
+hp: Middle_Jurassic
+ihyper: age
+g: from 167.7 +/-3.5 million to 171.6 +/-3 million years ago
+
+w: Barremian
+w: Barremian_age
+hp: Lower_Cretaceous
+ihyper: age
+g: from 125 +/-1 million to 130 +/-1.5 million years ago
+
+w: Bartonian
+w: Bartonian_age
+hp: noun.time:Eocene
+hp: Eocene
+ihyper: age
+g: from 40.4 +/-0.2 million to 37.2 +/-0.1 million years ago
+
+w: Bashkirian
+w: Bashkirian_age
+hp: Lower_Pennsylvanian
+ihyper: age
+g: from 311.7 +/-1.1 million to 318.1 +/-1.3 million years ago
+
+w: Bathonian
+w: Bathonian_age
+hp: Middle_Jurassic
+ihyper: age
+g: from 164.7 +/-4 million to 167.7 +/-3.5 million years ago
+
+w: Berriasian
+w: Berriasian_age
+hp: Lower_Cretaceous
+ihyper: age
+g: from 145.5 +/-4 million to 140.2 +/-3 million years ago
+
+w: Burdigalian
+w: Burdigalian_age
+hp: noun.time:Miocene
+hp: Miocene
+ihyper: age
+g: from 15.97 million to 20.43 million years ago
+
+w: Calabrian
+w: Calabrian_age
+hp: noun.time:Pleistocene
+hp: Pleistocene
+ihyper: age
+g: from 1.80 million to 0.781 million years ago
+
+w: Callovian
+w: Callovian_age
+hp: Middle_Jurassic
+ihyper: age
+g: from 164.7 +/-4 million to 161.2 +/-4 million years ago
+
+w: Calymmian
+w: Calymmian_period
+hp: Mesoproterozoic
+ihyper: noun.time:period2
+g: from 1600.0 million to 1400.0 million years ago
+
+w: Cambrian
+w: Cambrian_period
+hp: noun.time:Paleozoic
+hp: Paleozoic
+ihyper: noun.time:period2
+g: from 488.3 +/-1.7 million to 542 +/-1 million years ago
+
+w: Cambrian_Series_2
+w: Cambrian_Series_2_epoch
+hp: Cambrian
+hp: noun.time:Cambrian
+ihyper: noun.time:epoch2
+g: from 521.0 million to 510.0 million years ago
+
+w: Cambrian_Series_3
+hp: noun.time:Cambrian
+hp: Cambrian
+ihyper: noun.time:epoch2
+g: The still unnamed third stage of the Cambrian.
+
+w: Cambrian_Stage_1
+w: Cambrian_Stage_1_age
+hp: Furongian
+ihyper: age
+g: from 488.3 +/-1.7 million to 492.0 million years ago
+
+w: Cambrian_Stage_2
+w: Cambrian_Stage_2_age
+hp: Terreneuvian
+ihyper: age
+g: from 521.0 million to 528.0 million years ago
+
+w: Cambrian_Stage_3
+w: Cambrian_Stage_3_age
+hp: Cambrian_Series_2
+ihyper: age
+g: from 515.0 million to 521.0 million years ago
+
+w: Cambrian_Stage_4
+w: Cambrian_Stage_4_age
+hp: Cambrian_Series_2
+ihyper: age
+g: from 510.0 million to 515.0 million years ago
+
+w: Cambrian_Stage_5
+w: Cambrian_Stage_5_age
+ihyper: age
+g: from 510.0 million to 506.5 million years ago
+
+w: Campanian
+w: Campanian_age
+hp: Upper_Cretaceous
+ihyper: age
+g: from 83.5 +/-0.7 million to 70.6 +/-0.6 million years ago
+
+w: Capitanian
+w: Capitanian_age
+hp: Guadalupian
+ihyper: age
+g: from 260.4 +/-0.7 million to 265.8 +/-0.7 million years ago
+
+w: Carboniferous
+w: Carboniferous_period
+hp: Paleozoic
+hp: noun.time:Paleozoic
+ihyper: noun.time:period2
+g: from 359.2 +/-2.5 million to 299 +/-0.8 million years ago
+
+w: Carnian
+w: Carnian_age
+hp: Upper_Triassic
+ihyper: age
+g: from 216.5 +/-2 million to 228.7 million years ago
+
+w: Cenomanian
+w: Cenomanian_age
+hp: Upper_Cretaceous
+ihyper: age
+g: from 93.6 +/-0.8 million to 99.6 +/-0.9 million years ago
+
+w: Cenozoic
+w: Cenozoic_era
+hp: Phanerozoic
+hp: noun.time:Phanerozoic
+ihyper: noun.time:era1
+g: from 65.5 +/-0.3 million to 0.0 million years ago
+
+w: Changhsingian
+w: Changhsingian_age
+hp: Lopingian
+ihyper: age
+g: from 253.8 +/-0.7 million to 251 +/-0.4 million years ago
+
+w: Chattian
+w: Chattian_age
+hp: Oligocene
+hp: noun.time:Oligocene
+ihyper: age
+g: from 28.4 +/-0.1 million to 23.03 million years ago
+
+w: Cisuralian
+w: Cisuralian_epoch
+hp: Permian
+hp: noun.time:Permian
+ihyper: noun.time:epoch2
+g: from 299 +/-0.8 million to 270.6 +/-0.7 million years ago
+
+w: Coniacian
+w: Coniacian_age
+hp: Upper_Cretaceous
+ihyper: age
+g: from 85.8 +/-0.7 million to 88.6 million years ago
+
+w: Cretaceous
+w: Cretaceous_period
+hp: Mesozoic
+hp: noun.time:Mesozoic
+ihyper: noun.time:period2
+g: from 65.5 +/-0.3 million to 145.5 +/-4 million years ago
+
+w: Cryogenian
+w: Cryogenian_period
+hp: Neoproterozoic
+ihyper: noun.time:period2
+g: from 850.0 million to 635.0 million years ago
+
+w: Danian
+w: Danian_age
+hp: Paleocene
+hp: noun.time:Paleocene
+ihyper: age
+g: from 65.5 +/-0.3 million to 61.1 million years ago
+
+w: Dapingian
+w: Dapingian_age
+hp: Middle_Ordovician
+ihyper: age
+g: from 471.8 +/-1.6 million to 468.1 +/-1.6 million years ago
+
+w: Darriwilian
+w: Darriwilian_age
+hp: Middle_Ordovician
+ihyper: age
+g: from 468.1 +/-1.6 million to 460.9 +/-1.6 million years ago
+
+w: Devonian
+w: Devonian_period
+hp: Paleozoic
+hp: noun.time:Paleozoic
+ihyper: noun.time:period2
+g: from 416 +/-2.8 million to 359.2 +/-2.5 million years ago
+
+w: Drumian
+hp: Cambrian_Series_3
+ihyper: age
+g: The Drumian is a stage of 3rd series of the Cambrian.
+
+w: Ectasian
+w: Ectasian_period
+hp: Mesoproterozoic
+ihyper: noun.time:period2
+g: from 1400.0 million to 1200.0 million years ago
+
+w: Ediacaran
+w: Ediacaran_period
+hp: Neoproterozoic
+ihyper: noun.time:period2
+g: from 542.0 million to 635.0 million years ago
+
+w: Eifelian
+w: Eifelian_age
+hp: Middle_Devonian
+ihyper: age
+g: from 397.5 +/-2.7 million to 391.8 +/-2.7 million years ago
+
+w: Emsian
+w: Emsian_age
+hp: Lower_Devonian
+ihyper: age
+g: from 407 +/-2.8 million to 397.5 +/-2.7 million years ago
+
+w: Eoarchean
+w: Eoarchean_era
+hp: Archean
+hp: noun.time:Archean
+ihyper: noun.time:era1
+g: from 4000.0 million to 3600.0 million years ago
+
+w: Eocene
+w: Eocene_epoch
+hp: Paleogene
+ihyper: noun.time:epoch2
+g: from 55.8 +/-0.2 million to 33.9 +/-0.1 million years ago
+
+w: Famennian
+w: Famennian_age
+hp: Upper_Devonian
+ihyper: age
+g: from 374.5 +/-2.6 million to 359.2 +/-2.5 million years ago
+
+w: Floian
+w: Floian_age
+hp: Lower_Ordovician
+ihyper: age
+g: from 471.8 +/-1.6 million to 478.6 +/-1.7 million years ago
+
+w: Fortunian
+w: Fortunian_age
+hp: Terreneuvian
+ihyper: age
+g: from 528.0 million to 542 +/-1 million years ago
+
+w: Frasnian
+w: Frasnian_age
+hp: Upper_Devonian
+ihyper: age
+g: from 385.3 +/-2.6 million to 374.5 +/-2.6 million years ago
+
+w: Furongian
+hp: noun.time:Cambrian
+hp: Cambrian
+ihyper: noun.time:epoch2
+g: The Furongian is the fourth and final series of the Cambrian.
+
+w: Gelasian
+w: Gelasian_age
+hp: Pleistocene
+hp: noun.time:Pleistocene
+ihyper: age
+g: from 2.58 million to 1.80 million years ago
+
+w: Givetian
+w: Givetian_age
+hp: Middle_Devonian
+ihyper: age
+g: from 391.8 +/-2.7 million to 385.3 +/-2.6 million years ago
+
+w: Gorstian
+w: Gorstian_age
+hp: Ludlow
+ihyper: age
+g: from 422.9 +/-2.5 million to 421.3 +/-2.6 million years ago
+
+w: Guadalupian
+w: Guadalupian_epoch
+hp: noun.time:Permian
+hp: Permian
+ihyper: noun.time:epoch2
+g: from 270.6 +/-0.7 million to 260.4 +/-0.7 million years ago
+
+w: Guzhangian
+hp: Cambrian_Series_3
+ihyper: age
+g: The Guzhangian is an uppermost stage of the 3rd series of the Cambrian.
+
+w: Gzhelian
+w: Gzhelian_age
+hp: Upper_Pennsylvanian
+ihyper: age
+g: from 299 +/-0.8 million to 303.4 +/-0.9 million years ago
+
+w: Hadean
+w: Hadean_eon
+hp: noun.time:Precambrian
+ihyper: noun.time:eon
+g: from 4600.0 million to 4000.0 million years ago
+
+w: Hauterivian
+w: Hauterivian_age
+hp: Lower_Cretaceous
+ihyper: age
+g: from 133.9 million to 130 +/-1.5 million years ago
+
+w: Hettangian
+w: Hettangian_age
+hp: Lower_Jurassic
+ihyper: age
+g: from 199.6 +/-0.6 million to 196.5 +/-1 million years ago
+
+w: Hirnantian
+w: Hirnantian_age
+hp: Upper_Ordovician
+ihyper: age
+g: from 443.7 +/-1.5 million to 445.6 +/-1.5 million years ago
+
+w: Holocene
+w: Holocene_epoch
+hp: noun.time:Quaternary
+hp: Quaternary
+ihyper: noun.time:epoch2
+g: from 0.0 million to 0.0117 million years ago
+
+w: Homerian
+w: Homerian_age
+hp: Wenlock
+ihyper: age
+g: from 422.9 +/-2.5 million to 426.2 +/-2.4 million years ago
+
+w: Induan
+w: Induan_age
+hp: Lower_Triassic
+ihyper: age
+g: from 251 +/-0.4 million to 249.5 million years ago
+
+w: Jiangshanian
+w: Jiangshanian_age
+hp: Furongian
+ihyper: age
+g: from 489.5 million to 494.0 million years ago
+
+w: Jurassic
+w: Jurassic_period
+hp: noun.time:Mesozoic
+hp: Mesozoic
+ihyper: noun.time:period2
+g: from 199.6 +/-0.6 million to 145.5 +/-4 million years ago
+
+w: Kasimovian
+w: Kasimovian_age
+hp: Upper_Pennsylvanian
+ihyper: age
+g: from 307.2 +/-1 million to 303.4 +/-0.9 million years ago
+
+w: Katian
+w: Katian_age
+hp: Upper_Ordovician
+ihyper: age
+g: from 455.8 +/-1.6 million to 445.6 +/-1.5 million years ago
+
+w: Kimmeridgian
+w: Kimmeridgian_age
+hp: Upper_Jurassic
+ihyper: age
+g: from 150.8 +/-4 million to 155.6 million years ago
+
+w: Kungurian
+w: Kungurian_age
+hp: Cisuralian
+ihyper: age
+g: from 275.6 +/-0.7 million to 270.6 +/-0.7 million years ago
+
+w: Ladinian
+w: Ladinian_age
+hp: Middle_Triassic
+ihyper: age
+g: from 228.7 million to 237 +/-2 million years ago
+
+w: Langhian
+w: Langhian_age
+hp: Miocene
+hp: noun.time:Miocene
+ihyper: age
+g: from 15.97 million to 13.82 million years ago
+
+w: Llandovery
+w: Llandovery_epoch
+hp: noun.time:Silurian
+hp: Silurian
+ihyper: noun.time:epoch2
+g: from 428.2 +/-2.3 million to 443.7 +/-1.5 million years ago
+
+w: Lochkovian
+w: Lochkovian_age
+hp: Lower_Devonian
+ihyper: age
+g: from 416 +/-2.8 million to 411.2 +/-2.8 million years ago
+
+w: Lopingian
+w: Lopingian_epoch
+hp: noun.time:Permian
+hp: Permian
+ihyper: noun.time:epoch2
+g: from 251 +/-0.4 million to 260.4 +/-0.7 million years ago
+
+w: Lower_Cretaceous
+w: Lower_Cretaceous_epoch
+w: Early_Cretaceous
+hp: Cretaceous
+hp: noun.time:Cretaceous
+ihyper: noun.time:epoch2
+g: from 99.6 +/-0.9 million to 145.5 +/-4 million years ago
+
+w: Lower_Devonian
+w: Lower_Devonian_epoch
+w: Early_Devonian
+hp: Devonian
+hp: noun.time:Devonian
+ihyper: noun.time:epoch2
+g: from 416 +/-2.8 million to 397.5 +/-2.7 million years ago
+
+w: Lower_Jurassic
+w: Lower_Jurassic_epoch
+w: Early_Jurassic
+hp: noun.time:Jurassic
+hp: Jurassic
+ihyper: noun.time:epoch2
+g: from 175.6 +/-2 million to 199.6 +/-0.6 million years ago
+
+w: Lower_Mississippian
+w: Lower_Mississippian_epoch
+w: Early_Mississippian
+hp: noun.time:Mississippian
+ihyper: noun.time:epoch2
+
+w: Lower_Ordovician
+w: Lower_Ordovician_epoch
+w: Early_Ordovician
+hp: Ordovician
+hp: noun.time:Ordovician
+ihyper: noun.time:epoch2
+g: from 488.3 +/-1.7 million to 471.8 +/-1.6 million years ago
+
+w: Lower_Pennsylvanian
+w: Lower_Pennsylvanian_epoch
+w: Early_Pennsylvanian
+hp: noun.time:Pennsylvanian
+ihyper: noun.time:epoch2
+
+w: Lower_Triassic
+w: Lower_Triassic_epoch
+w: Early_Triassic
+hp: noun.time:Triassic
+hp: Triassic
+ihyper: noun.time:epoch2
+g: from 245.9 million to 251 +/-0.4 million years ago
+
+w: Ludfordian
+w: Ludfordian_age
+hp: Ludlow
+ihyper: age
+g: from 418.7 +/-2.7 million to 421.3 +/-2.6 million years ago
+
+w: Ludlow
+w: Ludlow_epoch
+hp: Silurian
+hp: noun.time:Silurian
+ihyper: noun.time:epoch2
+g: from 422.9 +/-2.5 million to 418.7 +/-2.7 million years ago
+
+w: Lutetian
+w: Lutetian_age
+hp: noun.time:Eocene
+hp: Eocene
+ihyper: age
+g: from 40.4 +/-0.2 million to 48.6 +/-0.2 million years ago
+
+w: Maastrichtian
+w: Maastrichtian_age
+hp: Upper_Cretaceous
+ihyper: age
+g: from 70.6 +/-0.6 million to 65.5 +/-0.3 million years ago
+
+w: Mesoarchean
+w: Mesoarchean_era
+hp: noun.time:Archean
+hp: Archean
+ihyper: noun.time:era1
+g: from 2800.0 million to 3200.0 million years ago
+
+w: Mesoproterozoic
+w: Mesoproterozoic_era
+hp: Proterozoic
+hp: noun.time:Proterozoic
+ihyper: noun.time:era1
+g: from 1600.0 million to 1000.0 million years ago
+
+w: Mesozoic
+w: Mesozoic_era
+hp: Phanerozoic
+hp: noun.time:Phanerozoic
+ihyper: noun.time:era1
+g: from 251 +/-0.4 million to 65.5 +/-0.3 million years ago
+
+w: Messinian
+w: Messinian_age
+hp: noun.time:Miocene
+hp: Miocene
+ihyper: age
+g: from 5.332 million to 7.246 million years ago
+
+w: Middle_Devonian
+w: Middle_Devonian_epoch
+hp: noun.time:Devonian
+hp: Devonian
+ihyper: noun.time:epoch2
+g: from 385.3 +/-2.6 million to 397.5 +/-2.7 million years ago
+
+w: Middle_Jurassic
+w: Middle_Jurassic_epoch
+hp: noun.time:Jurassic
+hp: Jurassic
+ihyper: noun.time:epoch2
+g: from 175.6 +/-2 million to 161.2 +/-4 million years ago
+
+w: Middle_Mississippian
+w: Middle_Mississippian_epoch
+hp: noun.time:Mississippian
+ihyper: noun.time:epoch2
+
+w: Middle_Ordovician
+w: Middle_Ordovician_epoch
+hp: noun.time:Ordovician
+hp: Ordovician
+ihyper: noun.time:epoch2
+g: from 471.8 +/-1.6 million to 460.9 +/-1.6 million years ago
+
+w: Middle_Pennsylvanian
+w: Middle_Pennsylvanian_epoch
+hp: noun.time:Pennsylvanian
+ihyper: noun.time:epoch2
+
+w: Middle_Pleistocene
+w: Middle_Pleistocene_age
+hp: Pleistocene
+hp: noun.time:Pleistocene
+ihyper: age
+g: from 0.126 million to 0.781 million years ago
+
+w: Middle_Triassic
+w: Middle_Triassic_epoch
+hp: noun.time:Triassic
+hp: Triassic
+ihyper: noun.time:epoch2
+g: from 228.7 million to 245.9 million years ago
+
+w: Miocene
+w: Miocene_epoch
+hp: Neogene
+ihyper: noun.time:epoch2
+g: from 23.03 million to 5.332 million years ago
+
+w: Moscovian
+w: Moscovian_age
+hp: Middle_Pennsylvanian
+ihyper: age
+g: from 307.2 +/-1 million to 311.7 +/-1.1 million years ago
+
+w: Neoarchean
+w: Neoarchean_era
+hp: noun.time:Archean
+hp: Archean
+ihyper: noun.time:era1
+g: from 2500.0 million to 2800.0 million years ago
+
+w: Neogene
+w: Neogene_period
+hp: Cenozoic
+hp: noun.time:Cenozoic
+ihyper: noun.time:period2
+g: from 2.588 million to 23.03 million years ago
+
+w: Neoproterozoic
+w: Neoproterozoic_era
+hp: noun.time:Proterozoic
+hp: Proterozoic
+ihyper: noun.time:era1
+g: from 542.0 million to 1000.0 million years ago
+
+w: Norian
+w: Norian_age
+hp: Upper_Triassic
+ihyper: age
+g: from 216.5 +/-2 million to 203.6 +/-1.5 million years ago
+
+w: Olenekian
+w: Olenekian_age
+hp: Lower_Triassic
+ihyper: age
+g: from 245.9 million to 249.5 million years ago
+
+w: Oligocene
+w: Oligocene_epoch
+hp: Paleogene
+ihyper: noun.time:epoch2
+g: from 23.03 million to 33.9 +/-0.1 million years ago
+
+w: Ordovician
+w: Ordovician_period
+hp: noun.time:Paleozoic
+hp: Paleozoic
+ihyper: noun.time:period2
+g: from 443.7 +/-1.5 million to 488.3 +/-1.7 million years ago
+
+w: Orosirian
+w: Orosirian_period
+hp: Paleoproterozoic
+ihyper: noun.time:period2
+g: from 2050.0 million to 1800.0 million years ago
+
+w: Oxfordian
+w: Oxfordian_age
+hp: Upper_Jurassic
+ihyper: age
+g: from 161.2 +/-4 million to 155.6 million years ago
+
+w: Paibian
+w: Paibian_age
+hp: Furongian
+ihyper: age
+g: from 499.0 million to 496.0 million years ago
+
+w: Paleoarchean
+w: Paleoarchean_era
+hp: Archean
+hp: noun.time:Archean
+ihyper: noun.time:era1
+g: from 3200.0 million to 3600.0 million years ago
+
+w: Paleocene
+w: Paleocene_epoch
+hp: Paleogene
+ihyper: noun.time:epoch2
+g: from 65.5 +/-0.3 million to 55.8 +/-0.2 million years ago
+
+w: Paleogene
+w: Paleogene_period
+hp: Cenozoic
+hp: noun.time:Cenozoic
+ihyper: noun.time:period2
+g: from 65.5 +/-0.3 million to 23.03 million years ago
+
+w: Paleoproterozoic
+w: Paleoproterozoic_era
+hp: Proterozoic
+hp: noun.time:Proterozoic
+ihyper: noun.time:era1
+g: from 2500.0 million to 1600.0 million years ago
+
+w: Paleozoic
+w: Paleozoic_era
+hp: Phanerozoic
+hp: noun.time:Phanerozoic
+ihyper: noun.time:era1
+g: from 251 +/-0.4 million to 542 +/-1 million years ago
+
+w: Permian
+w: Permian_period
+hp: Paleozoic
+hp: noun.time:Paleozoic
+ihyper: noun.time:period2
+g: from 251 +/-0.4 million to 299 +/-0.8 million years ago
+
+w: Phanerozoic
+w: Phanerozoic_eon
+ihyper: noun.time:eon
+g: from 542 +/-1 million to 0.0 million years ago
+
+w: Piacenzian
+w: Piacenzian_age
+hp: noun.time:Pliocene
+hp: Pliocene
+ihyper: age
+g: from 2.588 million to 3.6 million years ago
+
+w: Pleistocene
+w: Pleistocene_epoch
+hp: noun.time:Quaternary
+hp: Quaternary
+ihyper: noun.time:epoch2
+g: from 0.0117 million to 2.588 million years ago
+
+w: Pliensbachian
+w: Pliensbachian_age
+hp: Lower_Jurassic
+ihyper: age
+g: from 183 +/-1.5 million to 189.6 +/-1.5 million years ago
+
+w: Pliocene
+w: Pliocene_epoch
+hp: Neogene
+ihyper: noun.time:epoch2
+g: from 2.588 million to 5.332 million years ago
+
+w: Pragian
+w: Pragian_age
+hp: Lower_Devonian
+ihyper: age
+g: from 411.2 +/-2.8 million to 407 +/-2.8 million years ago
+
+w: Priabonian
+w: Priabonian_age
+hp: noun.time:Eocene
+hp: Eocene
+ihyper: age
+g: from 37.2 +/-0.1 million to 33.9 +/-0.1 million years ago
+
+w: Pridoli
+w: Pridoli_epoch
+hp: noun.time:Silurian
+hp: Silurian
+ihyper: noun.time:epoch2
+g: from 416 +/-2.8 million to 418.7 +/-2.7 million years ago
+
+w: Proterozoic
+w: Proterozoic_eon
+hp: noun.time:Precambrian
+ihyper: noun.time:eon
+g: from 542.0 million to 2500.0 million years ago
+
+w: Quaternary
+w: Quaternary_period
+hp: Cenozoic
+hp: noun.time:Cenozoic
+ihyper: noun.time:period2
+g: from 0.0 million to 2.588 million years ago
+
+w: Rhaetian
+w: Rhaetian_age
+hp: Upper_Triassic
+ihyper: age
+g: from 199.6 +/-0.6 million to 203.6 +/-1.5 million years ago
+
+w: Rhuddanian
+w: Rhuddanian_age
+hp: Llandovery
+ihyper: age
+g: from 443.7 +/-1.5 million to 439 +/-1.8 million years ago
+
+w: Rhyacian
+w: Rhyacian_period
+hp: Paleoproterozoic
+ihyper: noun.time:period2
+g: from 2050.0 million to 2300.0 million years ago
+
+w: Roadian
+w: Roadian_age
+hp: Guadalupian
+ihyper: age
+g: from 270.6 +/-0.7 million to 268 +/-0.7 million years ago
+
+w: Rupelian
+w: Rupelian_age
+hp: noun.time:Oligocene
+hp: Oligocene
+ihyper: age
+g: from 33.9 +/-0.1 million to 28.4 +/-0.1 million years ago
+
+w: Sakmarian
+w: Sakmarian_age
+hp: Cisuralian
+ihyper: age
+g: from 284.4 +/-0.7 million to 294.6 +/-0.8 million years ago
+
+w: Sandbian
+w: Sandbian_age
+hp: Upper_Ordovician
+ihyper: age
+g: from 455.8 +/-1.6 million to 460.9 +/-1.6 million years ago
+
+w: Santonian
+w: Santonian_age
+hp: Upper_Cretaceous
+ihyper: age
+g: from 85.8 +/-0.7 million to 83.5 +/-0.7 million years ago
+
+w: Selandian
+w: Selandian_age
+hp: noun.time:Paleocene
+hp: Paleocene
+ihyper: age
+g: from 58.7 +/-0.2 million to 61.1 million years ago
+
+w: Serpukhovian
+w: Serpukhovian_age
+hp: Upper_Mississippian
+ihyper: age
+g: from 328.3 +/-1.6 million to 318.1 +/-1.3 million years ago
+
+w: Serravallian
+w: Serravallian_age
+hp: noun.time:Miocene
+hp: Miocene
+ihyper: age
+g: from 13.82 million to 11.608 million years ago
+
+w: Sheinwoodian
+w: Sheinwoodian_age
+hp: Wenlock
+ihyper: age
+g: from 428.2 +/-2.3 million to 426.2 +/-2.4 million years ago
+
+w: Siderian
+w: Siderian_period
+hp: Paleoproterozoic
+ihyper: noun.time:period2
+g: from 2500.0 million to 2300.0 million years ago
+
+w: Silurian
+w: Silurian_period
+hp: Paleozoic
+hp: noun.time:Paleozoic
+ihyper: noun.time:period2
+g: from 443.7 +/-1.5 million to 416 +/-2.8 million years ago
+
+w: Sinemurian
+w: Sinemurian_age
+hp: Lower_Jurassic
+ihyper: age
+g: from 189.6 +/-1.5 million to 196.5 +/-1 million years ago
+
+w: Statherian
+w: Statherian_period
+hp: Paleoproterozoic
+ihyper: noun.time:period2
+g: from 1800.0 million to 1600.0 million years ago
+
+w: Stenian
+w: Stenian_period
+hp: Mesoproterozoic
+ihyper: noun.time:period2
+g: from 1200.0 million to 1000.0 million years ago
+
+w: Telychian
+w: Telychian_age
+hp: Llandovery
+ihyper: age
+g: from 428.2 +/-2.3 million to 436 +/-1.9 million years ago
+
+w: Terreneuvian
+w: Terreneuvian_epoch
+hp: noun.time:Cambrian
+hp: Cambrian
+ihyper: noun.time:epoch2
+g: from 542 +/-1 million to 521.0 million years ago
+
+w: Thanetian
+w: Thanetian_age
+hp: noun.time:Paleocene
+hp: Paleocene
+ihyper: age
+g: from 58.7 +/-0.2 million to 55.8 +/-0.2 million years ago
+
+w: Tithonian
+w: Tithonian_age
+hp: Upper_Jurassic
+ihyper: age
+g: from 145.5 +/-4 million to 150.8 +/-4 million years ago
+
+w: Toarcian
+w: Toarcian_age
+hp: Lower_Jurassic
+ihyper: age
+g: from 183 +/-1.5 million to 175.6 +/-2 million years ago
+
+w: Tonian
+w: Tonian_period
+hp: Neoproterozoic
+ihyper: noun.time:period2
+g: from 1000.0 million to 850.0 million years ago
+
+w: Tortonian
+w: Tortonian_age
+hp: Miocene
+hp: noun.time:Miocene
+ihyper: age
+g: from 11.608 million to 7.246 million years ago
+
+w: Tournaisian
+w: Tournaisian_age
+hp: Lower_Mississippian
+ihyper: age
+g: from 359.2 +/-2.5 million to 345.3 +/-2.1 million years ago
+
+w: Tremadocian
+w: Tremadocian_age
+hp: Lower_Ordovician
+ihyper: age
+g: from 478.6 +/-1.7 million to 488.3 +/-1.7 million years ago
+
+w: Triassic
+w: Triassic_period
+hp: Mesozoic
+hp: noun.time:Mesozoic
+ihyper: noun.time:period2
+g: from 251 +/-0.4 million to 199.6 +/-0.6 million years ago
+
+w: Turonian
+w: Turonian_age
+hp: Upper_Cretaceous
+ihyper: age
+g: from 93.6 +/-0.8 million to 88.6 million years ago
+
+w: Upper_Cretaceous
+w: Upper_Cretaceous_epoch
+w: Late_Cretaceous
+hp: noun.time:Cretaceous
+hp: Cretaceous
+ihyper: noun.time:epoch2
+g: from 99.6 +/-0.9 million to 65.5 +/-0.3 million years ago
+
+w: Upper_Devonian
+w: Upper_Devonian_epoch
+w: Late_Devonian
+hp: Devonian
+hp: noun.time:Devonian
+ihyper: noun.time:epoch2
+g: from 359.2 +/-2.5 million to 385.3 +/-2.6 million years ago
+
+w: Upper_Jurassic
+w: Upper_Jurassic_epoch
+w: Late_Jurassic
+hp: Jurassic
+hp: noun.time:Jurassic
+ihyper: noun.time:epoch2
+g: from 145.5 +/-4 million to 161.2 +/-4 million years ago
+
+w: Upper_Mississippian
+w: Upper_Mississippian_epoch
+w: Late_Mississippian
+hp: noun.time:Mississippian
+ihyper: noun.time:epoch2
+
+w: Upper_Ordovician
+w: Upper_Ordovician_epoch
+w: Late_Ordovician
+hp: noun.time:Ordovician
+hp: Ordovician
+ihyper: noun.time:epoch2
+g: from 443.7 +/-1.5 million to 460.9 +/-1.6 million years ago
+
+w: Upper_Pennsylvanian
+w: Upper_Pennsylvanian_epoch
+w: Late_Pennsylvanian
+hp: noun.time:Pennsylvanian
+ihyper: noun.time:epoch2
+g: from 299 +/-0.8 million to 307.2 +/-1 million years ago
+
+w: Upper_Pleistocene
+w: Upper_Pleistocene_age
+w: Late_Pleistocene
+hp: Pleistocene
+hp: noun.time:Pleistocene
+ihyper: age
+g: from 0.126 million to 0.0117 million years ago
+
+w: Upper_Triassic
+w: Upper_Triassic_epoch
+w: Late_Triassic
+hp: Triassic
+hp: noun.time:Triassic
+ihyper: noun.time:epoch2
+g: from 199.6 +/-0.6 million to 228.7 million years ago
+
+w: Valanginian
+w: Valanginian_age
+hp: Lower_Cretaceous
+ihyper: age
+g: from 140.2 +/-3 million to 133.9 million years ago
+
+w: Visean
+w: Visean_age
+hp: Middle_Mississippian
+ihyper: age
+g: from 328.3 +/-1.6 million to 345.3 +/-2.1 million years ago
+
+w: Wenlock
+w: Wenlock_epoch
+hp: noun.time:Silurian
+hp: Silurian
+ihyper: noun.time:epoch2
+g: from 428.2 +/-2.3 million to 422.9 +/-2.5 million years ago
+
+w: Wordian
+w: Wordian_age
+hp: Guadalupian
+ihyper: age
+g: from 268 +/-0.7 million to 265.8 +/-0.7 million years ago
+
+w: Wuchiapingian
+w: Wuchiapingian_age
+hp: Lopingian
+ihyper: age
+g: from 260.4 +/-0.7 million to 253.8 +/-0.7 million years ago
+
+w: Ypresian
+w: Ypresian_age
+hp: noun.time:Eocene
+hp: Eocene
+ihyper: age
+g: from 48.6 +/-0.2 million to 55.8 +/-0.2 million years ago
+
+w: Zanclean
+w: Zanclean_age
+hp: Pliocene
+hp: noun.time:Pliocene
+ihyper: age
+g: from 5.332 million to 3.6 million years ago
+
