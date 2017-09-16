@@ -1,9 +1,9 @@
 (in-package #:cl-wn-org)
 
 (defclass synset ()
-  ((lex-filenum :initarg :lex-filenum 
+  ((lex-file :initarg :lex-file 
 		:initform nil
-		:accessor synset-lnum)
+		:accessor synset-lex-file)
    
    (slot-pointers :initarg :slot-pointers
 	        :initform nil

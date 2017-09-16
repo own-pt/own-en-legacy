@@ -16,16 +16,23 @@
 
 (defun synset->rdf (stream file-name synset-id synset-obj hash-words)
   (let ((synset-uri (make-uri "synset" file-name synset-id))
-	(senses (synset-senses synset-obj)))
+	(senses (synset-senses synset-obj))
+	(number 1))
     (add-synset-type stream synset-uri file-name)
+    (add-synset-file stream synset-uri synset-obj)
     (add-synset-props stream (symbol-name file-name) synset-uri synset-obj)
     (add-gloss stream synset-uri (synset-gloss synset-obj))
     (loop for sense in senses do
-	  (add-wordsenses stream synset-uri file-name sense hash-words))))
+	  (add-wordsenses stream synset-uri file-name sense hash-words number)
+	  (setf number (+ number 1)))))
+
+(defun add-synset-file (stream synset-uri synset-obj)
+  (format stream "~a <https://w3id.org/own-pt/wn30/schema/lexicographerFile> ~s . ~%" synset-uri (synset-lex-file synset-obj)))
 
 
 (defun add-gloss (stream synset-uri gloss)
-  (format stream "~a <https://w3id.org/own-pt/wn30/schema/gloss> ~s .~%" synset-uri gloss))
+  (if gloss
+      (format stream "~a <https://w3id.org/own-pt/wn30/schema/gloss> ~s .~%" synset-uri gloss)))
 
 
 (defun make-uri (type file-name synset-id)
@@ -46,10 +53,12 @@
 	  ((cl-ppcre:scan "VERB" file) (add-type stream synset "VerbSynset")))))
 
 
-(defun add-wordsenses (stream synset file-name sense hash-words)
+(defun add-wordsenses (stream synset file-name sense hash-words number)
   (let* ((word (sense-id sense))
 	 (uri-sense (make-uri "wordsense" file-name word)))
     (format stream "~a <https://w3id.org/own-pt/wn30/schema/containsWordSense> ~a .~%" synset uri-sense)
+    (format stream "~a <https://w3id.org/own-pt/wn30/schema/ID> ~s . ~%" uri-sense word)
+    (format stream "~a <https://w3id.org/own-pt/wn30/schema/senseNumber> \"~s\" . ~%"uri-sense number )
     (add-wordsense-props stream (symbol-name file-name) uri-sense sense)
     (add-word stream  uri-sense sense hash-words)
     (add-type stream uri-sense "WordSense")))

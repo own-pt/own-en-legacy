@@ -4,32 +4,32 @@
   (let ((wn (make-hash-table :test #'equal)))
     (loop for file in list-files do
 	  (setf (gethash (make-symbol file) wn)
-		(read-file (merge-pathnames dir file))))
+		(read-file (merge-pathnames dir file) file)))
     wn))
 
 
-(defun read-file (org-file)
+(defun read-file (org-file file-name)
   (let ((file (open org-file))
 	(file-synsets (make-hash-table :test #'equal)))
-    (load-synsets file file-synsets)
+    (load-synsets file file-name file-synsets)
     (close file)
     file-synsets))
 
 
-(defun load-synsets (file file-synsets &optional (lines '()))
+(defun load-synsets (file file-name file-synsets &optional (lines '()))
   (let ((line (read-line file nil nil)))
     (cond ((equal line "")
-	   (make-synset lines file-synsets) (load-synsets file file-synsets '()))
+	   (make-synset file-name lines file-synsets) (load-synsets file file-name file-synsets '()))
 	  
 	  (line
-	   (load-synsets file file-synsets (append lines (list line))))
+	   (load-synsets file file-name file-synsets (append lines (list line))))
 
 	  ((not (null lines))
-	   (make-synset lines file-synsets)))))
+	   (make-synset file-name lines file-synsets)))))
 
 
-(defun make-synset (lines file-synsets)
-  (let ((syn (make-instance 'synset)))
+(defun make-synset (file-name lines file-synsets)
+  (let ((syn (make-instance 'synset :lex-file file-name)))
     (add-properties lines syn)
     (setf (gethash (synset-w syn) file-synsets)
 	  syn)
