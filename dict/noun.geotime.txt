@@ -11,6 +11,7 @@ ihyper: age
 g: from 436 +/-1.9 million to 439 +/-1.8 million years ago
 
 w: age
+w: geological_age
 w: stage
 hyper: geological_time
 hp: noun.time:epoch2
