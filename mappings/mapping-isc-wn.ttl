@@ -363,7 +363,7 @@ gts:Eon ex:mapsTo wn30en:synset-noun.time-eon .
 
 gts:Epoch ex:mapsTo wn30en:synset-noun.time-epoch2 .
 
-gts:Era ex:mapsTo wn30en:synset-noun.time-era1 .
+gts:Era ex:mapsTo wn30en:synset-noun.noun.geosci-era .
 
 gts:Period ex:mapsTo wn30en:synset-noun.time-period2 .
 
