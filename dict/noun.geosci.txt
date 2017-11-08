@@ -13,7 +13,8 @@ g: a drill hole made using a drillhead that uses diamonds as the cutting agent.
 
 w: waste_rock
 hyper: noun.substance:rock
-g: Rock within, around or above the ore body with insufficient concentrations of metal for economic recovery.
+g: Rock within, around or above the ore body with insufficient
+ concentrations of metal for economic recovery.
 
 w: ultramafic
 w: ultrabasic
@@ -35,6 +36,16 @@ w: carbonate
 hyper: noun.substance:mineral
 hyper: Carbonate minerals are those minerals containing the carbonate ion.
 
+w: granodiorite
+hyper: noun.substance:igneous_rock
+g: Granodiorite is a phaneritic-textured intrusive igneous rock
+ similar to granite, but containing more plagioclase feldspar than
+ orthoclase feldspar.
+
+w: dike
+w: dyke
+hyper: noun.object:intrusion
+g: in geological usage, is a sheet of rock that formed in a fracture in a pre-existing rock body.
 
 
 { strata ...}
@@ -42,13 +53,8 @@ hyper: Carbonate minerals are those minerals containing the carbonate ion.
 ; looks the same
 14696793-n = 09416076-n
 
-{ granodiorite, 14931879-n,@ (Granodiorite is a phaneritic-textured intrusive igneous rock similar to granite, but containing more plagioclase feldspar than orthoclase feldspar.) }
-
 ; geological formation or intrusion?
 ; https://en.wikipedia.org/wiki/Sheet_intrusion : intrusion can be dike or sill
-
-{ dike, dyke, 09314964-n,@ (in geological usage, is a sheet of rock that formed in a fracture in a pre-existing rock body.)}
-09435232-n { add 09314964-n,@ remove 09416076-n,@ }
 
 { facies, 09287968-n,@ (In geology, a facies is a body of rock with specified characteristics.) }
 { fan, 09287968-n,@ (A fan-shaped deposits of sediment caused by the flow of streams or glacial melt.) }

@@ -6746,7 +6746,7 @@ hp: noun.location:California
 g: a mountain range in eastern California; contains Mount Whitney
 
 w: sill
-hyper: rock
+hyper: intrusion
 dt: noun.cognition:geology
 g: (geology) a flat (usually horizontal) mass of igneous rock between two layers of older sedimentary rock
 
