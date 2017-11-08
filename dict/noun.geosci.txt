@@ -6,21 +6,41 @@
 ; http://resource.geosciml.org/classifier/ics/ischart/2014
 ; http://www.newmont.com/operations-and-projects/mining-education/glossary/default.aspx
 
-;; minerals and rocks
+w: diamond_drill_hole
+w: DDH
+hyper: noun.object:hole
+g: a drill hole made using a drillhead that uses diamonds as the cutting agent.
 
-{ diamond_drill_hole, DDH, 09304750-n,@ (a drill hole made using a drillhead that uses diamonds as the cutting agent.) }
+w: waste_rock
+hyper: noun.substance:rock
+g: Rock within, around or above the ore body with insufficient concentrations of metal for economic recovery.
 
-{ waste_rock, 14696793-n,@ (Rock within, around or above the ore body with insufficient concentrations of metal for economic recovery.) }
+w: ultramafic
+w: ultrabasic
+hyper: noun.substance:rock
+g: Ultramafic are igneous and meta-igneous rocks with a very low silica content.
 
-{ ultramafic, ultrabasic, 09416076-n,@ (Ultramafic are igneous and meta-igneous rocks with a very low silica content.)}
+w: tailing
+w: tails
+w: mine_dump
+w: culm_dump
+w: slime
+w: slickens
+w: leach_residue
+w: refuse,
+hyper: noun.substance:waste
+g: Residual sand or rock that remains after ore is crushed and gold has been extracted.
+
+w: carbonate
+hyper: noun.substance:mineral
+hyper: Carbonate minerals are those minerals containing the carbonate ion.
+
+
+
+{ strata ...}
 
 ; looks the same
 14696793-n = 09416076-n
-
-{ tailing, mine_dump, culm_dump, slime, refuse, 14856263-n,@ (Residual sand or rock that remains after ore is crushed and gold has been extracted.) }
-
-{ carbonate, 14662574-n,@ (Carbonate minerals are those minerals containing the carbonate ion.)} 
-14931879-n { add magmatic_rock }
 
 { granodiorite, 14931879-n,@ (Granodiorite is a phaneritic-textured intrusive igneous rock similar to granite, but containing more plagioclase feldspar than orthoclase feldspar.) }
 

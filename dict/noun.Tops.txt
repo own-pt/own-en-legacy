@@ -116,7 +116,8 @@ g: a point or extent in space
 
 w: matter
 hyper: physical_entity
-g: that which has mass and occupies space; "physicists study both the nature of matter and the forces which govern it"
+g: that which has mass and occupies space
+e: physicists study both the nature of matter and the forces which govern it
 
 w: measure drf verb.cognition:measure drf verb.change:measure drf verb.cognition:measure1
 w: quantity
