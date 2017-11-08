@@ -15326,9 +15326,12 @@ ihyper: town1
 g: a town in central England on the River Avon; birthplace (and burial place) of William Shakespeare
 
 w: stratum drf verb.social:stratify1 drf verb.change:stratify
+w: strata dt noun.communication:plural
 hyper: layer
 dt: noun.Tops:organism
-g: one of several parallel layers of material arranged one on top of another (such as a layer of tissue or cells in an organism or a layer of sedimentary rock)
+g: one of several parallel layers of material arranged one on top of
+ another (such as a layer of tissue or cells in an organism or a layer
+ of sedimentary rock)
 
 w: street_address
 hyper: address

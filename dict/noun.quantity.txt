@@ -4361,6 +4361,7 @@ g: one part in thirty-two equal parts
 
 w: one-thousandth
 w: thousandth
+w: ‰
 hyper: common_fraction
 g: one part in a thousand equal parts
 

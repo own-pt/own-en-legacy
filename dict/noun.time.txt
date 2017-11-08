@@ -4872,7 +4872,10 @@ w: time_period
 w: period_of_time
 w: period4
 hyper: noun.quantity:fundamental_quantity
-g: an amount of time; "a time period of 30 years"; "hastened the period of time of his recovery"; "Picasso's blue period"
+g: an amount of time
+e: a time period of 30 years
+e: hastened the period of time of his recovery
+e: Picasso's blue period
 
 w: time_scale
 hyper: duration

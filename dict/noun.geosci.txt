@@ -1,10 +1,3 @@
-; http://wordnet.princeton.edu/wordnet/man/wninput.5WN.html
-; https://pt.wikipedia.org/wiki/Biotita
-; http://wnpt.brlcloud.com/wn/synset?id=14668743-n
-; http://wnpt.brlcloud.com/galp.html
-; http://www.stratigraphy.org/index.php/ics-stratigraphicguide
-; http://resource.geosciml.org/classifier/ics/ischart/2014
-; http://www.newmont.com/operations-and-projects/mining-education/glossary/default.aspx
 
 w: diamond_drill_hole
 w: DDH
@@ -42,44 +35,81 @@ g: Granodiorite is a phaneritic-textured intrusive igneous rock
  similar to granite, but containing more plagioclase feldspar than
  orthoclase feldspar.
 
+
+; geological formation or intrusion?
+; https://en.wikipedia.org/wiki/Sheet_intrusion : intrusion can be dike or sill
+
 w: dike
 w: dyke
 hyper: noun.object:intrusion
 g: in geological usage, is a sheet of rock that formed in a fracture in a pre-existing rock body.
 
+w: facies
+hyper: noun.object:geological_formation
+g: In geology, a facies is a body of rock with specified characteristics.
 
-{ strata ...}
+w: fan
+hyper: noun.object:geological_formation
+g: A fan-shaped deposits of sediment caused by the flow of streams or glacial melt.
 
-; looks the same
-14696793-n = 09416076-n
+w: stromatolite
+w: stromatoliths
+w: stromatolites
+hyper: noun.object:geological_formation
+g: Layered bio-chemical accretionary structures formed in shallow
+ water by the trapping, binding and cementation of sedimentary grains
+ by microbial materials of microorganisms, especially cyanobacteria.
 
-; geological formation or intrusion?
-; https://en.wikipedia.org/wiki/Sheet_intrusion : intrusion can be dike or sill
+w: stock
+hyper: noun.object:intrusion
+g: In geology, a stock is a discordant igneous intrusion having a
+ surface exposure of less than 40 sq mi (100 km2), differing from
+ batholiths only in being smaller.
 
-{ facies, 09287968-n,@ (In geology, a facies is a body of rock with specified characteristics.) }
-{ fan, 09287968-n,@ (A fan-shaped deposits of sediment caused by the flow of streams or glacial melt.) }
-{ stromatolite, stromatoliths, stromatolites, 09287968-n,@ (Layered bio-chemical accretionary structures formed in shallow water by the trapping, binding and cementation of sedimentary grains by microbial materials of microorganisms, especially cyanobacteria.) }
-{ stock, 09314964-n,@ (In geology, a stock is a discordant igneous intrusion having a surface exposure of less than 40 sq mi (100 km2), differing from batholiths only in being smaller.) }
+w: high_grade_zone
+w: HGZ
+hyper: noun.location:zone2
+g: A zone of a mine with high concentration of minerals.
 
-; Campbell-Red Lake are both deposit and mine ?
 
-{ Red_Lake, 03768346-n,@i (The Red Lake mine is one of the largest gold mines in Canada and in the world.) }
-{ Campbell, 03768346-n,@i Red_Lake,^ (The Campbell mine is a gold mines in Canada.) }
+; Campbell-Red Lake are both deposit and mine 
 
-{ high_grade_zone, HGZ, 08509442-n,@ (A zone of a mine with high concentration of minerals.) }
+w: Red_Lake
+ihyper: noun.artifact:mine
+g: The Red Lake mine is one of the largest gold mines in Canada and in the world.
 
-;; process
+w: Campbell
+ihyper: noun.artifact:mine
+g: The Campbell mine is a gold mines in Canada.
 
-{ [microthermometry, thermometry:01116360-n,+] 01116360-n,@ () }
+w: mineralization
+hyper: noun.process:geological_process
+g: In geology, mineralization is the deposition of economically
+ important metals in the formation of ore bodies or "lodes" by various
+ process.
 
-{ mineralization, 13486838-n,@ (In geology, mineralization is the deposition of economically important metals in the formation of ore bodies or "lodes" by various process.) }
+w: diamond_drilling
+hyper: noun.act:drilling
+g: Diamond drilling is used in the mining industry to probe the
+ contents of known ore deposits and potential sites.
 
-{ diamond_drilling, 00942799-n,@ (Diamond drilling is used in the mining industry to probe the contents of known ore deposits and potential sites.) }
+w: g/t
+w: gpt,
+hyper: noun.relation:ratio
+g: a measure of gram per ton.
 
-;; units
+w: opt
+hyper: noun.relation:ratio
+g: a measure of ore per ton.
 
-{ g/t, gpt, 13819207-n,@ (a measure of gram per ton.)}
-{ opt, 13819207-n,@ (a measure of ore per ton.)}
-{ megaannum, Ma, 0996969-n,@ (One million years.)}
-{ giga_annum, Ga, 0996969-n,@ (a unit of time equal to one billion years.)}
-13739170-n { add ‰ }
+w: megaannum
+w: Ma
+hyper: noun.time:time_period
+pm: noun.time:millennium2
+hp: giga_annum
+g: One million years.
+
+w: giga_annum
+w: Ga
+hyper: noun.time:time_period
+g: a unit of time equal to one billion years.
