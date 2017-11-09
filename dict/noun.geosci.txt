@@ -21,13 +21,13 @@ w: culm_dump
 w: slime
 w: slickens
 w: leach_residue
-w: refuse,
+w: refuse
 hyper: noun.substance:waste
 g: Residual sand or rock that remains after ore is crushed and gold has been extracted.
 
 w: carbonate
-hyper: noun.substance:mineral
-hyper: Carbonate minerals are those minerals containing the carbonate ion.
+hyper: noun.substance:rock
+g: Carbonate minerals are those minerals containing the carbonate ion.
 
 w: granodiorite
 hyper: noun.substance:igneous_rock
@@ -94,7 +94,7 @@ g: Diamond drilling is used in the mining industry to probe the
  contents of known ore deposits and potential sites.
 
 w: g/t
-w: gpt,
+w: gpt
 hyper: noun.relation:ratio
 g: a measure of gram per ton.
 
