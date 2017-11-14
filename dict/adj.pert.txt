@@ -7164,10 +7164,16 @@ g: of or relating to or venerating the Virgin Mary
 
 w: marine1 pe noun.group:Marine_Corps
 dr: noun.location:United_States
-g: of or relating to military personnel who serve both on land and at sea (specifically the U.S. Marine Corps); "marine barracks"
+g: of or relating to military personnel who serve both on land and at sea (specifically the U.S. Marine Corps);
+e: marine barracks
 
 w: marine2 pe noun.object:sea
-g: of or relating to the sea; "marine explorations"
+g: of or relating to the sea
+e: marine explorations
+
+w: terrigenous pe noun.object:land1 ant pelagic
+g: of or relating to the land
+e: Terrigenous sediments are those derived from the erosion of rocks on land.
 
 w: marital pe noun.state:marriage1
 w: matrimonial drf noun.state:matrimony pe noun.state:marriage1
