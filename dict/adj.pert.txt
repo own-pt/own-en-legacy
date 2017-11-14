@@ -7171,8 +7171,8 @@ w: marine2 pe noun.object:sea
 g: of or relating to the sea
 e: marine explorations
 
-w: terrigenous pe noun.object:land1 ant pelagic
-g: of or relating to the land
+w: terrigenous pe noun.object:land1 
+g: made of material eroded from the land
 e: Terrigenous sediments are those derived from the erosion of rocks on land.
 
 w: marital pe noun.state:marriage1
