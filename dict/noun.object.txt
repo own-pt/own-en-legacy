@@ -4022,7 +4022,10 @@ w: solid_ground
 w: terra_firma
 hyper: noun.Tops:object
 hp: Earth
-g: the solid part of the earth's surface; "the plane turned away from the sea and moved back over land"; "the earth shook for several minutes"; "he dropped the logs on the ground"
+g: the solid part of the earth's surface
+e: the plane turned away from the sea and moved back over land
+e: the earth shook for several minutes
+e: he dropped the logs on the ground
 
 w: landfall
 hyper: seashore
@@ -7196,7 +7199,9 @@ w: surface drf adj.pert:surficial drf verb.motion:surface
 w: Earth's_surface
 hyper: noun.location:layer
 hp: lithosphere
-g: the outermost level of the land or sea; "earthquakes originate far below the surface"; "three quarters of the Earth's surface is covered by water"
+g: the outermost level of the land or sea
+e: earthquakes originate far below the surface
+e: three quarters of the Earth's surface is covered by water
 
 w: Suriname_River
 w: Surinam_River
