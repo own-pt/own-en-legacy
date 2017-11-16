@@ -4,12 +4,14 @@ g: (of a restaurant meal) having unlimited choices with a separate price for eac
 w: a_posteriori ant a_priori
 see: inductive
 see: synthetic2
-g: involving reasoning from facts or particulars to general principles or from effects to causes; "a posteriori demonstration"
+g: involving reasoning from facts or particulars to general principles or from effects to causes
+e: a posteriori demonstration
 
 w: a_priori ant a_posteriori
 see: analytic2
 see: deductive
-g: involving deductive reasoning from a general principle to a necessary effect; not supported by fact; "an a priori judgment"
+g: involving deductive reasoning from a general principle to a necessary effect; not supported by fact
+e: an a priori judgment
 
 w: abactinal ant actinal
 g: (of radiate animals) located on the surface or end opposite to that on which the mouth is situated
@@ -17,7 +19,8 @@ g: (of radiate animals) located on the surface or end opposite to that on which 
 w: abaxial ant adaxial
 w: dorsal1
 dt: noun.cognition:biology
-g: facing away from the axis of an organ or organism; "the abaxial surface of a leaf is the underside or side facing away from the stem"
+g: facing away from the axis of an organ or organism
+e: the abaxial surface of a leaf is the underside or side facing away from the stem
 
 w: abducent ant adducent
 w: abducting
@@ -26794,7 +26797,8 @@ sim: adjs.all:puppyish
 sim: adjs.all:tender2
 sim: adjs.all:youngish
 sim: adjs.all:youthful
-g: (used of living things especially persons) in an early period of life or development or growth; "young people"
+g: (used of living things especially persons) in an early period of life or development or growth
+e: young people
 
 w: zonal ant azonal
 g: associated with or divided into zones; "a zonal pattern of cell structure"; "zonal division"

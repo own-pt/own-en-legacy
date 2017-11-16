@@ -590,5 +590,3 @@ applies to all the senses in the synset."
   (load-en #p"/home/fcbr/repos/wordnet/WordNet-3.0/dict/"))
 
 
-;; (test)
-

@@ -15,7 +15,8 @@ g: hate coupled with disgust
 
 w: acquired_taste
 hyper: preference
-g: a preference that is only acquired after considerable experience; "martinis are an acquired taste"
+g: a preference that is only acquired after considerable experience
+e: martinis are an acquired taste
 
 w: addiction
 hyper: craving
@@ -39,11 +40,15 @@ w: warmness drf adjs.all:warm drf adj.all:warm1
 w: warmheartedness1 drf adj.all:warmhearted
 w: philia
 hyper: noun.Tops:feeling
-g: a positive feeling of liking; "he had trouble expressing the affection he felt"; "the child won everyone's heart"; "the warmness of his welcome made us feel right at home"
+g: a positive feeling of liking
+e: he had trouble expressing the affection he felt
+e: the child won everyone's heart
+e: the warmness of his welcome made us feel right at home
 
 w: afterglow
 hyper: pleasantness
-g: the pleasure of remembering some pleasant event; "he basked in the afterglow of his victory"
+g: the pleasure of remembering some pleasant event
+e: he basked in the afterglow of his victory
 
 w: agape
 hyper: love
