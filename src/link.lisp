@@ -1,4 +1,5 @@
-(in-package #:cl-wn-org)
+
+(in-package #:wordnet-dsl)
 
 
 (defparameter dicts '("adj.all.txt"             "adjs.all.txt"          "noun.body.txt"

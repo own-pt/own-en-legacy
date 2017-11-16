@@ -1,4 +1,5 @@
-(in-package #:cl-wn-org)
+
+(in-package #:wordnet-dsl)
 
 (defclass synset ()
   ((lex-file :initarg :lex-file 

@@ -1,4 +1,5 @@
-(in-package #:cl-wn-org)
+
+(in-package #:wordnet-dsl)
 
 (defun read-wn (dir list-files)
   (let ((wn (make-hash-table :test #'equal)))

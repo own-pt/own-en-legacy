@@ -1,7 +1,0 @@
-w: bygone drf noun.time:bygone
-w: bypast
-w: departed
-w: foregone
-w: gone
-sim: adj.all:past
-g: well in the past; former; "bygone days"; "dreams of foregone times"; "sweet memories of gone summers"; "relics of a departed era"

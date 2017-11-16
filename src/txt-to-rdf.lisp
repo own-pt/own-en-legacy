@@ -1,4 +1,5 @@
-(in-package :cl-wn-org)
+
+(in-package :wordnet-dsl)
 
 (defun txt->rdf (wn new-file)
   (with-open-file (stream new-file :direction :output :if-exists :supersede   :if-does-not-exist :create)
