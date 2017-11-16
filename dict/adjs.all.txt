@@ -571,11 +571,11 @@ g: in keeping; "salaries agreeable with current trends"; "plans conformable with
 
 w: according
 sim: adj.all:accordant
-g: (followed by `to') in agreement with or accordant with; "according to instructions"
+g: (followed by 'to') in agreement with or accordant with; "according to instructions"
 
 w: according1
 sim: adj.all:reported
-g: (followed by `to') as reported or stated by; "according to historians"
+g: (followed by 'to') as reported or stated by; "according to historians"
 
 w: accountable drf verb.communication:account1 drf noun.attribute:accountability
 sim: adj.all:responsible
@@ -1334,7 +1334,9 @@ g: being ahead of time or need; "gave advance warning"; "was beforehand with her
 
 w: advanced1
 sim: adj.all:precocious
-g: farther along in physical or mental development; "the child's skeletal age was classified as `advanced'"; "children in the advanced classes in elementary school read far above grade average"
+g: farther along in physical or mental development
+e: the child's skeletal age was classified as 'advanced'
+e: children in the advanced classes in elementary school read far above grade average
 
 w: advanced2
 sim: adj.all:high1
@@ -10379,7 +10381,7 @@ g: fit to be certified as insane (and treated accordingly)
 
 w: certificated
 sim: adj.all:certified
-g: furnished with or authorized by a certificate: "certificated teachers"
+g: furnished with or authorized by a certificate; "certificated teachers"
 
 w: certificatory drf verb.social:certify1
 sim: adj.all:supportive
@@ -13222,11 +13224,14 @@ g: determined by conditions or circumstances that follow; "arms sales contingent
 
 w: continual
 sim: adj.all:continuous1
-g: `continual' (meaning seemingly uninterrupted) is often used interchangeably with `continuous' (meaning without interruption)
+g: 'continual' (meaning seemingly uninterrupted) is often used
+ interchangeably with 'continuous' (meaning without interruption)
 
 w: continuing1
 sim: adj.all:continued
-g: remaining in force or being carried on without letup; "the act provided a continuing annual appropriation"; "the continuing struggle to put food on the table"
+g: remaining in force or being carried on without letup
+e: the act provided a continuing annual appropriation
+e: the continuing struggle to put food on the table
 
 w: contorted
 w: writhed
@@ -29100,7 +29105,9 @@ g: bred of closely related parents
 
 w: intercalary
 sim: adj.all:additive1
-g: having a day or month inserted to make the calendar year correspond to the solar year: "Feb. 29 is an intercalary day"; "a leap year is an intercalary year"
+g: having a day or month inserted to make the calendar year correspond to the solar year
+e: Feb. 29 is an intercalary day
+e: a leap year is an intercalary year
 
 w: interchangeable drf noun.attribute:interchangeableness
 sim: adj.all:symmetrical
@@ -43856,7 +43863,8 @@ g: used of milk and milk products from which the cream has been removed; "yogurt
 
 w: skin-deep
 sim: adj.all:superficial
-g: penetrating no deeper than the skin: "her beauty is only skin-deep"
+g: penetrating no deeper than the skin
+e: her beauty is only skin-deep
 
 w: skintight
 w: skin-tight
