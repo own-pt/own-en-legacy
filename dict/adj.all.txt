@@ -30,7 +30,12 @@ g: especially of muscles; drawing away from the midline of the body or from an a
 w: able drf noun.cognition:ability drf noun.attribute:ability ant unable
 attr: noun.attribute:ability
 attr: noun.cognition:ability
-g: (usually followed by `to') having the necessary means or skill or know-how or authority to do something; "able to swim"; "she was able to program her computer"; "we were at last able to buy a car"; "able to get a grant for the project"
+g: (usually followed by `to') having the necessary means or skill or
+ know-how or authority to do something
+e:able to swim
+e: she was able to program her computer
+e: we were at last able to buy a car
+e: able to get a grant for the project
 
 w: abnormal drf noun.cognition:abnormality ant normal1
 dt: noun.cognition:psychology
