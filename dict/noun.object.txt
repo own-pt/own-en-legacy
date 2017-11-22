@@ -552,7 +552,8 @@ w: raise drf verb.motion:raise1
 w: climb drf verb.motion:climb drf verb.motion:climb2
 w: upgrade
 hyper: slope
-g: an upward slope or grade (as in a road); "the car couldn't make it up the rise"
+g: an upward slope or grade (as in a road)
+e: the car couldn't make it up the rise
 
 w: Asia drf adj.pert:Asiatic drf adj.pert:Asian
 ihyper: continent
@@ -641,7 +642,8 @@ g: exceedingly short-lived meson
 
 w: backwater
 hyper: body_of_water
-g: a body of water that was created by a flood or tide or by being held or forced back by a dam; "the bayous and backwaters are breeding grounds for mosquitos"
+g: a body of water that was created by a flood or tide or by being held or forced back by a dam
+e: the bayous and backwaters are breeding grounds for mosquitos
 
 w: badlands
 hyper: land
@@ -650,7 +652,9 @@ g: deeply eroded barren land
 
 w: Baffin_Bay
 ihyper: sea
-g: a body of water between Greenland and northeastern Canada; connected with the Arctic Ocean to the north and with the Atlantic Ocean (via the Labrador Sea) to the south; icebound in winter
+g: a body of water between Greenland and northeastern Canada;
+ connected with the Arctic Ocean to the north and with the Atlantic
+ Ocean (via the Labrador Sea) to the south; icebound in winter
 
 w: Baikal
 w: Lake_Baikal

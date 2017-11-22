@@ -35,8 +35,8 @@ g: Granodiorite is a phaneritic-textured intrusive igneous rock
  similar to granite, but containing more plagioclase feldspar than
  orthoclase feldspar.
 
-# geological formation or intrusion?
-# https://en.wikipedia.org/wiki/Sheet_intrusion : intrusion can be dike or sill
+; geological formation or intrusion?
+; https://en.wikipedia.org/wiki/Sheet_intrusion : intrusion can be dike or sill
 w: dike
 w: dyke
 hyper: noun.object:intrusion
@@ -70,7 +70,7 @@ hyper: noun.location:zone2
 g: A zone of a mine with high concentration of minerals.
 
 
-# Campbell-Red Lake are both deposit and mine 
+; Campbell-Red Lake are both deposit and mine 
 w: Red_Lake
 ihyper: noun.artifact:mine
 g: The Red Lake mine is one of the largest gold mines in Canada and in the world.
