@@ -43921,7 +43921,7 @@ du: noun.communication:plural
 g: impressive monuments created in the ancient world that were regarded with awe
 
 w: seventy-eight
-w: 78
+w: 78"
 hyper: phonograph_record
 g: a shellac based phonograph record that played at 78 revolutions per minute
 
@@ -53323,7 +53323,7 @@ hyper: loudspeaker
 g: a loudspeaker that reproduces higher audio frequency sounds; "the sound system had both tweeters and woofers"
 
 w: twenty-two
-w: .22
+w: .22"
 hyper: firearm
 g: a .22 caliber firearm (pistol or rifle)
 

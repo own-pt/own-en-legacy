@@ -59,6 +59,11 @@
                                    (";r" "dr" "Domain of synset - REGION")
                                    (";u" "du" "Domain of synset - USAGE")))))
 
+(defparameter *pos* '(("noun" . "n") 
+                      ("verb" . "v") 
+                      ("adj"  . "a") 
+                      ("adjs" . "a")
+                      ("adv"  . "r")))
 
 (defparameter *pointers-ids* (loop for p in *pointers*
 				   append (mapcar #'cadr (cdr p))))
@@ -265,6 +270,19 @@
   (substitute #\> #\] (substitute #\< #\[ string )))
 
 
+;; testing and utilities
+
+(defmacro with-open-files (args &body body)
+  (case (length args)
+    ((0)
+     `(progn ,@body))
+    ((1)
+     `(with-open-file ,(first args) ,@body))
+    (t `(with-open-file ,(first args)
+	  (with-open-files
+	      ,(rest args) ,@body)))))
+
+
 (defun test ()
   (let ((idx (read-wn #P"/Users/arademaker/work/wordnet-dsl/dict/*.txt")))
     (maphash (lambda (k v)
@@ -276,4 +294,43 @@
   (remove-if-not (lambda (ss)
 		   (some (lambda (sense) (equal (cdr sense) lemma))
 			 (synset-senses ss)))
-		 (mapcar #'car (alexandria:hash-table-values idx))))
+		 (remove-duplicates (mapcar #'car (alexandria:hash-table-values idx)))))
+
+
+(defun by-lemma (idx)
+  (let ((dict (make-hash-table :test #'equal)))
+    (dolist (ss (remove-duplicates (mapcar #'car (alexandria:hash-table-values idx))) dict)
+      (dolist (sense (synset-senses ss))
+	(if (gethash (cdr sense) dict nil)
+	    (push (car sense)
+		  (gethash (cdr sense) dict))
+	    (setf (gethash (cdr sense) dict) (list (car sense))))))))
+
+
+;; converting to ukb
+
+(defun ukb-concept-id (sense-id)
+  (destructuring-bind (fn localid)
+      (cl-ppcre:split ":" sense-id)
+    (destructuring-bind (pos lexname)
+	(cl-ppcre:split "\\." fn)
+      (format nil "~a/~a-~a" lexname localid (cdr (assoc pos *pos* :test #'equal))))))
+
+
+(defun synset-to-ukb (ss stream)
+  (let ((default-sense (ukb-concept-id (caar (synset-senses ss)))))
+    (dolist (p (synset-pointers ss))
+      (format stream "u:~a v:~a d:0 w:1 s:own-en t:~a~%"
+	      (if (equal 0 (car p)) default-sense (ukb-concept-id (car p)))
+	      (ukb-concept-id (caddr p))
+	      (cadr p)))))
+
+
+(defun convert-ukb (idx dict-file kb-file)
+  (with-open-files ((sdt dict-file :direction :output :if-exists :supersede)
+		    (skb   kb-file :direction :output :if-exists :supersede))
+    (dolist (v (remove-duplicates (mapcar #'car (alexandria:hash-table-values idx))))
+      (synset-to-ukb v skb))
+    (maphash (lambda (k v)
+	       (format sdt "~a ~{~a:1~^ ~}~%" k (mapcar #'ukb-concept-id v)))
+	     (by-lemma idx))))
