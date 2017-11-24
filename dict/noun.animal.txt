@@ -19012,16 +19012,16 @@ hyper: wading_bird
 hm: Ardeidae
 g: grey or white wading bird with long neck and long legs and (usually) long bill
 
-w: herpes_simplex_1
-w: HS1
-w: HSV-1
+w: herpes_simplex_1"
+w: HS1"
+w: HSV-1"
 w: HSV-I
 hyper: herpes_simplex
 g: a herpes virus that causes oral herpes
 
-w: herpes_simplex_2
-w: HS2
-w: HSV-2
+w: herpes_simplex_2"
+w: HS2"
+w: HSV-2"
 w: HSV-II
 hyper: herpes_simplex
 g: a herpes virus that can cause genital herpes
@@ -19953,8 +19953,8 @@ w: human_papilloma_virus
 hyper: papovavirus
 g: any of a group of papovaviruses associated with genital or oral carcinomas or a group associated with benign genital tumors
 
-w: human_T-cell_leukemia_virus-1
-w: HTLV-1
+w: human_T-cell_leukemia_virus-1"
+w: HTLV-1"
 hyper: retrovirus
 g: retrovirus causing T-cell leukemia
 

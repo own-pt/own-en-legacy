@@ -758,7 +758,7 @@ g: a daily cycle of activity observed in many living organisms
 
 w: Circumcision
 w: Feast_of_the_Circumcision
-w: January_1
+w: January_1"
 hyper: feast_day
 dt: noun.group:Roman_Catholic
 dt: noun.group:Anglican_Church
@@ -1331,7 +1331,7 @@ w: Epiphany
 w: Epiphany_of_Our_Lord
 w: Twelfth_day
 w: Three_Kings'_Day
-w: January_6
+w: January_6"
 hyper: Christian_holy_day
 hp: January
 g: twelve days after Christmas; celebrates the visit of the three wise men to the infant Jesus
@@ -2130,7 +2130,7 @@ hyper: musical_time
 g: in the correct rhythm; "the dancers moved in time with the music"
 
 w: Inauguration_Day
-w: January_201
+w: January_20"1
 hyper: day4
 hp: January
 g: the day designated for inauguration of the United States President
@@ -3138,7 +3138,7 @@ g: the calendar year just begun
 
 w: New_Year's_Day
 w: New_Year's
-w: January_12
+w: January_1"2
 hyper: legal_holiday
 hp: January
 g: the first day of the year
@@ -4025,7 +4025,7 @@ g: rate of revolution of a motor; "the engine was doing 6000 revs"
 w: Robert_E_Lee's_Birthday
 w: Robert_E_Lee_Day
 w: Lee's_Birthday
-w: January_19
+w: January_19"
 hyper: day4
 g: celebrated in southern United States
 
@@ -4128,7 +4128,7 @@ hp: church_year
 g: a day commemorating a saint
 
 w: Saint_Agnes's_Eve
-w: January_20
+w: January_20"
 hyper: Christian_holy_day
 hp: January
 g: a Christian holy day
@@ -4488,7 +4488,7 @@ hyper: year2
 g: the time for the earth to make one revolution around the sun, measured between two vernal equinoxes
 
 w: Solemnity_of_Mary
-w: January_11
+w: January_1"1
 hyper: holy_day_of_obligation
 hp: January
 dt: noun.group:Roman_Catholic

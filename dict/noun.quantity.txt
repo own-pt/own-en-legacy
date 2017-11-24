@@ -517,14 +517,14 @@ g: monetary unit in Bhutan
 
 w: billion1 drf adjs.all:billion
 w: one_million_million1
-w: 10000000000001
+w: 1000000000000"1
 hyper: large_integer
 dr: noun.location:United_Kingdom
 g: the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen
 
 w: billion2 drf adjs.all:billion1
 w: one_thousand_million
-w: 1000000000
+w: 1000000000"
 hyper: large_integer
 dr: noun.location:United_States
 g: the number that is represented as a one followed by 9 zeros
@@ -1715,31 +1715,6 @@ w: pound6
 hyper: Egyptian_monetary_unit
 g: the basic unit of money in Egypt; equal to 100 piasters
 
-w: eight
-w: 8
-w: VIII
-w: eighter
-w: eighter_from_Decatur
-w: octad
-w: ogdoad
-w: octonary
-w: octet
-hyper: digit
-g: the cardinal number that is the sum of seven and one
-
-w: eighteen
-w: 18
-w: XVIII
-hyper: large_integer
-g: the cardinal number that is the sum of seventeen and one
-
-w: eighty
-w: 80
-w: LXXX
-w: fourscore
-hyper: large_integer
-g: the cardinal number that is the product of ten and eight
-
 w: El_Salvadoran_monetary_unit
 hyper: monetary_unit
 g: monetary unit in El Salvador
@@ -1761,12 +1736,6 @@ g: a unit of energy equal to the work done by an electron accelerated through a 
 w: electrostatic_unit
 hyper: unit_of_measurement
 g: any of various units of electricity based on forces of interaction between electric charges
-
-w: eleven
-w: 11
-w: XI
-hyper: large_integer
-g: the cardinal number that is the sum of ten and one
 
 w: em
 w: em_quad
@@ -1943,21 +1912,9 @@ w: field_strength_unit
 hyper: electromagnetic_unit
 g: an electromagnetic unit of magnetic intensity
 
-w: fifteen drf adjs.all:fifteen
-w: 15
-w: XV
-hyper: large_integer
-g: the cardinal number that is the sum of fourteen and one
-
 w: fifth1
 hyper: United_States_liquid_unit
 g: a quantity of liquor equal to one fifth of a United States gallon
-
-w: fifty drf adjs.all:fifty
-w: 50
-w: L
-hyper: large_integer
-g: the cardinal number that is the product of ten and five
 
 w: fifty_percent
 hyper: one-half
@@ -2009,27 +1966,6 @@ g: the first element in a countable series; "the first of the month"
 w: fistmele
 hyper: linear_unit
 g: about seven inches; the breadth of a fist with the thumb stuck out (used especially in archery to give the correct distance of the string from the bow)
-
-w: five
-w: 5
-w: V
-w: cinque
-w: quint
-w: quintet
-w: fivesome
-w: quintuplet
-w: pentad
-w: fin
-w: Phoebe
-w: Little_Phoebe
-hyper: digit
-g: the cardinal number that is the sum of four and one
-
-w: five_hundred
-w: 500
-w: D
-hyper: large_integer
-g: the cardinal number that is the product of one hundred and five
 
 w: fixed-point_number
 hyper: number
@@ -2140,33 +2076,6 @@ w: formatted_capacity
 hyper: capacity1
 dt: noun.cognition:computer_science
 g: (computer science) the usable capacity of a disk drive; the amount of space that is left after the sector headings and boundary definitions and timing information have been added by formatting the disk
-
-w: forty
-w: 40
-w: XL
-hyper: large_integer
-g: the cardinal number that is the product of ten and four
-
-w: four
-w: 4
-w: IV
-w: tetrad
-w: quatern
-w: quaternion
-w: quaternary
-w: quaternity
-w: quartet
-w: quadruplet
-w: foursome
-w: Little_Joe
-hyper: digit
-g: the cardinal number that is the sum of three and one
-
-w: fourteen
-w: 14
-w: XIV
-hyper: large_integer
-g: the cardinal number that is the sum of thirteen and one
 
 w: fraction drf verb.cognition:fraction
 hyper: rational_number
@@ -2395,7 +2304,7 @@ hyper: radioactivity_unit
 g: the SI unit of energy absorbed from ionizing radiation; equal to the absorption of one joule of radiation energy by one kilogram of matter; one gray equals 100 rad
 
 w: great_gross
-w: 1728
+w: 1728"
 hyper: large_integer
 g: a cardinal number equal to one dozen gross
 
@@ -2419,7 +2328,7 @@ hyper: Austrian_monetary_unit
 g: 100 groschen equal 1 schilling in Austria
 
 w: gross
-w: 144
+w: 144"
 hyper: large_integer
 g: twelve dozen
 
@@ -2657,20 +2566,6 @@ w: Hubble_parameter
 hyper: constant
 dt: noun.cognition:cosmology1
 g: (cosmology) the ratio of the speed of recession of a galaxy (due to the expansion of the universe) to its distance from the observer; the Hubble constant is not actually a constant, but is regarded as measuring the expansion rate today
-
-w: hundred
-w: 100
-w: C
-w: century
-w: one_C
-hyper: large_integer
-g: ten 10s
-
-w: hundred_thousand
-w: 100000
-w: lakh
-hyper: large_integer
-g: the cardinal number that is the fifth power of ten
 
 w: hundredweight2
 w: cwt1
@@ -3350,7 +3245,7 @@ g: a quantity that can be processed or transported at one time; "the system brok
 
 w: long_hundred
 w: great_hundred
-w: 120
+w: 120"
 hyper: large_integer
 g: the cardinal number that is the product of ten and twelve
 
@@ -3823,7 +3718,7 @@ hyper: printing_unit
 g: an advertising measure; one agate line appearing in one million copies of a publication
 
 w: million1
-w: 1000000
+w: 1000000"
 w: one_thousand_thousand
 w: meg
 hyper: large_integer
@@ -4108,27 +4003,6 @@ hyper: nothing
 dt: noun.communication:Latin
 g: (Latin) nil; nothing (as used by a sheriff after an unsuccessful effort to serve a writ); "nihil habet"
 
-w: nine
-w: 9
-w: IX
-w: niner
-w: Nina_from_Carolina
-w: ennead
-hyper: digit
-g: the cardinal number that is the sum of eight and one
-
-w: nineteen drf adjs.all:nineteen
-w: 19
-w: XIX
-hyper: large_integer
-g: the cardinal number that is the sum of eighteen and one
-
-w: ninety
-w: 90
-w: XC
-hyper: large_integer
-g: the cardinal number that is the product of ten and nine
-
 w: nip
 w: shot
 hyper: small_indefinite_quantity
@@ -4376,15 +4250,6 @@ w: twelfth_part
 w: duodecimal
 hyper: common_fraction
 g: one part in twelve equal parts
-
-w: one
-w: 1
-w: I
-w: ace
-w: single
-w: unity
-hyper: digit
-g: the smallest whole number or a numeral representing this number; "he has the one but will need a two and three to go with it"; "they had lunch at one"
 
 w: ordinal_number
 w: ordinal drf adj.all:ordinal
@@ -5270,8 +5135,91 @@ hyper: point1
 hp: noun.act:tennis
 g: (tennis) the final point needed to win a set in tennis
 
+w: one
+w: 1"
+w: I
+w: ace
+w: single
+w: unity
+hyper: digit
+g: the smallest whole number or a numeral representing this number
+e: he has the one but will need a two and three to go with it
+e: they had lunch at one
+
+w: two
+w: 2"
+w: II
+w: deuce
+hyper: digit
+g: the cardinal number that is the sum of one and one or a numeral representing this number
+
+w: three
+w: 3"
+w: III
+w: trio
+w: threesome
+w: tierce
+w: leash
+w: troika
+w: triad
+w: trine
+w: trinity
+w: ternary
+w: ternion
+w: triplet
+w: tercet
+w: terzetto
+w: trey
+w: deuce-ace
+hyper: digit
+g: the cardinal number that is the sum of one and one and one
+
+w: four
+w: 4"
+w: IV
+w: tetrad
+w: quatern
+w: quaternion
+w: quaternary
+w: quaternity
+w: quartet
+w: quadruplet
+w: foursome
+w: Little_Joe
+hyper: digit
+g: the cardinal number that is the sum of three and one
+
+w: five
+w: 5"
+w: V
+w: cinque
+w: quint
+w: quintet
+w: fivesome
+w: quintuplet
+w: pentad
+w: fin
+w: Phoebe
+w: Little_Phoebe
+hyper: digit
+g: the cardinal number that is the sum of four and one
+
+w: six
+w: 6"
+w: VI
+w: sixer
+w: sise
+w: Captain_Hicks
+w: half_a_dozen
+w: sextet
+w: sestet
+w: sextuplet
+w: hexad
+hyper: digit
+g: the cardinal number that is the sum of five and one
+
 w: seven drf adjs.all:seven
-w: 7
+w: 7"
 w: VII
 w: sevener
 w: heptad
@@ -5280,23 +5228,110 @@ w: septenary
 hyper: digit
 g: the cardinal number that is the sum of six and one
 
+w: eight
+w: 8"
+w: VIII
+w: eighter
+w: eighter_from_Decatur
+w: octad
+w: ogdoad
+w: octonary
+w: octet
+hyper: digit
+g: the cardinal number that is the sum of seven and one
+
+w: nine
+w: 9"
+w: IX
+w: niner
+w: Nina_from_Carolina
+w: ennead
+hyper: digit
+g: the cardinal number that is the sum of eight and one
+
+w: ten
+w: 10"
+w: X
+w: tenner
+w: decade
+hyper: large_integer
+g: the cardinal number that is the sum of nine and one; the base of the decimal system
+
 w: seventeen drf adjs.all:seventeen
-w: 17
+w: 17"
 w: XVII
 hyper: large_integer
 g: the cardinal number that is the sum of sixteen and one
 
+w: eighteen
+w: 18"
+w: XVIII
+hyper: large_integer
+g: the cardinal number that is the sum of seventeen and one
+
+w: nineteen drf adjs.all:nineteen
+w: 19"
+w: XIX
+hyper: large_integer
+g: the cardinal number that is the sum of eighteen and one
+
+w: seventy drf adjs.all:seventy
+w: 70"
+w: LXX
+hyper: large_integer
+g: the cardinal number that is the product of ten and seven
+
 w: seventy-eight
-w: 78
+w: 78"
 w: LXXVIII
 hyper: large_integer
 g: the cardinal number that is the sum of seventy and eight
 
-w: seventy drf adjs.all:seventy
-w: 70
-w: LXX
+w: eighty
+w: 80"
+w: LXXX
+w: fourscore
 hyper: large_integer
-g: the cardinal number that is the product of ten and seven
+g: the cardinal number that is the product of ten and eight
+
+w: ninety
+w: 90"
+w: XC
+hyper: large_integer
+g: the cardinal number that is the product of ten and nine
+
+w: hundred
+w: 100"
+w: C
+w: century
+w: one_C
+hyper: large_integer
+g: ten 10s
+
+w: five_hundred
+w: 500"
+w: D
+hyper: large_integer
+g: the cardinal number that is the product of one hundred and five
+
+w: thousand
+w: one_thousand
+w: 1000"
+w: M
+w: K
+w: chiliad
+w: G
+w: grand
+w: thou
+w: yard
+hyper: large_integer
+g: the cardinal number that is the product of 10 and 100
+
+w: hundred_thousand
+w: 100000"
+w: lakh
+hyper: large_integer
+g: the cardinal number that is the fifth power of ten
 
 w: sextant
 hyper: angular_unit
@@ -5391,32 +5426,6 @@ g: the basic unit of money in Singapore
 w: singleton
 hyper: one
 g: a single object (as distinguished from a pair)
-
-w: six
-w: 6
-w: VI
-w: sixer
-w: sise
-w: Captain_Hicks
-w: half_a_dozen
-w: sextet
-w: sestet
-w: sextuplet
-w: hexad
-hyper: digit
-g: the cardinal number that is the sum of five and one
-
-w: sixteen
-w: 16
-w: XVI
-hyper: large_integer
-g: the cardinal number that is the sum of fifteen and one
-
-w: sixty
-w: 60
-w: LX
-hyper: large_integer
-g: the cardinal number that is the product of ten and six
 
 w: skeleton
 hyper: minimum
@@ -5807,16 +5816,8 @@ w: temperature_unit
 hyper: unit_of_measurement
 g: a unit of measurement for temperature
 
-w: ten
-w: 10
-w: X
-w: tenner
-w: decade
-hyper: large_integer
-g: the cardinal number that is the sum of nine and one; the base of the decimal system
-
 w: ten_thousand
-w: 10000
+w: 10000"
 w: myriad1
 hyper: large_integer
 g: the cardinal number that is the product of ten and one thousand
@@ -5883,58 +5884,10 @@ w: thimbleful
 hyper: containerful
 g: as much as a thimble will hold
 
-w: thirteen
-w: 13
-w: XIII
-w: baker's_dozen
-w: long_dozen
-hyper: large_integer
-g: the cardinal number that is the sum of twelve and one
-
-w: thirty
-w: 30
-w: XXX
-hyper: large_integer
-g: the cardinal number that is the product of ten and three
-
-w: thousand
-w: one_thousand
-w: 1000
-w: M
-w: K
-w: chiliad
-w: G
-w: grand
-w: thou
-w: yard
-hyper: large_integer
-g: the cardinal number that is the product of 10 and 100
-
 w: three-fourths
 w: three-quarters
 hyper: common_fraction
 g: three of four equal parts; "three-fourths of a pound"
-
-w: three
-w: 3
-w: III
-w: trio
-w: threesome
-w: tierce
-w: leash
-w: troika
-w: triad
-w: trine
-w: trinity
-w: ternary
-w: ternion
-w: triplet
-w: tercet
-w: terzetto
-w: trey
-w: deuce-ace
-hyper: digit
-g: the cardinal number that is the sum of one and one and one
 
 w: time-scale_factor
 hyper: scale_factor
@@ -6036,7 +5989,7 @@ g: the fraction of radiant energy that passes through a substance
 
 w: trillion2
 w: one_million_million
-w: 1000000000000
+w: 1000000000000"
 hyper: large_integer
 dr: noun.location:United_States
 dr: noun.location:France
@@ -6106,84 +6059,133 @@ w: Tuvalu_dollar
 hyper: dollar
 g: the basic unit of money in Tuvalu
 
+w: eleven
+w: 11"
+w: XI
+hyper: large_integer
+g: the cardinal number that is the sum of ten and one
+
 w: twelve
-w: 12
+w: 12"
 w: XII
 w: dozen drf adjs.all:dozen
 hyper: large_integer
 g: the cardinal number that is the sum of eleven and one
 
-w: twenty-eight
-w: 28
-w: XXVIII
+w: thirteen
+w: 13"
+w: XIII
+w: baker's_dozen
+w: long_dozen
 hyper: large_integer
-g: the cardinal number that is the sum of twenty-seven and one
+g: the cardinal number that is the sum of twelve and one
 
-w: twenty-five
-w: 25
-w: XXV
+w: fourteen
+w: 14"
+w: XIV
 hyper: large_integer
-g: the cardinal number that is the sum of twenty-four and one
+g: the cardinal number that is the sum of thirteen and one
+
+w: fifteen drf adjs.all:fifteen
+w: 15"
+w: XV
+hyper: large_integer
+g: the cardinal number that is the sum of fourteen and one
+
+w: sixteen
+w: 16"
+w: XVI
+hyper: large_integer
+g: the cardinal number that is the sum of fifteen and one
+
+w: twenty
+w: 20"
+w: XX
+hyper: large_integer
+g: the cardinal number that is the sum of nineteen and one
+
+w: twenty-one
+w: 21"
+w: XXI
+hyper: large_integer
+g: the cardinal number that is the sum of twenty and one
+
+w: twenty-two
+w: 22"
+w: XXII
+hyper: large_integer
+g: the cardinal number that is the sum of twenty-one and one
+
+w: twenty-three
+w: 23"
+w: XXIII
+hyper: large_integer
+g: the cardinal number that is the sum of twenty-two and one
 
 w: twenty-four
-w: 24
+w: 24"
 w: XXIV
 w: two_dozen
 hyper: large_integer
 g: the cardinal number that is the sum of twenty-three and one
 
-w: twenty-nine
-w: 29
-w: XXIX
+w: twenty-five
+w: 25"
+w: XXV
 hyper: large_integer
-g: the cardinal number that is the sum of twenty-eight and one
-
-w: twenty-one
-w: 21
-w: XXI
-hyper: large_integer
-g: the cardinal number that is the sum of twenty and one
-
-w: twenty-seven
-w: 27
-w: XXVII
-hyper: large_integer
-g: the cardinal number that is the sum of twenty-six and one
+g: the cardinal number that is the sum of twenty-four and one
 
 w: twenty-six
-w: 26
+w: 26"
 w: XXVI
 hyper: large_integer
 g: the cardinal number that is the sum of twenty-five and one
 
-w: twenty-three
-w: 23
-w: XXIII
+w: twenty-seven
+w: 27"
+w: XXVII
 hyper: large_integer
-g: the cardinal number that is the sum of twenty-two and one
+g: the cardinal number that is the sum of twenty-six and one
 
-w: twenty-two
-w: 22
-w: XXII
+w: twenty-eight
+w: 28"
+w: XXVIII
 hyper: large_integer
-g: the cardinal number that is the sum of twenty-one and one
+g: the cardinal number that is the sum of twenty-seven and one
 
-w: twenty
-w: 20
-w: XX
+w: twenty-nine
+w: 29"
+w: XXIX
 hyper: large_integer
-g: the cardinal number that is the sum of nineteen and one
+g: the cardinal number that is the sum of twenty-eight and one
+
+w: thirty
+w: 30"
+w: XXX
+hyper: large_integer
+g: the cardinal number that is the product of ten and three
+
+w: forty
+w: 40"
+w: XL
+hyper: large_integer
+g: the cardinal number that is the product of ten and four
+
+w: fifty drf adjs.all:fifty
+w: 50"
+w: L
+hyper: large_integer
+g: the cardinal number that is the product of ten and five
+
+w: sixty
+w: 60"
+w: LX
+hyper: large_integer
+g: the cardinal number that is the product of ten and six
 
 w: two-thirds
 hyper: common_fraction
 g: two of three equal parts of a divisible whole
-
-w: two
-w: 2
-w: II
-w: deuce
-hyper: digit
-g: the cardinal number that is the sum of one and one or a numeral representing this number
 
 w: tyiyn
 hyper: Kyrgyzstani_monetary_unit
@@ -6468,7 +6470,7 @@ hyper: computer_memory_unit
 g: a unit of information equal to 1024 exbibits or 2^70 bits
 
 w: zero drf verb.change:zero
-w: 0
+w: 0"
 w: nought
 w: cipher drf verb.cognition:cipher
 w: cypher drf verb.cognition:cypher
@@ -6503,4 +6505,3 @@ g: the basic unit of money in Zimbabwe
 w: zloty
 hyper: Polish_monetary_unit
 g: the basic unit of money in Poland
-

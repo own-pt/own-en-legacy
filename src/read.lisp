@@ -1,46 +1,196 @@
 
 (in-package #:wordnet-dsl)
 
-(defun read-wn (dir list-files)
-  (let ((wn (make-hash-table :test #'equal)))
-    (loop for file in list-files do
-	  (setf (gethash (make-symbol file) wn)
-		(read-file (merge-pathnames dir file) file)))
-    wn))
+(defparameter *comment-char* #\;)
+
+(defparameter *pointers* '(("n" . (("!" "ant" "Antonym")
+                                   ("@" "hyper" "Hypernym")
+                                   ("@i" "ihyper" "Instance Hypernym")
+                                   ("~" "hypo" "Hyponym")
+                                   ("~i" "ihypo" "Instance Hyponym")
+                                   ("#m" "hm" "Member holonym")
+                                   ("#s" "hs" "Substance holonym")
+                                   ("#p" "hp" "Part holonym")
+                                   ("%m" "mm" "Member meronym")
+                                   ("%s" "ms" "Substance meronym")
+                                   ("%p" "mp" "Part meronym")
+                                   ("=" "attr" "Attribute")
+                                   ("+" "drf" "Derivationally related form")
+                                   (";c" "dt" "Domain of synset - TOPIC")
+                                   ("-c" "mt" "Member of this domain - TOPIC")
+                                   (";r" "dr" "Domain of synset - REGION")
+                                   ("-r" "mr" "Member of this domain - REGION")
+                                   (";u" "du" "Domain of synset - USAGE")
+                                   ("-u" "mu" "Member of this domain - USAGE")))
+                           ("v" . (("!" "ant" "Antonym")
+                                   ("@" "hyper" "Hypernym")
+                                   ("~" "hypo" "Hyponym")
+                                   ("*" "entail" "entailment")
+                                   (">" "cause" "Cause")
+                                   ("^" "see" "Also see")
+                                   ("$" "vg" "Verb Group")
+                                   ("+" "drf" "Derivationally related form")
+                                   (";c" "dt" "Domain of synset - TOPIC")
+                                   (";r" "dr" "Domain of synset - REGION")
+                                   (";u" "du" "Domain of synset - USAGE")))
+                           ("a" . (("!" "ant" "Antonym")
+                                   ("&" "sim" "Similar to")
+                                   ("<" "pv" "Participle of verb")
+                                   ("\\" "pe" "Pertainym (pertains to noun)")
+                                   ("=" "attr" "Attribute")
+                                   ("^" "see" "Also see")
+                                   ("+" "drf" "Derivationally related form")
+                                   (";c" "dt" "Domain of synset - TOPIC")
+                                   (";r" "dr" "Domain of synset - REGION")
+                                   (";u" "du" "Domain of synset - USAGE")))
+                           ("s" . (("!" "ant" "Antonym")
+                                   ("&" "sim" "Similar to")
+                                   ("<" "pv" "Participle of verb")
+                                   ("\\" "pe" "Pertainym (pertains to noun)")
+                                   ("=" "attr" "Attribute")
+                                   ("^" "see" "Also see")
+                                   ("+" "drf" "Derivationally related form")
+                                   (";c" "dt" "Domain of synset - TOPIC")
+                                   (";r" "dr" "Domain of synset - REGION")
+                                   (";u" "du" "Domain of synset - USAGE")))
+                           ("r" . (("!" "ant" "Antonym")
+                                   ("\\" "da" "Derived from adjective")
+                                   (";c" "dt" "Domain of synset - TOPIC")
+                                   (";r" "dr" "Domain of synset - REGION")
+                                   (";u" "du" "Domain of synset - USAGE")))))
 
 
-(defun read-file (org-file file-name)
-  (let ((file (open org-file))
-	(file-synsets (make-hash-table :test #'equal)))
-    (load-synsets file file-name file-synsets)
-    (close file)
-    file-synsets))
+(defparameter *pointers-ids* (loop for p in *pointers*
+				   append (mapcar #'cadr (cdr p))))
 
 
-(defun load-synsets (file file-name file-synsets &optional (lines '()))
-  (let ((line (read-line file nil nil)))
-    (cond ((equal line "")
-	   (make-synset file-name lines file-synsets) (load-synsets file file-name file-synsets '()))
-	  
-	  (line
-	   (load-synsets file file-name file-synsets (append lines (list line))))
 
-	  ((not (null lines))
-	   (make-synset file-name lines file-synsets)))))
+(defun read-wn (path-with-wildcard)
+  (let ((idx (make-hash-table :test #'equal)))
+    (dolist (fn (directory path-with-wildcard) idx)
+      (dolist (ss (read-synsets fn))
+	(index-synset ss idx)))))
 
 
-(defun make-synset (file-name lines file-synsets)
-  (let ((syn (make-instance 'synset :lex-file file-name)))
-    (add-properties lines syn)
-    (setf (gethash (synset-w syn) file-synsets)
-	  syn)
-    (setf (gethash 'all file-synsets)
-	  (append (gethash 'all file-synsets) (list  (synset-w syn))))))
+(defun index-synset (synset idx)
+  "For each synset. A sense is a cons (sense-id, word) and a pointer
+   is a list (source, link, target) where source can be zero for a
+   semantic pointer or an sense-id for a syntatic pointer."
+  (dolist (pointer (synset-pointers synset))
+    (destructuring-bind (source link target)
+	pointer
+      (if (null (gethash target idx))
+	  (setf (gethash target idx) (cons nil 1))
+	  (incf (cdr (gethash target idx))))))
+  (dolist (sense (synset-senses synset))
+    (cond
+      ((null (gethash (car sense) idx))
+       (setf (gethash (car sense) idx)
+	     (cons synset 0)))
+      ((null (car (gethash (car sense) idx)))
+       (setf (gethash (car sense) idx)
+	     (cons synset (cdr (gethash (car sense) idx)))))
+      (t (error "Invalid duplication ~a" synset)))))
 
 
-(defun add-properties (lines syn)
-  (mapcar #'(lambda (x) (add x syn)) lines)
-  (setf (synset-w syn) (sense-id (car (synset-senses syn)))))
+(defun merge-lines (lines &optional (res nil))
+  (labels ((++ (s1 s2)
+	     (concatenate 'string s1 s2)))
+    (cond
+      ((null lines)
+       (reverse res))
+      ((cl-ppcre:scan (format nil "^~a" *comment-char*) (car lines))
+       (merge-lines (cdr lines) res))
+      ((cl-ppcre:scan "^ " (car lines))
+       (merge-lines (cdr lines) (cons (++ (car res) (car lines)) (cdr res))))
+      (t 
+       (merge-lines (cdr lines) (cons (car lines) res))))))
+
+
+(defun read-synsets (filename)
+  (with-open-file (stream filename)
+    (macrolet ((flush-line ()
+		 `(setq line (read-line stream nil nil)
+			lineno (+ lineno 1))))
+      (prog ((synsets nil) begining line lines (lineno 0))
+       label-1
+       (flush-line)
+       (alexandria:switch (line :test #'equal)
+	 (nil (go label-3))
+	 (""  (go label-1))
+	 (t (setq begining lineno)
+	    (push line lines)
+	    (go label-2)))
+       
+       label-2
+       (flush-line)
+       (alexandria:switch (line :test #'equal)
+	 (nil (go label-3))
+	 (""  (push (make-synset filename begining (reverse lines)) synsets)
+	      (setq lines nil)
+	      (go label-1))
+	 (t (push line lines)
+	    (go label-2)))
+
+       label-3
+       (if lines
+	   (push (make-synset filename begining (reverse lines)) synsets))
+       (return synsets)))))
+
+
+(defun word-key (filename word)
+  (if (position #\: word)
+      word
+      (format nil "~a:~a" filename word)))
+
+(defun word-lemma (word)
+  (cond
+    ((position #\" word)
+     (subseq word 0 (position #\" word)))
+    ((cl-ppcre:scan "[0-9]+$" word)
+     (multiple-value-bind (s e rs re)
+	 (cl-ppcre:scan "[0-9]+$" word)
+       (declare (ignore rs re e))
+       (subseq word 0 s)))
+    (t word)))
+
+(defun make-synset (filename lineno lines)
+  (let* ((fn (pathname-name filename))
+	 (lines1 (mapcar (lambda (l)
+			   (let ((pos (position #\: l)))
+			     (cons (string-trim '(#\Space #\Tab) (subseq l 0 pos))
+				   (string-trim '(#\Space #\Tab) (subseq l (1+ pos) (length l))))))
+			 (merge-lines lines)))
+	 (ss (make-instance 'synset
+			    :file fn
+			    :line lineno
+			    :lines lines1)))
+    (dolist (l (synset-lines ss) ss)
+      (cond
+	((member (car l) *pointers-ids* :test #'equal)
+	 (push (list 0 (car l) (word-key fn (cdr l)))
+	       (synset-pointers ss)))
+	((equal (car l) "w")
+	 (let* ((tks (cl-ppcre:split "[ ]+" (cdr l)))
+		(sense-key (word-key fn (car tks))))
+	   (push (cons sense-key (word-lemma (car tks)))
+		 (synset-senses ss))
+	   (if (> (length tks) 1)
+	       (loop for (link target) on (cdr tks) by #'cddr
+		     until (equal "frame" link)
+		     do (push (list sense-key
+				    link
+				    (word-key fn target))
+			      (synset-pointers ss))))))))))
+
+
+
+(defun add-properties (syn pattern slot)
+  (mapcar (lambda (l)
+	    (if (cl-ppcre:scan pattern l)
+		(push (subseq l 2) (slot-value syn slot))))
+	  (synset-lines syn))
+  syn)
 
 
 (defun add (line syn)
@@ -113,3 +263,17 @@
 
 (defun format-link (string)
   (substitute #\> #\] (substitute #\< #\[ string )))
+
+
+(defun test ()
+  (let ((idx (read-wn #P"/Users/arademaker/work/wordnet-dsl/dict/*.txt")))
+    (maphash (lambda (k v)
+	       (if (null (car v))
+		   (error "invalid entry ~a ~a" k v)))
+	     idx)))
+
+(defun find-senses (lemma idx)
+  (remove-if-not (lambda (ss)
+		   (some (lambda (sense) (equal (cdr sense) lemma))
+			 (synset-senses ss)))
+		 (mapcar #'car (alexandria:hash-table-values idx))))

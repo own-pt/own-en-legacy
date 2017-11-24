@@ -2,28 +2,25 @@
 (in-package #:wordnet-dsl)
 
 (defclass synset ()
-  ((lex-file :initarg :lex-file 
-		:initform nil
-		:accessor synset-lex-file)
+  ((file :initarg :file 
+	 :initform nil
+	 :accessor synset-file)
    
-   (slot-pointers :initarg :slot-pointers
-	        :initform nil
-	        :accessor synset-slot-pointers)
-   
+   (lineno :initarg :line
+	   :initform nil
+	   :accessor synset-line)
+
+   (lines :initarg :lines
+	  :initform nil
+	  :accessor synset-lines)
+
+   (senses  :initarg :senses
+	    :initform nil
+	    :accessor synset-senses)
+
    (pointers    :initarg :pointers 
 	        :initform nil
-	        :accessor synset-pointers)
-   
-   (senses      :initarg :words 
-		:initform nil
-		:accessor synset-senses)
-   
-   (gloss       :initarg :gloss
-		:initform nil
-		:accessor synset-gloss)
-   (w           :initarg :w
-		:initform nil
-		:accessor synset-w)))
+	        :accessor synset-pointers)))
 
 
 (defclass sense ()

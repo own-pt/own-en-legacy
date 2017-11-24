@@ -7855,7 +7855,7 @@ w: buzz_bomb
 w: robot_bomb
 w: flying_bomb
 w: doodlebug1
-w: V-1
+w: V-1"
 hyper: guided_missile
 g: a small jet-propelled winged missile that carries a bomb
 
@@ -21851,7 +21851,7 @@ g: a repair shop where cars and trucks are serviced and repaired
 
 w: Garand_rifle
 w: Garand
-w: M-1
+w: M-1"
 w: M-1_rifle
 hyper: semiautomatic_firearm
 hyper: rifle
@@ -39847,7 +39847,7 @@ w: QWERTY_keyboard
 hyper: typewriter_keyboard
 g: the standard typewriter keyboard; the keys for Q, W, E, R, T, and Y are the first six from the left on the top row of letter keys
 
-w: R-2
+w: R-2"
 w: Mexican_valium
 w: rophy
 w: rope1

@@ -19028,13 +19028,13 @@ sim: adj.all:multilateral
 g: having eight sides
 
 w: eight
-w: 8
+w: 8"
 w: viii
 sim: adj.all:cardinal
 g: being one more than seven
 
 w: eighteen
-w: 18
+w: 18"
 w: xviii
 sim: adj.all:cardinal
 g: being one more than seventeen
@@ -19059,7 +19059,7 @@ sim: adj.all:sized1
 g: used of nail size; 2 1/2 in or 6.4 cm long
 
 w: eighty-eight
-w: 88
+w: 88"
 w: lxxxviii
 sim: adj.all:cardinal
 g: being eight more than eighty
@@ -19070,55 +19070,55 @@ sim: adj.all:ordinal
 g: the ordinal number of eighty-five in counting order
 
 w: eighty-five
-w: 85
+w: 85"
 w: lxxxv
 sim: adj.all:cardinal
 g: being five more than eighty
 
 w: eighty-four
-w: 84
+w: 84"
 w: lxxxiv
 sim: adj.all:cardinal
 g: being four more than eighty
 
 w: eighty-nine
-w: 89
+w: 89"
 w: ixc
 sim: adj.all:cardinal
 g: being nine more than eighty
 
 w: eighty-one
-w: 81
+w: 81"
 w: lxxxi
 sim: adj.all:cardinal
 g: being one more than eighty
 
 w: eighty-seven
-w: 87
+w: 87"
 w: lxxxvii
 sim: adj.all:cardinal
 g: being seven more than eighty
 
 w: eighty-six
-w: 86
+w: 86"
 w: lxxxvi
 sim: adj.all:cardinal
 g: being six more than eighty
 
 w: eighty-three
-w: 83
+w: 83"
 w: lxxxiii
 sim: adj.all:cardinal
 g: being three more than eighty
 
 w: eighty-two
-w: 82
+w: 82"
 w: lxxxii
 sim: adj.all:cardinal
 g: being two more than eighty
 
 w: eighty
-w: 80
+w: 80"
 w: lxxx
 w: fourscore
 sim: adj.all:cardinal
@@ -19242,7 +19242,7 @@ sim: adj.all:multilateral
 g: having eleven sides
 
 w: eleven
-w: 11
+w: 11"
 w: xi
 sim: adj.all:cardinal
 g: being one more than ten
@@ -21728,7 +21728,7 @@ sim: adj.all:hot1
 g: like or suggestive of fire; "a fiery desert wind"; "an igneous desert atmosphere"
 
 w: fifteen drf noun.quantity:fifteen
-w: 15
+w: 15"
 w: xv
 sim: adj.all:cardinal
 g: being one more than fourteen
@@ -21749,7 +21749,7 @@ sim: adj.all:ordinal
 g: the ordinal number of fifty in counting order
 
 w: fifty-eight
-w: 58
+w: 58"
 w: lviii
 sim: adj.all:cardinal
 g: being eight more than fifty
@@ -21760,55 +21760,55 @@ sim: adj.all:ordinal
 g: the ordinal number of fifty-five in counting order
 
 w: fifty-five
-w: 55
+w: 55"
 w: lv
 sim: adj.all:cardinal
 g: being five more than fifty
 
 w: fifty-four
-w: 54
+w: 54"
 w: liv
 sim: adj.all:cardinal
 g: being four more than fifty
 
 w: fifty-nine
-w: 59
+w: 59"
 w: ilx
 sim: adj.all:cardinal
 g: being nine more than fifty
 
 w: fifty-one
-w: 51
+w: 51"
 w: li
 sim: adj.all:cardinal
 g: being one more than fifty
 
 w: fifty-seven
-w: 57
+w: 57"
 w: lvii
 sim: adj.all:cardinal
 g: being seven more than fifty
 
 w: fifty-six
-w: 56
+w: 56"
 w: lvi
 sim: adj.all:cardinal
 g: being six more than fifty
 
 w: fifty-three
-w: 53
+w: 53"
 w: liii
 sim: adj.all:cardinal
 g: being three more than fifty
 
 w: fifty-two
-w: 52
+w: 52"
 w: lii
 sim: adj.all:cardinal
 g: being two more than fifty
 
 w: fifty drf noun.quantity:fifty
-w: 50
+w: 50"
 w: l
 sim: adj.all:cardinal
 g: being ten more than forty
@@ -22159,13 +22159,13 @@ sim: adj.all:young
 g: five years of age
 
 w: five
-w: 5
+w: 5"
 w: v
 sim: adj.all:cardinal
 g: being one more than four
 
 w: five_hundred
-w: 500
+w: 500"
 w: d
 sim: adj.all:cardinal
 g: denoting a quantity consisting of 500 items or units
@@ -22938,7 +22938,7 @@ sim: adj.all:auspicious
 g: presaging good fortune; "she made a fortunate decision to go to medical school"; "rosy predictions"
 
 w: forty-eight
-w: 48
+w: 48"
 w: xlviii
 sim: adj.all:cardinal
 g: being eight more than forty
@@ -22959,13 +22959,13 @@ sim: adj.all:ordinal
 g: the ordinal number of forty-one in counting order
 
 w: forty-five
-w: 45
+w: 45"
 w: xlv
 sim: adj.all:cardinal
 g: being five more than forty
 
 w: forty-four
-w: 44
+w: 44"
 w: xliv
 sim: adj.all:cardinal
 g: being four more than forty
@@ -22976,7 +22976,7 @@ sim: adj.all:ordinal
 g: the ordinal number of forty-four in counting order
 
 w: forty-nine
-w: 49
+w: 49"
 w: il
 sim: adj.all:cardinal
 g: being nine more than forty
@@ -22987,7 +22987,7 @@ sim: adj.all:ordinal
 g: the ordinal number of forty-nine in counting order
 
 w: forty-one
-w: 41
+w: 41"
 w: xli
 sim: adj.all:cardinal
 g: being one more than forty
@@ -22998,7 +22998,7 @@ sim: adj.all:ordinal
 g: the ordinal number of forty-two in counting order
 
 w: forty-seven
-w: 47
+w: 47"
 w: xlvii
 sim: adj.all:cardinal
 g: being seven more than forty
@@ -23009,7 +23009,7 @@ sim: adj.all:ordinal
 g: the ordinal number of forty-seven in counting order
 
 w: forty-six
-w: 46
+w: 46"
 w: xlvi
 sim: adj.all:cardinal
 g: being six more than forty
@@ -23025,19 +23025,19 @@ sim: adj.all:ordinal
 g: the ordinal number of forty-three in counting order
 
 w: forty-three
-w: 43
+w: 43"
 w: xliii
 sim: adj.all:cardinal
 g: being three more than forty
 
 w: forty-two
-w: 42
+w: 42"
 w: xlii
 sim: adj.all:cardinal
 g: being two more than forty
 
 w: forty
-w: 40
+w: 40"
 w: xl
 w: twoscore
 sim: adj.all:cardinal
@@ -23104,13 +23104,13 @@ sim: adj.all:young
 g: four years of age
 
 w: four
-w: 4
+w: 4"
 w: iv
 sim: adj.all:cardinal
 g: being one more than three
 
 w: four_hundred
-w: 400
+w: 400"
 w: cd
 sim: adj.all:cardinal
 g: being one hundred more than three hundred
@@ -23124,7 +23124,7 @@ sim: adj.all:resolute
 g: characterized by firm and unwavering conviction; "a foursquare refusal to yield"
 
 w: fourteen
-w: 14
+w: 14"
 w: xiv
 sim: adj.all:cardinal
 g: being one more than thirteen
@@ -26913,7 +26913,7 @@ g: the ordinal number of one hundred twenty-five in counting order
 
 w: hundred_and_one
 w: one_hundred_one
-w: 101
+w: 101"
 w: ci
 sim: adj.all:cardinal
 g: being one more than one hundred
@@ -26924,7 +26924,7 @@ g: (in Roman numerals, C written with a macron over it) denoting a quantity cons
 
 w: hundred
 w: one_hundred
-w: 100
+w: 100"
 w: c
 sim: adj.all:cardinal
 g: being ten more than ninety
@@ -34299,7 +34299,7 @@ sim: adj.all:multilateral
 g: having nine sides
 
 w: nine
-w: 9
+w: 9"
 w: ix
 sim: adj.all:cardinal
 g: denoting a quantity consisting of one more than eight and one less than ten
@@ -34309,7 +34309,7 @@ sim: adj.all:sized1
 g: used of nail size; 2 3/4 in or 7 cm long
 
 w: nineteen drf noun.quantity:nineteen
-w: 19
+w: 19"
 w: xix
 sim: adj.all:cardinal
 g: being one more than eighteen
@@ -34325,7 +34325,7 @@ sim: adj.all:ordinal
 g: the ordinal number of ninety in counting order
 
 w: ninety-eight
-w: 98
+w: 98"
 w: xcviii
 sim: adj.all:cardinal
 g: being eight more than ninety
@@ -34336,55 +34336,55 @@ sim: adj.all:ordinal
 g: the ordinal number of ninety-five in counting order
 
 w: ninety-five
-w: 95
+w: 95"
 w: xcv
 sim: adj.all:cardinal
 g: being five more than ninety
 
 w: ninety-four
-w: 94
+w: 94"
 w: xciv
 sim: adj.all:cardinal
 g: being four more than ninety
 
 w: ninety-nine
-w: 99
+w: 99"
 w: ic
 sim: adj.all:cardinal
 g: being nine more than ninety
 
 w: ninety-one
-w: 91
+w: 91"
 w: xci
 sim: adj.all:cardinal
 g: being one more than ninety
 
 w: ninety-seven
-w: 97
+w: 97"
 w: xcvii
 sim: adj.all:cardinal
 g: being seven more than ninety
 
 w: ninety-six
-w: 96
+w: 96"
 w: xcvi
 sim: adj.all:cardinal
 g: being six more than ninety
 
 w: ninety-three
-w: 93
+w: 93"
 w: xciii
 sim: adj.all:cardinal
 g: being three more than ninety
 
 w: ninety-two
-w: 92
+w: 92"
 w: xcii
 sim: adj.all:cardinal
 g: being two more than ninety
 
 w: ninety
-w: 90
+w: 90"
 w: xc
 sim: adj.all:cardinal
 g: being ten more than eighty
@@ -35679,110 +35679,110 @@ sim: adj.all:young
 g: one year of age
 
 w: one1
-w: 1
+w: 1"
 w: i
 w: ane
 sim: adj.all:cardinal
 g: used of a single unit or thing; not two or more; "`ane' is Scottish"
 
 w: one_hundred_eighty
-w: 180
+w: 180"
 w: clxxx
 sim: adj.all:cardinal
 g: being ten more than one hundred seventy
 
 w: one_hundred_fifteen
-w: 115
+w: 115"
 w: cxv
 sim: adj.all:cardinal
 g: being five more than one hundred ten
 
 w: one_hundred_fifty-five
-w: 155
+w: 155"
 w: clv
 sim: adj.all:cardinal
 g: being five more than one hundred fifty
 
 w: one_hundred_fifty
-w: 150
+w: 150"
 w: cl
 sim: adj.all:cardinal
 g: being ten more than one hundred forty
 
 w: one_hundred_five
-w: 105
+w: 105"
 w: cv
 sim: adj.all:cardinal
 g: being five more than one hundred
 
 w: one_hundred_forty-five
-w: 145
+w: 145"
 w: cxlv
 sim: adj.all:cardinal
 g: being five more than one hundred forty
 
 w: one_hundred_forty
-w: 140
+w: 140"
 w: cxl
 sim: adj.all:cardinal
 g: being ten more than one hundred thirty
 
 w: one_hundred_ninety
-w: 190
+w: 190"
 w: xcl
 sim: adj.all:cardinal
 g: being ten more than one hundred eighty
 
 w: one_hundred_seventy-five
-w: 175
+w: 175"
 w: clxxv
 sim: adj.all:cardinal
 g: being five more than one hundred seventy
 
 w: one_hundred_seventy
-w: 170
+w: 170"
 w: clxx
 sim: adj.all:cardinal
 g: being ten more than one hundred sixty
 
 w: one_hundred_sixty-five
-w: 165
+w: 165"
 w: clxv
 sim: adj.all:cardinal
 g: being five more than one hundred sixty
 
 w: one_hundred_sixty
-w: 160
+w: 160"
 w: clx
 sim: adj.all:cardinal
 g: being ten more than one hundred fifty
 
 w: one_hundred_ten
-w: 110
+w: 110"
 w: cx
 sim: adj.all:cardinal
 g: being ten more than one hundred
 
 w: one_hundred_thirty-five
-w: 135
+w: 135"
 w: cxxxv
 sim: adj.all:cardinal
 g: being five more than one hundred thirty
 
 w: one_hundred_thirty
-w: 130
+w: 130"
 w: cxxx
 sim: adj.all:cardinal
 g: being ten more than one hundred twenty
 
 w: one_hundred_twenty-five
-w: 125
+w: 125"
 w: cxxv
 sim: adj.all:cardinal
 g: being five more than one hundred twenty
 
 w: one_hundred_twenty
-w: 120
+w: 120"
 w: cxx
 sim: adj.all:cardinal
 g: being ten more than one hundred ten
@@ -42933,13 +42933,13 @@ sim: adj.all:multilateral
 g: having seven sides
 
 w: seven drf noun.quantity:seven
-w: 7
+w: 7"
 w: vii
 sim: adj.all:cardinal
 g: being one more than six
 
 w: seventeen drf noun.quantity:seventeen
-w: 17
+w: 17"
 w: xvii
 sim: adj.all:cardinal
 g: being one more than sixteen
@@ -42960,7 +42960,7 @@ sim: adj.all:ordinal
 g: the ordinal number of seventy in counting order
 
 w: seventy-eight
-w: 78
+w: 78"
 w: lxxviii
 sim: adj.all:cardinal
 g: being eight more than seventy
@@ -42971,55 +42971,55 @@ sim: adj.all:ordinal
 g: the ordinal number of seventy-five in counting order
 
 w: seventy-five
-w: 75
+w: 75"
 w: lxxv
 sim: adj.all:cardinal
 g: being five more than seventy
 
 w: seventy-four
-w: 74
+w: 74"
 w: lxxiv
 sim: adj.all:cardinal
 g: being four more than seventy
 
 w: seventy-nine
-w: 79
+w: 79"
 w: ilxxx
 sim: adj.all:cardinal
 g: being nine more than seventy
 
 w: seventy-one
-w: 71
+w: 71"
 w: lxxi
 sim: adj.all:cardinal
 g: being one more than seventy
 
 w: seventy-seven
-w: 77
+w: 77"
 w: lxxvii
 sim: adj.all:cardinal
 g: being seven more than seventy
 
 w: seventy-six
-w: 76
+w: 76"
 w: lxxvi
 sim: adj.all:cardinal
 g: being six more than seventy
 
 w: seventy-three
-w: 73
+w: 73"
 w: lxxiii
 sim: adj.all:cardinal
 g: being three more than seventy
 
 w: seventy-two
-w: 72
+w: 72"
 w: lxxii
 sim: adj.all:cardinal
 g: being two more than seventy
 
 w: seventy drf noun.quantity:seventy
-w: 70
+w: 70"
 w: lxx
 sim: adj.all:cardinal
 g: being ten more than sixty
@@ -43725,7 +43725,7 @@ sim: adj.all:multilateral
 g: having six sides
 
 w: six
-w: 6
+w: 6"
 w: vi
 w: half_dozen
 w: half-dozen
@@ -43742,7 +43742,7 @@ sim: adj.all:cheap
 g: of trifling worth
 
 w: sixteen
-w: 16
+w: 16"
 w: xvi
 sim: adj.all:cardinal
 g: being one more than fifteen
@@ -43763,7 +43763,7 @@ sim: adj.all:ordinal
 g: the ordinal number of sixty in counting order
 
 w: sixty-eight
-w: 68
+w: 68"
 w: lxviii
 sim: adj.all:cardinal
 g: being eight more than sixty
@@ -43774,13 +43774,13 @@ sim: adj.all:ordinal
 g: the ordinal number of sixty-five in counting order
 
 w: sixty-five
-w: 65
+w: 65"
 w: lxv
 sim: adj.all:cardinal
 g: being five more than sixty
 
 w: sixty-four
-w: 64
+w: 64"
 w: lxiv
 sim: adj.all:cardinal
 g: being four more than sixty
@@ -43791,43 +43791,43 @@ sim: adj.all:ordinal
 g: the ordinal number of sixty-four in counting order
 
 w: sixty-nine
-w: 69
+w: 69"
 w: ilxx
 sim: adj.all:cardinal
 g: being nine more than sixty
 
 w: sixty-one
-w: 61
+w: 61"
 w: lxi
 sim: adj.all:cardinal
 g: being one more than sixty
 
 w: sixty-seven
-w: 67
+w: 67"
 w: lxvii
 sim: adj.all:cardinal
 g: being seven more than sixty
 
 w: sixty-six
-w: 66
+w: 66"
 w: lxvi
 sim: adj.all:cardinal
 g: being six more than sixty
 
 w: sixty-three
-w: 63
+w: 63"
 w: lxiii
 sim: adj.all:cardinal
 g: being three more than sixty
 
 w: sixty-two
-w: 62
+w: 62"
 w: lxii
 sim: adj.all:cardinal
 g: being two more than sixty
 
 w: sixty
-w: 60
+w: 60"
 w: lx
 w: threescore
 sim: adj.all:cardinal
@@ -46902,7 +46902,7 @@ sim: adj.all:multilateral
 g: having ten sides
 
 w: ten
-w: 10
+w: 10"
 w: x
 sim: adj.all:cardinal
 g: being one more than nine
@@ -47218,7 +47218,7 @@ sim: adj.all:absorbent
 g: able to take in large quantities of moisture; "thirsty towels"
 
 w: thirteen
-w: 13
+w: 13"
 w: xiii
 sim: adj.all:cardinal
 g: being one more than twelve
@@ -47234,7 +47234,7 @@ sim: adj.all:ordinal
 g: coming next after the twenty-ninth in position
 
 w: thirty-eight
-w: 38
+w: 38"
 w: xxxviii
 sim: adj.all:cardinal
 g: being eight more than thirty
@@ -47255,13 +47255,13 @@ sim: adj.all:ordinal
 g: coming next after the thirtieth in position
 
 w: thirty-five
-w: 35
+w: 35"
 w: xxxv
 sim: adj.all:cardinal
 g: being five more than thirty
 
 w: thirty-four
-w: 34
+w: 34"
 w: xxxiv
 sim: adj.all:cardinal
 g: being four more than thirty
@@ -47272,7 +47272,7 @@ sim: adj.all:ordinal
 g: the ordinal number of thirty-four in counting order
 
 w: thirty-nine
-w: 39
+w: 39"
 w: ixl
 sim: adj.all:cardinal
 g: being nine more than thirty
@@ -47283,7 +47283,7 @@ sim: adj.all:ordinal
 g: the ordinal number of thirty-nine in counting order
 
 w: thirty-one
-w: 31
+w: 31"
 w: xxxi
 sim: adj.all:cardinal
 g: being one more than thirty
@@ -47294,7 +47294,7 @@ sim: adj.all:ordinal
 g: the ordinal number of thirty-two in counting order
 
 w: thirty-seven
-w: 37
+w: 37"
 w: xxxvii
 sim: adj.all:cardinal
 g: being seven more than thirty
@@ -47305,7 +47305,7 @@ sim: adj.all:ordinal
 g: the ordinal number of thirty-seven in counting order
 
 w: thirty-six
-w: 36
+w: 36"
 w: xxxvi
 sim: adj.all:cardinal
 g: being six more than thirty
@@ -47321,19 +47321,19 @@ sim: adj.all:ordinal
 g: the ordinal number of thirty-three in counting order
 
 w: thirty-three
-w: 33
+w: 33"
 w: xxxiii
 sim: adj.all:cardinal
 g: being three more than thirty
 
 w: thirty-two
-w: 32
+w: 32"
 w: xxxii
 sim: adj.all:cardinal
 g: being two more than thirty
 
 w: thirty
-w: 30
+w: 30"
 w: xxx
 sim: adj.all:cardinal
 g: being ten more than twenty
@@ -47380,7 +47380,7 @@ g: without care or thought for others; "the thoughtless saying of a great prince
 
 w: thousand
 w: one_thousand
-w: 1000
+w: 1000"
 w: m
 w: k
 sim: adj.all:cardinal
@@ -47471,13 +47471,13 @@ sim: adj.all:young
 g: three years of age
 
 w: three
-w: 3
+w: 3"
 w: iii
 sim: adj.all:cardinal
 g: being one more than two
 
 w: three_hundred
-w: 300
+w: 300"
 w: ccc
 sim: adj.all:cardinal
 g: being one hundred more than two hundred
@@ -48382,7 +48382,7 @@ sim: adj.all:multilateral
 g: having twelve sides
 
 w: twelve
-w: 12
+w: 12"
 w: xii
 w: dozen drf noun.quantity:dozen
 sim: adj.all:cardinal
@@ -48394,7 +48394,7 @@ sim: adj.all:ordinal
 g: coming next after the nineteenth in position
 
 w: twenty-eight
-w: 28
+w: 28"
 w: xxviii
 sim: adj.all:cardinal
 g: being eight more than twenty
@@ -48415,13 +48415,13 @@ sim: adj.all:ordinal
 g: coming next after the twentieth in position
 
 w: twenty-five
-w: 25
+w: 25"
 w: xxv
 sim: adj.all:cardinal
 g: being five more than twenty
 
 w: twenty-four
-w: 24
+w: 24"
 w: xxiv
 sim: adj.all:cardinal
 g: being four more than twenty
@@ -48432,7 +48432,7 @@ sim: adj.all:ordinal
 g: coming next after the twenty-third in position
 
 w: twenty-nine
-w: 29
+w: 29"
 w: xxix
 sim: adj.all:cardinal
 g: being nine more than twenty
@@ -48443,7 +48443,7 @@ sim: adj.all:ordinal
 g: coming next after the twenty-eighth in position
 
 w: twenty-one
-w: 21
+w: 21"
 w: xxi
 sim: adj.all:cardinal
 g: being one more than twenty
@@ -48454,7 +48454,7 @@ sim: adj.all:ordinal
 g: coming next after the twenty-first in position
 
 w: twenty-seven
-w: 27
+w: 27"
 w: xxvii
 sim: adj.all:cardinal
 g: being seven more than twenty
@@ -48465,7 +48465,7 @@ sim: adj.all:ordinal
 g: coming next after the twenty-sixth in position
 
 w: twenty-six
-w: 26
+w: 26"
 w: xxvi
 sim: adj.all:cardinal
 g: being six more than twenty
@@ -48481,19 +48481,19 @@ sim: adj.all:ordinal
 g: coming next after the twenty-second in position
 
 w: twenty-three
-w: 23
+w: 23"
 w: xxiii
 sim: adj.all:cardinal
 g: being three more than twenty
 
 w: twenty-two
-w: 22
+w: 22"
 w: xxii
 sim: adj.all:cardinal
 g: being two more than twenty
 
 w: twenty
-w: 20
+w: 20"
 w: xx
 sim: adj.all:cardinal
 g: denoting a quantity consisting of 20 items or units
@@ -48570,13 +48570,13 @@ sim: adj.all:young
 g: two years of age
 
 w: two
-w: 2
+w: 2"
 w: ii
 sim: adj.all:cardinal
 g: being one more than one; "he received two messages"
 
 w: two_hundred
-w: 200
+w: 200"
 w: cc
 sim: adj.all:cardinal
 g: being ten more than one hundred ninety
@@ -53081,7 +53081,7 @@ sim: adj.all:ordinal
 g: indicating an initial point or origin
 
 w: zero2
-w: 0
+w: 0"
 sim: adj.all:cardinal
 g: indicating the absence of any or all units under consideration; "a zero score"
 
@@ -53104,4 +53104,3 @@ g: having short sharp turns or angles
 w: zillion
 sim: adj.all:cardinal
 g: very large indeterminate number; "a zillion people were there"
-

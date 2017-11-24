@@ -3887,13 +3887,13 @@ w: cyclohexanol_phthalate
 hyper: ester
 g: the cyclohexanol ester of phthalic acid
 
-w: cyclooxygenase-1
-w: Cox-1
+w: cyclooxygenase-1"
+w: Cox-1"
 hyper: cyclooxygenase
 g: an enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys; "an unfortunate side effect of NSAIDs is that they block Cox-1"
 
-w: cyclooxygenase-2
-w: Cox-2
+w: cyclooxygenase-2"
+w: Cox-2"
 hyper: cyclooxygenase
 g: an enzyme that makes prostaglandins that cause inflammation and pain and fever; "the beneficial effects of NSAIDs result from their ability to block Cox-2"
 
@@ -9340,12 +9340,12 @@ hyper: mineral
 g: a mineral consisting of magnesium iron silicate; a source of magnesium
 
 w: omega-3_fatty_acid
-w: omega-3
+w: omega-3"
 hyper: polyunsaturated_fatty_acid
 g: a polyunsaturated fatty acid whose carbon chain has its first double valence bond three carbons from the beginning
 
 w: omega-6_fatty_acid
-w: omega-6
+w: omega-6"
 hyper: polyunsaturated_fatty_acid
 g: a polyunsaturated fatty acid whose carbon chain has its first double valence bond six carbons from the beginning
 
