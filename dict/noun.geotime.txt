@@ -113,42 +113,42 @@ hp: Mesoproterozoic
 ihyper: noun.time:period2
 g: from 1400.0 million to 1600.0 million years ago
 
-w: Cambrian_Series_2
+w: Cambrian_Series_2"
 w: Cambrian_Series_2_epoch
 hp: noun.time:Cambrian
 ihyper: noun.time:epoch2
 g: from 521.0 million to 510.0 million years ago
 
-w: Cambrian_Series_3
+w: Cambrian_Series_3"
 hp: noun.time:Cambrian
 ihyper: noun.time:epoch2
 g: The still unnamed third stage of the Cambrian.
 
-w: Cambrian_Stage_1
+w: Cambrian_Stage_1"
 w: Cambrian_Stage_1_age
 hp: Furongian
 ihyper: age
 g: from 492.0 million to 488.3 +/-1.7 million years ago
 
-w: Cambrian_Stage_2
+w: Cambrian_Stage_2"
 w: Cambrian_Stage_2_age
 hp: Terreneuvian
 ihyper: age
 g: from 528.0 million to 521.0 million years ago
 
-w: Cambrian_Stage_3
+w: Cambrian_Stage_3"
 w: Cambrian_Stage_3_age
-hp: Cambrian_Series_2
+hp: Cambrian_Series_2"
 ihyper: age
 g: from 521.0 million to 515.0 million years ago
 
-w: Cambrian_Stage_4
+w: Cambrian_Stage_4"
 w: Cambrian_Stage_4_age
-hp: Cambrian_Series_2
+hp: Cambrian_Series_2"
 ihyper: age
 g: from 510.0 million to 515.0 million years ago
 
-w: Cambrian_Stage_5
+w: Cambrian_Stage_5"
 w: Cambrian_Stage_5_age
 ihyper: age
 g: from 506.5 million to 510.0 million years ago
@@ -226,7 +226,7 @@ ihyper: age
 g: from 468.1 +/-1.6 million to 460.9 +/-1.6 million years ago
 
 w: Drumian
-hp: Cambrian_Series_3
+hp: Cambrian_Series_3"
 ihyper: age
 g: The Drumian is a stage of 3rd series of the Cambrian.
 
@@ -314,7 +314,7 @@ ihyper: noun.time:epoch2
 g: from 260.4 +/-0.7 million to 270.6 +/-0.7 million years ago
 
 w: Guzhangian
-hp: Cambrian_Series_3
+hp: Cambrian_Series_3"
 ihyper: age
 g: The Guzhangian is an uppermost stage of the 3rd series of the Cambrian.
 
