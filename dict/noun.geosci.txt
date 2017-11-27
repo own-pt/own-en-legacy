@@ -95,6 +95,11 @@ w: gpt
 hyper: noun.relation:ratio
 g: a measure of gram per ton.
 
+w: bopd
+w: barrels_of_oil_per_day
+hyper: noun.quantity:liquid_unit
+g: A common unit of measurement for the daily volume of crude oil produced by a well or from a field.
+
 w: opt
 hyper: noun.relation:ratio
 g: a measure of ore per ton.
