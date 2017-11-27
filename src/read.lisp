@@ -314,7 +314,7 @@
       (cl-ppcre:split ":" sense-id)
     (destructuring-bind (pos lexname)
 	(cl-ppcre:split "\\." fn)
-      (format nil "~a/~a-~a" lexname localid (cdr (assoc pos *pos* :test #'equal))))))
+      (format nil "~a/~a-~a" fn localid (cdr (assoc pos *pos* :test #'equal))))))
 
 
 (defun synset-to-ukb (ss stream)
@@ -323,7 +323,11 @@
       (format stream "u:~a v:~a d:0 w:1 s:own-en t:~a~%"
 	      (if (equal 0 (car p)) default-sense (ukb-concept-id (car p)))
 	      (ukb-concept-id (caddr p))
-	      (cadr p)))))
+	      (cadr p)))
+    (dolist (s (cdr (synset-senses ss)))
+      (format stream "u:~a v:~a d:0 w:1 s:own-en t:syn~%"
+	      default-sense
+	      (ukb-concept-id (car s))))))
 
 
 (defun convert-ukb (idx dict-file kb-file)
