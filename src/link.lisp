@@ -90,6 +90,6 @@
   (if (or
 	   (null file-link)
 	   (null syn-link))
-	  (format t "the link ~a  dont exists"
+	  (format t "the link ~a doesn't exist"
 		       link)
       	  (setf (getf (synset-pointers syn) prop) syn-link)))
