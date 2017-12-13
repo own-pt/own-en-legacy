@@ -1,28 +1,2 @@
-#+title: Cl-wn-org
+See make-dist.lisp to generate the RDF version of the files in ../dict/.
 
-* How to use
-
-** Loading
-
-Load the packge
-
-#+BEGIN_EXAMPLE
-CL-USER> (ql:quickload :wordnet-dsl)
-To load "cl-wn-org":
-  Load 1 ASDF system:
-    cl-wn-org
-; Loading "cl-wn-org"
-...
-(:WORDNET-DSL)
-
-#+END_EXAMPLE
-
-
-** Using
-
-#+BEGIN_EXAMPLE
-CL-USER> (defparameter wn (cl-wn-org:read-wn "/Users/hmuniz/quicklisp/local-projects/cl-wn-org/test/" '(noun.txt adjs.all.txt)))
-WN
-CL-USER> (cl-wn-org:txt->rdf wn "/Users/hmuniz/quicklisp/local-projects/cl-wn-org/test/final.nt")
-NIL
-#+END_EXAMPLE
