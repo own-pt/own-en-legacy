@@ -1,369 +1,365 @@
-@prefix ex: <http://www.ibm.com/mapping/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix gts: <http://resource.geosciml.org/ontology/timescale/rank/> .
 @prefix isc: <http://resource.geosciml.org/classifier/ics/ischart/> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
-@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix wn30en: <https://w3id.org/own-pt/wn30-en/instances/> .
-@prefix xml: <http://www.w3.org/XML/1998/namespace> .
-@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 
-isc:Aalenian ex:mapsTo wn30en:synset-noun.geosci-Aalenian .
+isc:Aalenian skos:relatedMatch wn30en:synset-noun.geosci-Aalenian .
 
-isc:Aeronian ex:mapsTo wn30en:synset-noun.geosci-Aeronian .
+isc:Aeronian skos:relatedMatch wn30en:synset-noun.geosci-Aeronian .
 
-isc:Albian ex:mapsTo wn30en:synset-noun.geosci-Albian .
+isc:Albian skos:relatedMatch wn30en:synset-noun.geosci-Albian .
 
-isc:Anisian ex:mapsTo wn30en:synset-noun.geosci-Anisian .
+isc:Anisian skos:relatedMatch wn30en:synset-noun.geosci-Anisian .
 
-isc:Aptian ex:mapsTo wn30en:synset-noun.geosci-Aptian .
+isc:Aptian skos:relatedMatch wn30en:synset-noun.geosci-Aptian .
 
-isc:Aquitanian ex:mapsTo wn30en:synset-noun.geosci-Aquitanian .
+isc:Aquitanian skos:relatedMatch wn30en:synset-noun.geosci-Aquitanian .
 
-isc:Archean ex:mapsTo wn30en:synset-noun.time-Archean .
+isc:Archean skos:relatedMatch wn30en:synset-noun.time-Archean .
 
-isc:Artinskian ex:mapsTo wn30en:synset-noun.geosci-Artinskian .
+isc:Artinskian skos:relatedMatch wn30en:synset-noun.geosci-Artinskian .
 
-isc:Asselian ex:mapsTo wn30en:synset-noun.geosci-Asselian .
+isc:Asselian skos:relatedMatch wn30en:synset-noun.geosci-Asselian .
 
-isc:Bajocian ex:mapsTo wn30en:synset-noun.geosci-Bajocian .
+isc:Bajocian skos:relatedMatch wn30en:synset-noun.geosci-Bajocian .
 
-isc:Barremian ex:mapsTo wn30en:synset-noun.geosci-Barremian .
+isc:Barremian skos:relatedMatch wn30en:synset-noun.geosci-Barremian .
 
-isc:Bartonian ex:mapsTo wn30en:synset-noun.geosci-Bartonian .
+isc:Bartonian skos:relatedMatch wn30en:synset-noun.geosci-Bartonian .
 
-isc:Bashkirian ex:mapsTo wn30en:synset-noun.geosci-Bashkirian .
+isc:Bashkirian skos:relatedMatch wn30en:synset-noun.geosci-Bashkirian .
 
-isc:Bathonian ex:mapsTo wn30en:synset-noun.geosci-Bathonian .
+isc:Bathonian skos:relatedMatch wn30en:synset-noun.geosci-Bathonian .
 
-isc:Berriasian ex:mapsTo wn30en:synset-noun.geosci-Berriasian .
+isc:Berriasian skos:relatedMatch wn30en:synset-noun.geosci-Berriasian .
 
-isc:Burdigalian ex:mapsTo wn30en:synset-noun.geosci-Burdigalian .
+isc:Burdigalian skos:relatedMatch wn30en:synset-noun.geosci-Burdigalian .
 
-isc:Calabrian ex:mapsTo wn30en:synset-noun.geosci-Calabrian .
+isc:Calabrian skos:relatedMatch wn30en:synset-noun.geosci-Calabrian .
 
-isc:Callovian ex:mapsTo wn30en:synset-noun.geosci-Callovian .
+isc:Callovian skos:relatedMatch wn30en:synset-noun.geosci-Callovian .
 
-isc:Calymmian ex:mapsTo wn30en:synset-noun.geosci-Calymmian .
+isc:Calymmian skos:relatedMatch wn30en:synset-noun.geosci-Calymmian .
 
-isc:Cambrian ex:mapsTo wn30en:synset-noun.time-Cambrian .
+isc:Cambrian skos:relatedMatch wn30en:synset-noun.time-Cambrian .
 
-isc:CambrianSeries2 ex:mapsTo wn30en:synset-noun.geosci-Cambrian_Series_2 .
+isc:CambrianSeries2 skos:relatedMatch wn30en:synset-noun.geosci-Cambrian_Series_2 .
 
-isc:CambrianStage10 ex:mapsTo wn30en:synset-noun.geosci-Cambrian_Stage_1 .
+isc:CambrianStage10 skos:relatedMatch wn30en:synset-noun.geosci-Cambrian_Stage_1 .
 
-isc:CambrianStage2 ex:mapsTo wn30en:synset-noun.geosci-Cambrian_Stage_2 .
+isc:CambrianStage2 skos:relatedMatch wn30en:synset-noun.geosci-Cambrian_Stage_2 .
 
-isc:CambrianStage3 ex:mapsTo wn30en:synset-noun.geosci-Cambrian_Stage_3 .
+isc:CambrianStage3 skos:relatedMatch wn30en:synset-noun.geosci-Cambrian_Stage_3 .
 
-isc:CambrianStage4 ex:mapsTo wn30en:synset-noun.geosci-Cambrian_Stage_4 .
+isc:CambrianStage4 skos:relatedMatch wn30en:synset-noun.geosci-Cambrian_Stage_4 .
 
-isc:CambrianStage5 ex:mapsTo wn30en:synset-noun.geosci-Cambrian_Stage_5 .
+isc:CambrianStage5 skos:relatedMatch wn30en:synset-noun.geosci-Cambrian_Stage_5 .
 
-isc:Cambrian_Series_3 ex:mapsTo wn30en:synset-noun.geosci-Cambrian_Series_3 .
+isc:Cambrian_Series_3 skos:relatedMatch wn30en:synset-noun.geosci-Cambrian_Series_3 .
 
-isc:Campanian ex:mapsTo wn30en:synset-noun.geosci-Campanian .
+isc:Campanian skos:relatedMatch wn30en:synset-noun.geosci-Campanian .
 
-isc:Capitanian ex:mapsTo wn30en:synset-noun.geosci-Capitanian .
+isc:Capitanian skos:relatedMatch wn30en:synset-noun.geosci-Capitanian .
 
-isc:Carboniferous ex:mapsTo wn30en:synset-noun.time-Carboniferous .
+isc:Carboniferous skos:relatedMatch wn30en:synset-noun.time-Carboniferous .
 
-isc:Carnian ex:mapsTo wn30en:synset-noun.geosci-Carnian .
+isc:Carnian skos:relatedMatch wn30en:synset-noun.geosci-Carnian .
 
-isc:Cenomanian ex:mapsTo wn30en:synset-noun.geosci-Cenomanian .
+isc:Cenomanian skos:relatedMatch wn30en:synset-noun.geosci-Cenomanian .
 
-isc:Cenozoic ex:mapsTo wn30en:synset-noun.time-Cenozoic .
+isc:Cenozoic skos:relatedMatch wn30en:synset-noun.time-Cenozoic .
 
-isc:Changhsingian ex:mapsTo wn30en:synset-noun.geosci-Changhsingian .
+isc:Changhsingian skos:relatedMatch wn30en:synset-noun.geosci-Changhsingian .
 
-isc:Chattian ex:mapsTo wn30en:synset-noun.geosci-Chattian .
+isc:Chattian skos:relatedMatch wn30en:synset-noun.geosci-Chattian .
 
-isc:Cisuralian ex:mapsTo wn30en:synset-noun.geosci-Cisuralian .
+isc:Cisuralian skos:relatedMatch wn30en:synset-noun.geosci-Cisuralian .
 
-isc:Coniacian ex:mapsTo wn30en:synset-noun.geosci-Coniacian .
+isc:Coniacian skos:relatedMatch wn30en:synset-noun.geosci-Coniacian .
 
-isc:Cretaceous ex:mapsTo wn30en:synset-noun.time-Cretaceous .
+isc:Cretaceous skos:relatedMatch wn30en:synset-noun.time-Cretaceous .
 
-isc:Cryogenian ex:mapsTo wn30en:synset-noun.geosci-Cryogenian .
+isc:Cryogenian skos:relatedMatch wn30en:synset-noun.geosci-Cryogenian .
 
-isc:Danian ex:mapsTo wn30en:synset-noun.geosci-Danian .
+isc:Danian skos:relatedMatch wn30en:synset-noun.geosci-Danian .
 
-isc:Dapingian ex:mapsTo wn30en:synset-noun.geosci-Dapingian .
+isc:Dapingian skos:relatedMatch wn30en:synset-noun.geosci-Dapingian .
 
-isc:Darriwilian ex:mapsTo wn30en:synset-noun.geosci-Darriwilian .
+isc:Darriwilian skos:relatedMatch wn30en:synset-noun.geosci-Darriwilian .
 
-isc:Devonian ex:mapsTo wn30en:synset-noun.time-Devonian .
+isc:Devonian skos:relatedMatch wn30en:synset-noun.time-Devonian .
 
-isc:Drumian ex:mapsTo wn30en:synset-noun.geosic-Drumian .
+isc:Drumian skos:relatedMatch wn30en:synset-noun.geosic-Drumian .
 
-isc:Ectasian ex:mapsTo wn30en:synset-noun.geosci-Ectasian .
+isc:Ectasian skos:relatedMatch wn30en:synset-noun.geosci-Ectasian .
 
-isc:Ediacaran ex:mapsTo wn30en:synset-noun.geosci-Ediacaran .
+isc:Ediacaran skos:relatedMatch wn30en:synset-noun.geosci-Ediacaran .
 
-isc:Eifelian ex:mapsTo wn30en:synset-noun.geosci-Eifelian .
+isc:Eifelian skos:relatedMatch wn30en:synset-noun.geosci-Eifelian .
 
-isc:Emsian ex:mapsTo wn30en:synset-noun.geosci-Emsian .
+isc:Emsian skos:relatedMatch wn30en:synset-noun.geosci-Emsian .
 
-isc:Eoarchean ex:mapsTo wn30en:synset-noun.geosci-Eoarchean .
+isc:Eoarchean skos:relatedMatch wn30en:synset-noun.geosci-Eoarchean .
 
-isc:Eocene ex:mapsTo wn30en:synset-noun.time-Eocene .
+isc:Eocene skos:relatedMatch wn30en:synset-noun.time-Eocene .
 
-isc:Famennian ex:mapsTo wn30en:synset-noun.geosci-Famennian .
+isc:Famennian skos:relatedMatch wn30en:synset-noun.geosci-Famennian .
 
-isc:Floian ex:mapsTo wn30en:synset-noun.geosci-Floian .
+isc:Floian skos:relatedMatch wn30en:synset-noun.geosci-Floian .
 
-isc:Fortunian ex:mapsTo wn30en:synset-noun.geosci-Fortunian .
+isc:Fortunian skos:relatedMatch wn30en:synset-noun.geosci-Fortunian .
 
-isc:Frasnian ex:mapsTo wn30en:synset-noun.geosci-Frasnian .
+isc:Frasnian skos:relatedMatch wn30en:synset-noun.geosci-Frasnian .
 
-isc:Furongian ex:mapsTo wn30en:synset-noun.geosci-Furongian .
+isc:Furongian skos:relatedMatch wn30en:synset-noun.geosci-Furongian .
 
-isc:Gelasian ex:mapsTo wn30en:synset-noun.geosci-Gelasian .
+isc:Gelasian skos:relatedMatch wn30en:synset-noun.geosci-Gelasian .
 
-isc:Givetian ex:mapsTo wn30en:synset-noun.geosci-Givetian .
+isc:Givetian skos:relatedMatch wn30en:synset-noun.geosci-Givetian .
 
-isc:Gorstian ex:mapsTo wn30en:synset-noun.geosci-Gorstian .
+isc:Gorstian skos:relatedMatch wn30en:synset-noun.geosci-Gorstian .
 
-isc:Guadalupian ex:mapsTo wn30en:synset-noun.geosci-Guadalupian .
+isc:Guadalupian skos:relatedMatch wn30en:synset-noun.geosci-Guadalupian .
 
-isc:Guzhangian ex:mapsTo wn30en:synset-noun.geosci-Guzhangian .
+isc:Guzhangian skos:relatedMatch wn30en:synset-noun.geosci-Guzhangian .
 
-isc:Gzhelian ex:mapsTo wn30en:synset-noun.geosci-Gzhelian .
+isc:Gzhelian skos:relatedMatch wn30en:synset-noun.geosci-Gzhelian .
 
-isc:Hadean ex:mapsTo wn30en:synset-noun.time-Hadean .
+isc:Hadean skos:relatedMatch wn30en:synset-noun.time-Hadean .
 
-isc:Hauterivian ex:mapsTo wn30en:synset-noun.geosci-Hauterivian .
+isc:Hauterivian skos:relatedMatch wn30en:synset-noun.geosci-Hauterivian .
 
-isc:Hettangian ex:mapsTo wn30en:synset-noun.geosci-Hettangian .
+isc:Hettangian skos:relatedMatch wn30en:synset-noun.geosci-Hettangian .
 
-isc:Hirnantian ex:mapsTo wn30en:synset-noun.geosci-Hirnantian .
+isc:Hirnantian skos:relatedMatch wn30en:synset-noun.geosci-Hirnantian .
 
-isc:Holocene ex:mapsTo wn30en:synset-noun.time-Holocene .
+isc:Holocene skos:relatedMatch wn30en:synset-noun.time-Holocene .
 
-isc:Homerian ex:mapsTo wn30en:synset-noun.geosci-Homerian .
+isc:Homerian skos:relatedMatch wn30en:synset-noun.geosci-Homerian .
 
-isc:Induan ex:mapsTo wn30en:synset-noun.geosci-Induan .
+isc:Induan skos:relatedMatch wn30en:synset-noun.geosci-Induan .
 
-isc:Jiangshanian ex:mapsTo wn30en:synset-noun.geosci-Jiangshanian .
+isc:Jiangshanian skos:relatedMatch wn30en:synset-noun.geosci-Jiangshanian .
 
-isc:Jurassic ex:mapsTo wn30en:synset-noun.time-Jurassic .
+isc:Jurassic skos:relatedMatch wn30en:synset-noun.time-Jurassic .
 
-isc:Kasimovian ex:mapsTo wn30en:synset-noun.geosci-Kasimovian .
+isc:Kasimovian skos:relatedMatch wn30en:synset-noun.geosci-Kasimovian .
 
-isc:Katian ex:mapsTo wn30en:synset-noun.geosci-Katian .
+isc:Katian skos:relatedMatch wn30en:synset-noun.geosci-Katian .
 
-isc:Kimmeridgian ex:mapsTo wn30en:synset-noun.geosci-Kimmeridgian .
+isc:Kimmeridgian skos:relatedMatch wn30en:synset-noun.geosci-Kimmeridgian .
 
-isc:Kungurian ex:mapsTo wn30en:synset-noun.geosci-Kungurian .
+isc:Kungurian skos:relatedMatch wn30en:synset-noun.geosci-Kungurian .
 
-isc:Ladinian ex:mapsTo wn30en:synset-noun.geosci-Ladinian .
+isc:Ladinian skos:relatedMatch wn30en:synset-noun.geosci-Ladinian .
 
-isc:Langhian ex:mapsTo wn30en:synset-noun.geosci-Langhian .
+isc:Langhian skos:relatedMatch wn30en:synset-noun.geosci-Langhian .
 
-isc:Llandovery ex:mapsTo wn30en:synset-noun.geosci-Llandovery .
+isc:Llandovery skos:relatedMatch wn30en:synset-noun.geosci-Llandovery .
 
-isc:Lochkovian ex:mapsTo wn30en:synset-noun.geosci-Lochkovian .
+isc:Lochkovian skos:relatedMatch wn30en:synset-noun.geosci-Lochkovian .
 
-isc:Lopingian ex:mapsTo wn30en:synset-noun.geosci-Lopingian .
+isc:Lopingian skos:relatedMatch wn30en:synset-noun.geosci-Lopingian .
 
-isc:LowerCretaceous ex:mapsTo wn30en:synset-noun.geosci-Lower_Cretaceous .
+isc:LowerCretaceous skos:relatedMatch wn30en:synset-noun.geosci-Lower_Cretaceous .
 
-isc:LowerDevonian ex:mapsTo wn30en:synset-noun.geosci-Lower_Devonian .
+isc:LowerDevonian skos:relatedMatch wn30en:synset-noun.geosci-Lower_Devonian .
 
-isc:LowerJurassic ex:mapsTo wn30en:synset-noun.geosci-Lower_Jurassic .
+isc:LowerJurassic skos:relatedMatch wn30en:synset-noun.geosci-Lower_Jurassic .
 
-isc:LowerMississippian ex:mapsTo wn30en:synset-noun.geosci-Lower_Mississippian .
+isc:LowerMississippian skos:relatedMatch wn30en:synset-noun.geosci-Lower_Mississippian .
 
-isc:LowerOrdovician ex:mapsTo wn30en:synset-noun.geosci-Lower_Ordovician .
+isc:LowerOrdovician skos:relatedMatch wn30en:synset-noun.geosci-Lower_Ordovician .
 
-isc:LowerPennsylvanian ex:mapsTo wn30en:synset-noun.geosci-Lower_Pennsylvanian .
+isc:LowerPennsylvanian skos:relatedMatch wn30en:synset-noun.geosci-Lower_Pennsylvanian .
 
-isc:LowerTriassic ex:mapsTo wn30en:synset-noun.geosci-Lower_Triassic .
+isc:LowerTriassic skos:relatedMatch wn30en:synset-noun.geosci-Lower_Triassic .
 
-isc:Ludfordian ex:mapsTo wn30en:synset-noun.geosci-Ludfordian .
+isc:Ludfordian skos:relatedMatch wn30en:synset-noun.geosci-Ludfordian .
 
-isc:Ludlow ex:mapsTo wn30en:synset-noun.geosci-Ludlow .
+isc:Ludlow skos:relatedMatch wn30en:synset-noun.geosci-Ludlow .
 
-isc:Lutetian ex:mapsTo wn30en:synset-noun.geosci-Lutetian .
+isc:Lutetian skos:relatedMatch wn30en:synset-noun.geosci-Lutetian .
 
-isc:Maastrichtian ex:mapsTo wn30en:synset-noun.geosci-Maastrichtian .
+isc:Maastrichtian skos:relatedMatch wn30en:synset-noun.geosci-Maastrichtian .
 
-isc:Mesoarchean ex:mapsTo wn30en:synset-noun.geosci-Mesoarchean .
+isc:Mesoarchean skos:relatedMatch wn30en:synset-noun.geosci-Mesoarchean .
 
-isc:Mesoproterozoic ex:mapsTo wn30en:synset-noun.geosci-Mesoproterozoic .
+isc:Mesoproterozoic skos:relatedMatch wn30en:synset-noun.geosci-Mesoproterozoic .
 
-isc:Mesozoic ex:mapsTo wn30en:synset-noun.time-Mesozoic .
+isc:Mesozoic skos:relatedMatch wn30en:synset-noun.time-Mesozoic .
 
-isc:Messinian ex:mapsTo wn30en:synset-noun.geosci-Messinian .
+isc:Messinian skos:relatedMatch wn30en:synset-noun.geosci-Messinian .
 
-isc:MiddleDevonian ex:mapsTo wn30en:synset-noun.geosci-Middle_Devonian .
+isc:MiddleDevonian skos:relatedMatch wn30en:synset-noun.geosci-Middle_Devonian .
 
-isc:MiddleJurassic ex:mapsTo wn30en:synset-noun.geosci-Middle_Jurassic .
+isc:MiddleJurassic skos:relatedMatch wn30en:synset-noun.geosci-Middle_Jurassic .
 
-isc:MiddleMississippian ex:mapsTo wn30en:synset-noun.geosci-Middle_Mississippian .
+isc:MiddleMississippian skos:relatedMatch wn30en:synset-noun.geosci-Middle_Mississippian .
 
-isc:MiddleOrdovician ex:mapsTo wn30en:synset-noun.geosci-Middle_Ordovician .
+isc:MiddleOrdovician skos:relatedMatch wn30en:synset-noun.geosci-Middle_Ordovician .
 
-isc:MiddlePennsylvanian ex:mapsTo wn30en:synset-noun.geosci-Middle_Pennsylvanian .
+isc:MiddlePennsylvanian skos:relatedMatch wn30en:synset-noun.geosci-Middle_Pennsylvanian .
 
-isc:MiddlePleistocene ex:mapsTo wn30en:synset-noun.geosci-Middle_Pleistocene .
+isc:MiddlePleistocene skos:relatedMatch wn30en:synset-noun.geosci-Middle_Pleistocene .
 
-isc:MiddleTriassic ex:mapsTo wn30en:synset-noun.geosci-Middle_Triassic .
+isc:MiddleTriassic skos:relatedMatch wn30en:synset-noun.geosci-Middle_Triassic .
 
-isc:Miocene ex:mapsTo wn30en:synset-noun.time-Miocene .
+isc:Miocene skos:relatedMatch wn30en:synset-noun.time-Miocene .
 
-isc:Mississippian ex:mapsTo wn30en:synset-noun.time-Mississippian .
+isc:Mississippian skos:relatedMatch wn30en:synset-noun.time-Mississippian .
 
-isc:Moscovian ex:mapsTo wn30en:synset-noun.geosci-Moscovian .
+isc:Moscovian skos:relatedMatch wn30en:synset-noun.geosci-Moscovian .
 
-isc:Neoarchean ex:mapsTo wn30en:synset-noun.geosci-Neoarchean .
+isc:Neoarchean skos:relatedMatch wn30en:synset-noun.geosci-Neoarchean .
 
-isc:Neogene ex:mapsTo wn30en:synset-noun.geosci-Neogene .
+isc:Neogene skos:relatedMatch wn30en:synset-noun.geosci-Neogene .
 
-isc:Neoproterozoic ex:mapsTo wn30en:synset-noun.geosci-Neoproterozoic .
+isc:Neoproterozoic skos:relatedMatch wn30en:synset-noun.geosci-Neoproterozoic .
 
-isc:Norian ex:mapsTo wn30en:synset-noun.geosci-Norian .
+isc:Norian skos:relatedMatch wn30en:synset-noun.geosci-Norian .
 
-isc:Olenekian ex:mapsTo wn30en:synset-noun.geosci-Olenekian .
+isc:Olenekian skos:relatedMatch wn30en:synset-noun.geosci-Olenekian .
 
-isc:Oligocene ex:mapsTo wn30en:synset-noun.time-Oligocene .
+isc:Oligocene skos:relatedMatch wn30en:synset-noun.time-Oligocene .
 
-isc:Ordovician ex:mapsTo wn30en:synset-noun.time-Ordovician .
+isc:Ordovician skos:relatedMatch wn30en:synset-noun.time-Ordovician .
 
-isc:Orosirian ex:mapsTo wn30en:synset-noun.geosci-Orosirian .
+isc:Orosirian skos:relatedMatch wn30en:synset-noun.geosci-Orosirian .
 
-isc:Oxfordian ex:mapsTo wn30en:synset-noun.geosci-Oxfordian .
+isc:Oxfordian skos:relatedMatch wn30en:synset-noun.geosci-Oxfordian .
 
-isc:Paibian ex:mapsTo wn30en:synset-noun.geosci-Paibian .
+isc:Paibian skos:relatedMatch wn30en:synset-noun.geosci-Paibian .
 
-isc:Paleoarchean ex:mapsTo wn30en:synset-noun.geosci-Paleoarchean .
+isc:Paleoarchean skos:relatedMatch wn30en:synset-noun.geosci-Paleoarchean .
 
-isc:Paleocene ex:mapsTo wn30en:synset-noun.time-Paleocene .
+isc:Paleocene skos:relatedMatch wn30en:synset-noun.time-Paleocene .
 
-isc:Paleogene ex:mapsTo wn30en:synset-noun.geosci-Paleogene .
+isc:Paleogene skos:relatedMatch wn30en:synset-noun.geosci-Paleogene .
 
-isc:Paleoproterozoic ex:mapsTo wn30en:synset-noun.geosci-Paleoproterozoic .
+isc:Paleoproterozoic skos:relatedMatch wn30en:synset-noun.geosci-Paleoproterozoic .
 
-isc:Paleozoic ex:mapsTo wn30en:synset-noun.time-Paleozoic .
+isc:Paleozoic skos:relatedMatch wn30en:synset-noun.time-Paleozoic .
 
-isc:Pennsylvanian ex:mapsTo wn30en:synset-noun.time-Pennsylvanian .
+isc:Pennsylvanian skos:relatedMatch wn30en:synset-noun.time-Pennsylvanian .
 
-isc:Permian ex:mapsTo wn30en:synset-noun.time-Permian .
+isc:Permian skos:relatedMatch wn30en:synset-noun.time-Permian .
 
-isc:Phanerozoic ex:mapsTo wn30en:synset-noun.time-Phanerozoic .
+isc:Phanerozoic skos:relatedMatch wn30en:synset-noun.time-Phanerozoic .
 
-isc:Piacenzian ex:mapsTo wn30en:synset-noun.geosci-Piacenzian .
+isc:Piacenzian skos:relatedMatch wn30en:synset-noun.geosci-Piacenzian .
 
-isc:Pleistocene ex:mapsTo wn30en:synset-noun.time-Pleistocene .
+isc:Pleistocene skos:relatedMatch wn30en:synset-noun.time-Pleistocene .
 
-isc:Pliensbachian ex:mapsTo wn30en:synset-noun.geosci-Pliensbachian .
+isc:Pliensbachian skos:relatedMatch wn30en:synset-noun.geosci-Pliensbachian .
 
-isc:Pliocene ex:mapsTo wn30en:synset-noun.time-Pliocene .
+isc:Pliocene skos:relatedMatch wn30en:synset-noun.time-Pliocene .
 
-isc:Pragian ex:mapsTo wn30en:synset-noun.geosci-Pragian .
+isc:Pragian skos:relatedMatch wn30en:synset-noun.geosci-Pragian .
 
-isc:Precambrian ex:mapsTo wn30en:synset-noun.time-Precambrian .
+isc:Precambrian skos:relatedMatch wn30en:synset-noun.time-Precambrian .
 
-isc:Priabonian ex:mapsTo wn30en:synset-noun.geosci-Priabonian .
+isc:Priabonian skos:relatedMatch wn30en:synset-noun.geosci-Priabonian .
 
-isc:Pridoli ex:mapsTo wn30en:synset-noun.geosci-Pridoli .
+isc:Pridoli skos:relatedMatch wn30en:synset-noun.geosci-Pridoli .
 
-isc:Proterozoic ex:mapsTo wn30en:synset-noun.time-Proterozoic .
+isc:Proterozoic skos:relatedMatch wn30en:synset-noun.time-Proterozoic .
 
-isc:Quaternary ex:mapsTo wn30en:synset-noun.time-Quaternary .
+isc:Quaternary skos:relatedMatch wn30en:synset-noun.time-Quaternary .
 
-isc:Rhaetian ex:mapsTo wn30en:synset-noun.geosci-Rhaetian .
+isc:Rhaetian skos:relatedMatch wn30en:synset-noun.geosci-Rhaetian .
 
-isc:Rhuddanian ex:mapsTo wn30en:synset-noun.geosci-Rhuddanian .
+isc:Rhuddanian skos:relatedMatch wn30en:synset-noun.geosci-Rhuddanian .
 
-isc:Rhyacian ex:mapsTo wn30en:synset-noun.geosci-Rhyacian .
+isc:Rhyacian skos:relatedMatch wn30en:synset-noun.geosci-Rhyacian .
 
-isc:Roadian ex:mapsTo wn30en:synset-noun.geosci-Roadian .
+isc:Roadian skos:relatedMatch wn30en:synset-noun.geosci-Roadian .
 
-isc:Rupelian ex:mapsTo wn30en:synset-noun.geosci-Rupelian .
+isc:Rupelian skos:relatedMatch wn30en:synset-noun.geosci-Rupelian .
 
-isc:Sakmarian ex:mapsTo wn30en:synset-noun.geosci-Sakmarian .
+isc:Sakmarian skos:relatedMatch wn30en:synset-noun.geosci-Sakmarian .
 
-isc:Sandbian ex:mapsTo wn30en:synset-noun.geosci-Sandbian .
+isc:Sandbian skos:relatedMatch wn30en:synset-noun.geosci-Sandbian .
 
-isc:Santonian ex:mapsTo wn30en:synset-noun.geosci-Santonian .
+isc:Santonian skos:relatedMatch wn30en:synset-noun.geosci-Santonian .
 
-isc:Selandian ex:mapsTo wn30en:synset-noun.geosci-Selandian .
+isc:Selandian skos:relatedMatch wn30en:synset-noun.geosci-Selandian .
 
-isc:Serpukhovian ex:mapsTo wn30en:synset-noun.geosci-Serpukhovian .
+isc:Serpukhovian skos:relatedMatch wn30en:synset-noun.geosci-Serpukhovian .
 
-isc:Serravallian ex:mapsTo wn30en:synset-noun.geosci-Serravallian .
+isc:Serravallian skos:relatedMatch wn30en:synset-noun.geosci-Serravallian .
 
-isc:Sheinwoodian ex:mapsTo wn30en:synset-noun.geosci-Sheinwoodian .
+isc:Sheinwoodian skos:relatedMatch wn30en:synset-noun.geosci-Sheinwoodian .
 
-isc:Siderian ex:mapsTo wn30en:synset-noun.geosci-Siderian .
+isc:Siderian skos:relatedMatch wn30en:synset-noun.geosci-Siderian .
 
-isc:Silurian ex:mapsTo wn30en:synset-noun.time-Silurian .
+isc:Silurian skos:relatedMatch wn30en:synset-noun.time-Silurian .
 
-isc:Sinemurian ex:mapsTo wn30en:synset-noun.geosci-Sinemurian .
+isc:Sinemurian skos:relatedMatch wn30en:synset-noun.geosci-Sinemurian .
 
-isc:Statherian ex:mapsTo wn30en:synset-noun.geosci-Statherian .
+isc:Statherian skos:relatedMatch wn30en:synset-noun.geosci-Statherian .
 
-isc:Stenian ex:mapsTo wn30en:synset-noun.geosci-Stenian .
+isc:Stenian skos:relatedMatch wn30en:synset-noun.geosci-Stenian .
 
-isc:Telychian ex:mapsTo wn30en:synset-noun.geosci-Telychian .
+isc:Telychian skos:relatedMatch wn30en:synset-noun.geosci-Telychian .
 
-isc:Terreneuvian ex:mapsTo wn30en:synset-noun.geosci-Terreneuvian .
+isc:Terreneuvian skos:relatedMatch wn30en:synset-noun.geosci-Terreneuvian .
 
-isc:Thanetian ex:mapsTo wn30en:synset-noun.geosci-Thanetian .
+isc:Thanetian skos:relatedMatch wn30en:synset-noun.geosci-Thanetian .
 
-isc:Tithonian ex:mapsTo wn30en:synset-noun.geosci-Tithonian .
+isc:Tithonian skos:relatedMatch wn30en:synset-noun.geosci-Tithonian .
 
-isc:Toarcian ex:mapsTo wn30en:synset-noun.geosci-Toarcian .
+isc:Toarcian skos:relatedMatch wn30en:synset-noun.geosci-Toarcian .
 
-isc:Tonian ex:mapsTo wn30en:synset-noun.geosci-Tonian .
+isc:Tonian skos:relatedMatch wn30en:synset-noun.geosci-Tonian .
 
-isc:Tortonian ex:mapsTo wn30en:synset-noun.geosci-Tortonian .
+isc:Tortonian skos:relatedMatch wn30en:synset-noun.geosci-Tortonian .
 
-isc:Tournaisian ex:mapsTo wn30en:synset-noun.geosci-Tournaisian .
+isc:Tournaisian skos:relatedMatch wn30en:synset-noun.geosci-Tournaisian .
 
-isc:Tremadocian ex:mapsTo wn30en:synset-noun.geosci-Tremadocian .
+isc:Tremadocian skos:relatedMatch wn30en:synset-noun.geosci-Tremadocian .
 
-isc:Triassic ex:mapsTo wn30en:synset-noun.time-Triassic .
+isc:Triassic skos:relatedMatch wn30en:synset-noun.time-Triassic .
 
-isc:Turonian ex:mapsTo wn30en:synset-noun.geosci-Turonian .
+isc:Turonian skos:relatedMatch wn30en:synset-noun.geosci-Turonian .
 
-isc:UpperCretaceous ex:mapsTo wn30en:synset-noun.geosci-Upper_Cretaceous .
+isc:UpperCretaceous skos:relatedMatch wn30en:synset-noun.geosci-Upper_Cretaceous .
 
-isc:UpperDevonian ex:mapsTo wn30en:synset-noun.geosci-Upper_Devonian .
+isc:UpperDevonian skos:relatedMatch wn30en:synset-noun.geosci-Upper_Devonian .
 
-isc:UpperJurassic ex:mapsTo wn30en:synset-noun.geosci-Upper_Jurassic .
+isc:UpperJurassic skos:relatedMatch wn30en:synset-noun.geosci-Upper_Jurassic .
 
-isc:UpperMississippian ex:mapsTo wn30en:synset-noun.geosci-Upper_Mississippian .
+isc:UpperMississippian skos:relatedMatch wn30en:synset-noun.geosci-Upper_Mississippian .
 
-isc:UpperOrdovician ex:mapsTo wn30en:synset-noun.geosci-Upper_Ordovician .
+isc:UpperOrdovician skos:relatedMatch wn30en:synset-noun.geosci-Upper_Ordovician .
 
-isc:UpperPennsylvanian ex:mapsTo wn30en:synset-noun.geosci-Upper_Pennsylvanian .
+isc:UpperPennsylvanian skos:relatedMatch wn30en:synset-noun.geosci-Upper_Pennsylvanian .
 
-isc:UpperPleistocene ex:mapsTo wn30en:synset-noun.geosci-Upper_Pleistocene .
+isc:UpperPleistocene skos:relatedMatch wn30en:synset-noun.geosci-Upper_Pleistocene .
 
-isc:UpperTriassic ex:mapsTo wn30en:synset-noun.geosci-Upper_Triassic .
+isc:UpperTriassic skos:relatedMatch wn30en:synset-noun.geosci-Upper_Triassic .
 
-isc:Valanginian ex:mapsTo wn30en:synset-noun.geosci-Valanginian .
+isc:Valanginian skos:relatedMatch wn30en:synset-noun.geosci-Valanginian .
 
-isc:Visean ex:mapsTo wn30en:synset-noun.geosci-Visean .
+isc:Visean skos:relatedMatch wn30en:synset-noun.geosci-Visean .
 
-isc:Wenlock ex:mapsTo wn30en:synset-noun.geosci-Wenlock .
+isc:Wenlock skos:relatedMatch wn30en:synset-noun.geosci-Wenlock .
 
-isc:Wordian ex:mapsTo wn30en:synset-noun.geosci-Wordian .
+isc:Wordian skos:relatedMatch wn30en:synset-noun.geosci-Wordian .
 
-isc:Wuchiapingian ex:mapsTo wn30en:synset-noun.geosci-Wuchiapingian .
+isc:Wuchiapingian skos:relatedMatch wn30en:synset-noun.geosci-Wuchiapingian .
 
-isc:Ypresian ex:mapsTo wn30en:synset-noun.geosci-Ypresian .
+isc:Ypresian skos:relatedMatch wn30en:synset-noun.geosci-Ypresian .
 
-isc:Zanclean ex:mapsTo wn30en:synset-noun.geosci-Zanclean .
+isc:Zanclean skos:relatedMatch wn30en:synset-noun.geosci-Zanclean .
 
-gts:Age ex:mapsTo wn30en:synset-noun.geosci-age .
+gts:Age skos:relatedMatch wn30en:synset-noun.geosci-age .
 
-gts:Eon ex:mapsTo wn30en:synset-noun.time-eon .
+gts:Eon skos:relatedMatch wn30en:synset-noun.time-eon .
 
-gts:Epoch ex:mapsTo wn30en:synset-noun.time-epoch2 .
+gts:Epoch skos:relatedMatch wn30en:synset-noun.time-epoch2 .
 
-gts:Era ex:mapsTo wn30en:synset-noun.noun.geosci-era .
+gts:Era skos:relatedMatch wn30en:synset-noun.noun.geosci-era .
 
-gts:Period ex:mapsTo wn30en:synset-noun.time-period2 .
+gts:Period skos:relatedMatch wn30en:synset-noun.time-period2 .
 
