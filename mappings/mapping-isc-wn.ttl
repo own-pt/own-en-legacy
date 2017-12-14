@@ -16,7 +16,7 @@ isc:Aptian skos:relatedMatch wn30en:synset-noun.geosci-Aptian .
 isc:Aquitanian skos:relatedMatch wn30en:synset-noun.geosci-Aquitanian .
 
 isc:Archean skos:relatedMatch wn30en:synset-noun.time-Archean .
-
+    
 isc:Artinskian skos:relatedMatch wn30en:synset-noun.geosci-Artinskian .
 
 isc:Asselian skos:relatedMatch wn30en:synset-noun.geosci-Asselian .
@@ -69,6 +69,8 @@ isc:Cenomanian skos:relatedMatch wn30en:synset-noun.geosci-Cenomanian .
 
 isc:Cenozoic skos:relatedMatch wn30en:synset-noun.time-Cenozoic .
 
+isc:Cenozoic skos:relatedMatch wn30en:synset-adj.pert-Cenozoic .
+
 isc:Changhsingian skos:relatedMatch wn30en:synset-noun.geosci-Changhsingian .
 
 isc:Chattian skos:relatedMatch wn30en:synset-noun.geosci-Chattian .
@@ -78,6 +80,8 @@ isc:Cisuralian skos:relatedMatch wn30en:synset-noun.geosci-Cisuralian .
 isc:Coniacian skos:relatedMatch wn30en:synset-noun.geosci-Coniacian .
 
 isc:Cretaceous skos:relatedMatch wn30en:synset-noun.time-Cretaceous .
+
+isc:Cretaceous skos:relatedMatch wn30en:synset-adj.pert-Cretaceous .
 
 isc:Cryogenian skos:relatedMatch wn30en:synset-noun.geosci-Cryogenian .
 
@@ -142,7 +146,8 @@ isc:Induan skos:relatedMatch wn30en:synset-noun.geosci-Induan .
 isc:Jiangshanian skos:relatedMatch wn30en:synset-noun.geosci-Jiangshanian .
 
 isc:Jurassic skos:relatedMatch wn30en:synset-noun.time-Jurassic .
-
+isc:Jurassic skos:relatedMatch wn30en:synset-adj.pert-pre-Jurassic.
+    
 isc:Kasimovian skos:relatedMatch wn30en:synset-noun.geosci-Kasimovian .
 
 isc:Katian skos:relatedMatch wn30en:synset-noun.geosci-Katian .
@@ -241,6 +246,8 @@ isc:Paleoproterozoic skos:relatedMatch wn30en:synset-noun.geosci-Paleoproterozoi
 
 isc:Paleozoic skos:relatedMatch wn30en:synset-noun.time-Paleozoic .
 
+isc:Paleozoic skos:relatedMatch wn30en:synset-adj.pert-Paleozoic .
+
 isc:Pennsylvanian skos:relatedMatch wn30en:synset-noun.time-Pennsylvanian .
 
 isc:Permian skos:relatedMatch wn30en:synset-noun.time-Permian .
@@ -321,6 +328,8 @@ isc:Tremadocian skos:relatedMatch wn30en:synset-noun.geosci-Tremadocian .
 
 isc:Triassic skos:relatedMatch wn30en:synset-noun.time-Triassic .
 
+isc:Triassic skos:relatedMatch wn30en:synset-adj.pert-Triassic .
+    
 isc:Turonian skos:relatedMatch wn30en:synset-noun.geosci-Turonian .
 
 isc:UpperCretaceous skos:relatedMatch wn30en:synset-noun.geosci-Upper_Cretaceous .
