@@ -22,6 +22,8 @@
 	        :initform nil
 	        :accessor synset-pointers)))
 
+(defun synset-gloss (s)
+  (cdr (assoc "g" (synset-lines s) :test #'equal)))
 
 (defclass sense ()
   ((word             :initarg :word 
