@@ -30,6 +30,7 @@
     (remove-if-not (lambda (x)
                      (equal (second x) pointer))
                    pointers)))
+
 (defclass sense ()
   ((word             :initarg :word 
 		     :initform nil
