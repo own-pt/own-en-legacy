@@ -3194,7 +3194,7 @@ g: limit, block, or decrease the action or function of; "inhibit the action of t
 w: inhibit1
 w: bottle_up
 w: suppress1 event noun.act:suppression drf noun.act:suppression
-hyper: restrain
+hyper: verb.cognition:suppress
 frame: 8
 g: control and refrain from showing; of emotions, desires, impulses, or behavior
 
