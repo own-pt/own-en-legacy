@@ -25,6 +25,11 @@
 (defun synset-gloss (s)
   (cdr (assoc "g" (synset-lines s) :test #'equal)))
 
+(defun get-sem-pointer (s pointer)
+  (let ((pointers (synset-pointers s)))
+    (remove-if-not (lambda (x)
+                     (equal (second x) pointer))
+                   pointers)))
 (defclass sense ()
   ((word             :initarg :word 
 		     :initform nil
