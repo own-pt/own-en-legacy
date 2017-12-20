@@ -201,7 +201,7 @@ g: (chemistry) a series of 15 radioactive elements with increasing atomic number
 
 w: actinium
 w: Ac
-w: atomic_number_89
+w: atomic_number_89"
 hyper: chemical_element
 hs: uranium_ore
 g: a radioactive element of the actinide series; found in uranium ores
@@ -720,7 +720,7 @@ g: white crystalline compound that occurs naturally as the mineral gibbsite
 w: aluminum drf adj.pert:aluminous drf verb.contact:aluminize drf verb.contact:aluminise
 w: aluminium
 w: Al
-w: atomic_number_13
+w: atomic_number_13"
 hyper: metallic_element
 hs: noun.artifact:aluminum_foil
 hs: bauxite
@@ -757,7 +757,7 @@ g: a white or grey mineral consisting of lithium aluminum phosphate; a source of
 
 w: americium
 w: Am
-w: atomic_number_95
+w: atomic_number_95"
 hyper: metallic_element
 g: a radioactive transuranic metallic element; discovered by bombarding uranium with helium atoms
 
@@ -1070,7 +1070,7 @@ g: matter consisting of elementary particles that are the antiparticles of those
 
 w: antimony drf adjs.all:antimonial drf adj.pert:antimonic drf adj.pert:antimonious
 w: Sb
-w: atomic_number_51
+w: atomic_number_51"
 hyper: metallic_element
 hs: stibnite
 g: a metallic element having four allotropic forms; used in a wide variety of alloys; found in stibnite
@@ -1152,7 +1152,7 @@ g: a bitter tasting amino acid found in proteins and necessary for nutrition; it
 
 w: argon
 w: Ar
-w: atomic_number_18
+w: atomic_number_18"
 hyper: chemical_element
 hyper: noble_gas
 hs: air1
@@ -1198,7 +1198,7 @@ g: a white powdered poisonous trioxide of arsenic; used in manufacturing glass a
 
 w: arsenic1 drf adj.pert:arsenious drf adj.pert:arsenical
 w: As
-w: atomic_number_33
+w: atomic_number_33"
 hyper: chemical_element
 hs: herbicide
 hs: insecticide
@@ -1266,7 +1266,7 @@ g: a substance that is undergoing an analysis of its components
 
 w: astatine
 w: At
-w: atomic_number_85
+w: atomic_number_85"
 hyper: chemical_element
 hyper: halogen
 g: a highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium
@@ -1472,7 +1472,7 @@ g: a white insoluble radiopaque powder used as a pigment
 
 w: barium drf adj.pert:baric
 w: Ba
-w: atomic_number_56
+w: atomic_number_56"
 hyper: metallic_element
 hs: heavy_spar
 g: a soft silvery metallic element of the alkali earth group; found in barite
@@ -1639,7 +1639,7 @@ g: the univalent radical derived from toluene
 
 w: berkelium
 w: Bk
-w: atomic_number_97
+w: atomic_number_97"
 hyper: metallic_element
 g: a radioactive transuranic element; discovered by bombarding americium with helium
 
@@ -1654,7 +1654,7 @@ g: a copper-base alloy containing beryllium
 w: beryllium
 w: Be
 w: glucinium
-w: atomic_number_4
+w: atomic_number_4"
 hyper: metallic_element
 hs: beryl
 hs: chrysoberyl
@@ -1766,7 +1766,7 @@ g: a sticky adhesive that is smeared on small branches to capture small birds
 
 w: bismuth drf adj.pert:bismuthal
 w: Bi
-w: atomic_number_83
+w: atomic_number_83"
 hyper: metallic_element
 g: a heavy brittle diamagnetic trivalent metallic element (resembles arsenic and antimony chemically); usually recovered as a by-product from ores of other metals
 
@@ -1901,8 +1901,8 @@ g: poorly drained soils on top of peat and under marsh or swamp vegetation
 
 w: bohrium
 w: Bh
-w: element_107
-w: atomic_number_107
+w: element_107"
+w: atomic_number_107"
 hyper: chemical_element
 g: a transuranic element
 
@@ -1980,7 +1980,7 @@ g: a pungent colorless gas
 
 w: boron drf adj.pert:boronic drf adj.pert:boric
 w: B1
-w: atomic_number_5
+w: atomic_number_5"
 hyper: chemical_element
 hs: kernite
 hs: borax
@@ -2081,7 +2081,7 @@ g: any of the salts of hydrobromic acid; formerly used as a sedative but now gen
 
 w: bromine drf adj.pert:bromic drf verb.change:brominate drf verb.change:brominate1 drf verb.change:bromate drf verb.change:bromate1
 w: Br
-w: atomic_number_35
+w: atomic_number_35"
 hyper: chemical_element
 hyper: halogen
 hs: seawater
@@ -2276,7 +2276,7 @@ g: pale-hued cadmium yellow pigment
 
 w: cadmium
 w: Cd
-w: atomic_number_48
+w: atomic_number_48"
 hyper: metallic_element
 hs: hemimorphite
 g: a soft bluish-white ductile malleable toxic bivalent metallic element; occurs in association with zinc ores
@@ -2384,7 +2384,7 @@ g: a white salt (CaSO4)
 
 w: calcium drf verb.change:calcify1 drf verb.change:calcify3 drf verb.change:calcify2
 w: Ca
-w: atomic_number_20
+w: atomic_number_20"
 hyper: metallic_element
 hs: calcium_oxide
 hs: limestone
@@ -2408,7 +2408,7 @@ g: crust or layer of hard subsoil encrusted with calcium-carbonate occurring in 
 
 w: californium
 w: Cf
-w: atomic_number_98
+w: atomic_number_98"
 hyper: metallic_element
 g: a radioactive transuranic element; discovered by bombarding curium with alpha particles
 
@@ -2572,7 +2572,7 @@ g: a salt or ester of carbonic acid (containing the anion CO3)
 
 w: carbon1 drf adj.pert:carbonic drf verb.stative:carbonate drf verb.change:carburize drf verb.change:carburise drf verb.change:carbonize drf verb.change:carbonize1 drf verb.change:carbonise drf verb.change:carbonise1
 w: C3
-w: atomic_number_6
+w: atomic_number_6"
 hyper: chemical_element
 hs: coal
 hs: petroleum
@@ -2831,7 +2831,7 @@ g: a white wax extracted from ozokerite
 
 w: cerium drf adj.pert:cerous
 w: Ce
-w: atomic_number_58
+w: atomic_number_58"
 hyper: metallic_element
 hs: monazite
 hs: bastnasite
@@ -2865,7 +2865,7 @@ g: a radioactive isotope of cesium used in radiation therapy
 w: cesium
 w: caesium
 w: Cs
-w: atomic_number_55
+w: atomic_number_55"
 hyper: metallic_element
 hs: pollucite
 g: a soft silver-white ductile metallic element (liquid at normal temperatures); the most electropositive and alkaline metal
@@ -3062,7 +3062,7 @@ g: an aqueous solution of chlorine used as a bleaching agent
 
 w: chlorine drf verb.change:chlorinate drf verb.body:chlorinate
 w: Cl
-w: atomic_number_17
+w: atomic_number_17"
 hyper: chemical_element
 hyper: gas1
 hyper: halogen
@@ -3184,7 +3184,7 @@ g: a brownish-black mineral; the major source of chromium
 
 w: chromium
 w: Cr
-w: atomic_number_24
+w: atomic_number_24"
 hyper: metallic_element
 hs: chromite
 g: a hard brittle multivalent metallic element; resistant to corrosion and tarnishing
@@ -3347,7 +3347,7 @@ g: greenish-blue pigment consisting essentially of cobalt oxide and alumina
 
 w: cobalt
 w: Co
-w: atomic_number_27
+w: atomic_number_27"
 hyper: metallic_element
 hs: smaltite
 hs: cobaltite
@@ -3593,7 +3593,7 @@ g: a copper salt made by the action of sulfuric acid on copper oxide
 
 w: copper drf adj.pert:cupric drf verb.contact:copper
 w: Cu
-w: atomic_number_29
+w: atomic_number_29"
 hyper: metallic_element
 hs: brass
 hs: bronze
@@ -3834,7 +3834,7 @@ g: a 60/40 alloy of copper and nickel
 
 w: curium
 w: Cm
-w: atomic_number_96
+w: atomic_number_96"
 hyper: metallic_element
 g: a radioactive transuranic metallic element; produced by bombarding plutonium with helium nuclei
 
@@ -3969,8 +3969,8 @@ g: (cosmology) a hypothetical form of matter that is believed to make up 90 perc
 
 w: darmstadtium
 w: Ds
-w: element_110
-w: atomic_number_110
+w: element_110"
+w: atomic_number_110"
 hyper: chemical_element
 g: a radioactive transuranic element
 
@@ -4423,8 +4423,8 @@ g: tallow mixed with oil; used to make leather soft and waterproof
 w: dubnium
 w: Db
 w: hahnium
-w: element_105
-w: atomic_number_105
+w: element_105"
+w: atomic_number_105"
 hyper: chemical_element
 g: a transuranic element
 
@@ -4452,7 +4452,7 @@ g: any wood from which dye is obtained
 
 w: dysprosium
 w: Dy
-w: atomic_number_66
+w: atomic_number_66"
 hyper: metallic_element
 g: a trivalent metallic element of the rare earth group; forms compounds that are highly magnetic
 
@@ -4494,7 +4494,7 @@ g: an omega-3 fatty acid with 20 carbon atoms; found in fish (especially tuna an
 w: einsteinium
 w: Es
 w: E1
-w: atomic_number_99
+w: atomic_number_99"
 hyper: metallic_element
 g: a radioactive transuranic element produced by bombarding plutonium with neutrons
 
@@ -4657,7 +4657,7 @@ g: hydrated magnesium sulfate that is taken orally to treat heartburn and consti
 
 w: erbium
 w: Er
-w: atomic_number_68
+w: atomic_number_68"
 hyper: metallic_element
 hs: gadolinite
 hs: fergusonite
@@ -4794,7 +4794,7 @@ g: an acrid brown gum resin now used mainly in veterinary medicine
 
 w: europium
 w: Eu
-w: atomic_number_63
+w: atomic_number_63"
 hyper: metallic_element
 hs: monazite
 g: a bivalent and trivalent metallic element of the rare earth group
@@ -4915,7 +4915,7 @@ g: a substance capable of bringing about fermentation
 
 w: fermium
 w: Fm
-w: atomic_number_100
+w: atomic_number_100"
 hyper: metallic_element
 g: a radioactive transuranic metallic element produced by bombarding plutonium with neutrons
 
@@ -5176,7 +5176,7 @@ g: a salt of hydrofluoric acid
 
 w: fluorine
 w: F
-w: atomic_number_9
+w: atomic_number_9"
 hyper: chemical_element
 hyper: gas1
 hyper: halogen
@@ -5300,7 +5300,7 @@ g: a component of a mixture that has been separated by a fractional process
 
 w: francium
 w: Fr
-w: atomic_number_87
+w: atomic_number_87"
 hyper: metallic_element
 g: a radioactive element of the alkali-metal group discovered as a disintegration product of actinium
 
@@ -5429,7 +5429,7 @@ g: a mineral that is a source of rare earths; consists of silicates of iron and 
 
 w: gadolinium
 w: Gd
-w: atomic_number_64
+w: atomic_number_64"
 hyper: metallic_element
 hs: gadolinite
 hs: samarskite
@@ -5465,7 +5465,7 @@ g: a colorless crystalline acid obtained from tannin
 
 w: gallium
 w: Ga
-w: atomic_number_31
+w: atomic_number_31"
 hyper: metallic_element
 hs: bauxite
 g: a rare silvery (usually trivalent) metallic element; brittle at low temperatures but liquid above room temperature; occurs in trace amounts in bauxite and zinc ores
@@ -5580,7 +5580,7 @@ g: a rare reddish-grey mineral consisting of a copper iron germanium sulfide
 
 w: germanium
 w: Ge
-w: atomic_number_32
+w: atomic_number_32"
 hyper: chemical_element
 hyper: semiconductor
 hs: germanite
@@ -5820,7 +5820,7 @@ g: the particles and flakes (and sometimes small nuggets) of gold obtained in pl
 
 w: gold drf adjs.all:gold
 w: Au
-w: atomic_number_79
+w: atomic_number_79"
 hyper: noble_metal
 hs: dental_gold
 hs: sylvanite
@@ -6057,7 +6057,7 @@ g: a common white or colorless mineral (hydrated calcium sulphate) used to make 
 
 w: hafnium
 w: Hf
-w: atomic_number_72
+w: atomic_number_72"
 hyper: metallic_element
 g: a grey tetravalent metallic element that resembles zirconium chemically and is found in zirconium minerals; used in filaments for its ready emission of electrons
 
@@ -6165,8 +6165,8 @@ g: a reddish opal with small patches of brilliant color
 
 w: hassium
 w: Hs
-w: element_108
-w: atomic_number_108
+w: element_108"
+w: atomic_number_108"
 hyper: chemical_element
 g: a radioactive transuranic element
 
@@ -6206,7 +6206,7 @@ g: the series of inert gases
 
 w: helium
 w: He
-w: atomic_number_2
+w: atomic_number_2"
 hyper: chemical_element
 hyper: noble_gas
 g: a very light colorless element that is one of the six inert gasses; the most difficult gas to liquefy; occurs in economically extractable amounts in certain natural gases (as those found in Texas and Kansas)
@@ -6391,7 +6391,7 @@ g: a liver enzyme that is responsible for producing cholesterol
 
 w: holmium
 w: Ho
-w: atomic_number_67
+w: atomic_number_67"
 hyper: metallic_element
 hs: gadolinite
 g: a trivalent metallic element of the rare earth group; occurs together with yttrium; forms highly magnetic compounds
@@ -6635,7 +6635,7 @@ g: a sulfide having the unpleasant smell of rotten eggs
 
 w: hydrogen drf verb.change:hydrogenate
 w: H
-w: atomic_number_1
+w: atomic_number_1"
 hyper: chemical_element
 hyper: gas1
 hs: water2
@@ -6877,7 +6877,7 @@ g: (chemistry) a substance that changes color to indicate the presence of some i
 
 w: indium
 w: In
-w: atomic_number_49
+w: atomic_number_49"
 hyper: metallic_element
 hs: zinc_blende
 g: a rare soft silvery metallic element; occurs in small quantities in sphalerite
@@ -7032,7 +7032,7 @@ g: heavy radioactive isotope of iodine with a half-life of 8 days; used in a sod
 w: iodine drf verb.change:iodinate drf verb.change:iodize drf verb.change:iodise
 w: iodin
 w: I
-w: atomic_number_53
+w: atomic_number_53"
 hyper: chemical_element
 hyper: halogen
 hs: seawater
@@ -7071,7 +7071,7 @@ g: tyrosine with iodine added
 
 w: iridium
 w: Ir
-w: atomic_number_77
+w: atomic_number_77"
 hyper: metallic_element
 g: a heavy brittle metallic element of the platinum group; used in alloys; occurs in natural alloys with platinum or osmium
 
@@ -7106,7 +7106,7 @@ g: a cement resembling putty; made by mixing ferric oxide and boiled linseed oil
 
 w: iron
 w: Fe
-w: atomic_number_26
+w: atomic_number_26"
 hyper: metallic_element
 hs: steel
 hs: iron_ore
@@ -7398,7 +7398,7 @@ g: strong wrapping paper made from pulp processed with a sulfur solution
 
 w: krypton
 w: Kr
-w: atomic_number_36
+w: atomic_number_36"
 hyper: chemical_element
 hyper: noble_gas
 hs: air1
@@ -7531,7 +7531,7 @@ g: the rare-earth elements with atomic numbers 57 through 71; having properties 
 
 w: lanthanum
 w: La
-w: atomic_number_57
+w: atomic_number_57"
 hyper: metallic_element
 g: a white soft metallic element that tarnishes readily; occurs in rare earth minerals and is usually classified as a rare earth
 
@@ -7593,7 +7593,7 @@ g: rock that in its molten form (as magma) issues from volcanos; lava is what ma
 
 w: lawrencium
 w: Lr
-w: atomic_number_103
+w: atomic_number_103"
 hyper: chemical_element
 g: a radioactive transuranic element synthesized from californium
 
@@ -7635,7 +7635,7 @@ g: gasoline treated with a lead compound to reduce motor knocks; "combustion of 
 
 w: lead
 w: Pb
-w: atomic_number_82
+w: atomic_number_82"
 hyper: metallic_element
 hs: galena
 hs: cerussite
@@ -7863,7 +7863,7 @@ g: a white powder (LiCO3) used in manufacturing glass and ceramics and as a drug
 
 w: lithium
 w: Li
-w: atomic_number_3
+w: atomic_number_3"
 hyper: metallic_element
 hs: lepidolite
 hs: amblygonite
@@ -7969,7 +7969,7 @@ g: a substance for packing a joint or coating a porous surface to make it imperv
 w: lutetium
 w: lutecium
 w: Lu
-w: atomic_number_71
+w: atomic_number_71"
 hyper: metallic_element
 g: a trivalent metallic element of the rare earth group; usually occurs in association with yttrium
 
@@ -8056,7 +8056,7 @@ g: a salt of magnesium
 
 w: magnesium
 w: Mg
-w: atomic_number_12
+w: atomic_number_12"
 hyper: metallic_element
 hs: carnallite
 hs: dolomite1
@@ -8131,7 +8131,7 @@ g: an oxide of manganese found naturally as hausmannite
 
 w: manganese
 w: Mn
-w: atomic_number_25
+w: atomic_number_25"
 hyper: metallic_element
 hs: hausmannite
 hs: manganite
@@ -8303,8 +8303,8 @@ g: a medium for oil-paints; linseed oil mixed with mastic varnish or turpentine
 
 w: meitnerium
 w: Mt
-w: element_109
-w: atomic_number_109
+w: element_109"
+w: atomic_number_109"
 hyper: chemical_element
 g: a radioactive transuranic element
 
@@ -8340,7 +8340,7 @@ g: melted snow or ice
 w: mendelevium
 w: Md
 w: Mv
-w: atomic_number_101
+w: atomic_number_101"
 hyper: chemical_element
 g: a radioactive transuranic element synthesized by bombarding einsteinium with alpha particles (Md is the current symbol for mendelevium but Mv was formerly the symbol)
 
@@ -8384,7 +8384,7 @@ w: mercury drf adj.pert:mercurial drf adj.pert:mercuric drf adj.pert:mercurous
 w: quicksilver
 w: hydrargyrum
 w: Hg
-w: atomic_number_80
+w: atomic_number_80"
 hyper: metallic_element
 hs: cinnabar
 hs: calomel
@@ -8614,7 +8614,7 @@ g: steel containing 10-15% molybdenum; properties are similar to tungsten steel
 
 w: molybdenum
 w: Mo
-w: atomic_number_42
+w: atomic_number_42"
 hyper: metallic_element
 hs: molybdenite
 g: a polyvalent metallic element that resembles chromium and tungsten in its properties; used to strengthen and harden steel
@@ -8908,7 +8908,7 @@ g: residue after oil is pressed from neem seeds
 
 w: neodymium
 w: Nd
-w: atomic_number_60
+w: atomic_number_60"
 hyper: metallic_element
 hs: monazite
 hs: bastnasite
@@ -8916,7 +8916,7 @@ g: a yellow trivalent metallic element of the rare earth group; occurs in monazi
 
 w: neon
 w: Ne
-w: atomic_number_10
+w: atomic_number_10"
 hyper: chemical_element
 hyper: noble_gas
 hs: air1
@@ -8947,7 +8947,7 @@ g: any toxin that affects the kidneys
 
 w: neptunium
 w: Np
-w: atomic_number_93
+w: atomic_number_93"
 hyper: metallic_element
 g: a radioactive transuranic metallic element; found in trace amounts in uranium ores; a by-product of the production of plutonium
 
@@ -9028,7 +9028,7 @@ g: an alloy steel containing nickel
 
 w: nickel drf verb.contact:nickel
 w: Ni
-w: atomic_number_28
+w: atomic_number_28"
 hyper: metallic_element
 hs: garnierite
 hs: millerite
@@ -9064,7 +9064,7 @@ g: a black mineral that is an ore of niobium and tantalum
 
 w: niobium
 w: Nb
-w: atomic_number_41
+w: atomic_number_41"
 hyper: metallic_element
 hs: niobite
 g: a soft grey ductile metallic element used in alloys; occurs in niobite; formerly called columbium
@@ -9143,7 +9143,7 @@ g: an enzyme of nitrogen-fixing microorganisms that catalyzes the conversion of 
 
 w: nitrogen drf adj.pert:nitrogenous drf verb.change:nitrogenize drf verb.change:nitrify1
 w: N
-w: atomic_number_7
+w: atomic_number_7"
 hyper: chemical_element
 hyper: gas1
 hs: air1
@@ -9169,7 +9169,7 @@ g: an unstable inorganic acid known only in solution and as nitrite salts
 
 w: nobelium
 w: No
-w: atomic_number_102
+w: atomic_number_102"
 hyper: chemical_element
 g: a radioactive transuranic element synthesized by bombarding curium with carbon ions; 7 isotopes are known
 
@@ -9471,7 +9471,7 @@ g: a hard and corrosion resistant mineral that is a natural alloy of osmium and 
 
 w: osmium
 w: Os
-w: atomic_number_76
+w: atomic_number_76"
 hyper: metallic_element
 g: a hard brittle blue-grey or blue-black metallic element that is one of the platinum metals; the heaviest metal known
 
@@ -9549,7 +9549,7 @@ g: an oxidoreductase that catalyzes the incorporation of molecular oxygen
 
 w: oxygen drf verb.change:oxygenate drf verb.change:oxygenize1 drf verb.change:oxygenize2
 w: O
-w: atomic_number_8
+w: atomic_number_8"
 hyper: chemical_element
 hyper: gas1
 hs: water2
@@ -9588,7 +9588,7 @@ g: freely flowing lava
 
 w: palladium
 w: Pd
-w: atomic_number_46
+w: atomic_number_46"
 hyper: metallic_element
 g: a silver-white metallic element of the platinum group that resembles platinum; occurs in some copper and nickel ores; does not tarnish at ordinary temperatures and is used (alloyed with gold) in jewelry
 
@@ -10038,7 +10038,7 @@ g: an acid used in fertilizers and soaps: H3PO4
 
 w: phosphorus drf adj.pert:phosphoric drf adj.pert:phosphorous
 w: P
-w: atomic_number_15
+w: atomic_number_15"
 hyper: chemical_element
 hs: apatite
 g: a multivalent nonmetallic element of the nitrogen family that occurs commonly in inorganic phosphate rocks and as organic phosphates in all living cells; is highly reactive and occurs in several allotropic forms
@@ -10240,7 +10240,7 @@ g: a fine black powder of platinum; used as a catalyst in chemical reactions
 
 w: platinum
 w: Pt
-w: atomic_number_78
+w: atomic_number_78"
 hyper: noble_metal
 g: a heavy precious metallic element; grey-white and resistant to corroding; occurs in some nickel and copper ores and is also found native in some deposits
 
@@ -10255,7 +10255,7 @@ g: a highly fissionable isotope of plutonium that is used in atomic weapons and 
 
 w: plutonium
 w: Pu
-w: atomic_number_94
+w: atomic_number_94"
 hyper: chemical_element
 g: a solid silvery grey radioactive transuranic element whose atoms can be split when bombarded with neutrons; found in minute quantities in uranium ores but is usually synthesized in nuclear reactors; 13 isotopes are known with the most important being plutonium 239
 
@@ -10292,7 +10292,7 @@ g: waste matter that contaminates the water or air or soil
 
 w: polonium
 w: Po
-w: atomic_number_84
+w: atomic_number_84"
 hyper: metallic_element
 g: a radioactive metallic element that is similar to tellurium and bismuth; occurs in uranium ores but can be produced by bombarding bismuth with neutrons in a nuclear reactor
 
@@ -10491,7 +10491,7 @@ g: a poisonous salt that forms dark purple crystals and is purple-red when disso
 
 w: potassium
 w: K
-w: atomic_number_19
+w: atomic_number_19"
 hyper: metallic_element
 hs: seawater
 hs: carnallite
@@ -10517,7 +10517,7 @@ g: a type of soil occurring under grasses in temperate climates
 
 w: praseodymium
 w: Pr
-w: atomic_number_59
+w: atomic_number_59"
 hyper: metallic_element
 hs: bastnasite
 hs: monazite
@@ -10625,7 +10625,7 @@ g: an amino acid that is found in many proteins (especially collagen)
 
 w: promethium
 w: Pm
-w: atomic_number_61
+w: atomic_number_61"
 hyper: metallic_element
 g: a soft silvery metallic element of the rare earth group having no stable isotope; was discovered in radioactive form as a fission product of uranium
 
@@ -10716,7 +10716,7 @@ g: a protein manufactured exclusively by the prostate gland; PSA is produced for
 w: protactinium
 w: protoactinium
 w: Pa
-w: atomic_number_91
+w: atomic_number_91"
 hyper: metallic_element
 g: a short-lived radioactive metallic element formed from uranium and disintegrating into actinium and then into lead
 
@@ -11011,14 +11011,14 @@ g: dye that does not allow the passage of X rays or other radiation; used to out
 
 w: radium
 w: Ra
-w: atomic_number_88
+w: atomic_number_88"
 hyper: metallic_element
 hs: uranium_ore
 g: an intensely radioactive metallic element that occurs in minute amounts in uranium ores
 
 w: radon
 w: Rn
-w: atomic_number_86
+w: atomic_number_86"
 hyper: chemical_element
 hyper: noble_gas
 g: a radioactive gaseous element formed by the disintegration of radium; the heaviest of the inert gasses; occurs naturally (especially in areas over granite) and is considered a hazard to health
@@ -11275,7 +11275,7 @@ g: rhesus factor antibody
 
 w: rhenium
 w: Re
-w: atomic_number_75
+w: atomic_number_75"
 hyper: metallic_element
 g: a rare heavy polyvalent metallic element that resembles manganese chemically and is used in some alloys; is obtained as a by-product in refining molybdenum
 
@@ -11295,7 +11295,7 @@ g: an imitation diamond made from rock crystal or glass or paste
 
 w: rhodium
 w: Rh1
-w: atomic_number_45
+w: atomic_number_45"
 hyper: metallic_element
 g: a white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum
 
@@ -11393,8 +11393,8 @@ g: material consisting of the aggregate of minerals like those making up the Ear
 
 w: roentgenium
 w: Rg
-w: element_111
-w: atomic_number_111
+w: element_111"
+w: atomic_number_111"
 hyper: chemical_element
 g: a radioactive transuranic element
 
@@ -11463,7 +11463,7 @@ g: a yellow or orange variety of ruby spinel
 
 w: rubidium
 w: Rb
-w: atomic_number_37
+w: atomic_number_37"
 hyper: metallic_element
 hs: carnallite
 hs: lepidolite
@@ -11499,7 +11499,7 @@ g: antioxidant that inhibits the formation of rust
 
 w: ruthenium
 w: Ru
-w: atomic_number_44
+w: atomic_number_44"
 hyper: metallic_element
 g: a rare polyvalent metallic element of the platinum group; it is found associated with platinum
 
@@ -11507,8 +11507,8 @@ w: rutherfordium
 w: Rf
 w: unnilquadium
 w: Unq
-w: element_104
-w: atomic_number_104
+w: element_104"
+w: atomic_number_104"
 hyper: chemical_element
 g: a radioactive transuranic element which has been synthesized
 
@@ -11572,7 +11572,7 @@ g: a compound formed by replacing hydrogen in an acid by a metal (or a radical t
 
 w: samarium
 w: Sm
-w: atomic_number_62
+w: atomic_number_62"
 hyper: metallic_element
 hs: bastnasite
 hs: monazite
@@ -11681,7 +11681,7 @@ g: partly refined paraffin wax
 
 w: scandium
 w: Sc
-w: atomic_number_21
+w: atomic_number_21"
 hyper: metallic_element
 hs: thortveitite
 g: a white trivalent metallic element; sometimes classified in the rare earth group; occurs in the Scandinavian mineral thortveitite
@@ -11732,8 +11732,8 @@ g: spray from ocean waves
 
 w: seaborgium
 w: Sg
-w: element_106
-w: atomic_number_106
+w: element_106"
+w: atomic_number_106"
 hyper: chemical_element
 g: a transuranic element
 
@@ -11794,7 +11794,7 @@ g: a strong acid (H2SeO4) analogous to sulfuric acid
 
 w: selenium
 w: Se
-w: atomic_number_34
+w: atomic_number_34"
 hyper: chemical_element
 hyper: antioxidant
 hs: pyrite
@@ -12000,7 +12000,7 @@ g: any of a large class of siloxanes that are unusually stable over a wide range
 
 w: silicon
 w: Si
-w: atomic_number_14
+w: atomic_number_14"
 hyper: chemical_element
 hyper: semiconductor
 hs: silicone
@@ -12052,7 +12052,7 @@ g: a solder that contains silver
 
 w: silver drf adjs.all:silvery2 drf verb.contact:silver
 w: Ag
-w: atomic_number_47
+w: atomic_number_47"
 hyper: noble_metal
 hyper: conductor
 hs: sterling_silver
@@ -12301,7 +12301,7 @@ g: a sodium salt of triphosphoric acid used as a builder in soaps and detergents
 
 w: sodium
 w: Na
-w: atomic_number_11
+w: atomic_number_11"
 hyper: metallic_element
 hs: seawater
 hs: halite
@@ -12725,7 +12725,7 @@ g: a radioactive isotope of strontium (with the mass number 90) that is present 
 
 w: strontium
 w: Sr
-w: atomic_number_38
+w: atomic_number_38"
 hyper: metallic_element
 hs: celestite
 hs: strontianite
@@ -12848,7 +12848,7 @@ g: any of several oxides of sulphur
 w: sulfur drf adj.pert:sulfuric drf adj.pert:sulfurous drf verb.change:sulfur
 w: S
 w: sulphur drf adj.pert:sulphuric drf adj.pert:sulphurous drf verb.change:sulphur
-w: atomic_number_16
+w: atomic_number_16"
 hyper: chemical_element
 hs: sulfide
 hs: vitriol
@@ -12959,7 +12959,7 @@ g: a mineral consisting of tantalum oxide of iron and manganese that occurs with
 
 w: tantalum
 w: Ta
-w: atomic_number_73
+w: atomic_number_73"
 hyper: metallic_element
 hs: fergusonite
 hs: niobite
@@ -12999,7 +12999,7 @@ g: a gas that makes the eyes fill with tears but does not damage them; used in d
 
 w: technetium
 w: Tc
-w: atomic_number_43
+w: atomic_number_43"
 hyper: metallic_element
 g: a crystalline metallic element not found in nature; occurs as one of the fission products of uranium
 
@@ -13018,7 +13018,7 @@ g: any binary compound of tellurium with other more electropositive elements
 
 w: tellurium drf adj.pert:telluric
 w: Te
-w: atomic_number_52
+w: atomic_number_52"
 hyper: chemical_element
 hs: telluride
 hs: sylvanite
@@ -13040,7 +13040,7 @@ g: a separate group of related lanthanides, including terbium, europium, gadolin
 
 w: terbium
 w: Tb
-w: atomic_number_65
+w: atomic_number_65"
 hyper: metallic_element
 hs: apatite
 hs: monazite
@@ -13113,7 +13113,7 @@ g: a yellow crystalline explosive solid that is used in detonators
 
 w: thallium
 w: Tl
-w: atomic_number_81
+w: atomic_number_81"
 hyper: metallic_element
 hs: zinc_blende
 g: a soft grey malleable metallic element that resembles tin but discolors on exposure to air; it is highly toxic and is used in rodent and insect poisons; occurs in zinc blende and some iron ores
@@ -13164,7 +13164,7 @@ g: radioactive isotope of thorium with mass number 228
 
 w: thorium drf verb.change:thoriate
 w: Th
-w: atomic_number_90
+w: atomic_number_90"
 hyper: metallic_element
 hs: monazite
 hs: thorite
@@ -13190,7 +13190,7 @@ g: an enzyme liberated from blood platelets that converts prothrombin into throm
 
 w: thulium
 w: Tm
-w: atomic_number_69
+w: atomic_number_69"
 hyper: metallic_element
 hs: apatite
 hs: monazite
@@ -13262,7 +13262,7 @@ g: a substances that colors metals
 
 w: tin drf adj.pert:tinny drf verb.change:tin1 drf verb.contact:tin
 w: Sn
-w: atomic_number_50
+w: atomic_number_50"
 hyper: metallic_element
 hs: cassiterite
 hs: noun.artifact:tinfoil
@@ -13287,7 +13287,7 @@ g: a white powder used as a pigment for its high covering power and durability
 
 w: titanium
 w: Ti
-w: atomic_number_22
+w: atomic_number_22"
 hyper: metallic_element
 hs: rutile
 hs: ilmenite
@@ -13640,7 +13640,7 @@ g: a very hard heat-resistant steel containing tungsten
 w: tungsten
 w: wolfram
 w: W
-w: atomic_number_74
+w: atomic_number_74"
 hyper: metallic_element
 hs: scheelite
 hs: wolframite
@@ -13733,36 +13733,36 @@ g: a fatty acid whose carbon chain can absorb additional hydrogen atoms
 
 w: ununbium
 w: Uub
-w: element_112
-w: atomic_number_112
+w: element_112"
+w: atomic_number_112"
 hyper: chemical_element
 g: a radioactive transuranic element
 
 w: ununhexium
 w: Uuh
-w: element_116
-w: atomic_number_116
+w: element_116"
+w: atomic_number_116"
 hyper: chemical_element
 g: a radioactive transuranic element
 
 w: ununpentium
 w: Uup
-w: element_115
-w: atomic_number_115
+w: element_115"
+w: atomic_number_115"
 hyper: chemical_element
 g: a radioactive transuranic element
 
 w: ununquadium
 w: Uuq
-w: element_114
-w: atomic_number_114
+w: element_114"
+w: atomic_number_114"
 hyper: chemical_element
 g: a radioactive transuranic element
 
 w: ununtrium
 w: Uut
-w: element_113
-w: atomic_number_113
+w: element_113"
+w: atomic_number_113"
 hyper: chemical_element
 g: a radioactive transuranic element
 
@@ -13791,7 +13791,7 @@ g: any ore from which uranium can be extracted
 
 w: uranium
 w: U1
-w: atomic_number_92
+w: atomic_number_92"
 hyper: metallic_element
 hs: uraninite
 g: a heavy toxic silvery-white radioactive metallic element; occurs in many isotopes; used for nuclear fuels and nuclear weapons
@@ -13887,7 +13887,7 @@ g: steel alloyed with vanadium for greater strength and high-temperature stabili
 
 w: vanadium
 w: V
-w: atomic_number_23
+w: atomic_number_23"
 hyper: metallic_element
 hs: carnotite
 hs: vanadinite
@@ -14415,7 +14415,7 @@ g: yellow carotenoid pigments in plants and animal fats and egg yolks
 
 w: xenon
 w: Xe
-w: atomic_number_54
+w: atomic_number_54"
 hyper: chemical_element
 hyper: noble_gas
 hs: air1
@@ -14452,7 +14452,7 @@ g: (cosmology) the original matter that (according to the big bang theory) exist
 
 w: ytterbium
 w: Yb
-w: atomic_number_70
+w: atomic_number_70"
 hyper: metallic_element
 hs: gadolinite
 hs: monazite
@@ -14461,7 +14461,7 @@ g: a soft silvery metallic element; a rare earth of the lanthanide series; it oc
 
 w: yttrium
 w: Y
-w: atomic_number_39
+w: atomic_number_39"
 hyper: metallic_element
 hs: gadolinite
 hs: fergusonite
@@ -14523,7 +14523,7 @@ g: a white pigment used in house paints; consists of zinc oxide
 
 w: zinc
 w: Zn
-w: atomic_number_30
+w: atomic_number_30"
 hyper: metallic_element
 g: a bluish-white lustrous metallic element; brittle at ordinary temperatures but malleable when heated; used in a wide variety of alloys and in galvanizing iron; it occurs naturally as zinc sulphide in zinc blende
 
@@ -14543,7 +14543,7 @@ g: a white crystalline oxide; used in refractories and in insulation and abrasiv
 
 w: zirconium
 w: Zr
-w: atomic_number_40
+w: atomic_number_40"
 hyper: metallic_element
 hs: baddeleyite
 hs: zircon
