@@ -1,4 +1,3 @@
-
 (in-package #:wordnet-dsl)
 
 (defparameter *comment-char* #\;)
@@ -68,14 +67,11 @@
 (defparameter *pointers-ids* (loop for p in *pointers*
 				   append (mapcar #'cadr (cdr p))))
 
-
-
 (defun read-wn (path-with-wildcard)
   (let ((idx (make-hash-table :test #'equal)))
     (dolist (fn (directory path-with-wildcard) idx)
       (dolist (ss (read-synsets fn))
 	(index-synset ss idx)))))
-
 
 (defun index-synset (synset idx)
   "For each synset. A sense is a cons (sense-id, word) and a pointer
@@ -97,7 +93,6 @@
 	     (cons synset (cdr (gethash (car sense) idx)))))
       (t (error "Invalid duplication ~a" synset)))))
 
-
 (defun merge-lines (lines &optional (res nil))
   (labels ((++ (s1 s2)
 	     (concatenate 'string s1 s2)))
@@ -110,7 +105,6 @@
        (merge-lines (cdr lines) (cons (++ (car res) (car lines)) (cdr res))))
       (t 
        (merge-lines (cdr lines) (cons (car lines) res))))))
-
 
 (defun read-synsets (filename)
   (with-open-file (stream filename)
@@ -141,7 +135,6 @@
        (if lines
 	   (push (make-synset filename begining (reverse lines)) synsets))
        (return synsets)))))
-
 
 (defun word-key (filename word)
   (if (position #\: word)
@@ -188,15 +181,12 @@
 				    (word-key fn target))
 			      (synset-pointers ss))))))))))
 
-
-
 (defun add-properties (syn pattern slot)
   (mapcar (lambda (l)
 	    (if (cl-ppcre:scan pattern l)
 		(push (subseq l 2) (slot-value syn slot))))
 	  (synset-lines syn))
   syn)
-
 
 (defun add (line syn)
   (let ((infos (cl-ppcre:split "\\s+" line)))
@@ -217,7 +207,6 @@
    (if (cl-ppcre:scan "[_a-z]*[a-z][1-9]$" word)
        (aref (nth 1 (multiple-value-list (cl-ppcre:scan-to-strings  "(.*)[1-9]$" word))) 0)
        word))
-    
 
 (defun add-w-rest (sense infos)
   (if (null infos)
@@ -269,7 +258,6 @@
 (defun format-link (string)
   (substitute #\> #\] (substitute #\< #\[ string )))
 
-
 ;; testing and utilities
 
 (defmacro with-open-files (args &body body)
@@ -282,9 +270,8 @@
 	  (with-open-files
 	      ,(rest args) ,@body)))))
 
-
-(defun test ()
-  (let ((idx (read-wn #P"/Users/arademaker/work/wordnet-dsl/dict/*.txt")))
+(defun read-test ()
+  (let ((idx (read-wn #P"../dict/*.txt")))
     (maphash (lambda (k v)
 	       (if (null (car v))
 		   (error "invalid entry ~a ~a" k v)))
@@ -305,7 +292,6 @@
 	    (push (car sense)
 		  (gethash (cdr sense) dict))
 	    (setf (gethash (cdr sense) dict) (list (car sense))))))))
-
 
 ;; converting to ukb
 
