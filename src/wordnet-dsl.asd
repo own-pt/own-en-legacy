@@ -4,10 +4,10 @@
   :author "Alexandre Rademaker <alexrad@br.ibm.com> and Fabricio Chalub <fchalub@br.ibm.com>"
   :license "CC-BY"
   :serial t
-  :depends-on (#:cl-ppcre #:alexandria)
+  :depends-on (#:cl-ppcre #:alexandria #:wilbur #:split-sequence)
   :components ((:file "package")
                (:file "data")
 	       (:file "read")
 	       (:file "link")
-	       (:file "txt-to-rdf")))
+	       (:file "export")))
 
