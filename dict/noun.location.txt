@@ -15333,6 +15333,25 @@ g: one of several parallel layers of material arranged one on top of
  another (such as a layer of tissue or cells in an organism or a layer
  of sedimentary rock)
 
+w: member
+w: Mb
+hyper: stratum
+hp: noun.object:geological_formation
+dt: noun.cognition:geology
+g: A member is a named lithologically distinct part of a formation.
+
+w: supergroup
+hyper: stratum
+dt: noun.cognition:geology
+g: A supergroup is a set of two or more associated groups and/or
+ formations that share certain lithological characteristics.
+
+w: group
+w: Gp
+hyper: stratum
+dt: noun.cognition:geology
+g: A group is a set of two or more formations that share certain lithological characteristics.
+
 w: street_address
 hyper: address
 g: the address where a person or organization can be found
