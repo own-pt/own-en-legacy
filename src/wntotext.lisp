@@ -123,6 +123,9 @@
 (defparameter *synsets* nil)
 (defparameter *org-mode* nil)
 
+;; from https://wordnet.princeton.edu/man/wninput.5WN.html
+;; (search for "Many pointer types are reflexive...")
+;;
 ;; Antonym	Antonym
 ;; Hyponym	Hypernym
 ;; Hypernym	Hyponym
