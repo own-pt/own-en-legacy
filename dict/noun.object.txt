@@ -782,9 +782,10 @@ hp: Arctic_Ocean
 g: part of the Arctic Ocean to the northeast of Alaska
 
 w: bed
-hyper: noun.location:stratum
-dt: noun.cognition:geology
-g: (geology) a stratum of rock (especially sedimentary rock); "they found a bed of sandstone"
+hyper: noun.location:lithostratigraphic_unit
+dt: noun.cognition:lithostratigraphy
+g: (geology) a stratum of rock (especially sedimentary rock)
+e: they found a bed of sandstone
 
 w: bed1
 w: bottom1
@@ -803,6 +804,18 @@ g: a structure that provides a natural habitation for bees; as in a hollow tree
 w: belay drf verb.contact:belay drf verb.contact:belay1
 hyper: outcrop
 g: something to which a mountain climber's rope can be secured
+
+w: petroleum_system
+g: Geologic components and processes necessary to generate and store
+ hydrocarbons.
+hyper: noun.Tops:group
+
+w: trap
+w: stratigraphic_trap
+w: structural_trap
+dt: noun.cognition:geology
+hyper: noun.location:part
+g: A configuration of rocks suitable for containing hydrocarbons.
 
 w: ben
 hyper: mountain

@@ -5588,7 +5588,12 @@ g: the domain controlled by a feudal lord
 
 w: field
 hyper: geographical_area
-g: a geographic region (land or sea) under which something valuable is found; "the diamond fields of South Africa"
+g: a geographic region (land or sea) under which something valuable is
+ found
+e: the diamond fields of South Africa
+
+w: Dickenson
+ihypo: field
 
 w: field2
 hyper: tract
@@ -15333,24 +15338,47 @@ g: one of several parallel layers of material arranged one on top of
  another (such as a layer of tissue or cells in an organism or a layer
  of sedimentary rock)
 
+w: lithostratigraphic_unit
+hyper: part
+dt: noun.cognition:lithostratigraphy
+g: Sequences of sedimentary and volcanic rocks are subdivided on the basis of their lithology.
+
 w: member
 w: Mb
-hyper: stratum
-hp: noun.object:geological_formation
-dt: noun.cognition:geology
+hyper: lithostratigraphic_unit
+hp: formation
+dt: noun.cognition:lithostratigraphy
 g: A member is a named lithologically distinct part of a formation.
 
+w: Big_Lime
+ihypo: member
+
+w: Greenbrier
+ihypo: group
+
+w: Pocono
+w: Price
+ihypo: formation
+
+w: formation
+w: Fm
+hyper: lithostratigraphic_unit
+dt: noun.cognition:lithostratigraphy
+g: The fundamental unit of lithostratigraphy. A body of rock that is
+  sufficiently distinctive and continuous that it can be mapped.
+  
 w: supergroup
-hyper: stratum
-dt: noun.cognition:geology
+hyper: lithostratigraphic_unit
+dt: noun.cognition:lithostratigraphy
 g: A supergroup is a set of two or more associated groups and/or
  formations that share certain lithological characteristics.
 
 w: group
 w: Gp
-hyper: stratum
-dt: noun.cognition:geology
-g: A group is a set of two or more formations that share certain lithological characteristics.
+hyper: lithostratigraphic_unit
+dt: noun.cognition:lithostratigraphy
+g: A group is a set of two or more formations that share certain
+ lithological characteristics.
 
 w: street_address
 hyper: address

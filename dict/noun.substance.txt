@@ -7730,6 +7730,10 @@ hyper: rock
 hyper: sedimentary_rock
 g: a sedimentary rock consisting mainly of calcium that was deposited by the remains of marine animals
 
+w: oolite
+hyper: limestone
+g: Oolite is a sedimentary rock formed from ooids, spherical grains composed of concentric layers.
+
 w: limewater
 hyper: water2
 hs: noun.artifact:blackwash

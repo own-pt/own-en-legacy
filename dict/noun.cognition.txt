@@ -12538,6 +12538,10 @@ w: stratigraphy
 hyper: geology
 g: the branch of geology that studies the arrangement and succession of strata
 
+w: lithostratigraphy
+hyper: stratigraphy
+g: The study and correlation of strata on the basis of their lithology.
+
 w: straw_vote
 w: straw_poll
 hyper: poll
