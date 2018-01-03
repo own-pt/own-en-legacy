@@ -11773,7 +11773,10 @@ g: a dicarboxylic acid used to make resins
 
 w: secretase
 hyper: enzyme
-g: a set of enzymes believed to snip pieces off a longer protein producing fragments of amyloid protein that bunch up and create amyloid protein plaques in brain tissue (the pathological hallmark of Alzheimer's)
+g: a set of enzymes believed to snip pieces off a longer protein
+ producing fragments of amyloid protein that bunch up and create
+ amyloid protein plaques in brain tissue (the pathological hallmark of
+ Alzheimer's)
 
 w: sedimentary_clay
 hyper: soil
@@ -11781,7 +11784,7 @@ g: clay soil formed by sedimentary deposits
 
 w: sedimentary_rock
 hyper: rock
-g: rock formed from consolidated clay sediments
+g: rock formed from consolidated sediments
 
 w: grainstone
 hyper: sedimentary_rock
