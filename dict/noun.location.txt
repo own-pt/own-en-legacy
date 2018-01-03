@@ -5593,7 +5593,7 @@ g: a geographic region (land or sea) under which something valuable is
 e: the diamond fields of South Africa
 
 w: Dickenson
-ihypo: field
+ihyper: field
 
 w: field2
 hyper: tract
@@ -15351,14 +15351,14 @@ dt: noun.cognition:lithostratigraphy
 g: A member is a named lithologically distinct part of a formation.
 
 w: Big_Lime
-ihypo: member
+ihyper: member
 
 w: Greenbrier
-ihypo: group
+ihyper: group
 
 w: Pocono
 w: Price
-ihypo: formation
+ihyper: formation
 
 w: formation
 w: Fm
