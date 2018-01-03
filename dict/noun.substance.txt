@@ -11783,6 +11783,12 @@ w: sedimentary_rock
 hyper: rock
 g: rock formed from consolidated clay sediments
 
+w: grainstone
+hyper: sedimentary_rock
+g: Under the Dunham classification system of limestones, it is defined
+ as a grain-supported carbonate rock that contains less than 1%
+ mud-grade material.
+
 w: seed_lac
 hyper: lac
 g: granular material obtained from stick lac by crushing and washing
