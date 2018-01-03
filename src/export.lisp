@@ -52,11 +52,23 @@
 (defun make-synset-iri (synset-id)
   (node (format nil "https://br.ibm.com/tkb/own-en/instances/synset-~a" (escape-iri synset-id))))
 
+(defun make-wordsense-iri (wordsense-id)
+  (node (format nil "https://br.ibm.com/tkb/own-en/instances/wordsense-~a" (escape-iri wordsense-id))))
+
+(defun make-word-iri (word)
+  (node (format nil "https://br.ibm.com/tkb/own-en/instances/word-~a" (sxhash (concatenate 'string word (string-downcase word))))))
+
 (defun make-synset-type (synset)
   (cdr (assoc (first (split-sequence #\. (synset-file synset))) *pos-types* :test #'equal)))
 
 (defun make-pointer (pointer)
   (cdr (assoc pointer *pointers* :test #'equal)))
+
+(defun synset-semantic-pointers (synset)
+  (remove-if-not (lambda (x) (equal 0 x)) (synset-pointers synset) :key #'car))
+
+(defun synset-lexical-pointers (synset)
+  (remove-if (lambda (x) (equal 0 x)) (synset-pointers synset) :key #'car))
 
 (defun export-synset (synset-id synset)
   (let ((synset-iri (make-synset-iri synset-id))
@@ -64,10 +76,40 @@
     (wilbur:add-triple (wilbur:triple synset-iri !rdf:type synset-type))
     (wilbur:add-triple (wilbur:triple synset-iri !schema:lexicographerFile (literal (synset-file synset))))
     (wilbur:add-triple (wilbur:triple synset-iri !schema:synsetId (literal synset-id)))
+    (add-wordsenses-triples synset-iri (synset-senses synset))
     (when (synset-gloss synset)
       (wilbur:add-triple (wilbur:triple synset-iri !schema:gloss (literal (synset-gloss synset)))))
-    (dolist (p (remove-if-not (lambda (x) (equal 0 x)) (synset-pointers synset) :key #'car))
+    (dolist (p (synset-lexical-pointers synset))
+      (unless (make-pointer (second p))
+        (format t "Unknown lexical pointer: ~a~%" (second p)))
+      (wilbur:add-triple (wilbur:triple (make-wordsense-iri (first p))
+                                        (make-pointer (second p))
+                                        (make-wordsense-iri (third p)))))
+    (dolist (p (synset-semantic-pointers synset))
+      (unless (make-pointer (second p))
+        (format t "Unknown semantic pointer: ~a~%" (second p)))
       (wilbur:add-triple (wilbur:triple synset-iri (make-pointer (second p)) (make-synset-iri (third p)))))))
+
+(defun add-wordsenses-triples (synset-iri senses)
+  (dolist (s senses)
+    (add-wordsense-triples synset-iri s)))
+
+(defun add-wordsense-triples (synset-iri sense)
+  (let ((word-iri (make-word-iri (cdr sense)))
+        (wordsense-iri (make-wordsense-iri (car sense))))
+    (wilbur:add-triple (wilbur:triple synset-iri !schema:containsWordSense wordsense-iri))
+    (wilbur:add-triple (wilbur:triple wordsense-iri !rdf:type !schema:WordSense))
+    (wilbur:add-triple (wilbur:triple wordsense-iri !schema:word word-iri))
+    (wilbur:add-triple (wilbur:triple wordsense-iri !schema:senseKey (literal (car sense))))
+    (wilbur:add-triple (wilbur:triple word-iri !rdf:type !schema:Word))
+    (wilbur:add-triple (wilbur:triple word-iri !schema:lexicalForm (literal (cdr sense))))
+    (wilbur:add-triple (wilbur:triple word-iri !schema:lemma (literal (string-downcase (cdr sense)))))))
+
+;; synset -> schema:containsWordSense WS
+;; WS a schema:WordSense
+;; WS schema:word W
+;; W a schema:Word
+;; W wn30:lexicalForm/wn30:lemma W
 
 (defun default-sense (synset)
   (caar (reverse (synset-senses synset))))
