@@ -9417,6 +9417,12 @@ g: of or relating to or being the time before the beginning of the Christian era
 w: pre-Columbian pe Columbian
 g: of or relating to or originating in the Americas before the arrival of Columbus
 
+w: Devonian pe noun.time:Devonian
+g: of or relating to or denoting the Devonian period.
+
+w: Permian pe noun.time:Permian
+g: of or relating to or denoting the Permian period.
+
 w: pre-Jurassic pe noun.time:Jurassic
 g: of or relating to or denoting the time before the Jurassic period
 
