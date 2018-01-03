@@ -5420,6 +5420,9 @@ g: pertaining to geological structure; "geomorphological features of the Black H
 w: geophysical drf noun.cognition:geophysics pe noun.cognition:geophysics
 g: of or concerned with geophysics; "geophysical sciences"
 
+w: petrophysical drf noun.cognition:petrophysics pe noun.cognition:petrophysics
+g: of or concerned with petrophysics
+
 w: geophytic drf noun.plant:geophyte pe noun.plant:geophyte
 g: of or relating to geophytes
 

@@ -5178,6 +5178,10 @@ hyper: pure_mathematics
 dt: mathematics
 g: the pure mathematics of points and lines and curves and surfaces
 
+w: petrophysics
+hyper: earth_science
+g: it is the study of physical and chemical rock properties and their interactions with fluids
+
 w: geophysics drf adj.pert:geophysical drf noun.person:geophysicist
 w: geophysical_science
 hyper: geology
