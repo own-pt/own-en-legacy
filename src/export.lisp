@@ -50,7 +50,7 @@
   (substitute #\_ #\" (substitute #\- #\: str)))
 
 (defun make-synset-iri (synset-id)
-  (node (format nil "https://br.ibm.com/tkb/own-en/instances/synset/~a" (escape-iri synset-id))))
+  (node (format nil "https://br.ibm.com/tkb/own-en/instances/synset-~a" (escape-iri synset-id))))
 
 (defun make-synset-type (synset)
   (cdr (assoc (first (split-sequence #\. (synset-file synset))) *pos-types* :test #'equal)))
@@ -63,6 +63,7 @@
         (synset-type (make-synset-type synset)))
     (wilbur:add-triple (wilbur:triple synset-iri !rdf:type synset-type))
     (wilbur:add-triple (wilbur:triple synset-iri !schema:lexicographerFile (literal (synset-file synset))))
+    (wilbur:add-triple (wilbur:triple synset-iri !schema:synsetId (literal synset-id)))
     (when (synset-gloss synset)
       (wilbur:add-triple (wilbur:triple synset-iri !schema:gloss (literal (synset-gloss synset)))))
     (dolist (p (remove-if-not (lambda (x) (equal 0 x)) (synset-pointers synset) :key #'car))
