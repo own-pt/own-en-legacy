@@ -115,3 +115,29 @@ w: giga_annum
 w: Ga
 hyper: noun.time:time_period
 g: a unit of time equal to one billion years.
+
+w: anhydrite
+hyper: mineral
+g: a anhydrous calcium sulfate mineral
+
+w: arenite
+hyper: sedimentary_rock
+g: a sedimentary clastic rock with sand grain size between 0.0625 mm and 2 mm
+
+w: argilite
+hyper: sedimentary_rock
+g: a fine-grained sedimentary rock composed predominantly of indurated
+ clay particles
+
+w: arkose
+hyper: sedimentary_rock
+g: a detrital sedimentary rock, specifically a type of sandstone
+ containing at least 25% feldspar
+
+w: coquina
+hyper: sedimentary_rock
+g: a sedimentary rock that is composed either wholly or almost
+ entirely of the transported, abraded, and mechanically-sorted
+ fragments of the shells of molluscs, trilobites, brachiopods, or other
+ invertebrates
+
