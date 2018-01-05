@@ -1,7 +1,7 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 @prefix gts: <http://resource.geosciml.org/ontology/timescale/rank/> .
 @prefix isc: <http://resource.geosciml.org/classifier/ics/ischart/> .
-@prefix wn30en: <https://w3id.org/own-pt/wn30-en/instances/> .
+@prefix wn30en: <https://br.ibm.com/tkb/own-en/instances/> .
 
 isc:Aalenian skos:relatedMatch wn30en:synset-noun.geosci-Aalenian .
 
