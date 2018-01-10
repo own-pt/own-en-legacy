@@ -140,3 +140,8 @@ g: a sedimentary rock that is composed either wholly or almost
  fragments of the shells of molluscs, trilobites, brachiopods, or other
  invertebrates
 
+w: salt_diapir
+hyper: noun.object:diapir
+g: a type of structural dome formed when a thick bed of evaporite
+ minerals found at depth intrudes vertically into surrounding rock
+ strata, forming a diapir
