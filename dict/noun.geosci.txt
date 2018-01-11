@@ -151,3 +151,9 @@ w: darcy
 w: darcy unit
 hyper: noun.quantity:unit_of_measurement
 g: it is a unit of permeability, named after Henry Darcy.
+
+w: salt_diapir
+hyper: noun.object:diapir
+g: a type of structural dome formed when a thick bed of evaporite
+ minerals found at depth intrudes vertically into surrounding rock
+ strata, forming a diapir.
