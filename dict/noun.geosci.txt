@@ -140,3 +140,14 @@ g: a sedimentary rock that is composed either wholly or almost
  fragments of the shells of molluscs, trilobites, brachiopods, or other
  invertebrates
 
+w: md
+w: mD
+w: millidarcy
+hyper: noun.quantity:unit_of_measurement
+hp: darcy
+g: it is a unit of permeability, named after Henry Darcy.
+
+w: darcy
+w: darcy unit
+hyper: noun.quantity:unit_of_measurement
+g: it is a unit of permeability, named after Henry Darcy.
