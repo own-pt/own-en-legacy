@@ -148,7 +148,7 @@ hp: darcy
 g: it is a unit of permeability, named after Henry Darcy.
 
 w: darcy
-w: darcy unit
+w: darcy_unit
 hyper: noun.quantity:unit_of_measurement
 g: it is a unit of permeability, named after Henry Darcy.
 
