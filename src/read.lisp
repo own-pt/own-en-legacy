@@ -91,7 +91,7 @@
       ((null (car (gethash (car sense) idx)))
        (setf (gethash (car sense) idx)
 	     (cons synset (cdr (gethash (car sense) idx)))))
-      (t (error "Invalid duplication ~a" synset)))))
+      (t (error "Invalid duplication ~a / ~a" synset (synset-senses synset))))))
 
 (defun merge-lines (lines &optional (res nil))
   (labels ((++ (s1 s2)
