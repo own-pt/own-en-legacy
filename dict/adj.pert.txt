@@ -12325,3 +12325,44 @@ w: zymotic drf noun.process:zymosis pe noun.process:zymosis
 w: zymolytic drf noun.process:zymolysis pe noun.process:zymosis
 g: of or relating to or causing fermentation
 
+w: Pennsylvanian pe noun.time:Pennsylvanian
+g: of or relating to or denoting the Pennsylvanian period
+
+w: Mississippian pe noun.time:Mississippian
+g: of or relating to or denoting the Mississippian period
+
+w: Cambrian1 pe noun.time:Cambrian
+g: of or relating to or denoting the Cambrian period
+
+w: Aptian pe noun.geotime:Aptian
+g: of or relating to or denoting the Aptian age
+
+w: Neogene pe noun.geotime:Neogene
+g: of or relating to or denoting the Neogene period
+
+w: Cenomanian pe noun.geotime:Cenomanian
+g: of or relating to or denoting the Cenomanian age
+
+w: Tertiary pe noun.time:Tertiary
+g: of or relating to or denoting the Tertiary period
+
+w: Quaternary pe noun.time:Quaternary
+g: of or relating to or denoting the Quaternary period
+
+w: Danian pe noun.geotime:Danian
+g: of or relating to or denoting the Danian age
+
+w: Albian pe noun.geotime:Albian
+g: of or relating to or denoting the Albian age
+
+w: Paleogene pe noun.geotime:Paleogene
+g: of or relating to or denoting the Paleogene period
+
+w: Turonian pe noun.geotime:Turonian
+g: of or relating to or denoting the Turonian age
+
+w: Maastrichtian pe noun.geotime:Maastrichtian
+g: of or relating to or denoting the Maastrichtian age
+
+w: Kimmeridgian pe noun.geotime:Kimmeridgian
+g: of or relating to or denoting the Kimmeridgian age
