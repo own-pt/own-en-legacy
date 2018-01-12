@@ -372,3 +372,17 @@ gts:Era skos:relatedMatch wn30en:synset-noun.noun.geosci-era .
 
 gts:Period skos:relatedMatch wn30en:synset-noun.time-period2 .
 
+isc:Pennsylvanian skos:relatedMatch wn30en:synset-adj.pert-Pennsylvanian .
+isc:Mississippian skos:relatedMatch wn30en:synset-adj.pert-Mississippian .
+isc:Cambrian skos:relatedMatch wn30en:synset-adj.pert-Cambrian1 .
+isc:Aptian skos:relatedMatch wn30en:synset-adj.pert-Aptian .
+isc:Neogene skos:relatedMatch wn30en:synset-adj.pert-Neogene .
+isc:Cenomanian skos:relatedMatch wn30en:synset-adj.pert-Cenomanian .
+isc:Tertiary skos:relatedMatch wn30en:synset-adj.pert-Tertiary .
+isc:Quaternary skos:relatedMatch wn30en:synset-adj.pert-Quaternary .
+isc:Danian skos:relatedMatch wn30en:synset-adj.pert-Danian .
+isc:Albian skos:relatedMatch wn30en:synset-adj.pert-Albian .
+isc:Paleogene skos:relatedMatch wn30en:synset-adj.pert-Paleogene .
+isc:Turonian skos:relatedMatch wn30en:synset-adj.pert-Turonian .
+isc:Maastrichtian skos:relatedMatch wn30en:synset-adj.pert-Maastrichtian .
+isc:Kimmeridgian skos:relatedMatch wn30en:synset-adj.pert-Kimmeridgian .
