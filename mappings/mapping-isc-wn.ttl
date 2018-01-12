@@ -201,4 +201,4 @@ isc:Wordian skos:relatedMatch wn30en:synset-noun.geosci-Wordian .
 isc:Wuchiapingian skos:relatedMatch wn30en:synset-noun.geosci-Wuchiapingian .
 isc:Ypresian skos:relatedMatch wn30en:synset-noun.geosci-Ypresian .
 isc:Zanclean skos:relatedMatch wn30en:synset-noun.geosci-Zanclean .
-iscTriassic skos:relatedMatch wn30en:synset-adj.pert-Triassic .
+isc:Triassic skos:relatedMatch wn30en:synset-adj.pert-Triassic .
