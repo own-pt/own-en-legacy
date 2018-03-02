@@ -157,3 +157,29 @@ hyper: noun.object:diapir
 g: a type of structural dome formed when a thick bed of evaporite
  minerals found at depth intrudes vertically into surrounding rock
  strata, forming a diapir.
+
+; https://en.wikipedia.org/wiki/Petroleum_geology
+; TODO: links!
+; w: reservoir
+; g: is a porous and permeable lithological unit or set of units that
+;  holds the hydrocarbon reserves. Analysis of reservoirs at the
+;  simplest level requires an assessment of their porosity (to calculate
+;  the volume of in situ hydrocarbons) and their permeability (to
+;  calculate how easily hydrocarbons will flow out of them). Some of the
+;  key disciplines used in reservoir analysis are the fields of
+;  structural analysis, stratigraphy, sedimentology, and reservoir
+;  engineering.
+
+; w: seal
+; w: cap_rock
+; g: is a unit with low permeability that impedes the escape of
+;  hydrocarbons from the reservoir rock. Common seals include
+;  evaporites, chalks and shales. Analysis of seals involves assessment
+;  of their thickness and extent, such that their effectiveness can be
+;  quantified.
+
+; w: trap
+; g: is the stratigraphic or structural feature that ensures the
+;  juxtaposition of reservoir and seal such that hydrocarbons remain
+;  trapped in the subsurface, rather than escaping (due to their natural
+;  buoyancy) and being lost.
