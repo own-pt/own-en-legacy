@@ -183,3 +183,8 @@ g: a type of structural dome formed when a thick bed of evaporite
 ;  juxtaposition of reservoir and seal such that hydrocarbons remain
 ;  trapped in the subsurface, rather than escaping (due to their natural
 ;  buoyancy) and being lost.
+
+w: block
+w: license_block
+hyper: noun.location:region1
+g: geographically defined area for the purpose of prospecting, exploration and mining or extraction of natural resources.
