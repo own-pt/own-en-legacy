@@ -1,3 +1,3 @@
 (ql:quickload :wordnet-dsl)
 (in-package :wordnet-dsl)
-(export-rdf "out.rdf")
+(export-rdf "out.nt")

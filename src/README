@@ -1,2 +1,2 @@
-See make-dist.lisp to generate the RDF version of the files in ../dict/.
+See do-export.lisp to generate the RDF version of the files in ../dict/.
 
