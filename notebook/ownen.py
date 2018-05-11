@@ -15,7 +15,7 @@ select ?p { ?p rdfs:domain schema:Synset . }
 
 class OwnEn:
     
-    def __init__(self,endpoint = 'http://localhost:8000/sparql'):
+    def __init__(self,endpoint = 'http://localhost/sparql'):
         self.endpoint = endpoint
         self.namespaceManager = NamespaceManager(Graph())
         self.namespaceManager.bind('schema', Namespace('https://br.ibm.com/tkb/own-en/schema/'), override=False)
@@ -54,6 +54,23 @@ class OwnEn:
         """
         return self.query_synsets(regexSearchLemmas.format(s))
 
+    def relation_query(self, rel, s):
+        relationSearch = """
+        prefix schema: <https://br.ibm.com/tkb/own-en/schema/>
+        prefix inst: <https://br.ibm.com/tkb/own-en/instances/>
+        
+        select ?s
+        {{
+          ?s {} {}  .
+        }}
+        """
+        return self.query_synsets(relationSearch.format(rel, s))
+
+    def hypernym(self, s):
+        return self.relation_query('schema:hypernymOf', s)
+
+    def hyponym(self, s):
+        return self.relation_query('schema:hyponymOf', s)
 
 if __name__ == "__main__":
     t = OwnEn()
