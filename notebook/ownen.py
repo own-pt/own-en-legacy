@@ -6,13 +6,6 @@ from rdflib import Graph
 from rdflib.namespace import Namespace, NamespaceManager
 from rdflib.term import URIRef
 
-synsetProperties = """
-prefix schema: <https://br.ibm.com/tkb/own-en/schema/>
-
-select ?p { ?p rdfs:domain schema:Synset . }
-"""
-
-
 class OwnEn:
     
     def __init__(self,endpoint = 'http://localhost/sparql'):
