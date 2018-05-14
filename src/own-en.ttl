@@ -490,19 +490,17 @@ schema:instanceOf
     rdfs:range schema:Synset ;
     owl:inverseOf schema:hasInstance .
 
-schema:hypernymOf
+schema:hypernymOf    #   https://github.com/own-pt/own-en/issues/31
     a rdf:Property ; # , owl:TransitiveProperty ;
     rdfs:label "hypernym of" ;
-#   https://github.com/own-pt/own-en/issues/31
     a owl:AntisymmetricProperty, owl:IrreflexiveProperty ;
     rdfs:domain schema:Synset ;
     rdfs:range schema:Synset ;
     owl:inverseOf schema:hyponymOf .
 
-schema:hyponymOf
+schema:hyponymOf    #   https://github.com/own-pt/own-en/issues/31    
     a rdf:Property; # , owl:TransitiveProperty ;
     rdfs:label "hyponym of" ;
-#   https://github.com/own-pt/own-en/issues/31    
    a owl:AntisymmetricProperty, owl:IrreflexiveProperty ;
     rdfs:domain schema:Synset ;
     rdfs:range schema:Synset ;
