@@ -2,6 +2,7 @@
 
 import sys
 import json, requests
+import itertools
 from rdflib import Graph
 from rdflib.namespace import Namespace, NamespaceManager
 from rdflib.term import URIRef
@@ -69,24 +70,47 @@ class OwnEn:
     def show(self, s):
         query = """prefix inst: <https://br.ibm.com/tkb/own-en/instances/> 
         prefix schema: <https://br.ibm.com/tkb/own-en/schema/>
-        select ?l (group_concat(?o) as ?go)
+        select ?l ?o (sample(?w_) as ?w)
         {{
             {} ?p ?o .
             ?o a schema:Synset .
+            ?o schema:containsWordSense/schema:word/schema:lemma ?w_ .
             ?p rdfs:label ?l .
             filter (?p != rdf:type) .
         }}
-        group by ?l
-        order by ?l"""
+        group by ?l ?o
+        order by ?l
+        """
         
         response = requests.post(self.endpoint,
                                  headers = {'Accept': 'application/sparql-results+json'},
                                  data = {'query': query.format(s)})
 
-        values = [(x['l']['value'],x['go']['value']) for x in response.json()['results']['bindings']]
+        values = [(x['l']['value'],x['w']['value']) for x in response.json()['results']['bindings']]
         result = ""
-        for v in values:
-            result += "- **{}**: {}\n".format(v[0]," ".join([self.namespaceManager.qname(URIRef(x)) for x in v[1].split()]))
+        for key, group in itertools.groupby(values, lambda x: x[0]):
+            result += "- **{}**: {}\n".format(key, ", ".join([x[1] for x in group]))
+
+        query = """prefix inst: <https://br.ibm.com/tkb/own-en/instances/> 
+        prefix schema: <https://br.ibm.com/tkb/own-en/schema/>
+        select ?l ?o
+        {{
+            {} ?p ?o .
+            filter not exists {{ ?o a schema:Synset .}}
+            ?p rdfs:label ?l .
+            filter (?p != rdf:type) .
+        }}
+        order by ?l
+        """
+        
+        response = requests.post(self.endpoint,
+                                 headers = {'Accept': 'application/sparql-results+json'},
+                                 data = {'query': query.format(s)})
+
+        values = [(x['l']['value'],x['o']['value']) for x in response.json()['results']['bindings']]
+
+        for l, o in values:
+            result += "- **{}**: {}\n".format(l, o)
 
         return Markdown(result)
     
