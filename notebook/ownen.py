@@ -9,7 +9,7 @@ from IPython.core.display import HTML, Markdown
 
 class OwnEn:
     
-    def __init__(self,endpoint = 'http://localhost/own-en/'):
+    def __init__(self,endpoint = 'http://localhost/sparql'):
         self.endpoint = endpoint
         self.namespaceManager = NamespaceManager(Graph())
         self.namespaceManager.bind('schema', Namespace('https://br.ibm.com/tkb/own-en/schema/'), override=False)
@@ -86,8 +86,7 @@ class OwnEn:
         values = [(x['l']['value'],x['go']['value']) for x in response.json()['results']['bindings']]
         result = ""
         for v in values:
-            
-            result += "- {}: {}\n".format(v[0]," ".join([self.namespaceManager.qname(URIRef(x)) for x in v[1].split()]))
+            result += "- **{}**: {}\n".format(v[0]," ".join([self.namespaceManager.qname(URIRef(x)) for x in v[1].split()]))
 
         return Markdown(result)
     
