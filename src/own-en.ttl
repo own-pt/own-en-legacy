@@ -651,8 +651,9 @@ schema:substanceMeronymOf
 schema:synsetId
     a rdf:Property, owl:DatatypeProperty ;
     rdfs:comment "A datatype relation between synsets and their integer identifiers."@en-us ;
-    rdfs:domain schema:Synset ;
-    rdfs:range <http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
+    rdfs:domain schema:Synset .
+    # this was true in Princeton WordNet, but not in ours...
+    # rdfs:range <http://www.w3.org/2001/XMLSchema#nonNegativeInteger> .
 
 schema:tagCount
     a rdf:Property, owl:DatatypeProperty ;
