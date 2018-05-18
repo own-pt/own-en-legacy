@@ -10,7 +10,7 @@ from IPython.core.display import HTML, Markdown
 
 class OwnEn:
 
-    def __init__(self,endpoint = 'http://localhost/sparql'):
+    def __init__(self,endpoint = 'http://natural-r2.br.ibm.com:10035/repositories/own-en'):
         self.endpoint = endpoint
         self.namespaceManager = NamespaceManager(Graph())
         self.namespaceManager.bind('schema', Namespace('https://br.ibm.com/tkb/own-en/schema/'), override=False)
@@ -55,6 +55,19 @@ class OwnEn:
         }}
         """
         return self.query_synsets(regexSearchLemmas.format(s))
+
+    def gloss(self, s):
+        regexSearchGlosses = """
+        prefix schema: <https://br.ibm.com/tkb/own-en/schema/>
+        
+        select ?s
+        {{
+          ?s 
+             schema:gloss ?lf .
+          filter regex(?lf, "{}")
+        }}
+        """
+        return self.query_synsets(regexSearchGlosses.format(s))
 
     def relation_query(self, rel, s):
         relationSearch = """
