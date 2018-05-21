@@ -53,7 +53,7 @@
                            ("vehicle" . !nomlex:vehicle)))
 
 (defun escape-iri (str)
-  (substitute #\_ #\" (substitute #\- #\: str)))
+  (substitute #\_ #\' (substitute #\_ #\" (substitute #\- #\: str))))
 
 (defun make-synset-iri (synset-id)
   (node (format nil "https://br.ibm.com/tkb/own-en/instances/synset-~a" (escape-iri synset-id))))
