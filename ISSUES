@@ -1,0 +1,73 @@
+# -*- mode:org -*-
+* issues
+- having the word index be juxtaposed to it may cause confusion; see
+  the word =.22=, for example: is the word =.= with index 22, =.2=
+  with index 2, or =.22= with implicit index of 0?
+  #+BEGIN_SRC 
+  w: anon1
+  du: noun.communication:colloquialism
+  g: (old-fashioned or informal) in a little while; "see you anon"
+  #+END_SRC
+  the  original spec says:
+  #+BEGIN_QUOTE
+  Numbers (integer or real) may be entered, either by themselves or as
+  part of a word string, by following the number with a double quote
+  (" ).
+  #+END_QUOTE
+  the quoting happens in
+  #+BEGIN_QUOTE
+  w: twenty-two
+  w: .22"
+  hyper: firearm
+  g: a .22 caliber firearm (pistol or rifle)
+  #+END_QUOTE
+  but not in
+  #+BEGIN_QUOTE
+  w: abortion_pill
+  w: mifepristone
+  w: RU_486 du noun.communication:trademark
+  hyper: abortifacient
+  g: an abortion-inducing drug (trade name RU_486) developed in France; when taken during the first five weeks of pregnancy it blocks the action of progesterone so that the uterus sloughs off the embryo
+  #+END_QUOTE
+  -> add space before lex_id
+
+- should we remove the frame information? for wsd purposes it's always
+  nice to have custom examples
+  -> keep frame info as integers, expand them in emacs mode 
+
+- should we separate syntactic and semantic information? e.g., the
+  adjective markers
+
+- document new file: =adj.all= contains only cluster-head adjectives,
+  and =adjs.all= contains their satellites
+
+- break gloss into definition and examples? some synsets already seem
+  to do this, but not all (adj.all:abducent
+  vs. noun.artifact:accelerator)
+  -> break when sure (starts with " and ends with "); else leave it for manual revision
+
+- lexical information (like irregular forms) are not present, but
+  should be in separate file
+
+- how to handle more languages?
+
+* doubts
+- [ ] check how adjective clusters are represented in the new format
+- [ ] how do comments work?
+- [ ] what's the best way to deal with separators? lexfiles use =_=
+  and =,= (others?) but we can't really guarantee that they don't
+  appear in words, plus there are weird rules like the one of adding a
+  double quote to a word ending in a number so that the number is not
+  mistaken for a lex_id.
+
+
+* emacs mode
+- [ ] use short forms for pointers, expand them when showing
+- [ ] run grind2 on input to perform checks (use flycheck)
+- [ ] how to show symmetric relations that are not present in one
+  synset? (grind adds the missing pointers, but then the files show
+  incomplete information. if we always put both pointers, we get
+  redundant; but if we decide to include both we should always include
+  them, else one might delete a pointer in a synset and not on the
+  other end and end up not actually removing any pointer)
+
