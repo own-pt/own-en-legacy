@@ -49,9 +49,7 @@
 
 (defrule word-sense (and word (? (and spaces lex-id)))
   (:destructure (w lid?)
-		(if lid?
-		    (cons w (second lid?))
-		    w)))
+		(cons w (second lid?))))
 
 (defrule lex-id (+ (character-ranges (#\0 #\9)))
   (:lambda (cs)
@@ -82,9 +80,9 @@
   (:text t))
 
 (defrule comment (and #\# (? spaces) text)
-  (:function third)
-  (:function chars->string)
-  (:lambda (c) (cons 'comment c)))
+   (:function third)
+   (:function chars->string)
+   (:lambda (c) (cons 'comment c)))
 
 ;; interface
 (defun parse-lex (source-name text)
