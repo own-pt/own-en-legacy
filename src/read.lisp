@@ -64,8 +64,8 @@
                       ("adjs" . "a")
                       ("adv"  . "r")))
 
-(defparameter *pointers-ids* (loop for p in *pointers*
-				   append (mapcar #'cadr (cdr p))))
+(defparameter *pointers-ids* (mapcan (lambda (pos) (mapcar #'second (cdr pos)))
+				     *pointers*))
 
 (defun read-wn (path-with-wildcard)
   (let ((idx (make-hash-table :test #'equal)))

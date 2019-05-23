@@ -1,8 +1,8 @@
 
 (in-package #:wordnet-dsl)
 
-(add-namespace "schema" "https://br.ibm.com/tkb/own-en/schema/")
-(add-namespace "nomlex" "https://br.ibm.com/tkb/own-en/nomlex/")
+(w:add-namespace "schema" "https://br.ibm.com/tkb/own-en/schema/")
+(w:add-namespace "nomlex" "https://br.ibm.com/tkb/own-en/nomlex/")
 
 (defparameter *synset-pos-types* '(("noun" . !schema:NounSynset)
                                    ("adj" . !schema:AdjectiveSynset)
@@ -56,13 +56,13 @@
   (substitute #\_ #\' (substitute #\_ #\" (substitute #\- #\: str))))
 
 (defun make-synset-iri (synset-id)
-  (node (format nil "https://br.ibm.com/tkb/own-en/instances/synset-~a" (escape-iri synset-id))))
+  (w:node (format nil "https://br.ibm.com/tkb/own-en/instances/synset-~a" (escape-iri synset-id))))
 
 (defun make-wordsense-iri (wordsense-id)
-  (node (format nil "https://br.ibm.com/tkb/own-en/instances/wordsense-~a" (escape-iri wordsense-id))))
+  (w:node (format nil "https://br.ibm.com/tkb/own-en/instances/wordsense-~a" (escape-iri wordsense-id))))
 
 (defun make-word-iri (word)
-  (node (format nil "https://br.ibm.com/tkb/own-en/instances/word-~a" (sxhash (concatenate 'string word (string-downcase word))))))
+  (w:node (format nil "https://br.ibm.com/tkb/own-en/instances/word-~a" (sxhash (concatenate 'string word (string-downcase word))))))
 
 (defun make-synset-type (synset)
   (cdr (assoc (first (split-sequence #\. (synset-file synset))) *synset-pos-types* :test #'equal)))
@@ -82,22 +82,22 @@
 (defun export-synset (synset-id synset)
   (let ((synset-iri (make-synset-iri synset-id))
         (synset-type (make-synset-type synset)))
-    (wilbur:add-triple (wilbur:triple synset-iri !rdf:type synset-type))
-    (wilbur:add-triple (wilbur:triple synset-iri !schema:lexicographerFile (literal (synset-file synset))))
-    (wilbur:add-triple (wilbur:triple synset-iri !schema:synsetId (literal synset-id)))
+    (w:add-triple (w:triple synset-iri !rdf:type synset-type))
+    (w:add-triple (w:triple synset-iri !schema:lexicographerFile (literal (synset-file synset))))
+    (w:add-triple (w:triple synset-iri !schema:synsetId (literal synset-id)))
     (add-wordsenses-triples synset-iri (make-wordsense-type synset) (synset-senses synset))
     (when (synset-gloss synset)
-      (wilbur:add-triple (wilbur:triple synset-iri !schema:gloss (literal (synset-gloss synset)))))
+      (w:add-triple (w:triple synset-iri !schema:gloss (literal (synset-gloss synset)))))
     (dolist (p (synset-lexical-pointers synset))
       (unless (make-pointer (second p))
         (format t "Unknown lexical pointer: ~a~%" (second p)))
-      (wilbur:add-triple (wilbur:triple (make-wordsense-iri (first p))
+      (w:add-triple (w:triple (make-wordsense-iri (first p))
                                         (make-pointer (second p))
                                         (make-wordsense-iri (third p)))))
     (dolist (p (synset-semantic-pointers synset))
       (unless (make-pointer (second p))
         (format t "Unknown semantic pointer: ~a~%" (second p)))
-      (wilbur:add-triple (wilbur:triple synset-iri (make-pointer (second p)) (make-synset-iri (third p)))))))
+      (w:add-triple (w:triple synset-iri (make-pointer (second p)) (make-synset-iri (third p)))))))
 
 (defun add-wordsenses-triples (synset-iri wordsense-type senses)
   (dolist (s senses)
@@ -106,13 +106,13 @@
 (defun add-wordsense-triples (synset-iri wordsense-type sense)
   (let ((word-iri (make-word-iri (cdr sense)))
         (wordsense-iri (make-wordsense-iri (car sense))))
-    (wilbur:add-triple (wilbur:triple synset-iri !schema:containsWordSense wordsense-iri))
-    (wilbur:add-triple (wilbur:triple wordsense-iri !rdf:type wordsense-type))
-    (wilbur:add-triple (wilbur:triple wordsense-iri !schema:word word-iri))
-    (wilbur:add-triple (wilbur:triple wordsense-iri !schema:senseKey (literal (car sense))))
-    (wilbur:add-triple (wilbur:triple word-iri !rdf:type !schema:Word))
-    (wilbur:add-triple (wilbur:triple word-iri !schema:lexicalForm (literal (cdr sense))))
-    (wilbur:add-triple (wilbur:triple word-iri !schema:lemma (literal (string-downcase (cdr sense)))))))
+    (w:add-triple (w:triple synset-iri !schema:containsWordSense wordsense-iri))
+    (w:add-triple (w:triple wordsense-iri !rdf:type wordsense-type))
+    (w:add-triple (w:triple wordsense-iri !schema:word word-iri))
+    (w:add-triple (w:triple wordsense-iri !schema:senseKey (literal (car sense))))
+    (w:add-triple (w:triple word-iri !rdf:type !schema:Word))
+    (w:add-triple (w:triple word-iri !schema:lexicalForm (literal (cdr sense))))
+    (w:add-triple (w:triple word-iri !schema:lemma (literal (string-downcase (cdr sense)))))))
 
 ;; synset -> schema:containsWordSense WS
 ;; WS a schema:WordSense
@@ -128,8 +128,8 @@
     (export-synset (default-sense s) s)))
 
 (defun export-rdf (out)
-  (let ((*db* (make-instance 'wilbur::fast-temporary-db))
+  (let ((*db* (make-instance 'w::fast-temporary-db))
         (wn (read-wn #p"../dict/*.txt")))
     (export-synsets wn)
     (with-open-file (stream out :direction :output :if-exists :supersede)
-      (wilbur::dump-as-ntriples (db-triples *db*) stream))))
+      (w::dump-as-ntriples (db-triples *db*) stream))))
