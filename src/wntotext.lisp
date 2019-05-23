@@ -63,9 +63,9 @@
                                    (";r" "dr" "Domain of synset - REGION")
                                    (";u" "du" "Domain of synset - USAGE")))))
 
-(defparameter *pos* '(("n" "noun" 1 "Nouns") 
-                      ("v" "verb" 2 "Verbs") 
-                      ("a" "adj" 3 "Adjectives") 
+(defparameter *pos* '(("n" "noun" 1 "Nouns")
+                      ("v" "verb" 2 "Verbs")
+                      ("a" "adj" 3 "Adjectives")
                       ("s" "adjs" 5 "Satellite adjectives")
                       ("r" "adv" 4 "Adverbs")))
 
@@ -141,29 +141,29 @@
 
 
 (defclass synset ()
-  ((id          :initarg :id 
+  ((id          :initarg :id
 		:initform nil
 		:accessor synset-id)
-   (lex-filenum :initarg :lex-filenum 
+   (lex-filenum :initarg :lex-filenum
 		:initform nil
 		:accessor synset-lnum)
-   (ss-type     :initarg :ss-type 
-		:accessor synset-type)  
-   (words       :initarg :words 
+   (ss-type     :initarg :ss-type
+		:accessor synset-type)
+   (words       :initarg :words
 		:initform nil
-		:accessor synset-words) 
-   (pointers    :initarg :pointers 
+		:accessor synset-words)
+   (pointers    :initarg :pointers
 		:initform nil
 		:accessor synset-pointers)
    (gloss       :initarg :gloss
 		:accessor synset-gloss)
-   (frames      :initarg :frames 
+   (frames      :initarg :frames
 		:initform nil
 		:accessor synset-frames)
    (base        :initarg :base
 		:initform nil
 		:accessor synset-base)
-   (notes       :initarg :notes 
+   (notes       :initarg :notes
 		:initform nil
 		:accessor synset-notes)))
 
@@ -181,16 +181,16 @@
       (multiple-value-bind (m g)
 	  (cl-ppcre:scan-to-strings "(.*)\\((a|p|ip)\\)" (nth 0 word))
 	(if (null m)
-	    (list (nth 0 word) 
+	    (list (nth 0 word)
 		  (parse-integer (nth 1 word) :radix 16) nil)
 	    (list (aref g 0)
 		  (parse-integer (nth 1 word) :radix 16) (aref g 1))))
-      (list (nth 0 word) 
+      (list (nth 0 word)
 	    (parse-integer (nth 1 word) :radix 16) nil)))
 
 (defun parse-pointer (ptr)
-  (let ((hexval (nth 3 ptr))) 
-    (append (subseq ptr 0 3) 
+  (let ((hexval (nth 3 ptr)))
+    (append (subseq ptr 0 3)
 	    (list (parse-integer (subseq hexval 0 2) :radix 16)
 		  (parse-integer (subseq hexval 2 4) :radix 16)))))
 
@@ -210,10 +210,10 @@
 	 (fields (+ 5 (* 2 w-cnt) (* 4 p-cnt)))
 	 (f-cnt (if (> (length data) fields)
 		    (parse-integer (nth fields data)) 0))
-	 (words (if (search (nth 2 data) "as")  
+	 (words (if (search (nth 2 data) "as")
 		    (mapcar (lambda (w) (parse-word w t)) (collect data 4 2 w-cnt))
 		    (mapcar #'parse-word (collect data 4 2 w-cnt)))))
-    (make-instance 'synset 
+    (make-instance 'synset
 		   :id (nth 0 data)
 		   :lex-filenum (parse-integer (nth 1 data))
 		   :ss-type (nth 2 data)
@@ -229,14 +229,14 @@
 		(read-line f nil))
 	  (parser? (string/= line "  " :end1 2)
 		   (string/= line "  " :end1 2))
-	  (counter 0 (if parser? 
-			 (+ 1 counter) 
+	  (counter 0 (if parser?
+			 (+ 1 counter)
 			 counter))
 	  (res nil))
 	 ((or (null line)
 	      (and limit (> counter limit)))
 	  (reverse res))
-      (if parser? 
+      (if parser?
 	  (let ((data (funcall parser line)))
 	    (if data (push data res)))))))
 
@@ -248,26 +248,26 @@
 	 (keyparts (cl-ppcre:split "%" key))
 	 (lemma (car keyparts))
 	 (keyrest (cl-ppcre:split ":" (cadr keyparts))))
-    (list :key key 
-	  :lemma lemma 
-	  :ss-type    (parse-integer (nth 0 keyrest)) 
-	  :lexfilenum (parse-integer (nth 1 keyrest)) 
+    (list :key key
+	  :lemma lemma
+	  :ss-type    (parse-integer (nth 0 keyrest))
+	  :lexfilenum (parse-integer (nth 1 keyrest))
 	  :lexid      (parse-integer (nth 2 keyrest))
-	  :synset       (nth 1 data) 
-	  :sense-number (nth 2 data) 
+	  :synset       (nth 1 data)
+	  :sense-number (nth 2 data)
 	  :tag-count    (nth 3 data))))
 
 (defun parser-sents (line)
-  (multiple-value-bind (s a) 
+  (multiple-value-bind (s a)
       (cl-ppcre:scan-to-strings "([0-9]+)[ ]+(.*)" line)
     (declare (ignore s))
-    (list (parse-integer (aref a 0)) 
+    (list (parse-integer (aref a 0))
 	  (aref a 1))))
 
 (defun parser-core (line)
-  (multiple-value-bind (s a) 
+  (multiple-value-bind (s a)
       (cl-ppcre:scan-to-strings "([0-9]+)-([asrnv])" line)
-    (declare (ignore s)) 
+    (declare (ignore s))
     (list :offset (aref a 0) :type (aref a 1))))
 
 (defun parser-sentidx (line)
@@ -276,10 +276,10 @@
 	  :examples (mapcar #'parse-integer (cl-ppcre:split "," (nth 1 data))))))
 
 (defun parser-lexnames (line)
-  (multiple-value-bind (m g) 
+  (multiple-value-bind (m g)
       (cl-ppcre:scan-to-strings "([0-9]+)[ \\t]+([a-zA-Z\\.]*)[ \\t]+([0-9]*)" line)
-    (declare (ignore m)) 
-    (list (parse-integer (aref g 0)) 
+    (declare (ignore m))
+    (list (parse-integer (aref g 0))
 	  (aref g 1)
 	  (parse-integer (aref g 2)))))
 
@@ -304,8 +304,8 @@
                  (s2 (gethash (format nil "~a-n" (subseq arg2offset 1)) *synsets*))
                  (sense-info1 (gethash (getf sense1 :key) *senses*))
                  (sense-info2 (gethash (getf sense2 :key) *senses*)))
-            (push (list relation (synset-id s2) "n" 
-                        (1+  (seventh sense-info1)) 
+            (push (list relation (synset-id s2) "n"
+                        (1+  (seventh sense-info1))
                         (1+  (seventh sense-info2)))
                   (synset-pointers s1))))))))
 
@@ -322,7 +322,7 @@
           (format nil "<<~a~a>>" (first w) (second w)))
       (if (= 0 (second w))
           (format nil "~a" (first w))
-          (format nil "~a~a" (first w) (second w)))))
+          (format nil "~a ~a" (first w) (second w)))))
 
 (defun mk-sense (w)
   "Convert the tuple containing wordsense information to a wordsense
@@ -333,7 +333,7 @@
    encoding."
   (if (= 0 (second w))
       (format nil "~a" (first w))
-      (format nil "~a~a" (first w) (second w))))
+      (format nil "~a ~a" (first w) (second w))))
 
 (defun lexfile-name (lnum)
   "Returns the name of the lexicographer file associated to number
@@ -393,7 +393,7 @@
   (member p *redundant-pointers* :test #'equal))
 
 (defun semantic-relation? (p)
-  "Indicates if pointer P is a semantic relation between synsets 
+  "Indicates if pointer P is a semantic relation between synsets
    (as opposed to a relation between words)"
   (= 0 (fourth p)) (= 0 (fifth p)))
 
@@ -444,7 +444,7 @@
           (sense-links (mapcar #'process-sense-links (synset-sense-links s))))
       (format nil "~{~a~^~%~}~%"
               (mapcar (lambda (w) (mk-sense-pointer w
-                                                    (find-sense-pointers w sense-links) 
+                                                    (find-sense-pointers w sense-links)
                                                     (find-sense-frames w sense-frames)))
                       (synset-words s))))))
 
@@ -509,7 +509,7 @@
   "Generate the global frame information. A frame is GLOBAL if it
 applies to all the senses in the synset."
   (let ((frames (remove-if-not #'global-frame? (synset-frames s))))
-    (if frames 
+    (if frames
         (format nil "frame: ~{~a~^ ~}~%" (mapcar #'first frames))
         "")))
 
@@ -527,7 +527,7 @@ applies to all the senses in the synset."
          (lemma (getf s :lemma))
          (words (synset-words synset)))
     (setf (gethash key *senses*)
-          (list lfilename 
+          (list lfilename
                 (first (find lemma words :key #'first :test #'string-equal))
                 (second (find lemma words :key #'first :test #'string-equal))
                 key
@@ -556,8 +556,8 @@ applies to all the senses in the synset."
       (format s "~%"))))
 
 
-(defun load-en (dict-dir)
-  (setf *senses* (make-hash-table :test #'equal))
+(defun load-en (dict-dir out-dir)
+  (setf *senses*  (make-hash-table :test #'equal))
   (setf *synsets* (make-hash-table :test #'equal))
 
   (generate-documentation)
@@ -569,7 +569,8 @@ applies to all the senses in the synset."
 
   (mapcar #'add-senseidx (parse-file (merge-pathnames dict-dir "index.sense") #'parser-senseidx))
 
-  (with-open-file (s "pwn-3.0.mapping" :direction :output :if-exists :supersede)
+  (with-open-file (s (make-pathname :name "pwn-3.0.mapping" :defaults out-dir)
+		     :direction :output :if-exists :supersede)
     (dolist (sense (hash-table-values *senses*))
       (if (= 0 (third sense))
           (format s "~a:~a,~a,~a,~a~%" (first sense) (second sense) (fourth sense)
@@ -577,6 +578,7 @@ applies to all the senses in the synset."
           (format s "~a:~a~a,~a,~a,~a~%" (first sense) (second sense) (third sense)
 		  (fourth sense) (fifth sense) (sixth sense)))))
 
+  ;; my understanding is that this is not part of the PWN distribution
   (read-morphosemantic-links "morphosemantic-links.csv")
 
   (let ((namespaces (make-hash-table :test #'equal)))
@@ -589,13 +591,11 @@ applies to all the senses in the synset."
           (hash-table-keys namespaces))
 
     (maphash (lambda (k v)
-               (with-open-file (out (format nil "~a.~a" k (if *org-mode* "org" "txt"))
+               (with-open-file (out (make-pathname :name (format nil "~a.~a" k (if *org-mode* "org" "txt"))
+						   :defaults out-dir)
 				    :direction :output :if-exists :supersede)
                  (dolist (s v)
                    (mk-synset out s))))
 	     namespaces))
   t)
-
-(defun test ()
-  (load-en #p"/home/fcbr/repos/wordnet/WordNet-3.0/dict/"))
 

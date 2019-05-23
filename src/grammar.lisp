@@ -1,24 +1,16 @@
-(cl:require :esrap)
+(in-package #:wn-dsl)
 
-(cl:defpackage #:lexfile-grammar
-  (:use #:cl #:esrap))
+;; TODO: performance is not very good; if we will use it for
+;; validation, it would be nice to have it be faster, under 1s
 
 (setf esrap:*on-left-recursion* :error)
 
-(cl:in-package #:lexfile-grammar)
-
-;;; A semantic predicate for filtering out double quotes.
-
-(defun not-doublequote (char)
-  (not (eql #\" char)))
-
-(defun not-integer (string)
-  (unless (find-if #'digit-char-p string)
-    t))
+(defun chars->string (cs)
+  (coerce cs 'string))
 
 ;;; Utility rules.
 
-(defrule spaces (+ (or #\Space #\Tab))
+(esrap:defrule spaces (+ (or #\Space #\Tab))
   (:constant nil)
   (:error-report :detail))
 
@@ -31,52 +23,75 @@
 
 ;; synset
 
-(defrule source (and (? whitespace) (* synset))
-  (:function second))
+(defrule source (and (? whitespace)
+		     (* (and synset (+ (and linebreak (? spaces)))))
+		     (? whitespace))
+  (:function second)
+  (:lambda (ss) (mapcar #'first ss)))
 
-(defrule synset (and (+ stmt-or-comment) linebreak (? spaces))
-  (:function first))
+(defrule synset (+ stmt-or-comment)
+  (:lambda (stms &bounds beg end)
+    (list* 'synset (list beg end) stms)))
 
 (defrule stmt-or-comment (and (or statement comment) linebreak (? spaces))
   (:function first))
 
-(defrule statement (and (or word-stmt pointer-stmt gloss-stmt)
+(defrule statement (and (or word-stmt gloss-stmt pointer-stmt)
 			(? spaces))
   (:function first))
 
-(defrule word-stmt (and "w:" spaces word (? spaces) (* word-pointer))
-  (:destructure (* * w * ptrs)
-    (if ptrs
-	(cons w ptrs)
-	w)))
+(defrule word-stmt (and "w:" spaces word-sense (? (and spaces (* word-pointer))))
+  (:destructure (* * w ptrs)
+    (list* 'word w (second ptrs))))
 
 (defrule word (+ (not whitespace))
-  (:lambda (w) (coerce w 'string)))
+  (:function chars->string))
 
-(defrule word-pointer (and word spaces word (? spaces))
-  (:destructure (ptr * target)
+(defrule word-sense (and word (? (and spaces lex-id)))
+  (:destructure (w lid?)
+		(if lid?
+		    (cons w (second lid?))
+		    w)))
+
+(defrule lex-id (+ (character-ranges (#\0 #\9)))
+  (:lambda (cs)
+    (parse-integer (chars->string cs) :radix 10)))
+
+(defrule word-pointer (and pointer-key spaces word-sense (? spaces))
+  (:destructure (ptr * target *)
 		(cons ptr target)))
 
-(defrule pointer-stmt (and pointer-key #\: spaces word)
+(defrule pointer-stmt (and pointer-key #\: spaces word-sense)
   (:destructure (k * * w)
-		(cons k w)))
+		(list* 'pointer k w)))
 
-(defrule pointer-key (or "sim" "hyper"))
+(defrule pointer-key (+ (not (or #\: spaces)))
+  (:function chars->string))
 
-(defrule gloss-stmt (and definition (* example))
-  (:destructure (def exs)
-		(cons def exs)))
+(defrule gloss-stmt (or definition-stmt example-stmt))
 
-(defrule definition (and "g:" spaces text)
-  (:function third))
+(defrule definition-stmt (and "g:" spaces text)
+  (:destructure (* * def)
+    (cons 'definition def)))
 
-(defrule example (and "e:" spaces text)
-  (:function third))
+(defrule example-stmt (and "e:" spaces text)
+  (:destructure (* * e)
+	(cons 'example e)))
 
 (defrule text (+ (not linebreak))
   (:text t))
 
 (defrule comment (and #\# (? spaces) text)
   (:function third)
-  (:lambda (s) (coerce s 'string)))
+  (:function chars->string)
+  (:lambda (c) (cons 'comment c)))
 
+;; interface
+(defun parse-lex (source-name text)
+  (list* 'source source-name
+	 (parse 'source text)))
+
+(defun parse-lexfile (fp)
+  (when (probe-file fp)
+    (parse-lex (pathname-name fp)
+	       (uiop:read-file-string fp))))

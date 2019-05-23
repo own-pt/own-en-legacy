@@ -51,7 +51,9 @@
 
 - how to handle more languages?
 
+
 * doubts
+- [ ] check how word-specific frames are represented in the new format
 - [ ] check how adjective clusters are represented in the new format
 - [ ] how do comments work?
 - [ ] what's the best way to deal with separators? lexfiles use =_=

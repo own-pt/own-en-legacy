@@ -1,13 +1,14 @@
 
-(asdf:defsystem #:wordnet-dsl
+(asdf:defsystem #:wn
   :description "Reading and Writing functions for a text-based Wordnet"
   :author "Alexandre Rademaker <alexrad@br.ibm.com> and Fabricio Chalub <fchalub@br.ibm.com>"
-  :license "CC-BY"
+  :license "Apache 2.0"
   :serial t
-  :depends-on (#:cl-ppcre #:alexandria #:wilbur #:split-sequence)
+  :depends-on (#:cl-ppcre #:alexandria #:wilbur #:split-sequence #:esrap)
   :components ((:file "package")
                (:file "data")
-	       (:file "read")
-	       (:file "link")
-	       (:file "export")))
-
+	       (:file "dsl-grammar")
+	       ;; (:file "dsl-read")
+	       ;; (:file "link")
+	       ;; (:file "export")
+	       ))
