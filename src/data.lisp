@@ -2,26 +2,16 @@
 (in-package #:wn-data)
 
 
-(defstruct (sense (:print-function
-		   (lambda (s st *)
-		     (format st "<sense ~a::~a>"
-			     (sense-word s) (sense-id s)))))
-	   word
-	   id
-	   pointers)
-
-
 (defstruct (synset (:print-function
 		    (lambda (s st *)
 		      (trivia:match s
-			((synset source position senses pointers gloss)
-			 (format st "<synset ~a@~a ~{~a~^,~} ~a>"
-				 source position (mapcar #'sense-word senses)
+			((synset source position senses gloss)
+			 (format st "<synset ~a@~a {~{~a~^,~}} ~a>"
+				 source position (mapcar #'car senses)
 				 (or (first gloss) "")))))))
   source
   position
-  senses
-  pointers
+  senses				; (word . lex-id)
   gloss)
 
 
@@ -31,3 +21,15 @@
 
 (defun synset-examples (s)
   (rest (synset-gloss s)))
+
+
+(defparameter *wn-sem-relations* 		; (map synset relation)
+  (make-hash-table :test 'equal :size 300000))
+
+(defparameter *wn-lex-relations* 		; (map sense relation)
+  (make-hash-table :test 'equal :size 300000))
+
+(defgeneric @get-relation (synset))
+
+;; (defmethod @get-relation ((obj synset))
+;;   (gethash (sense-)))

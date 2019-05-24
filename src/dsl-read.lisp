@@ -1,9 +1,28 @@
 (in-package #:wn-dsl)
 
+;; TODO: uses struct definitions; could we use wilbur?
+
+;; TODO: source should be integer for better memory footprint;
+;; relations too, could be symbols or integers (printing should
+;; convert them, of course) -- or we could use strings & tries for
+;; everything (might be easier to implement)
 (defun process-source (source-tree)
   (labels
-      ((p-sense (ws)
+      ((complete-word (ws)
+	 (trivia:match ws
+	   ((list* pos file w . lex-id) ws)
+	   ((list* w . lex-id) (append source ws))))
+       (p-relation (rel-db head ptr)
+	 ;; TODO: make sure head and target have source specified, if
+	 ;; they don't add the current source (the default)
+	 (destructuring-bind (* rel target) ptr
+	   (setf (gethash head rel-db)
+		 (cons (cons rel target) (gethash head rel-db nil)))
+	   (setf (gethash target rel-db)
+		 (cons (cons rel head) (gethash target rel-db nil)))))
+       (p-sense (id ws)
 	 (destructuring-bind (* w . ptrs) ws
+	   (mapc (curry #'p-lex-relation wn-data::*wn-lex-relations* (list* id (car w))) ptrs)
 	   (wn-data::make-sense :word (car w) :id (cdr w)
 				:pointers (mapcar #'rest ptrs))))
        (p-synset (source sy)
@@ -13,15 +32,14 @@
 						    (op (memq _ '(definition example))))
 					      stmts :key #'first)))
 	     (destructuring-bind (senses pointers gloss) groups
-	       (wn-data::make-synset
-		:source source
-		:position position
-		:senses (mapcar #'p-sense senses)
-		:pointers pointers
-		:gloss (mapcar #'cdr gloss))))))) ;TODO: not making
-						  ;sure definition comes
-						  ;first
-
+	       (let ((id (list* source (first senses))))
+		 (mapc (curry #'p-sem-relation wn-data::*wn-sem-relations* id) pointers)
+		 (wn-data::make-synset
+		  :source   source
+		  :position position
+		  :senses   (mapcar (curry #'p-sense id) senses)
+		  :gloss    (mapcar #'cdr gloss)))))))) ; TODO: not making sure definition comes first
+    ;; 
     (destructuring-bind (* source . synsets) source-tree
       (mapcar (curry #'p-synset source) synsets))))
 

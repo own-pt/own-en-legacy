@@ -8,6 +8,12 @@
 (defun chars->string (cs)
   (coerce cs 'string))
 
+(defun wrap-sense (ws)
+  (destructuring-bind (w . lex-id) ws
+      (if (cl-ppcre:scan "^(noun|verb|adj|adjs|adv):" w)
+	  (append (split-sequence-if (op (member _ '(#\. #\:) :test #'eql)) w :count 3) lex-id)
+	  ws)))
+
 ;;; Utility rules.
 
 (esrap:defrule spaces (+ (or #\Space #\Tab))
@@ -49,7 +55,7 @@
 
 (defrule word-sense (and word (? (and spaces lex-id)))
   (:destructure (w lid?)
-		(cons w (second lid?))))
+		(cons w (or lid? 0))))
 
 (defrule lex-id (+ (character-ranges (#\0 #\9)))
   (:lambda (cs)
@@ -57,11 +63,11 @@
 
 (defrule word-pointer (and pointer-key spaces word-sense (? spaces))
   (:destructure (ptr * target *)
-		(cons ptr target)))
+		(cons ptr (wrap-sense target))))
 
 (defrule pointer-stmt (and pointer-key #\: spaces word-sense)
-  (:destructure (k * * w)
-		(list* 'pointer k w)))
+  (:destructure (k * * ws)
+		(list* 'pointer k (wrap-sense ws))))
 
 (defrule pointer-key (+ (not (or #\: spaces)))
   (:function chars->string))
@@ -82,7 +88,13 @@
 (defrule comment (and #\# (? spaces) text)
    (:function third)
    (:function chars->string)
-   (:lambda (c) (cons 'comment c)))
+  (:lambda (c) (cons 'comment c)))
+
+;; utils
+(defun parse-source (source-name)
+  (multiple-value-bind (* vec)
+      (cl-ppcre:scan-to-strings "^(noun|verb|adj|adjs|adv)\.[^:]:" source)
+    (coerce vec 'list)))
 
 ;; interface
 (defun parse-lex (source-name text)
@@ -91,5 +103,5 @@
 
 (defun parse-lexfile (fp)
   (when (probe-file fp)
-    (parse-lex (pathname-name fp)
+    (parse-lex (parse-source (pathname-name fp))
 	       (uiop:read-file-string fp))))
