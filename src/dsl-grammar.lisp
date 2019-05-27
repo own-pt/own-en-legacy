@@ -10,7 +10,7 @@
 
 (defun wrap-sense (ws)
   (destructuring-bind (w . lex-id) ws
-      (if (cl-ppcre:scan "^(noun|verb|adj|adjs|adv):" w)
+      (if (cl-ppcre:scan "^(noun|verb|adj|adjs|adv)\." w)
 	  (append (split-sequence-if (op (member _ '(#\. #\:) :test #'eql)) w :count 3) lex-id)
 	  ws)))
 
@@ -63,11 +63,11 @@
 
 (defrule word-pointer (and pointer-key spaces word-sense (? spaces))
   (:destructure (ptr * target *)
-		(cons ptr (wrap-sense target))))
+		(list 'pointer ptr (wrap-sense target))))
 
 (defrule pointer-stmt (and pointer-key #\: spaces word-sense)
-  (:destructure (k * * ws)
-		(list* 'pointer k (wrap-sense ws))))
+  (:destructure (ptr * * ws)
+		(list 'pointer ptr (wrap-sense ws))))
 
 (defrule pointer-key (+ (not (or #\: spaces)))
   (:function chars->string))
@@ -93,7 +93,7 @@
 ;; utils
 (defun parse-source (source-name)
   (multiple-value-bind (* vec)
-      (cl-ppcre:scan-to-strings "^(noun|verb|adj|adjs|adv)\.[^:]:" source)
+      (cl-ppcre:scan-to-strings "^(noun|verb|adj|adjs|adv)\.([^:\.]+)" source-name)
     (coerce vec 'list)))
 
 ;; interface

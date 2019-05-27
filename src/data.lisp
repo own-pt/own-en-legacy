@@ -29,6 +29,10 @@
 (defparameter *wn-lex-relations* 		; (map sense relation)
   (make-hash-table :test 'equal :size 300000))
 
+(defun is-reflexive? (rel)
+  ;; TODO:
+  t)
+
 (defgeneric @get-relation (synset))
 
 ;; (defmethod @get-relation ((obj synset))

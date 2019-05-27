@@ -10,21 +10,21 @@
   (labels
       ((complete-word (ws)
 	 (trivia:match ws
-	   ((list* pos file w . lex-id) ws)
-	   ((list* w . lex-id) (append source ws))))
+	   ((list* _ _ _  _) ws)
+	   ((list* _ _) (append (second source-tree) ws))))
        (p-relation (rel-db head ptr)
-	 ;; TODO: make sure head and target have source specified, if
-	 ;; they don't add the current source (the default)
 	 (destructuring-bind (* rel target) ptr
-	   (setf (gethash head rel-db)
-		 (cons (cons rel target) (gethash head rel-db nil)))
-	   (setf (gethash target rel-db)
-		 (cons (cons rel head) (gethash target rel-db nil)))))
+	   (let ((head (complete-word head))
+		 (target (complete-word target)))
+	     (setf (gethash head rel-db)
+		   (cons (cons rel target) (gethash head rel-db nil)))
+	     (when (wn-data::is-reflexive? rel)
+	       (setf (gethash target rel-db)
+		     (cons (cons rel head) (gethash target rel-db nil)))))))
        (p-sense (id ws)
 	 (destructuring-bind (* w . ptrs) ws
-	   (mapc (curry #'p-lex-relation wn-data::*wn-lex-relations* (list* id (car w))) ptrs)
-	   (wn-data::make-sense :word (car w) :id (cdr w)
-				:pointers (mapcar #'rest ptrs))))
+	   (mapc (curry #'p-relation wn-data::*wn-lex-relations* (list* id (car w))) ptrs)
+	   w))
        (p-synset (source sy)
 	 (destructuring-bind (* position . stmts) sy
 	   (let ((groups (serapeum:partitions (list (op (eq  _ 'word))
@@ -32,8 +32,8 @@
 						    (op (memq _ '(definition example))))
 					      stmts :key #'first)))
 	     (destructuring-bind (senses pointers gloss) groups
-	       (let ((id (list* source (first senses))))
-		 (mapc (curry #'p-sem-relation wn-data::*wn-sem-relations* id) pointers)
+	       (let ((id (append source (first senses))))
+		 (mapc (curry #'p-relation wn-data::*wn-sem-relations* id) pointers)
 		 (wn-data::make-synset
 		  :source   source
 		  :position position
