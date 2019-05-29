@@ -1,6 +1,6 @@
 
 (defpackage #:wn-data
-  (:use #:cl #:alexandria)
+  (:use #:cl #:alexandria #:serapeum)
   (:export #:synset-definition
 	   #:synset-examples))
 

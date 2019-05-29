@@ -1,47 +1,151 @@
 (in-package #:wn-dsl)
 
-;; TODO: uses struct definitions; could we use wilbur?
+;; pipeline: parse -> process -> link
+;;;
+;; parse: lexfile -> source-tree
+;;; 
+;; process: source-tree -> intermediary trie (each active node has as
+;; car a synset (if the key is a head word) or the name of the head
+;; word of a synset, and as cdr the unprocessed relations
+;;;
+;; link: intermediary trie -> final trie
+
+(defun trie-fold (fn init trie)
+  "FN takes as input a key, a value, and the accumulated result."
+  (labels
+      ((run (key acc trie)
+	 (let* ((c       (cl-trie:key trie))
+		(new-key (concatenate 'string key (string (or c "")))))
+	   (reduce (lambda (acc trie) (run new-key acc trie))
+		   (cl-trie:children trie)
+		   :initial-value (if (cl-trie:activep trie)
+				      (funcall fn
+					       new-key
+					       (cl-trie:value trie)
+					       acc)
+				      acc)))))
+    (run "" init trie)))
+
+
+(defun get-synset (db word-id)
+  (labels
+      ((f (db word-id final)
+	 (let ((found (cl-trie:lookup db word-id)))
+	   (when found
+	     (if (wn-data::synset-p found)
+		 found
+		 (if final
+		     (error "Bad reference")
+		     (f db found t)))))))
+    (f db word-id nil)))
+
+
+(defun synset-add-rel (s rel target-id)
+  (let ((rels (wn-data::synset-rels s)))
+    (setf (wn-data::synset-rels s) (cons (cons rel target-id) rels))
+    s))
+
+
+(defun synset-add-lexrel (s head-id rel target-id)
+  (let* ((senses    (wn-data::synset-senses s))
+	 (head-word (take-while (op (char/= #\Tab _)) head-id))
+	 (i         (find head-word senses :key #'car :test #'string=)))
+    (unless i (error "bad reference"))
+    (destructuring-bind (w lex-id . ptrs)
+	(let ((new (list* w lex-id (cons (cons rel target-id) ptrs))))
+	  (setf (wn-dsl::synset-senses) (replace senses (list new) :start1 i))))
+    s))
+
+
+(defun add-rel (db head rel target &optional is-sem? add-refl?)
+  (when add-refl?
+    (add-rel db target rel head))
+  (let* ((head-sy (get-synset db head))
+	 (head-sy (if is-sem?
+		      (synset-add-rel head-sy rel target)
+		      (synset-add-lexrel head-sy head rel target))))
+    (cl-trie:insert head-sy db head)))
+
+
+;; TODO: could we use wilbur for all of this?
 
 ;; TODO: source should be integer for better memory footprint;
 ;; relations too, could be symbols or integers (printing should
 ;; convert them, of course) -- or we could use strings & tries for
 ;; everything (might be easier to implement)
 (defun process-source (source-tree)
-  (labels
-      ((complete-word (ws)
-	 (trivia:match ws
-	   ((list* _ _ _  _) ws)
-	   ((list* _ _) (append (second source-tree) ws))))
-       (p-relation (rel-db head ptr)
-	 (destructuring-bind (* rel target) ptr
-	   (let ((head (complete-word head))
-		 (target (complete-word target)))
-	     (setf (gethash head rel-db)
-		   (cons (cons rel target) (gethash head rel-db nil)))
-	     (when (wn-data::is-reflexive? rel)
-	       (setf (gethash target rel-db)
-		     (cons (cons rel head) (gethash target rel-db nil)))))))
-       (p-sense (id ws)
-	 (destructuring-bind (* w . ptrs) ws
-	   (mapc (curry #'p-relation wn-data::*wn-lex-relations* (list* id (car w))) ptrs)
-	   w))
-       (p-synset (source sy)
-	 (destructuring-bind (* position . stmts) sy
-	   (let ((groups (serapeum:partitions (list (op (eq  _ 'word))
-						    (op (eq  _ 'pointer))
-						    (op (memq _ '(definition example))))
-					      stmts :key #'first)))
-	     (destructuring-bind (senses pointers gloss) groups
-	       (let ((id (append source (first senses))))
-		 (mapc (curry #'p-relation wn-data::*wn-sem-relations* id) pointers)
-		 (wn-data::make-synset
-		  :source   source
-		  :position position
-		  :senses   (mapcar (curry #'p-sense id) senses)
-		  :gloss    (mapcar #'cdr gloss)))))))) ; TODO: not making sure definition comes first
-    ;; 
-    (destructuring-bind (* source . synsets) source-tree
-      (mapcar (curry #'p-synset source) synsets))))
+  (let ((trie (make-instance 'cl-trie:trie :key nil)))
+    (destructuring-bind (* (source-pos source-lname) . synsets) source-tree
+      (labels
+	  ((to-id (pos lname word lex-id)
+	     (format nil "~a	~a	~a	~a" (string-downcase word) pos lname lex-id))
+	   (word-id (ws)
+	     (trivia:match ws
+	       ((list* pos lname w lid) (to-id pos lname w lid))
+	       ((list* w lid)           (to-id source-pos source-lname w lid))))
+	   (p-relation (head ptr)
+	     (destructuring-bind (label rel target) ptr
+	       (let ((target-id (word-id target)))
+		 (destructuring-bind (s . ptrs) (cl-trie:lookup trie head)
+		   (cl-trie:insert (cons s
+					 (cons (list label rel target-id)
+					       ptrs))
+				   trie head)))))
+	   (p-sense (head w)
+	     (destructuring-bind (* ws . ptrs) w
+	       (let ((wid (word-id ws)))
+		 (unless (equal wid head)
+		   (cl-trie:insert (list head) trie wid))
+		 (mapc (curry #'p-relation wid) ptrs))
+	       ws))
+	   (p-synset (sy)
+	     (destructuring-bind (* position . stmts) sy
+	       (let ((groups (serapeum:partitions (list (op (eq  _ 'word))
+							(op (eq  _ 'spointer))
+							(op (memq _ '(definition example))))
+						  stmts :key #'first)))
+		 (destructuring-bind (((label ws . w-ptrs) . senses) pointers gloss) groups
+		   (let ((id     (word-id ws))
+			 (senses (cons (list* label ws w-ptrs) senses)))
+		     (cl-trie:insert
+		      (list (wn-data::make-synset
+			     :source   (cons source-pos source-lname)
+			     :position position
+			     :senses   (mapcar #'second senses)
+			     :gloss    (mapcar #'cdr gloss))) ; TODO: not making sure definition comes first
+		      trie id)
+		     (mapc (curry #'p-sense id) senses)
+		     (mapc (curry #'p-relation id) pointers)))))))
+	;; 
+	(mapcar #'p-synset synsets)
+	trie))))
+
+
+(defun db->wndb (db)
+  nil)
+
+
+(defun db->wndb-data (db)
+  (let ((i 0)
+	;; TODO: add real offsets
+	(ss (trie-fold (lambda (key val acc)
+			 (destructuring-bind (senses *)
+			     (append senses acc)))
+		       nil
+		       db)))
+    (loop
+      for s in ss
+      do
+	 (format nil
+		 "~a ~a ~a ~X ~:{~a ~a ~}"
+		 i
+		 (wn-data::synset-lexfilenum s)
+		 (wn-data::synset-position s)
+		 (length (synset-senses s)) ;; TODO: ~X upper or lower case?
+		 (mapcar (op (list (car _) (cdr _))) (synset-senses s))
+		 ;; TODO: pointers
+		 ))))
+
 
 
 ;; (defun read-wn (path-with-wildcard)

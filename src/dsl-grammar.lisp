@@ -63,11 +63,11 @@
 
 (defrule word-pointer (and pointer-key spaces word-sense (? spaces))
   (:destructure (ptr * target *)
-		(list 'pointer ptr (wrap-sense target))))
+		(list 'wpointer ptr (wrap-sense target))))
 
 (defrule pointer-stmt (and pointer-key #\: spaces word-sense)
   (:destructure (ptr * * ws)
-		(list 'pointer ptr (wrap-sense ws))))
+		(list 'spointer ptr (wrap-sense ws))))
 
 (defrule pointer-key (+ (not (or #\: spaces)))
   (:function chars->string))
