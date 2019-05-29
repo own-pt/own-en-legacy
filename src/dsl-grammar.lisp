@@ -10,9 +10,13 @@
 
 (defun wrap-sense (ws)
   (destructuring-bind (w . lex-id) ws
-      (if (cl-ppcre:scan "^(noun|verb|adj|adjs|adv)\." w)
-	  (append (split-sequence-if (op (member _ '(#\. #\:) :test #'eql)) w :count 3) lex-id)
-	  ws)))
+    (if (cl-ppcre:scan "^(noun|verb|adj|adjs|adv)\." w)
+	(append (split-sequence-if (op (member _ '(#\. #\:) :test #'eql)) w :count 3)
+		lex-id)
+	ws)))
+
+(defun valid-pointer-name? (str)
+  (string/= str "frame"))
 
 ;;; Utility rules.
 
@@ -42,48 +46,62 @@
 (defrule stmt-or-comment (and (or statement comment) linebreak (? spaces))
   (:function first))
 
-(defrule statement (and (or word-stmt gloss-stmt pointer-stmt)
+;; TODO: should these be ordered?
+(defrule statement (and (or word-stmt gloss-stmt pointer-stmt frame-stmt)
 			(? spaces))
   (:function first))
 
-(defrule word-stmt (and "w:" spaces word-sense (? (and spaces (* word-pointer))))
-  (:destructure (* * w ptrs)
-    (list* 'word w (second ptrs))))
+(defrule word-stmt (and "w:" spaces word-sense
+			(? (* word-pointer))
+			(? word-frames))
+  (:destructure (* * ws ptrs frames)
+		(list 'word ws ptrs frames)))
 
-(defrule word (+ (not whitespace))
-  (:function chars->string))
-
-(defrule word-sense (and word (? (and spaces lex-id)))
+(defrule word-sense (and word (? lex-id))
   (:destructure (w lid?)
 		(cons w (or lid? 0))))
 
-(defrule lex-id (+ (character-ranges (#\0 #\9)))
-  (:lambda (cs)
-    (parse-integer (chars->string cs) :radix 10)))
-
-(defrule word-pointer (and pointer-key spaces word-sense (? spaces))
-  (:destructure (ptr * target *)
+(defrule word-pointer (and (valid-pointer-name? pointer-name) spaces word-sense)
+  (:destructure (ptr * target)
 		(list 'wpointer ptr (wrap-sense target))))
 
-(defrule pointer-stmt (and pointer-key #\: spaces word-sense)
+(defrule word-frames (and "frame" spaces (+ integer))
+  (:destructure (* * fs)
+		(cons 'wframes fs)))
+
+(defrule word (and (+ (not whitespace)) (? spaces))
+  (:destructure (cs *)
+		(chars->string cs)))
+
+(defrule lex-id integer)
+
+(defrule integer (and (+ (character-ranges (#\0 #\9))) (? spaces))
+  (:destructure (cs *)
+    (parse-integer (chars->string cs) :radix 10)))
+
+(defrule pointer-stmt (and pointer-name #\: spaces word-sense)
   (:destructure (ptr * * ws)
 		(list 'spointer ptr (wrap-sense ws))))
 
-(defrule pointer-key (+ (not (or #\: spaces)))
+(defrule pointer-name (+ (not (or #\: whitespace)))
   (:function chars->string))
 
 (defrule gloss-stmt (or definition-stmt example-stmt))
 
+(defrule text (+ (not linebreak))
+  (:text t))
+
 (defrule definition-stmt (and "g:" spaces text)
   (:destructure (* * def)
-    (cons 'definition def)))
+		(cons 'definition def)))
 
 (defrule example-stmt (and "e:" spaces text)
   (:destructure (* * e)
 	(cons 'example e)))
 
-(defrule text (+ (not linebreak))
-  (:text t))
+(defrule frame-stmt (and "frame:" spaces (+ (and integer (? spaces))))
+  (:destructure (* * is)
+		(cons 'sframes (mapcar #'first is))))
 
 (defrule comment (and #\# (? spaces) text)
    (:function third)
@@ -105,3 +123,4 @@
   (when (probe-file fp)
     (parse-lex (parse-source (pathname-name fp))
 	       (uiop:read-file-string fp))))
+
