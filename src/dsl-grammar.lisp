@@ -79,7 +79,7 @@
   (:destructure (cs *)
     (parse-integer (chars->string cs) :radix 10)))
 
-(defrule pointer-stmt (and pointer-name #\: spaces word-sense)
+(defrule pointer-stmt (and (valid-pointer-name? pointer-name) #\: spaces word-sense)
   (:destructure (ptr * * ws)
 		(list 'spointer ptr (wrap-sense ws))))
 
