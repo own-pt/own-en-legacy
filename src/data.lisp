@@ -16,6 +16,11 @@
   gloss)
 
 
+(defun synset-pos (s)
+  (destructuring-bind (pos . *)
+      ;; TODO: output should be [nvrsa]
+      pos))
+
 (defun synset-definition (s)
   (first (synset-gloss s)))
 
@@ -32,9 +37,9 @@
 
 
 (defun synset-lexfilenum (s)
-  (destructuring-bind (pos . *)
-      ;; TODO: output should be [nvrsa]
-      pos))
+  (destructuring-bind (pos . lname)
+      ;; TODO: output should be integer
+      lname))
 
 
 (defparameter *wn-sem-relations*	; (map synset relation)

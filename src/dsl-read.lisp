@@ -132,9 +132,11 @@
 
 
 (defun link (itrie)
+  "Take (intermediary) trie whose values are (cons (or synsetp stringp) pointers),
+add the pointers to the appropriate places, and return new trie whose
+values are (or synsetp stringp)."
   (labels
       ((add-ptrs (sy head ptr)
-	 ;; TODO: check if effects are happening
 	 (trivia:match ptr
 	   ((list* 'spointer rel target)
 	    (synset-add-rel sy rel target))
@@ -143,34 +145,64 @@
        (link (k v acc)
 	 (destructuring-bind (s . ptrs) v
 	   (let ((s (if (wn-data::synset-p s) s (first (cl-trie:lookup itrie s)))))
-	     (mapc (curry #'add-ptrs s k) ptrs)))
-	 nil))
-    (trie-fold #'link nil itrie)
-    itrie))
+	     (mapc (curry #'add-ptrs s k) ptrs))
+	   (cl-trie:insert s acc k)
+	   acc)))
+    (trie-fold #'link (new-trie) itrie)))
 
 
+;;; Conversions, see wndb(5WN) for desired output format
 (defun db->wndb (db)
-  nil)
+  (labels
+      ((flush (l p ss)
+	 (let ((synset_cnt (length ss)))
+	   (format nil
+		   "~a ~a ~a ~a~{ ~a~} ~a ~a~{ ~a~}"
+		   (string-downcase l)
+		   p
+		   synset_cnt
+		   ;; TODO: how to calculate this?
+		   0
+		   nil
+		   synset_cnt
+		   ;; TODO: deprecate?
+		   0
+		   ;; TODO: how to calc?
+		   nil)))
+       (f (k v acc)
+	 (destructuring-bind (lemma pos * *) (split-sequence #\Tab k)
+	   (if acc
+	       (destructuring-bind ((l . p) . ss) acc
+		 (if (and (string= l lemma)
+			  (string= p pos))
+		     (list (cons l p) (cons v ss))
+		     (progn
+		       (flush l p ss)
+		       (list (cons lemma pos) v))))
+	       (list (cons lemma pos) v)))))
+    (trie-fold #'f nil db)))
 
 
 (defun db->wndb-data (db)
-  (let ((i 0)
-	;; TODO: add real offsets
-	(ss (trie-fold (lambda (key val acc)
-			 (destructuring-bind (senses *)
-			     (append senses acc)))
-		       nil
-		       db)))
-    (loop
-      for s in ss
-      do
+  ;; order of wndb seems to be that of lexfiles and the order in which
+  ;; the synsets appear in them; we need not follow this, since it
+  ;; doesn't seem to have any reason
+  (labels
+      ((f (s i)
+	 ;;  synset_offset  lex_filenum  ss_type  w_cnt  word  lex_id  [word  lex_id...]  p_cnt  [ptr...]  [frames...]  |   gloss
 	 (format nil
-		 "~a ~a ~a ~X ~:{~a ~a ~}"
-		 i
-		 (wn-data::synset-lexfilenum s)
-		 (wn-data::synset-position s)
-		 (length (synset-senses s)) ;; TODO: ~X upper or lower case?
-		 (mapcar (op (list (car _) (cdr _))) (synset-senses s))
+		 "~a ~a ~a ~X ~:{~a ~a ~}~3,'0d ~{~a~} ~:{~a ~a ~a ~2,'0d~2,'0d ~} ~:[~;~2,'0d~]~:{ + ~2,'0d ~2,'0x~} |~{ ~a~}"
+		 i				; synset offset
+		 (wn-data::synset-lexfilenum s) ; lex_filenum
+		 (wn-data::synset-pos s)	; ss_type
+		 (length (synset-senses s))	; w_cnt
+		 ;; TODO: lex_id should be hexadecimal, is it?
+		 (mapcar (op (list (car _) (cdr _))) (synset-senses s)) ; word lex_id ...
+		 (length (wn-data::synset-rels s)) ; p_cnt
 		 ;; TODO: pointers
-		 ))))
+		 '((#\~ 3984384 n 0 0))	; ptr :: ptr_symbol synset_offset pos source/target
+		 nil 			; frames :: f_cnt
+		 '() 			; frames :: + f_num w_num ...
+		 ;; gloss
+		 (wn-data::synset-gloss s))))))
 
